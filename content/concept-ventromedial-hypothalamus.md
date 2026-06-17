@@ -1,0 +1,60 @@
+---
+title: Ventromedial hypothalamus (VMH)
+type: concept
+created: 2026-05-25
+updated: 2026-05-25
+aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
+---
+
+> [!takeaway] 연구 방향 관점의 핵심
+> VMH = **SF1+ 뉴런 중심의 energy expenditure·glucose·thermogenesis hub** + **sexual dimorphism의 핵심 거점** (ERα 매개). **VMH^BDNF → premotor jaw movement** (Kosse 2024 Nature)가 BDNF/TrkB 비만의 회로 메커니즘. 모체 비만에서 VMH→LH connectivity 강화 → 자손 hyperphagia.
+
+# Ventromedial hypothalamus (VMH)
+
+## 위치
+시상하부 mediobasal, ARC 위쪽. dorsomedial · central · ventrolateral subdivision.
+
+## 핵심 cell types
+| Marker | 기능 |
+|---|---|
+| **SF1 (Steroidogenic factor 1)** | VMH 정체성 marker. Leptin·insulin·T3 반응. Glucose homeostasis·thermogenesis·hepatic lipogenesis (parasym) + BAT (sym). |
+| **BDNF (Brain-derived neurotrophic factor)** ★ | Kosse 2024 Nature — Glutamatergic, ARC AgRP·POMC downstream, **premotor jaw movement 회로**로 homeostatic + hedonic feeding 동시 억제. *BDNF*·*NTRK2* 변이 비만의 회로 기반. |
+| **ERα+** | Estrogen 작용 → 운동·thermogenesis (Correa, van Veen 2020 Nat Metab). |
+| **Tac1·Rprm·Pdyn·Gal·Sst·Hpcal1** | Sexually dimorphic subset (Knoedler 2022 Cell). Rprm 매개 core temp regulation. |
+| **Kiss1** | 생식·대사 통합 (Tena-Sempere). |
+
+## Sexual dimorphism (★)
+- Tac1·Rprm = female-enriched, Pdyn = male-enriched.
+- ERα가 발달 시 female bias 설정; 성체 testosterone이 male maintenance.
+- Rprm ↑ in female → core temp ↑; Rprm ↑ in male → core temp ↓ (반대 효과).
+- VMH = sexually dimorphic regulatory node for EE.
+
+## 회로
+- ARC POMC·AgRP 입력 (직접 + indirect).
+- Output → DMH·PVN·brainstem·spinal cord.
+- **VMH → LH connectivity 강화 in maternal obesity** ([[freire-agulleiro-2026-early-life-programming-of|Freire-Agulleiro 2026]]).
+
+## Thermogenesis 회로
+- SF1 T3 → parasym (liver de novo lipogenesis) + sym (BAT) — autonomic 이중 작용 (Martínez-Sánchez 2017 Cell Metab).
+- AMPK·ceramide 매개 — López lab.
+- 시상하부 SF1 AMPK 결손이 diet-induced obesity 보호 (Seoane-Collazo 2018).
+
+## 임상
+- BDNF/TrkB 변이 → 인간 hyperphagia·비만 (Yeo 2004, Gray 2006).
+- VMH lesion = classic obesity model (Hetherington & Ranson 1939).
+- Kosse 2024 = 회로 메커니즘 해명.
+- **VMH/복내측 DBS**: 비만 표적으로 시도됐으나 식욕 효과 미미·정동 부작용 — [[hamani-2008-memory-enhancement-induced-by|Hamani 2008]](기억 현상·식욕 무변), Wilent 2010(공황). [[parvizi-2022-complex-negative-emotions-induced|Parvizi 2022]]: 인간 복내측 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발 → DBS-for-obesity의 정동 위험.
+
+## 관련 페이지
+- [[concept-arcuate-nucleus]] — upstream.
+- [[concept-lateral-hypothalamus]] — downstream (maternal obesity 강화).
+- [[concept-melanocortin-system]] — MC3R/MC4R 매개.
+- [[concept-hypothalamic-ampk]] — SF1 AMPK 회로.
+- [[concept-paraventricular-nucleus]] · [[concept-dorsomedial-hypothalamus]] — 인근.
+- [[freire-agulleiro-2026-early-life-programming-of]] — programming.
+- [[littleton-2025-from-identity-to-function-unveiling]] — atlas (VMH heterogeneity).
+- [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
+- [[concept-deep-brain-stimulation]] — VMH를 표적으로 시도한 침습 DBS hub.
+- [[hamani-2008-memory-enhancement-induced-by]] — 복측 시상하부 DBS(기억 증강 우연 발견).
+- [[parvizi-2022-complex-negative-emotions-induced]] — 복내측 시상하부 자극의 음성정동(Halpern).
+- [[overview-appetite-energy-homeostasis]] — 큰 그림.
