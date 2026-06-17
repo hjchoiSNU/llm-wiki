@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ko-KR",
-    baseUrl: "llm-wiki.example.com", // TODO: 배포 후 실제 도메인으로 교체
+    baseUrl: "hjchoiSNU.github.io/llm-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
