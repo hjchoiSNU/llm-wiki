@@ -10,6 +10,12 @@
 
 ---
 
+## 2026-06-21 — other (식락학 Ch 20 완성본: 일반 독자용 재작성)
+
+사용자 요청: Ch 20 독자가 다양한 학부 전공이므로 "식품영양학도" 표현을 제거하고 일반 독자층용으로 재작성(쉬운 사례는 유지). `식락학 최형진 Ch 20 (완성본).docx`의 해당 12개 단락 교체 — 도입 제목 "이 장을 읽는 독자에게", 도입부 "전공이 무엇이든…", 20.9 "이론에서 일상으로"/"일상과 여러 분야에 적용", 사례 문단 "일상의 사례로 정리해 보자" 등. '식품영양(학도)' 잔여 0 확인. [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] 메모 갱신.
+
+---
+
 ## 2026-06-21 — other (식락학 Ch 20 합본 완성본 docx 작성)
 
 사용자 요청으로 원본 + 보강을 합치고 신규 내용을 추가한 **합본 완성본** 작성: `식락학 최형진 Ch 20 (완성본).docx`(프로젝트 루트, raw/ 밖; 약 3.3만 자, 41개 절). 신규: ①식품영양학도 도입/적용(처음·끝, 사례 포함) ②20.3.6 엔도르핀↔liking ③20.4.6 도파민 논쟁(RPE/유인현저성/vigor)·wanting=motivation·vigor dopamine ④20.7 NMPU 통합(Pleasure=liking·Motivation=wanting) + 오늘의 liking이 RL로 내일의 wanting을 만드는 기전([[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025 TiCS]] primary/proxy/secondary 인용). 보강 5블록을 본문 통합.

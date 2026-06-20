@@ -73,7 +73,7 @@ year: 2026
 
 ## 합본 완성본 (2026-06-21)
 원본 + 보강을 합치고 신규 내용을 추가한 **완성본 docx** 작성: `식락학 최형진 Ch 20 (완성본).docx`(프로젝트 루트, raw/ 밖; 약 3.3만 자, 41개 절). 추가 신규 절·내용:
-- **들어가기 전에 / 20.9** — 식품영양학도 대상 도입·적용(관능검사 vs 갈망 측정, 단서 관리, 제품 설계, 정밀영양; 일상 사례).
+- **들어가기 전에 / 20.9** — 다양한 학부 전공의 일반 독자 대상 도입·적용(관능검사 vs 갈망 측정, 단서 관리, 제품 설계, 정밀영양; 쉬운 일상 사례). "식품영양학도" 표현 없이 일반 독자층용으로 작성.
 - **20.3.6 엔도르핀과 ‘좋아함’** — 내인성 오피오이드(β-endorphin·enkephalin)→MOR이 liking 매개; naltrexone 인간 증거(Korb 2020)·POMC β-endorphin paradox.
 - **20.4.6 도파민의 여러 얼굴** — RPE(Schultz 1997) vs 유인 현저성([[berridge-2023-separating-desire-from-prediction-of|Berridge 2023]]) vs 활력(vigor) 논쟁([[adam-2026-dopamine-takes-hit-how-neuroscience|Adam 2026]]; Hamid 2016; Mohebi 2019; Jeong 2022). wanting=**motivation·vigor dopamine** 대응.
 - **20.7 NMPU 통합** — Pleasure=‘좋아함’, Motivation=‘갈망’ 대응 + **오늘의 liking이 RL로 내일의 wanting을 만드는 기전**([[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025 TiCS]]의 primary/proxy/secondary reward 위계 인용; [[concept-need-motivation-pleasure-utility|NMPU]] forward cycle).
