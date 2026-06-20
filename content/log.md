@@ -12,7 +12,7 @@
 
 ## 2026-06-21 — other (최형진 소속 정정)
 
-사용자 정정: 소속은 생화학교실이 아니라 **해부학교실·뇌인지과학과**. [[person-choi-hyung-jin]](소속 섹션·callout에서 Biomedical Sciences/생화학교실 제거, 해부학교실·뇌인지과학과로 정정·한글 병기)·[[index.md]](인물 한 줄 소개)·[[person-kim-meelim]](lab 소속 표기) 수정. tomiyama-2019의 '생화학'은 일반 용어(소속 아님)라 유지. raw/ 미수정.
+사용자 정정: 소속 한글명 오류 수정. **해부학교실 · 의과학과(Department of Biomedical Sciences) · 뇌인지과학과(Brain & Cognitive Sciences)**. (기존 'Department of Biomedical Sciences (생화학교실)'의 한글이 오역 → '의과학과'로 정정해 유지.) [[person-choi-hyung-jin]](소속 섹션·callout)·[[index.md]](인물 한 줄)·[[person-kim-meelim]](lab 소속) 수정. tomiyama-2019의 '생화학'은 일반 용어(소속 아님)라 유지. raw/ 미수정.
 
 ---
 

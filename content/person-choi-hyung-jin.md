@@ -7,13 +7,14 @@ aliases: [최형진, Hyung Jin Choi, HJ Choi]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **본 wiki 사용자.** 서울대학교 의과대학 해부학교실, 뇌인지과학과(Brain & Cognitive Sciences) 교수. 연구 lab은 **시상하부 식욕 회로** 중심으로 (1) 통합 이론 framework (Need-Motivation-Pleasure-Utility), (2) DMH GLP-1R cognitive satiation, (3) LH 세포 다양성, (4) 비만 임상 phenotyping (DTx·electroceutical), (5) 비인간영장류로의 번역까지 다층 연구. 이 wiki의 ingest 논문 14편 중 4편이 본인 senior author.
+> **본 wiki 사용자.** 서울대학교 의과대학 해부학교실, 의과학과, 뇌인지과학과(Brain & Cognitive Sciences) 교수. 연구 lab은 **시상하부 식욕 회로** 중심으로 (1) 통합 이론 framework (Need-Motivation-Pleasure-Utility), (2) DMH GLP-1R cognitive satiation, (3) LH 세포 다양성, (4) 비만 임상 phenotyping (DTx·electroceutical), (5) 비인간영장류로의 번역까지 다층 연구. 이 wiki의 ingest 논문 14편 중 4편이 본인 senior author.
 
 # Choi Hyung-jin (최형진)
 
 ## 소속
 서울대학교 의과대학:
 - Department of Anatomy and Cell Biology (해부학교실)
+- Department of Biomedical Sciences (의과학과)
 - Department of Brain and Cognitive Sciences (뇌인지과학과)
 - Neuroscience Research Institute
 - Wide River Institute of Immunology
