@@ -5,7 +5,7 @@ created: 2026-04-29
 updated: 2026-06-17
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
-
+	
 > [!takeaway] 연구 방향 관점의 핵심
 > NPY/AgRP 뉴런은 **식욕을 켜는 가장 강력한 known 회로 모듈** — 광유전 활성만으로도 즉시 폭식 유도. Ghrelin·단식의 1차 표적이며, leptin이 억제. 섭식 회로 manipulation 실험의 표준 entry point.
 >

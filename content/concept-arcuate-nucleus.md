@@ -92,6 +92,8 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[johansen-2025-brain-control-of-energy]] — beyond AgRP/POMC (BNC2/TRH·PNOC·OXTR) ARC 분류 종합 (Cell 2025).
 - [[stuber-2025-the-neurobiology-of-overeating]] — homeostatic 회로(AgRP/POMC·BNC2·PVH MC4R) + GLP-1R 작용기전 (Neuron 2025).
 - [[littleton-2025-from-identity-to-function-unveiling]] · [[concept-hypomap]] — atlas.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 ARC 4 소구역·AGRP/POMC/KISS1/GHRH 마우스 1:1 대응·QFRP/TAC1 인간 상향 (공간전사체, preprint 2026).
+- [[woods-2016-regulation-of-the-motivation]] — ARC POMC/AgRP homeostatic 회로를 섭식 동기 통합 틀에 정리(adiposity·satiation 신호 crosstalk) (book chapter 2016).
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제와 GLP-1–GIP가 ARC FOS는 동일하나 POMC 활성만 차별적 (Nature 2026).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 부위별 활성 리뷰; ARC를 BBB-투과 GLP-1R 1차 표적으로 정리 (APEM 2025, 본 lab).
 - [[walker-2026-a-hypothalamic-circuit-for]] — ARC^AgRP가 받는 PVH^Sim2 흥분성 입력(NPY⁻)이 미래 결핍 예측 cue로 단식 초기 빠른 AgRP 활성을 매개 (Neuron 2026, Lowell lab).

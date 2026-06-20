@@ -116,6 +116,12 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - **Electroceuticals** (tDCS·rTMS·TIS): dlPFC top-down 제어 강화 ([[lee-2025-hijacked-brain-modern-obesity-cue]]).
 
 ## 관련 페이지
+- [[concept-liking-wanting]] — 도파민은 ‘갈망(wanting)’을 매개하되 ‘좋아함(liking)’에는 불필요; 보상 이중 해리 hub(식락학 Ch 20).
+- [[concept-incentive-sensitization]] — 중변연계 도파민 감작이 ‘갈망’을 ‘좋아함’과 무관하게 폭주시키는 중독·과식 기전.
+- [[concept-hedonic-hotspot]] — 도파민 ‘갈망’ 회로와 대조되는 오피오이드 ‘좋아함’ 증폭 부위.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 hub의 ‘갈망’ 축을 교재 narrative로 정리한 사용자 Ch 20.
+- [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포의 좋아함–갈망 분리(세포 수준).
+- [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도가 중변연계(VTA·NAc)를 동원해 ‘갈망’을 표적에 집중.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 이 hub를 'reward 너머 에너지항상성'으로 확장한 통합 리뷰(DA ensembles, TEM 2026).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전 종합.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Motivation·Pleasure 분리.
@@ -156,4 +162,5 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[person-halpern-casey]] — 인간 NAc/OFC reward 회로를 침습 전기생리로 직접 측정·자극.
 - [[shivacharan-2022-pilot-study-of-responsive-nucleus]] — 인간 NAc 저주파 biomarker로 LOC eating closed-loop 차단 (Nat Med 2022).
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — OFC–NAc reward 루프의 강박(OCD) biomarker (Cell 2026).
+- [[berridge-2023-separating-desire-from-prediction-of]] — 도파민='원함'(incentive salience) 분자이며 예측·'좋아함'과 분리됨; TD/예측 RL 도파민론에 대한 반론 (TiCS 2023).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -108,4 +108,5 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — 내수용(미주) tone이 보상·동기 DA를 형성한다는 인과 증거 (Sci Adv 2026).
 - [[concept-insula]] — 내수용감각의 피질 허브; 인간 음식 cue 부호화 (Halpern 2021).
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 섬엽이 음식 anticipation을 선제적으로 평가 (Nat Commun 2021).
+- [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — dmINS↔BNST 내수용 축; 스트레스가 인간 BNST 내수용·보상 연결성을 gating (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — 통합 hub.

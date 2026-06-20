@@ -110,6 +110,8 @@ flowchart LR
 - [[concept-primary-reward-signals]] — proxy(구강 taste) vs primary(post-oral) reward 정의.
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer(sucralose 논리)·fat 평행 경로.
 - [[concept-need-motivation-pleasure-utility]] — Pleasure·Motivation·Utility 축·liking/wanting.
+- [[concept-liking-wanting]] — 구강 지방 맛이 ‘좋아함’·‘갈망’을 분리 구동하는지의 개념 토대(식락학 Ch 20).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 제안이 backbone인 사용자 식락학 Ch 20.
 - [[concept-insula]] — orosensory(1차 미각) 피질 hub.
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 insula 음식 cue 선제 부호화.
 - [[concept-basolateral-amygdala]] — post-ingestive 영양가치(Utility) hub.

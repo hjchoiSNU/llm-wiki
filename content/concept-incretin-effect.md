@@ -90,4 +90,6 @@ GLP-1·GIP 둘 다 **혈당이 낮으면 인슐린 분비 자극 안 함** → �
 - [[namkoong-2017-central-administration-of-glp-1]] — GLP-1·GIP 중추 병용 시너지(subeffective 용량 단독 무효, 병용 식욕↓)를 처음 입증한 사용자 lab paper (BBRC 2017).
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1+GIP co-agonist(twincretin)·triagonist 등 incretin 병용 전략을 종합한 사용자 lab editorial (JOMES 2017).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 리뷰; tirzepatide 등 incretin 다중작용제의 중추 기전과 약물 발전사 정리 (APEM 2025, 사용자 lab).
+- [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 인크레틴 기반 약물(dual·경구 소분자·amylin 복합) 임상 hub.
+- [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — amylin+GLP-1 복합 CagriSema(REIMAGINE 3) phase 3a.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

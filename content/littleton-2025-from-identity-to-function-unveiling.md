@@ -107,6 +107,7 @@ HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature
 
 ## 관련 페이지
 - [[concept-hypomap]] — mouse + human atlas 자세히.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(독립 group, Jun Yan lab); DMH 비보존·Ltu 인간특이·GWAS niche (preprint 2026).
 - [[concept-arcuate-nucleus]] — 본 paper 핵심 영역.
 - [[concept-paraventricular-nucleus]] — PVN MC4R·OXT·CRH.
 - [[concept-ventromedial-hypothalamus]] — VMH^BDNF / SF1.

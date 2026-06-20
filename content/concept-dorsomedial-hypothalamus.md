@@ -42,9 +42,10 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - **BAT thermogenesis** — sympathetic output (DMH→raphe→BAT).
 - **Sex-specific thermogenic predator response** (Jovanovic 2023).
 
-## 인간 atlas (Tadross 2025)
+## 인간 atlas (Tadross 2025 · Yang 2026)
 - 마우스보다 cell type **더 heterogeneous** in DMH.
 - 32% 인간-specific cluster (cross-species 비교 시).
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular|Yang 2026]] 공간전사체: **마우스 DMH supertype이 인간 DMH에 신뢰성 있게 매핑되지 않음 → DMH 종간 비보존** ★ — 마우스 DMH 발견의 인간 번역 시 주의.
 
 ## 사용자 lab 함의 (★)
 - **사용자 lab 핵심 회로** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025 DMJ]]): DMH GLP-1R+ cognitive satiation.
@@ -62,6 +63,7 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 사용자 lab 1차.
 - [[faour-2025-emerging-role-of-agrp]] — circadian AgRP.
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas + Webster 2024 RAMPANT.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체; DMH 종간 비보존 (preprint 2026).
 - [[johansen-2025-brain-control-of-energy]] — beyond AgRP/POMC·DVC·약물 종합 (Cell 2025).
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — DMH/BMH GLP1R = homeostatic(SD) 분업 (CeA=hedonic과 대비, Nature 2026).
 - [[proposal-dmh-glp1r-human-imaging]] — DMH GLP-1R cognitive satiation을 인간 7T fMRI로 검증하는 연구계획서.

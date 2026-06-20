@@ -29,6 +29,8 @@ updated: 2026-06-01
 - OFC–NAc–VeP 축은 가치 계산(피질)→행동 개시(선조체)의 핵심 reward 루프. Halpern의 식이 NAc 연구([[concept-nucleus-accumbens]])와 강박 OFC 연구는 **같은 회로의 다른 진입점**이며, closed-loop 신경조절([[concept-responsive-neurostimulation]])의 공통 표적.
 
 ## 관련 페이지
+- [[kringelbach-2015-the-pleasure-of-food]] — mid-anterior OFC가 음식의 **주관적 쾌락 경험**을 부호화(selective satiety); anteromedial OFC는 ‘좋아함’ [[concept-hedonic-hotspot|쾌락 핫스폿]].
+- [[concept-liking-wanting]] — OFC가 ‘좋아함’ 피질 핫스폿·주관 쾌락 부호화에 관여(식락학 Ch 20).
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — amOFC low-gamma OCD biomarker 원전.
 - [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 환자에서 우 OFC 음식반응↓ ↔ 무질서 섭식태도·억제조절 결손 상관(사용자 lab).
 - [[concept-nucleus-accumbens]] — OFC의 주 투사 대상; 강박 자극 표적(NAc-VeP).
@@ -36,3 +38,5 @@ updated: 2026-06-01
 - [[person-halpern-casey]] — 인간 OFC/OCD 침습 연구 주도.
 - [[concept-dopamine-reward-system]] — OFC가 가치를 공급하는 mesolimbic reward 회로.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — OFC=중립 cue·환경 구조 학습 vs **LH-VTA**=보상 근접 예측자 편향의 **긴장/분업**(둘 다 VTADA 입력); 약물이 이 균형을 병적 학습으로 이동 (Neuron 2026).
+- [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — BNST→OFC 하향조절 강도가 주관적 스트레스를 예측(인간 7T DCM, Nat Commun 2026); BNST가 OFC에 valence 정보 relay.
+- [[odoherty-2016-multiple-systems-for-the-motivational]] — vmPFC가 goal-value·chosen-value·RPE 부호화; goal-directed/habitual/Pavlovian arbitration (book chapter 2016).

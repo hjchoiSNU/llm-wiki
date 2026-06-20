@@ -34,3 +34,4 @@ stress와 비만의 양방향 경로(인지·행동·생리·생화학)와 weigh
 - [[concept-ghrelin]] · [[concept-leptin]] · [[concept-npy-agrp-neurons]] — stress 매개 호르몬·NPY.
 - [[concept-loss-of-control-eating]] — stress eating.
 - [[gundersen-2015-food-insecurity-and-health]] — cortisol→중심성 비만 인구 근거.
+- [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] · [[concept-bed-nucleus-stria-terminalis]] — 급성 스트레스가 인간 BNST→NAc/OFC 보상회로를 gating(stress→reward 민감화의 인간 effective-connectivity 증거).

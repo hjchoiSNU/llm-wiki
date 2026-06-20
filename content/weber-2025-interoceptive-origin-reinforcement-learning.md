@@ -122,3 +122,4 @@ journal: "Trends Cogn Sci 29(9):840–854"
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — RL 분류와 임상 type 매핑.
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; post-ingestive 내수용 신호의 보상 변환(primary reward)을 인체에서 시간분해로 포착 (Cell Metab 2019).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — 내수용(미주) tone이 mesolimbic DA를 gating; interoception→reward 변환의 인과 회로 (Sci Adv 2026).
+- [[redish-2016-the-computational-complexity-of-valuation]] — value/prediction 단일환원 거부의 계산 관점(가치 다중성·다중 의사결정계) — 같은 가족.

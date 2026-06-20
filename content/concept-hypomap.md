@@ -73,6 +73,7 @@ HypoMap·atlas 시대의 발견:
 - [[concept-pomc-neurons]] · [[concept-npy-agrp-neurons]] — heterogeneity.
 - [[concept-ghost-pomc-neurons]] — atlas-defined subtype.
 - [[littleton-2025-from-identity-to-function-unveiling]] — 본 atlas review.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA); DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC atlas integration.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

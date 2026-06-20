@@ -87,6 +87,7 @@ ORCID: 0000-0003-0593-6978
 ### 식락학(Food Hedonology) 교재 프로젝트
 - [[overview-sikrakhak-book-project]] — 8인 공저 교재(6 Part·28 챕터). 사용자 담당 4개 챕터: **Ch 18**(호르몬)·**Ch 20**(opioid·dopamine liking/wanting)·**Ch 24**(음식 갈망·중독)·**Ch 25**(비만 근본 치료).
 - [[overview-sikrakhak-ch18-appetite-hormones]] — Ch 18 정리본(그렐린·렙틴·인슐린·GLP-1·CCK). [[overview-appetite-energy-homeostasis]] 및 ingest 논문들이 직접 소스.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 정리본(오피오이드 ‘좋아함’ vs 도파민 ‘갈망’; [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]).
 - Food Hedonology Society(가제) 출범 준비 중; 이화여대 K-MOOC <식락학> 교과목 2027 개발 승인.
 
 ## 임상·지도

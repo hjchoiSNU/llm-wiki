@@ -49,7 +49,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 ### Part V. 호르몬과 분자 신호 (Hormones and Molecular Signals)
 - **Ch 18. 식욕·포만 호르몬: 그렐린·렙틴·인슐린·(GLP-1)·CCK — 최형진** → [[overview-sikrakhak-ch18-appetite-hormones]] ✅ *(정리 완료)*
 - Ch 19. 엔도칸나비노이드와 음식 즐거움 — 이성준
-- **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "갈망(wanting)" — 최형진** → [[concept-dopamine-reward-system]]·[[salamone-2012-mysterious-motivational-functions-mesolimbic]]
+- **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "갈망(wanting)" — 최형진** → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ *(정리 완료)* · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]
 - Ch 21. 호르몬 불균형과 쾌락적 섭식(비만으로의 생리·행동 기전) — 이성준
 - Ch 22. 인슐린 저항성과 음식 보상 — 이성준
 
@@ -65,18 +65,20 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 | Ch | 제목 | wiki 연계 |
 |---|---|---|
 | 18 | 식욕·포만 호르몬 | [[overview-sikrakhak-ch18-appetite-hormones]] · [[concept-ghrelin]]·[[concept-leptin]]·[[concept-glp-1]]·[[concept-cck]] |
-| 20 | 오피오이드·도파민(liking/wanting) | [[concept-dopamine-reward-system]]·[[salamone-2012-mysterious-motivational-functions-mesolimbic]]·[[concept-nucleus-accumbens]] |
+| 20 | 오피오이드·도파민(liking/wanting) | [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]·[[concept-dopamine-reward-system]] |
 | 24 | 음식 갈망과 중독 | [[concept-food-addiction]]·[[lee-2019-food-craving-seeking-and]]·[[concept-loss-of-control-eating]] |
 | 25 | 비만의 근본적 치료 | [[lee-2025-hijacked-brain-modern-obesity-cue]]·[[concept-digital-therapeutics]]·[[concept-deep-brain-stimulation]] |
 
 ## 프로젝트 현황·마일스톤
-- **출판사**: 수학사 선정, 2026년 말 계약 논의. 챕터당 10p 이내·그림 3–5개(AI 초안 후 출판사 통일 제작). Reference 포맷=*Food Chemistry* 저널. 용어 통일=*Neurogastronomy* 번역 인덱스.
+- **출판사**: 수학사 선정, 2026년 말 계약 논의. 챕터당 10p 이내·그림 3–5개(AI 초안 후 출판사 통일 제작). Reference 포맷=*Food Chemistry* 저널. **용어 통일=*Neurogastronomy* 번역 인덱스 → [[reference-sikrakhak-glossary]]**(표준 용어 192개·표기 스타일; 모든 챕터 집필 1차 기준).
 - **일정**: 격월 회의, 1챕터/2개월(2026.02 킥오프 → 2026.12 가제본·계약). 챕터 말미 초청 전문가 코멘트 박스.
 - **학회**: **Food Hedonology Society(푸드 헤도놀로지 연구회, 가제)** 출범 준비. 발족 컨퍼런스 2026년 11월 초(이화여대 ECC 안), 집필진 8인 + 초청 연사. 식품기업(CJ·삼양·대상 등) 참여 추진.
 - **공동 강의**: 이화여대 K-MOOC **<식락학-맛의 즐거움에 대한 과학적 이해>** 교과목 2027년 10주차 개발 최종 승인(3년 개설, 타대학 강사 특강 참여).
 
 ## 관련 페이지
+- [[reference-sikrakhak-glossary]] — ★ 교재 표준 용어집·표기 스타일(Neurogastronomy 번역 인덱스); 전 챕터 집필 시 용어·표기 통일 기준.
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 Ch 18 정리본(프로젝트 첫 산출물).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20 정리본(둘째 산출물: 오피오이드·도파민 / liking·wanting).
 - [[person-choi-hyung-jin]] — 사용자(Ch 18·20·24·25 담당).
 - [[overview-appetite-energy-homeostasis]] — 사용자 담당 챕터들의 과학적 backbone(본 wiki spine).
 - [[concept-need-motivation-pleasure-utility]] — Ch 14·기호 vs 항상성 섭식의 이론 framework.
