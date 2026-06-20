@@ -12,7 +12,7 @@ aliases: [김미림, Meelim Kim, M Kim]
 # Kim Meelim (김미림)
 
 ## 소속
-서울대학교 의과대학 [[person-choi-hyung-jin|최형진]] lab (생화학교실/Brain & Cognitive Sciences) — 비만 DTx·디지털 표현형 연구.
+서울대학교 의과대학 [[person-choi-hyung-jin|최형진]] lab (해부학교실/뇌인지과학과) — 비만 DTx·디지털 표현형 연구.
 
 ## 연구 주제
 - **Digital therapeutics (DTx)**: 소프트웨어 기반 근거중심 행동 개입으로 비만·섭식 문제 치료.
