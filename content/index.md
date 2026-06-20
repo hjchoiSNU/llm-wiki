@@ -327,7 +327,7 @@ _(아직 페이지 없음)_
 
 연구자 페이지. 파일명 `person-*.md`.
 
-- [[person-choi-hyung-jin]] — 사용자 본인. 서울대 해부학교실·뇌인지과학과. 시상하부 식욕 회로·NMPU·DMH GLP-1R·LH·DTx.
+- [[person-choi-hyung-jin]] — 사용자 본인. 서울대 해부학교실·의과학과·뇌인지과학과. 시상하부 식욕 회로·NMPU·DMH GLP-1R·LH·DTx.
 - [[person-kim-meelim]] — 사용자 lab DTx·디지털 표현형 제1저자. 다차원 CBT-DTx·체중인지 역학.
 - [[person-friedman-jeffrey]] — Leptin (1994) + BNC2 (2024) 발견자. Rockefeller HHMI.
 - [[person-lopez-miguel]] — Hypothalamic AMPK / BAT / sEV drug. Santiago de Compostela.
