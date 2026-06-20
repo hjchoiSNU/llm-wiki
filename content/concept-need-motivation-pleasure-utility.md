@@ -162,6 +162,11 @@ REMD 2026 special issue 7편 ingest 이후 NMPU 회로 매핑 갱신:
 eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적용 가능. 마우스 회로 실험 + 인간 fMRI + 임상 phenotyping의 공통 언어.
 
 ## 관련 페이지
+- [[concept-liking-wanting]] — Pleasure=‘좋아함(liking)’·Motivation=‘갈망(wanting)’ 대응; Berridge 이중 해리가 NMPU 2축의 외부 정렬(식락학 Ch 20).
+- [[concept-hedonic-hotspot]] — Pleasure 축(‘좋아함’)의 오피오이드 분자 substrate.
+- [[concept-incentive-sensitization]] — Motivation 축(‘갈망’)의 병적 과활성 기전.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — NMPU Pleasure·Motivation 축을 교재 narrative로 직조한 사용자 Ch 20.
+- [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포 = Pleasure·Motivation 분리의 세포 substrate.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = NMPU의 Motivation·Utility 축에 분산 회로 substrate 제공 (TEM 2026).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — 1차 reference.
 - [[concept-npy-agrp-neurons]] — Need 회로.
@@ -219,4 +224,8 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; wanting(motivation)이 즉시 orosensory DA와 양의 상관·post-ingestive(utility) DA와 음의 상관 — wanting vs 영양가치 분리의 인체 증거 (Cell Metab 2019).
 - [[concept-central-amygdala-glp1r]] — Pleasure·Motivation 축에 약리 진입하는 hedonic GLP-1R gate(CeA^Glp1r→VTA→NAc).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — Motivation/Pleasure 축에 body→brain(미주 tone) 입력을 추가하는 인과 증거 (Sci Adv 2026).
+- [[overview-behavioral-neuroscience-of-motivation-2016]] — "cost-benefit arbiter→direction&vigor"·다중 의사결정계 arbitration이 NMPU와 동형인 편저서 hub (Simpson & Balsam 2016).
+- [[woods-2016-regulation-of-the-motivation]] — homeostatic↔hedonic crosstalk·예측적 항상성(섭식 동기의 생리 토대).
+- [[odoherty-2016-multiple-systems-for-the-motivational]] — 인간 goal-directed/habitual/Pavlovian 분해 + PIT·arbitration(NMPU 인간 번역 틀).
+- [[redish-2016-the-computational-complexity-of-valuation]] — 가치의 다중성(단일 common currency 거부)·craving·CM(계산 관점).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -171,4 +171,6 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[li-2022-hypothalamic-deep-brain-stimulation]] — LH orexin 파형 의존 항불안(마우스).
 - [[person-whiting-donald]] — LHA DBS for obesity 임상 주도.
 - [[talakoub-2017-lateral-hypothalamic-activity-indicates]] — 인간 LHA LFP: hunger=beta/gamma, satiety=alpha; 8 Hz 자극이 fullness 유발(craving 불변).
+- [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — BNST→LH GABAergic 투사가 포만 상태에서도 기호식 섭취 구동(Jennings 2013); 인간 BNST stress 매핑.
+- [[woods-2016-regulation-of-the-motivation]] — LH를 "hunger center"가 아닌 항상성·보상 통합 hub로 정리(orexin→VTA→NAc·LH→PVT) (book chapter 2016).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -83,4 +83,5 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - [[concept-lateral-hypothalamus]] — LH GLP-1R reward·feeding.
 - [[person-choi-hyung-jin]] — 교신저자.
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — 본 리뷰의 ARC POMC cAMP-PKA 가지를 구체화: POMC PKA→α-MSH→MC4R(DMV)→장 SGLT1↓; 세마글루타이드 혈당강하가 이 경로 의존 (Nat Commun 2026, Min-Seon Kim).
+- [[overview-next-gen-incretin-obesity-drugs-2026]] — 본 리뷰가 정리한 뇌 GLP-1R 약리가 2026 임상(survodutide·경구 소분자·CagriSema)으로 구현된 모음 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 약리·뇌기전).

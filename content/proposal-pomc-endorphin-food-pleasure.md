@@ -109,6 +109,9 @@ flowchart LR
 - [[jouque-2025-beyond-satiety-unraveling-the]] — β-endorphin paradox·Minère 2025 *Science* 수록 원전.
 - [[concept-melanocortin-system]] — POMC 산물·MC4R/MOR 분기 backbone.
 - [[concept-need-motivation-pleasure-utility]] — Pleasure 축·liking/wanting·약물 표적 매핑.
+- [[concept-liking-wanting]] — 본 제안의 핵심 개념(오피오이드 ‘좋아함’ vs 도파민 ‘갈망’ 인과 분리).
+- [[concept-hedonic-hotspot]] — β-endorphin/MOR가 작용하는 ‘좋아함’ 증폭 부위.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 제안이 backbone인 사용자 식락학 Ch 20.
 - [[concept-appetitive-consummatory-phases]] — liking(consummatory) vs wanting(appetitive) 행동 분리 framework.
 - [[concept-primary-reward-signals]] — proxy(taste/oral) vs primary(post-oral) reward — Pleasure 정의 보조.
 - [[concept-nucleus-accumbens]] — Pleasure 축 핵심 표적(opioid hedonic).

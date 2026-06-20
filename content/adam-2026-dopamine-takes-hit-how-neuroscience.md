@@ -78,4 +78,5 @@ journal: "Nature 651:572–574 (Feature)"
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]], [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]], [[hamid-2016-mesolimbic-dopamine-signals-value-work]], [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]], [[gershman-2024-explaining-dopamine-prediction-errors-beyond]], [[lee-2024-feature-specific-prediction-error]], [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]], [[huang-2024-dopamine-mediated-interactions-between-short]], [[hjort-2026-prefrontal-to-ventral-tegmental-area]], [[rice-2019-closing-in-on-what-motivates]] — 논쟁의 핵심 1차 자료들 (Hjort 2026은 meta-RPE 대안, Rice 2019는 firing≠release 균열).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; DA를 'nutritional sensor'로 보는 관점 — orosensory vs post-ingestive 시간창 분리 (Cell Metab 2019).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — DA를 말초 내수용 신호에 의존하는 'interoceptive gating' 관점으로 재정의 (Sci Adv 2026).
+- [[berridge-2023-separating-desire-from-prediction-of]] — 도파민='갈망(incentive salience)'이며 예측가치로 환원 불가; TD/예측처리 진영에 대한 동기-기반 반론 (TiCS 2023).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

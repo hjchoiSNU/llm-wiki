@@ -53,6 +53,7 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - [[concept-paraventricular-nucleus]] · [[concept-dorsomedial-hypothalamus]] — 인근.
 - [[freire-agulleiro-2026-early-life-programming-of]] — programming.
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas (VMH heterogeneity).
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 VMH 분자 정의 + 고요산혈증 GWAS niche(VEGFA·NFAT5) (공간전사체, preprint 2026).
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[concept-deep-brain-stimulation]] — VMH를 표적으로 시도한 침습 DBS hub.
 - [[hamani-2008-memory-enhancement-induced-by]] — 복측 시상하부 DBS(기억 증강 우연 발견).

@@ -35,3 +35,4 @@ updated: 2026-06-01
 - [[person-halpern-casey]] — 인간 식이 피질 매핑 주도.
 - [[concept-lateral-hypothalamus]] · [[concept-basolateral-amygdala]] · [[concept-nucleus-accumbens]] — 섬엽 입력원/연결.
 - [[concept-hippocampus-feeding]] — 같은 milkshake/sweet-fat 패러다임 계열의 인간 식이 cortex 연구.
+- [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — dorsal mid-insula(dmINS)↔BNST 상호 연결; 스트레스가 양방향 effective connectivity를 ↓ (인간 7T, Nat Commun 2026).

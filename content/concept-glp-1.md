@@ -199,4 +199,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 lixisenatide fMRI; lean/obese T2DM의 food cue 뇌활성을 GLP-1RA가 차별적 조절 (DMJ 2019, 사용자 lab).
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1+GIP/glucagon/PYY/CCK/leptin 등 병용요법 종합 editorial (JOMES 2017, 사용자 lab).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 작용 종합 리뷰; 세포 내 신호경로·부위별 활성·약물 발전사 정리 (APEM 2025, 사용자 lab).
+- [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 비만·대사 약물 임상(survodutide·elecoglipron·aleniglipron·CagriSema) hub.
+- [[le-roux-2026-survodutide-once-weekly-for]] · [[kaplan-2026-survodutide-in-adults-with]] — glucagon/GLP-1 dual agonist phase 3(비만·MASLD).
+- [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-oral-small-molecule-glp]] — 경구 소분자 GLP-1RA phase 2.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

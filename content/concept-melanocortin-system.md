@@ -67,5 +67,7 @@ aliases: [melanocortin pathway, POMC-MC4R system]
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity.
 - [[faour-2025-emerging-role-of-agrp]] — AgRP heterogeneity.
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — 임상.
+- [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — amylin(cagrilintide)+GLP-1 복합 CagriSema; amylin·MC 상보적 포만 회로 임상(REIMAGINE 3).
+- [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 비만약 hub.
 - [[concept-hippocampus-feeding]] — MCH(LH orexigenic neuropeptide)는 melanocortin 계열과 명칭만 유사할 뿐 별개 시스템(대비; Halpern 2023 인간 dlHPC).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -134,6 +134,9 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 3. NMPU framework 같은 분해 모델 부재 — "motivation" 성분 자체의 내부 분해가 모호.
 
 ## 관련 페이지
+- [[concept-liking-wanting]] — DA=동기/노력(‘갈망’), 쾌락(‘좋아함’) 아님; 본 논문이 Berridge wanting/liking 해리와 수렴(식락학 Ch 20).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 논문의 effort 논지를 §20.4.3에 정리한 사용자 Ch 20.
+- [[concept-incentive-sensitization]] — ‘갈망’ 회로(도파민)의 병적 과활성.
 - [[concept-dopamine-reward-system]] — DA 회로 (effort 측면 보강).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전의 현재 (Calipari 등).
 - [[concept-need-motivation-pleasure-utility]] — Motivation 성분 신경기질.

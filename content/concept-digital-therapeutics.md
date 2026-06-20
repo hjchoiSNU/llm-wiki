@@ -41,6 +41,7 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[kim-2021-mental-health-of-people]] — DTx 표적 인구의 심리 부담.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 5 표현형 × DTx·electroceutical 개인화.
 - [[concept-need-motivation-pleasure-utility]] — 행동변화의 이론 lens.
+- [[redish-2016-the-computational-complexity-of-valuation]] — contingency management가 willingness-to-pay→revealed-preference로 valuation을 전환; episodic future thinking·구체 리마인더로 효과↑ — DTx 설계의 계산 원리.
 - [[person-kim-meelim]] · [[person-choi-hyung-jin]] — DTx 라인 저자.
 - [[concept-responsive-neurostimulation]] — electroceutical 자매 modality: 폐루프 신경자극(인간 NAc rDBS).
 - [[person-halpern-casey]] — neuromodulation 임상의 인간 reward 회로 프로그램.

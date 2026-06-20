@@ -10,6 +10,105 @@
 
 ---
 
+## 2026-06-21 — other (식락학 Ch 20 합본 완성본 docx 작성)
+
+사용자 요청으로 원본 + 보강을 합치고 신규 내용을 추가한 **합본 완성본** 작성: `식락학 최형진 Ch 20 (완성본).docx`(프로젝트 루트, raw/ 밖; 약 3.3만 자, 41개 절). 신규: ①식품영양학도 도입/적용(처음·끝, 사례 포함) ②20.3.6 엔도르핀↔liking ③20.4.6 도파민 논쟁(RPE/유인현저성/vigor)·wanting=motivation·vigor dopamine ④20.7 NMPU 통합(Pleasure=liking·Motivation=wanting) + 오늘의 liking이 RL로 내일의 wanting을 만드는 기전([[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025 TiCS]] primary/proxy/secondary 인용). 보강 5블록을 본문 통합.
+
+**갱신**: [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]](합본 완성본 절·역링크 추가). 근거: [[concept-need-motivation-pleasure-utility]]·[[concept-dopamine-reward-system]]·[[adam-2026-dopamine-takes-hit-how-neuroscience]]·[[berridge-2023-separating-desire-from-prediction-of]]·[[weber-2025-interoceptive-origin-reinforcement-learning]]. 뇌부위 한글(영문) 병기; 원본 raw/ 미수정.
+
+> 후속(동일자): 완성본 docx의 뇌부위 표기를 [[reference-sikrakhak-glossary|교재 표준 용어집]]에 맞춰 통일 — 복측 피개부→복측 피개영역(VTA), 편도→편도체(amygdala), 전전두피질→전전두엽(PFC), 섬피질→섬엽(insula).
+
+---
+
+## 2026-06-21 — ingest (식락학 교재 표준 용어집)
+
+`raw/ng tech word list.xlsx`(식락학 교재 8인 공저 공식 용어 통일 인덱스, Shepherd *Neurogastronomy* 색인 기반)를 집필 참조용 reference 페이지로 정리. 사용자 지시: "식락학 textbook 작성할 때 쓰는 용어집".
+
+**신규(1)**: [[reference-sikrakhak-glossary]] — 표기 스타일 규칙 9항(시트2) + 용어 192개(확정 170 / ⚠미확정 22, 교수별 제안·각주 후보 병기). type: reference.
+
+**역링크 갱신**: [[overview-sikrakhak-book-project]](마일스톤 "용어 통일=Neurogastronomy 번역 인덱스"에 본 페이지 링크 + 관련 페이지). **index.md** Overviews 섹션 추가, 페이지 259→260. 원본 xlsx는 규칙상 미수정(읽기 전용).
+
+> 참고: 향후 식락학 챕터 집필·보강(Ch 18/20/24/25 등)은 본 용어집을 1차 기준으로 적용. 기존 [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting|Ch 20 보강 원고]]의 일부 뇌부위 표기(예: VTA "복측 피개부")는 용어집 표준("복측 피개영역")과 차이 있어 차기 개정 시 정합 필요.
+
+---
+
+## 2026-06-21 — ingest (차세대 비만·대사 약물 임상 5건)
+
+raw/에 추가된 2026 비만·대사 신약 임상 PDF 5건 ingest. 작용 기전별 hub + 5개 논문 페이지 신규 작성, 교차링크.
+
+**신규(6)**: [[overview-next-gen-incretin-obesity-drugs-2026]](기전별 색인 hub) · [[le-roux-2026-survodutide-once-weekly-for]](survodutide glucagon/GLP-1 dual, NEJM SYNCHRONIZE-1, phase 3, 76주 −13.0%) · [[kaplan-2026-survodutide-in-adults-with]](survodutide MASLD, Nat Med SYNCHRONIZE-MASLD, phase 3, 간지방 ≥30%↓ 84.2%) · [[davies-2026-elecoglipron-an-oral-small]](elecoglipron/AZD5004 경구 소분자 GLP-1RA, Lancet VISTA, phase 2) · [[rosenstock-2026-oral-small-molecule-glp]](aleniglipron/GSBR-1290 경구 소분자 GLP-1RA, Nat Med ACCESS, phase 2b, 위약-보정 −11.3%) · [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]](CagriSema amylin+GLP-1, Lancet REIMAGINE 3, phase 3a, T2D basal insulin add-on).
+
+**역링크 갱신**: [[concept-glp-1]] · [[concept-incretin-effect]] · [[concept-melanocortin-system]] · [[lee-2017-glp-1-based-combination-therapy]] · [[kim-2025-mechanisms-of-glucagon-like-peptide]]. **index.md** 임상·DTx + Overviews 섹션 추가, 페이지 253→259.
+
+미해결: `ng tech word list.xlsx`는 용어 목록으로 추정(논문 아님) — 사용자 확인 대기.
+
+---
+
+## 2026-06-21 — other (식락학 Ch 20 보강: 최근 추가 문헌 반영)
+
+사용자 요청으로 식락학 Ch 20(‘좋아함’/‘갈망’)을 최근 ingest 문헌으로 보강. **보강 원고(docx) + 위키 갱신** 형태, 뇌 부위명 한글(영문) 병기.
+
+**산출물(보강 원고)**: `식락학 최형진 Ch 20 보강.docx`(프로젝트 루트, raw/ 밖). 5블록 — ①20.5.4 ‘갈망≠예측’·incentive alliesthesia·소금욕구 ‘혐오를 원하기’([[berridge-2023-separating-desire-from-prediction-of|Berridge 2023]]), ②PIT 회로([[odoherty-2016-multiple-systems-for-the-motivational|O'Doherty 2016]]), ③인간 노력동기 EEfRT(Salamone/Treadway 2016), ④20.7.4 avolition vs anhedonia + 스트레스성 cue 증폭([[guerrero-hreins-2026-bed-nucleus-of-the-stria|Guerrero-Hreins 2026]]), ⑤참고문헌.
+
+**갱신**: [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]](20.4·20.5·20.7 보강 inline + 보강 원고 절 추가)·[[odoherty-2016-multiple-systems-for-the-motivational]](Ch20 역링크). 원본 `raw/식락학 최형진 Ch 20.docx`는 규칙상 미수정.
+
+## 2026-06-21 — ingest (편저서 처리: Behavioral Neuroscience of Motivation 2016, hub + 선별 3장)
+
+`raw/2016 Book Behavioral Neuroscience of Motivation.pdf`(Springer, Simpson & Balsam eds., 5부 21장 편저서)를 **hub + 선별 장** 방식으로 처리(사용자 선택). 중복 장은 hub에서 cross-link, 비중복·고관련 3장만 개별 추출.
+
+**새 페이지 4**:
+- 종합(책 hub): [[overview-behavioral-neuroscience-of-motivation-2016]] — 21장 색인 + 편집자 cost-benefit arbiter 통합 틀(=NMPU 동형).
+- 장: [[woods-2016-regulation-of-the-motivation]] — 섭식 동기=학습 의존 조건적 과정; homeostatic↔non-homeostatic crosstalk·cue 신뢰도 구배·cephalic 예측 (Woods & Begg).
+- 장: [[odoherty-2016-multiple-systems-for-the-motivational]] — 인간 goal-directed/habitual/Pavlovian 3계+arbitration; general/specific PIT·vmPFC goal-value·choking.
+- 장: [[redish-2016-the-computational-complexity-of-valuation]] — 가치 다중성(측정법별 의사결정계)·common currency 거부·craving·contingency management.
+
+**갱신**: [[concept-need-motivation-pleasure-utility]]·[[overview-appetite-energy-homeostasis]]·[[weber-2025-interoceptive-origin-reinforcement-learning]]·[[concept-digital-therapeutics]]·[[concept-orbitofrontal-cortex]]·[[concept-arcuate-nucleus]]·[[concept-lateral-hypothalamus]](역링크); `index.md`(총 253).
+
+**완료**: 이로써 `raw/`의 모든 연구 자료가 위키에 반영됨(2016 책 중복본 `(1).pdf`는 동일 파일이라 별도 처리 불요).
+
+## 2026-06-21 — ingest (Berridge 2023: desire ≠ prediction; 누락분 처리)
+
+이전 배치에서 누락됐던 `raw/2023 Separating desire from prediction of outcome value.pdf` ingest.
+
+**새 페이지 1**:
+- 논문: [[berridge-2023-separating-desire-from-prediction-of]] — ‘갈망’(incentive salience)이 결과가치 예측·기억·‘좋아함’에서 완전히 분리됨을 두 반례(‘혐오를 원하기’ 소금욕구·‘고통을 원하기’ CeA ChR2)로 증명; incentive alliesthesia·MAIS 모델·중독/avolition; TD·예측처리 RL에 대한 동기-기반 반론 (Trends Cogn Sci 2023, Kent Berridge).
+
+**갱신**: [[concept-liking-wanting]]·[[concept-incentive-sensitization]]·[[warlow-2021-incentive-motivation-wanting-roles]]·[[concept-dopamine-reward-system]]·[[adam-2026-dopamine-takes-hit-how-neuroscience]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]](역링크); `index.md`(총 249).
+
+**미처리(사용자 확인 필요)**: `raw/2016 Book Behavioral Neuroscience of Motivation.pdf`(+중복본) — 단행본(edited volume)이라 단일 paper 페이지 부적합; ingest 방식 사용자 결정 대기.
+
+## 2026-06-21 — ingest (BNST stress-food cue 7T + 인간 시상하부 공간전사체 atlas)
+
+`raw/`에 추가된 2026 신규 논문 2편 ingest.
+
+**새 페이지 3**:
+- 논문: [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 BNST→NAc·OFC·dmINS effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측(7T fMRI+DCM gustometer, Nat Commun 2026).
+- 논문: [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 성인 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA 243k 세포, MRI 정합); 25영역·59뉴런타입·DMH 종간 비보존·Ltu 인간특이·GWAS 질환 niche (Research Square preprint 2026, Jun Yan lab).
+- 개념: [[concept-bed-nucleus-stria-terminalis]] — 확장편도 stress↔reward 허브 hub.
+
+**갱신**: [[concept-interoception]]·[[concept-nucleus-accumbens]]·[[concept-insula]]·[[concept-orbitofrontal-cortex]]·[[concept-lateral-hypothalamus]]·[[giovanniello-2025-a-dual-pathway-architecture-for]]·[[tomiyama-2019-stress-and-obesity]](BNST 역링크); [[concept-hypomap]]·[[littleton-2025-from-identity-to-function-unveiling]]·[[concept-arcuate-nucleus]]·[[concept-dorsomedial-hypothalamus]](DMH 비보존)·[[concept-paraventricular-nucleus]]·[[concept-ventromedial-hypothalamus]](atlas 역링크); `index.md`(총 248).
+
+## 2026-06-20 — other (Ch 20 원본 raw/ 이동 + source 경로 정정)
+
+`식락학 최형진 Ch 20.docx`를 프로젝트 루트 → `raw/`로 이동(원본 위치 규칙 정합). [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]의 `source` 및 본문 경로를 `raw/식락학 최형진 Ch 20.docx`로 갱신. 재-ingest 불필요(기존 정리본이 docx 전 섹션과 일치 확인).
+
+## 2026-06-20 — ingest + 챕터 작성 (식락학 Ch 20: 오피오이드·도파민 / liking·wanting)
+
+`raw/`에 추가된 Berridge 계열 보상 논문 10편을 ingest하고, 사용자 저작 식락학 교재 **Ch 20**(오피오이드 및 도파민 시스템: ‘좋아함(liking)’과 ‘갈망(wanting)’의 신경화학) 본문을 작성. 본문은 `[9장-2 본문]`·`12장 본문.docx`의 분량·형식을 참고(목차+번호 절+author-year 인용+맺음말+참고문헌; ~17,900자).
+
+**산출물(챕터)**: `식락학 최형진 Ch 20.docx` (프로젝트 루트). raw/ 원본은 위키 규칙상 미수정.
+
+**새 페이지 14**:
+- 종합(챕터 정리): [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]
+- 개념 3: [[concept-liking-wanting]], [[concept-hedonic-hotspot]], [[concept-incentive-sensitization]]
+- 논문 10: [[berridge-2009-dissecting-components-of-reward]], [[nguyen-2021-positive-affect-nature-and-brain]], [[morales-2020-liking-and-wanting-in-eating]], [[kringelbach-2015-the-pleasure-of-food]], [[robinson-2008-the-incentive-sensitization-theory]], [[robinson-2025-incentive-sensitization-30-years]], [[warlow-2021-incentive-motivation-wanting-roles]], [[guillaumin-2023-disentangling-the-role-of-nac]], [[soutschek-2021-opioid-antagonism-modulates-wanting]], [[korb-2020-dopaminergic-and-opioidergic-regulation]]
+
+**갱신**: [[overview-sikrakhak-book-project]](Ch 20 ✅), [[concept-dopamine-reward-system]], [[concept-need-motivation-pleasure-utility]], [[concept-nucleus-accumbens]], [[concept-food-addiction]], [[concept-appetitive-consummatory-phases]], [[concept-orbitofrontal-cortex]], [[salamone-2012-mysterious-motivational-functions-mesolimbic]], [[person-choi-hyung-jin]], [[proposal-pomc-endorphin-food-pleasure]], [[proposal-oral-fat-taste-pleasure-desire]] 역방향 링크 추가. `index.md` 갱신(총 245페이지, 🎯 도파민 섹션에 liking/wanting cluster 추가).
+
+핵심 framing: 도파민=‘갈망’(좋아함 아님), 오피오이드/[[concept-hedonic-hotspot|핫스폿]]=‘좋아함’; ‘갈망’이 ‘좋아함’ 없이 폭주=중독·과식([[concept-incentive-sensitization|유인-감작]]); 비만은 동기 회로 신경화학 불균형. → 사용자 lab [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure·Motivation 축과 직결.
+
+---
+
 ## 2026-06-17 — other (AgRP 입력 지도에 DMH GLP-1R 입력 추가)
 
 사용자 요청 "DMH GLP-1R neuron이 AgRP 입력으로 작동하는 내용 추가". [[concept-npy-agrp-neurons]] 입력 회로 지도 표에 **DMH^GLP-1R → ARC NPY/AgRP** 행 추가(GABA 단일시냅스 IPSC 8/8·LepR 부분 공발현·preingestive cognitive satiation·GLP-1RA 표적) — 사용자 lab [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]] CRACM·회로 epistasis 근거. 프레임 단락을 "**DMH GABAergic 억제 cluster(부분 중첩)**"로 확장: ①sight(Garfield)·②taste(Aitken)·③cognitive satiation(Kim, GLP-1R)이 Lepr/Glp1r 공발현 한 집단의 모드, GLP-1RA가 이 억제를 식이 시 잠재화해 AgRP를 끔(약리 layer). 신규 페이지 없음, web 미사용.

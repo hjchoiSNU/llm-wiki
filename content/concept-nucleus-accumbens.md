@@ -40,6 +40,10 @@ updated: 2026-06-01
 - [[concept-dopamine-reward-system]] — NAc를 표적하는 mesolimbic DA 회로.
 - [[concept-lateral-hypothalamus]] — NAc shell→LH hedonic eating 회로; tractography 표적의 근거.
 - [[concept-need-motivation-pleasure-utility]] — NAc=Pleasure 축.
+- [[concept-hedonic-hotspot]] — NAc 내측 shell rostrodorsal(~1 mm³)에 ‘좋아함’ 증폭 오피오이드 핫스폿.
+- [[concept-liking-wanting]] — NAc가 ‘좋아함’(shell 핫스폿)·‘갈망’(D1/D2 세포) 모두의 핵심 구조물.
+- [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1=좋아함+갈망, D2=갈망·좋아함 음(세포 수준 해리).
+- [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도 ‘갈망’이 NAc 내측 shell를 동원.
 - [[concept-deep-brain-stimulation]] — NAc를 표적하는 침습 DBS hub.
 - [[concept-hypothalamic-obesity]] — 시상하부 손상에도 NAc는 표적으로 남음.
 - [[harat-2016-nucleus-accumbens-stimulation-in]] · [[tronnier-2018-massive-weight-loss-following]] · [[rezai-2018-feasibility-of-nucleus-accumbens]] · [[mantione-2010-smoking-cessation-and-weight]] — NAc-비만 DBS 사례/시리즈.
@@ -48,3 +52,4 @@ updated: 2026-06-01
 - [[jung-2024-dopamine-mediated-formation-of-a]] — NAc가 목표(은신처) memory module 저장; VTA^DA=state-value (NN 2024, Kwon·Costa).
 - [[proposal-lh-nac-nmpu-neuron-discovery]] — NAc·LH의 NMPU 성분별 식욕 세포타입을 CaRMA·TRU-FACT·Cal-Light로 발굴하는 연구계획서.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — NAcC 도파민=cue의 **일반 흥분 성분**(결과 표상 없음, Taira 2024)과 대비; outcome-specific 학습은 VTADA→**LH** 채널이 전담 (Neuron 2026).
+- [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 스트레스가 BNST→NAc 출력을 ↓·보상 cue 시 NAc→BNST ↑ (인간 7T DCM, Nat Commun 2026).

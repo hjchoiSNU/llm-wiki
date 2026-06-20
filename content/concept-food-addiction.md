@@ -21,6 +21,9 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - **신중론**: 과식을 단순 addiction으로 환원하는 데 대한 비판 — homeostatic+hedonic+crosstalk의 복합 모델이 더 적절([[stuber-2025-the-neurobiology-of-overeating]]).
 
 ## 관련 페이지
+- [[concept-incentive-sensitization]] — food addiction의 핵심 기전: 음식 cue ‘갈망’이 ‘좋아함’ 없이 폭주(식락학 Ch 20).
+- [[concept-liking-wanting]] — ‘즐겁지도 않은데 강박적으로 원함’의 이론적 토대.
+- [[morales-2020-liking-and-wanting-in-eating]] — 비만을 유인-감작으로 설명(‘보상 결핍’ 대조).
 - [[concept-food-insecurity]] — food addiction의 신흥 위험요인(stress·초가공식품 경로).
 - [[concept-loss-of-control-eating]] — 겹치는 식이 표현형.
 - [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] — 가설의 회로 기질.

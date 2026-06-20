@@ -84,4 +84,7 @@ journal: "Journal of Obesity & Metabolic Syndrome 2017;26:155-160; doi:10.7570/j
 - [[person-choi-hyung-jin]] — 교신저자.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 동일 lab 뇌 GLP-1R 리뷰; 본 editorial의 병용요법 비전을 8년 뒤 brain-wide 기전·약물 발전사로 갱신 (APEM 2025).
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 710GO(MC3R/MC4R)+semaglutide 시너지가 본 editorial의 GLP-1 병용요법 비전을 멜라노코르틴 축에서 NHP로 확장 (Nat Commun 2026).
+- [[overview-next-gen-incretin-obesity-drugs-2026]] — 본 editorial이 예견한 GLP-1/glucagon dual·amylin 복합·경구 소분자가 2026 임상으로 실현된 모음 hub.
+- [[le-roux-2026-survodutide-once-weekly-for]] · [[kaplan-2026-survodutide-in-adults-with]] — GLP-1/glucagon dual agonist(survodutide) 임상화.
+- [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — GLP-1+amylin 복합(CagriSema) 임상화.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
