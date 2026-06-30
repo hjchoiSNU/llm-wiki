@@ -59,3 +59,4 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[berridge-2023-separating-desire-from-prediction-of]] — ‘갈망’이 예측·기억·‘좋아함’에서 분리됨을 두 반례로 증명; incentive alliesthesia·감작 이론의 이론적 토대 (TiCS 2023).
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue 주도 과식의 임상 분류(사용자 lab).
 - [[concept-nucleus-accumbens]] — 감작 구조적 가소성 부위.
+- [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — cue에 부여된 과도한 가치(cue NAc 도파민)가 선호·compulsion을 예측함을 dLight로 직접 측정 (Nat Neurosci 2026).

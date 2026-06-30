@@ -130,3 +130,5 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[concept-insula]] — BLA가 입력을 보내는 인간 섬-덮개 음식 cue 부호화 피질 (Halpern 2021).
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 섬엽 입력원으로 BLA 인용 (Nat Commun 2021).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — dopamine→BLA의 identity-specific reward(Sias 2024, Wassum lab)와 대비되는 **LH**의 outcome-specific 역할; BLA가 LH에 동기적으로 유의한 감각-특이 정보 제공(저자 가설) (Neuron 2026, Sharpe lab).
+- [[chen-2026-striatal-control-of-amygdalar]] — BLA **아세틸콜린(ACh)** 이 현저성(salience)을 표상; NAc D1/D2→SI 콜린성이 양방향 통제 (Nat Neurosci 2026).
+- [[concept-basal-forebrain-cholinergic]] — BLA ACh를 공급하는 SI 콜린성 시스템 개념 hub(도파민과 별도 modulator).

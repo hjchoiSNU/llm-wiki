@@ -6,8 +6,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 260 (+ index.md, log.md)
-- 마지막 갱신: 2026-06-21
+- 총 페이지: 268 (+ index.md, log.md)
+- 마지막 갱신: 2026-06-30
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -39,6 +39,8 @@ title: 뇌과학 LLM Wiki
 - [[concept-orbitofrontal-cortex]] — 보상 가치·결과 기반 행동 피질. amOFC low-gamma=인간 OCD biomarker (Halpern 2026).
 - [[concept-insula]] — 내수용감각·미각 피질 hub. 인간 섬-덮개가 음식 cue 선제 평가 (Halpern 2021).
 - [[concept-hippocampus-feeding]] — 배외측 해마(dlHPC)=LH MCH orexigenic subnetwork; 비만에서 연결성↓ (Halpern 2023).
+- [[concept-ventral-pallidum]] — NAc 주 출력핵·보상 마지막 관문. posterior VP=쾌락 핫스폿 '좋아함' 필수; VP^GABA=hedonic 섭식/비만 노드 (Wang 2026).
+- [[concept-basal-forebrain-cholinergic]] — 기저전뇌(SI) ChAT→BLA ACh=현저성 modulator; NAc D1/D2가 양방향 통제 (Chen 2026).
 
 ## 🔬 분자/세포 신경과학 (Molecular & Cellular)
 
@@ -70,6 +72,7 @@ title: 뇌과학 LLM Wiki
 지각, 주의, 기억, 학습, 의사결정, 사회행동.
 
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스가 BLA→DMS(agency)↓·CeA→DMS(habit)↑ "one-two punch"로 goal-directed→habit 전환; stress eating·NMPU Utility 무력화 회로 (Nature 2025, Wassum lab).
+- [[chen-2026-striatal-control-of-amygdalar]] — NAc D1(탈억제)/D2(직접억제) MSN → SI 콜린성 → **BLA ACh가 현저성(salience, valence-free)을 표상**·연합학습을 양방향 제어; salience를 valence와 분리 (Nat Neurosci 2026, Xiao lab).
 
 _(섭식·동기 행동은 🍽️로)_
 
@@ -119,6 +122,8 @@ _(섭식·동기 행동은 🍽️로)_
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — **vDMH^LepR/pDYN GABAergic → ARC^AgRP** 선택적 억제 입력(AgRP 100% vs POMC 9%)이 음식 cue 시 빠르게 활성·**음식 가치(초콜릿>chow) 부호화**해 AgRP를 끔(preconsummatory suppression의 시냅스 출처); Walker 2026 흥분성 입력의 거울상 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — **PVH TRH/PACAP → ARC^AgRP** 흥분성 회로가 섭식 구동("PVH=satiety" 통설 반전); AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로; Walker 2026 PVH^Sim2의 모태 (Nature 2014, Lowell lab).
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 **BNST→NAc·OFC·dmINS** effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측; 인간 7T fMRI+DCM gustometer (Nat Commun 2026, Steward·Brown lab).
+- [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
+- [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
 
 ### 호르몬
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — Ghrelin 식전 surge 인간 입증 (Diabetes 2001).
@@ -307,6 +312,7 @@ _(아직 페이지 없음)_
 - [[concept-vagal-afferent-neurons]] · [[concept-dorsal-vagal-complex]] · [[concept-enteroendocrine-cells]] · [[concept-tanycytes]]
 - [[concept-dopamine-reward-system]] · [[concept-basolateral-amygdala]] · [[concept-central-amygdala-glp1r]] · [[concept-bed-nucleus-stria-terminalis]]
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]]
+- [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]]
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]]
@@ -343,6 +349,8 @@ _(아직 페이지 없음)_
 - [[person-kim-min-seon]] — 시상하부→말초(신장·췌장·장) 자율신경 대사 회로; POMC PKA→DMV→장 SGLT1. Asan Medical Center / Ulsan (한국).
 - [[person-lowell-bradford]] — AgRP/POMC·PVH 섭식 회로 세포타입·인과 분해의 현대 표준(AgRP 광유전 인과·AgRP→PVH·feedforward 예측). BIDMC / Harvard Medical School.
 - [[person-knight-zachary]] — 시상하부 섭식·갈증 회로의 실시간 dynamics·예측 신호·자원별 도파민 보상(AgRP·DMH^LepR·flavor-nutrient). UCSF / HHMI.
+- [[person-luscher-christian]] — 중독의 회로·시냅스 가소성 모델·oDASS·compulsion; cue NAc 도파민=취약성 표지. University of Geneva.
+- [[person-kravitz-alexxai]] — 기저핵 D1/D2 경로·복측 창백핵(VP)·섭식·비만 회로신경과학. Washington University in St. Louis.
 
 ## 🌐 종합/리뷰 (Overviews)
 
@@ -411,6 +419,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[robinson-2025-incentive-sensitization-30-years]] — 유인-감작 30주년 종합(sign-/goal-tracker·인간 영상) (Annu Rev Psychol 2025).
 - [[soutschek-2021-opioid-antagonism-modulates-wanting]] — naltrexone이 ‘갈망’ 선택 감소·DLPFC–선조체 결합 (eLife 2021).
 - [[korb-2020-dopaminergic-and-opioidergic-regulation]] — 소비 ‘좋아함’=오피오이드 특이적·동기=도파민+오피오이드 (eLife 2020).
+- [[concept-ventral-pallidum]] · [[wang-2026-ventral-pallidal-gabaergic-neurons]] — posterior VP=‘좋아함’ 필수 핫스폿; VP^GABA가 hedonic 섭식·HFD 비만을 인과 통제(항상성 보존) (bioRxiv 2026, Kravitz).
 
 ### 진영 — Heterogeneity / cell types
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA cellular heterogeneity 종합 (NRN 2017).
@@ -433,6 +442,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[jung-2024-dopamine-mediated-formation-of-a]] — VTA^DA(safety/relief)+vHPC가 NAc에 목표(은신처) memory module 형성; DA=state-value, 보상종류별 목표표상 시사 (NN 2024, Kwon·Costa).
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — VTA spike vs NAc release dual-channel (Nature 2019).
 - [[rice-2019-closing-in-on-what-motivates]] — Mohebi 2019 News & Views (Nature 2019).
+- [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — **cue-유발 NAc 도파민=주관적 가치**(reward 시점 도파민 아님)가 자연 vs 인공보상 선호·처벌 무릅쓴 compulsion을 예측; 중독 취약성 조기 표지 (Nat Neurosci 2026, Lüscher lab). _(유인-감작·food addiction과 직결)_
 
 ### 진영 — Belief-state / hidden-state inference
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — belief-state RPE 종합 (NN 2024).

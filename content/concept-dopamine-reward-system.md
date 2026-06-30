@@ -163,4 +163,8 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[shivacharan-2022-pilot-study-of-responsive-nucleus]] — 인간 NAc 저주파 biomarker로 LOC eating closed-loop 차단 (Nat Med 2022).
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — OFC–NAc reward 루프의 강박(OCD) biomarker (Cell 2026).
 - [[berridge-2023-separating-desire-from-prediction-of]] — 도파민='원함'(incentive salience) 분자이며 예측·'좋아함'과 분리됨; TD/예측 RL 도파민론에 대한 반론 (TiCS 2023).
+- [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — **cue-유발 NAc 도파민=주관적 가치**(객관적 보상 크기 아님); 약한 인공보상 선호가 compulsion 예측 (Nat Neurosci 2026, Lüscher lab).
+- [[person-luscher-christian]] — 중독 회로·시냅스 가소성·oDASS·compulsion 인물 hub.
+- [[wang-2026-ventral-pallidal-gabaergic-neurons]] · [[concept-ventral-pallidum]] — VP^GABA→VTA 탈억제→DA↑가 hedonic 섭식 구동 (bioRxiv 2026, Kravitz).
+- [[chen-2026-striatal-control-of-amygdalar]] — D1/D2 MSN이 BLA의 **콜린성(ACh)** modulator를 양방향 통제(도파민과 대비) (Nat Neurosci 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

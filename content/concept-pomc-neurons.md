@@ -78,4 +78,5 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[seiler-2026-dual-activation-of-mc3r-and]] — POMC→α-MSH→MC3R/MC4R 하류 dual-agonism 약리 (Nat Commun 2026).
 - [[proposal-pomc-endorphin-food-pleasure]] — POMC β-endorphin이 음식 쾌락(liking)·만족(NMPU Pleasure)을 부호화하는지 검증하는 연구계획서(이원 분비 세포·회로·인과 해부).
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — ARC POMC **PKA→α-MSH→MC4R(DMV)→미주 원심성→장 SGLT1↓** 회로가 식후 혈당↓(인슐린 비의존); 세마글루타이드 혈당강하가 POMC PKA 의존 (Nat Commun 2026, Min-Seon Kim).
+- [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존); AgRP는 글리코겐 비의존 (Nat Metab 2026, Claret lab).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

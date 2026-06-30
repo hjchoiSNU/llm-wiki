@@ -50,4 +50,6 @@ aliases: [hedonic hotspot, 쾌락 핫스폿, hedonic coldspot, 쾌락 콜드스�
 - [[concept-orbitofrontal-cortex]] — 피질 핫스폿·주관적 쾌락 부호화.
 - [[morales-2020-liking-and-wanting-in-eating]] · [[nguyen-2021-positive-affect-nature-and-brain]] · [[kringelbach-2015-the-pleasure-of-food]] — 1차 소스.
 - [[concept-dopamine-reward-system]] — 대조되는 ‘갈망’ 회로.
+- [[concept-ventral-pallidum]] — posterior VP 핫스폿의 상위 구조 개념 hub.
+- [[wang-2026-ventral-pallidal-gabaergic-neurons]] — VP^GABA 뉴런이 hedonic 섭식·비만을 인과 통제(핫스폿 전통의 세포-회로 버전) (bioRxiv 2026, Kravitz).
 - [[proposal-pomc-endorphin-food-pleasure]] — POMC β-endorphin 기원 ‘좋아함’을 정박하는 연구계획서.
