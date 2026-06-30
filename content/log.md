@@ -10,6 +10,22 @@
 
 ---
 
+## 2026-06-30 — ingest (2026-06-30 batch: POMC 글리코겐 · VP hedonic · NAc cue 도파민 · BLA ACh salience)
+
+`raw/`에 추가된 2026-06-30 신규 PDF 4편 정리(중복 1건 제외: 세마글루타이드 hindbrain 논문은 기존 [[gao-2026-semaglutide-drives-weight-loss-through]]와 동일 재추가라 ingest 안 함). 8개 신규 + 6개 갱신 + index·log.
+
+**신규 논문(4)**:
+- [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1) 연료 의존; AgRP 비의존 (Nat Metab 2026, Claret lab).
+- [[wang-2026-ventral-pallidal-gabaergic-neurons]] — VP^GABA가 hedonic 섭식·HFD 비만 인과 통제(항상성 보존) (bioRxiv 2026, Kravitz·Creed).
+- [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — cue-유발 NAc 도파민=주관적 가치·중독 취약성 표지 (Nat Neurosci 2026, Lüscher).
+- [[chen-2026-striatal-control-of-amygdalar]] — NAc D1/D2→SI 콜린성→BLA ACh가 현저성(salience) 양방향 통제·연합학습 제어 (Nat Neurosci 2026, Xiao).
+
+**신규 개념·인물(4)**: [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]] · [[person-luscher-christian]] · [[person-kravitz-alexxai]].
+
+**갱신(역링크)**: [[concept-pomc-neurons]] · [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] · [[concept-basolateral-amygdala]] · [[concept-hedonic-hotspot]] · [[concept-incentive-sensitization]]. [[index.md]] 페이지수 260→268·날짜 갱신·카테고리 추가(🧠 회로·🧩 인지·🍽️ 회로세포·🎯 도파민·👤 인물·💡 개념). raw/ 미수정.
+
+---
+
 ## 2026-06-21 — other (최형진 소속 정정)
 
 사용자 정정: 소속 한글명 오류 수정. **해부학교실 · 의과학과(Department of Biomedical Sciences) · 뇌인지과학과(Brain & Cognitive Sciences)**. (기존 'Department of Biomedical Sciences (생화학교실)'의 한글이 오역 → '의과학과'로 정정해 유지.) [[person-choi-hyung-jin]](소속 섹션·callout)·[[index.md]](인물 한 줄)·[[person-kim-meelim]](lab 소속) 수정. tomiyama-2019의 '생화학'은 일반 용어(소속 아님)라 유지. raw/ 미수정.

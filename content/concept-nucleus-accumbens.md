@@ -53,3 +53,7 @@ updated: 2026-06-01
 - [[proposal-lh-nac-nmpu-neuron-discovery]] — NAc·LH의 NMPU 성분별 식욕 세포타입을 CaRMA·TRU-FACT·Cal-Light로 발굴하는 연구계획서.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — NAcC 도파민=cue의 **일반 흥분 성분**(결과 표상 없음, Taira 2024)과 대비; outcome-specific 학습은 VTADA→**LH** 채널이 전담 (Neuron 2026).
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 스트레스가 BNST→NAc 출력을 ↓·보상 cue 시 NAc→BNST ↑ (인간 7T DCM, Nat Commun 2026).
+- [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — **cue-유발 NAc 도파민(dLight)** 이 자연 vs 인공보상 선호·중독 취약성을 예측(reward 시점 도파민은 아님) (Nat Neurosci 2026, Lüscher lab).
+- [[chen-2026-striatal-control-of-amygdalar]] — NAc **D1-MSN(탈억제)/D2-MSN(직접억제)** 이 SI 콜린성 경유 BLA ACh 현저성을 양방향 통제 (Nat Neurosci 2026).
+- [[concept-ventral-pallidum]] · [[wang-2026-ventral-pallidal-gabaergic-neurons]] — NAc의 주 출력핵 VP^GABA가 hedonic 섭식·비만을 인과 통제 (bioRxiv 2026, Kravitz).
+- [[concept-basal-forebrain-cholinergic]] — NAc D1/D2가 양방향 통제하는 SI 콜린성 시스템 개념 hub.
