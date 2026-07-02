@@ -56,6 +56,9 @@ aliases: [CCK, cholecystokinin]
 ### 4) 보상 / hedonic
 [[concept-leptin|Leptin]]·[[concept-ghrelin|ghrelin]]만큼 명확하지 않음. fMRI에서 lauric acid + loxiglumide → CCK 차단으로 뇌 반응 변화 (Lassman 2010), 단 제한적.
 
+### 5) gut-brain 영양소 선호(wanting)의 전달자 ★
+[[li-2022-gut-brain-circuits-for-fat-preference|Li 2022 (Zuker lab)]]: CCK가 satiety 호르몬을 넘어 **당·지방·아미노산 gut-brain 선호(wanting) 신호의 전달자**로 이중 기능. **CCK-의존 generalist 미주 경로**(VIP⁺/UTS2b nodose, [[concept-free-fatty-acid-receptors|GPR40/GPR120]] 수용체)가 세 영양소 공통 — CCKAR 길항(devazepide)으로 반응 차단. **CCK-비의존 fat-only 경로**(TRPA1⁺ nodose)와 분리. 즉 같은 CCK가 식사 종료(satiation)와 영양소 craving 형성을 모두 매개.
+
 ## 생리학적 변동
 
 ### 성차 / 생식 주기
@@ -88,4 +91,8 @@ aliases: [CCK, cholecystokinin]
 - [[concept-enteroendocrine-cells]] — I-cell 구조.
 - [[concept-arcuate-nucleus]] — vagal afferent → NTS → ARC.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1+CCK-33이 식전 공복감 시너지↓ (인간); 병용요법 종합 editorial (JOMES 2017, 사용자 lab).
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — CCK가 당·지방·아미노산 gut-brain 선호(wanting)의 generalist 전달자 (Nature 2022, Zuker).
+- [[concept-vagal-afferent-neurons]] — CCK 신호를 받는 VIP⁺/TRPA1⁺ nodose 세포타입.
+- [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] — LCFA가 CCK 분비를 자극하는 수용체.
+- [[concept-fat-taste]] — 구강 지방 감지(장 CCK 축과 대비).
 - [[overview-appetite-energy-homeostasis]] — 4-호르몬 프레임워크.

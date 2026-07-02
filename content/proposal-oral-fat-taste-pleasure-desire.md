@@ -17,7 +17,8 @@ updated: 2026-06-08
 
 - **보상의 두 신호: proxy vs primary**: [[concept-primary-reward-signals|Weber 2025]]는 음식 보상을 **proxy reward(구강 taste/flavor — 즉각 dopamine·정동 반응을 일으키나 혼자선 sustainable reinforcement 불가, "early affective draft")** 와 **primary reward(post-oral interoceptive 영양)** 로 분리한다. 구강 지방 맛은 전형적 proxy — **쾌락의 즉각 초안**이되, 그 지속 강화는 post-oral 영양 확인에 의존한다는 가설([[concept-flavor-nutrient-conditioning|FNC]]: sucralose는 long-term 학습 유지 못함 = taste ≠ reinforcer).
 - **인체 분자 증거 — orosensory DA가 욕망과 직결**: [[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019 *Cell Metab*]]는 연속 PET로 **즉시 orosensory DA**(NTS·전측 [[concept-insula|insula]](1차 미각피질)·SN/VTA·해마·시상하부(LH 추정))와 **지연 post-ingestive DA**(미상핵·창백핵·[[concept-basolateral-amygdala|BLA]])를 분리했고, 결정적으로 **"먹고 싶은 욕구(wanting)"가 즉시 orosensory DA(insula r=0.94·해마 r=0.95·ACC r=0.90)와 양의 상관, 지연 putamen DA와는 음의 상관(r=−0.96)** 임을 보였다 → 구강 감각 단계 DA가 욕망을 키우고 post-ingestive 포만 DA를 억눌러 과식을 부른다는 모델.
-- **지방의 post-oral 회로는 규명, 구강 단계는 공백**: [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]는 fat의 **gut sensor(GPR40/120 + CD36)→vagus→VTA-DA-CCK→left aBLA-D1R** 영양가치 학습 회로를 규명하고, **NAc(motivation/cue) vs aBLA(영양가치) double dissociation**을 보였다. 그러나 이는 **post-oral 영양** 회로다. **구강 지방 맛 자체**가 쾌락·욕망을 얼마나, 어떤 회로로 구동하는지는 분리되지 않음.
+- **지방의 post-oral 회로는 규명, 구강 단계는 공백**: [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]는 fat의 **gut sensor(GPR40/120 + CD36)→vagus→VTA-DA-CCK→left aBLA-D1R** 영양가치 학습 회로를 규명하고, **NAc(motivation/cue) vs aBLA(영양가치) double dissociation**을 보였다. [[li-2022-gut-brain-circuits-for-fat-preference|Li 2022 (Zuker)]]는 병렬로 **미각 비의존 gut-brain 지방 선호**(TRPM5-KO도 형성)와 두 미주 경로(CCK-의존 VIP generalist·CCK-비의존 TRPA1 fat-only)를 규명하며 **"wanting fat = gut-brain 축, liking fat = 미각계"** 를 직접 규정. 그러나 이는 모두 **post-oral 영양** 회로다. **구강 지방 맛 자체**가 쾌락·욕망을 얼마나, 어떤 회로로 구동하는지는 분리되지 않음.
+- **구강 지방 수용체는 규명됨(위험 해소)**: 미뢰의 지방 센서 = **[[concept-cd36|CD36]]**(circumvallate papillae 정단, 지방 자발선호·cephalic phase 필수; [[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]])와 **[[concept-free-fatty-acid-receptors|GPR120]]**([[martin-2011-the-lipid-sensor-candidates-cd36|Martin 2011]]). 특히 **CD36는 식이지방에 후전사적으로 급감**(재급식 1h 내 2–3배↓)해 **sensory-specific satiety 유사 동역학** — 구강 지방 wanting이 식사 시작엔 高, 진행하며 減함의 말초 기질(Martin 2011). 중추에선 같은 CD36가 [[concept-ventromedial-hypothalamus|VMH]]에서 FA 감지·식이 억제([[moulle-2013-fatty-acid-transporter-cd36-mediates|Moullé 2013]]) → **구강·장·뇌 3층이 CD36/GPR40/120을 부위별로 분업**([[concept-fat-taste|지방맛 hub]]).
 - **supra-additivity와 비만**: sugar+fat은 **supra-additive** primary reward([[concept-primary-reward-signals]], DiFeliceantonio 2018) → 현대 초가공식품의 핵심 위험. 만약 **구강 지방 맛이 wanting을 선제적으로 증폭**한다면, 이는 [[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]]의 cue/addiction type에서 과식의 진입점.
 - **NMPU 공백**: [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure = 구강 proxy reward(taste hedonic)**, **Motivation = wanting**, **Utility = post-oral 영양**으로 매핑되나, "**구강 지방 신호가 Pleasure(liking)인지 Motivation(wanting)인지, 그리고 Utility(영양)와 어떻게 분리·상호작용**하는지"는 회로 수준에서 미정박. 사용자의 질문(구강 지방 맛 → **쾌락과 욕망**)은 정확히 이 분리를 요구.
 - **방법 성숙**: oral 전달(lick) vs **IG 직접 주입**으로 구강/post-oral 분리, **sham-feeding(구강만, 영양 차단)**, GRAB-DA photometry(insula/NTS vs aBLA), [[concept-activity-molecular-registration|CaRMA·TRU-FACT]], [[hyun-2022-tagging-active-neurons-by|Cal-Light]], [[lee-2023-lateral-hypothalamic-leptin-receptor|phase-specific 광유전]], [[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]], 인체 PET/7T fMRI([[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah]]·[[huang-2021-the-insulo-opercular-cortex-encodes|Huang 2021]] insula) 모두 준비.
@@ -86,7 +87,7 @@ flowchart LR
 ## 6. 한계·위험 및 대응
 | 위험 | 근거 | 대응 |
 |---|---|---|
-| **구강 지방 수용체 정체**: 위키는 GPR40/120/CD36를 주로 **gut sensor**로 문서화 | [[grove-2025-lateralized-pathway-associating-nutrients]]·[[concept-flavor-nutrient-conditioning]] | 동일 sensor의 **lingual site 작동**을 가설로 검증; 실패 시 orosensory DA(회로 수준) 분리에 의존(수용체 정체 비의존) |
+| **구강 지방 수용체 정체**: (해소) 미뢰 CD36·GPR120 규명됨; 단 lingual→중추 신호 dynamics는 미완 | [[laugerette-2005-cd36-involvement-in-orosensory-detection]]·[[martin-2011-the-lipid-sensor-candidates-cd36]]·[[concept-fat-taste]] | 미뢰 CD36/GPR120 site별 약리(SSO·GPR120 길항)로 구강 기여 분해; CD36 후전사 감소(sensory-specific satiety)를 wanting 동역학 지표로 활용 |
 | 구강/post-oral 완전 분리 난이도 | 자연 섭취는 동시 발생 | sham-feeding·IG bypass·비칼로리 지방·spit-out(인체) |
 | liking·wanting 행동 직교화 | [[concept-need-motivation-pleasure-utility|Berridge]]·[[liu-2026-granular-motivational-interaction-and|granular states]] | taste reactivity(liking)+PR/seeking(wanting) 동시 + 계산 분리 |
 | 인체 PET 소규모·일반화 | [[thanarajah-2019-food-intake-recruits-orosensory]] 한계(남성 10명) | 7T fMRI 보강·성별/BMI 확장 |
@@ -107,6 +108,11 @@ flowchart LR
 ## 관련 페이지
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — orosensory vs post-ingestive DA·wanting 상관 인체 원전.
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — fat post-oral 회로(GPR40/120/CD36→VTA-DA-CCK→aBLA).
+- [[laugerette-2005-cd36-involvement-in-orosensory-detection]] — 구강 지방 수용체 CD36 규명(수용체 정체 근거).
+- [[martin-2011-the-lipid-sensor-candidates-cd36]] — 미뢰 CD36 후전사 감소(sensory-specific satiety = wanting 동역학).
+- [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — 중추(VMH) CD36 지방 감지.
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — post-oral 지방 wanting gut-brain 회로(미각 비의존).
+- [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] — 지방 감지 분자·개념 hub.
 - [[concept-primary-reward-signals]] — proxy(구강 taste) vs primary(post-oral) reward 정의.
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer(sucralose 논리)·fat 평행 경로.
 - [[concept-need-motivation-pleasure-utility]] — Pleasure·Motivation·Utility 축·liking/wanting.

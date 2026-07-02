@@ -29,9 +29,9 @@ Single-cell transcriptomics (Kupari 2019, Bai 2019, Zhao 2022)로 ~30+ subpopula
 |---|---|---|
 | **Sst⁺·Gpr65⁺** | pyloric antrum | 광범위 luminal 자극 (osmosensing 후보) |
 | **Calca⁺** | corpus | 미정 |
-| **Vip⁺·Uts2b⁺·Htr3a⁺** | intestinal villi | glucose 반응 |
+| **Vip⁺·Uts2b⁺** | intestinal villi | **당·지방·아미노산 generalist**(CCK-의존); post-oral 선호 형성 ([[li-2022-gut-brain-circuits-for-fat-preference\|Li 2022]]) |
 | **Cckar⁺** (2 cluster) | hepatic portal·duodenum | sugar/fat reinforcement (McDougle 2024) |
-| **TRPA1⁺** subset | | fat 감지 |
+| **TRPA1⁺** subset | | **fat-only**(CCK-비의존) 지방 선호 매개 ([[li-2022-gut-brain-circuits-for-fat-preference\|Li 2022]]) |
 
 영양소 수용체 (Table 4 of [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert 2017]]): FFAR1/4, CD36, CASR, LPAR5, GPR119, T1R, SLC5A1, SLC15A1.
 
@@ -88,6 +88,7 @@ Single-cell transcriptomics (Kupari 2019, Bai 2019, Zhao 2022)로 ~30+ subpopula
 
 - **Sugar/fat의 [[concept-flavor-nutrient-conditioning|flavor-nutrient conditioning]]을 직접 매개**.
 - 평행 (parallel) but **distinct subpopulations** in nodose (McDougle 2024).
+- **지방 선호의 두 병렬 미주 경로** ([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022, Zuker lab]]): ① **VIP⁺(UTS2b) generalist**(당·지방·아미노산, CCK-의존, [[concept-free-fatty-acid-receptors|GPR40/GPR120]]) + ② **TRPA1⁺ fat-only**(CCK-비의존). 미각 비의존 gut-brain 지방 wanting.
 - Sugar+fat **supra-additive** primary reward — 비만 음식의 강화 메커니즘.
 - 좌·우 vagus 비대칭 가능성 (de Araujo 2023 bioRxiv) → BLA lateralization origin 후보.
 
@@ -113,6 +114,8 @@ Single-cell transcriptomics (Kupari 2019, Bai 2019, Zhao 2022)로 ~30+ subpopula
 - [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]] — VAN signaling mode 보완.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — taVNS 임상.
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VAN → VTA-DA-CCK → aBLA primary reward 회로.
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — 지방 선호의 두 병렬 미주 경로(VIP generalist·TRPA1 fat-only); 미각 비의존 gut-brain wanting (Nature 2022, Zuker).
+- [[concept-free-fatty-acid-receptors]] — 장 지방 gut-brain 선호의 필수 수용체(GPR40/GPR120).
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — VAN의 RL framework 위치.
 - [[knight-liberles-2025-interoception]] — vagal afferent frontier overview.
 - [[concept-interoception]] — VAN이 토대 channel.

@@ -34,6 +34,10 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - Output → DMH·PVN·brainstem·spinal cord.
 - **VMH → LH connectivity 강화 in maternal obesity** ([[freire-agulleiro-2026-early-life-programming-of|Freire-Agulleiro 2026]]).
 
+## 지방산 감지(fatty acid sensing)
+- VMH(ARC+VMN)에는 **지방산 감지 뉴런**이 있어 혈중/국소 지방산 변동을 감지해 식이·간 포도당 생산을 조절(Oomura 1975; Le Foll·Levin).
+- **[[concept-cd36|CD36]]가 in vivo 주 effector** ([[moulle-2013-fatty-acid-transporter-cd36-mediates|Moullé 2013]]): 식후 TG-지단백→국소 LPL→FA→**VMN CD36**→식이 억제. VMN CD36 knockdown·acyl-CoA 합성 억제가 차단하나 β-산화 억제는 무효. VMH 뉴런 FA 감지의 ≥50%가 CD36 매개(Le Foll 2009).
+
 ## Thermogenesis 회로
 - SF1 T3 → parasym (liver de novo lipogenesis) + sym (BAT) — autonomic 이중 작용 (Martínez-Sánchez 2017 Cell Metab).
 - AMPK·ceramide 매개 — López lab.
@@ -50,6 +54,8 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - [[concept-lateral-hypothalamus]] — downstream (maternal obesity 강화).
 - [[concept-melanocortin-system]] — MC3R/MC4R 매개.
 - [[concept-hypothalamic-ampk]] — SF1 AMPK 회로.
+- [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — VMN CD36 매개 지방산 감지 → 식이 억제 (PLoS ONE 2013).
+- [[concept-cd36]] — VMH 지방산 감지의 주 effector.
 - [[concept-paraventricular-nucleus]] · [[concept-dorsomedial-hypothalamus]] — 인근.
 - [[freire-agulleiro-2026-early-life-programming-of]] — programming.
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas (VMH heterogeneity).

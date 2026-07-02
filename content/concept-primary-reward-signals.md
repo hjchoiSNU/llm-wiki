@@ -119,6 +119,9 @@ updated: 2026-05-01
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — 본 개념의 정의 출처.
 - [[grove-2022-dopamine-subsystems-track-internal]] — water (state-driven) prototype.
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — sugar/fat (event-driven) 회로.
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — 지방 event-driven primary reward의 gut-brain 회로·수용체(GPR40/120) (Nature 2022, Zuker).
+- [[concept-fat-taste]] — 구강 지방(proxy) vs 장 지방(primary) 감지.
+- [[concept-cd36]] · [[concept-free-fatty-acid-receptors]] — 지방 sensor 분자.
 - [[concept-flavor-nutrient-conditioning]] — primary reward의 행동 paradigm.
 - [[concept-interoception]] — primary reward는 interoceptive.
 - [[concept-basolateral-amygdala]] — sugar/fat primary reward target.
