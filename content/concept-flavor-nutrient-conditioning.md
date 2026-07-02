@@ -41,6 +41,7 @@ updated: 2026-05-01
 - Upper intestine PPAR-α → vagus.
 - GPR40/120 + CD36 차단으로 fat-FNC 차단.
 - Sugar + fat **supra-additive** — calorie 동일 대비 둘 다 있는 음식이 더 강한 reinforcer ([[concept-dopamine-reward-system]] 비만 단서).
+- **미각 비의존 gut-brain 지방 선호** ([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022, Zuker]]): TRPM5-KO(지방 맛맹)도 지방 선호 형성; 두 병렬 미주 경로(CCK-의존 VIP generalist·CCK-비의존 TRPA1 fat-only). 장 수용체는 **[[concept-free-fatty-acid-receptors|GPR40/GPR120]] 필수, [[concept-cd36|CD36]] 불요**(CRISPR) — 구강 미뢰 CD36([[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]])와 부위별 분리.
 
 ### 4. Lever press 안 됨, lick만
 - 동물은 IG nutrient 받기 위해 lever press 안 함, **lick** 행동만 한다 (Holman 1969).
@@ -109,6 +110,9 @@ Fat   → GPR40/120 + CD36 → vagus →
 
 ## 관련 페이지
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — 회로 정체 규명.
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — 미각 비의존 gut-brain 지방 선호·두 병렬 미주 경로 (Nature 2022, Zuker).
+- [[concept-fat-taste]] — 구강 지방 감지(proxy) — post-oral과 대비.
+- [[concept-cd36]] · [[concept-free-fatty-acid-receptors]] — 지방 sensor(구강 CD36 vs 장 GPR40/120).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 맛(sweet/fat) vs 칼로리 분리; 영양분이 DMH^LepR 맛 응답을 시간에 걸쳐 potentiate (Neuron 2024, Knight lab).
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework.
 - [[concept-basolateral-amygdala]] — aBLA가 학습 hub.

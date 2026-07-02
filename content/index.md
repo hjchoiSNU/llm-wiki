@@ -6,8 +6,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 268 (+ index.md, log.md)
-- 마지막 갱신: 2026-06-30
+- 총 페이지: 276 (+ index.md, log.md)
+- 마지막 갱신: 2026-07-02
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -124,6 +124,16 @@ _(섭식·동기 행동은 🍽️로)_
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 **BNST→NAc·OFC·dmINS** effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측; 인간 7T fMRI+DCM gustometer (Nat Commun 2026, Steward·Brown lab).
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
+
+### 지방 감지 (Fat sensing — 구강·장·중추 3층)
+지방(LCFA)을 감지하는 CD36/GPR40/GPR120이 혀·장·시상하부에서 부위별 분업. 구강=쾌락 초안, 장=wanting(gut-brain), 중추=satiety.
+- [[concept-fat-taste]] — 구강 지방 감지("제6의 미각") 개념 hub.
+- [[concept-cd36]] — 지방산 translocase; 구강·VMH·장 3층 backbone.
+- [[concept-free-fatty-acid-receptors]] — GPR40(FFAR1)/GPR120(FFAR4); 장 gut-brain 선호 필수·GLP-1 분비.
+- [[laugerette-2005-cd36-involvement-in-orosensory-detection]] — CD36가 혀 미뢰 지방 미각 수용체 최초 규명; 결손 시 지방선호 소실·cephalic phase (JCI 2005, Besnard).
+- [[martin-2011-the-lipid-sensor-candidates-cd36]] — 미뢰 CD36(식이지방에 후전사 급감=sensory-specific satiety) vs GPR120(불변) 분리 (PLoS ONE 2011).
+- [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — 시상하부 VMN CD36가 지방산 감지→식이 억제(acyl-CoA 의존, β-산화 비의존) (PLoS ONE 2013, Magnan·Levin).
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — ★ 미각 비의존 gut-brain 지방 선호; CCK-의존 VIP generalist(GPR40/120) + CCK-비의존 TRPA1 fat-only 두 미주 경로; liking(미각)≠wanting(gut-brain) (Nature 2022, Zuker).
 
 ### 호르몬
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — Ghrelin 식전 surge 인간 입증 (Diabetes 2001).
@@ -316,6 +326,7 @@ _(아직 페이지 없음)_
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]]
+- [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]]
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
@@ -351,6 +362,7 @@ _(아직 페이지 없음)_
 - [[person-knight-zachary]] — 시상하부 섭식·갈증 회로의 실시간 dynamics·예측 신호·자원별 도파민 보상(AgRP·DMH^LepR·flavor-nutrient). UCSF / HHMI.
 - [[person-luscher-christian]] — 중독의 회로·시냅스 가소성 모델·oDASS·compulsion; cue NAc 도파민=취약성 표지. University of Geneva.
 - [[person-kravitz-alexxai]] — 기저핵 D1/D2 경로·복측 창백핵(VP)·섭식·비만 회로신경과학. Washington University in St. Louis.
+- [[person-zuker-charles]] — 미각 coding("labeled-line") + gut-brain 당·지방 선호(wanting≠liking). Columbia / HHMI.
 
 ## 🌐 종합/리뷰 (Overviews)
 

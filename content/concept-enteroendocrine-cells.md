@@ -132,4 +132,6 @@ Lamina propria의 vagal afferent terminal (~5-10 µm 거리)을 직접 자극. �
 - [[concept-cck]], [[concept-glp-1]], [[concept-pyy-3-36]] — 개방형, 공발현 일반적.
 - [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]] — 본 페이지의 reference.
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 지연 post-ingestive DA가 enteroendocrine·미주 영양감지에 의존 (Kaelberer 2018 인용) (Cell Metab 2019).
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — CCK⁺ EEC가 당·지방·아미노산 gut-brain 선호(wanting)의 generalist 감지 세포(GPR40/GPR120→CCK→VIP 미주) (Nature 2022, Zuker).
+- [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] — EEC 지방 감지 수용체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

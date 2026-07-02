@@ -10,6 +10,24 @@
 
 ---
 
+## 2026-07-02 — ingest (fat sensing 4편: 구강·장·중추 지방 감지)
+
+Claude chat에서 다운로드해 `raw/`에 추가된 fat 관련 PDF 4편 정리(2026-07-02 18:01 추가분). 8개 신규 + 7개 갱신 + index·log. 사용자 [[proposal-oral-fat-taste-pleasure-desire]]가 위험요인으로 flag했던 "구강 지방 수용체 정체" 공백을 정확히 채움.
+
+**신규 논문(4)**:
+- [[laugerette-2005-cd36-involvement-in-orosensory-detection]] — [[concept-cd36|CD36]]가 혀 미뢰의 구강 지방(LCFA) 미각 수용체 최초 규명; CD36-null=지방선호 소실(단·쓴맛 정상)·cephalic-phase 소화분비 (JCI 2005, Besnard).
+- [[martin-2011-the-lipid-sensor-candidates-cd36]] — 미뢰 CD36(식이지방에 후전사 급감=sensory-specific satiety 유사) vs GPR120(불변) 역할 분리 (PLoS ONE 2011).
+- [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — 시상하부 VMN CD36가 지방산 감지→식이 억제(acyl-CoA 의존, β-산화 비의존) (PLoS ONE 2013, Magnan·Levin).
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — ★ 미각 비의존 gut-brain 지방 선호(TRPM5-KO도 형성); CCK-의존 VIP generalist([[concept-free-fatty-acid-receptors|GPR40/120]]) + CCK-비의존 TRPA1 fat-only 두 미주 경로; **liking(미각)≠wanting(gut-brain)** 명시 (Nature 2022, Zuker).
+
+**신규 개념·인물(4)**: [[concept-cd36]](지방 translocase 3층 backbone) · [[concept-fat-taste]](지방맛/제6의 미각 hub) · [[concept-free-fatty-acid-receptors]](GPR40/GPR120) · [[person-zuker-charles]].
+
+**핵심 통찰 — 부위·기능별 수용체 분업**: 지방 감지가 **구강(미뢰 CD36 필수)·장(gut-brain 선호엔 GPR40/120 필수·CD36 불요)·중추(VMH CD36)** 3층에서 같은 분자군을 다르게 사용. Li 2022가 CRISPR로 장 CD36 불요를 명시(구강 CD36 필수와 대비).
+
+**갱신(역링크, 7)**: [[concept-vagal-afferent-neurons]](VIP·TRPA1 nodose 세포타입·두 경로) · [[concept-cck]](generalist 선호 전달자) · [[concept-flavor-nutrient-conditioning]] · [[concept-primary-reward-signals]] · [[concept-ventromedial-hypothalamus]](CD36 FA 감지) · [[concept-enteroendocrine-cells]] · [[proposal-oral-fat-taste-pleasure-desire]](수용체 정체 위험 해소). [[index.md]] 페이지수 268→276·날짜·🍽️ "지방 감지" 소절 신설·💡 개념·👤 인물 추가. raw/ 미수정.
+
+---
+
 ## 2026-06-30 — ingest (2026-06-30 batch: POMC 글리코겐 · VP hedonic · NAc cue 도파민 · BLA ACh salience)
 
 `raw/`에 추가된 2026-06-30 신규 PDF 4편 정리(중복 1건 제외: 세마글루타이드 hindbrain 논문은 기존 [[gao-2026-semaglutide-drives-weight-loss-through]]와 동일 재추가라 ingest 안 함). 8개 신규 + 6개 갱신 + index·log.
