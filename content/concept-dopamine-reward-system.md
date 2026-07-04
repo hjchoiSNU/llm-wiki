@@ -171,3 +171,8 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — mesolimbic 표적 NAc의 D1/D2 MSN·도파민 gradient.
 - [[dong-2026-reward-prediction-is-encoded-by]] — orexin의 reward prediction 부호화(도파민 PE와 비교).
 - [[concept-orexin-neurons]] — orexin→VTA/mesolimbic dopamine 연결.
+- [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin이 VTA→NAc 보상계 조율(food reward 종합).
+- [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 다이어트 vs 위우회술의 중변연계/흑질선조체 도파민 재설정.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 선조체 도파민의 미각(VS)/영양(DS) 별개 부호화.
+- [[meye-2014-feelings-about-food-the]] — VTA 도파민이 팔라터블·스트레스·큐 섭식을 통합.
+- [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 cue-triggered incentive motivation 증폭.

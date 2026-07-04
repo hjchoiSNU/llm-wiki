@@ -6,7 +6,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 335 (+ index.md, log.md)
+- 총 페이지: 350 (+ index.md, log.md)
 - 마지막 갱신: 2026-07-05
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -111,6 +111,9 @@ _(섭식·동기 행동은 🍽️로)_
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP(macaque) LHA GABAergic chemogenetic 활성화가 palatable food 한정 goal-directed 식이↑; GABA PET·7T MRS·rs-fMRI 검증; rodent→human 번역 다리 (Neuron 2024, 사용자 lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 매개 (bioRxiv 2025, Knight lab).
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH 3 motivational drive arbitration (Korotkova).
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR(섭식·음수 억제·social 우선) vs LH^Nts(음수 촉진·social 억제) 상보 arbitration; leptin이 food-anticipatory LepR 활성 (Cell Metab 2023, Korotkova).
+- [[rossi-2023-control-of-energy-homeostasis]] — LHA ≥30 세포타입·Vgat(engine)/Vglut2(brake)·Orexin/MCH/LepR/Nts/MC3R 회로 종합; coarse DBS 비일관→세포타입 표적 (TiNS 2023).
+- [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 통합하는 general salience hub; opioid 비의존 진통·항불안, cell-type(GABA·Glu)·투사(LPO·LHb·VTA·LPAG)별 분업 (Nat Commun 2026, Zhou lab; 사용자 Cheon 2025 인용).
 - [[faour-2025-emerging-role-of-agrp]] — AgRP integrator (Luquet lab).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (Quarta·Cota).
@@ -352,6 +355,7 @@ _(아직 페이지 없음)_
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]]
 - [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
 - [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)
+- [[concept-emotional-eating]] · [[concept-early-life-adversity]] — 정서적 섭식·초기역경 발달 programming
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
@@ -440,6 +444,19 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa).
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — 중독=쾌락(양성강화) 아닌 **hyperkatifeia 제거(음성강화)**; 확장 편도체(CeA/BNST)·CRF·dynorphin·glucocorticoid; ghrelin·GLP-1 gut-brain 조절 (Neuron 2026, Koob). 개념 hub [[concept-negative-reinforcement-hyperkatifeia]]. 정서적 폭식·food addiction 이식.
 
+#### 보상·food-addiction·정서적 섭식 (2014–2023 배치)
+개념 hub: [[concept-emotional-eating]] · [[concept-food-addiction]] · [[concept-liking-wanting]].
+- [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin이 VTA→NAc 보상계 조율·food addiction 종합 (NRE 2014).
+- [[meye-2014-feelings-about-food-the]] — VTA로 수렴하는 팔라터블·스트레스·큐 3축; 정서적 섭식 회로 (TiPS 2014).
+- [[hone-blanchet-2014-overlap-of-food-addiction]] — FA↔SUD 정의 중첩; sugar/fat/sweet-fat 동물모델 해리 (2014).
+- [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 다이어트(중변연계 요요) vs 위우회술(흑질선조체 지방 counter) 도파민 재설정 (TEM 2015).
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 당의 hedonic(복측 VS)/nutritional(배측 DS) 회로 분리, 에너지 우선 (Nat Neurosci 2016).
+- [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 cue approach(wanting)만 선택 증폭(섭취·US 동기 아님), 비만 무관 (Physiol Behav 2018).
+
+#### 해마-측좌핵 식욕기억
+- [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc(PV+FSI feedforward inhibition)가 공간 식욕기억을 행동으로 번역 (Cell 2019).
+- [[azevedo-2019-a-role-of-drd2]] — 해마 hilus Drd2 뉴런(LEC→해마→중격)이 맥락 의존 섭식·음식-장소 기억 조절 (Neuron 2019).
+
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012).
 
@@ -505,4 +522,5 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 위 카테고리에 들어가지 않는 페이지.
 
-_(없음)_
+- [[matsuda-2020-diet-and-feeding-behavior-of]] — 우간다 흑백콜로부스 야외 섭식생태(엽식성·계절 식이 다양성); 신경회로와 직접 관련 낮은 비교섭식 참고 자료.
+- [[ghashghaei-2002-pathways-for-emotion-interactions]] — rhesus 편도 전전두/전측두 입력·IM→CeA 자율 게이팅 배선도(고전 해부); CeA/BLA/OFC 회로 좌표계.
