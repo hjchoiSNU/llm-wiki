@@ -20,7 +20,7 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
   - **D2 MSN**: DRD2, ADORA2A(A2A 수용체), enkephalin(PENK). indirect pathway(억제 경향).
 - **회로**: D1 MSN은 basal ganglia output 핵으로 직접 투사(direct), D2 MSN은 external globus pallidus 경유(indirect). NAc에서는 이 이분법이 보상 접근 vs 회피/혐오와 연결되나 shell/core·subtype에 따라 복잡.
 - **이질성**: 전통적 D1/D2 이분법을 넘어 다수의 전사적 subtype이 존재하며, 인간 NAc에서는 discrete cluster + **연속 공간 gradient**로 조직됨(→ [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]]). OPRM1+ D1 island 같은 특화 구획도 포함.
-- **기능적 해리**: NAc shell의 D1/D2 MSN이 섭식·동기에서 서로 다른 역할을 함(→ [[guillaumin-2023-disentangling-the-role-of-nac]]).
+- **기능적 해리**: NAc shell의 D1/D2 MSN이 섭식·동기에서 서로 다른 역할을 함(→ [[guillaumin-2023-disentangling-the-role-of-nac]]). 등외측 선조체에서는 dSPN(D1)/iSPN(D2)가 방향 조종(steering)과 행동 횟수 세기(counting)를 push–pull(accumulator vs leak)로 해리 제어(→ [[fallon-2026-striatal-pathways-dissociably-control-action]]).
 
 ## 관련 페이지
 - [[concept-nucleus-accumbens]] — MSN이 주 뉴런인 배쪽 striatum 구조.
@@ -29,3 +29,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1/D2 MSN 기능 해리.
 - [[chen-2026-striatal-control-of-amygdalar]] — striatal D1/D2-MSN 회로 기능.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — NAc 도파민·MSN 중독 취약성 맥락.
+- [[fallon-2026-striatal-pathways-dissociably-control-action]] — dSPN/iSPN이 steering·counting을 해리 제어(DLS).

@@ -6,8 +6,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 288 (+ index.md, log.md)
-- 마지막 갱신: 2026-07-04
+- 총 페이지: 291 (+ index.md, log.md)
+- 마지막 갱신: 2026-07-05
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -421,6 +421,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 ### 종합·메타
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 논쟁 Nature Feature (2026).
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa).
+- [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — 중독=쾌락(양성강화) 아닌 **hyperkatifeia 제거(음성강화)**; 확장 편도체(CeA/BNST)·CRF·dynorphin·glucocorticoid; ghrelin·GLP-1 gut-brain 조절 (Neuron 2026, Koob). 개념 hub [[concept-negative-reinforcement-hyperkatifeia]]. 정서적 폭식·food addiction 이식.
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012).
@@ -450,6 +451,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 전담 (bioRxiv 2025, Knight lab).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 역방향 **VTADA→LH**가 cue–특정결과 학습·의사결정(PIT)에 필요·충분; LH 도파민=비-RPE 보상근접 ramp; 메스암페타민이 LH-VTA 양방향 강화→cue 통제력↑(habit 이론 반박) (Neuron 2026, Sharpe lab).
 - [[dong-2026-reward-prediction-is-encoded-by]] — LH [[concept-orexin-neurons|orexin]] 뉴런이 **reward prediction을 부호화**(보상 직전 상승·수령 후 감소·effort 의존); 예측 직전 짧은 광억제만으로 동기 행동 차단; orexin-Cre rat 인과 (PNAS 2026). 단순 arousal 아님. _(LH 회로는 🍽️에도)_
+- [[fallon-2026-striatal-pathways-dissociably-control-action]] — 등외측 선조체 **dSPN(D1)/iSPN(D2)가 steering(방향)과 action counting(횟수 세기)을 push–pull로 해리 제어**; net(dSPN−iSPN)=목표 근접도; accumulator vs leak (Nat Neurosci 2026, Yin lab). [[concept-medium-spiny-neuron|MSN]] 기능 분업 확장.
 
 ### 진영 — Interoceptive primary reward (RL framework)
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — Primary/proxy/secondary reward + state-driven vs event-driven (Trends Cogn Sci 2025).

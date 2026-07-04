@@ -8,6 +8,15 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-05 — ingest (대량 배치 시작: 정독완료 2편 + food-toxicity 웨이브 착수)
+
+`raw/`에 미처리 ≈50편 대량 추가 확인 → 주제별 웨이브로 처리 시작.
+- **신규 2편(정독완료)**: [[vendruscolo-2026-neurobiology-of-negative-reinforcement]](Koob 음성강화·hyperkatifeia, Neuron 2026) + 개념 [[concept-negative-reinforcement-hyperkatifeia]]; [[fallon-2026-striatal-pathways-dissociably-control-action]](Yin, DLS dSPN/iSPN counting·steering, Nat Neurosci 2026).
+- **W1 착수**: food 독성·혐오 감지 13편(후각경계→쓴맛-CeA→PBN CGRP 일반경보→최후야/오심→장·면역) 정독 에이전트 병렬 실행 → [[overview-cea-glp1r-food-safety-alarm]] 배경 강화 예정.
+- 대기: W2 GLP-1/incretin ~15 · W3 NPY-NAc ~7 · W4 LH/보상/food-addiction ~10.
+
+---
+
 ## 2026-07-04 — update ([[overview-cea-glp1r-food-safety-alarm]] 이론 강화)
 
 Woods 1991 원문(18p) 재정독 후 "이론적 토대" 섹션 강화: 음식의 **두 위협 축(대사 + toxin)**, neophobia·learned safety·poison avoidance, 식사=경미한 stressor(접근 속 긴장), **두 겹 방어관문(입안 쓴맛 즉시 거부 + 사후 CTA 혐오학습)**, 그리고 "왜 이 food 거부감을 CeA^Glp1r가 담당하는가" 가설 근거(CeA=혐오/CTA 허브 + GLP-1=malaise 내수용 + godschall/duran 약리 정합)를 추가. 쓴맛-toxin·CeA^Glp1r-혐오학습 인과는 honest-gap(가설)으로 명시, 검증 실험(CTA·photometry) 함의 추가. 교차링크 [[concept-interoception]] 보강.
