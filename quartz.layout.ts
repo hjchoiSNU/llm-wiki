@@ -5,7 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    // 댓글창(Giscus) — 실제 글에만 표시. 홈/태그/폴더 목록 페이지는 제외.
+    Component.ConditionalRender({
+      component: Component.Comments({
+        provider: "giscus",
+        options: {
+          repo: "hjchoiSNU/llm-wiki",
+          repoId: "R_kgDOS9HyDA",
+          category: "General",
+          categoryId: "DIC_kwDOS9HyDM4DAeba",
+          mapping: "url",
+          lang: "ko",
+        },
+      }),
+      condition: (page) => {
+        const slug = page.fileData.slug ?? ""
+        return slug !== "index" && !slug.startsWith("tags/") && !slug.endsWith("/index")
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
