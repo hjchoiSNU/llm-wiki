@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-04 08:00 — daily-digest
+자동 ingest: 조회 4건 · ★추천 1 (Neuron 인간 NAc 공간전사체 아틀라스, PMID 42385698) · 일반 2 (Lancet NCD-RisC 비만 대사형질, Lancet 논평) · 제외 1 (지질학 'arcuate' 오매칭). Drive 업로드 0건(무료 OA PDF 미확보). Gmail 초안 생성.
+
 ---
 
 ## 2026-07-02 — ingest (fat sensing 4편: 구강·장·중추 지방 감지)
