@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-04 — update ([[overview-cea-glp1r-food-safety-alarm]] 이론 강화)
+
+Woods 1991 원문(18p) 재정독 후 "이론적 토대" 섹션 강화: 음식의 **두 위협 축(대사 + toxin)**, neophobia·learned safety·poison avoidance, 식사=경미한 stressor(접근 속 긴장), **두 겹 방어관문(입안 쓴맛 즉시 거부 + 사후 CTA 혐오학습)**, 그리고 "왜 이 food 거부감을 CeA^Glp1r가 담당하는가" 가설 근거(CeA=혐오/CTA 허브 + GLP-1=malaise 내수용 + godschall/duran 약리 정합)를 추가. 쓴맛-toxin·CeA^Glp1r-혐오학습 인과는 honest-gap(가설)으로 명시, 검증 실험(CTA·photometry) 함의 추가. 교차링크 [[concept-interoception]] 보강.
+
+---
+
 ## 2026-07-04 — synthesis ([[overview-cea-glp1r-food-safety-alarm]])
 
 사용자 요청 종합 페이지 작성: **CeA GLP-1R 뉴런 = "food safety alarm"** framework. [[woods-1991-the-eating-paradox-how]](음식=위협·혐오학습) + [[godschall-2026-a-brain-reward-circuit-inhibited]](NTS^Gcg→CeA^Glp1r→VTA→NAc DA↓) + [[duran-2026-the-central-amygdala-gates]] 종합. 생리적 역할(현재 섭취↓ + 혐오 연합학습으로 미래 섭취↓) vs GLP-1RA 약리 역할(약물 유발 food aversion→섭취↓ / 혐오정동·우울). 혐오학습·우울 인과는 honest-gap으로 명시(가설). 역링크 4(concept-central-amygdala-glp1r·godschall·duran-gates·woods-1991) + index Overviews 등록.
