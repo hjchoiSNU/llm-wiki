@@ -28,4 +28,5 @@ aliases: [Zachary Knight, Zach Knight]
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — orosensory vs post-ingestive DA(인체) — Knight lab framework와 정합.
 - [[concept-need-motivation-pleasure-utility]] — 사용자 lab 이론과의 접점.
 - [[person-choi-hyung-jin]] — 사용자.
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — EEC 아형별 food reward/aversion 교차유전학(교신저자).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

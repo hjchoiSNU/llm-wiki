@@ -59,4 +59,8 @@ year: 1991
 - [[concept-flavor-nutrient-conditioning]] — 맛·단서와 대사결과의 학습된 연합(cephalic 반응·CTA의 학습 기반).
 - [[concept-loss-of-control-eating]] — 학습된 식이 방어의 부적응(섭식장애·병적 음식공포) 논의와 연결.
 - [[overview-cea-glp1r-food-safety-alarm]] — 본 논문의 "음식=위협·혐오학습" 이론을 CeA GLP-1R 뉴런·GLP-1RA 약리에 적용한 종합.
+- [[concept-cortical-amygdala]] — 섭취 전 선천 후각 위험 감지 회로.
+- [[concept-conditioned-taste-aversion]] — "독성/큰 식사 뒤 aversion" 예측의 실험 패러다임.
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — "먹기=위협·neophobia·CTA"의 뇌간 실행자(PBN CGRP).
+- [[wang-2018-coding-of-valence-and-identity]] — "입안 쓴맛 즉시 거부"의 회로(쓴맛피질→CeA).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -98,3 +98,5 @@ Glp1r-Cre 마우스에 부위별 human GLP1R 발현 후 danuglipron:
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-choi-hyung-jin]] — 인용된 사용자 lab(Kim 2024 Science).
 - [[overview-cea-glp1r-food-safety-alarm]] — 본 논문 회로를 Woods 1991 "음식=위협" 이론과 묶어 CeA^Glp1r을 food safety alarm으로 종합(치료효과=약물 유발 aversion, 부작용=혐오정동/anhedonia).
+- [[zhang-2021-area-postrema-cell-types-that]] — AP GLP1R 오심 관문(hedonic CeA와 대비).
+- [[concept-area-postrema]] — AP GLP1R hub.

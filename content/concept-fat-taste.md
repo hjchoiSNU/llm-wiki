@@ -58,3 +58,5 @@ LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) →
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방→gut endocannabinoid 양성 피드백.
 - [[concept-endocannabinoid-system]] — 2-AG/anandamide–CB1 축 hub.
+- [[wang-2018-coding-of-valence-and-identity]] — 미각 modality-특이 valence의 편도 처리.
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — EEC 지방/영양 chemoreceptor 발현.

@@ -101,3 +101,5 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[woods-1991-the-eating-paradox-how]] — cephalic 반응 = preingestive 대사 조율.
 - [[concept-cephalic-phase-response]] — cephalic 반응 hub.
+- [[schiff-2018-an-insula-central-amygdala-circuit]] — 예측적(단서) vs 소비(전달 후) 단계 구분.
+- [[campos-2018-encoding-of-danger-by-parabrachial]] — 섭취 직전 CGRP^PBN 억제(gating).

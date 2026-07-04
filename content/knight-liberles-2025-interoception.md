@@ -87,3 +87,5 @@ Knight × Liberles editorial — 인터셉션 분야 21개 review의 frontier �
 - [[grove-2022-dopamine-subsystems-track-internal]] · [[grove-2025-lateralized-pathway-associating-nutrients]] — Knight 본인 lab의 핵심 결과.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — 같은 호의 Small 저자의 RL 통합.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — interoception 임상 응용.
+- [[dong-2026-nose-to-brain-axis-spoiled-food]] — 구토/retching 방어의 후각-구동 회로 사례.
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — vagal→NTS→PBN 위협 내수용 축.

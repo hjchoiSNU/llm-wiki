@@ -228,4 +228,6 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[woods-2016-regulation-of-the-motivation]] — homeostatic↔hedonic crosstalk·예측적 항상성(섭식 동기의 생리 토대).
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — 인간 goal-directed/habitual/Pavlovian 분해 + PIT·arbitration(NMPU 인간 번역 틀).
 - [[redish-2016-the-computational-complexity-of-valuation]] — 가치의 다중성(단일 common currency 거부)·craving·CM(계산 관점).
+- [[dong-2026-nose-to-brain-axis-spoiled-food]] — 운동방어(retching) vs 가치방어(aversion) 해리.
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — CGRP^PBN 혐오 경보 = 부적 정동/utility 축.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
