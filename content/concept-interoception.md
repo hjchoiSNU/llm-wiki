@@ -112,3 +112,8 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[overview-appetite-energy-homeostasis]] — 통합 hub.
 - [[woods-1991-the-eating-paradox-how]] — 예측적 항상성의 고전 원전.
 - [[concept-cephalic-phase-response]] — 예측적 대사반응 hub.
+- [[dong-2026-nose-to-brain-axis-spoiled-food]] — 구역/retching 방어의 후각(exteroceptive) 트리거.
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — 위협/wellness 지각의 뇌간 relay(PBN).
+- [[zhang-2021-area-postrema-cell-types-that]] — 순환 독소·호르몬 감지 관문(AP).
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — 장 화학감지→뇌 valence 내수용 경로.
+- [[florsheim-2023-immune-sensing-of-food-allergens]] — 면역→뇌(류코트리엔·GDF15) 내수용 위험 감지.

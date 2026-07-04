@@ -6,7 +6,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 291 (+ index.md, log.md)
+- 총 페이지: 309 (+ index.md, log.md)
 - 마지막 갱신: 2026-07-05
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -140,6 +140,14 @@ _(섭식·동기 행동은 🍽️로)_
 - [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — 시상하부 VMN CD36가 지방산 감지→식이 억제(acyl-CoA 의존, β-산화 비의존) (PLoS ONE 2013, Magnan·Levin).
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — ★ 미각 비의존 gut-brain 지방 선호; CCK-의존 VIP generalist(GPR40/120) + CCK-비의존 TRPA1 fat-only 두 미주 경로; liking(미각)≠wanting(gut-brain) (Nature 2022, Zuker).
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방→미주 경유 소장(jejunum) endocannabinoid(2-AG·anandamide) 동원→CB1로 지방 섭취 촉진하는 뇌–장 양성 피드백; 말초 한정 CB1 길항이 항비만 표적 (PNAS 2011, Piomelli). 개념 hub [[concept-endocannabinoid-system]].
+
+### 음식 위험·혐오 감지 (Food safety alarm — 다층 경보)
+음식이 몸에 들어오는 순서대로 위험을 감지·거부하는 다층·중복 경보. 종합: [[overview-cea-glp1r-food-safety-alarm]]. 개념 hub: [[concept-cortical-amygdala]]·[[concept-taste-valence-coding]]·[[concept-parabrachial-cgrp-alarm]]·[[concept-area-postrema]]·[[concept-conditioned-taste-aversion]].
+- **섭취 전(후각)** — [[dong-2026-nose-to-brain-axis-spoiled-food]]: 부패취(2MBA)가 후각→aPir에서 retching(운동)·혐오(동기)로 분기 (Nat Commun 2026). · [[root-2014-participation-of-cortical-amygdala-innate]]: 피질편도가 선천 냄새 유인/회피에 필요·충분 (Nature 2014). · [[howe-2026-control-of-innate-olfactory-valence]]: plCoA가 valence를 NAc(유인)/MeA(회피)로 라우팅 (eLife 2026).
+- **입안(미각)** — [[wang-2018-coding-of-valence-and-identity]]: 쓴맛피질→CeA(혐오)/단맛피질→BLAa(유인); identity=피질·valence=편도 이중해리 (Nature 2018, Zuker). · [[jin-2021-top-down-control-of-sweet]]: 미각피질·CeA→뇌간 top-down으로 쓴맛 증폭·단맛 억제("위험>보상") (Cell 2021, Zuker). · [[schiff-2018-an-insula-central-amygdala-circuit]]: IC→CeL이 예측적 혐오 회피 학습에 필수 (J Neurosci 2018).
+- **뇌간(일반경보)** — [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]]: PBN CGRP=소스 구분 없는 general alarm (TiNS 2018, Palmiter). · [[campos-2018-encoding-of-danger-by-parabrachial]]: CGRP^PBN 단일세포가 통증·malaise·food neophobia·공포 부호화 (Nature 2018). · [[campos-2016-parabrachial-cgrp-neurons-control-meal]]: CGRP^PBN 생리적 meal termination·PBN→PKC-δ^CeA (Cell Metab 2016).
+- **섭취 후(순환독소)** — [[zhang-2021-area-postrema-cell-types-that]]: 최후야 GLP1R/GFRAL 뉴런이 독소 오심을 funneling (Neuron 2021). · [[zhang-2022-brainstem-circuit-for-nausea]]: GIP-GIPR 억제뉴런이 오심을 끄는 off-switch (Cell Rep 2022).
+- **장·면역** — [[bai-2022-enteroendocrine-cell-types-that-drive]]: EEC 아형이 선호(CCK/미주)·혐오(5-HT/척수) 분리 인코딩 (eLife 2022, Knight). · [[florsheim-2023-immune-sensing-of-food-allergens]]: IgE·비만세포·GDF15·류코트리엔이 알레르겐 회피 명령 (Nature 2023).
 
 ### 호르몬
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — Ghrelin 식전 surge 인간 입증 (Diabetes 2001).
@@ -330,11 +338,13 @@ _(아직 페이지 없음)_
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]]
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]]
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]]
+- [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]]
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]]
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]]
 - [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
+- [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
