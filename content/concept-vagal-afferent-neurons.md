@@ -130,3 +130,4 @@ Single-cell transcriptomics (Kupari 2019, Bai 2019, Zhao 2022)로 ~30+ subpopula
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — **fructose 전용** Y2R(Npy2r)+ VAN 경로가 AgRP 억제 매개(glucose=척수 구심성과 분리); fructose·glucose가 비중복 VAN 집단 활성 (Neuron 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — gut endocannabinoid 동원의 미주신경 의존성.
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — Cck EEC 선호가 미주 구심 의존(vagotomy로 소거).

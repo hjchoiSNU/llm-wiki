@@ -136,3 +136,4 @@ Lamina propria의 vagal afferent terminal (~5-10 µm 거리)을 직접 자극. �
 - [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] — EEC 지방 감지 수용체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — endocannabinoid 반응이 enterocyte OEA와 독립.
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — EEC 아형 in vivo 선택 조작(교차유전학)·아형별 food reward/aversion.

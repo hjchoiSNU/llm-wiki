@@ -46,4 +46,6 @@ aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침
 - [[concept-interoception]] — dmINS↔BNST 내수용 축.
 - [[concept-dopamine-reward-system]] — 스트레스 NAc 도파민·BNST–VTA.
 - [[concept-food-insecurity]] · [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — 스트레스성 과식 임상.
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — CGRP^PBN→BNST 난형핵 위협 중계.
+- [[concept-parabrachial-cgrp-alarm]] — BNST로 투사하는 뇌간 일반경보 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

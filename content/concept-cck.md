@@ -97,3 +97,5 @@ aliases: [CCK, cholecystokinin]
 - [[concept-fat-taste]] — 구강 지방 감지(장 CCK 축과 대비).
 - [[overview-appetite-energy-homeostasis]] — 4-호르몬 프레임워크.
 - [[woods-1991-the-eating-paradox-how]] — satiety 매개 장호르몬으로 인용.
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — Cck EEC(I/N/L)가 미주·CCKAR로 풍미 선호 구동.
+- [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — CCK 포만이 CGRP^PBel 활성화를 요구.
