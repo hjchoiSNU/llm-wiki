@@ -6,7 +6,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 287 (+ index.md, log.md)
+- 총 페이지: 288 (+ index.md, log.md)
 - 마지막 갱신: 2026-07-04
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -385,6 +385,7 @@ _(아직 페이지 없음)_
 - [[overview-research-proposals]] — 연구계획서 6과제 비교 hub(축·방법·종·기간·실현가능성·중견양식).
 - [[overview-behavioral-neuroscience-of-motivation-2016]] — 동기 신경과학 편저서(Springer, Simpson & Balsam 2016) 색인 hub. cost-benefit arbiter→direction&vigor·다중 의사결정계 arbitration=NMPU와 동형. 추출 3장: Woods(섭식 동기)·O'Doherty(인간 통제계)·Redish(가치 계산).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 비만·대사 약물 임상 5건(survodutide dual·elecoglipron·aleniglipron 경구 소분자·CagriSema amylin 복합) 기전별 색인. GLP-1 단일을 넘는 다중 수용체·경구화 흐름.
+- [[overview-cea-glp1r-food-safety-alarm]] — ★ **CeA GLP-1R 뉴런 = "음식 안전 경보"** 종합(Woods 1991 + Godschall 2026 + Duran 2026): 생리적 방어(현재 섭취↓·혐오 연합학습으로 미래 섭취↓)를 GLP-1RA 약물이 hijack → 치료(food aversion·섭취↓)와 부작용(혐오정동·우울/anhedonia)이 같은 뉴런의 두 얼굴.
 
 ## 🔬 연구계획서 (Research Proposals)
 

@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-04 — synthesis ([[overview-cea-glp1r-food-safety-alarm]])
+
+사용자 요청 종합 페이지 작성: **CeA GLP-1R 뉴런 = "food safety alarm"** framework. [[woods-1991-the-eating-paradox-how]](음식=위협·혐오학습) + [[godschall-2026-a-brain-reward-circuit-inhibited]](NTS^Gcg→CeA^Glp1r→VTA→NAc DA↓) + [[duran-2026-the-central-amygdala-gates]] 종합. 생리적 역할(현재 섭취↓ + 혐오 연합학습으로 미래 섭취↓) vs GLP-1RA 약리 역할(약물 유발 food aversion→섭취↓ / 혐오정동·우울). 혐오학습·우울 인과는 honest-gap으로 명시(가설). 역링크 4(concept-central-amygdala-glp1r·godschall·duran-gates·woods-1991) + index Overviews 등록.
+
+---
+
 ## 2026-07-04 — ingest (7/4 raw 신규 PDF 6편: NAc·CeA·orexin·endocannabinoid·eating paradox·PriVi)
 
 병렬 정독 후 정리. **신규 11 + 갱신 32(역링크 30 + index + log)**.
