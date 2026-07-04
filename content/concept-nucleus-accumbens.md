@@ -60,3 +60,6 @@ updated: 2026-06-01
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc의 세포타입·공간 아틀라스.
 - [[concept-medium-spiny-neuron]] — NAc 주 출력 뉴런(D1/D2 MSN) hub.
 - [[concept-orexin-neurons]] — NAc↔LH orexin disinhibition 회로.
+- [[dong-2026-nose-to-brain-axis-spoiled-food]] — 부패취 혐오의 NAc^GABA 출력.
+- [[howe-2026-control-of-innate-olfactory-valence]] — pplCoA→NAc가 선천 후각 유인에 필요·충분.
+- [[concept-cortical-amygdala]] — 후각 유인의 상류(plCoA).

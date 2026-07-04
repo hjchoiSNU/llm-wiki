@@ -12,7 +12,8 @@
 
 `raw/`에 미처리 ≈50편 대량 추가 확인 → 주제별 웨이브로 처리 시작.
 - **신규 2편(정독완료)**: [[vendruscolo-2026-neurobiology-of-negative-reinforcement]](Koob 음성강화·hyperkatifeia, Neuron 2026) + 개념 [[concept-negative-reinforcement-hyperkatifeia]]; [[fallon-2026-striatal-pathways-dissociably-control-action]](Yin, DLS dSPN/iSPN counting·steering, Nat Neurosci 2026).
-- **W1 착수**: food 독성·혐오 감지 13편(후각경계→쓴맛-CeA→PBN CGRP 일반경보→최후야/오심→장·면역) 정독 에이전트 병렬 실행 → [[overview-cea-glp1r-food-safety-alarm]] 배경 강화 예정.
+- **W1 완료(13편+5개념)**: food 독성·혐오 감지 다층 경보. 신규 논문 — 후각(dong-2026·root-2014·howe-2026), 미각(wang-2018·jin-2021·schiff-2018), 뇌간 CGRP(palmiter-2018·campos-2018·campos-2016), 최후야(zhang-2021·zhang-2022), 장·면역(bai-2022·florsheim-2023). 신규 개념 — [[concept-cortical-amygdala]]·[[concept-taste-valence-coding]]·[[concept-parabrachial-cgrp-alarm]]·[[concept-area-postrema]]·[[concept-conditioned-taste-aversion]].
+- **[[overview-cea-glp1r-food-safety-alarm]] 배경 강화**: "§0 왜 뇌에 food safety alarm이 필요한가(진화·비용 비대칭·잡식동물 딜레마)" + "다층·중복 경보 아키텍처(후각→미각→뇌간→최후야→장/면역→CTA, 확장편도 수렴)" 신설.
 - 대기: W2 GLP-1/incretin ~15 · W3 NPY-NAc ~7 · W4 LH/보상/food-addiction ~10.
 
 ---

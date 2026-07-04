@@ -67,3 +67,9 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[duran-2026-the-central-amygdala-gates]] — CeA 세포종류별 GLP-1RA hypophagia 게이팅 확정(출판판).
 - [[overview-cea-glp1r-food-safety-alarm]] — CeA^Glp1r을 Woods 1991 "food safety alarm"으로 재해석; 생리적 방어(현재 섭취↓·혐오학습) vs 약물 hijack(food aversion·혐오정동/우울) 종합.
+- [[wang-2018-coding-of-valence-and-identity]] — 쓴맛피질→CeA 혐오 배선(선천 미각 관문).
+- [[jin-2021-top-down-control-of-sweet]] — CeA→뇌간 rNST GABA 피드백으로 단맛/접근 억제.
+- [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 예측적 혐오 회피 학습.
+- [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBel→PKC-δ^CeA 포만/혐오 입력.
+- [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
+- [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.

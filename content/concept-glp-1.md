@@ -202,4 +202,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 비만·대사 약물 임상(survodutide·elecoglipron·aleniglipron·CagriSema) hub.
 - [[le-roux-2026-survodutide-once-weekly-for]] · [[kaplan-2026-survodutide-in-adults-with]] — glucagon/GLP-1 dual agonist phase 3(비만·MASLD).
 - [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-oral-small-molecule-glp]] — 경구 소분자 GLP-1RA phase 2.
+- [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — GLP-1/Ex-4 식욕억제가 CGRP^PBel 활성화를 요구.
+- [[zhang-2021-area-postrema-cell-types-that]] — exendin-4 malaise가 뇌간 AP GLP1R 경유(vagal 아님).
+- [[concept-area-postrema]] — AP GLP1R 오심 관문 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

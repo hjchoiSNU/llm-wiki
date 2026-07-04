@@ -57,3 +57,8 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — NTS가 1차 relay; vagus→NTS→PBN→VTA로 mesolimbic DA를 gating (NTS→VTA 직접 투사는 미미) (Sci Adv 2026).
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — **DMV(미주 운동핵, 원심성)** 가 ARC POMC→α-MSH→MC4R 입력을 받아 장 SGLT1 포도당 흡수를 조절; DVC의 원심(efferent) 출력 축 (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — gut-brain 회로 통합.
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — NTS(CCK·DBH)→CGRP^PBN 포만/malaise 중계.
+- [[zhang-2021-area-postrema-cell-types-that]] — DVC의 AP(CVO 독소감지) 세포 아틀라스.
+- [[zhang-2022-brainstem-circuit-for-nausea]] — AP GIP-GIPR 억제뉴런 오심 off-switch.
+- [[concept-area-postrema]] — DVC 내 AP 독소감지 hub.
+- [[concept-parabrachial-cgrp-alarm]] — NTS 하류 뇌간 일반경보.

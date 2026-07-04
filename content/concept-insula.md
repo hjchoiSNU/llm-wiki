@@ -36,3 +36,7 @@ updated: 2026-06-01
 - [[concept-lateral-hypothalamus]] · [[concept-basolateral-amygdala]] · [[concept-nucleus-accumbens]] — 섬엽 입력원/연결.
 - [[concept-hippocampus-feeding]] — 같은 milkshake/sweet-fat 패러다임 계열의 인간 식이 cortex 연구.
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — dorsal mid-insula(dmINS)↔BNST 상호 연결; 스트레스가 양방향 effective connectivity를 ↓ (인간 7T, Nat Commun 2026).
+- [[wang-2018-coding-of-valence-and-identity]] — 일차 미각피질이 identity 부호화(편도는 valence).
+- [[jin-2021-top-down-control-of-sweet]] — 미각피질(GCbt)→뇌간 top-down 쓴맛 조절.
+- [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 단일시냅스 흥분성 투사.
+- [[concept-taste-valence-coding]] — 미각 identity/valence 부호화 hub.

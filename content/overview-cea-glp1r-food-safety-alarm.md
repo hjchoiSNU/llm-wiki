@@ -2,7 +2,7 @@
 title: "CeA GLP-1R 뉴런의 역할 — Food safety alarm과 GLP-1RA 약리의 hijack"
 type: overview
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -15,6 +15,13 @@ updated: 2026-07-04
 
 ## 이론적 토대 — 왜 "경보(alarm)"인가
 
+### 0) 왜 뇌에 food safety alarm이 필요한가 — 진화·기능적 배경
+섭식은 동물이 **외부의 화학물질·미생물을 자기 몸 안으로 들이는 유일한 일상 행위**다. 즉 생존에 필수인 동시에 **가장 큰 위험 노출**이다. 위험은 네 종류로 겹친다: (i) **독소**(식물 알칼로이드·곰팡이독), (ii) **병원체**(상한 음식), (iii) **알레르겐**, (iv) **대사 교란**(혈중 연료 급증 — Woods의 축). 
+
+이 문제의 핵심은 **비용의 비대칭성**이다. 한 번의 치명적 오섭취는 **회복 불가능한 죽음**을 부르지만, 굶주림 역시 죽음이다. 특히 잡식동물은 **새 먹이를 먹어야 살지만 새 먹이가 가장 위험한** "잡식동물의 딜레마(omnivore's paradox)"에 놓인다. 그래서 뇌는 먹느냐 마느냐를 단순 on/off로 결정할 수 없고, **정도를 매기고(graded)·여러 층에서 중복 감시하며(redundant)·경험으로 갱신하는(learnable)** 경보 시스템을 진화시켰다. 오탐(안전한 걸 거부)의 비용이 미탐(독을 삼킴)의 비용보다 훨씬 작으므로, **경보는 "better safe than sorry"로 보수적으로 편향**되어 있다 — 이것이 우리가 낯선 음식에 다가가면서도 긴장하고, 쓴맛·이상한 냄새에 즉각 거부감을 느끼는 이유다.
+
+기능적으로 이 경보가 하는 일은 **매 순간 "접근(에너지 필요) vs 회피(위험)"를 실시간 중재(arbitrate)**하는 것이다. 위험이 감지되면 (a) **지금 먹기를 멈추고**, (b) **그 음식을 미래에 피하도록 학습**한다. 단일 뇌영역이 이 모든 위험 종류·시점을 감당할 수 없으므로, 경보는 **후각→미각→뇌간→편도→장축에 분산된 다층 구조**로 구현되며(아래 §다층 경보 아키텍처), 그 출력들이 **[[concept-central-amygdala-glp1r|중심편도(CeA)]]·[[concept-parabrachial-cgrp-alarm|팔곁핵(PBN)]]을 포함한 확장편도로 수렴**한다. 이 수렴 구조가 바로 CeA^Glp1r을 "food safety alarm의 노드"로 지목하는 이유다.
+
 ### 1) Woods의 두 위협 축 — 음식은 왜 위험한가
 [[woods-1991-the-eating-paradox-how|Woods 1991 "The Eating Paradox"]]의 핵심 명제: **음식은 강력한 양성 강화물이면서 동시에 내부 환경을 교란하는 잠재적 위협**이다. 이 위협은 두 축을 갖는다.
 
@@ -26,8 +33,8 @@ updated: 2026-07-04
 ### 2) 두 겹의 방어 관문 — 입(즉시) + 사후(학습)
 위협 축(B)에 대응하는 거부감은 두 시점에서 작동한다.
 
-- **입안 감각 관문(즉시 거부)**: 음식을 입에 넣는 순간 **쓴맛**은 진화적으로 **독소(toxin)의 신호**로, 선천적·즉각적 회피(뱉기·찡그림)를 유발한다. 이는 학습 없이 작동하는 first-line 방어다. *— 이 "쓴맛=toxin 즉시 거부"는 Woods 1991에 직접 서술되지는 않으며, 선천적 혐오 미각(labeled-line 미각과학)에서 온 보완 축이다. Woods의 neophobia("경계하며 소량")와 결합하면, 입안 감각이 "이 음식이 안전한가"를 실시간 심사하는 관문이 된다.*
-- **사후 혐오 연합학습(미래 거부)**: 먹은 뒤 malaise·대사 교란이 오면 그 음식과 **conditioned (taste/food) aversion**이 형성되어 다음 접근을 줄인다. Woods는 이를 명시적으로 다룬다 — 급성 혈당 상승만으로 CTA가 형성되고(Deutsch 1974; 당뇨에서 최대), NPY는 **큰 식사를 유발하면서 동시에 CTA를 형성**하며(Sipols 1987), 폭식증 환자는 기호식의 **시각·냄새·맛만으로 오심·vasopressin(오심 표지)을 분비**하고 "음식에 대한 병적 공포"를 보인다(Broberg 1990; Woods & Brief 1988). → 음식의 net 가치는 "강한 보상 − 잠재적 해악"으로, 개별 식사의 결과는 사전에 불확실하다.
+- **입안 감각 관문(즉시 거부)**: 음식을 입에 넣는 순간 **쓴맛**은 진화적으로 **독소(toxin)의 신호**로, 선천적·즉각적 회피(뱉기·찡그림)를 유발한다. 이는 학습 없이 작동하는 first-line 방어다. 이 축의 회로 근거는 이제 위키에 있다: [[wang-2018-coding-of-valence-and-identity|Wang 2018]]은 **쓴맛피질→중심편도(CEA)** 배선이 이 선천 거부를 담당함을 보였고, [[jin-2021-top-down-control-of-sweet|Jin 2021]]은 쓴맛이 미각피질·CeA→뇌간(rNST) top-down 피드백으로 **동시에 존재하는 단맛(접근)까지 억제**해 "위험>보상"을 강제함을 보였다. *(Woods 1991은 이 쓴맛 관문을 직접 서술하지 않으나, 그의 neophobia와 결합하면 입안 감각이 "이 음식이 안전한가"를 실시간 심사하는 관문이 된다.)*
+- **사후 혐오 연합학습(미래 거부)**: 먹은 뒤 malaise·대사 교란이 오면 그 음식과 **[[concept-conditioned-taste-aversion|조건화 미각 혐오(CTA)]]**가 형성되어 다음 접근을 줄인다. Woods는 이를 명시적으로 다룬다 — 급성 혈당 상승만으로 CTA가 형성되고(Deutsch 1974), NPY는 **큰 식사를 유발하면서 동시에 CTA를 형성**하며(Sipols 1987), 폭식증 환자는 기호식의 **시각·냄새·맛만으로 오심·vasopressin을 분비**한다(Broberg 1990). CTA의 회로 기반도 이제 위키에 있다: **[[concept-parabrachial-cgrp-alarm|CGRP^PBN]]**이 US(malaise) 경로로 필요·충분([[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]]), 장 **[[bai-2022-enteroendocrine-cell-types-that-drive|EC세포(5-HT)]]**·**[[concept-area-postrema|최후야]]**가 말초 기원. → 음식의 net 가치는 "강한 보상 − 잠재적 해악"으로, 개별 식사의 결과는 사전에 불확실하다.
 
 ### 3) 왜 이 거부감을 CeA GLP-1R 뉴런이 담당한다고 보는가 (본 페이지의 가설)
 위 방어(접근 속 긴장 + 입안 즉시 거부 + 사후 혐오학습)를 담당할 유력 후보가 **[[concept-central-amygdala-glp1r|중심편도 GLP-1R(CeA^Glp1r) 뉴런]]**이다. 근거·정합성:
@@ -39,6 +46,18 @@ updated: 2026-07-04
 > **honest gap 명시**: CeA^Glp1r이 **쓴맛-toxin 즉시 거부·neophobia·혐오 연합학습을 실제로 매개한다**는 것은 위키 내 어떤 논문도 단독으로 증명하지 않은 **본 페이지의 통합 가설**이다. 확립된 사실은 (i) Woods의 위협·neophobia·CTA 이론, (ii) CeA가 혐오/CTA 허브라는 점, (iii) CeA^Glp1r이 기호성 섭취를 선택적으로 억제한다는 약리 결과이며, 이 셋을 잇는 "food 거부감 담당" 인과는 검증 대상 가설이다(→ 아래 §연구 함의).
 
 ---
+
+## 다층·중복 경보 아키텍처 — 감각 순서대로 본 food safety alarm
+왜 뇌 전반에 분산된 경보가 필요한가(§0)의 답은, 음식이 몸에 들어오는 **순서마다 다른 종류의 위험을 잡는 층**이 있기 때문이다. 각 층은 위키에 원저로 뒷받침된다. 앞 층일수록 값싸고 빠른(그러나 부정확한) 예측, 뒤 층일수록 확실하지만 이미 삼킨 뒤의 방어다 — 이 중복이 "better safe than sorry" 편향을 구현한다.
+
+1. **섭취 전 — 후각 예측(pre-ingestive olfactory)**: 입에 넣기 전 냄새로 위험을 예측. 부패취(2MBA)는 [[dong-2026-nose-to-brain-axis-spoiled-food|후각→aPir에서 retching(운동)과 혐오(동기)로 분기]]하고, 선천적 냄새 유인/회피는 [[concept-cortical-amygdala|후각피질편도(plCoA)]]가 valence를 하류표적(NAc=유인/MeA=회피)으로 라우팅한다([[root-2014-participation-of-cortical-amygdala-innate|Root 2014]]·[[howe-2026-control-of-innate-olfactory-valence|Howe 2026]]).
+2. **입안 — 선천 미각 관문(in-mouth taste)**: 쓴맛=toxin 신호가 [[concept-taste-valence-coding|쓴맛피질→CeA]]로 즉시 거부를 배선([[wang-2018-coding-of-valence-and-identity|Wang 2018]])하고, top-down으로 단맛까지 억제([[jin-2021-top-down-control-of-sweet|Jin 2021]]). 섬엽→CeL은 "이 맛을 피할지" 예측 회피를 학습([[schiff-2018-an-insula-central-amygdala-circuit|Schiff 2018]]).
+3. **뇌간 — 일반 경보 중계(general alarm)**: [[concept-parabrachial-cgrp-alarm|PBN CGRP 뉴런]]이 통증·malaise·포만·신기음식 등 **모든 위협을 소스 구분 없이** CeA/BNST로 중계하고 혐오기억(CTA)·공포기억에 필요·충분([[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function|Palmiter 2018]]·[[campos-2018-encoding-of-danger-by-parabrachial|Campos 2018]]), 생리적 식사 종료도 담당([[campos-2016-parabrachial-cgrp-neurons-control-meal|Campos 2016]]).
+4. **섭취 후 — 순환 독소 감지(post-ingestive/circulating)**: [[concept-area-postrema|최후야(AP)]]가 혈뇌장벽 밖에서 순환 독소(LiCl·GDF15·GLP-1)를 GLP1R/GFRAL 뉴런으로 감지해 혐오로 funneling([[zhang-2021-area-postrema-cell-types-that|Zhang 2021]]); GIP-GIPR 억제뉴런이 이 오심을 끄는 **off-switch**([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]]).
+5. **장·면역 — 화학·항원 감지(gut/immune)**: 장내분비세포 아형이 선호(CCK/미주)와 혐오(5-HT·substance P/척수)를 분리 인코딩([[bai-2022-enteroendocrine-cell-types-that-drive|Bai 2022]]); 적응면역(IgE·비만세포)이 특정 항원을 위험으로 학습해 회피를 명령([[florsheim-2023-immune-sensing-of-food-allergens|Florsheim 2023]]).
+6. **학습 축 — 조건화 미각 혐오(CTA)**: 위 층들이 만든 malaise를 특정 맛과 영구 연합해 미래 섭취를 줄임([[concept-conditioned-taste-aversion]]).
+
+**수렴점**: 이 여섯 층의 출력이 **확장편도(CeA + PBN + BNST)**로 수렴한다. 후각(plCoA→MeA)·미각(쓴맛피질→CeA)·뇌간(PBN→CeA/BNST)·순환독소(AP→PBN)·면역(→NTS·PBN·CeA)이 모두 CeA를 지나거나 그 상류로 모인다. 따라서 **CeA^Glp1r은 이 다층 경보가 만나는 병목(node)**이며, GLP-1(내수용 malaise 신호)을 받는 그 위치 때문에 "food safety alarm의 노드"로 지목된다 — 그리고 바로 이 병목이라서 GLP-1RA 약물이 여기를 누르면 여러 층의 혐오 출력을 한꺼번에 켜게 된다(→ §2 약리 hijack).
 
 ## 1. 생리적 역할 — Food safety alarm
 
