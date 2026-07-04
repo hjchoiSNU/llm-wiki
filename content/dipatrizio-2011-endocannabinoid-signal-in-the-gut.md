@@ -48,3 +48,4 @@ year: 2011
 - [[concept-enteroendocrine-cells]] — 소장 상피에서 OEA 등 지질 신호를 만드는 세포; 본 논문은 endocannabinoid 반응이 OEA와 독립적임을 보임.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방의 hedonic('liking')·동기('wanting') 신호와 endocannabinoid의 연결이라는 제안적 맥락.
 - [[concept-interoception]] — 장에서 뇌로 가는 내수용 신호 맥락.
+- [[bai-2022-enteroendocrine-cell-types-that-drive]] — 장 영양 감지 섭취후 신호의 세포 기반(EEC 아형).

@@ -63,3 +63,5 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[berridge-2023-separating-desire-from-prediction-of]] — ‘갈망’이 결과가치 예측으로 환원되지 않음(‘혐오/고통을 원하기’ 반례); 예측·RL 이론에 대한 동기-기반 반론 (TiCS 2023).
 - [[concept-food-addiction]] — ‘갈망’ 폭주의 임상 출구.
 - [[person-choi-hyung-jin]] — Ch 20 저자(사용자).
+- [[wang-2018-coding-of-valence-and-identity]] — 편도가 부여하는 미각 valence(=liking 축).
+- [[concept-taste-valence-coding]] — 미각 valence 부호화 hub.

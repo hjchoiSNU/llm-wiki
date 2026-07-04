@@ -35,3 +35,6 @@ Columbia University, Zuckerman Mind Brain Behavior Institute · Department of Bi
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — 자매 규명(Knight lab).
 - [[person-knight-zachary]] — 인접 gut-brain·미각-영양 학습 연구자.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 사용자 연구계획서.
+- [[wang-2018-coding-of-valence-and-identity]] — 미각 identity/valence 분리·피질→편도 지형(대표작).
+- [[jin-2021-top-down-control-of-sweet]] — 미각피질·CeA→뇌간 top-down 미각 조절.
+- [[concept-taste-valence-coding]] — labeled-line 미각 valence hub.
