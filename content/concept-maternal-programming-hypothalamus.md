@@ -75,3 +75,4 @@ aliases: [maternal obesity programming, developmental programming hypothalamus, 
 - [[concept-ghost-pomc-neurons]] — POMC plasticity 같은 framework.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-quarta-carmelo]] — 주요 저자.
+- [[concept-early-life-adversity]] — 산후 stress programming 자매 축(산전 모체 프로그래밍과 대비).

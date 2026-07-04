@@ -35,3 +35,6 @@ stress와 비만의 양방향 경로(인지·행동·생리·생화학)와 weigh
 - [[concept-loss-of-control-eating]] — stress eating.
 - [[gundersen-2015-food-insecurity-and-health]] — cortisol→중심성 비만 인구 근거.
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] · [[concept-bed-nucleus-stria-terminalis]] — 급성 스트레스가 인간 BNST→NAc/OFC 보상회로를 gating(stress→reward 민감화의 인간 effective-connectivity 증거).
+- [[meye-2014-feelings-about-food-the]] — 스트레스→VTA 도파민 정서적 섭식의 회로.
+- [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기 stress→leptin/HPA→LH 회로 재편(구체 신경기전).
+- [[concept-emotional-eating]] — 정서적 섭식 개념 hub.

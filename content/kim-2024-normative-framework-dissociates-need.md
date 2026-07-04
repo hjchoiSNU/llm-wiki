@@ -113,4 +113,5 @@ GCaMP6s kernel 합성곱 후 raw photometry trace와 비교. AIC = N·ln(RSS/N) 
 - [[walker-2026-a-hypothalamic-circuit-for]] — AgRP=Predicted Deficit를 **공급하는 상류 회로**(PVH^Sim2→AgRP가 인지·맥락 예측 cue로 단식 초기 빠른 활성 구동); Need 예측 신호의 회로 기질 (Neuron 2026, Lowell lab).
 - [[seiler-2026-dual-activation-of-mc3r-and]] — AgRP(=Need encoder) 하류 MC3R/MC4R 수용체 약리; dual-agonism NHP 감량 (Nat Commun 2026).
 - [[person-choi-hyung-jin]] — 교신저자 (사용자 본인).
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR=Motivation을 다중 욕구 arbitration까지 확장.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

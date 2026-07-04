@@ -73,3 +73,4 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBel→PKC-δ^CeA 포만/혐오 입력.
 - [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
 - [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.
+- [[ghashghaei-2002-pathways-for-emotion-interactions]] — IM→CeA 억제 출력 배선의 primate 해부 좌표계.

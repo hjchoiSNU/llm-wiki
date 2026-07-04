@@ -135,3 +135,4 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[wang-2018-coding-of-valence-and-identity]] — 단맛피질→전방 BLA(BLAa) 유인 표적.
 - [[concept-cortical-amygdala]] — 구분되는 후각 전용 편도(plCoA).
 - [[concept-taste-valence-coding]] — 미각 valence의 편도 분업 hub.
+- [[ghashghaei-2002-pathways-for-emotion-interactions]] — BL/BLmc가 OFC·전측두 입력의 주 표적(rhesus 배선도).

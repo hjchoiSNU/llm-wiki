@@ -35,3 +35,5 @@ updated: 2026-06-01
 - [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 해마는 NAc로 투사하는 reward 회로 입력원.
 - [[concept-melanocortin-system]] — MCH는 melanocortin 계열과 구분되는 LH orexigenic neuropeptide(맥락 비교).
 - [[walker-2026-a-hypothalamic-circuit-for]] — 마우스 **복측 해마(CA1/ProS-v)가 PVH^Sim2의 최상위 입력처**(ProS-v→PVH^Sim2 특이); 맥락 cue→hunger(AgRP) 경로 — 해마-섭식 축을 시상하부 hunger 회로로 직접 연결 (Neuron 2026, Lowell lab).
+- [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc가 공간 식욕기억을 매개(마우스).
+- [[azevedo-2019-a-role-of-drd2]] — 해마 hilus Drd2(LEC→해마→중격)가 맥락 의존 섭식 조절.

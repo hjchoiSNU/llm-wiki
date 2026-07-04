@@ -50,4 +50,6 @@ year: 2025
 - [[concept-leptin]] — LHA^Lepr·MCH의 leptin 감지.
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos novelty ensemble(salience hub); 본 리뷰의 LHA^Vgat 이질성과 정합.
 - [[person-korotkova-tatiana]] — LH arbitration 외부 framework.
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LHA^Lepr social·LHA^Nts thirst 우선 근거.
+- [[rossi-2023-control-of-energy-homeostasis]] — 짝 LHA 종합 리뷰(engine/brake).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

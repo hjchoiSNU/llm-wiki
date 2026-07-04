@@ -61,3 +61,4 @@ year: 2020
 - [[concept-lateral-hypothalamus]] — orexin의 hotspot 투사, 항상성-쾌락 통합
 - [[person-choi-hyung-jin]] — 시상하부 회로·NMPU 연구 맥락 연결
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 현대 비만의 cue 기반 incentive-sensitization 후속
+- [[murray-2014-hormonal-and-neural-mechanisms]] — 섭식 보상 호르몬-도파민 crosstalk 상보 리뷰.

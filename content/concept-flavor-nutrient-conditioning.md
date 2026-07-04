@@ -129,3 +129,4 @@ Fat   → GPR40/120 + CD36 → vagus →
 - [[proposal-oral-fat-taste-pleasure-desire]] — taste≠reinforcer(sucralose) 논리를 구강 지방에 적용; oral vs post-oral 지방 신호 분리 연구계획서.
 - [[woods-1991-the-eating-paradox-how]] — 맛-대사결과 학습(cephalic 조건화)의 이론 배경.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 조건화 풍미 선호(CFP)의 세포 기반(Cck·Gcg EEC).
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — taste-nutrient conditioning에 배측 D1r 필수.

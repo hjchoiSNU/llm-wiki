@@ -53,3 +53,6 @@ year: 2026
 - [[stuber-2025-the-neurobiology-of-overeating]] — 과식의 보상·습관·중독 프레임과 상보.
 - [[overview-cea-glp1r-food-safety-alarm]] — CeA aversion 축과 교차하는 종합.
 - [[concept-need-motivation-pleasure-utility]] — hyperkatifeia(음성 utility 제거 drive)의 계산적 대응.
+- [[hone-blanchet-2014-overlap-of-food-addiction]] — sweet-fat 금단 CRF·음성강화 동물근거.
+- [[meye-2014-feelings-about-food-the]] — CRF/스트레스축 정서적 섭식 회로.
+- [[concept-emotional-eating]] — 정서적 섭식 개념 hub.

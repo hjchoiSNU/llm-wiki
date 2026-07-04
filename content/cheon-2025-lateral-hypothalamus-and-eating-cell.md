@@ -96,4 +96,5 @@ LH의 세포 다양성, 4개 subdivision, 시간 동역학, 기능적 역할을 
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — LH GLP-1R 일부.
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — 본 리뷰를 인용(ref46); LH salience hub 논리를 통증·정서·novelty 축으로 확장 (Nat Commun 2026).
 - [[chen-2025-the-integrated-function-of-the]] — 같은 시기 LHA 세포타입·에너지 항상성 종합 리뷰(비-사용자 lab); 본 리뷰와 상보적 LH taxonomy 레퍼런스 (Cells 2025).
+- [[rossi-2023-control-of-energy-homeostasis]] — LHA cell-type 에너지항상성 외부 종합 리뷰.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

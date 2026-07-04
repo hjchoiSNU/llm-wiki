@@ -34,3 +34,5 @@ Nature 621:381–388. 인간 해마의 **dorsolateral hippocampus(dlHPC)** 아�
 - [[person-halpern-casey]] — 저자 hub.
 - [[dong-2026-reward-prediction-is-encoded-by]] — orexin 뉴런의 동기·effort 부호화.
 - [[concept-orexin-neurons]] — orexin 뉴런 hub.
+- [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — 마우스 dCA1→NAc 식욕기억(인간 dlHPC 대응).
+- [[azevedo-2019-a-role-of-drd2]] — 해마 내 섭식 조절 하위회로 계보.

@@ -45,3 +45,4 @@ updated: 2026-06-01
 - [[bidopia-2023-food-insecurity-and-disordered]] · [[loth-2025-food-insecurity-and-disordered]] — FI→binge/LOC eating(소아·성인 인구 근거).
 - [[concept-food-addiction]] — 통제 상실 섭식과 겹치는 addiction framing.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — cue가 결과 표상을 통해 의사결정을 통제(habit 자동성 반박); LH 표적이 cue 통제력↓·균형 학습 회복 가능성 (Neuron 2026).
+- [[shin-2023-early-adversity-promotes-binge-like-eating]] — 반복 노출 증폭 binge-like eating의 회로.

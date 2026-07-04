@@ -30,3 +30,5 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[chen-2026-striatal-control-of-amygdalar]] — striatal D1/D2-MSN 회로 기능.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — NAc 도파민·MSN 중독 취약성 맥락.
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — dSPN/iSPN이 steering·counting을 해리 제어(DLS).
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — D1r MSN(VS/DS)이 미각/영양 보상 부호화.
+- [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1이 PV+FSI 매개 feedforward inhibition으로 MSN assembly 조직.

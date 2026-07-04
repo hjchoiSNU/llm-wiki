@@ -111,3 +111,5 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[shivacharan-2022-pilot-study-of-responsive-nucleus]] — 과식 reward 회로(NAc)의 인간 closed-loop 신경조절 치료 (Nat Med 2022).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-choi-hyung-jin]] — 인용된 사용자 lab.
+- [[murray-2014-hormonal-and-neural-mechanisms]] — 과식 신경생물학의 선행 종합.
+- [[hone-blanchet-2014-overlap-of-food-addiction]] — food addiction·보상 저민감성 논의 대비.

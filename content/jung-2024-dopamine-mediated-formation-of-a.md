@@ -43,3 +43,4 @@ Jung K … Costa RM, **Kwon H-B** (Allen Institute·Johns Hopkins·Columbia), *N
 - [[concept-hippocampus-feeding]] — vHPC→NAc 입력(해마-보상 축).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — DA 다기능 논쟁 맥락.
 - [[person-kwon-hyung-bae]] — 교신저자.
+- [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — HPC→NAc 공간 목표·식욕기억(상보 회로).
