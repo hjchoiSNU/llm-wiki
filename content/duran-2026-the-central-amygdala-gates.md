@@ -61,3 +61,4 @@ year: 2026
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 시상하부 cognitive satiation(homeostatic 축)과 limbic hedonic 경로 대비 (사용자 lab).
 - [[concept-need-motivation-pleasure-utility]] — Glp1r^CeA hedonic 전담 = Pleasure/Motivation 축 약리 진입점.
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 부위별 GLP-1R 분업 review (사용자 lab).
+- [[overview-cea-glp1r-food-safety-alarm]] — 본 논문 + Godschall 2026 + Woods 1991을 묶어 CeA^Glp1r을 "food safety alarm"으로 종합.

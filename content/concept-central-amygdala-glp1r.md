@@ -66,3 +66,4 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[concept-lateral-hypothalamus]] — hedonic feeding의 또 다른 mesolimbic 상류.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[duran-2026-the-central-amygdala-gates]] — CeA 세포종류별 GLP-1RA hypophagia 게이팅 확정(출판판).
+- [[overview-cea-glp1r-food-safety-alarm]] — CeA^Glp1r을 Woods 1991 "food safety alarm"으로 재해석; 생리적 방어(현재 섭취↓·혐오학습) vs 약물 hijack(food aversion·혐오정동/우울) 종합.

@@ -97,3 +97,4 @@ Glp1r-Cre 마우스에 부위별 human GLP1R 발현 후 danuglipron:
 - [[duran-2026-the-central-amygdala-integrates]] — 말초 Ex-4가 CeA 활성화; Glp1r^CeA(~30% Pnoc 추정)가 hedonic feeding 전담 — 본 논문 회로의 세포종류 보강 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-choi-hyung-jin]] — 인용된 사용자 lab(Kim 2024 Science).
+- [[overview-cea-glp1r-food-safety-alarm]] — 본 논문 회로를 Woods 1991 "음식=위협" 이론과 묶어 CeA^Glp1r을 food safety alarm으로 종합(치료효과=약물 유발 aversion, 부작용=혐오정동/anhedonia).

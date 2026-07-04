@@ -58,4 +58,5 @@ year: 1991
 - [[concept-cck]] — 본문에서 satiety를 매개하는 대표 장호르몬으로 제시.
 - [[concept-flavor-nutrient-conditioning]] — 맛·단서와 대사결과의 학습된 연합(cephalic 반응·CTA의 학습 기반).
 - [[concept-loss-of-control-eating]] — 학습된 식이 방어의 부적응(섭식장애·병적 음식공포) 논의와 연결.
+- [[overview-cea-glp1r-food-safety-alarm]] — 본 논문의 "음식=위협·혐오학습" 이론을 CeA GLP-1R 뉴런·GLP-1RA 약리에 적용한 종합.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
