@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-05 — lint (건강검진)
+
+대량 ingest(신규 62) 후 자동 점검: **깨진 링크 0·고아 0·callout 누락 0·index 미등재 0·index→없는페이지 0·동일 title 중복 0**. 총 350 콘텐츠 페이지. 같은 PDF 4-페이지 공유는 편저서(behavioral neuroscience of motivation 2016) 정상 구조. 유일 약한연결 [[matsuda-2020-diet-and-feeding-behavior-of]](저관련)에 [[mueller-2025-privi-towards-general-purpose-video]]·[[ha-2024-hypothalamic-neuronal-activation-non-human]] 링크 추가로 고아 위험 해소. 수정사항 없음(그 외).
+
+---
+
 ## 2026-07-05 — ingest W2 (GLP-1/incretin)
 
 - **W2a 완료(5편 + 개념 [[concept-gip]])**: [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]](GIP→GABAergic 뉴런), [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]](GIP→ME 올리고덴드로사이트·혈관투과성), [[liu-2025-gipr-ab-glp-1-peptide]](중추 GIPR+GLP-1R 요구), [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1 작용 phase1), [[rupp-2023-suppression-of-food-intake-by]](DMH Glp1r·Lepr 수렴 뉴런). 핵심: **GIPR agonism vs antagonism 역설**을 concept-gip에 정리.
