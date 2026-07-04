@@ -40,4 +40,5 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 - [[concept-pomc-neurons]] · [[concept-npy-agrp-neurons]] — 시상하부 표적.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial 공저.
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — leptin 임상.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — de Araujo lab 계열 당 hedonic/nutritional 회로 분리.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

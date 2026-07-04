@@ -63,3 +63,4 @@ year: 2022
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 공저자 후속의 말초 endocannabinoid 축(선행 연구).
 - [[concept-endocannabinoid-system]] — CB1 축 hub.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 상보: 장→뇌 선호/혐오를 EEC 아형으로 해부.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 당 vs 지방의 gut-brain 후-섭취 보상(동일 계열).

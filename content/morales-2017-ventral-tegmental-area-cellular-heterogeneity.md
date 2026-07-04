@@ -147,4 +147,5 @@ Lammel 2012 Nature (본 논문의 frame):
 - [[huang-2024-dopamine-mediated-interactions-between-short]] — 진화적으로 보존된 DA heterogeneity (Drosophila MB).
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — CeA^Glp1r→VTA DA 입력이 GLP1RA로 NAc 도파민 출력을 억제 (Nature 2026).
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — VTA GABA(~50%)/DA(~36%) 분리 반응; mPFC↔VTA DA가 contingency degradation 구동 (Nature 2026).
+- [[meye-2014-feelings-about-food-the]] — "어느 VTA 도파민 아형이 음식 보상 매개?" 미해결 질문.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

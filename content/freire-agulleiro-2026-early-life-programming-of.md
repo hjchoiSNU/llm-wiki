@@ -172,3 +172,4 @@ ARC melanocortin system (POMC vs AgRP/NPY + MC3R·MC4R)이 가장 sensitive. PVN
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 동반 editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-quarta-carmelo]] — 저자.
+- [[concept-early-life-adversity]] — 초기역경 발달 programming 개념 hub.

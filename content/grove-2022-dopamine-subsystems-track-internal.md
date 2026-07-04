@@ -81,3 +81,4 @@ VTA DA의 한 subset이 **systemic osmolarity 변화**에 반응 — water reinf
 - [[lee-2024-feature-specific-prediction-error]] — heterogeneity의 RPE 변형 (이 channel은 RPE 아님).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — vagal→hindbrain→mesolimbic DA gating; 자원별 DA sub-system과 상보 (Sci Adv 2026).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 본 회로의 **역방향**(VTADA→LH)을 인과로 추가; LH가 reward channel의 source(LH→VTA)이자 outcome-specific 학습의 target(VTA→LH) 양쪽 (Neuron 2026, Sharpe lab).
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 도파민 하위계의 내부 대사상태 추적(상보).

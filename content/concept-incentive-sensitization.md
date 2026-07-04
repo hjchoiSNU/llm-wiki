@@ -60,3 +60,5 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue 주도 과식의 임상 분류(사용자 lab).
 - [[concept-nucleus-accumbens]] — 감작 구조적 가소성 부위.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — cue에 부여된 과도한 가치(cue NAc 도파민)가 선호·compulsion을 예측함을 dLight로 직접 측정 (Nat Neurosci 2026).
+- [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 음식 CS incentive salience를 선택 sensitize.
+- [[hone-blanchet-2014-overlap-of-food-addiction]] — 당 섭취의 cocaine/amphetamine 교차민감화.

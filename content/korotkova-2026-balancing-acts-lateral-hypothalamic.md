@@ -97,3 +97,5 @@ LH 뉴런 identity = **molecular marker × oscillatory phase × connectivity × 
 - [[person-korotkova-tatiana]] — 저자.
 - [[dong-2026-reward-prediction-is-encoded-by]] — orexin 뉴런 인과 조작 사례.
 - [[concept-orexin-neurons]] — orexin 뉴런 hub.
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — 같은 lab 원 실험(hunger×social arbitration).
+- [[rossi-2023-control-of-energy-homeostasis]] — LepR·Nts subset의 상위 taxonomy 리뷰.

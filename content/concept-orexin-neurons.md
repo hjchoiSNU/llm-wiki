@@ -30,3 +30,4 @@ updated: 2026-07-04
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH 세포군 동기 조절 균형 맥락.
 - [[concept-dopamine-reward-system]] — orexin→VTA/mesolimbic dopamine 연결.
 - [[concept-nucleus-accumbens]] — NAc↔LH orexin 회로(disinhibition).
+- [[rossi-2023-control-of-energy-homeostasis]] — LHA^OX(arousal·에너지소비·leanness) 세포타입 정리.

@@ -231,4 +231,6 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[dong-2026-nose-to-brain-axis-spoiled-food]] — 운동방어(retching) vs 가치방어(aversion) 해리.
 - [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — CGRP^PBN 혐오 경보 = 부적 정동/utility 축.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — GLP-1RA는 Pleasure(liking) 축 불변(인간 약리 검증).
+- [[meye-2014-feelings-about-food-the]] — need vs hedonic/정서 drive 구분(VTA 회로).
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR Motivation의 다중 욕구 arbitration.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

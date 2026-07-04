@@ -40,3 +40,4 @@ updated: 2026-06-01
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — OFC=중립 cue·환경 구조 학습 vs **LH-VTA**=보상 근접 예측자 편향의 **긴장/분업**(둘 다 VTADA 입력); 약물이 이 균형을 병적 학습으로 이동 (Neuron 2026).
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — BNST→OFC 하향조절 강도가 주관적 스트레스를 예측(인간 7T DCM, Nat Commun 2026); BNST가 OFC에 valence 정보 relay.
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — vmPFC가 goal-value·chosen-value·RPE 부호화; goal-directed/habitual/Pavlovian arbitration (book chapter 2016).
+- [[ghashghaei-2002-pathways-for-emotion-interactions]] — OFC 축삭이 편도 BL 경계·IM에 종말해 CeA 자율출력 게이팅.

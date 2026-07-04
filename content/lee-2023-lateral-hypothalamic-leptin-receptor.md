@@ -105,4 +105,7 @@ journal: Nature Communications
 - [[liu-2026-granular-motivational-interaction-and]] — 본 LH^LepR 논문을 인용(ref159); LH^GABA를 feeding initiation phase hub로 배치 (Neuron 2026).
 - [[namkoong-2017-central-administration-of-glp-1]] — 1저자 Young Hee Lee 공저; 동일 lab 초기 GLP-1/GIP 중추 paper (BBRC 2017).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 즉시(감각) 단계 시상하부(LH 추정) DA — 본 LH^LepR seeking 회로와 시간적 호응 (Cell Metab 2019).
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — 같은 LH^LepR을 영양 vs social arbitration 각도로.
+- [[shin-2023-early-adversity-promotes-binge-like-eating]] — 같은 LH LepR이 초기역경으로 병적 폭식 회로 전환.
+- [[rossi-2023-control-of-energy-homeostasis]] — LHA^LepR(appetitive learning)을 세포타입 taxonomy에 위치.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
