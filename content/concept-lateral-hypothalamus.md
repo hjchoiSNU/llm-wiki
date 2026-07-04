@@ -176,3 +176,7 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dong-2026-reward-prediction-is-encoded-by]] — LH orexin의 reward prediction 부호화.
 - [[concept-orexin-neurons]] — LH 소재 orexin 뉴런 hub.
+- [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR·LH^Nts 상보 arbitration(영양 vs social).
+- [[rossi-2023-control-of-energy-homeostasis]] — LHA ≥30 세포타입·Vgat/Vglut2 회로 종합 리뷰.
+- [[shin-2023-early-adversity-promotes-binge-like-eating]] — LH^Lepr(GABA)→vlPAG^Penk 초기역경 폭식 회로.
+- [[murray-2014-hormonal-and-neural-mechanisms]] — LHA leptin/neurotensin→도파민·섭식 조절.

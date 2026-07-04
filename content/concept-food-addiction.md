@@ -33,3 +33,7 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[yuen-2022-deep-brain-stimulation-for]] — 중독 회로 신경조절(food addiction 인접).
 - [[concept-need-motivation-pleasure-utility]] — Pleasure/Utility 축 병적 과활성.
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — SUD/음주 유전율이 특정 NAc MSN 도메인에 농축.
+- [[hone-blanchet-2014-overlap-of-food-addiction]] — FA↔SUD 정의 중첩·동물모델 해리·YFAS 종합.
+- [[murray-2014-hormonal-and-neural-mechanisms]] — sugar bingeing·D2 하향조절·YFAS 임상.
+- [[derman-2018-junk-food-enhances-conditioned-food-cup]] — cue-triggered craving·wanting/liking 해리.
+- [[meye-2014-feelings-about-food-the]] — cue-induced reinstatement 공유.

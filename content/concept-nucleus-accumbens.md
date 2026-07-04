@@ -63,3 +63,7 @@ updated: 2026-06-01
 - [[dong-2026-nose-to-brain-axis-spoiled-food]] — 부패취 혐오의 NAc^GABA 출력.
 - [[howe-2026-control-of-innate-olfactory-valence]] — pplCoA→NAc가 선천 후각 유인에 필요·충분.
 - [[concept-cortical-amygdala]] — 후각 유인의 상류(plCoA).
+- [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin·opioid이 수렴하는 보상 표적.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 복측 선조체(VS)=미각 hedonic 도파민.
+- [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc(MSN·PV+FSI)가 공간 식욕기억을 행동으로 번역.
+- [[derman-2018-junk-food-enhances-conditioned-food-cup]] — NAc CP-AMPAR 상향과 cue approach 강화.
