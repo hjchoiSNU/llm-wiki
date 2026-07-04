@@ -66,3 +66,4 @@ journal: Nature Metabolism
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — 세마글루타이드 **혈당강하**는 ARC POMC PKA→장 SGLT1 의존; 본 논문의 **체중**=AP/Gs-cAMP와 효과 분업(혈당 vs 체중) (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — 약리·회로 통합.
 - [[person-choi-hyung-jin]] — GLP-1 satiation 연구 맥락(본 논문은 사용자 lab 비인용).
+- [[duran-2026-the-central-amygdala-gates]] — CeA 세포종류별(Prkcd/Glp1r/Sst) Ex-4 hypophagia 필요성.

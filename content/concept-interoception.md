@@ -110,3 +110,5 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 섬엽이 음식 anticipation을 선제적으로 평가 (Nat Commun 2021).
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — dmINS↔BNST 내수용 축; 스트레스가 인간 BNST 내수용·보상 연결성을 gating (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — 통합 hub.
+- [[woods-1991-the-eating-paradox-how]] — 예측적 항상성의 고전 원전.
+- [[concept-cephalic-phase-response]] — 예측적 대사반응 hub.

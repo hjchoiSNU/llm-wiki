@@ -60,3 +60,5 @@ year: 2022
 - [[concept-fat-taste]] — 구강 지방 감지와 대비되는 post-oral 축.
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — gut-brain 종합 맥락.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 공저자 후속의 말초 endocannabinoid 축(선행 연구).
+- [[concept-endocannabinoid-system]] — CB1 축 hub.

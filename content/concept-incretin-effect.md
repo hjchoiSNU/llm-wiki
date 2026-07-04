@@ -93,3 +93,5 @@ GLP-1·GIP 둘 다 **혈당이 낮으면 인슐린 분비 자극 안 함** → �
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 인크레틴 기반 약물(dual·경구 소분자·amylin 복합) 임상 hub.
 - [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — amylin+GLP-1 복합 CagriSema(REIMAGINE 3) phase 3a.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[woods-1991-the-eating-paradox-how]] — cephalic insulin vs incretin 대비.
+- [[concept-cephalic-phase-response]] — 신경성 예측 인슐린 hub.

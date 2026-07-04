@@ -118,3 +118,5 @@ HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 동반 editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-yeo-giles]] — 저자.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc 아틀라스·종간 번역.
+- [[concept-spatial-transcriptomics]] — 방법론 hub.

@@ -65,3 +65,4 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[stuber-2025-the-neurobiology-of-overeating]] — hedonic LHA→VTA→NAc 가소성·중독 응용.
 - [[concept-lateral-hypothalamus]] — hedonic feeding의 또 다른 mesolimbic 상류.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[duran-2026-the-central-amygdala-gates]] — CeA 세포종류별 GLP-1RA hypophagia 게이팅 확정(출판판).

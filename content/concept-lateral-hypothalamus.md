@@ -174,3 +174,5 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — BNST→LH GABAergic 투사가 포만 상태에서도 기호식 섭취 구동(Jennings 2013); 인간 BNST stress 매핑.
 - [[woods-2016-regulation-of-the-motivation]] — LH를 "hunger center"가 아닌 항상성·보상 통합 hub로 정리(orexin→VTA→NAc·LH→PVT) (book chapter 2016).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[dong-2026-reward-prediction-is-encoded-by]] — LH orexin의 reward prediction 부호화.
+- [[concept-orexin-neurons]] — LH 소재 orexin 뉴런 hub.

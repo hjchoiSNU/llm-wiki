@@ -132,3 +132,4 @@ flowchart LR
 - [[person-choi-hyung-jin]] — 연구책임자·식락학 Ch 20.
 - [[proposal-pomc-endorphin-food-pleasure]] — 자매 과제(중추 β-endorphin Pleasure).
 - [[overview-research-proposals]] — 연구계획서 비교 hub(본 과제 = #8).
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방 'wanting'의 gut endocannabinoid 기전 근거.

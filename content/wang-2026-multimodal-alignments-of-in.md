@@ -44,3 +44,4 @@ Wang L, Jiang X, Sun X … **Schnitzer MJ**(Stanford/HHMI), bioRxiv 2026 (doi 10
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] · [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab의 심부 영상·LH 세포타입 연구(적용 대상).
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-lateral-hypothalamus]] — feeding 회로 분자정체·투사 매핑 후보.
 - [[littleton-2025-from-identity-to-function-unveiling]] — "identity→function" atlas 시대와 직결.
+- [[mueller-2025-privi-towards-general-purpose-video]] — 또 다른 신경과학 측정 도구 논문(행동 영상 자동 라벨링).

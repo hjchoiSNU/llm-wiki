@@ -95,3 +95,5 @@ LH 뉴런 identity = **molecular marker × oscillatory phase × connectivity × 
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 동반 editorial.
 - [[person-korotkova-tatiana]] — 저자.
+- [[dong-2026-reward-prediction-is-encoded-by]] — orexin 뉴런 인과 조작 사례.
+- [[concept-orexin-neurons]] — orexin 뉴런 hub.

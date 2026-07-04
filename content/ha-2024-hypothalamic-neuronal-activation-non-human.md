@@ -135,3 +135,4 @@ journal: "Neuron 112:1–13"
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 동일 cynomolgus macaque 비만·식이 번역 platform (MC3R/MC4R dual agonist 약리).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-choi-hyung-jin]] — 사용자 lab.
+- [[mueller-2025-privi-towards-general-purpose-video]] — NHP 자유행동 영상 자동 정량화 CV 도구(방법 인프라).

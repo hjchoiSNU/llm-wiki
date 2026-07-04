@@ -136,3 +136,4 @@ updated: 2026-05-01
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 임상 type 분류.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[proposal-oral-fat-taste-pleasure-desire]] — proxy(구강 지방 맛) vs primary(post-oral 영양) reward 분리를 지방에서 인과 검증하는 연구계획서.
+- [[dong-2026-reward-prediction-is-encoded-by]] — 보상 예측 vs 보상 수령 활성 구분.

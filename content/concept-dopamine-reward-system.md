@@ -168,3 +168,6 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] · [[concept-ventral-pallidum]] — VP^GABA→VTA 탈억제→DA↑가 hedonic 섭식 구동 (bioRxiv 2026, Kravitz).
 - [[chen-2026-striatal-control-of-amygdalar]] — D1/D2 MSN이 BLA의 **콜린성(ACh)** modulator를 양방향 통제(도파민과 대비) (Nat Neurosci 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — mesolimbic 표적 NAc의 D1/D2 MSN·도파민 gradient.
+- [[dong-2026-reward-prediction-is-encoded-by]] — orexin의 reward prediction 부호화(도파민 PE와 비교).
+- [[concept-orexin-neurons]] — orexin→VTA/mesolimbic dopamine 연결.

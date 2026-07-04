@@ -96,3 +96,4 @@ aliases: [CCK, cholecystokinin]
 - [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] — LCFA가 CCK 분비를 자극하는 수용체.
 - [[concept-fat-taste]] — 구강 지방 감지(장 CCK 축과 대비).
 - [[overview-appetite-energy-homeostasis]] — 4-호르몬 프레임워크.
+- [[woods-1991-the-eating-paradox-how]] — satiety 매개 장호르몬으로 인용.

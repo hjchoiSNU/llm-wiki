@@ -63,3 +63,4 @@ journal: bioRxiv (preprint)
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 부위별 GLP-1R 분업 review (사용자 lab).
 - [[person-choi-hyung-jin]] — 인용된 사용자 lab(Kim 2024 Science).
 - [[overview-appetite-energy-homeostasis]] — 약리·회로 통합.
+- [[duran-2026-the-central-amygdala-gates]] — **본 프리프린트의 정식 출판판**(Molecular Metabolism 2026); 결론 동일, 인용 시 이쪽 우선.

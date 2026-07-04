@@ -6,8 +6,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 276 (+ index.md, log.md)
-- 마지막 갱신: 2026-07-02
+- 총 페이지: 287 (+ index.md, log.md)
+- 마지막 갱신: 2026-07-04
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -61,7 +61,10 @@ title: 뇌과학 LLM Wiki
 전기생리, 이미징, 광유전학, 단일세포 시퀀싱, 행동 패러다임, 계산 분석.
 
 - [[concept-hypomap]] — Mouse + 인간 hypothalamus single-cell atlas (Steuernagel 2022, Tadross 2025).
+- [[concept-spatial-transcriptomics]] — 공간전사체(Visium/Xenium/MERFISH)+snRNA-seq 통합 방법론 hub. 인간 뇌 부위 아틀라스·rodent→human transfer learning.
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA, MRI 정합); 25영역·59뉴런타입·DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026, Jun Yan lab).
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc Visium+snRNA-seq 아틀라스; D1/D2 MSN 연속 공간 gradient·OPRM1+ D1 island(오피오이드 hedonic 상관)·rodent 약물반응 transfer learning (Neuron 2026, Maynard/Lieber). _(보상 회로는 🎯에도)_
+- [[mueller-2025-privi-towards-general-purpose-video]] — PriVi: NHP 행동 영상 자동 인식 video foundation model(V-JEPA 기반, 424h primate 데이터·frozen encoder). NHP 자유행동 섭식 정량화 도구 (2025, Ecker lab). _(방법 인프라, appetite 회로 아님)_
 - [[concept-activity-molecular-registration]] — 활성–분자정체 정합 방법론 hub: in vivo 활성↔분자 cell-type 연결(CaRMA vs TRU-FACT 비교).
 - [[hyun-2022-tagging-active-neurons-by]] — soma-targeted Cal-Light: Ca²⁺+광 동시검출로 활성 뉴런 태깅(tag-then-manipulate); 배경↓·조건부 KI (Nat Commun 2022, Kwon).
 - [[wang-2026-multimodal-alignments-of-in]] — TRU-FACT: in vivo 영상↔공간전사체(MERFISH)↔projection 세포 단위 정합(Schnitzer, bioRxiv 2026). 활성에 분자정체 부여.
@@ -92,6 +95,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[liu-2026-granular-motivational-interaction-and]] — 섭식을 "granular motivational states"(seeking→approaching→investigation→sustained eating→satiation→aversion)로 분해; 5 phase별 전용 회로 매핑 + BBQSM/AI 자연주의 패러다임; NMPU의 자매 framework (Neuron 2026, Liu·Wang; 사용자 Lee 2023 인용).
 - [[lee-2019-food-craving-seeking-and]] — 식이를 craving→seeking→consumption phase로 분해, phase×종별 측정법 종합; AgRP=appetitive-only 재정의; lab phase framework 원전 (JOMES 2019, 사용자 lab).
 - [[woods-2016-regulation-of-the-motivation]] — 섭식 동기를 "학습 의존 조건적 과정"으로 재정의; homeostatic↔non-homeostatic 광범위 crosstalk·distal→proximal cue 신뢰도 구배·cephalic 예측 (book chapter 2016, Woods & Begg).
+- [[woods-1991-the-eating-paradox-how]] — **먹기=약물처럼 항상성을 교란하는 위협**; 동물은 약물 내성처럼 cephalic 예측반응(식전 인슐린)으로 tolerate; satiety·소식·식후 억제=학습된 방어, 오작동=reactive hypoglycemia (Psych Review 1991, Woods). Woods 2016·NMPU의 이론 원전.
 
 ### 회로·세포
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH 종합 (EMM 2025, 사용자 lab).
@@ -114,6 +118,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — small-molecule GLP1RA가 NTS^Gcg→CeA^Glp1r→VTA→NAc DA↓로 hedonic feeding 억제; humanized Glp1r^S33W 마우스 (Nature 2026, Güler lab; 사용자 Kim 2024 Science 인용).
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드 1차 표적=area postrema·Gs–cAMP 필수·Gq permissive·PDE4·downstream elPBN (Nat Metab 2026, Krashes·Lutas lab).
 - [[duran-2026-the-central-amygdala-integrates]] — 말초 Ex-4가 CeA in vivo 활성; Prkcd^CeA=hypophagia 최강, Glp1r^CeA=hedonic(HFD) 전담, Sst^CeA 무관 (bioRxiv 2026, Hardaway lab; 사용자 Kim 2024 Science 인용).
+- [[duran-2026-the-central-amygdala-gates]] — ★ 위 프리프린트의 **정식 출판판**(Molecular Metabolism 2026, "integrates"→"gates"); 결론 동일, CeA^Glp1r hedonic 전담 확정. 인용 시 이쪽 우선.
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — GLP-1R–GIPR 이중작용 펩타이드(MAR709)에 PPARα/γ/δ agonist(lanifibranor)를 공유결합한 5중작용제; 두 incretin 수용체+PPAR 모두 체중·당대사 기여, ARC POMC 활성 강화·BBB 미투과 (Nature 2026, Müller lab).
 - [[xu-2020-behavioral-state-coding-by]] — PVH 분자 세포타입 ensemble이 11개 행동상태(hunger·ghrelin·leptin·thirst·fear)를 **grouped-ensemble coding**; Npy1r=conductor, MC5-Crh/MC6-Pdyn=salience; CaRMA imaging (Science 2020, Sternson).
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — AgRP가 칼로리 아닌 **영양소 정체**에 반응(fructose≪glucose 억제); fructose 전용 **PYY→Y2R→미주 구심성** 경로; graded AgRP 억제→food preference (Neuron 2026, Alhadeff·de Lartigue).
@@ -134,6 +139,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[martin-2011-the-lipid-sensor-candidates-cd36]] — 미뢰 CD36(식이지방에 후전사 급감=sensory-specific satiety) vs GPR120(불변) 분리 (PLoS ONE 2011).
 - [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — 시상하부 VMN CD36가 지방산 감지→식이 억제(acyl-CoA 의존, β-산화 비의존) (PLoS ONE 2013, Magnan·Levin).
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — ★ 미각 비의존 gut-brain 지방 선호; CCK-의존 VIP generalist(GPR40/120) + CCK-비의존 TRPA1 fat-only 두 미주 경로; liking(미각)≠wanting(gut-brain) (Nature 2022, Zuker).
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방→미주 경유 소장(jejunum) endocannabinoid(2-AG·anandamide) 동원→CB1로 지방 섭취 촉진하는 뇌–장 양성 피드백; 말초 한정 CB1 길항이 항비만 표적 (PNAS 2011, Piomelli). 개념 hub [[concept-endocannabinoid-system]].
 
 ### 호르몬
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — Ghrelin 식전 surge 인간 입증 (Diabetes 2001).
@@ -323,10 +329,12 @@ _(아직 페이지 없음)_
 - [[concept-dopamine-reward-system]] · [[concept-basolateral-amygdala]] · [[concept-central-amygdala-glp1r]] · [[concept-bed-nucleus-stria-terminalis]]
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]]
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]]
+- [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]]
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]]
-- [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]]
+- [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]]
+- [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
@@ -338,7 +346,7 @@ _(아직 페이지 없음)_
 - [[concept-food-insecurity]] · [[concept-food-environment-access]] · [[concept-food-addiction]]
 
 ### 발달 / atlas / 방법론
-- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]]
+- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]]
 
 ## 👤 인물 (People)
 
@@ -440,6 +448,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[grove-2022-dopamine-subsystems-track-internal]] — VTA DA의 자원별 sub-system, LH→VTA water reward (Nature 2022, Knight lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 전담 (bioRxiv 2025, Knight lab).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 역방향 **VTADA→LH**가 cue–특정결과 학습·의사결정(PIT)에 필요·충분; LH 도파민=비-RPE 보상근접 ramp; 메스암페타민이 LH-VTA 양방향 강화→cue 통제력↑(habit 이론 반박) (Neuron 2026, Sharpe lab).
+- [[dong-2026-reward-prediction-is-encoded-by]] — LH [[concept-orexin-neurons|orexin]] 뉴런이 **reward prediction을 부호화**(보상 직전 상승·수령 후 감소·effort 의존); 예측 직전 짧은 광억제만으로 동기 행동 차단; orexin-Cre rat 인과 (PNAS 2026). 단순 arousal 아님. _(LH 회로는 🍽️에도)_
 
 ### 진영 — Interoceptive primary reward (RL framework)
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — Primary/proxy/secondary reward + state-driven vs event-driven (Trends Cogn Sci 2025).

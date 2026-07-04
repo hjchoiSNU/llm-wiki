@@ -135,3 +135,4 @@ Lamina propria의 vagal afferent terminal (~5-10 µm 거리)을 직접 자극. �
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — CCK⁺ EEC가 당·지방·아미노산 gut-brain 선호(wanting)의 generalist 감지 세포(GPR40/GPR120→CCK→VIP 미주) (Nature 2022, Zuker).
 - [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] — EEC 지방 감지 수용체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — endocannabinoid 반응이 enterocyte OEA와 독립.
