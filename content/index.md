@@ -6,7 +6,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 328 (+ index.md, log.md)
+- 총 페이지: 335 (+ index.md, log.md)
 - 마지막 갱신: 2026-07-05
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -345,7 +345,7 @@ _(아직 페이지 없음)_
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]]
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]]
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]]
-- [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]]
+- [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]] · [[concept-npy-nucleus-accumbens]]
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]]
@@ -491,6 +491,15 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — Cognitive flexibility / meta-learning
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — mPFC↔VTA DA가 contingency degradation을 meta-RPE(RPE의 rolling-gain)로 구동 (Nature 2026, Stuber lab).
+
+### 측좌핵 NPY (NAc Neuropeptide Y)
+시상하부 ARC NPY와 **구분되는** NAc NPY 회로 — 지방 선택적 섭식·보상/중독·정서·사회행동. 개념 hub: [[concept-npy-nucleus-accumbens]].
+- [[tanaka-2021-role-of-neuropeptide-y-in]] — NAc NPY 종합 리뷰(Y1=지방섭식/Y5=도파민·보상/Y2=억제).
+- [[van-den-heuvel-2015-neuropeptide-y-activity-in-nucleus]] — ARC NPY→NAc shell Y1→ENK/D2 억제→**지방 선택 섭식** (Biol Psychiatry).
+- [[wang-2020-npy-alterations-induced-by-chronic]] — AcbSh NPY-**Y5**가 morphine CPP 소거·재발 조절(food-addiction 유비).
+- [[yamada-2021-efferent-and-afferent-connections-of]] — NAc NPY 뉴런 **→LH 배타 투사**·PVT/pBMA 입력·VTA 도파민 없음 (회로).
+- [[smith-2022-neuropeptide-y-modulates-excitatory-synaptic]] — NAc shell D1/D2 MSN 시냅스 세포타입별 튜닝·사회행동·DPP-IV(sitagliptin).
+- [[warthen-2019-neuropeptide-y-and-representation]] — 인간 NAc: 저-NPY형이 고-salience에 과반응(valence 무관).
 
 ## 📦 기타 (Other)
 
