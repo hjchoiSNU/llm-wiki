@@ -12,9 +12,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  # 연속된 auto-sync 커밋 시 이전(진행 중) 배포를 취소하고 최신만 배포.
-  # auto-sync 커밋은 누적본이라 취소해도 내용 손실 없음 → Pages 배포 충돌("Deployment failed, try again later") 방지.
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -39,9 +37,20 @@ jobs:
     needs: build
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment-retry.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      # 1차 시도. GitHub Pages 백엔드의 간헐적 "Deployment failed, try again later"를
+      # 잡기 위해 실패해도 job을 죽이지 않고(continue-on-error) 아래에서 재시도한다.
       - name: Deploy to GitHub Pages
         id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Wait before retry
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 20
+      # 2차(재시도). 여기서도 실패하면 job이 실패한다(진짜 문제 노출).
+      - name: Retry Deploy to GitHub Pages
+        id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
