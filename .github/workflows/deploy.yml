@@ -12,7 +12,9 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  # 연속된 auto-sync 커밋 시 이전(진행 중) 배포를 취소하고 최신만 배포.
+  # auto-sync 커밋은 누적본이라 취소해도 내용 손실 없음 → Pages 배포 충돌("Deployment failed, try again later") 방지.
+  cancel-in-progress: true
 
 jobs:
   build:
