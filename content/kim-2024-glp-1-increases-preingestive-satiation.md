@@ -120,3 +120,5 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — anticipatory(섭취 전) NAc DA 상승이 미주 의존; 본 preingestive 단계와 호응 (Sci Adv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[duran-2026-the-central-amygdala-gates]] — 대비되는 hedonic 축(Glp1r^CeA HFD 전담).
+- [[rupp-2023-suppression-of-food-intake-by]] — DMH Glp1r/Lepr 공발현 뉴런(세포 접점).
+- [[cao-2024-hunting-for-heroes-brain]] — 본 논문(DMH^GLP-1R)을 세 논문 중 하나로 외부 평가.

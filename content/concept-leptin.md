@@ -77,4 +77,5 @@ updated: 2026-05-25
 - [[person-friedman-jeffrey]] — 발견자.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1+leptin이 hindbrain→시상하부 상행 경로로 식이↓ 가산 효과; 병용요법 종합 editorial (JOMES 2017, 사용자 lab).
 - [[padamsey-2022-neocortex-saves-energy-by]] — leptin이 피질 코딩 정밀도·에너지 예산을 gating.
+- [[rupp-2023-suppression-of-food-intake-by]] — DMH LepRb^Glp1r이 leptin 식이억제의 핵심 수렴점(최고 Lepr 발현).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -205,4 +205,9 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — GLP-1/Ex-4 식욕억제가 CGRP^PBel 활성화를 요구.
 - [[zhang-2021-area-postrema-cell-types-that]] — exendin-4 malaise가 뇌간 AP GLP1R 경유(vagal 아님).
 - [[concept-area-postrema]] — AP GLP1R 오심 관문 hub.
+- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1/GLP-1R 부위별 분포·연령·종특이성 1차 해부.
+- [[wan-2023-glp-1r-signaling-and-functional]] — GLP-1R 세포내 신호(Gαs/Gαq/β-arrestin)·biased agonism.
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 췌장외·중추 작용 대조 표준 리뷰.
+- [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 뉴런(DMH/후뇌/LS) 비판적 종합.
+- [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide는 food liking 불변(효과는 wanting 축) 인간 RCT.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

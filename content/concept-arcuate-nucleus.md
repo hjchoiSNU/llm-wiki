@@ -99,4 +99,7 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[walker-2026-a-hypothalamic-circuit-for]] — ARC^AgRP가 받는 PVH^Sim2 흥분성 입력(NPY⁻)이 미래 결핍 예측 cue로 단식 초기 빠른 AgRP 활성을 매개 (Neuron 2026, Lowell lab).
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — ARC^AgRP가 받는 **선택적 GABAergic 억제 입력**(vDMH^LepR/pDYN); 음식 cue 시 AgRP를 끄는 식전 회로 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — ARC^AgRP가 받는 **흥분성 입력**(PVH TRH/PACAP·DMH glutamatergic) 동정; PVH 입력이 DMH보다 ~3배 강함 (Nature 2014, Lowell lab).
+- [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — acyl-GIP ARC cFos.
+- [[liu-2025-gipr-ab-glp-1-peptide]] — 궁상핵 GIPR·식욕조절.
+- [[cao-2024-hunting-for-heroes-brain]] — DMH→ARC AgRP 하류.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

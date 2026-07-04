@@ -29,4 +29,7 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[concept-parabrachial-cgrp-alarm]] — AP aversion 뉴런의 하류 투사 표적.
 - [[concept-glp-1]] — AP GLP1R 뉴런이 GLP-1RA malaise의 뇌간 표적.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드 1차 표적이 AP임을 규명.
+- [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — acyl-GIP가 AP cFos 유도(GABAergic 의존).
+- [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR-Ab/GLP-1이 AP 등 CVO에서 검출·c-Fos.
+- [[cao-2024-hunting-for-heroes-brain]] — AP^GLP-1R=혐오(→lPBN), NTS와 분리.
 - [[overview-cea-glp1r-food-safety-alarm]] — AP를 섭취후 독소 관문으로 편입.

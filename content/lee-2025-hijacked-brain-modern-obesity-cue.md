@@ -116,4 +116,5 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[choi-2025-brain-activity-associated-with-breakthrough]] — tirzepatide(약물)×NAc biomarker 교차 단일 사례 (Nat Med 2025).
 - [[person-halpern-casey]] — 인간 reward 회로 neuromodulation 프로그램.
 - [[person-choi-hyung-jin]] — 본 lab.
+- [[koide-2025-association-between-eating-behavior]] — cue-evoked(external) eating이 GLP-1RA 반응 예측(임상 검증).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

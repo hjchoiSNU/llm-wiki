@@ -62,3 +62,6 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 - [[zhang-2022-brainstem-circuit-for-nausea]] — AP GIP-GIPR 억제뉴런 오심 off-switch.
 - [[concept-area-postrema]] — DVC 내 AP 독소감지 hub.
 - [[concept-parabrachial-cgrp-alarm]] — NTS 하류 뇌간 일반경보.
+- [[cao-2024-hunting-for-heroes-brain]] — 후뇌 NTS/AP GLP-1R 기능 분리 종합.
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1/GIP 후뇌 무대.
+- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 medulla(NTS/AP) GLP-1R 발현.

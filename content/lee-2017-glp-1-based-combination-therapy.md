@@ -87,4 +87,9 @@ journal: "Journal of Obesity & Metabolic Syndrome 2017;26:155-160; doi:10.7570/j
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 본 editorial이 예견한 GLP-1/glucagon dual·amylin 복합·경구 소분자가 2026 임상으로 실현된 모음 hub.
 - [[le-roux-2026-survodutide-once-weekly-for]] · [[kaplan-2026-survodutide-in-adults-with]] — GLP-1/glucagon dual agonist(survodutide) 임상화.
 - [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — GLP-1+amylin 복합(CagriSema) 임상화.
+- [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide dual(병용 로드맵 실현).
+- [[muller-2022-gut-hormone-triple-agonists-clinical]] — 삼중작용제.
+- [[alfaris-2024-glp-1-single-dual-and]] — 단일/이중/삼중 landscape.
+- [[jastreboff-2023-new-frontiers-obesity-treatment]] — NuSH 조합 종합.
+- [[tschop-2023-gut-hormone-based-pharmacology-novel]] — nuclear hormone 컨쥬게이트 등 제형 확장.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

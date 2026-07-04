@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-05 — ingest W2 (GLP-1/incretin)
+
+- **W2a 완료(5편 + 개념 [[concept-gip]])**: [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]](GIP→GABAergic 뉴런), [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]](GIP→ME 올리고덴드로사이트·혈관투과성), [[liu-2025-gipr-ab-glp-1-peptide]](중추 GIPR+GLP-1R 요구), [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1 작용 phase1), [[rupp-2023-suppression-of-food-intake-by]](DMH Glp1r·Lepr 수렴 뉴런). 핵심: **GIPR agonism vs antagonism 역설**을 concept-gip에 정리.
+- **W2b 완료(임상·리뷰 13편)**: 임상 [[aronne-2023-continued-treatment-with-tirzepatide-for]](SURMOUNT-4)·[[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]](MariTide)·[[coppin-2022-does-glp-1-receptor-agonist]](liraglutide liking)·[[koide-2025-association-between-eating-behavior]](external eating). 리뷰 [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]]·[[scheen-2023-dual-gip-glp-1-receptor]]·[[muller-2022-gut-hormone-triple-agonists-clinical]]·[[alfaris-2024-glp-1-single-dual-and]]·[[jastreboff-2023-new-frontiers-obesity-treatment]]·[[tschop-2023-gut-hormone-based-pharmacology-novel]]·[[wan-2023-glp-1r-signaling-and-functional]]·[[gupta-2021-glucagon-like-peptide-1-and]]·[[cao-2024-hunting-for-heroes-brain]]. index GLP-1/GIP 클러스터 등록·카운트 328. 역링크는 별도 pass.
+- 대기: W3 NPY-NAc ~7 · W4 LH/보상/food-addiction ~10.
+
+---
+
 ## 2026-07-05 — ingest (대량 배치 시작: 정독완료 2편 + food-toxicity 웨이브 착수)
 
 `raw/`에 미처리 ≈50편 대량 추가 확인 → 주제별 웨이브로 처리 시작.

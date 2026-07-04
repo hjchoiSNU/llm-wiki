@@ -36,4 +36,7 @@ journal: "New England Journal of Medicine"
 - [[kaplan-2026-survodutide-in-adults-with]] — 동일 약물 MASLD phase 3.
 - [[concept-glp-1]] · [[concept-incretin-effect]] — 작용 기전.
 - [[lee-2017-glp-1-based-combination-therapy]] · [[liskiewicz-2026-glp-1r-gipr-ppar]] — 복합·다중 작용제 흐름.
+- [[muller-2022-gut-hormone-triple-agonists-clinical]] — glucagon 축 작용제 안전성(심박수) 논의 공유.
+- [[alfaris-2024-glp-1-single-dual-and]] — GLP-1/glucagon dual landscape.
+- [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — 또 다른 차세대 비만 임상(비교).
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.

@@ -65,3 +65,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[person-choi-hyung-jin]] — Ch 20 저자(사용자).
 - [[wang-2018-coding-of-valence-and-identity]] — 편도가 부여하는 미각 valence(=liking 축).
 - [[concept-taste-valence-coding]] — 미각 valence 부호화 hub.
+- [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 liking 불변(인간 RCT); 효과는 wanting 쪽.

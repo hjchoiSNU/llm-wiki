@@ -95,3 +95,7 @@ GLP-1·GIP 둘 다 **혈당이 낮으면 인슐린 분비 자극 안 함** → �
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[woods-1991-the-eating-paradox-how]] — cephalic insulin vs incretin 대비.
 - [[concept-cephalic-phase-response]] — 신경성 예측 인슐린 hub.
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GIP/GLP-1 대조 상위 레퍼런스.
+- [[scheen-2023-dual-gip-glp-1-receptor]] — 두 인크레틴 상보성의 임상 구현(tirzepatide).
+- [[tschop-2023-gut-hormone-based-pharmacology-novel]] — gut hormone 제형·경구화 진화사.
+- [[alfaris-2024-glp-1-single-dual-and]] — 단일/이중/삼중 작용제 landscape.
