@@ -73,3 +73,4 @@ updated: 2026-06-02
 - [[kim-2024-glp-1-increases-preingestive-satiation]] · [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab GLP-1 라인.
 - [[person-choi-hyung-jin]] · [[person-lopez-miguel]] — 연구진·협력(AMPK).
 - [[proposal-ttis-feeding-reward-circuits]] · [[proposal-food-insecurity-cross-species]] — 자매 연구계획서.
+- [[aronne-2023-continued-treatment-with-tirzepatide-for]] — GLP-1RA/tirzepatide 중단 후 rebound 임상 앵커(SURMOUNT-4).

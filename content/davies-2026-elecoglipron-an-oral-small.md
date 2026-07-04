@@ -38,4 +38,7 @@ journal: "Lancet"
 - [[rosenstock-2026-oral-small-molecule-glp]] — 또 다른 경구 소분자 GLP-1RA(aleniglipron).
 - [[concept-glp-1]] · [[concept-incretin-effect]] — 기전.
 - [[concept-digital-therapeutics]] — 접근성·병용.
+- [[alfaris-2024-glp-1-single-dual-and]] — 경구 소분자 GLP-1RA landscape.
+- [[tschop-2023-gut-hormone-based-pharmacology-novel]] — 경구화·비펩타이드 제형 배경.
+- [[wan-2023-glp-1r-signaling-and-functional]] — 소분자 GLP-1R agonist 신호 기반.
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.

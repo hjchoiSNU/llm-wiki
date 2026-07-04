@@ -6,7 +6,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 309 (+ index.md, log.md)
+- 총 페이지: 328 (+ index.md, log.md)
 - 마지막 갱신: 2026-07-05
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -158,6 +158,13 @@ _(섭식·동기 행동은 🍽️로)_
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 경구 MC3R/MC4R dual agonist 710GO: 비만 macaque 15주 11.8% 감량·지방 선택적·제지방 보존·무오심·심혈관 안전·semaglutide 시너지; MC3R=rheostat/MC4R=driver division of labor (Nat Commun 2026, Endevica Bio).
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 lixisenatide fMRI: lean vs obese T2DM의 visual food cue 뇌활성을 GLP-1RA가 차별적 조절; 비만 cue 과반응 영상 근거 (DMJ 2019, 사용자 lab).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — ★ 2026 차세대 비만·대사 약물 임상 5건(GLP-1/glucagon dual·경구 소분자 GLP-1RA·amylin+GLP-1 복합) 기전별 hub.
+
+#### GLP-1/GIP incretin — 기전·약물 배치 (2021–2025)
+개념 hub: [[concept-glp-1]] · [[concept-gip]] · [[concept-incretin-effect]]. 종합: [[overview-next-gen-incretin-obesity-drugs-2026]].
+- **기전·회로(GIP)** — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]]: GIP→중추 **GABAergic 뉴런** 의존 (Nat Metab). · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]]: GIP→ME **올리고덴드로사이트**·혈관투과성→GLP-1RA 뇌접근↑ (Cell Metab). · [[liu-2025-gipr-ab-glp-1-peptide]]: 중추 GIPR+GLP-1R 요구 (Nat Metab). · [[rupp-2023-suppression-of-food-intake-by]]: DMH **Glp1r·Lepr 수렴** 뉴런 (JCI).
+- **GIPR agonism vs antagonism 역설** — [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1, phase1) · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]](MariTide **월1회** phase2 −16.2%, NEJM).
+- **임상 시험** — [[aronne-2023-continued-treatment-with-tirzepatide-for]](tirzepatide SURMOUNT-4 유지/중단 rebound, JAMA) · [[coppin-2022-does-glp-1-receptor-agonist]](liraglutide는 food **liking 불변**=wanting 축, RCT preprint) · [[koide-2025-association-between-eating-behavior]](**external eating**이 GLP-1RA 반응 예측).
+- **리뷰·약리** — [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]](GIP/GLP-1 췌장외 대조, NRE) · [[scheen-2023-dual-gip-glp-1-receptor]](tirzepatide twincretin) · [[muller-2022-gut-hormone-triple-agonists-clinical]](삼중작용 retatrutide) · [[alfaris-2024-glp-1-single-dual-and]](단일/이중/삼중 landscape) · [[jastreboff-2023-new-frontiers-obesity-treatment]](NuSH 종합) · [[tschop-2023-gut-hormone-based-pharmacology-novel]](제형·경구화) · [[wan-2023-glp-1r-signaling-and-functional]](GLP-1R 신호·biased agonism) · [[gupta-2021-glucagon-like-peptide-1-and]](인간 뇌 GLP-1R 분포) · [[cao-2024-hunting-for-heroes-brain]](GLP-1RA 매개 뇌뉴런 DMH/후뇌/LS 비판적 종합).
 - [[le-roux-2026-survodutide-once-weekly-for]] — survodutide(글루카곤-R/GLP-1R dual) phase 3 SYNCHRONIZE-1: 당뇨 없는 비만 76주 −13.0% vs −5.4% (NEJM 2026).
 - [[kaplan-2026-survodutide-in-adults-with]] — survodutide phase 3 SYNCHRONIZE-MASLD: 비만+at-risk MASLD 48주 간지방 ≥30%↓ 84.2%·체중 −12.2%, 체중-독립적 간효과 (Nat Med 2026).
 - [[davies-2026-elecoglipron-an-oral-small]] — elecoglipron(AZD5004) 경구 1일1회 소분자 GLP-1RA phase 2 VISTA: 26주 최대 −10.5%, 음식 제한 없음 (Lancet 2026, AstraZeneca).
@@ -341,7 +348,7 @@ _(아직 페이지 없음)_
 - [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]]
 
 ### 메커니즘 · 분자
-- [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]]
+- [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]]
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]]
 - [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
 - [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)

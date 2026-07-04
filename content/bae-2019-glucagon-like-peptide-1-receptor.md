@@ -72,4 +72,7 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 - [[concept-arcuate-nucleus]] — GLP-1RA 시상하부 작용(liraglutide ARC, Secher 2014).
 - [[person-choi-hyung-jin]] — 공동 1저자.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 본 lab 뇌 GLP-1R brain-wide 리뷰; 인체 fMRI를 GLP-1 계보의 translational 중간 단계로 배치 (APEM 2025).
+- [[coppin-2022-does-glp-1-receptor-agonist]] — 소비/liking 단계 GLP-1RA fMRI(cue/wanting 단계와 대비).
+- [[koide-2025-association-between-eating-behavior]] — external eating이 GLP-1RA 반응 예측(cue 과반응 조절의 임상 짝).
+- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 해부 분포.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 임상).

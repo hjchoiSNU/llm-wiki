@@ -51,4 +51,12 @@ updated: 2026-06-21
 - [[concept-melanocortin-system]] — amylin·MC 회로(CagriSema).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] · [[lee-2017-glp-1-based-combination-therapy]] — GLP-1/복합 기전.
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] · [[seiler-2026-dual-activation-of-mc3r-and]] — 차세대 다중 작용제(전임상).
+- [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — MariTide(GIPR 길항+GLP-1) 월1회 phase2.
+- [[veniant-2024-a-gipr-antagonist-conjugated-to]] — 같은 약물 phase1(AMG133).
+- [[aronne-2023-continued-treatment-with-tirzepatide-for]] — tirzepatide 유지/중단 rebound(SURMOUNT-4).
+- [[jastreboff-2023-new-frontiers-obesity-treatment]] — NuSH 기반 항비만 종합.
+- [[alfaris-2024-glp-1-single-dual-and]] — 단일/이중/삼중 landscape.
+- [[muller-2022-gut-hormone-triple-agonists-clinical]] — 삼중작용 retatrutide 초기 근거.
+- [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide dual 리뷰.
+- [[tschop-2023-gut-hormone-based-pharmacology-novel]] — 제형·경구화 로드맵.
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.

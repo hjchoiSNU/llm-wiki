@@ -94,4 +94,8 @@ DIO 마우스 (10 nmol/kg/day):
 - [[namkoong-2017-central-administration-of-glp-1]] — 9년 전 GLP-1+GIP 중추 병용 시너지·ARC POMC 활성을 보인 선행 개념 (사용자 lab, BBRC 2017).
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1/GIP/glucagon co-agonist·triagonist 비전을 종합한 사용자 lab editorial; 본 5중작용제의 2017 로드맵 선행 (JOMES 2017).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab 뇌 GLP-1R 리뷰; 본 5중작용제를 차세대 다중작용제 약물 발전사의 일부로 정리 (APEM 2025).
+- [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — 동일 1저자 선행(GIP GABAergic).
+- [[veniant-2024-a-gipr-antagonist-conjugated-to]] — GIPR 길항 축(agonism vs antagonism 역설의 반대쌍).
+- [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — MariTide 임상(길항 축).
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GIP 역설 authoritative 리뷰.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 약리).

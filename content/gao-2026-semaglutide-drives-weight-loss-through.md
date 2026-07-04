@@ -70,3 +70,6 @@ journal: Nature Metabolism
 - [[zhang-2021-area-postrema-cell-types-that]] — 세마글루타이드 1차 표적 AP의 세포 아틀라스.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 평행 PBN→CeA 포만/혐오 경로.
 - [[concept-area-postrema]] — AP 독소감지 hub.
+- [[cao-2024-hunting-for-heroes-brain]] — semaglutide 후뇌 GLP-1R 매개 논점 종합.
+- [[wan-2023-glp-1r-signaling-and-functional]] — semaglutide 작동 수용체 신호 기반.
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 심혈관·중추 작용 대조.
