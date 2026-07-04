@@ -40,3 +40,4 @@ year: 2025
 ## 관련 페이지
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 같은 NHP(마카크) 대상이나 목적이 반대: 저쪽은 자유행동 섭식을 chemogenetic으로 조작·계측하는 신경생물 실험, 이쪽은 그 종류의 NHP 영상에서 행동을 자동 라벨링하는 CV 도구. 행동 정량화 파이프라인 후보로 상호 참조.
 - [[wang-2026-multimodal-alignments-of-in]] — 둘 다 신경과학용 **방법론/도구 논문**. 저쪽은 in vivo 영상↔분자정체 정합, 이쪽은 행동 영상↔행동 라벨 정합으로 "측정 인프라" 성격에서 나란함.
+- [[matsuda-2020-diet-and-feeding-behavior-of]] — 야생 영장류 자연 섭식행동 관찰; 본 CV 도구가 정량화 대상으로 삼을 수 있는 자연주의 primate 행동 데이터의 예.
