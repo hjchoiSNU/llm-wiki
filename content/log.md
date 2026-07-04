@@ -8,6 +8,24 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-04 — ingest (7/4 raw 신규 PDF 6편: NAc·CeA·orexin·endocannabinoid·eating paradox·PriVi)
+
+병렬 정독 후 정리. **신규 11 + 갱신 32(역링크 30 + index + log)**.
+
+**신규 논문(6)**:
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc Visium+snRNA-seq 아틀라스; D1/D2 [[concept-medium-spiny-neuron|MSN]] 연속 공간 gradient·OPRM1+ D1 island(오피오이드 hedonic 상관)·rodent 약물반응 transfer learning (Neuron 2026).
+- [[duran-2026-the-central-amygdala-gates]] — 기존 프리프린트 [[duran-2026-the-central-amygdala-integrates]]의 **정식 출판판**(Mol Metab 2026); CeA^Glp1r=hedonic(HFD) 전담 확정.
+- [[dong-2026-reward-prediction-is-encoded-by]] — LH [[concept-orexin-neurons|orexin]] 뉴런이 reward prediction·effort 부호화, 예측 시점 광억제가 동기 차단 (PNAS 2026).
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방→미주→소장 [[concept-endocannabinoid-system|endocannabinoid]]→CB1 지방섭취 양성 피드백 (PNAS 2011).
+- [[woods-1991-the-eating-paradox-how]] — 먹기=항상성 위협, [[concept-cephalic-phase-response|cephalic]] 예측방어로 tolerate; Woods 2016·NMPU 이론 원전 (Psych Review 1991).
+- [[mueller-2025-privi-towards-general-purpose-video]] — PriVi: NHP 행동 영상 video foundation model(방법 인프라, appetite 회로 아님).
+
+**신규 개념(5)**: [[concept-orexin-neurons]] · [[concept-endocannabinoid-system]] · [[concept-cephalic-phase-response]] · [[concept-medium-spiny-neuron]] · [[concept-spatial-transcriptomics]].
+
+**주요 교차참조**: NAc→MSN/hedonic-hotspot/food-addiction/dopamine, orexin→LH/dopamine/barbosa/korotkova, endocannabinoid→fat-taste/li-2022/vagal, cephalic→interoception/incretin/woods-2016, CeA gates↔integrates(프리프린트↔출판판).
+
+---
+
 ## 2026-07-04 08:00 — daily-digest
 자동 ingest: 조회 4건 · ★추천 1 (Neuron 인간 NAc 공간전사체 아틀라스, PMID 42385698) · 일반 2 (Lancet NCD-RisC 비만 대사형질, Lancet 논평) · 제외 1 (지질학 'arcuate' 오매칭). Drive 업로드 0건(무료 OA PDF 미확보). Gmail 초안 생성.
 

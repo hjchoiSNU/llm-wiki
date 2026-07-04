@@ -1,0 +1,31 @@
+---
+title: Medium spiny neuron (MSN) — D1/D2, direct/indirect pathway
+type: concept
+created: 2026-07-04
+updated: 2026-07-04
+aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pathway]
+---
+
+> [!takeaway] 연구 방향 관점의 핵심
+> Striatum·NAc 출력의 90% 이상을 차지하는 GABAergic 주 뉴런으로, **DRD1(direct) vs DRD2(indirect)** 두 계열이 보상·동기·운동을 반대 방향으로 조절한다. 최형진 lab의 보상·food reward 회로에서 NAc 신호의 최종 공통 경로이며, 인간 조직에서 이 subtype의 공간·분자 정체가 최근 규명되고 있다.
+
+# Medium spiny neuron (MSN)
+
+## 한 줄 요약
+Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 주 투사 뉴런으로, dendrite에 dendritic spine이 조밀한 GABAergic 뉴런. 발현 도파민 수용체에 따라 **D1형(DRD1) direct pathway MSN**과 **D2형(DRD2) indirect pathway MSN**으로 크게 나뉜다.
+
+## 핵심 내용
+- **분자 표지**:
+  - **D1 MSN**: DRD1, DARPP-32, substance P, dynorphin(PDYN). direct pathway(운동·보상 촉진 경향).
+  - **D2 MSN**: DRD2, ADORA2A(A2A 수용체), enkephalin(PENK). indirect pathway(억제 경향).
+- **회로**: D1 MSN은 basal ganglia output 핵으로 직접 투사(direct), D2 MSN은 external globus pallidus 경유(indirect). NAc에서는 이 이분법이 보상 접근 vs 회피/혐오와 연결되나 shell/core·subtype에 따라 복잡.
+- **이질성**: 전통적 D1/D2 이분법을 넘어 다수의 전사적 subtype이 존재하며, 인간 NAc에서는 discrete cluster + **연속 공간 gradient**로 조직됨(→ [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]]). OPRM1+ D1 island 같은 특화 구획도 포함.
+- **기능적 해리**: NAc shell의 D1/D2 MSN이 섭식·동기에서 서로 다른 역할을 함(→ [[guillaumin-2023-disentangling-the-role-of-nac]]).
+
+## 관련 페이지
+- [[concept-nucleus-accumbens]] — MSN이 주 뉴런인 배쪽 striatum 구조.
+- [[concept-dopamine-reward-system]] — D1/D2 MSN이 도파민 신호를 받는 최종 표적.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc MSN subtype의 공간·분자 정체 규명.
+- [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1/D2 MSN 기능 해리.
+- [[chen-2026-striatal-control-of-amygdalar]] — striatal D1/D2-MSN 회로 기능.
+- [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — NAc 도파민·MSN 중독 취약성 맥락.

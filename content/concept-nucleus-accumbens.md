@@ -57,3 +57,6 @@ updated: 2026-06-01
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc **D1-MSN(탈억제)/D2-MSN(직접억제)** 이 SI 콜린성 경유 BLA ACh 현저성을 양방향 통제 (Nat Neurosci 2026).
 - [[concept-ventral-pallidum]] · [[wang-2026-ventral-pallidal-gabaergic-neurons]] — NAc의 주 출력핵 VP^GABA가 hedonic 섭식·비만을 인과 통제 (bioRxiv 2026, Kravitz).
 - [[concept-basal-forebrain-cholinergic]] — NAc D1/D2가 양방향 통제하는 SI 콜린성 시스템 개념 hub.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc의 세포타입·공간 아틀라스.
+- [[concept-medium-spiny-neuron]] — NAc 주 출력 뉴런(D1/D2 MSN) hub.
+- [[concept-orexin-neurons]] — NAc↔LH orexin disinhibition 회로.

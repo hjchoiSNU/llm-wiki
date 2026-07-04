@@ -70,3 +70,5 @@ journal: Research Square (preprint)
 - [[concept-mc4r]] · [[concept-melanocortin-system]] — Ltu 비만 후보 유전자.
 - [[concept-activity-molecular-registration]] — 공간전사체(Visium/MERFISH) 방법 계열.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 동일 계열 인간 SRT 아틀라스(NAc).
+- [[concept-spatial-transcriptomics]] — 방법론 hub.

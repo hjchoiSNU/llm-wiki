@@ -32,3 +32,5 @@ Nature 621:381–388. 인간 해마의 **dorsolateral hippocampus(dlHPC)** 아�
 - [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 해마는 NAc로 투사하는 reward 입력원.
 - [[concept-melanocortin-system]] — MCH(LH orexigenic neuropeptide)와 melanocortin 계열 구분.
 - [[person-halpern-casey]] — 저자 hub.
+- [[dong-2026-reward-prediction-is-encoded-by]] — orexin 뉴런의 동기·effort 부호화.
+- [[concept-orexin-neurons]] — orexin 뉴런 hub.

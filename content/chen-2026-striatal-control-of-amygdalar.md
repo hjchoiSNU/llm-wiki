@@ -51,3 +51,5 @@ year: 2026
 - [[concept-need-motivation-pleasure-utility]] — salience/cue 처리 축.
 - [[concept-central-amygdala-glp1r]] — 인접 CeA(별개 nucleus) 회로와 구분.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 striatal/NAc MSN heterogeneity.
+- [[concept-medium-spiny-neuron]] — D1/D2 MSN 개념 hub.

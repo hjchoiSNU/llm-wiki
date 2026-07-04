@@ -119,3 +119,4 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 식이 즉시(감각) 단계에 시상하부 DA 분비 — pre-ingestive 단계 시상하부 관여의 인체 DA 증거 (Cell Metab 2019).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — anticipatory(섭취 전) NAc DA 상승이 미주 의존; 본 preingestive 단계와 호응 (Sci Adv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[duran-2026-the-central-amygdala-gates]] — 대비되는 hedonic 축(Glp1r^CeA HFD 전담).

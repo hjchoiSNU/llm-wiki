@@ -32,3 +32,4 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 중독 cue 통제력이 **결과 표상(outcome-specific)**을 담음 → habit(무표상 자동성) 이론 반박; VTADA→LH 회로 (Neuron 2026). cue-driven 과식의 voluntary-control 가능성·LH 표적 함의.
 - [[yuen-2022-deep-brain-stimulation-for]] — 중독 회로 신경조절(food addiction 인접).
 - [[concept-need-motivation-pleasure-utility]] — Pleasure/Utility 축 병적 과활성.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — SUD/음주 유전율이 특정 NAc MSN 도메인에 농축.

@@ -99,3 +99,5 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[kringelbach-2015-the-pleasure-of-food]] — pleasure cycle(appetitive wanting→consummatory liking→satiety) 원전.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 두 phase의 신경화학을 정리한 사용자 Ch 20.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[woods-1991-the-eating-paradox-how]] — cephalic 반응 = preingestive 대사 조율.
+- [[concept-cephalic-phase-response]] — cephalic 반응 hub.

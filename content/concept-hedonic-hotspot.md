@@ -53,3 +53,4 @@ aliases: [hedonic hotspot, 쾌락 핫스폿, hedonic coldspot, 쾌락 콜드스�
 - [[concept-ventral-pallidum]] — posterior VP 핫스폿의 상위 구조 개념 hub.
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — VP^GABA 뉴런이 hedonic 섭식·비만을 인과 통제(핫스폿 전통의 세포-회로 버전) (bioRxiv 2026, Kravitz).
 - [[proposal-pomc-endorphin-food-pleasure]] — POMC β-endorphin 기원 ‘좋아함’을 정박하는 연구계획서.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — OPRM1+ D1 island가 hedonic hotspot의 인간 해부학적 상관.

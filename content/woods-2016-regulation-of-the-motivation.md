@@ -64,3 +64,5 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[concept-dopamine-reward-system]] · [[concept-liking-wanting]] — non-homeostatic 보상 축.
 - [[tomiyama-2019-stress-and-obesity]] · [[concept-bed-nucleus-stria-terminalis]] — 스트레스성 섭식.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[woods-1991-the-eating-paradox-how]] — 동일 저자의 25년 전 원전(cephalic·예측반응).
+- [[concept-cephalic-phase-response]] — cephalic 반응 개념 hub.

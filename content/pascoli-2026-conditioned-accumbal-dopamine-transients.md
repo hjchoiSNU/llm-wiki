@@ -52,3 +52,4 @@ year: 2026
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전 종합.
 - [[berridge-2023-separating-desire-from-prediction-of]] — 갈망/가치 ≠ 예측·좋아함.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 약물반응 NAc MSN subtype 공간 매핑.
