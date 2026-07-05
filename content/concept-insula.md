@@ -40,3 +40,5 @@ updated: 2026-06-01
 - [[jin-2021-top-down-control-of-sweet]] — 미각피질(GCbt)→뇌간 top-down 쓴맛 조절.
 - [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 단일시냅스 흥분성 투사.
 - [[concept-taste-valence-coding]] — 미각 identity/valence 부호화 hub.
+- [[livneh-2020-estimation-of-current-and-future]] — 섬엽이 현재·미래 생리상태를 이중 부호화(insular gating 원전).
+- [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽의 혐오상태 처리·CeA/BNST 하향제어.

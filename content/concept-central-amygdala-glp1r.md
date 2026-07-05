@@ -71,6 +71,8 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[jin-2021-top-down-control-of-sweet]] — CeA→뇌간 rNST GABA 피드백으로 단맛/접근 억제.
 - [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 예측적 혐오 회피 학습.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBel→PKC-δ^CeA 포만/혐오 입력.
+- [[cai-2014-central-amygdala-pkc-delta-neurons]] — CeA **PKC-δ⁺ anorexigenic 극**의 원전(CCK·LiCl·LPS 다중 수렴); Glp1r과 비중복.
+- [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA **Htr2a⁺ 양성-가치 섭식촉진극**(PKC-δ 억제); hedonic 억제극의 반대.
 - [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
 - [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — IM→CeA 억제 출력 배선의 primate 해부 좌표계.

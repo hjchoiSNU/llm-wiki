@@ -8,6 +8,19 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-05 — ingest (추천 논문 5편: CeA·섬엽 층)
+
+food-safety-alarm 보강용 추천 논문 중 사용자가 받은 5편 ingest(병렬 subagent 추출→중앙 작성). 신규 페이지:
+- [[cai-2014-central-amygdala-pkc-delta-neurons]] — CeA PKC-δ⁺ 다중 anorexigenic 수렴 허브 (Nat Neurosci 2014, Anderson).
+- [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA Htr2a⁺ 양성-가치 섭식촉진(PKC-δ 억제) (Nat Neurosci 2017, Klein).
+- [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽 혐오상태→CeA/BNST 하향제어 (Nat Neurosci 2019, Gogolla).
+- [[livneh-2020-estimation-of-current-and-future]] — 섬엽 현재·미래 생리상태 이중 부호화 (Neuron 2020, Andermann).
+- [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP 병렬·중복 투사 배선 (Cell 2013, Sternson).
+
+교차연결: [[overview-cea-glp1r-food-safety-alarm]]에 CeA valence-밸브(Cai/Douglass)·피질 내수용 예측층(Gehrlach/Livneh) 통합(다층 7층으로 확장). 역링크: [[concept-central-amygdala-glp1r]]·[[concept-parabrachial-cgrp-alarm]]·[[concept-insula]]·[[concept-interoception]]·[[concept-arcuate-nucleus]]. index 355. 남은 raw 미처리 백로그 ~144건(별도 배치 예정).
+
+---
+
 ## 2026-07-05 — lint (건강검진)
 
 대량 ingest(신규 62) 후 자동 점검: **깨진 링크 0·고아 0·callout 누락 0·index 미등재 0·index→없는페이지 0·동일 title 중복 0**. 총 350 콘텐츠 페이지. 같은 PDF 4-페이지 공유는 편저서(behavioral neuroscience of motivation 2016) 정상 구조. 유일 약한연결 [[matsuda-2020-diet-and-feeding-behavior-of]](저관련)에 [[mueller-2025-privi-towards-general-purpose-video]]·[[ha-2024-hypothalamic-neuronal-activation-non-human]] 링크 추가로 고아 위험 해소. 수정사항 없음(그 외).

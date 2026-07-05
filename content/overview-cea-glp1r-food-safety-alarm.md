@@ -40,6 +40,7 @@ updated: 2026-07-05
 위 방어(접근 속 긴장 + 입안 즉시 거부 + 사후 혐오학습)를 담당할 유력 후보가 **[[concept-central-amygdala-glp1r|중심편도 GLP-1R(CeA^Glp1r) 뉴런]]**이다. 근거·정합성:
 
 - **CeA = 혐오·위협·CTA의 중추 허브**: 중심편도는 fear·threat·malaise·conditioned taste aversion을 처리하는 canonical aversion 노드다. "음식이 위험할 수 있다"는 방어 신호를 **valence(위험가) 출력**으로 바꾸기에 해부학적으로 적합하다(인접한 [[concept-basolateral-amygdala|BLA]]는 가치 학습, CeA는 방어 출력).
+- **CeA는 valence-길항 세포군의 집합**: CeA는 단일체가 아니라 **혐오/식욕억제 극([[cai-2014-central-amygdala-pkc-delta-neurons|PKC-δ⁺, Cai 2014]] — CCK·LiCl·LPS 다중 anorexigenic 신호 수렴)** 과 **접근/섭식촉진 극([[douglass-2017-central-amygdala-circuits-modulate-food|Htr2a⁺, Douglass 2017]] — PKC-δ를 억제해 양성-가치 섭식 촉진)** 이 국소 GABA로 경쟁하는 이질적 노드다. [[concept-central-amygdala-glp1r|CeA^Glp1r]]은 이 valence 밸브의 **혐오/억제 축**에 정렬되며([[duran-2026-the-central-amygdala-gates|Duran]]: PKCδ 필요·Glp1r=HFD 전담), 따라서 "food safety alarm"이 CeA에서 **세포군 수준으로 구현**됨을 뒷받침한다.
 - **GLP-1 = 내수용 malaise/포만/nausea 신호**: GLP-1은 "먹은 것이 부담·위협"이라는 [[concept-interoception|내수용]] 경보를 나른다. 그 수용체(Glp1r)를 발현하는 CeA 뉴런은 이 경보를 받아 **현재 섭취 중단 + 미래 회피 학습**으로 번역하는 위치에 있다.
 - **약리 증거와의 정합**: [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]은 CeA^Glp1r 조작이 **기호성 음식만 선택적으로 억제**함을 보이며, malaise/CTA 유발제인 **LiCl을 nausea 기준**으로 삼는다. [[duran-2026-the-central-amygdala-gates|Duran 2026]]은 CeA^Glp1r이 **hedonic(HFD) 섭취 억제 전담**임을 보인다 — "이 음식은 위험하니 그만/피하라"는 경보의 표적 특이성과 부합.
 
@@ -55,9 +56,10 @@ updated: 2026-07-05
 3. **뇌간 — 일반 경보 중계(general alarm)**: [[concept-parabrachial-cgrp-alarm|PBN CGRP 뉴런]]이 통증·malaise·포만·신기음식 등 **모든 위협을 소스 구분 없이** CeA/BNST로 중계하고 혐오기억(CTA)·공포기억에 필요·충분([[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function|Palmiter 2018]]·[[campos-2018-encoding-of-danger-by-parabrachial|Campos 2018]]), 생리적 식사 종료도 담당([[campos-2016-parabrachial-cgrp-neurons-control-meal|Campos 2016]]).
 4. **섭취 후 — 순환 독소 감지(post-ingestive/circulating)**: [[concept-area-postrema|최후야(AP)]]가 혈뇌장벽 밖에서 순환 독소(LiCl·GDF15·GLP-1)를 GLP1R/GFRAL 뉴런으로 감지해 혐오로 funneling([[zhang-2021-area-postrema-cell-types-that|Zhang 2021]]); GIP-GIPR 억제뉴런이 이 오심을 끄는 **off-switch**([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]]).
 5. **장·면역 — 화학·항원 감지(gut/immune)**: 장내분비세포 아형이 선호(CCK/미주)와 혐오(5-HT·substance P/척수)를 분리 인코딩([[bai-2022-enteroendocrine-cell-types-that-drive|Bai 2022]]); 적응면역(IgE·비만세포)이 특정 항원을 위험으로 학습해 회피를 명령([[florsheim-2023-immune-sensing-of-food-allergens|Florsheim 2023]]).
-6. **학습 축 — 조건화 미각 혐오(CTA)**: 위 층들이 만든 malaise를 특정 맛과 영구 연합해 미래 섭취를 줄임([[concept-conditioned-taste-aversion]]).
+6. **피질 내수용 예측층 — 섬엽(insula)**: 후측 섬엽이 통증·쓴맛·구역·목마름 등 **내수용 혐오신호를 다중감각적으로 통합**해 CeA·BNST로 하향 제어([[gehrlach-2019-aversive-state-processing-in-the|Gehrlach 2019]]), 동시에 현재·미래 생리상태를 예측 부호화해 "섭취의 예상 결과"를 미리 시뮬레이션([[livneh-2020-estimation-of-current-and-future|Livneh 2020]]). 앞 층들의 원신호를 **"먹을지/피할지" 상위 결정**으로 종합하는 피질 관문.
+7. **학습 축 — 조건화 미각 혐오(CTA)**: 위 층들이 만든 malaise를 특정 맛과 영구 연합해 미래 섭취를 줄임([[concept-conditioned-taste-aversion]]).
 
-**수렴점**: 이 여섯 층의 출력이 **확장편도(CeA + PBN + BNST)**로 수렴한다. 후각(plCoA→MeA)·미각(쓴맛피질→CeA)·뇌간(PBN→CeA/BNST)·순환독소(AP→PBN)·면역(→NTS·PBN·CeA)이 모두 CeA를 지나거나 그 상류로 모인다. 따라서 **CeA^Glp1r은 이 다층 경보가 만나는 병목(node)**이며, GLP-1(내수용 malaise 신호)을 받는 그 위치 때문에 "food safety alarm의 노드"로 지목된다 — 그리고 바로 이 병목이라서 GLP-1RA 약물이 여기를 누르면 여러 층의 혐오 출력을 한꺼번에 켜게 된다(→ §2 약리 hijack).
+**수렴점**: 이 일곱 층의 출력이 **확장편도(CeA + PBN + BNST)**로 수렴한다. 후각(plCoA→MeA)·미각(쓴맛피질→CeA)·뇌간(PBN→CeA/BNST)·순환독소(AP→PBN)·면역(→NTS·PBN·CeA)·피질 내수용(pIC→CeA/BNST)이 모두 CeA를 지나거나 그 상류로 모인다. 따라서 **CeA^Glp1r은 이 다층 경보가 만나는 병목(node)**이며, GLP-1(내수용 malaise 신호)을 받는 그 위치 때문에 "food safety alarm의 노드"로 지목된다 — 그리고 바로 이 병목이라서 GLP-1RA 약물이 여기를 누르면 여러 층의 혐오 출력을 한꺼번에 켜게 된다(→ §2 약리 hijack).
 
 ## 1. 생리적 역할 — Food safety alarm
 
@@ -125,3 +127,7 @@ updated: 2026-07-05
 - [[concept-basolateral-amygdala]] — 인접·별개 nucleus(가치 학습 vs CeA valence 방어).
 - [[concept-interoception]] — GLP-1의 malaise/nausea 내수용 경보가 CeA로 전달되는 축.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드도 CeA Fos 동원(DVC→CeA).
+- [[cai-2014-central-amygdala-pkc-delta-neurons]] — CeA PKC-δ⁺ anorexigenic 수렴 허브(경보의 CeA 세포 원전).
+- [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA Htr2a⁺ 양성-가치 섭식촉진극(valence 밸브의 반대극).
+- [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽 혐오상태→CeA/BNST 하향 경보(피질층).
+- [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 예측적 내수용 상태추정(섭취 결과 시뮬레이션).

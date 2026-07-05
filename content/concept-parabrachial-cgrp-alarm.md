@@ -31,3 +31,6 @@ aliases: [CGRP neurons, parabrachial CGRP, PBN CGRP, general alarm, Calca PBN]
 - [[concept-dorsal-vagal-complex]] — 상류 NTS(CCK·DBH) 미주 포만/malaise 입력.
 - [[concept-area-postrema]] — AP aversion 뉴런이 CGRP^PBN 근처로 투사.
 - [[concept-interoception]] — 내수용 위협 지각의 뇌간 relay.
+- [[cai-2014-central-amygdala-pkc-delta-neurons]] — LPB CGRP→PKC-δ^CeA 입력이 다중 anorexigenic 신호를 수렴(하류 CeA).
+- [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA^Htr2a가 **PBN-투사 PKC-δ 뉴런을 억제**해 경보를 완화(섭식촉진).
+- [[betley-2013-parallel-redundant-circuit-organization-for]] — 소수 AgRP→PBN 투사 = 배고픔↔경보 회로의 접점.
