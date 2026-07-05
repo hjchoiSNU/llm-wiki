@@ -117,3 +117,5 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[zhang-2021-area-postrema-cell-types-that]] — 순환 독소·호르몬 감지 관문(AP).
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 장 화학감지→뇌 valence 내수용 경로.
 - [[florsheim-2023-immune-sensing-of-food-allergens]] — 면역→뇌(류코트리엔·GDF15) 내수용 위험 감지.
+- [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 현재·미래 생리상태 예측 부호화(anticipatory interoception 세포 증거).
+- [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽 혐오상태→CeA/BNST 하향제어.

@@ -102,4 +102,5 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — acyl-GIP ARC cFos.
 - [[liu-2025-gipr-ab-glp-1-peptide]] — 궁상핵 GIPR·식욕조절.
 - [[cao-2024-hunting-for-heroes-brain]] — DMH→ARC AgRP 하류.
+- [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC AgRP의 병렬·중복 투사(aBNST·PVH·LHA 각각 섭식-충분) 배선 원리 (Cell 2013, Sternson lab).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

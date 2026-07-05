@@ -6,7 +6,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 350 (+ index.md, log.md)
+- 총 페이지: 355 (+ index.md, log.md)
 - 마지막 갱신: 2026-07-05
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -129,6 +129,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[walker-2026-a-hypothalamic-circuit-for]] — 전측 PVH **Sim2⁺ 흥분성 뉴런 → ARC^AgRP** 회로가 위장관·호르몬 feedback이 아닌 **미래 에너지 상태 예측 cue**(먹이 부재·탐색 실패, 피질 ACC·복측 해마 입력)로 단식 초기 AgRP 빠른 활성·장기 섭취 유지; AgRP=Need 예측의 상류 회로 (Neuron 2026, Lowell lab).
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — **vDMH^LepR/pDYN GABAergic → ARC^AgRP** 선택적 억제 입력(AgRP 100% vs POMC 9%)이 음식 cue 시 빠르게 활성·**음식 가치(초콜릿>chow) 부호화**해 AgRP를 끔(preconsummatory suppression의 시냅스 출처); Walker 2026 흥분성 입력의 거울상 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — **PVH TRH/PACAP → ARC^AgRP** 흥분성 회로가 섭식 구동("PVH=satiety" 통설 반전); AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로; Walker 2026 PVH^Sim2의 모태 (Nature 2014, Lowell lab).
+- [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP가 aBNST·PVH·LHA·PVT로 **축 담보 거의 없이 부분군별 독립 투사**, 각 투사(aBNST·PVH·LHA)가 섭식-충분(one-to-all 기각); 병렬·중복 배선 = 생존행동의 redundancy (Cell 2013, Sternson lab).
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 **BNST→NAc·OFC·dmINS** effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측; 인간 7T fMRI+DCM gustometer (Nat Commun 2026, Steward·Brown lab).
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
@@ -151,6 +152,8 @@ _(섭식·동기 행동은 🍽️로)_
 - **뇌간(일반경보)** — [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]]: PBN CGRP=소스 구분 없는 general alarm (TiNS 2018, Palmiter). · [[campos-2018-encoding-of-danger-by-parabrachial]]: CGRP^PBN 단일세포가 통증·malaise·food neophobia·공포 부호화 (Nature 2018). · [[campos-2016-parabrachial-cgrp-neurons-control-meal]]: CGRP^PBN 생리적 meal termination·PBN→PKC-δ^CeA (Cell Metab 2016).
 - **섭취 후(순환독소)** — [[zhang-2021-area-postrema-cell-types-that]]: 최후야 GLP1R/GFRAL 뉴런이 독소 오심을 funneling (Neuron 2021). · [[zhang-2022-brainstem-circuit-for-nausea]]: GIP-GIPR 억제뉴런이 오심을 끄는 off-switch (Cell Rep 2022).
 - **장·면역** — [[bai-2022-enteroendocrine-cell-types-that-drive]]: EEC 아형이 선호(CCK/미주)·혐오(5-HT/척수) 분리 인코딩 (eLife 2022, Knight). · [[florsheim-2023-immune-sensing-of-food-allergens]]: IgE·비만세포·GDF15·류코트리엔이 알레르겐 회피 명령 (Nature 2023).
+- **피질(섬엽) 예측층** — [[gehrlach-2019-aversive-state-processing-in-the]]: 후측 섬엽이 내수용 혐오신호를 다중감각 통합→CeA/BNST 하향제어 (Nat Neurosci 2019, Gogolla). · [[livneh-2020-estimation-of-current-and-future]]: 섬엽이 현재·미래 생리상태를 이중 부호화("섭취 결과" 예측) (Neuron 2020, Andermann).
+- **수렴 노드(CeA valence 밸브)** — [[cai-2014-central-amygdala-pkc-delta-neurons]]: CeA PKC-δ⁺가 CCK·LiCl·LPS 다중 anorexigenic 신호 수렴·섭식억제 (Nat Neurosci 2014, Anderson). · [[douglass-2017-central-amygdala-circuits-modulate-food]]: CeA Htr2a⁺가 PKC-δ 억제로 양성-가치 섭식촉진(반대극) (Nat Neurosci 2017, Klein).
 
 ### 호르몬
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — Ghrelin 식전 surge 인간 입증 (Diabetes 2001).
