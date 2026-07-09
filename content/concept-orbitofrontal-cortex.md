@@ -41,3 +41,4 @@ updated: 2026-06-01
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — BNST→OFC 하향조절 강도가 주관적 스트레스를 예측(인간 7T DCM, Nat Commun 2026); BNST가 OFC에 valence 정보 relay.
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — vmPFC가 goal-value·chosen-value·RPE 부호화; goal-directed/habitual/Pavlovian arbitration (book chapter 2016).
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — OFC 축삭이 편도 BL 경계·IM에 종말해 CeA 자율출력 게이팅.
+- [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화, mOFC→BLA=가치 인출** 이중해리(Nat Neurosci 2019, Wassum lab).

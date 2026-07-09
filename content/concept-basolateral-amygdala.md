@@ -136,3 +136,5 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[concept-cortical-amygdala]] — 구분되는 후각 전용 편도(plCoA).
 - [[concept-taste-valence-coding]] — 미각 valence의 편도 분업 hub.
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — BL/BLmc가 OFC·전측두 입력의 주 표적(rhesus 배선도).
+- [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — BLA 글루타메이트가 상태의존 reward value 부호화·인출을 매개; OFC→BLA 이중해리(Nat Neurosci 2019, Wassum lab).
+- [[person-wassum-kate]] — BLA reward valuation 연구 프로그램 hub.

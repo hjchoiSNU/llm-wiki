@@ -22,12 +22,25 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 - 신경발생(치상회)·신경돌기 성장 촉진.
 
 ## 임상 근거(축적 중)
+
+### RCT
 | 약물 | 질환 | 핵심 신호 | 출처(본 위키) |
 |---|---|---|---|
 | liraglutide | 알츠하이머(비당뇨) | 1차 FDG-PET 음성; 2차 인지(ADAS-Exec)·탐색 뇌위축 유리 | [[edison-2026-liraglutide-in-mild-to-moderate]] (ELAD, Nat Med 2026) |
-| dulaglutide | T2DM | REWIND 인지저하 지연(n=9,901) | 상동 논문 인용 |
-| liraglutide·semaglutide | T2DM | pooled 치매 발생 감소 | 상동 |
-| exenatide·lixisenatide | 파킨슨 | 운동·비운동 증상 개선, 중단 후 12개월 유지 보고 | 상동 |
+| dulaglutide | T2DM | REWIND 인지저하 지연(n=9,901) | ELAD 인용 |
+| liraglutide·semaglutide | T2DM | pooled 치매 발생 감소 | ELAD 인용 |
+| exenatide·lixisenatide | 파킨슨 | 운동·비운동 증상 개선, 중단 후 12개월 유지 | ELAD 인용 |
+| semaglutide | 초기 AD | EVOKE/EVOKE+ phase 3 진행 중 | (미이관) |
+
+### 실사용 역학(real-world / EHR 코호트)
+| 비교 | 결과 | HR | 출처 |
+|---|---|---|---|
+| 차세대 GLP-1RA(sema/tirze) vs 기타 항당뇨제 | **치매 ↓**·뇌졸중 ↓·사망 ↓ (PD·뇌출혈 무차) | 0.63 / 0.81 / 0.70 | [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] (JAMA Netw Open 2025, n=60,860) |
+| GLP-1RA vs DPP-4i | **AD ↓** (liraglutide·semaglutide 유효) | ≤0.69 | [[zhang-2025-real-world-observations-of-glp1]] (Alz Dement 2025) |
+| **SGLT-2i** vs DPP-4i | **AD ↓** (dapa/cana/empagliflozin) | ≤0.67 | 상동 |
+
+> **주의**: 관찰연구는 잔여 교란·healthy-user bias·처방≠복약·biomarker 부재로 **인과 아님**. 파킨슨병은 역학에서 일관되게 무효과(초기 GLP-1RA의 PD RCT 신호와 대조).
+> **SGLT-2i 확장**: [[zhang-2025-real-world-observations-of-glp1]]는 신경보호가 GLP-1 특이적이 아니라 **대사-신경 축(BBB 투과·autophagy·인슐린저항) 공통** 가능성을 시사.
 
 ## 기전 가설(수렴점)
 1. **뇌 인슐린저항 교정** — AD·PD 공통 병리; GLP-1R→cAMP-PKA·PI3K/Akt 신호가 이를 상류에서 개선.
@@ -45,7 +58,9 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 - 함의: 사용자의 GLP-1 뇌 작용 연구가 **섭식 회로 → 인지·신경보호**로 외연 확장 가능. 단 근거 성숙도 명확히 구분.
 
 ## 관련 페이지
-- [[edison-2026-liraglutide-in-mild-to-moderate]] — 정박 논문(ELAD phase 2b).
+- [[edison-2026-liraglutide-in-mild-to-moderate]] — 정박 논문(ELAD phase 2b RCT).
+- [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — sema/tirze 치매·뇌졸중·사망 ↓ 대규모 코호트(JAMA NO 2025).
+- [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·SGLT-2i AD ↓ vs DPP-4i(Alz Dement 2025).
 - [[person-edison-paul]] — 이 연구 라인 총괄.
 - [[concept-glp-1]] — 상위 호르몬·약리 hub.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(CNS engagement 근거).
