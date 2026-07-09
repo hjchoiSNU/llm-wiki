@@ -99,8 +99,9 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 
 ### 7) 신경보호 (대사·섭식 밖)
 - 전임상 AD 모델에서 β-amyloid·tau·신경염증·뇌 인슐린저항·시냅스 손실을 다면적으로 개선.
-- 임상: dulaglutide 인지저하 지연(REWIND), liraglutide+semaglutide 치매 발생 감소, exenatide 파킨슨 개선.
-- [[edison-2026-liraglutide-in-mild-to-moderate|ELAD phase 2b]]: 알츠하이머 1차 대사 종점 음성, 2차 인지·탐색 뇌위축 유리.
+- 관찰연구: dulaglutide 인지저하 지연(REWIND), liraglutide+semaglutide 치매 발생 감소, exenatide 파킨슨 개선.
+- **그러나 결정적 3상은 음성**: [[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]](경구 sema, 초기 AD, n=3,808) 임상 종점 완전 음성·조기 중단; [[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]도 1차 음성. → 증상성 AD 임상 이득 미확립.
+- 기전: 뇌 GLP-1R은 성상교세포에 우세하며 [[concept-astrocyte-neuron-lactate-shuttle|젖산 셔틀]]·H3K9la를 통해 작동([[du-2026-oral-glp1-receptor-agonist-promotes|OHP2, Cell Metab 2026]]); sema 실패는 **뇌 도달 부족**일 수 있음.
 - 상세: [[concept-glp1-neuroprotection]].
 
 ## T2DM에서
@@ -217,6 +218,9 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 뉴런(DMH/후뇌/LS) 비판적 종합.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide는 food liking 불변(효과는 wanting 축) 인간 RCT.
 - [[concept-glp1-neuroprotection]] — GLP-1RA 신경퇴행 repurposing hub(대사 밖 뇌 작용).
+- [[cummings-2026-efficacy-and-safety-of-oral]] — 경구 sema 초기 AD 3상 음성(EVOKE/EVOKE+, Lancet 2026).
+- [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 GLP-1RA(OHP2)의 성상교세포 젖산·H3K9la 기전(Cell Metab 2026).
+- [[concept-astrocyte-neuron-lactate-shuttle]] — 뇌 GLP-1R 작용의 성상교세포 대사 축.
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, Nat Med 2026).
 - [[person-edison-paul]] — GLP-1 신경보호 임상 총괄.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

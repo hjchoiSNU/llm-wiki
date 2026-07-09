@@ -8,6 +8,17 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-10 — ingest (신규 2편: GLP-1 신경보호 — pivotal RCT 음성 + 뇌투과 기전)
+
+raw/ 신규 2편(2026-07-10 추가) ingest. **GLP-1 신경보호 서사의 전환점**: 관찰연구 양성 신호가 대규모 3상에서 음성으로 반증되고, 동시에 뇌투과 기전 논문이 "왜 실패했나"에 답.
+- [[cummings-2026-efficacy-and-safety-of-oral]] — **EVOKE/EVOKE+** 경구 세마글루타이드 초기 증상성 AD 3상(n=3,808): **1차 CDR-SB·모든 2차 종점 음성 → 두 시험 조기 중단**; 단 CSF p-tau·총tau·neurogranin·YKL-40 5–10%↓·hsCRP↓·체중 −5.8%, 혈장 GFAP↑ = **바이오마커-임상 해리** (Lancet 2026, Novo Nordisk).
+- [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 경구 GLP-1RA **OHP2**: 뇌 GLP-1R(성상교세포 우세)→호기성 해당→**젖산**→뉴런 **H3K9 젖산화**→뉴런→성상교세포 지질 역수송으로 AD 마우스 치료(효과 sema>OHP2, 뇌내 GLP-1R·성상교세포 LDHA 의존) (Cell Metabolism 2026, 中國藥科大 Du/Chen/Gao).
+
+**신규 개념 1**: [[concept-astrocyte-neuron-lactate-shuttle]](ANLS·젖산화 hub).
+**갱신**: [[concept-glp1-neuroprotection]](EVOKE 반영—RCT 표에 sema 음성 추가·"RCT 음성↔관찰 양성" 긴장·뇌도달/해리 해석·성상교세포 기전축), [[concept-glp-1]]·[[edison-2026-liraglutide-in-mild-to-moderate]](EVOKE·OHP2 역링크), [[index.md|wiki/index.md]], 본 log.
+
+---
+
 ## 2026-07-10 — ingest (백로그 미처리 3편: GLP-1 신경보호 역학 2 + OFC→BLA 가치)
 
 raw/ 전수 대조(위키 `source:` frontmatter ↔ raw 파일명)로 **진짜 미처리 신규 3편** 확정(나머지 unmatched 31건은 중복 다운로드 ` 1`/`(1)`·supplement·docx 초안 = 기존 페이지 존재). ingest:
