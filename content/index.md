@@ -171,7 +171,7 @@ _(섭식·동기 행동은 🍽️로)_
 - **GIPR agonism vs antagonism 역설** — [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1, phase1) · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]](MariTide **월1회** phase2 −16.2%, NEJM).
 - **임상 시험** — [[aronne-2023-continued-treatment-with-tirzepatide-for]](tirzepatide SURMOUNT-4 유지/중단 rebound, JAMA) · [[coppin-2022-does-glp-1-receptor-agonist]](liraglutide는 food **liking 불변**=wanting 축, RCT preprint) · [[koide-2025-association-between-eating-behavior]](**external eating**이 GLP-1RA 반응 예측).
 - **리뷰·약리** — [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]](GIP/GLP-1 췌장외 대조, NRE) · [[scheen-2023-dual-gip-glp-1-receptor]](tirzepatide twincretin) · [[muller-2022-gut-hormone-triple-agonists-clinical]](삼중작용 retatrutide) · [[alfaris-2024-glp-1-single-dual-and]](단일/이중/삼중 landscape) · [[jastreboff-2023-new-frontiers-obesity-treatment]](NuSH 종합) · [[tschop-2023-gut-hormone-based-pharmacology-novel]](제형·경구화) · [[wan-2023-glp-1r-signaling-and-functional]](GLP-1R 신호·biased agonism) · [[gupta-2021-glucagon-like-peptide-1-and]](인간 뇌 GLP-1R 분포) · [[cao-2024-hunting-for-heroes-brain]](GLP-1RA 매개 뇌뉴런 DMH/후뇌/LS 비판적 종합).
-- **신경보호·repurposing (대사 밖)** — 개념 hub [[concept-glp1-neuroprotection]] · 인물 [[person-edison-paul]]. [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, n=204): 1차 뇌 포도당대사 음성, 2차 인지(ADAS-Exec +0.15, P=0.01)·탐색 뇌위축 둔화 유리 (Nat Med 2026, Imperial).
+- **신경보호·repurposing (대사 밖)** — 개념 hub [[concept-glp1-neuroprotection]] · 인물 [[person-edison-paul]]. [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, n=204): 1차 뇌 포도당대사 음성, 2차 인지(ADAS-Exec +0.15, P=0.01)·탐색 뇌위축 둔화 유리 (Nat Med 2026, Imperial). · [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — sema/tirze 치매 HR 0.63·뇌졸중 0.81·사망 0.70↓ 대규모 코호트(JAMA NO 2025). · [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·**SGLT-2i** 모두 AD↓ vs DPP-4i(Alz Dement 2025).
 - [[le-roux-2026-survodutide-once-weekly-for]] — survodutide(글루카곤-R/GLP-1R dual) phase 3 SYNCHRONIZE-1: 당뇨 없는 비만 76주 −13.0% vs −5.4% (NEJM 2026).
 - [[kaplan-2026-survodutide-in-adults-with]] — survodutide phase 3 SYNCHRONIZE-MASLD: 비만+at-risk MASLD 48주 간지방 ≥30%↓ 84.2%·체중 −12.2%, 체중-독립적 간효과 (Nat Med 2026).
 - [[davies-2026-elecoglipron-an-oral-small]] — elecoglipron(AZD5004) 경구 1일1회 소분자 GLP-1RA phase 2 VISTA: 26주 최대 −10.5%, 음식 제한 없음 (Lancet 2026, AstraZeneca).
@@ -398,6 +398,7 @@ _(아직 페이지 없음)_
 - [[person-kravitz-alexxai]] — 기저핵 D1/D2 경로·복측 창백핵(VP)·섭식·비만 회로신경과학. Washington University in St. Louis.
 - [[person-zuker-charles]] — 미각 coding("labeled-line") + gut-brain 당·지방 선호(wanting≠liking). Columbia / HHMI.
 - [[person-edison-paul]] — GLP-1 유사체 신경퇴행 repurposing 임상(ELAD liraglutide-AD) 총괄; FDG-PET·MRI 영상 바이오마커. Imperial College London.
+- [[person-wassum-kate]] — BLA 글루타메이트 생체센서·OFC→BLA 투사로 상태의존 reward value 부호화/인출 분해; liking≠wanting 회로. UCLA.
 
 ## 🌐 종합/리뷰 (Overviews)
 
@@ -482,6 +483,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[soutschek-2021-opioid-antagonism-modulates-wanting]] — naltrexone이 ‘갈망’ 선택 감소·DLPFC–선조체 결합 (eLife 2021).
 - [[korb-2020-dopaminergic-and-opioidergic-regulation]] — 소비 ‘좋아함’=오피오이드 특이적·동기=도파민+오피오이드 (eLife 2020).
 - [[concept-ventral-pallidum]] · [[wang-2026-ventral-pallidal-gabaergic-neurons]] — posterior VP=‘좋아함’ 필수 핫스폿; VP^GABA가 hedonic 섭식·HFD 비만을 인과 통제(항상성 보존) (bioRxiv 2026, Kravitz).
+- [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화 / mOFC→BLA=가치 인출** 이중해리; 가치(갈망) 조작에도 palatability(좋아함) 불변 → 회로 수준 liking≠wanting (Nat Neurosci 2019, Wassum lab). 인물 [[person-wassum-kate]].
 
 ### 진영 — Heterogeneity / cell types
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA cellular heterogeneity 종합 (NRN 2017).

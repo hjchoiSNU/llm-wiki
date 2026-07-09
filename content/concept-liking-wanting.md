@@ -69,3 +69,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — hedonic(VS)/energy(DS) 회로 분리.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — cue approach(wanting)↑ vs consummatory 불변 해리.
 - [[murray-2014-hormonal-and-neural-mechanisms]] — opioid(liking)/dopamine(wanting) 이중 축.
+- [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — OFC→BLA로 reward **value(갈망)**를 조작해도 **palatability(좋아함)** 불변; 회로 수준 liking≠wanting (Nat Neurosci 2019).
