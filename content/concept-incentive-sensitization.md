@@ -62,3 +62,4 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — cue에 부여된 과도한 가치(cue NAc 도파민)가 선호·compulsion을 예측함을 dLight로 직접 측정 (Nat Neurosci 2026).
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 음식 CS incentive salience를 선택 sensitize.
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — 당 섭취의 cocaine/amphetamine 교차민감화.
+
