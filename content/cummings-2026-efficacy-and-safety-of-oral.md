@@ -55,6 +55,7 @@ doi: 10.1016/S0140-6736(26)00459-9
 
 ## 관련 페이지
 - [[concept-glp1-neuroprotection]] — 이 결과가 재편하는 상위 hub(RCT 음성 vs 관찰 양성 축).
+- [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — 이 3상을 근거지도에 배치한 종합 리뷰(Cummings 공저, Nature Aging 2026).
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — 자매 격 phase 2b(liraglutide ELAD): 1차 음성·2차 탐색 신호. EVOKE는 더 큰 검정력으로 그 2차 신호마저 재현 실패(본 논문 ref #21).
 - [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — 관찰연구에서 세마/tirze 치매 ↓(HR 0.63) — 본 RCT와 정면 대비.
 - [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·SGLT-2i AD ↓ 관찰연구 — 역시 RCT 음성과 대비.

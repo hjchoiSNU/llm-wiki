@@ -8,6 +8,16 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-10 — ingest (신규 1편: GLP-1 신경보호 종합 리뷰) + 위생수정
+
+raw/ 전수 재대조(위키 `source:` ↔ raw 파일명). unmatched 22건 중 21건은 중복(` 1`/`(1)`/`(2)`)·supplement·이미 다른 slug로 ingest된 파일(Edison/EVOKE/godschall/walker/gao/jia/mcknight 등)·frontmatter 오타로 확인 → **진짜 신규 1편**만 ingest:
+- [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — **GLP-1RA 신경퇴행 repurposing 종합 리뷰**(Sabbagh·Cummings·Ballard·van der Flier·Heneka·Holst·Knudsen·Salloway·Tansey·**Drucker**). AD 중심(+PD·ALS): 역학 치매 28%↓(RR 0.72) vs **RCT(ELAD·EVOKE) 인지 음성**; PD lixisenatide(+)/exenatide phase3(−); ALS 악화. 실패 원인=뇌 침투·병기·용량-반응; **CNS-penetrant 차세대** 필요. Novo Nordisk 이해상충 명시 (Nature Aging 2026).
+
+**갱신**: [[concept-glp1-neuroprotection]](서술형 종합본 링크·PD/ALS 확장 섹션), [[cummings-2026-efficacy-and-safety-of-oral]]·[[edison-2026-liraglutide-in-mild-to-moderate]]·[[du-2026-oral-glp1-receptor-agonist-promotes]](Sabbagh 역링크), [[index.md|wiki/index.md]], 본 log.
+**위생**: [[zhang-2022-brainstem-circuit-for-nausea]] frontmatter `source:` 확장자 오타(`.pdf.pdf`→`.pdf`) 수정 — ingest 대조 정확도 개선.
+
+---
+
 ## 2026-07-10 — ingest (신규 2편: GLP-1 신경보호 — pivotal RCT 음성 + 뇌투과 기전)
 
 raw/ 신규 2편(2026-07-10 추가) ingest. **GLP-1 신경보호 서사의 전환점**: 관찰연구 양성 신호가 대규모 3상에서 음성으로 반증되고, 동시에 뇌투과 기전 논문이 "왜 실패했나"에 답.
