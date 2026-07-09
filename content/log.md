@@ -8,6 +8,21 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-09 — ingest (ELAD: liraglutide 알츠하이머 phase 2b)
+
+오늘 `raw/`에 추가된 신규 1편([[edison-2026-liraglutide-in-mild-to-moderate]], Nat Med 2026, ELAD/NCT01843075) ingest. GLP-1RA의 **대사·섭식 밖 신경보호 repurposing**이라는 위키 신규 축.
+
+**신규 페이지 3**:
+- 논문 [[edison-2026-liraglutide-in-mild-to-moderate]] — 비당뇨 경도–중등도 AD 204명, liraglutide 1.8mg 52주. **1차 뇌 포도당대사([18F]FDG-PET) 음성**(−0.17, P=0.14), **2차 인지 ADAS-Exec 양성**(+0.15, P=0.01)·탐색 뇌위축 둔화. 안전·내약 양호(중대 AE는 위약군에 더 많음). 1차 음성의 함정=**PET 3일 전 투약 중단**·attrition·다중비교 미보정.
+- 개념 [[concept-glp1-neuroprotection]] — GLP-1RA 신경퇴행(AD·PD) repurposing hub(전임상 기전·임상 근거표·방법론 함정).
+- 인물 [[person-edison-paul]] — ELAD 총괄 PI, Imperial. 공저 Holscher(전임상)·Ballard.
+
+**갱신 페이지 3**: [[concept-glp-1]](신경보호 §7 신설 + 관련링크), [[index.md|wiki/index.md]](임상·DTx GLP-1 신경보호 bullet·개념·인물 등록), 본 log.
+
+**백로그 주의**: 2026-07-05 기준 미처리 raw ≈144건은 별개 배치로 대기 중(본 ingest와 무관, 오늘 신규분만 처리). 총 콘텐츠 페이지 ~358→361.
+
+---
+
 ## 2026-07-05 — ingest (추천 논문 5편: CeA·섬엽 층)
 
 food-safety-alarm 보강용 추천 논문 중 사용자가 받은 5편 ingest(병렬 subagent 추출→중앙 작성). 신규 페이지:
