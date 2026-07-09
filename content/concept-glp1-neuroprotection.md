@@ -64,7 +64,13 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 - [[bae-2019-glucagon-like-peptide-1-receptor]]: GLP-1RA 인체 뇌 fMRI 효과 측정 선례(방법론 전이 가능).
 - 함의: 사용자의 GLP-1 뇌 작용 연구가 **섭식 회로 → 인지·신경보호**로 외연 확장 가능. 단 근거 성숙도 명확히 구분.
 
+## PD·ALS로의 확장 (Sabbagh 리뷰)
+- **PD**: 전임상 다수 양성. **lixisenatide**(NEJM 2024, 156인) MDS-UPDRS 개선(+); 그러나 **최대·최장 phase 3 exenatide 주1회(194인·96주) 음성**. → AD와 동일한 "관찰/소규모 양성 vs 대규모 RCT 음성" 패턴.
+- **ALS**: 전임상 무효, 임상은 **가속·악화 신호** → 치료로 부적합.
+- 상세·근거지도: [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] (Nature Aging 2026, Drucker·Holst·Cummings 등).
+
 ## 관련 페이지
+- [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — **이 hub의 서술형 종합본**(AD·PD·ALS 근거·기전 총정리, Nature Aging 2026).
 - [[cummings-2026-efficacy-and-safety-of-oral]] — **pivotal 3상 EVOKE/EVOKE+**: 경구 sema 초기 AD 임상 음성·조기 중단(Lancet 2026). 이 hub의 결론을 재편.
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — 정박 논문(ELAD phase 2b RCT); 1차 음성·2차 탐색 신호(EVOKE에서 미재현).
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 GLP-1RA(OHP2)의 성상교세포-뉴런 젖산·H3K9la 기전; "왜 sema RCT가 실패했나(뇌 도달)"의 기전적 대안(Cell Metab 2026).

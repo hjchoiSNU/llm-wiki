@@ -53,6 +53,7 @@ doi: 10.1016/j.cmet.2026.05.014
 ## 관련 페이지
 - [[concept-glp1-neuroprotection]] — 상위 hub. 본 논문은 "왜 sema RCT가 실패했나(뇌 도달)"에 대한 기전적 답·차세대 설계.
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 말초 위주 sema의 초기 AD 3상 음성 — 본 논문의 문제의식(BBB 투과)의 임상적 배경.
+- [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — "CNS-penetrant 차세대 GLP-1"을 대안으로 지목한 종합 리뷰(Nature Aging 2026); OHP2가 그 구체 사례.
 - [[concept-astrocyte-neuron-lactate-shuttle]] — 본 기전의 토대(성상교세포→뉴런 젖산 셔틀).
 - [[concept-glp-1]] — 상위 호르몬·약리 hub. 뇌 GLP-1R 세포 표적(성상교세포) 논점.
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 시상하부(DMH) GLP-1R 뉴런 연구와 대비: 본 논문은 뇌 GLP-1R이 뉴런보다 성상교세포에 우세하다는 세포종류 관점을 더함.
