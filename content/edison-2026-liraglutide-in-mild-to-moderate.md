@@ -62,6 +62,8 @@ trial: ELAD (NCT01843075)
 
 ## 관련 페이지
 - [[concept-glp1-neuroprotection]] — 본 논문이 정박하는 개념 hub(GLP-1RA repurposing·신경퇴행).
+- [[cummings-2026-efficacy-and-safety-of-oral]] — 자매 격 대규모 3상(경구 sema, EVOKE/EVOKE+): 더 큰 검정력으로 초기 AD 임상 음성·조기 중단. ELAD 2차 신호를 재현하지 못함(Lancet 2026).
+- [[du-2026-oral-glp1-receptor-agonist-promotes]] — liraglutide의 성상교세포 젖산 수송 항-AD 기전(Zheng 2021)을 확장한 뇌투과 GLP-1RA 기전 논문(Cell Metab 2026).
 - [[concept-glp-1]] — 호르몬·수용체·약리 hub. 여기서는 대사·섭식 밖 뇌 작용 축.
 - [[person-edison-paul]] — 교신저자, ELAD 총괄 PI(Imperial).
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(피질·시상하부·연수) → CNS target engagement의 해부학적 근거.
