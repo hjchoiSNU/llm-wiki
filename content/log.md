@@ -8,6 +8,16 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-10 — ingest (신규 1편: GLP-1 신경·정신질환 광역 리뷰) + 위생복원
+
+raw/ 재대조로 신규 1편 확정(count 257→258). ingest:
+- [[fang-2025-glucagon-like-peptide-1-medicines]] — **Drucker(Fang·Cui·Drucker) 광역 리뷰**: GLP-1 의약을 신경퇴행(AD RCT 음성·PD 엇갈림)뿐 아니라 **물질사용장애(알코올·코카인·니코틴·대마)·정신질환(우울/불안)·발작·편두통·특발성두개내압상승·뇌졸중** 전 영역 검토. **SUD가 하이라이트**: semaglutide가 AUD/CUD/대마 신규·재발 위험을 관찰연구에서 큰 폭↓(AUD 재발 HR 0.25~0.44), 중변연계(VTA·NAc·LDTg) GLP-1R 매개 → 사용자 보상회로(‘갈망’·유인감작·음식중독) 직결. 사용자 lab [[bae-2019-glucagon-like-peptide-1-receptor|Bae fMRI]] 인용(ref #9). 결론: 어떤 신경질환도 확정 3상 부재 (Cell Rep Med 2025).
+
+**갱신**: [[concept-glp1-neuroprotection]]·[[sabbagh-2026-repurposing-glucagon-like-peptide-1]](자매 리뷰 상호링크), [[bae-2019-glucagon-like-peptide-1-receptor]]·[[concept-food-addiction]](SUD-보상 역링크), [[index.md|wiki/index.md]], 본 log.
+**위생복원**: [[zhang-2022-brainstem-circuit-for-nausea]] `source:`를 `.pdf.pdf`로 복원 — 직전 라운드에서 "오타"로 오판해 `.pdf`로 바꿨으나, 실제 raw 파일명이 `...suppression.pdf.pdf`(이중 확장자)임을 확인. source는 실제 파일명과 일치해야 하므로 원복.
+
+---
+
 ## 2026-07-10 — ingest (신규 1편: GLP-1 신경보호 종합 리뷰) + 위생수정
 
 raw/ 전수 재대조(위키 `source:` ↔ raw 파일명). unmatched 22건 중 21건은 중복(` 1`/`(1)`/`(2)`)·supplement·이미 다른 slug로 ingest된 파일(Edison/EVOKE/godschall/walker/gao/jia/mcknight 등)·frontmatter 오타로 확인 → **진짜 신규 1편**만 ingest:

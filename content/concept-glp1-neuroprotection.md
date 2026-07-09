@@ -71,6 +71,7 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 
 ## 관련 페이지
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — **이 hub의 서술형 종합본**(AD·PD·ALS 근거·기전 총정리, Nature Aging 2026).
+- [[fang-2025-glucagon-like-peptide-1-medicines]] — Drucker의 광역 리뷰: 신경퇴행 + **SUD·정신질환·발작·두통·뇌졸중**까지(Cell Rep Med 2025).
 - [[cummings-2026-efficacy-and-safety-of-oral]] — **pivotal 3상 EVOKE/EVOKE+**: 경구 sema 초기 AD 임상 음성·조기 중단(Lancet 2026). 이 hub의 결론을 재편.
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — 정박 논문(ELAD phase 2b RCT); 1차 음성·2차 탐색 신호(EVOKE에서 미재현).
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 GLP-1RA(OHP2)의 성상교세포-뉴런 젖산·H3K9la 기전; "왜 sema RCT가 실패했나(뇌 도달)"의 기전적 대안(Cell Metab 2026).

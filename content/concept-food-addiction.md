@@ -26,6 +26,7 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[morales-2020-liking-and-wanting-in-eating]] — 비만을 유인-감작으로 설명(‘보상 결핍’ 대조).
 - [[concept-food-insecurity]] — food addiction의 신흥 위험요인(stress·초가공식품 경로).
 - [[concept-loss-of-control-eating]] — 겹치는 식이 표현형.
+- [[fang-2025-glucagon-like-peptide-1-medicines]] — GLP-1RA가 알코올·코카인·니코틴·대마 사용장애 위험을 관찰연구에서 낮춤(중변연계 GLP-1R 매개) → food addiction의 치료 접점·약리 검증(Drucker 리뷰, Cell Rep Med 2025).
 - [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] — 가설의 회로 기질.
 - [[leung-2024-food-insecurity-an-emerging]] — FI→food addiction 개념 모델(book chapter).
 - [[stuber-2025-the-neurobiology-of-overeating]] — addiction framing 신중론.

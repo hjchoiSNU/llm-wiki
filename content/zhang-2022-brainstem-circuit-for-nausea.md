@@ -3,7 +3,7 @@ title: 최후야 억제뉴런에 의한 오심 억제 — GIP-GIPR 회로 (Zhang
 type: paper
 created: 2026-07-05
 updated: 2026-07-05
-source: raw/zhang-2022-brainstem-circuit-for-nausea-suppression.pdf
+source: raw/zhang-2022-brainstem-circuit-for-nausea-suppression.pdf.pdf
 authors: [Zhang C, Vincelette LK, Reimann F, Liberles SD]
 year: 2022
 ---
