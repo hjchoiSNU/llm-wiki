@@ -97,6 +97,12 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - 갈증·sodium·water homeostasis 일부 기여.
 - LS GLP-1R: cocaine-induced locomotion·CPP 억제 → addiction 치료 가능성.
 
+### 7) 신경보호 (대사·섭식 밖)
+- 전임상 AD 모델에서 β-amyloid·tau·신경염증·뇌 인슐린저항·시냅스 손실을 다면적으로 개선.
+- 임상: dulaglutide 인지저하 지연(REWIND), liraglutide+semaglutide 치매 발생 감소, exenatide 파킨슨 개선.
+- [[edison-2026-liraglutide-in-mild-to-moderate|ELAD phase 2b]]: 알츠하이머 1차 대사 종점 음성, 2차 인지·탐색 뇌위축 유리.
+- 상세: [[concept-glp1-neuroprotection]].
+
 ## T2DM에서
 
 - GLP-1 **분비**는 정상 또는 약간 ↓.
@@ -210,4 +216,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 췌장외·중추 작용 대조 표준 리뷰.
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 뉴런(DMH/후뇌/LS) 비판적 종합.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide는 food liking 불변(효과는 wanting 축) 인간 RCT.
+- [[concept-glp1-neuroprotection]] — GLP-1RA 신경퇴행 repurposing hub(대사 밖 뇌 작용).
+- [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, Nat Med 2026).
+- [[person-edison-paul]] — GLP-1 신경보호 임상 총괄.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
