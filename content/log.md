@@ -8,6 +8,20 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-10 — ingest (백로그 미처리 3편: GLP-1 신경보호 역학 2 + OFC→BLA 가치)
+
+raw/ 전수 대조(위키 `source:` frontmatter ↔ raw 파일명)로 **진짜 미처리 신규 3편** 확정(나머지 unmatched 31건은 중복 다운로드 ` 1`/`(1)`·supplement·docx 초안 = 기존 페이지 존재). ingest:
+- [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — sema/tirze vs 기타 항당뇨제 코호트(TriNetX n=60,860): **치매 HR 0.63·뇌졸중 0.81·사망 0.70↓**, PD·뇌출혈 무차 (JAMA Netw Open 2025).
+- [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·**SGLT-2i** 모두 AD↓ vs DPP-4i(HR ≤0.69/≤0.67); liraglutide·semaglutide·글리플로진 약물별 유효; PD 무차 (Alz Dement 2025, Cheng·Cummings).
+- [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화 / mOFC→BLA=가치 인출** 이중해리; palatability(좋아함) 불변·value(갈망)만 조작=회로 수준 liking≠wanting (Nat Neurosci 2019, Wassum lab).
+
+**신규 인물 1**: [[person-wassum-kate]](UCLA, BLA reward valuation).
+**갱신**: [[concept-glp1-neuroprotection]](실사용 역학 표·SGLT-2i 확장), [[concept-orbitofrontal-cortex]]·[[concept-basolateral-amygdala]]·[[concept-liking-wanting]](Malvaez 역링크), [[index.md|wiki/index.md]], 본 log.
+
+**백로그 종결**: raw 268(pdf/docx) 중 `source:` 매칭 안 되는 34건을 개별 검증 → 신규 논문은 위 3편뿐, 나머지는 전부 기존 페이지의 중복본/보충/교재 docx. **미처리 논문 백로그 = 0**(2026-07-05 로그의 "≈144" 추정치는 W1–W4 대량 ingest로 이미 소진됨).
+
+---
+
 ## 2026-07-09 — ingest (ELAD: liraglutide 알츠하이머 phase 2b)
 
 오늘 `raw/`에 추가된 신규 1편([[edison-2026-liraglutide-in-mild-to-moderate]], Nat Med 2026, ELAD/NCT01843075) ingest. GLP-1RA의 **대사·섭식 밖 신경보호 repurposing**이라는 위키 신규 축.
