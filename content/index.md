@@ -2,6 +2,10 @@
 title: 뇌과학 LLM Wiki
 ---
 
+---
+title: 뇌과학 LLM Wiki
+---
+
 # Wiki Index
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
