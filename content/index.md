@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 355 (+ index.md, log.md)
-- 마지막 갱신: 2026-07-05
+- 총 페이지: 389 (+ index.md, log.md)
+- 마지막 갱신: 2026-07-28
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -73,6 +73,7 @@ title: 뇌과학 LLM Wiki
 - [[hyun-2022-tagging-active-neurons-by]] — soma-targeted Cal-Light: Ca²⁺+광 동시검출로 활성 뉴런 태깅(tag-then-manipulate); 배경↓·조건부 KI (Nat Commun 2022, Kwon).
 - [[wang-2026-multimodal-alignments-of-in]] — TRU-FACT: in vivo 영상↔공간전사체(MERFISH)↔projection 세포 단위 정합(Schnitzer, bioRxiv 2026). 활성에 분자정체 부여.
 - [[xu-2020-behavioral-state-coding-by]] — CaRMA imaging(칼슘+RNA-FISH 동시); PVH grouped-ensemble coding (Science 2020, Sternson). _(섭식 회로 내용은 🍽️에도)_
+- [[zong-2022-large-scale-two-photon-calcium]] — MINI2P: <3 g·0.7 mm 케이블 소형 2-광자 현미경으로 자유행동 마우스 1,000개+(스티칭 10,000개+) 뉴런 다중평면 이미징; VC/MEC/CA1 공간튜닝 보존·오픈소스 (Cell 2022, Moser lab). 자연주의 섭식/보상 회로 기록 인프라.
 
 ## 🧩 인지 & 행동 (Cognition & Behavior)
 
@@ -80,6 +81,7 @@ title: 뇌과학 LLM Wiki
 
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스가 BLA→DMS(agency)↓·CeA→DMS(habit)↑ "one-two punch"로 goal-directed→habit 전환; stress eating·NMPU Utility 무력화 회로 (Nature 2025, Wassum lab).
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc D1(탈억제)/D2(직접억제) MSN → SI 콜린성 → **BLA ACh가 현저성(salience, valence-free)을 표상**·연합학습을 양방향 제어; salience를 valence와 분리 (Nat Neurosci 2026, Xiao lab).
+- [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — **cue labeling**(cue를 단어로 라벨링 = affect labeling 응용)이 흡연 갈망·precuneus(DMN) 활성↓, 중년·고령에서 baseline까지 회복; 저비용·무부작용 인지 개입 (Neuropsychopharmacology 2026). 개념 [[concept-cue-reactivity]]·[[concept-affect-labeling]]. _(craving 조절은 ⚡ 신경조절·🍽️ DTx와도)_
 
 _(섭식·동기 행동은 🍽️로)_
 
@@ -115,6 +117,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP(macaque) LHA GABAergic chemogenetic 활성화가 palatable food 한정 goal-directed 식이↑; GABA PET·7T MRS·rs-fMRI 검증; rodent→human 번역 다리 (Neuron 2024, 사용자 lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 매개 (bioRxiv 2025, Knight lab).
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH 3 motivational drive arbitration (Korotkova).
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts 뉴런이 licking 운동량·음수·각성·자발적 운동·novelty seeking을 조율하되 **총 섭식은 불변**; VTA-DA value coding과 대비되는 inverse-value·운동 부호화 (bioRxiv 2026, Soden lab). 개념 [[concept-neurotensin]].
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR(섭식·음수 억제·social 우선) vs LH^Nts(음수 촉진·social 억제) 상보 arbitration; leptin이 food-anticipatory LepR 활성 (Cell Metab 2023, Korotkova).
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA ≥30 세포타입·Vgat(engine)/Vglut2(brake)·Orexin/MCH/LepR/Nts/MC3R 회로 종합; coarse DBS 비일관→세포타입 표적 (TiNS 2023).
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
@@ -139,8 +142,10 @@ _(섭식·동기 행동은 🍽️로)_
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
 
 ### 지방 감지 (Fat sensing — 구강·장·중추 3층)
-지방(LCFA)을 감지하는 CD36/GPR40/GPR120이 혀·장·시상하부에서 부위별 분업. 구강=쾌락 초안, 장=wanting(gut-brain), 중추=satiety.
+지방(LCFA)을 감지하는 CD36/GPR40/GPR120이 혀·장·시상하부에서 부위별 분업. 구강=쾌락 초안, 장=wanting(gut-brain), 중추=satiety. 4번째 계층: 혈중 옥시리핀→간 이소성 후각수용체. 종합: [[garrido-2026-lipid-sensing-and-brain-hormone]](gut–kidney–brain 축).
 - [[concept-fat-taste]] — 구강 지방 감지("제6의 미각") 개념 hub.
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — 소장·신장 지질 감지가 CCK·GLP-1·PYY·GIP·**GDF15**의 시간차 분비→미주·NTS/AP/시상하부 수용체로 포만·혈당 조율; NTS GABAergic GLP1R(비혐오) vs AP GLP1R/GFRAL(혐오) (Nat Rev Endocrinol 2026, Lam). 개념 [[concept-gdf15-gfral-axis]].
+- [[ge-2026-identification-of-or5v1-olfr110]] — 간·BAT·시상하부 이소성 후각수용체 **Or5v1/Olfr110**이 옥시리핀 **12(S)-HEPE**(nM) 수용체; Gs–PKA–ATF2–CPT1α로 간 지방산화↑·항비만; 합성 작용제 HOR1-C59 (Cell 2026). 개념 [[concept-ectopic-olfactory-receptors]]·[[concept-oxylipins]].
 - [[concept-cd36]] — 지방산 translocase; 구강·VMH·장 3층 backbone.
 - [[concept-free-fatty-acid-receptors]] — GPR40(FFAR1)/GPR120(FFAR4); 장 gut-brain 선호 필수·GLP-1 분비.
 - [[laugerette-2005-cd36-involvement-in-orosensory-detection]] — CD36가 혀 미뢰 지방 미각 수용체 최초 규명; 결손 시 지방선호 소실·cephalic phase (JCI 2005, Besnard).
@@ -171,11 +176,15 @@ _(섭식·동기 행동은 🍽️로)_
 
 #### GLP-1/GIP incretin — 기전·약물 배치 (2021–2025)
 개념 hub: [[concept-glp-1]] · [[concept-gip]] · [[concept-incretin-effect]]. 종합: [[overview-next-gen-incretin-obesity-drugs-2026]].
-- **기전·회로(GIP)** — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]]: GIP→중추 **GABAergic 뉴런** 의존 (Nat Metab). · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]]: GIP→ME **올리고덴드로사이트**·혈관투과성→GLP-1RA 뇌접근↑ (Cell Metab). · [[liu-2025-gipr-ab-glp-1-peptide]]: 중추 GIPR+GLP-1R 요구 (Nat Metab). · [[rupp-2023-suppression-of-food-intake-by]]: DMH **Glp1r·Lepr 수렴** 뉴런 (JCI).
+- **기전·회로(GIP)** — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]]: GIP→중추 **GABAergic 뉴런** 의존 (Nat Metab). · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]]: GIP→ME **올리고덴드로사이트**·혈관투과성→GLP-1RA 뇌접근↑ (Cell Metab). · [[liu-2025-gipr-ab-glp-1-peptide]]: 중추 GIPR+GLP-1R 요구 (Nat Metab). · [[rupp-2023-suppression-of-food-intake-by]]: DMH **Glp1r·Lepr 수렴** 뉴런 (JCI). · [[crunkhorn-2025-pairing-up-with-glp-1]]: **GLP-1×렙틴 이중작용제**가 바로 이 DMH LepR^Glp1r 뉴런 표적(인과 검증)·NHP 공발현 (하이라이트, Polex-Wolf 2024).
 - **GIPR agonism vs antagonism 역설** — [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1, phase1) · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]](MariTide **월1회** phase2 −16.2%, NEJM).
 - **임상 시험** — [[aronne-2023-continued-treatment-with-tirzepatide-for]](tirzepatide SURMOUNT-4 유지/중단 rebound, JAMA) · [[coppin-2022-does-glp-1-receptor-agonist]](liraglutide는 food **liking 불변**=wanting 축, RCT preprint) · [[koide-2025-association-between-eating-behavior]](**external eating**이 GLP-1RA 반응 예측).
 - **리뷰·약리** — [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]](GIP/GLP-1 췌장외 대조, NRE) · [[scheen-2023-dual-gip-glp-1-receptor]](tirzepatide twincretin) · [[muller-2022-gut-hormone-triple-agonists-clinical]](삼중작용 retatrutide) · [[alfaris-2024-glp-1-single-dual-and]](단일/이중/삼중 landscape) · [[jastreboff-2023-new-frontiers-obesity-treatment]](NuSH 종합) · [[tschop-2023-gut-hormone-based-pharmacology-novel]](제형·경구화) · [[wan-2023-glp-1r-signaling-and-functional]](GLP-1R 신호·biased agonism) · [[gupta-2021-glucagon-like-peptide-1-and]](인간 뇌 GLP-1R 분포) · [[cao-2024-hunting-for-heroes-brain]](GLP-1RA 매개 뇌뉴런 DMH/후뇌/LS 비판적 종합).
+- ★ [[petersen-2026-the-evolving-landscape-of]] — 비만 약물치료 지형 2026 종합: 분자 포맷 5분류·GLP-1/GIP/glucagon/amylin 다중작용제·경구화·제지방 보존·조직특이 PDC·**유지생물학(defended adiposity)**·적응증 확장 (NRDD 2026, Clemmensen). [[overview-next-gen-incretin-obesity-drugs-2026]]의 상위 종합. 개념 [[concept-glucagon-receptor-agonism]]·[[concept-amylin-receptor-agonists]]·[[concept-peptide-drug-conjugate]].
+- [[lorente-2025-gpcr-drug-discovery-new-agents]] — GPCR 창약 전체 지형(승인약 36%·임상 337 agent); GLP-1이 최다 retarget GPCR, incretin dual/triple·MC4R·biased signalling 데이터 매핑 (NRDD 2025, Gloriam). 개념 [[concept-gpcr-drug-discovery]]·[[concept-biased-agonism]].
+- [[mullard-2025-from-gene-hunter-to]] — Amgen CSO 인터뷰; MariTide를 modular therapeutic 사례로 거론, 인간유전학 표적검증 (NRDD 2025, "An audience with…"). _(주변부·산업)_
 - **신경보호·repurposing (대사 밖)** — 개념 hub [[concept-glp1-neuroprotection]] · [[concept-astrocyte-neuron-lactate-shuttle]] · 인물 [[person-edison-paul]]. **★[[sabbagh-2026-repurposing-glucagon-like-peptide-1]]** — 이 분야 종합 리뷰(Drucker·Holst·Cummings·van der Flier·Heneka·Tansey): AD·PD·ALS 근거·기전 총정리, "관찰 양성 vs RCT 음성" 결론·CNS 침투 차세대 필요 (Nature Aging 2026). · **★[[fang-2025-glucagon-like-peptide-1-medicines]]** — Drucker 광역 리뷰: 신경퇴행 + **물질사용장애(알코올·코카인·니코틴·대마)·정신질환·발작·편두통·뇌졸중**; SUD는 중변연계 GLP-1R 매개로 사용자 보상회로 연구 직결 (Cell Rep Med 2025). · **★[[cummings-2026-efficacy-and-safety-of-oral]]** — 경구 sema 초기 AD 3상 EVOKE/EVOKE+(n=3,808): 1차 CDR-SB·모든 2차 **음성→조기 중단**; CSF tau·neurogranin·YKL-40 5–10%↓(바이오마커-임상 해리) (Lancet 2026). · [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, n=204): 1차 뇌 포도당대사 음성, 2차 인지(ADAS-Exec +0.15, P=0.01)·탐색 뇌위축 둔화 유리 (Nat Med 2026, Imperial). · [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 경구 GLP-1RA **OHP2**: 성상교세포 GLP-1R→젖산→뉴런 **H3K9 젖산화**→지질 역수송으로 AD 마우스 치료(sema>OHP2), 효과는 뇌내 GLP-1R·LDHA 의존 (Cell Metab 2026). · [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — sema/tirze 치매 HR 0.63·뇌졸중 0.81·사망 0.70↓ 대규모 코호트(JAMA NO 2025). · [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·**SGLT-2i** 모두 AD↓ vs DPP-4i(Alz Dement 2025). *(RCT 음성 ↔ 관찰 양성 충돌: [[concept-glp1-neuroprotection]] 참조.)*
+- [[dolgin-2026-brain-shuttle-biologics-chart-new]] — CNS 침투 biologic을 위한 **BBB shuttle**(TfR·CD98hc·IGF-1R receptor-mediated transcytosis) 산업 동향; 첫 승인약(Denali)·trontinemab(AD)·reticulocyte 독성·affinity tuning (NRDD 2026 News). 개념 [[concept-blood-brain-barrier-shuttle]]. GLP-1RA CNS 전달에 직접 함의.
 - [[le-roux-2026-survodutide-once-weekly-for]] — survodutide(글루카곤-R/GLP-1R dual) phase 3 SYNCHRONIZE-1: 당뇨 없는 비만 76주 −13.0% vs −5.4% (NEJM 2026).
 - [[kaplan-2026-survodutide-in-adults-with]] — survodutide phase 3 SYNCHRONIZE-MASLD: 비만+at-risk MASLD 48주 간지방 ≥30%↓ 84.2%·체중 −12.2%, 체중-독립적 간효과 (Nat Med 2026).
 - [[davies-2026-elecoglipron-an-oral-small]] — elecoglipron(AZD5004) 경구 1일1회 소분자 GLP-1RA phase 2 VISTA: 26주 최대 −10.5%, 음식 제한 없음 (Lancet 2026, AstraZeneca).
@@ -331,13 +340,18 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 신경퇴행, 신경발달, 정신질환.
 
-_(아직 페이지 없음)_
+- [[schulz-2026-blunted-anticipation-but-not]] — 우울증(MDD)의 음식 보상 anhedonia: anticipatory wanting↓·consummatory liking 보존; 대사(ghrelin·인슐린저항) 연동 (Cell Rep Med 2026). 개념 [[concept-anhedonia]]. _(보상·동기 🎯에도)_
 
 ## 🤖 AI × Neuroscience
 
 인공신경망 모델, 컴퓨테이셔널 모델, 뇌-기계 인터페이스, LLM과 뇌.
 
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework를 interoception 기반으로 재정의 (Trends Cogn Sci 2025). NMPU와 직접 호환.
+
+### AI 신약개발 (AI drug discovery)
+식욕·대사 GPCR 표적 발굴·리간드 설계에 적용되는 AI 창약 축. 개념 hub: [[concept-ai-drug-discovery]]·[[concept-de-novo-protein-design]]·[[concept-gpcr-drug-discovery]].
+- [[pun-2026-target-identification-and-assessment-in]] — AI 신약 **타깃 발굴·평가** 종합(Insilico Zhavoronkov): 멀티오믹스+지식그래프→GNN/LLM 스코어링→retrospective/experimental/prospective 검증·druggability(AlphaFold·cryptic pocket)·closed-loop lab; TNIK/DRD2 임상 사례 (NRDD 2026).
+- [[muratspahic-2026-de-novo-design-of-miniproteins]] — RFdiffusion+MetaGen으로 **11개 GPCR 표적 miniprotein 작용제·길항제 de novo 설계**(GLP1R·GIPR·GCGR·MC4R 포함), cryo-EM 검증·in vivo 효능 (Nature 2026, Baker lab). 인물 [[person-baker-david]].
 - [[padamsey-2022-neocortex-saves-energy-by]] — 먹이 부족 시 V1이 AMPAR 전류·ATP를 줄여 에너지 절약하되 coding precision↓; leptin이 gating하는 efficient-coding trade-off (Neuron 2022).
 - [[redish-2016-the-computational-complexity-of-valuation]] — 가치는 측정법(revealed preference·WTP·approach/avoidance)마다 다른 의사결정계(deliberative·procedural·Pavlovian)를 건드려 양립불가; common currency 거부·craving·contingency management (book chapter 2016, Redish).
 
@@ -379,6 +393,20 @@ _(아직 페이지 없음)_
 ### 발달 / atlas / 방법론
 - [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]]
 
+### 지질 감지 / 수용체 / 신경펩타이드
+- [[concept-neurotensin]] — LH·중뇌 Nts 펩타이드(섭식·음수·각성·운동·보상)
+- [[concept-gdf15-gfral-axis]] — 스트레스·지질 반응 지연 식욕억제(GFRAL=NTS/AP 한정)
+- [[concept-ectopic-olfactory-receptors]] · [[concept-oxylipins]] — 비강 밖 이소성 OR·PUFA 유래 지질 messenger
+
+### 창약 / 약물 클래스 / CNS 전달
+- [[concept-gpcr-drug-discovery]] · [[concept-biased-agonism]] — GPCR 창약 지형·G단백질/β-arrestin 편향
+- [[concept-glucagon-receptor-agonism]] · [[concept-amylin-receptor-agonists]] — 비-GLP-1 파트너 약물 클래스(EE·포만)
+- [[concept-peptide-drug-conjugate]] · [[concept-blood-brain-barrier-shuttle]] — 조직특이·CNS 표적 전달
+- [[concept-de-novo-protein-design]] · [[concept-ai-drug-discovery]] — AI 리간드 설계·타깃 발굴
+
+### 보상·정서 조절
+- [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
+
 ## 👤 인물 (People)
 
 연구자 페이지. 파일명 `person-*.md`.
@@ -404,6 +432,10 @@ _(아직 페이지 없음)_
 - [[person-zuker-charles]] — 미각 coding("labeled-line") + gut-brain 당·지방 선호(wanting≠liking). Columbia / HHMI.
 - [[person-edison-paul]] — GLP-1 유사체 신경퇴행 repurposing 임상(ELAD liraglutide-AD) 총괄; FDG-PET·MRI 영상 바이오마커. Imperial College London.
 - [[person-wassum-kate]] — BLA 글루타메이트 생체센서·OFC→BLA 투사로 상태의존 reward value 부호화/인출 분해; liking≠wanting 회로. UCLA.
+- [[person-soden-marta]] — LH·VTA 신경펩타이드(neurotensin) 회로와 섭취·동기 행동. University of Washington.
+- [[person-kroemer-nils]] — gut-brain(ghrelin·insulin·vagus)×보상×우울증 인간 통합 연구. Bonn / Tübingen.
+- [[person-lam-tony]] — 소장·신장 영양소(지질·포도당) 감지 gut-brain 축의 분자 기전. Toronto.
+- [[person-baker-david]] — de novo 단백질 설계(RFdiffusion·ProteinMPNN); GPCR 리간드 설계. UW / IPD(노벨화학상 2024).
 
 ## 🌐 종합/리뷰 (Overviews)
 
@@ -489,6 +521,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[korb-2020-dopaminergic-and-opioidergic-regulation]] — 소비 ‘좋아함’=오피오이드 특이적·동기=도파민+오피오이드 (eLife 2020).
 - [[concept-ventral-pallidum]] · [[wang-2026-ventral-pallidal-gabaergic-neurons]] — posterior VP=‘좋아함’ 필수 핫스폿; VP^GABA가 hedonic 섭식·HFD 비만을 인과 통제(항상성 보존) (bioRxiv 2026, Kravitz).
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화 / mOFC→BLA=가치 인출** 이중해리; 가치(갈망) 조작에도 palatability(좋아함) 불변 → 회로 수준 liking≠wanting (Nat Neurosci 2019, Wassum lab). 인물 [[person-wassum-kate]].
+- [[schulz-2026-blunted-anticipation-but-not]] — 인간 우울증/anhedonia는 음식의 **예측 wanting↓·소비 liking 보존**(근접 시 회복); acyl ghrelin·인슐린저항이 증상과 연동 (Cell Rep Med 2026, Kroemer). 개념 [[concept-anhedonia]]. _(🩺 질환에도)_
 
 ### 진영 — Heterogeneity / cell types
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA cellular heterogeneity 종합 (NRN 2017).
@@ -504,6 +537,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — Primary/proxy/secondary reward + state-driven vs event-driven (Trends Cogn Sci 2025).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 즉시 orosensory vs 지연 post-ingestive DA 분리, wanting과의 상관 (Cell Metab 2019).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — SDV(미주절단)이 mesolimbic VTA→NAc DA·음식/약물 보상을 약화(DS는 보존); 미주 tone이 보상 DA를 gating (Sci Adv 2026, Gangarossa).
+- [[yang-2026-a-sync-state-in-the]] — 자발 섭취 ~30초 후 VTA DA 아집단이 **0.8 Hz 동기 버스트("sync state")** 로 전환, orosensory×위장 영양 신호의 시간적 일치를 게이트로 **interoceptive credit assignment**(RPE 아님) 수행·미래 소비 vigor↑; 0.8 Hz 광자극이 영양소 없이 학습 유도(충분조건) (Neuron 2026, Rong Gong). 개념 [[concept-consumption-vigor]].
 
 ### 진영 — Multiple decision systems (goal/habit/Pavlovian)
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — 인간 동기를 goal-directed/habitual/Pavlovian 3계 + arbitration(vlPFC·frontopolar)으로 분해; general/specific PIT 회로(NAc·편도)·vmPFC goal-value·choking (book chapter 2016).

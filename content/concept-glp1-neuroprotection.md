@@ -83,3 +83,4 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(CNS engagement 근거).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 신호 종합(사용자 lab).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사 응용 지형(대비축).
+- [[dolgin-2026-brain-shuttle-biologics-chart-new]] · [[concept-blood-brain-barrier-shuttle]] — CNS 침투 차세대 GLP-1RA를 위한 BBB shuttle 기술.

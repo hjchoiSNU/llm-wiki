@@ -60,3 +60,5 @@ LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) →
 - [[concept-endocannabinoid-system]] — 2-AG/anandamide–CB1 축 hub.
 - [[wang-2018-coding-of-valence-and-identity]] — 미각 modality-특이 valence의 편도 처리.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — EEC 지방/영양 chemoreceptor 발현.
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지방 감지를 gut–kidney–brain 축으로 확장(CCK·GLP-1·GDF15 시간차) (Nat Rev Endocrinol 2026).
+- [[ge-2026-identification-of-or5v1-olfr110]] — 혈중 옥시리핀(12(S)-HEPE)→간 이소성 후각수용체 Or5v1의 4번째 지질감지 계층 (Cell 2026).

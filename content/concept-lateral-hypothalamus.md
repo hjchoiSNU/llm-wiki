@@ -180,3 +180,6 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA ≥30 세포타입·Vgat/Vglut2 회로 종합 리뷰.
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — LH^Lepr(GABA)→vlPAG^Penk 초기역경 폭식 회로.
 - [[murray-2014-hormonal-and-neural-mechanisms]] — LHA leptin/neurotensin→도파민·섭식 조절.
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts가 licking 운동량·음수·각성·자발적 운동을 조율하되 총 섭식은 불변; TeTox silencing 다차원 표현형 (bioRxiv 2026, Soden lab).
+- [[concept-neurotensin]] — LH-Nts 세포타입의 상위 펩타이드 개념 hub.
+- [[person-soden-marta]] — LH-Nts↔VTA 신경펩타이드 회로 연구자.

@@ -176,3 +176,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 선조체 도파민의 미각(VS)/영양(DS) 별개 부호화.
 - [[meye-2014-feelings-about-food-the]] — VTA 도파민이 팔라터블·스트레스·큐 섭식을 통합.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 cue-triggered incentive motivation 증폭.
+- [[yang-2026-a-sync-state-in-the]] — VTA DA 아집단의 0.8 Hz "sync state"가 RPE로 환원되지 않는 interoceptive 영양 학습(credit assignment)을 매개 (Neuron 2026).

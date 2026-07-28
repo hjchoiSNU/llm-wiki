@@ -71,5 +71,6 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 말초 세마글루타이드는 시상하부보다 hindbrain(AP)을 통해 작용 (Nat Metab 2026).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab 뇌 GLP-1R 리뷰; DMH GLP-1R/LepR preingestive satiation을 brain-wide GLP-1R 지도 안에 정리 (APEM 2025).
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH GABA성 LepRb^Glp1r 뉴런(leptin×GLP-1 수렴).
+- [[crunkhorn-2025-pairing-up-with-glp-1]] — GLP-1×렙틴 이중작용제가 바로 이 DMH LepR^Glp1r 뉴런을 표적(인과 검증); NHP DMH 공발현 (하이라이트, Polex-Wolf 2024).
 - [[cao-2024-hunting-for-heroes-brain]] — DMH^GLP-1R preingestive satiation 논점 맥락화.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

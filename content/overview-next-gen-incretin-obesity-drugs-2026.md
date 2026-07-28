@@ -59,4 +59,8 @@ updated: 2026-06-21
 - [[muller-2022-gut-hormone-triple-agonists-clinical]] — 삼중작용 retatrutide 초기 근거.
 - [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide dual 리뷰.
 - [[tschop-2023-gut-hormone-based-pharmacology-novel]] — 제형·경구화 로드맵.
+- [[petersen-2026-the-evolving-landscape-of]] — ★ 비만 약물치료 지형 2026 종합(포맷 5분류·EE·제지방 보존·유지생물학·적응증 확장). 최상위 리뷰.
+- [[lorente-2025-gpcr-drug-discovery-new-agents]] — GPCR 창약 전체 지형에서 incretin의 위치(GLP-1=최다 retarget) (NRDD 2025).
+- [[crunkhorn-2025-pairing-up-with-glp-1]] — GLP-1×렙틴 이중작용제가 DMH LepR^Glp1r 뉴런 표적(하이라이트).
+- [[mullard-2025-from-gene-hunter-to]] — MariTide를 modular therapeutic 사례로 거론한 산업 인터뷰.
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.
