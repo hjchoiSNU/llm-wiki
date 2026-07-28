@@ -8,6 +8,34 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-28 — ingest (신규 14편 일괄: 보상 회로·지질감지·비만약리·AI 창약)
+
+raw/를 위키와 재대조해 미등록 14편 확정·일괄 ingest (총 페이지 355→389, +34: 논문 14 + 개념 16 + 인물 4). [[index.md|wiki/index.md]] 갱신, 기존 hub 8개 역링크.
+
+**섭식·보상 회로 (핵심)**:
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts가 licking 운동량·음수·각성·자발운동 조율(총 섭식 불변); VTA-DA value coding과 inverse (bioRxiv, Soden). 신규 [[concept-neurotensin]]·[[person-soden-marta]].
+- [[yang-2026-a-sync-state-in-the]] — VTA DA "0.8 Hz sync state"가 orosensory×위장 영양 신호 시간일치를 게이트로 interoceptive credit assignment(RPE 아님)·소비 vigor↑ (Neuron, Gong). 신규 [[concept-consumption-vigor]].
+- [[schulz-2026-blunted-anticipation-but-not]] — 우울증 음식보상: anticipatory wanting↓·consummatory liking 보존; ghrelin·인슐린저항 증상 연동 (Cell Rep Med, Kroemer). 신규 [[concept-anhedonia]]·[[person-kroemer-nils]]. 🩺 질환 카테고리 첫 앵커.
+- [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — cue labeling(affect labeling)이 흡연갈망·precuneus↓, 고령서 baseline 회복 (Neuropsychopharmacology). 신규 [[concept-cue-reactivity]]·[[concept-affect-labeling]].
+
+**지질 감지·대사 수용체**:
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — gut–kidney–brain 지질감지 축(CCK·GLP-1·PYY·GIP·GDF15 시간차) (Nat Rev Endocrinol, Lam). 신규 [[concept-gdf15-gfral-axis]]·[[person-lam-tony]].
+- [[ge-2026-identification-of-or5v1-olfr110]] — 간 이소성 후각수용체 Or5v1이 옥시리핀 12(S)-HEPE 감지→지방산화·항비만 (Cell). 신규 [[concept-ectopic-olfactory-receptors]]·[[concept-oxylipins]].
+
+**비만 약리·창약**:
+- [[petersen-2026-the-evolving-landscape-of]] — 비만약 지형 2026 종합 (NRDD, Clemmensen). 신규 [[concept-glucagon-receptor-agonism]]·[[concept-amylin-receptor-agonists]]·[[concept-peptide-drug-conjugate]].
+- [[lorente-2025-gpcr-drug-discovery-new-agents]] — GPCR 창약 지형(GLP-1=최다 retarget) (NRDD). 신규 [[concept-gpcr-drug-discovery]]·[[concept-biased-agonism]].
+- [[crunkhorn-2025-pairing-up-with-glp-1]] — GLP-1×렙틴 이중작용제가 DMH LepR^Glp1r 표적 (하이라이트).
+- [[mullard-2025-from-gene-hunter-to]] — Amgen CSO 인터뷰·MariTide modular therapeutic (주변부).
+- [[dolgin-2026-brain-shuttle-biologics-chart-new]] — BBB shuttle(TfR·CD98hc) 산업 동향 (NRDD News). 신규 [[concept-blood-brain-barrier-shuttle]].
+
+**AI 창약 / 방법론**:
+- [[pun-2026-target-identification-and-assessment-in]] — AI 신약 타깃 발굴·평가 (NRDD, Insilico). 신규 [[concept-ai-drug-discovery]].
+- [[muratspahic-2026-de-novo-design-of-miniproteins]] — 11개 GPCR 표적 miniprotein de novo 설계(GLP1R·GIPR·MC4R) (Nature, Baker). 신규 [[concept-de-novo-protein-design]]·[[person-baker-david]].
+- [[zong-2022-large-scale-two-photon-calcium]] — MINI2P 자유행동 대규모 2P 이미징 (Cell, Moser). 🧪 방법론.
+
+**주의**: [[yang-2026-a-sync-state-in-the]]는 raw 파일명이 "Cell"이나 실게재지는 Neuron. 신규 개념/인물 20개는 스텁 수준 이상으로 작성했으나 후속 논문 유입 시 보강 권장.
+
 ## 2026-07-10 — ingest (신규 1편: GLP-1 신경·정신질환 광역 리뷰) + 위생복원
 
 raw/ 재대조로 신규 1편 확정(count 257→258). ingest:
