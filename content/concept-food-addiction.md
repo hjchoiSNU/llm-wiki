@@ -38,3 +38,4 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[murray-2014-hormonal-and-neural-mechanisms]] — sugar bingeing·D2 하향조절·YFAS 임상.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — cue-triggered craving·wanting/liking 해리.
 - [[meye-2014-feelings-about-food-the]] — cue-induced reinstatement 공유.
+- [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌-저항 섭취(중독의 정의적 특징)의 시상하부 회로; 인간 rZI-sgACC FC가 food addiction score와 상관.

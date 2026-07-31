@@ -8,6 +8,13 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-31 — ingest (신규 1편: 강박적 섭식 피질-시상하부 회로)
+
+raw/ 재대조 결과 미등록은 오늘 추가된 1편(나머지 Jul 28 배치·`… 1.pdf` 중복본은 이미 등록됨). 총 페이지 389→391(+2: 논문 1 + 개념 1), 기존 hub 5개 역링크.
+- [[leow-2026-a-cortical-hypothalamic-neural]] — rostral ZI GABA가 처벌(quinine·foot-shock)-저항 강박 섭식 전담(일반 식욕 TN^SST와 해리); mPFC(PL·ORBm·ACAd)→rZI top-down이 gate, binge가 mPFC-rZI를 지속 attractor로 재편; 인간 3코호트 rZI-mPFC FC=BMI/binge biomarker (Neuron 2026, Yu Fu·Juan Helen Zhou·Hasan Mohammad).
+- 신규 개념: [[concept-zona-incerta]] — LH 인접 orexigenic 노드 hub.
+- 역링크: [[concept-loss-of-control-eating]]·[[concept-lateral-hypothalamus]]·[[stuber-2025-the-neurobiology-of-overeating]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area]]·[[concept-food-addiction]]·[[concept-orbitofrontal-cortex]]. [[index.md|wiki/index.md]] 갱신.
+
 ## 2026-07-28 — ingest (신규 14편 일괄: 보상 회로·지질감지·비만약리·AI 창약)
 
 raw/를 위키와 재대조해 미등록 14편 확정·일괄 ingest (총 페이지 355→389, +34: 논문 14 + 개념 16 + 인물 4). [[index.md|wiki/index.md]] 갱신, 기존 hub 8개 역링크.

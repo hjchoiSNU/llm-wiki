@@ -56,3 +56,4 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[lee-2024-feature-specific-prediction-error]] — feature-specific RPE; CD/CE 분리 표상과 대비.
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA GABA/DA 세포 이질성; 본 논문 VTA 기록 해석 근거.
 - [[concept-need-motivation-pleasure-utility]] — Utility(지연 결과 → 알고리즘 reshape) 차원에 mRPE/CD 대응.
+- [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC top-down 통제의 병렬 사례: mPFC→VTA(본 논문) vs mPFC→rZI(강박 섭식), rZI 투사 mPFC는 PAG/VTA와 부분 독립 채널.

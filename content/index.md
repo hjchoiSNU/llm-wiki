@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 389 (+ index.md, log.md)
-- 마지막 갱신: 2026-07-28
+- 총 페이지: 391 (+ index.md, log.md)
+- 마지막 갱신: 2026-07-31
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -27,6 +27,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-ventromedial-hypothalamus]] — SF1·BDNF·ERα. EE·glucose·thermogenesis·sex dimorphism.
 - [[concept-dorsomedial-hypothalamus]] — GLP-1R cognitive satiation (Park 2025) + circadian Trh→AgRP.
 - [[concept-lateral-hypothalamus]] — Motivation 통합 hub + Korotkova arbitration framework + LH GABAergic→VTA water reward.
+- [[concept-zona-incerta]] — LH 인접 orexigenic 노드. rostral ZI GABA=강박 섭식(처벌-저항)·mPFC top-down·VTA 투사. 인간 rZI-mPFC FC=비만/binge biomarker.
 
 ### 기타 회로
 - [[concept-bed-nucleus-stria-terminalis]] — 확장편도 stress↔reward 허브. "valence surveillance"·BNST→LH GABA feeding. 인간 7T DCM stress 매핑 (Guerrero-Hreins 2026).
@@ -140,6 +141,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 **BNST→NAc·OFC·dmINS** effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측; 인간 7T fMRI+DCM gustometer (Nat Commun 2026, Steward·Brown lab).
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
+- [[leow-2026-a-cortical-hypothalamic-neural]] — **rostral ZI GABA**가 처벌(quinine·foot-shock)-저항 강박 섭식 전담(일반 식욕 TN^SST와 해리); **mPFC(PL·ORBm·ACAd)→rZI** top-down이 gate, binge가 mPFC-rZI를 지속 attractor로 재편; 인간 3코호트 rZI-mPFC FC=BMI/binge biomarker (Neuron 2026, Yu Fu·Zhou). 개념 [[concept-zona-incerta]]. _(강박·LOC은 🎯/신경조절에도)_
 
 ### 지방 감지 (Fat sensing — 구강·장·중추 3층)
 지방(LCFA)을 감지하는 CD36/GPR40/GPR120이 혀·장·시상하부에서 부위별 분업. 구강=쾌락 초안, 장=wanting(gut-brain), 중추=satiety. 4번째 계층: 혈중 옥시리핀→간 이소성 후각수용체. 종합: [[garrido-2026-lipid-sensing-and-brain-hormone]](gut–kidney–brain 축).

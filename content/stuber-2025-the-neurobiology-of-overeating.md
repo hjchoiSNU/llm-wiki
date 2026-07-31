@@ -113,3 +113,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[person-choi-hyung-jin]] — 인용된 사용자 lab.
 - [[murray-2014-hormonal-and-neural-mechanisms]] — 과식 신경생물학의 선행 종합.
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — food addiction·보상 저민감성 논의 대비.
+- [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 과식의 강박 성분을 회로로 분리(mPFC→rZI^GABA, 처벌-저항 HFD 추구); 일반 식욕(TN^SST)과 해리.

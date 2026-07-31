@@ -46,3 +46,4 @@ updated: 2026-06-01
 - [[concept-food-addiction]] — 통제 상실 섭식과 겹치는 addiction framing.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — cue가 결과 표상을 통해 의사결정을 통제(habit 자동성 반박); LH 표적이 cue 통제력↓·균형 학습 회복 가능성 (Neuron 2026).
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 반복 노출 증폭 binge-like eating의 회로.
+- [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌(quinine·shock)-저항 강박 섭취의 피질-시상하부 회로(mPFC→rZI^GABA); Halpern NAc biomarker와 상보적인 상류 축, 인간 rZI-mPFC FC가 binge·BMI와 상관.

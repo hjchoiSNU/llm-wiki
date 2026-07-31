@@ -183,3 +183,4 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts가 licking 운동량·음수·각성·자발적 운동을 조율하되 총 섭식은 불변; TeTox silencing 다차원 표현형 (bioRxiv 2026, Soden lab).
 - [[concept-neurotensin]] — LH-Nts 세포타입의 상위 펩타이드 개념 hub.
 - [[person-soden-marta]] — LH-Nts↔VTA 신경펩타이드 회로 연구자.
+- [[concept-zona-incerta]] · [[leow-2026-a-cortical-hypothalamic-neural]] — 인접 orexigenic 노드 ZI; rZI^GABA는 강박 섭식 전담(LH^GABA→VTA sucrose seeking과 병렬, TN^SST 일반 식욕과 해리).
