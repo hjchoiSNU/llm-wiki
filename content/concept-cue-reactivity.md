@@ -27,3 +27,4 @@ updated: 2026-07-28
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[bae-2019-glucagon-like-peptide-1-receptor]] · [[huang-2021-the-insulo-opercular-cortex-encodes]] — 음식 cue reactivity.
 - [[concept-incentive-sensitization]] · [[concept-food-addiction]] · [[concept-liking-wanting]] — 상위 이론.
 - [[concept-digital-therapeutics]] — 임상 응용.
+- [[concept-inhibitory-control-demand]] — VR cue provocation으로 올라간 craving에 비례해 dlPFC·ACC 제어부하가 증가하는 trouble-resisting 국면.

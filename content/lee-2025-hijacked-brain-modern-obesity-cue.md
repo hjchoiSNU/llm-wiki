@@ -50,7 +50,7 @@ journal: "J Obes Metab Syndr 34:196–212"
 
 ### 2-5. Restrained eating
 - 의도적 식이 제한 → 역설적 폭식 ('disinhibition / counterregulation').
-- 회로: ACC·dlPFC (제어 노력) ↑, OFC·NAc·insula (보상 민감) ↑ — 이중 활성.
+- 회로: ACC·dlPFC (제어 노력) ↑, OFC·NAc·insula (보상 민감) ↑ — 이중 활성. → craving에 비례한 제어 부하로 정식화: [[concept-inhibitory-control-demand]] (trouble resisting).
 - 한국 등 '마름' 강박이 강한 사회에서 공중보건 부담.
 - 동물 모델 부재 — 인간 고유 (인지·문화·사회).
 
@@ -117,4 +117,5 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[person-halpern-casey]] — 인간 reward 회로 neuromodulation 프로그램.
 - [[person-choi-hyung-jin]] — 본 lab.
 - [[koide-2025-association-between-eating-behavior]] — cue-evoked(external) eating이 GLP-1RA 반응 예측(임상 검증).
+- [[concept-inhibitory-control-demand]] — Restraint 표현형의 dlPFC·ACC 제어노력을 craving-비례 제어부하로 정식화(trouble resisting).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

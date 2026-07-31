@@ -72,4 +72,5 @@ journal: "Journal of Obesity & Metabolic Syndrome 28:148–157"
 - [[liu-2026-granular-motivational-interaction-and]] — 2 phase를 5 granular state로 정밀 확장한 자매 framework.
 - [[kim-2020-multidimensional-cognitive-behavioral-therapy]] · [[kim-2021-digital-therapeutics-for-obesity]] — human 측정 공백을 메우는 DTx.
 - [[person-choi-hyung-jin]] · [[person-kim-meelim]] — 저자(교신·공저).
+- [[concept-inhibitory-control-demand]] — craving(내적 state)에 저항하는 Go/NoGo·stop-signal 억제통제를 craving-비례 PFC 제어부하로 확장.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

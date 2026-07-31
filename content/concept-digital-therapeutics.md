@@ -45,4 +45,5 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[person-kim-meelim]] · [[person-choi-hyung-jin]] — DTx 라인 저자.
 - [[concept-responsive-neurostimulation]] — electroceutical 자매 modality: 폐루프 신경자극(인간 NAc rDBS).
 - [[person-halpern-casey]] — neuromodulation 임상의 인간 reward 회로 프로그램.
+- [[concept-inhibitory-control-demand]] — VR craving provocation·dlPFC 자극의 이론 근거(craving-비례 제어부하, trouble resisting).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

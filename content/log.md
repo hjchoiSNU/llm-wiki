@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-07-31 — other (개념 추가: inhibitory control demand / trouble resisting)
+
+사용자 요청 개념 페이지 신설(391→392). VR craving provocation에서 craving↑ → 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓)라는 "trouble resisting" 기전.
+- 신규 [[concept-inhibitory-control-demand]] — [[lee-2025-hijacked-brain-modern-obesity-cue|Hijacked Brain]] Restraint 표현형(ACC·dlPFC 제어노력↑+보상민감↑ 이중활성)·[[lee-2019-food-craving-seeking-and|Food Craving phase]](craving=내적 state, Go/NoGo 억제통제)에 근거. proportional-scaling 명제는 이들 자료에 정합적인 사용자 lab 정식화로 표기.
+- 역링크: [[lee-2025-hijacked-brain-modern-obesity-cue]]·[[lee-2019-food-craving-seeking-and]]·[[concept-cue-reactivity]]·[[concept-digital-therapeutics]]·[[concept-need-motivation-pleasure-utility]]. [[index.md|wiki/index.md]] 🧩 인지·행동에 등재.
+
 ## 2026-07-31 — ingest (신규 1편: 강박적 섭식 피질-시상하부 회로)
 
 raw/ 재대조 결과 미등록은 오늘 추가된 1편(나머지 Jul 28 배치·`… 1.pdf` 중복본은 이미 등록됨). 총 페이지 389→391(+2: 논문 1 + 개념 1), 기존 hub 5개 역링크.
