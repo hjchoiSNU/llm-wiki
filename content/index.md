@@ -75,6 +75,7 @@ title: 뇌과학 LLM Wiki
 - [[wang-2026-multimodal-alignments-of-in]] — TRU-FACT: in vivo 영상↔공간전사체(MERFISH)↔projection 세포 단위 정합(Schnitzer, bioRxiv 2026). 활성에 분자정체 부여.
 - [[xu-2020-behavioral-state-coding-by]] — CaRMA imaging(칼슘+RNA-FISH 동시); PVH grouped-ensemble coding (Science 2020, Sternson). _(섭식 회로 내용은 🍽️에도)_
 - [[zong-2022-large-scale-two-photon-calcium]] — MINI2P: <3 g·0.7 mm 케이블 소형 2-광자 현미경으로 자유행동 마우스 1,000개+(스티칭 10,000개+) 뉴런 다중평면 이미징; VC/MEC/CA1 공간튜닝 보존·오픈소스 (Cell 2022, Moser lab). 자연주의 섭식/보상 회로 기록 인프라.
+- [[weinreb-2026-spontaneous-behavior-is-a]] — **shMoSeq**: MoSeq syllable을 위계 HHMM으로 묶어 pose(ms)→syllable(sub-s)→**behavioral state(수 초)** 3층 분해; 자유행동을 task 상태로 세그먼트하는 python 도구 (Neuron 2026, Datta lab). _(dmPFC 상태 코딩 본문은 🧩에)_
 
 ## 🧩 인지 & 행동 (Cognition & Behavior)
 
@@ -84,6 +85,7 @@ title: 뇌과학 LLM Wiki
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc D1(탈억제)/D2(직접억제) MSN → SI 콜린성 → **BLA ACh가 현저성(salience, valence-free)을 표상**·연합학습을 양방향 제어; salience를 valence와 분리 (Nat Neurosci 2026, Xiao lab).
 - [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — **cue labeling**(cue를 단어로 라벨링 = affect labeling 응용)이 흡연 갈망·precuneus(DMN) 활성↓, 중년·고령에서 baseline까지 회복; 저비용·무부작용 인지 개입 (Neuropsychopharmacology 2026). 개념 [[concept-cue-reactivity]]·[[concept-affect-labeling]]. _(craving 조절은 ⚡ 신경조절·🍽️ DTx와도)_
 - [[concept-inhibitory-control-demand]] — **trouble resisting**: VR 등으로 craving↑ → 저항에 필요한 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓). Hijacked Brain Restraint 축의 정식화·VR/dlPFC DTx 근거 (사용자 lab). _(DTx는 🍽️·⚡와도)_
+- [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_
 
 _(섭식·동기 행동은 🍽️로)_
 

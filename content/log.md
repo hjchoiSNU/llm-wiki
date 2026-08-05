@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-05 — ingest (신규 1편: 자발적 행동 = self-directed task 연속)
+
+raw/ 전수 대조(280 PDF vs 262 source): 미등록 신규는 1편뿐. 나머지 "미매칭" 파일은 전부 중복 다운로드(` 1.pdf`/`(1)`/`(supp)`/이름변형) 또는 다른 source 파일명으로 이미 등록됨(morales-2020·warlow-2021·roh-2021·guo-2023·edison-2026·walker-2026·gao-2026·godschall-2026 등으로 확인). 페이지 406→407.
+- [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **shMoSeq**로 pose→syllable→**수 초 behavioral state** 3층 위계 분해; dmPFC가 저수준 움직임보다 상태 정체 우선 부호화(행동에 **후행**), affordance 변수 상태별 선택적 강조, 손상 시 드문 상태(grooming·local investigation) 발현↓·장기 시간척도 수축; DLS=syllable 시간척도와 해리 (Neuron 2026, 922–937, Datta lab).
+- 역링크: [[xu-2020-behavioral-state-coding-by]](behavioral state coding 개념 가족)·[[giovanniello-2025-a-dual-pathway-architecture-for]](goal/habit arbitration)·[[concept-need-motivation-pleasure-utility]](self-directed task=목표 프레임). [[index.md|wiki/index.md]] 🧩 인지·행동 + 🧪 방법론(shMoSeq)에 등재.
+
 ## 2026-07-31 — other (개념 추가: inhibitory control demand / trouble resisting)
 
 사용자 요청 개념 페이지 신설(391→392). VR craving provocation에서 craving↑ → 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓)라는 "trouble resisting" 기전.

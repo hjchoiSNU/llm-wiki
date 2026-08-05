@@ -234,4 +234,5 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[meye-2014-feelings-about-food-the]] — need vs hedonic/정서 drive 구분(VTA 회로).
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR Motivation의 다중 욕구 arbitration.
 - [[concept-inhibitory-control-demand]] — Utility(자기통제·미래가치) 성분의 회로 구현: craving-비례 dlPFC·ACC 제어부하(trouble resisting).
+- [[weinreb-2026-spontaneous-behavior-is-a]] — 자발적 행동을 self-directed task(목표)의 연속으로 분해; 섭식을 상태화된 과제로 보고 dmPFC 상태 코딩에 매핑하는 프레임(goal/utility 접점).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

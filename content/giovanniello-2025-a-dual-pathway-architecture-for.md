@@ -37,3 +37,4 @@ year: 2025
 - [[tomiyama-2019-stress-and-obesity]] — stress→비만의 행동·생리 경로(본 회로 모델과 상보).
 - [[concept-food-insecurity]] — FI-stress가 habit 전환을 구동할 수 있는 환경 상류.
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] · [[concept-bed-nucleus-stria-terminalis]] — 급성 스트레스의 인간 BNST→OFC/NAc 보상회로 gating(본 만성 스트레스 habit 모델의 인간·급성 대응).
+- [[weinreb-2026-spontaneous-behavior-is-a]] — dmPFC가 자유행동을 self-directed task 상태로 조직; goal-directed↔habit arbitration과 상보적인 상위 행동제어 축.

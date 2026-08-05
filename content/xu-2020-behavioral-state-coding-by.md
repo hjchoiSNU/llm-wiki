@@ -44,3 +44,4 @@ Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. 시상하부 실방
 - [[liu-2026-granular-motivational-interaction-and]] — granular state ↔ ensemble 부호화(상보).
 - [[concept-melanocortin-system]] · [[concept-mc4r]] — PVH MC4R satiety 맥락.
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 사용자 lab NHP 회로 영상(번역 타깃).
+- [[weinreb-2026-spontaneous-behavior-is-a]] — dmPFC의 **수 초 behavioral state 코딩**(shMoSeq); 여기의 PVH 항상성 상태 코딩과 같은 "행동 상태를 앙상블이 부호화" 개념 가족, 다른 뇌영역·시간척도.
