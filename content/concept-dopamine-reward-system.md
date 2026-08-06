@@ -177,3 +177,6 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[meye-2014-feelings-about-food-the]] — VTA 도파민이 팔라터블·스트레스·큐 섭식을 통합.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 cue-triggered incentive motivation 증폭.
 - [[yang-2026-a-sync-state-in-the]] — VTA DA 아집단의 0.8 Hz "sync state"가 RPE로 환원되지 않는 interoceptive 영양 학습(credit assignment)을 매개 (Neuron 2026).
+- [[fleming-2026-metabolism-and-the-mind]] — 중추 인슐린이 선조체 도파민·보상학습을 조율; 혈당 조절 악화→보상학습률↑(인간).
+- [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — VTA→선조체 도파민의 effort/vigor 동기; T2D에서 effort 편향↓.
+- [[concept-metabolic-interoception]] — 대사신호가 도파민 보상계를 재조정하는 상위 프레임.

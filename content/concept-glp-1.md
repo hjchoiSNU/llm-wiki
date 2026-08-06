@@ -223,4 +223,6 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[concept-astrocyte-neuron-lactate-shuttle]] — 뇌 GLP-1R 작용의 성상교세포 대사 축.
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, Nat Med 2026).
 - [[person-edison-paul]] — GLP-1 신경보호 임상 총괄.
+- [[fleming-2026-metabolism-and-the-mind]] · [[concept-metabolic-interoception]] — 인슐린감수성 개선→보상학습·기분 경로(GLP-1RA 항우울 가설).
+- [[mehrhof-2026-computational-phenotyping-of-effort]] — semaglutide가 T2D의 effort 동기 편향을 (단면) 회복 못 함(반례).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

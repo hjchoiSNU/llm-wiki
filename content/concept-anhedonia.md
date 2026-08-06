@@ -26,3 +26,5 @@ updated: 2026-07-28
 - [[concept-emotional-eating]] — 정서·보상 결손과 섭식.
 - [[concept-dopamine-reward-system]] · [[concept-ghrelin]] — 신경·대사 기질.
 - [[person-kroemer-nils]] — gut-brain×reward×depression 연구자.
+- [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — apathy/anhedonia = effort acceptance bias↓의 계산표지; T2D도 평행하게 blunt.
+- [[fleming-2026-metabolism-and-the-mind]] — 보상학습 이상과 우울·anhedonia의 대사적 연결(계산정신의학).

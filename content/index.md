@@ -87,6 +87,11 @@ title: 뇌과학 LLM Wiki
 - [[concept-inhibitory-control-demand]] — **trouble resisting**: VR 등으로 craving↑ → 저항에 필요한 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓). Hijacked Brain Restraint 축의 정식화·VR/dlPFC DTx 근거 (사용자 lab). _(DTx는 🍽️·⚡와도)_
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_
 
+**대사–인지 계산정신의학 (Nord 랩, Cambridge · metabolic interoception 3부작)**
+- [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 [[concept-interoception|interoception]]의 **당사자 주도 연구 우선순위 10**(mixed-methods PPI, N=72); 심장·호흡 편중을 넘어 위장·근긴장·배고픔 등 multimodal·holistic 접근 강조 (eClinicalMedicine 2025).
+- [[fleming-2026-metabolism-and-the-mind]] — **혈당 조절 악화(iAUC↑)→보상학습률↑(r=0.32)→우울↑**; 대사신호가 음식과 무관한 과제에서도 도파민 보상학습을 형성(중추 인슐린→선조체 도파민) (Biol Psychiatry GOS 2026).
+- [[mehrhof-2026-computational-phenotyping-of-effort]] — **T2D에서 [[concept-effort-based-decision-making|effort]] acceptance bias↓(에너지 절약 shift)**, 신경정신 증상과 평행하나 독립; **semaglutide로 미회복** (Neuropsychopharmacology 2026). _(GLP-1은 🍽️·💡와도)_
+
 _(섭식·동기 행동은 🍽️로)_
 
 ## 🍽️ 섭식 & 에너지 항상성 (Feeding & Energy Homeostasis)
@@ -411,6 +416,8 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
+- [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지
+- [[concept-metabolic-interoception]] — 대사신호(glucose·insulin)→보상학습·동기·기분(energy allostasis·metabolic-mood); 중추 인슐린→선조체 도파민
 
 ## 👤 인물 (People)
 
@@ -439,6 +446,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-wassum-kate]] — BLA 글루타메이트 생체센서·OFC→BLA 투사로 상태의존 reward value 부호화/인출 분해; liking≠wanting 회로. UCLA.
 - [[person-soden-marta]] — LH·VTA 신경펩타이드(neurotensin) 회로와 섭취·동기 행동. University of Washington.
 - [[person-kroemer-nils]] — gut-brain(ghrelin·insulin·vagus)×보상×우울증 인간 통합 연구. Bonn / Tübingen.
+- [[person-nord-camilla]] — 계산정신의학·interoception·대사–정신건강(glucose·insulin→보상/동기/기분); effort-DM 표현형. Cambridge MRC CBU.
 - [[person-lam-tony]] — 소장·신장 영양소(지질·포도당) 감지 gut-brain 축의 분자 기전. Toronto.
 - [[person-baker-david]] — de novo 단백질 설계(RFdiffusion·ProteinMPNN); GPCR 리간드 설계. UW / IPD(노벨화학상 2024).
 

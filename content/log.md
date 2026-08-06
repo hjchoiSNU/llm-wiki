@@ -8,6 +8,15 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-05 — ingest (신규 3편: Nord 랩 metabolic-interoception 3부작)
+
+오늘 추가된 3편(eClinicalMedicine·Biol Psychiatry GOS·Neuropsychopharmacology, 모두 Cambridge Nord 랩) 일괄 ingest. 페이지 407→413(+6: 논문 3 + 개념 2 + 인물 1). 나머지 raw 미매칭은 기존 중복/변형본(재확인).
+- [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 interoception **당사자 주도 연구 우선순위 10**(PPI, N=72); multimodal(위장·근긴장·배고픔) 강조 (2025).
+- [[fleming-2026-metabolism-and-the-mind]] — 혈당조절 악화→**보상학습률↑(r=0.32)→우울↑**; 중추 인슐린→선조체 도파민(인간 RL 계산모델) (2026).
+- [[mehrhof-2026-computational-phenotyping-of-effort]] — T2D **effort acceptance bias↓**(에너지 절약), 정신증상과 독립·**semaglutide 미회복** (2026).
+- 신규 개념: [[concept-effort-based-decision-making]](SV=βR·R−βE·E·acceptance bias·도파민 vigor)·[[concept-metabolic-interoception]](대사→보상/기분·energy allostasis·인슐린→도파민). 신규 인물: [[person-nord-camilla]].
+- 역링크: [[concept-interoception]]·[[concept-dopamine-reward-system]]·[[concept-need-motivation-pleasure-utility]]·[[concept-anhedonia]]·[[hamid-2016-mesolimbic-dopamine-signals-value-work]]·[[concept-glp-1]]·[[person-choi-hyung-jin]]. [[index.md|wiki/index.md]] 🧩(3부작)·💡(개념 2)·👤(Nord) 등재.
+
 ## 2026-08-05 — ingest (신규 1편: 자발적 행동 = self-directed task 연속)
 
 raw/ 전수 대조(280 PDF vs 262 source): 미등록 신규는 1편뿐. 나머지 "미매칭" 파일은 전부 중복 다운로드(` 1.pdf`/`(1)`/`(supp)`/이름변형) 또는 다른 source 파일명으로 이미 등록됨(morales-2020·warlow-2021·roh-2021·guo-2023·edison-2026·walker-2026·gao-2026·godschall-2026 등으로 확인). 페이지 406→407.

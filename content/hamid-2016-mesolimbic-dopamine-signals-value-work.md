@@ -128,4 +128,5 @@ NAc DA는 **temporally discounted future reward (state value V)** 라는 단일 
 - [[concept-need-motivation-pleasure-utility]] — Motivation 성분 정량 표현.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·restrained.
+- [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — "일의 가치" 도파민 신호가 effort 수용편향으로 인간에서 정량화; 대사가 이를 조율.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

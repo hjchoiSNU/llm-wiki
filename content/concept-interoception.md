@@ -119,3 +119,6 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[florsheim-2023-immune-sensing-of-food-allergens]] — 면역→뇌(류코트리엔·GDF15) 내수용 위험 감지.
 - [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 현재·미래 생리상태 예측 부호화(anticipatory interoception 세포 증거).
 - [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽 혐오상태→CeA/BNST 하향제어.
+- [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 interoception의 **당사자 주도 연구 우선순위**; 심장·호흡 편중을 넘어 위장·근긴장·배고픔 등 multimodal 강조.
+- [[concept-metabolic-interoception]] — 저연구된 **대사(glucose·insulin) modality** hub.
+- [[fleming-2026-metabolism-and-the-mind]] — 대사신호→보상학습→기분(metabolic interoception 실증).
