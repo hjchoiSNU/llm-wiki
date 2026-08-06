@@ -136,4 +136,5 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — AgRP preconsummatory suppression의 상류 **억제** 입력 **vDMH^LepR/pDYN GABAergic**(AgRP 100% vs POMC 9% 선택적); 음식 cue 시 활성·가치 부호화; Walker 2026 흥분성 입력의 거울상 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — AgRP를 켜는 상류 **흥분성** 입력 **TRH⁺/PACAP⁺ PVH→AgRP**(글루타메이트+PACAP-PAC1) 동정; AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로 (Nature 2014, Lowell lab).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — AgRP가 hunger뿐 아니라 **bout-by-bout meal dynamics**도 조절: 음식 **맛(taste)**이 매 섭취 bout마다 AgRP를 일시 억제(DMH^LepR 매개)→satiation 앞당김 (Neuron 2024, Knight lab).
+- [[kaduk-2026-glucose-levels-are-associated]] — AgRP가 신호하는 배고픔의 negative valence가 기분으로 번역되는 단계에 **의식적 지각(interoception)**이 매개(인간 CGM+EMA, Kroemer 랩).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

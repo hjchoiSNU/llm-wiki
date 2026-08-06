@@ -19,6 +19,8 @@ updated: 2026-08-05
   - [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 interoception의 **당사자 주도 연구 우선순위**(eClinicalMedicine 2025).
   - [[fleming-2026-metabolism-and-the-mind]] — **혈당 조절→보상학습→우울**(Biol Psychiatry GOS 2026).
   - [[mehrhof-2026-computational-phenotyping-of-effort]] — **T2D effort 동기↓·semaglutide 비회복**(Neuropsychopharmacology 2026).
+  - [[mehrhof-2025-an-interoceptive-model-of-energy]] — **interoceptive energy allostasis 이론 리뷰**(대사–정신 공존의 통합 프레임, Sci Adv 2025).
+  - [[nord-2021-disrupted-dorsal-mid-insula]] — **dorsal mid-insula = transdiagnostic 내수용 손상 locus**(ALE 메타분석, Am J Psychiatry 2021).
 - 공저 네트워크(랩): Hugo Fleming, Sara Z. Mehrhof, Isabel Lau, Annalise Whines, Martyna Stasiak; interoception 측정은 Sarah N. Garfinkel(UCL)와 협업.
 
 ## 관련 페이지

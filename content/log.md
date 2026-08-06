@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-05 — ingest (신규 3편: metabolic-interoception cluster 확장)
+
+앞 배치 직후 추가된 3편(Sci Adv 2025 리뷰·AJP 2021 메타분석·eBioMedicine 2026) ingest. 페이지 413→416(+3, 논문만). 앞서 만든 [[concept-metabolic-interoception]]·[[person-nord-camilla]] 허브로 수렴.
+- [[mehrhof-2025-an-interoceptive-model-of-energy]] — **interoceptive energy allostasis** 이론 리뷰(대사–우울 공존=예측적 에너지 조절 교란; vicious cycle·개인별 진입점). [[concept-metabolic-interoception]]의 1차 출처 (Mehrhof/Fleming/Nord, Sci Adv 2025).
+- [[nord-2021-disrupted-dorsal-mid-insula]] — 정신질환 전반 **transdiagnostic 내수용 손상 locus=좌측 등쪽 중간섬엽**(ALE 메타 33연구); 정서회로·기존치료 영역과 구별 (Nord/Lawson/Dalgleish, Am J Psychiatry 2021).
+- [[kaduk-2026-glucose-levels-are-associated]] — **혈당→기분이 대사상태 의식적 지각으로 매개**(indirect-only, 매개비율 0.68), interoceptive accuracy↑→기분 변동↓ (Kroemer 랩, eBioMedicine 2026).
+- 역링크: [[concept-metabolic-interoception]]·[[concept-interoception]]·[[concept-insula]]·[[concept-npy-agrp-neurons]]·[[person-nord-camilla]]·[[person-kroemer-nils]]·[[fleming-2026-metabolism-and-the-mind]]·[[mehrhof-2026-computational-phenotyping-of-effort]]. [[index.md|wiki/index.md]] 🧩 Nord cluster 확장.
+
 ## 2026-08-05 — ingest (신규 3편: Nord 랩 metabolic-interoception 3부작)
 
 오늘 추가된 3편(eClinicalMedicine·Biol Psychiatry GOS·Neuropsychopharmacology, 모두 Cambridge Nord 랩) 일괄 ingest. 페이지 407→413(+6: 논문 3 + 개념 2 + 인물 1). 나머지 raw 미매칭은 기존 중복/변형본(재확인).

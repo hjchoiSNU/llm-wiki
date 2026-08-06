@@ -18,6 +18,6 @@ Univ. Bonn / Univ. Tübingen의 medical psychology·metabolic psychiatry 연구�
 - **taVNS와 동기**: [[neuser-2020-vagus-nerve-stimulation-boosts|Neuser et al. 2020]] — 경피 미주신경자극이 reward 추동(invigoration)을 food-특이적으로 증가.
 
 ## 관련 페이지
-- [[schulz-2026-blunted-anticipation-but-not]] · [[neuser-2020-vagus-nerve-stimulation-boosts]] — 대표 연구.
+- [[schulz-2026-blunted-anticipation-but-not]] · [[neuser-2020-vagus-nerve-stimulation-boosts]] · [[kaduk-2026-glucose-levels-are-associated]] — 대표 연구(Kaduk 2026: 혈당→기분이 대사상태 의식적 지각으로 매개, CGM+EMA).
 - [[concept-anhedonia]] · [[concept-liking-wanting]] · [[concept-need-motivation-pleasure-utility]] — 이론 축.
 - [[concept-vagus-nerve-stimulation]] · [[concept-ghrelin]] — gut-brain 치료축.

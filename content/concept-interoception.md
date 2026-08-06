@@ -122,3 +122,6 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 interoception의 **당사자 주도 연구 우선순위**; 심장·호흡 편중을 넘어 위장·근긴장·배고픔 등 multimodal 강조.
 - [[concept-metabolic-interoception]] — 저연구된 **대사(glucose·insulin) modality** hub.
 - [[fleming-2026-metabolism-and-the-mind]] — 대사신호→보상학습→기분(metabolic interoception 실증).
+- [[mehrhof-2025-an-interoceptive-model-of-energy]] — interoceptive **energy allostasis** 이론(예측적 내수용으로 대사–정신 공존 설명).
+- [[nord-2021-disrupted-dorsal-mid-insula]] — 내수용 손상의 transdiagnostic 신경 locus(좌측 등쪽 중간섬엽) 메타분석.
+- [[kaduk-2026-glucose-levels-are-associated]] — interoceptive accuracy(대사상태 지각)가 혈당–기분 매개·기분 변동 조절.

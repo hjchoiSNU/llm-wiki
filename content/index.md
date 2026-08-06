@@ -87,10 +87,13 @@ title: 뇌과학 LLM Wiki
 - [[concept-inhibitory-control-demand]] — **trouble resisting**: VR 등으로 craving↑ → 저항에 필요한 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓). Hijacked Brain Restraint 축의 정식화·VR/dlPFC DTx 근거 (사용자 lab). _(DTx는 🍽️·⚡와도)_
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_
 
-**대사–인지 계산정신의학 (Nord 랩, Cambridge · metabolic interoception 3부작)**
+**대사–인지 계산정신의학 (Nord 랩, Cambridge · metabolic interoception cluster)**
+- [[mehrhof-2025-an-interoceptive-model-of-energy]] — **이론 spine**: 대사–우울 공존을 뇌의 예측적 에너지 조절(**interoceptive energy allostasis**) 교란으로 재개념화; 대사↔인지↔행동 vicious cycle·개인별 개입 진입점 (Sci Adv 2025 리뷰). → [[concept-metabolic-interoception]].
 - [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 [[concept-interoception|interoception]]의 **당사자 주도 연구 우선순위 10**(mixed-methods PPI, N=72); 심장·호흡 편중을 넘어 위장·근긴장·배고픔 등 multimodal·holistic 접근 강조 (eClinicalMedicine 2025).
 - [[fleming-2026-metabolism-and-the-mind]] — **혈당 조절 악화(iAUC↑)→보상학습률↑(r=0.32)→우울↑**; 대사신호가 음식과 무관한 과제에서도 도파민 보상학습을 형성(중추 인슐린→선조체 도파민) (Biol Psychiatry GOS 2026).
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — **T2D에서 [[concept-effort-based-decision-making|effort]] acceptance bias↓(에너지 절약 shift)**, 신경정신 증상과 평행하나 독립; **semaglutide로 미회복** (Neuropsychopharmacology 2026). _(GLP-1은 🍽️·💡와도)_
+- [[nord-2021-disrupted-dorsal-mid-insula]] — 정신질환 전반의 **transdiagnostic 내수용 손상 locus = 좌측 등쪽 중간섬엽**(ALE 메타분석, 33연구); 내수용 prediction error 후보·신규 치료 표적 (Am J Psychiatry 2021).
+- [[kaduk-2026-glucose-levels-are-associated]] — **혈당→기분이 배고픔/포만의 의식적 지각으로 매개**(indirect-only); interoceptive accuracy↑→기분 변동↓ (eBioMedicine 2026, Kroemer 랩). _(hunger valence는 🍽️와도)_
 
 _(섭식·동기 행동은 🍽️로)_
 

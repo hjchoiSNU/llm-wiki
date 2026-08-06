@@ -41,6 +41,8 @@ year: 2026
 
 ## 관련 페이지
 - [[concept-metabolic-interoception]] — 이 논문의 핵심 프레임(대사신호→보상·기분) hub.
+- [[mehrhof-2025-an-interoceptive-model-of-energy]] — 같은 랩; 본 실증을 담는 energy-allostasis 이론 리뷰.
+- [[kaduk-2026-glucose-levels-are-associated]] — 같은 CGM/혈당 방법; 혈당→기분이 대사상태 의식적 지각으로 매개(상보).
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — 같은 Nord 랩 자매 논문(T2D의 effort 동기 저하); 대사–동기의 다른 축.
 - [[hickman-2025-breaking-through-the-mind-body]] — 같은 Nord 랩; interoception 당사자 우선순위(정성적 축).
 - [[person-nord-camilla]] — 교신 senior; 계산정신의학·metabolic-mental health.

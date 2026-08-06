@@ -44,6 +44,7 @@ year: 2026
 ## 관련 페이지
 - [[concept-effort-based-decision-making]] — 이 논문의 핵심 패러다임·계산 파라미터(acceptance bias) hub.
 - [[concept-metabolic-interoception]] — 대사→동기/인지 shift(energy allostasis) 프레임.
+- [[mehrhof-2025-an-interoceptive-model-of-energy]] — 같은 제1저자; 본 결과를 담는 energy-allostasis 이론 리뷰.
 - [[fleming-2026-metabolism-and-the-mind]] — 같은 Nord 랩; 대사→보상학습(도파민)의 자매 축.
 - [[hickman-2025-breaking-through-the-mind-body]] — 같은 Nord 랩; interoception 당사자 우선순위.
 - [[person-nord-camilla]] — 교신 senior; 계산정신의학·동기·metabolic-mental health.
