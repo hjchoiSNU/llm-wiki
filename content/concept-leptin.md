@@ -80,4 +80,5 @@ updated: 2026-05-25
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH LepRb^Glp1r이 leptin 식이억제의 핵심 수렴점(최고 Lepr 발현).
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경이 LH Lepr 하향조절(국소 leptin 저항)로 폭식 유발.
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA^LepR 등 leptin 반응 세포타입 종합.
+- [[zhao-2026-direct-interoceptive-input-to-the]] — leptin의 **시상하부 밖(섬엽 피질) 작용점**: INS^LepR가 지방량 신호를 직접 감지해 **학습된 섭식·동기** 조절(항상성 섭식엔 불필요).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

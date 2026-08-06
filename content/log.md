@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-05 — ingest (신규 1편: 섬엽 LepR 내수용 섭식 회로)
+
+추가된 1편 ingest. 페이지 416→417.
+- [[zhao-2026-direct-interoceptive-input-to-the]] — **섬엽(insula)-claustrum 심부층 LepR⁺(Car3⁺ glutamatergic) 뉴런(INS^LepR)이 렙틴을 직접 감지**하는 내수용 검출기; 섬엽내 렙틴 주입·광유전 활성이 **학습된 operant 섭식·동기(PR breakpoint)↓·체중↓**(항상성 섭식엔 불필요), Ca²⁺ 이미징서 섭식 bout·hunger상태 부호화(Cluster 4=AgRP 유사 섭취직전↑·섭취시↓), BLA 투사 (Stern lab, MPFI, bioRxiv 2026).
+- 역링크: [[concept-insula]]·[[concept-leptin]]·[[concept-metabolic-interoception]]·[[concept-npy-agrp-neurons]]. [[index.md|wiki/index.md]] 🍽️ 회로·세포(섬엽 예측층)에 등재.
+
 ## 2026-08-05 — ingest (신규 3편: metabolic-interoception cluster 확장)
 
 앞 배치 직후 추가된 3편(Sci Adv 2025 리뷰·AJP 2021 메타분석·eBioMedicine 2026) ingest. 페이지 413→416(+3, 논문만). 앞서 만든 [[concept-metabolic-interoception]]·[[person-nord-camilla]] 허브로 수렴.

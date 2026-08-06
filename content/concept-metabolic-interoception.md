@@ -33,6 +33,7 @@ updated: 2026-08-05
 - [[fleming-2026-metabolism-and-the-mind]] — 혈당 조절→보상학습→우울(인간 계산모델, 핵심 실증).
 - [[kaduk-2026-glucose-levels-are-associated]] — 혈당→기분이 **대사상태 의식적 지각으로 매개**; interoceptive accuracy↑→기분 변동↓ (Kroemer 랩).
 - [[nord-2021-disrupted-dorsal-mid-insula]] — 내수용 손상의 transdiagnostic 신경 locus(dorsal mid-insula).
+- [[zhao-2026-direct-interoceptive-input-to-the]] — 지방량(렙틴) 대사신호가 **섬엽 피질에 직접** 들어오는 내수용 경로(INS^LepR 세포 기반); 학습된 섭식 조절.
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — T2D→effort acceptance bias↓; energy conservation shift.
 - [[hickman-2025-breaking-through-the-mind-body]] — interoception 당사자 우선순위(대사·배고픔 modality 강조).
 - [[concept-interoception]] — 상위 개념; 대사는 저연구된 modality.

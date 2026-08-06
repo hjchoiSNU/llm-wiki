@@ -43,3 +43,4 @@ updated: 2026-06-01
 - [[livneh-2020-estimation-of-current-and-future]] — 섬엽이 현재·미래 생리상태를 이중 부호화(insular gating 원전).
 - [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽의 혐오상태 처리·CeA/BNST 하향제어.
 - [[nord-2021-disrupted-dorsal-mid-insula]] — **좌측 등쪽 중간섬엽(dysgranular)이 정신질환 전반의 transdiagnostic 내수용 손상 locus**(ALE 메타분석); 내수용 prediction error 후보·신규 치료 표적.
+- [[zhao-2026-direct-interoceptive-input-to-the]] — **섬엽 심부층 LepR⁺(Car3⁺ glutamatergic) 뉴런이 렙틴을 직접 감지**해 학습된 섭식·동기·체중 조절(항상성 섭식엔 불필요); 렙틴=피질 직접 내수용 입력 (Stern lab, bioRxiv 2026).
