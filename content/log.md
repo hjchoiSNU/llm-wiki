@@ -8,10 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
-## 2026-08-06 — other (SNU 그랜드퀘스트 탐색연구 제안 초안)
+## 2026-08-06 — other (비공개 작업)
 
-"삶의 의지를 분자 수준에서" 그랜드퀘스트 탐색연구 지원용 **연구배경·질문 대안** 종합 페이지 신규 작성.
-- [[overview-will-to-live-grandquest]] — 쇼펜하우어 "의지(Wille)" 연속체를 발판으로 쥐(생존)→원숭이→인간(고위) 계통 사다리에서 보존 도파민 substrate와 인간 고유 층위를 분리 해부. 5인 팀(성지혜·최형진·김형·신정환·차지욱) 역할·핵심질문+대안 4축. 링크: [[concept-dopamine-reward-system]]·[[concept-need-motivation-pleasure-utility]]·[[kim-2024-unified-theoretical-framework-underlying-regulation]]·[[ha-2024-hypothalamic-neuronal-activation-non-human]]. (index.md 등재는 사용자 확인 대기.)
+비공개 연구기획 작업. 위키 페이지로 보관하지 않음(로컬 문서로만 유지).
 
 ## 2026-08-05 — ingest (신규 1편: 섬엽 LepR 내수용 섭식 회로)
 
