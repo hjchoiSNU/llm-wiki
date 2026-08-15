@@ -46,3 +46,4 @@ year: 2026
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — direct/indirect dual-pathway가 행동을 양방향 제어한다는 공통 아키텍처.
 - [[redish-2016-the-computational-complexity-of-valuation]] — action sequence·내부 진행도 추적을 계산론적 valuation 틀에서 조명.
 - [[concept-dopamine-reward-system]] — 도파민이 dSPN↑/iSPN↓로 net BG 출력·목표접근 velocity를 편향한다는 discussion 연결.
+- [[concept-computational-ethology]] — 본 논문의 DeepLabCut kinematics 측정이 속한 도구 계열 hub; 이산 press와 연속 운동학을 함께 다루는 계측 문제.

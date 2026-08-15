@@ -180,3 +180,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[fleming-2026-metabolism-and-the-mind]] — 중추 인슐린이 선조체 도파민·보상학습을 조율; 혈당 조절 악화→보상학습률↑(인간).
 - [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — VTA→선조체 도파민의 effort/vigor 동기; T2D에서 effort 편향↓.
 - [[concept-metabolic-interoception]] — 대사신호가 도파민 보상계를 재조정하는 상위 프레임.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — **부호 대비**: 원거리 보상으로 접근할수록 도파민 ramp는 상승, AgRP ramp는 하강. 해소되는 hunger와 다가오는 보상이 거울상 신호를 이룸 (bioRxiv 2026).

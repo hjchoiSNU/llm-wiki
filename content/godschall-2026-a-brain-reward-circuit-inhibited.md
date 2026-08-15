@@ -102,3 +102,4 @@ Glp1r-Cre 마우스에 부위별 human GLP1R 발현 후 danuglipron:
 - [[concept-area-postrema]] — AP GLP1R hub.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — 인간에서 liking 불변→wanting 회로(CeA→VTA→NAc DA)와 정합.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(종특이성 번역 주의).
+- [[concept-computational-ethology]] — 본 논문의 SLEAP+Keypoint-MoSeq 91-syllable 분석이 속한 행동 자동 정량화 도구 계열 hub; 약물 효과를 총 섭취량이 아니라 **행동 표현형 공간**에 투사한 사례.

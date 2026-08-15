@@ -136,3 +136,4 @@ journal: "Neuron 112:1–13"
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-choi-hyung-jin]] — 사용자 lab.
 - [[mueller-2025-privi-towards-general-purpose-video]] — NHP 자유행동 영상 자동 정량화 CV 도구(방법 인프라).
+- [[concept-computational-ethology]] — 본 논문의 DeepLabCut 정량화가 속한 도구 계열 hub; [[liu-2025-castle-a-training-free-foundation-model|CASTLE]] 같은 label-free 대안의 적용 후보.

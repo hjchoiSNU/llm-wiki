@@ -237,4 +237,6 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자발적 행동을 self-directed task(목표)의 연속으로 분해; 섭식을 상태화된 과제로 보고 dmPFC 상태 코딩에 매핑하는 프레임(goal/utility 접점).
 - [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — Motivation/Utility(effort·미래가치) 축의 인간 계산 정량화; T2D에서 대사적 손상.
 - [[fleming-2026-metabolism-and-the-mind]] · [[concept-metabolic-interoception]] — Need(에너지 상태)→보상학습/기분 다리.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — Need 축(AgRP)에 **공간 예측** 차원 추가: 먹이까지의 학습된 거리에 비례한 양방향 ramp.
+- [[concept-computational-ethology]] · [[liu-2025-castle-a-training-free-foundation-model]] — N/M/P/U를 행동으로 분해하려면 필요한 초 단위 미세행동 라벨을 사람 손 없이 얻는 계측 계열.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -114,4 +114,5 @@ GCaMP6s kernel 합성곱 후 raw photometry trace와 비교. AIC = N·ln(RSS/N) 
 - [[seiler-2026-dual-activation-of-mc3r-and]] — AgRP(=Need encoder) 하류 MC3R/MC4R 수용체 약리; dual-agonism NHP 감량 (Nat Commun 2026).
 - [[person-choi-hyung-jin]] — 교신저자 (사용자 본인).
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR=Motivation을 다중 욕구 arbitration까지 확장.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — Predicted Deficit(Need)의 **공간 축**: 접근=predicted gain→AgRP↓, 이탈=predicted loss→AgRP↑. Need가 시간적 예측뿐 아니라 "먹이까지의 학습된 거리"로도 갱신됨을 시사 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

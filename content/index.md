@@ -76,6 +76,8 @@ title: 뇌과학 LLM Wiki
 - [[xu-2020-behavioral-state-coding-by]] — CaRMA imaging(칼슘+RNA-FISH 동시); PVH grouped-ensemble coding (Science 2020, Sternson). _(섭식 회로 내용은 🍽️에도)_
 - [[zong-2022-large-scale-two-photon-calcium]] — MINI2P: <3 g·0.7 mm 케이블 소형 2-광자 현미경으로 자유행동 마우스 1,000개+(스티칭 10,000개+) 뉴런 다중평면 이미징; VC/MEC/CA1 공간튜닝 보존·오픈소스 (Cell 2022, Moser lab). 자연주의 섭식/보상 회로 기록 인프라.
 - [[weinreb-2026-spontaneous-behavior-is-a]] — **shMoSeq**: MoSeq syllable을 위계 HHMM으로 묶어 pose(ms)→syllable(sub-s)→**behavioral state(수 초)** 3층 분해; 자유행동을 task 상태로 세그먼트하는 python 도구 (Neuron 2026, Datta lab). _(dmPFC 상태 코딩 본문은 🧩에)_
+- [[concept-computational-ethology]] — **행동 자동 정량화 hub**: 지도 keypoint(DeepLabCut·SLEAP) → 비지도 syllable(MoSeq·B-SOiD) → 파운데이션 모델(PriVi·CASTLE) 세대별 지형; 인식 대 발견·라벨 타당성(신경 디코딩 검증)·시간 위계·폐루프 쟁점 정리.
+- [[liu-2025-castle-a-training-free-foundation-model]] — **CASTLE**: SAM(분할)+DeAOT(추적)+DINOv2(잠재특징)를 **재학습·라벨 없이** 연결, ROI focused latent를 UMAP→DBSCAN 위계 군집해 행동 클래스 발견. 마우스 F1 0.90·신경 디코딩 DLC와 동등·전문가가 놓친 섭식 하위행동 발견·마우스/초파리/선충 이전 (bioRxiv 2025, Yu-Wei Wu lab).
 
 ## 🧩 인지 & 행동 (Cognition & Behavior)
 
@@ -125,6 +127,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 골격 병용요법(GIP·glucagon·PYY·leptin·CCK·amylin·naltrexone·gastrin) 전임상·임상 종합 editorial; tirzepatide·triagonist 선행 비전 (JOMES 2017, 사용자 lab).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 작용 종합 리뷰: 세포 내 cAMP-PKA 신호·부위별(AP/NTS/DMH/ARC) 활성·약물 발전사·비만 너머 응용 (APEM 2025, 사용자 lab).
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need + LH LepR=Motivation (Sci Adv 2024, 사용자 lab).
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — 자유 foraging에서 **ARC^AgRP 활성이 "먹이까지의 공간 거리"로 최적 설명**(접근↓·이탈↑ 양방향 ramp); 단식 상태 의존·학습으로 획득·기억 회상 중 유지(시각 의존)·냄새/현저성으로 설명 불가. Need의 **공간 예측 축**; 제안 경로 해마→LS→LH→DMH→AgRP (bioRxiv 2026, Yapici·Oliva·Fernandez-Ruiz lab).
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — LH LepR seeking·consummatory subpopulation (Nat Comm 2023, 사용자 lab).
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP(macaque) LHA GABAergic chemogenetic 활성화가 palatable food 한정 goal-directed 식이↑; GABA PET·7T MRS·rs-fMRI 검증; rodent→human 번역 다리 (Neuron 2024, 사용자 lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 매개 (bioRxiv 2025, Knight lab).
@@ -404,7 +407,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-food-insecurity]] · [[concept-food-environment-access]] · [[concept-food-addiction]]
 
 ### 발달 / atlas / 방법론
-- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]]
+- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]]
 
 ### 지질 감지 / 수용체 / 신경펩타이드
 - [[concept-neurotensin]] — LH·중뇌 Nts 펩타이드(섭식·음수·각성·운동·보상)

@@ -73,3 +73,4 @@ rostral zona incerta의 GABA성 뉴런(rZI^GABA)과 이를 구동하는 mPFC→r
 - [[concept-digital-therapeutics]] · [[concept-transcranial-electrical-stimulation]] · [[concept-deep-brain-stimulation]] — mPFC-rZI biomarker 기반 신경조절 표적.
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 반복 노출·역경이 빚는 binge-like eating 회로와 대비(LH^Lepr→vlPAG vs rZI).
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 스트레스가 goal→habit으로 전환; 지속 attractor·강박 자동성과 연결.
+- [[concept-computational-ethology]] — 본 논문의 DeepLabCut 종단 행동 추적이 속한 도구 계열 hub; binge 세션의 미세행동 분해에 label-free 대안 여지.

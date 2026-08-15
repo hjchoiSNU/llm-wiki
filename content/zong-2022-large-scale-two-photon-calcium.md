@@ -36,3 +36,4 @@ year: 2022
 - [[concept-lateral-hypothalamus]] · [[concept-nucleus-accumbens]] — 자연주의 섭식/보상 회로 기록 표적.
 - [[concept-spatial-transcriptomics]] — 분자 아틀라스와의 결합 축.
 - [[liu-2026-granular-motivational-interaction-and]] · [[concept-consumption-vigor]] — 자유행동 섭식 dynamics 측정 응용.
+- [[liu-2025-castle-a-training-free-foundation-model]] · [[concept-computational-ethology]] — 행동 축 인프라. 저지연 자동 행동 라벨 + 대규모 신경 이미징 결합이 폐루프(state-contingent) 실험의 전제.

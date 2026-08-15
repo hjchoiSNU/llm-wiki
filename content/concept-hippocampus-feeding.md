@@ -37,3 +37,4 @@ updated: 2026-06-01
 - [[walker-2026-a-hypothalamic-circuit-for]] — 마우스 **복측 해마(CA1/ProS-v)가 PVH^Sim2의 최상위 입력처**(ProS-v→PVH^Sim2 특이); 맥락 cue→hunger(AgRP) 경로 — 해마-섭식 축을 시상하부 hunger 회로로 직접 연결 (Neuron 2026, Lowell lab).
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc가 공간 식욕기억을 매개(마우스).
 - [[azevedo-2019-a-role-of-drd2]] — 해마 hilus Drd2(LEC→해마→중격)가 맥락 의존 섭식 조절.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP의 먹이-거리 신호가 **공간 기억 회상**에 연동(암 조건에서 행동 선호·거리 신호 동반 소실); 저자 제안 경로 **해마→LS→LH→DMH→AgRP**가 해마-섭식 축을 hunger 회로에 직접 연결 (bioRxiv 2026, 미검증 가설).

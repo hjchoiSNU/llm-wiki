@@ -83,4 +83,5 @@ PVH의 **Sim2 발현 흥분성 뉴런**(Trh⁺/Adcyap1⁺)이 ARC^AgRP hunger �
 - [[liu-2026-granular-motivational-interaction-and]] — ARC^AgRP=feeding preparation phase hub; PVH^Sim2가 그 preparation을 예측 cue로 trigger.
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — gut-brain feedback 종합. 본 논문은 PVH^Sim2가 **gut feedback과 분리**된 외부 예측 채널임을 보여 대비.
 - [[person-lowell-bradford]] — 교신저자 인물 hub.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — 같은 "예측기 AgRP" 그림의 **공간 축**. 본 논문이 지목한 복측 해마 입력과 Gruzdeva가 제안한 해마→LS→LH→DMH→AgRP 가설이 수렴 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(예측적 Need 축).

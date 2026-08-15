@@ -77,3 +77,6 @@ year: 2026
 - [[mueller-2025-privi-towards-general-purpose-video]] — NHP 자연주의 행동 정량화 foundation model; 자유행동을 상태로 분해하는 도구 계열(방법 인프라).
 - [[zong-2022-large-scale-two-photon-calcium]] — 자유행동 마우스 대규모 자연주의 이미징(MINI2P); 상태-신경 매핑 확장 인프라.
 - [[concept-dopamine-reward-system]] — self-directed task·보상 추구의 회로 기반; 상태별 affordance 강조와 도파민 보상 학습의 접점.
+- [[liu-2025-castle-a-training-free-foundation-model]] — CASTLE: keypoint 없이 시각 파운데이션 모델 잠재특징으로 행동 클래스를 위계 군집. 위계적 분해라는 목표는 공유하되 입력(깊이 pose vs 시각 latent)과 층위(syllable 규모 vs 수 초 state)가 다름.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — foraging 궤적을 toward/away run으로 분해해 AgRP 신호와 정렬; 자유행동을 상태·세그먼트로 나눠 회로에 매핑하는 같은 계열.
+- [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub; shMoSeq의 계보상 위치.

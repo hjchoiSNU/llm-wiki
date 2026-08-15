@@ -8,6 +8,24 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-15 — ingest (신규 1편: CASTLE 행동 자동 정량화) + 백로그 정리(Gruzdeva 2026 등재)
+
+**신규 ingest**: [[liu-2025-castle-a-training-free-foundation-model]] — **CASTLE**(Combined Approach for Segmentation and Tracking with Latent Extraction). SAM(분할)+DeAOT(추적)+DINOv2(768-D 시각 잠재)를 **재학습·라벨 없이** 연결해 ROI별 "focused visual latent"를 만들고 UMAP→DBSCAN 위계 군집으로 행동 클래스를 발견 (bioRxiv 10.1101/2025.08.22.671685, posted 2025-08-27, Yu-Wei Wu lab / Academia Sinica).
+- 핵심: 마우스 reach-and-grasp weighted F1 **0.9015**; 앞발 위치 신경 디코딩 R² **0.8554 vs DLC 0.8524**(차이 없음, p=0.579)이나 DLC 대비 정지구간 jitter 유의 감소; **CASTLE 분류가 전문가 라벨보다 신경 디코딩 정확도 우수**(grabbing·at mouth, p<0.001).
+- 발견: 전문가가 놓친 섭식 하위행동 **"food approaching mouth"·"food releasing at mouth"** 자동 분리. OFT 5클래스(grooming/supported·unsupported rearing/walking/immobility)로 MPTP·6-OHDA 파킨슨 표현형 검출. 초파리 7클래스·선충 5 locomotor state(광유전 pirouette 전환 재현) — 모두 최적화 없이.
+- 기술 트릭: DINOv2 잠재가 **회전에 민감** → 15°씩 **24회전 평균**으로 방향 중립화(대가: 추론시간↑). 한계: preprint·단일개체 검증·mask seeding 필요·DINOv2 편향 상속·장거리 시퀀스 취약.
+- ⚠️ `raw/` 파일명은 "2026"이나 preprint 게시연도는 **2025** → 페이지·파일명은 2025로 표기.
+
+**새 개념 페이지**: [[concept-computational-ethology]] — 행동 자동 정량화 hub. 1세대 지도 keypoint(DeepLabCut·SLEAP·Lightning Pose·AlphaTracker) → 2세대 비지도 syllable(MoSeq·B-SOiD·Keypoint-MoSeq·shMoSeq) → 3세대 VFM(PriVi·CASTLE) 세대별 지형 + 방법론 쟁점 5가지(인식 대 발견 / 신경 디코딩을 라벨 타당성 심판으로 / 시간 위계 / 운동학과 시각 잠재의 상보성 / 폐루프 state-contingent 자극).
+
+**백로그 정리**: [[gruzdeva-2026-hunger-neurons-track-available-food]] 페이지가 본문만 있고 index·역링크·log 미반영 상태였음 → 전부 보강. AgRP가 **먹이까지의 학습된 공간 거리**를 부호화(접근↓·이탈↑ 양방향 ramp, 단식 의존, 기억 회상 중 유지).
+
+**역링크 추가(11)**: [[mueller-2025-privi-towards-general-purpose-video]]·[[weinreb-2026-spontaneous-behavior-is-a]]·[[liu-2026-granular-motivational-interaction-and]]·[[godschall-2026-a-brain-reward-circuit-inhibited]]·[[zong-2022-large-scale-two-photon-calcium]]·[[wang-2026-multimodal-alignments-of-in]]·[[ha-2024-hypothalamic-neuronal-activation-non-human]]·[[leow-2026-a-cortical-hypothalamic-neural]]·[[fallon-2026-striatal-pathways-dissociably-control-action]]·[[concept-appetitive-consummatory-phases]]·[[concept-need-motivation-pleasure-utility]] (CASTLE/ethology hub 방향). Gruzdeva 방향: [[concept-npy-agrp-neurons]]·[[kim-2024-normative-framework-dissociates-need]]·[[walker-2026-a-hypothalamic-circuit-for]]·[[concept-hippocampus-feeding]]·[[concept-dopamine-reward-system]].
+
+[[index.md|wiki/index.md]] 🧪 방법론(CASTLE·ethology hub)·🍽️ 회로·세포(Gruzdeva)·💡 개념 발달/atlas/방법론에 등재.
+
+**미처리 확인**: 오늘 `raw/`에 추가된 나머지 8건은 8/5 ingest분의 중복 사본(`… 1.pdf`)이며, `2025 PNAS Reward prediction…orexin…`도 [[dong-2026-reward-prediction-is-encoded-by]]로 이미 등재된 논문의 중복 파일 — 신규 ingest 없음.
+
 ## 2026-08-06 — other (비공개 작업)
 
 비공개 연구기획 작업. 위키 페이지로 보관하지 않음(로컬 문서로만 유지).

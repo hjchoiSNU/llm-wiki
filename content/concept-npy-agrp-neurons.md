@@ -138,4 +138,5 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — AgRP가 hunger뿐 아니라 **bout-by-bout meal dynamics**도 조절: 음식 **맛(taste)**이 매 섭취 bout마다 AgRP를 일시 억제(DMH^LepR 매개)→satiation 앞당김 (Neuron 2024, Knight lab).
 - [[kaduk-2026-glucose-levels-are-associated]] — AgRP가 신호하는 배고픔의 negative valence가 기분으로 번역되는 단계에 **의식적 지각(interoception)**이 매개(인간 CGM+EMA, Kroemer 랩).
 - [[zhao-2026-direct-interoceptive-input-to-the]] — 섬엽 INS^LepR의 한 클러스터가 **섭취 직전↑·섭취 시↓**(AgRP와 유사)하며 포만상태 추적; AgRP hunger 회로의 피질 대응물.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP가 부호화하는 변수 목록에 **학습된 공간 거리**를 추가: 자유 foraging에서 먹이 접근 시 하강·이탈 시 상승하는 양방향 ramp, 단식 상태·학습 이후에만 출현하며 기억 회상 중에도 유지 (bioRxiv 2026, Yapici lab).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

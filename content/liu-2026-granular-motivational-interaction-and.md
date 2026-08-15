@@ -104,4 +104,6 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — mPFC→LH→VTA 행동전환(Chen·Korotkova 2024 인용)·LH need-balancing 공유.
 - [[stuber-2025-the-neurobiology-of-overeating]] — NAc→LH gate·LH^VGLUT2 brake·비만 가소성 인용(ref166).
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — gut→brain satiation 회로 보완.
+- [[liu-2025-castle-a-training-free-foundation-model]] — 본 논문이 요구하는 granularity를 **라벨 없이** 얻는 계측 수단; reach-and-grasp에서 "food approaching mouth"·"food releasing at mouth" 하위행동을 자동 분리한 실증.
+- [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub(BBQSM이 전제하는 AI pose/behavior 분석의 지형).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
