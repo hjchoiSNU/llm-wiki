@@ -103,4 +103,5 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[liu-2025-gipr-ab-glp-1-peptide]] — 궁상핵 GIPR·식욕조절.
 - [[cao-2024-hunting-for-heroes-brain]] — DMH→ARC AgRP 하류.
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC AgRP의 병렬·중복 투사(aBNST·PVH·LHA 각각 섭식-충분) 배선 원리 (Cell 2013, Sternson lab).
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-medial-preoptic-area]] — ARC AgRP 투사 목록의 **비-섭식 표적**: GABA·NPY로 MPOA를 억제해 양육을 끄고 새끼 공격을 유발. 수유 중 ARC tuberoinfundibular 도파민 뉴런은 프로락틴에 의해 **met-enkephalin으로 신경전달물질 전환** (NRN 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

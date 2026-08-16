@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 392 (+ index.md, log.md)
-- 마지막 갱신: 2026-07-31
+- 총 페이지: 424 (+ index.md, log.md)
+- 마지막 갱신: 2026-08-16
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -28,6 +28,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-dorsomedial-hypothalamus]] — GLP-1R cognitive satiation (Park 2025) + circadian Trh→AgRP.
 - [[concept-lateral-hypothalamus]] — Motivation 통합 hub + Korotkova arbitration framework + LH GABAergic→VTA water reward.
 - [[concept-zona-incerta]] — LH 인접 orexigenic 노드. rostral ZI GABA=강박 섭식(처벌-저항)·mPFC top-down·VTA 투사. 인간 rZI-mPFC FC=비만/binge biomarker.
+- [[concept-medial-preoptic-area]] — **MPOA=양육 개시·조직 허브**(Gal·Esr1·Calcr 모자이크). ★ 섭식과 직접 경쟁: MPOA 활성→섭식↓, AgRP/NPY→MPOA 억제→새끼 방치·공격. BNST^Esr1과 상호억제 스위치.
 
 ### 기타 회로
 - [[concept-bed-nucleus-stria-terminalis]] — 확장편도 stress↔reward 허브. "valence surveillance"·BNST→LH GABA feeding. 인간 7T DCM stress 매핑 (Guerrero-Hreins 2026).
@@ -88,6 +89,9 @@ title: 뇌과학 LLM Wiki
 - [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — **cue labeling**(cue를 단어로 라벨링 = affect labeling 응용)이 흡연 갈망·precuneus(DMN) 활성↓, 중년·고령에서 baseline까지 회복; 저비용·무부작용 인지 개입 (Neuropsychopharmacology 2026). 개념 [[concept-cue-reactivity]]·[[concept-affect-labeling]]. _(craving 조절은 ⚡ 신경조절·🍽️ DTx와도)_
 - [[concept-inhibitory-control-demand]] — **trouble resisting**: VR 등으로 craving↑ → 저항에 필요한 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓). Hijacked Brain Restraint 축의 정식화·VR/dlPFC DTx 근거 (사용자 lab). _(DTx는 🍽️·⚡와도)_
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — ★ **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 DLS의 eCB-LTP**가 담당. 새 행동과제 STA test(끈끈이 테이프 회피, 보상·처벌 없음)·Neuropixels·plasticitymeter 모델·GRAB_eCB2.0·CB1R/D2R 조건부 KO로 인과 규명. **짧은 경험=eCB-LTP / 긴·반복 경험=NMDA-LTP** 분업 (Nat Neurosci 2026, Venance lab). 개념 [[concept-one-shot-learning]]. _(엔도카나비노이드는 💡·🍽️와도)_
+- [[concept-one-shot-learning]] — 단일시행 학습과 그 비고전적 가소성 규칙(선조체 eCB-LTP·해마 BTSP·STDP 한계) 개념 hub. CTA·flavor-nutrient 같은 one-trial 식이 학습으로의 이식 가설.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ 포유류 **양육 회로** 종합: 다중감각 새끼신호 평가 → MPOA(pro)↔PeFA^Ucn3/BNST^Esr1(anti) → VTA-NAc 강화·PAG 운동. 발달(P14–15 microglia pruning)·감작·관찰학습·임신 호르몬으로 **끊임없이 재구성되는 가소적 시스템**. ★ **배고픔↔돌봄 경쟁**(AgRP/NPY→MPOA 억제) (NRN 2026, Kohl lab). 개념 [[concept-medial-preoptic-area]]. _(🧠 시상하부 핵·🍽️ AgRP와도)_
 
 **대사–인지 계산정신의학 (Nord 랩, Cambridge · metabolic interoception cluster)**
 - [[mehrhof-2025-an-interoceptive-model-of-energy]] — **이론 spine**: 대사–우울 공존을 뇌의 예측적 에너지 조절(**interoceptive energy allostasis**) 교란으로 재개념화; 대사↔인지↔행동 vicious cycle·개인별 개입 진입점 (Sci Adv 2025 리뷰). → [[concept-metabolic-interoception]].
@@ -233,6 +237,10 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 ### 발달 / DOHaD
 - [[freire-agulleiro-2026-early-life-programming-of]] — 모체 비만 자손 시상하부 회로 programming (Quarta lab).
 - [[concept-maternal-programming-hypothalamus]] — 통합 개념.
+- [[concept-early-life-adversity]] — 산후 stress programming 축(회로 저장 + 크로마틴 저장 2층).
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — ★ ELS(P10–17)가 성체 **VTA 히스톤 지형을 허용적으로 재편**(변화 변형의 75%가 permissive); **SETD7·H3K4me1**이 성체 스트레스에 대한 전사 반응·도파민 뉴런 흥분성(I_h)·사회회피에 **필요하고 충분**. Setd7-OE는 ELS 없이 취약성 재현, ELS 후 Setd7-KD는 resilient 0%→33%. **기저는 정상, 2차 hit에서만 발현** (Neuron 2026, Peña·Creed lab). 개념 [[concept-epigenetic-priming]]. _(VTA 도파민은 🎯에도)_
+- [[concept-epigenetic-priming]] — 발달기 경험이 허용적 크로마틴(H3K4me1·SETD7)으로 저장돼 미래 자극 반응성을 증폭한다는 개념 hub; 히스톤 질량분석·epigenome editing 방법론 포함.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 모체 자신의 회로가 임신·출산·수유 호르몬으로 재편되는 축(자손 programming의 상류 조건). _(본문은 🧩에)_
 
 ## ⚡ 신경조절 치료 (Neuromodulation Therapy)
 
@@ -379,7 +387,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-ghrelin]] · [[concept-leptin]] · [[concept-cck]] · [[concept-glp-1]] · [[concept-pyy-3-36]]
 
 ### 회로 / 세포
-- [[concept-arcuate-nucleus]] · [[concept-paraventricular-nucleus]] · [[concept-ventromedial-hypothalamus]] · [[concept-dorsomedial-hypothalamus]] · [[concept-lateral-hypothalamus]]
+- [[concept-arcuate-nucleus]] · [[concept-paraventricular-nucleus]] · [[concept-ventromedial-hypothalamus]] · [[concept-dorsomedial-hypothalamus]] · [[concept-lateral-hypothalamus]] · [[concept-medial-preoptic-area]]
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-ghost-pomc-neurons]]
 - [[concept-vagal-afferent-neurons]] · [[concept-dorsal-vagal-complex]] · [[concept-enteroendocrine-cells]] · [[concept-tanycytes]]
 - [[concept-dopamine-reward-system]] · [[concept-basolateral-amygdala]] · [[concept-central-amygdala-glp1r]] · [[concept-bed-nucleus-stria-terminalis]]
@@ -390,12 +398,14 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]]
-- [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]]
+- [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]] — eCB는 **말초 지방 섭취 + 중추 eCB-LTP 학습 규칙 + NAc 핫스폿 '좋아함'** 3축
+- [[concept-one-shot-learning]] — 단일시행 학습의 비고전적 가소성 규칙(eCB-LTP·BTSP); 짧은 1회 vs 반복 경험의 분업
 - [[concept-glp1-neuroprotection]] — GLP-1RA 신경보호·신경퇴행(AD·PD) repurposing
 - [[concept-astrocyte-neuron-lactate-shuttle]] — 성상교세포→뉴런 젖산 셔틀·H3K9 젖산화(대사-후성유전)
 - [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
 - [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)
 - [[concept-emotional-eating]] · [[concept-early-life-adversity]] — 정서적 섭식·초기역경 발달 programming
+- [[concept-epigenetic-priming]] — 허용적 크로마틴(H3K4me1·SETD7)이 미래 자극 반응성을 증폭; 잠재 취약성의 분자 저장 기전
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
@@ -551,6 +561,8 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 역방향 **VTADA→LH**가 cue–특정결과 학습·의사결정(PIT)에 필요·충분; LH 도파민=비-RPE 보상근접 ramp; 메스암페타민이 LH-VTA 양방향 강화→cue 통제력↑(habit 이론 반박) (Neuron 2026, Sharpe lab).
 - [[dong-2026-reward-prediction-is-encoded-by]] — LH [[concept-orexin-neurons|orexin]] 뉴런이 **reward prediction을 부호화**(보상 직전 상승·수령 후 감소·effort 의존); 예측 직전 짧은 광억제만으로 동기 행동 차단; orexin-Cre rat 인과 (PNAS 2026). 단순 arousal 아님. _(LH 회로는 🍽️에도)_
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — 등외측 선조체 **dSPN(D1)/iSPN(D2)가 steering(방향)과 action counting(횟수 세기)을 push–pull로 해리 제어**; net(dSPN−iSPN)=목표 근접도; accumulator vs leak (Nat Neurosci 2026, Yin lab). [[concept-medium-spiny-neuron|MSN]] 기능 분업 확장.
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 도파민의 또 다른 역할: **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). _(본문은 🧩에)_
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — VTA 도파민 뉴런의 **크로마틴 priming**(SETD7·H3K4me1)이 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭; 기저 상태는 정상 (Neuron 2026). _(본문은 🍽️ 발달/DOHaD에)_
 
 ### 진영 — Interoceptive primary reward (RL framework)
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — Primary/proxy/secondary reward + state-driven vs event-driven (Trends Cogn Sci 2025).

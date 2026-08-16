@@ -30,5 +30,7 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[chen-2026-striatal-control-of-amygdalar]] — striatal D1/D2-MSN 회로 기능.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — NAc 도파민·MSN 중독 취약성 맥락.
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — dSPN/iSPN이 steering·counting을 해리 제어(DLS).
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — DLS SPN의 corticostriatal 입력에서 **eCB-LTP**(presynaptic CB1R+D2R 의존)가 one-shot 기억을 각인; DMS SPN에서는 유도 불가 → **DLS vs DMS 시냅스 가소성 규칙의 부위 분업** (Nat Neurosci 2026).
+- [[concept-one-shot-learning]] — SPN 시냅스에서 작동하는 비고전적 가소성 규칙(eCB-LTP vs NMDA-LTP) 개념 hub.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — D1r MSN(VS/DS)이 미각/영양 보상 부호화.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1이 PV+FSI 매개 feedforward inhibition으로 MSN assembly 조직.

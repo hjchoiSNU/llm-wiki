@@ -130,3 +130,4 @@ Fat   → GPR40/120 + CD36 → vagus →
 - [[woods-1991-the-eating-paradox-how]] — 맛-대사결과 학습(cephalic 조건화)의 이론 배경.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 조건화 풍미 선호(CFP)의 세포 기반(Cck·Gcg EEC).
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — taste-nutrient conditioning에 배측 D1r 필수.
+- [[concept-one-shot-learning]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 소수 시행으로 성립하는 식이 학습의 시냅스 규칙 문제. 선조체 eCB-LTP(짧은 1회) vs NMDA-LTP(반복) 분업은 FNC의 **시행 수 의존성**을 다시 묻게 한다(미검증 가설).

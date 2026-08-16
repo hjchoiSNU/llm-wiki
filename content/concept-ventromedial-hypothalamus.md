@@ -64,4 +64,6 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - [[concept-deep-brain-stimulation]] — VMH를 표적으로 시도한 침습 DBS hub.
 - [[hamani-2008-memory-enhancement-induced-by]] — 복측 시상하부 DBS(기억 증강 우연 발견).
 - [[parvizi-2022-complex-negative-emotions-induced]] — 복내측 시상하부 자극의 음성정동(Halpern).
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — VMH의 **사회행동 축**: VMHvl이 암컷 성적 수용성의 주 조절자이자 **PA→VMHvl^Npy2r**가 모성 공격 회로; 프로락틴이 VMH PRLR로 공격을 억제. anti-parental PeFA^Ucn3→VMH는 새끼 탐색을 억제 (NRN 2026).
+- [[concept-medial-preoptic-area]] — 양육·성 동기를 함께 조율하는 인접 전시상하부 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

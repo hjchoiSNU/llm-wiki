@@ -184,3 +184,4 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[concept-neurotensin]] — LH-Nts 세포타입의 상위 펩타이드 개념 hub.
 - [[person-soden-marta]] — LH-Nts↔VTA 신경펩타이드 회로 연구자.
 - [[concept-zona-incerta]] · [[leow-2026-a-cortical-hypothalamic-neural]] — 인접 orexigenic 노드 ZI; rZI^GABA는 강박 섭식 전담(LH^GABA→VTA sucrose seeking과 병렬, TN^SST 일반 식욕과 해리).
+- [[concept-medial-preoptic-area]] · [[jamieson-2026-neural-circuits-for-mammalian-parental]] — LH가 중재하는 drive 목록의 **바깥쪽 확장**: 양육이 섭식과 경쟁하며, MPOA가 그 중재 노드. LH→PVN^OT 흥분성 입력이 부성 양육 전환에 관여 (NRN 2026).

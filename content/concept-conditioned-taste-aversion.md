@@ -30,3 +30,4 @@ aliases: [conditioned taste aversion, CTA, 조건화 미각 혐오, taste aversi
 - [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 예측적 혐오 회피(대비).
 - [[concept-central-amygdala-glp1r]] — valence 출력 노드.
 - [[concept-taste-valence-coding]] — 미각 valence 처리 hub.
+- [[concept-one-shot-learning]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — CTA는 대표적 **단일시행 학습**. 선조체에서는 그 시냅스 규칙이 eCB-LTP로 밝혀졌으나, CTA 회로(편도·PBN·NTS)에 같은 규칙이 적용되는지는 **본 위키 자료 범위 내에서 미검증 가설**.

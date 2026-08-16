@@ -67,3 +67,5 @@ updated: 2026-06-01
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 복측 선조체(VS)=미각 hedonic 도파민.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc(MSN·PV+FSI)가 공간 식욕기억을 행동으로 번역.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — NAc CP-AMPAR 상향과 cue approach 강화.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — **비-섭식 자연 보상**으로서의 새끼: MPOA→VTA→NAc가 새끼에 incentive salience 부여, NAc shell DA 고갈·수용체 차단이 retrieval·grooming 손상, 개체별 모성행동 차이가 DA 신호 강도와 상관. 산후 쥐의 새끼 lever-press가 코카인을 넘을 수 있음 (NRN 2026).
+- [[concept-medial-preoptic-area]] — NAc 보상 축을 새끼 자극에 연결하는 시상하부 상류 허브.

@@ -47,3 +47,5 @@ year: 2026
 - [[redish-2016-the-computational-complexity-of-valuation]] — action sequence·내부 진행도 추적을 계산론적 valuation 틀에서 조명.
 - [[concept-dopamine-reward-system]] — 도파민이 dSPN↑/iSPN↓로 net BG 출력·목표접근 velocity를 편향한다는 discussion 연결.
 - [[concept-computational-ethology]] — 본 논문의 DeepLabCut kinematics 측정이 속한 도구 계열 hub; 이산 press와 연속 운동학을 함께 다루는 계측 문제.
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 같은 DLS의 **입력단**: dSPN/iSPN이 출력을 나눈다면, 그 corticostriatal 입력 시냅스는 eCB-LTP(짧은 1회 경험)/NMDA-LTP(반복 경험)로 가소성 규칙을 나눈다. presynaptic D2R 결손이 두 논문 모두에서 핵심 (Nat Neurosci 2026).
+- [[concept-one-shot-learning]] — DLS 시냅스의 비고전적 가소성 규칙 개념 hub.

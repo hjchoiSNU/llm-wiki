@@ -76,3 +76,7 @@ aliases: [maternal obesity programming, developmental programming hypothalamus, 
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-quarta-carmelo]] — 주요 저자.
 - [[concept-early-life-adversity]] — 산후 stress programming 자매 축(산전 모체 프로그래밍과 대비).
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — 산후 역경이 자손 VTA 크로마틴(H3K4me1·SETD7)을 priming; 본 페이지의 산전 축에 대응하는 **산후 후성유전 축**.
+- [[concept-epigenetic-priming]] — 발달기 경험이 허용적 크로마틴으로 저장되는 기전 hub.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — **모체 자신의 회로 재편**(임신 호르몬이 MPOA^Gal을 재구성)을 다룬 리뷰; 본 페이지가 다루는 "모체 상태→자손 프로그래밍"의 상류 조건.
+- [[concept-medial-preoptic-area]] — 임신 중 Esr1/Pgr 신호로 재편되는 양육 허브.

@@ -48,4 +48,6 @@ aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침
 - [[concept-food-insecurity]] · [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — 스트레스성 과식 임상.
 - [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — CGRP^PBN→BNST 난형핵 위협 중계.
 - [[concept-parabrachial-cgrp-alarm]] — BNST로 투사하는 뇌간 일반경보 hub.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — BNST의 **사회·양육 축**: **BNST^Esr1(새끼 공격) ↔ MPOA^Esr1(돌봄)**이 상호 억제 스위치를 이루고, 새끼 distress 발성이 **BNST→LHb**로 음성 정동을 부호화(감작 시 이 경로가 약화). 전배측 BNST의 CRH는 모성 방치를 유발 (NRN 2026).
+- [[concept-medial-preoptic-area]] — BNST^Esr1과 상호 억제로 결합된 pro-parental 상대 노드.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

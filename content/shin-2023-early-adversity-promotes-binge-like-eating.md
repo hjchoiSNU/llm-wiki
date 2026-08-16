@@ -28,6 +28,8 @@ year: 2023
 - [[concept-lateral-hypothalamus]] — LH^Lepr(GABA)→vlPAG 투사 특이성 추가.
 - [[concept-leptin]] — leptin 발달 trophic + LH 국소 leptin 저항이 병리 상류.
 - [[concept-early-life-adversity]] — 초기역경→성체 섭식병리 개념 hub.
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — **같은 two-hit 논리의 크로마틴 버전**: ELS가 VTA H3K4me1/SETD7로 스트레스 반응성을 priming(기저 정상, 2차 hit에서만 발현). 본 논문이 회로(LH^Lepr)에 저장한 것을 저 논문은 크로마틴에 저장 — 두 축의 연결은 미검증 (Neuron 2026).
+- [[concept-epigenetic-priming]] — 잠재 취약성의 분자 저장 기전 개념 hub.
 - [[tomiyama-2019-stress-and-obesity]] — stress→비만의 구체 신경회로(초기 stress→leptin/HPA→LH 재편).
 - [[concept-loss-of-control-eating]] — 반복 노출 증폭 binge-like eating의 LOC 동물 상관.
 - [[concept-emotional-eating]] — 스트레스·정서 유발 섭식과 회로 접점.

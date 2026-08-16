@@ -239,4 +239,5 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[fleming-2026-metabolism-and-the-mind]] · [[concept-metabolic-interoception]] — Need(에너지 상태)→보상학습/기분 다리.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — Need 축(AgRP)에 **공간 예측** 차원 추가: 먹이까지의 학습된 거리에 비례한 양방향 ramp.
 - [[concept-computational-ethology]] · [[liu-2025-castle-a-training-free-foundation-model]] — N/M/P/U를 행동으로 분해하려면 필요한 초 단위 미세행동 라벨을 사람 손 없이 얻는 계측 계열.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-medial-preoptic-area]] — **동기 간 arbitration의 깔끔한 실험 사례**: 배고픔(AgRP/NPY)↔돌봄(MPOA)이 시냅스 수준에서 서로를 끄고, 호르몬 상태가 그 확률을 gating하며, 선행 사회 경험이 경쟁 결과를 안정화. NMPU가 다루는 "여러 Need 중 무엇이 이기는가"를 회로로 보여줌 (NRN 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -38,3 +38,5 @@ year: 2025
 - [[concept-food-insecurity]] — FI-stress가 habit 전환을 구동할 수 있는 환경 상류.
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] · [[concept-bed-nucleus-stria-terminalis]] — 급성 스트레스의 인간 BNST→OFC/NAc 보상회로 gating(본 만성 스트레스 habit 모델의 인간·급성 대응).
 - [[weinreb-2026-spontaneous-behavior-is-a]] — dmPFC가 자유행동을 self-directed task 상태로 조직; goal-directed↔habit arbitration과 상보적인 상위 행동제어 축.
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — habit의 무대로 알려진 **DLS가 단 1회 짧은 경험의 초기 각인에도 관여**(eCB-LTP); "짧은 1회 = eCB-LTP / 반복 = NMDA-LTP" 분업은 습관 고착의 **초기 단계에 별도 규칙**이 있음을 시사 (Nat Neurosci 2026).
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — 본 논문이 만성 스트레스의 **회로 수준** 전환을 다룬다면, 저 논문은 초기 역경이 스트레스 **반응성 자체를 크로마틴에 미리 프로그램**하는 상류 층 (Neuron 2026).

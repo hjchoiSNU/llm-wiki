@@ -8,6 +8,43 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-16 — ingest (신규 3편: eCB-LTP one-shot learning · ELS 후성유전 priming · 양육 회로)
+
+어제 18:11에 `raw/`에 추가된 3편 일괄 ingest. 페이지 418→424(+6: 논문 3 + 개념 3). 세 편 모두 기존 위키에 없던 신규(제목·저자·주제 전수 대조 확인).
+
+**신규 논문 3**
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 등외측 선조체(DLS)의 eCB-LTP**가 담당 (Nat Neurosci 2026, Venance lab / Collège de France; DOI 10.1038/s41593-026-02392-z).
+  - 새 행동과제 **STA test**(sticky tape avoidance, 보상·처벌 없는 자발 행동): familiarization에서 끈끈이 테이프와 1회 접촉 → 24 h 후 회피. **접촉 <5 s로 충분**(58%), >1 min은 더 낫지 않음. PCA 기반 avoidance index로 63%가 avoider. corticosterone 상승 없음(혐오·스트레스 아님). 72 h·1주·1개월 지속, 다른 선조체 과제 3종 간섭에 저항.
+  - **짧은 접촉(2–20 s) 마우스의 91%만** 24 h 후 corticostriatal ChR2-LFP 강화, 긴 접촉(>20 s)의 75%는 무강화. 강화는 avoidance index와 상관.
+  - Neuropixels(S1+DLS 동시): 접촉 중 발화 1–3 Hz·27–30% 침묵. **짧은 접촉이 상관 쌍↑(61% vs 11%)·다중 짝짓기 쌍↓(2% vs 38%)** → in vitro eCB-LTP 조건(5–20 pairings, 0.1–2.5 Hz)과 일치. **plasticitymeter** STDP 모델로 eCB-LTP 이벤트 밀도·누적시간 유의 증가(P=0.0079). **GRAB_eCB2.0** photometry로 접촉 ~10 s 후 eCB 상승 직접 확인.
+  - Ex vivo occlusion: eCB-LTP는 **DLS에서만** 유도(DMS 불가); 짧은 접촉·학습한 개체에서만 occlude. NMDA-LTP는 짧은 접촉엔 안 occlude, **인출 이후** one-shot learner에서 occlude.
+  - 인과: **presynaptic CB1R 또는 D2R 조건부 KO**(S2 피질 AAV-Cre) → eCB-LTP 소실 + **짧은 접촉 학습만** 실패(긴 접촉 정상). DLS **AM251** 동일, **D-AP5(NMDAR)는 무영향**. **두 번째 인출에서는 KO와 대조 동등** → eCB-LTP는 최초 각인(priming) 전용. 가속 rotarod 초기 획득기에도 관여.
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — **초기 역경(P10–17)이 성체 VTA 크로마틴을 허용적으로 바꿔 훗날 스트레스 반응을 통째로 증폭**; 실행자는 H3K4 단일메틸화 효소 **SETD7**과 **H3K4me1** (Neuron 2026 online / 115권 2027-01-06 호, Peña·Creed lab; DOI 10.1016/j.neuron.2026.07.018).
+  - Bottom-up LC-MS/MS(200+ PTHM): 27개 히스톤 조각 중 6개에서 상호작용, 큰 효과 14개 변형이 **모두 증가**하고 **75%가 permissive(open·active·primed) 상태**와 연관. H3K27–K36(억제 축)은 불변. H3K4me1↑는 암수 western blot 검증.
+  - 효소: **Setd7↑(P=0.0156)·Kmt2a(Mll1)↓(P=0.026)**, **성체 만성 스트레스로는 안 바뀜**(발달 특이). Setd7은 VTA/SN·도파민 뉴런 편중, P21에 이미 TH⁺ 핵 내 SETD7 단백질↑.
+  - **충분**: Setd7-OE(P14) → H3K4me1 +34%(me3·K27Ac 불변) → 성체 스트레스 전사반응 방향 **반전**(대조 94% 하향 vs OE 94% 상향, RRHO), 도파민 뉴런 흥분성·**I_h↑**(비스트레스 상태에선 무효), 취약 50% vs Gfp 8.3%, open field 중앙시간↓.
+  - **필요**: ELS 후 Setd7-KD(P14) → H3K4me1 −37% → ELS의 흥분성·I_h 증가 차단, 취약 85%→33%, **resilient 0%→33%**.
+  - 한계(저자 명시): EF1a ubiquitous 프로모터라 DA 특이 아님, AAV OE는 **H3K4me1 배치 위치 통제 불가** → CRISPR-dCas9 표적 epigenetic editing 필요. 열린 질문: 같은 priming이 **긍정·풍요 자극 민감성**도 높이는가(개입 경로).
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 포유류 **양육 회로** 종합 리뷰 (Nat Rev Neurosci 2026, Jamieson & Kohl / Francis Crick; DOI 10.1038/s41583-026-01073-x).
+  - 구조: 다중감각 새끼신호 평가(A1 USV·VNO/MeA·PIL TIP39 촉각; **한 감각 차단은 무해, 둘 이상이면 결손**) → **MPOA(pro: Gal·Esr1·Calcr) ↔ PeFA^Ucn3·BNST^Esr1(anti)** 상호억제 → VTA-NAc 강화(**새끼 lever-press가 코카인 초과 가능**)·PAG 운동 실행·mPFC/OFC 하향 조절.
+  - 가소성: **juvenile alloparenting이 P14–15에 갑자기 출현**(microglia 매개 MPOA^Gal 입력 pruning), 사춘기 성별 분기, **감작**(core 네트워크 동원·PVN^OT 충분·CeA→LC/BNST→LHb 혐오 경로 약화), **관찰학습**(SC→PVN^OT; 비양육 맥락 영상 시청만으로도 유도), 임신 호르몬(MPOA^Gal Esr1/Pgr 필수; 에스트라디올↔프로게스테론 상보 가소성으로 "더 적지만 더 선택적인" 집단).
+  - ★ **섭식 접점**: 새끼 존재→섭식↓, 흥분성 MPOA 활성만으로 섭식 억제 충분. 역으로 **절식·ARC AgRP 활성 → GABA·NPY → MPOA 억제 → 새끼 방치·공격**. 발정주기 P:E 비가 이 억제 확률을 gating. **새끼 감작 경험이 있으면 절식해도 공격 안 나타남**. 시상하부 밖: 절식→배측 봉선핵 Y1 NPY→모성 돌봄 억제.
+
+**신규 개념 3**
+- [[concept-medial-preoptic-area]] — 위키에 비어 있던 시상하부 노드 MPOA. 양육 허브 + **섭식과의 동기 경쟁** 축.
+- [[concept-epigenetic-priming]] — "기저 정상, 2차 hit에서만 증폭"의 크로마틴 저장 기전. H3K4me1/SETD7·LSD1, 히스톤 질량분석·epigenome editing 방법론, 대사(H3K9 젖산화) 축과의 공통 문법.
+- [[concept-one-shot-learning]] — 단일시행 학습과 비고전적 가소성 규칙(eCB-LTP·BTSP·STDP 한계), **짧은 1회 vs 길거나 반복된 경험**의 가소성 분업 표.
+
+**갱신 페이지 20(역링크)**: [[concept-endocannabinoid-system]](★ "중추 시냅스 학습 규칙 eCB-LTP" 본문 절 신설 — 기존 말초 지방 축에 두 번째 얼굴 추가)·[[concept-early-life-adversity]](★ 크로마틴 층 + "저장 층위" 비교표 신설)·[[concept-medium-spiny-neuron]]·[[concept-dopamine-reward-system]]·[[concept-npy-agrp-neurons]](★ AgRP=경쟁 동기 억제 스위치)·[[concept-maternal-programming-hypothalamus]]·[[concept-paraventricular-nucleus]]·[[concept-nucleus-accumbens]]·[[concept-lateral-hypothalamus]]·[[concept-bed-nucleus-stria-terminalis]]·[[concept-ventromedial-hypothalamus]]·[[concept-arcuate-nucleus]]·[[concept-astrocyte-neuron-lactate-shuttle]]·[[concept-conditioned-taste-aversion]]·[[concept-flavor-nutrient-conditioning]]·[[concept-need-motivation-pleasure-utility]]·[[shin-2023-early-adversity-promotes-binge-like-eating]]·[[fallon-2026-striatal-pathways-dissociably-control-action]]·[[giovanniello-2025-a-dual-pathway-architecture-for]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]].
+
+[[index.md|wiki/index.md]] 🧠 시상하부 핵(MPOA)·🧩 인지행동(Piette·Jamieson·one-shot)·🍽️ 발달/DOHaD(Kim·epigenetic priming)·🎯 도파민(D2R gating·VTA priming)·💡 개념 목록에 등재. 총 페이지 카운트 392(2026-07-31 stale)→**424**로 정정.
+
+**표시한 미검증 가설**: ① eCB-LTP를 CTA·flavor-nutrient conditioning 회로(편도·PBN·NTS)로 이식할 수 있는지, ② [[shin-2023-early-adversity-promotes-binge-like-eating]]의 ELS→LH^Lepr 폭식 회로에 크로마틴 priming 층이 있는지 — 둘 다 본 위키 자료 범위 내 **미검증**으로 명시.
+
+**공백 기록**: 옥시토신(oxytocin)이 [[jamieson-2026-neural-circuits-for-mammalian-parental]]·[[concept-paraventricular-nucleus]]·[[concept-vagal-afferent-neurons]] 등 다수 페이지에 흩어져 있으나 `concept-oxytocin` hub 없음. 이번 ingest 자료만으로는 얇아질 우려가 있어 만들지 않음 — 옥시토신 1차 자료가 들어오면 생성 검토.
+
+**미처리 확인**: `raw/`의 나머지 미매칭 파일은 기존 등재분의 중복 사본(` 1.pdf`·`(1)`·`(supp)`)이거나 다른 source 파일명으로 이미 등재된 논문, 그리고 교재·회의 `.docx` 문서들. 신규 논문 없음.
+
 ## 2026-08-15 — ingest (신규 1편: CASTLE 행동 자동 정량화) + 백로그 정리(Gruzdeva 2026 등재)
 
 **신규 ingest**: [[liu-2025-castle-a-training-free-foundation-model]] — **CASTLE**(Combined Approach for Segmentation and Tracking with Latent Extraction). SAM(분할)+DeAOT(추적)+DINOv2(768-D 시각 잠재)를 **재학습·라벨 없이** 연결해 ROI별 "focused visual latent"를 만들고 UMAP→DBSCAN 위계 군집으로 행동 클래스를 발견 (bioRxiv 10.1101/2025.08.22.671685, posted 2025-08-27, Yu-Wei Wu lab / Academia Sinica).

@@ -139,4 +139,6 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[kaduk-2026-glucose-levels-are-associated]] — AgRP가 신호하는 배고픔의 negative valence가 기분으로 번역되는 단계에 **의식적 지각(interoception)**이 매개(인간 CGM+EMA, Kroemer 랩).
 - [[zhao-2026-direct-interoceptive-input-to-the]] — 섬엽 INS^LepR의 한 클러스터가 **섭취 직전↑·섭취 시↓**(AgRP와 유사)하며 포만상태 추적; AgRP hunger 회로의 피질 대응물.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP가 부호화하는 변수 목록에 **학습된 공간 거리**를 추가: 자유 foraging에서 먹이 접근 시 하강·이탈 시 상승하는 양방향 ramp, 단식 상태·학습 이후에만 출현하며 기억 회상 중에도 유지 (bioRxiv 2026, Yapici lab).
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ **AgRP를 '섭식 뉴런'에서 '경쟁 동기 억제 스위치'로 재규정**: 절식 또는 ARC AgRP 활성화가 **GABA·NPY 방출로 MPOA 뉴런을 억제**해 처녀 암컷의 새끼 방치·공격을 유발하고, 역으로 새끼의 존재·흥분성 MPOA 활성은 배고픔 유발 섭식을 억제. 발정주기 프로게스테론:에스트라디올 비가 이 억제의 확률을 gating하며, **새끼 감작 경험이 있으면 절식해도 공격이 안 나타남**. 시상하부 밖에서는 절식이 **배측 봉선핵 Y1** 경유 NPY로 모성 돌봄을 억제 (NRN 2026). 개념 [[concept-medial-preoptic-area]].
+- [[concept-medial-preoptic-area]] — AgRP/NPY의 억제 표적이자 양육 허브(동기 경쟁의 상대편).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

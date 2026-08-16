@@ -58,4 +58,6 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[walker-2026-a-hypothalamic-circuit-for]] — 전측 PVH의 **Sim2⁺ Trh/Adcyap1 흥분성 소집단**(satiety MC4R/Pdyn과 분리)이 ARC^AgRP를 흥분시켜 미래 에너지 결핍 예측 cue로 hunger 구동 (Neuron 2026, Lowell lab).
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 PVH 6 소구역·magnocellular(AVP/OXT)↔parvocellular(CRH/TRH/SST) 분리 (공간전사체, preprint 2026).
 - [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] — PVH vasopressin 뉴런이 GLP-1R 체중감소에 필수.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — PVN의 **비-섭식 축**: **PVN^OT**가 양육 감작·관찰학습의 핵심(인공 활성만으로 처녀 암컷 retrieval 촉진; PIL·SC 입력, PVN→A1 출력), **PVN^CRH**는 anti-parental PeFA^Ucn3로 투사해 스트레스가 돌봄을 끄는 통로. 주산기 성상교세포 돌기 후퇴가 OT 방출을 증대 (NRN 2026).
+- [[concept-medial-preoptic-area]] — PVN^OT/CRH가 수렴·길항하는 양육 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

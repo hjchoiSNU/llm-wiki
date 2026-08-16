@@ -45,3 +45,4 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 - [[concept-glp1-neuroprotection]] — 이 셔틀이 GLP-1RA 뇌 효과의 후보 기전으로 들어가는 상위 hub.
 - [[concept-glp-1]] — 뇌 GLP-1R가 성상교세포 대사를 통해 작동한다는 관점의 상위 약리 hub.
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 말초 위주 sema는 이 뇌 셔틀에 도달하지 못해 임상 음성이었을 가능성(대비).
+- [[concept-epigenetic-priming]] · [[kim-2026-early-life-stress-alters-h3k4me1]] — 같은 문법의 다른 입력: 여기서는 **대사(젖산)**가, 저기서는 **스트레스 경험**이 히스톤 코드를 써서 뉴런 반응성을 바꾼다(H3K9 젖산화 vs H3K4me1 priming).

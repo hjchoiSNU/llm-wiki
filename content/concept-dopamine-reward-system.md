@@ -181,3 +181,6 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — VTA→선조체 도파민의 effort/vigor 동기; T2D에서 effort 편향↓.
 - [[concept-metabolic-interoception]] — 대사신호가 도파민 보상계를 재조정하는 상위 프레임.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — **부호 대비**: 원거리 보상으로 접근할수록 도파민 ramp는 상승, AgRP ramp는 하강. 해소되는 hunger와 다가오는 보상이 거울상 신호를 이룸 (bioRxiv 2026).
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). 개념 [[concept-one-shot-learning]].
+- [[kim-2026-early-life-stress-alters-h3k4me1]] — 초기 역경이 **VTA 도파민 뉴런의 크로마틴을 priming**해 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭(기저는 정상); SETD7/H3K4me1 양방향 인과 (Neuron 2026). 개념 [[concept-epigenetic-priming]].
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — MPOA→VTA→NAc가 **새끼 자극에 incentive salience**를 부여; 산후 쥐에서 새끼 강화가가 코카인을 넘을 수 있음. 도파민 보상계의 비-섭식 자연 보상 사례 (NRN 2026).
