@@ -2,7 +2,7 @@
 title: GIP / GIPR (포도당 의존성 인슐린분비 자극 폴리펩타이드)
 type: concept
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 aliases: [GIP, GIPR, glucose-dependent insulinotropic polypeptide, gastric inhibitory polypeptide, GIP receptor]
 ---
 
@@ -41,3 +41,4 @@ GLP-1R 작용과 결합할 때, GIPR을 **작용(agonism)**시키든 **길항(an
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GIP 췌장외 작용·agonism/antagonism 역설 authoritative 리뷰.
 - [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide twincretin 구조·임상.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 인크레틴 항비만 종합.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — `GIPR` 미스센스 **p.Glu354Gln**(부분 기능상실)이 **tirzepatide 한정** 구토 위험 1.83배, **효능에는 무영향**. "GIPR 작용이 GLP-1 유발 혐오를 완충한다"는 전임상 가설의 인간 유전 근거 (Nature 2026).

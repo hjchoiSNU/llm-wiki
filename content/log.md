@@ -8,6 +8,24 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-19 — other + ingest (wiki/ 오적재 PDF 정리 → 발견된 미정리 논문 1편)
+
+**정리**: `wiki/` 폴더에 잘못 들어가 있던 PDF 4개(모두 6월 20일 동시 적재)를 사용자 승인 후 처리.
+- 해시 동일 중복 2건 삭제 — Glycogen/POMC, Semaglutide/hindbrain (`raw/`에 동일 파일 존재).
+- `2026 Nature. GLP-1R–GIPR–PPARαγδ quintuple agonism…` — `raw/` 판본과 파일크기가 달라 검증: **같은 DOI·27쪽·전 페이지 텍스트 동일**, 차이는 Springer 재다운로드 타임스탬프뿐(raw 2026-05-09 vs wiki 2026-06-17) → wiki 사본 삭제.
+- `2026 Nature. Genetic predictors of GLP1 receptor agonist weight loss and side effects.pdf` — **`raw/`에 없는 유일본**이자 위키 페이지 부재 → `raw/`로 이동 후 ingest.
+- 총 63.7 MB 회수. `wiki/` 내 PDF 0건. **`raw/` 파일은 일절 수정·삭제하지 않음**(추가만).
+
+**새 페이지 2**
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — Nature 2026, 23andMe(n=27,885). `GLP1R` **rs10305420 (p.Pro7Leu)** 사본당 추가 −0.76 kg(P=2.9×10⁻¹⁰, All of Us 복제); `GLP1R` 좌위 오심·구토 신호가 **효능 신호와 co-localize**(H4 96.6%); `GIPR` **p.Glu354Gln**이 tirzepatide 한정 구토 OR 1.83(효능 무영향), 양쪽 위험 동형접합 시 14.8배. 통합 모델 R²=25%·부작용 AUC 0.65–0.68. 한계: 자가보고(EHR 대비 감량 과대), 82.4% 여성·78.3% 유럽계, 선행 연구와 **효능 방향 상충**.
+- [[concept-glp1ra-response-variability]] — 신규 개념 hub. 반응 이질성을 **비유전 임상(~21%) / 유전(+~4%p) / 행동 표현형 / 회로·생리** 4층으로 분해하고 예측 성능 상한을 기록. 미설명 분산 ~75%가 사용자 lab의 표현형 층화 노선의 기회 공간임을 명시.
+
+**갱신 페이지 11**: [[concept-glp-1]] · [[concept-gip]] · [[concept-area-postrema]] · [[koide-2025-association-between-eating-behavior]] · [[aronne-2023-continued-treatment-with-tirzepatide-for]] · [[veniant-2024-a-gipr-antagonist-conjugated-to]] · [[gao-2026-semaglutide-drives-weight-loss-through]] · [[concept-digital-therapeutics]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] · [[davila-2026-agrp-neurons-are-required-for]] · [[index.md|wiki/index.md]].
+
+**교차 함의 2건**
+- 효능·오심 co-localization이 [[gao-2026-semaglutide-drives-weight-loss-through]]의 **AP(혐오) vs NTS(포만) 분업**에 직접 질문을 던진다 — 회로 수준에서 분리 가능해 보이는 두 축이 인간 유전학에서는 같은 신호일 확률이 72.6%.
+- 임상의 "여성이 더 잘 빠진다"(−12.2% vs −10.0%)가 [[davila-2026-agrp-neurons-are-required-for]]의 **암컷 특이 AgRP 의존성**과 같은 기전인지가 열린 질문으로 등록됨.
+
 ## 2026-08-19 — ingest (raw/ 미정리분 5편: GLP-1RA×AgRP · 인간 시상하부 전사체 · 신경-행동 AI 모델링 2편 · 모성 뇌 도파민)
 
 `raw/` 전체(305 PDF + 스텁 1)를 위키 `source:` 필드와 대조해 **미정리 5건**을 식별하고 ingest. 나머지 불일치 34건은 파일명 중복 변이(` 1`·`(1)`·`(2)`·supplement)로 확인해 제외.

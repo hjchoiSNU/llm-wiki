@@ -228,3 +228,5 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[davila-2026-agrp-neurons-are-required-for]] — GLP1R **비발현** 세포(AgRP)가 GLP-1RA 체중 감량에 필수라는 간접 경로; GC→AgRP-GR 매개, 성별·식이·조작시점 의존 (PNAS 2026).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC의 `GLP1R` 발현 확인(단 마우스보다 낮음), 인간 AgRP도 저수준 `GLP1R` 검출; VL POMC 아집단에 농축 (Nat Commun 2026).
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — `GLP1R` 미스센스 **rs10305420 (p.Pro7Leu)**가 인간 치료반응을 좌우(사본당 추가 −0.76 kg); 같은 좌위 변이가 오심·구토도 좌우하고 **효능 신호와 co-localize**(H4 96.6%) (Nature 2026, 23andMe GWAS n=27,885).
+- [[concept-glp1ra-response-variability]] — 반응 이질성 hub(비유전 임상 ~21% + 유전 ~4%p + 행동 표현형 + 회로 4층).

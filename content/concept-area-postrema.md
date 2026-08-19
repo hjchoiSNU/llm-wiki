@@ -2,7 +2,7 @@
 title: Area postrema (AP·최후야)
 type: concept
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 ---
 
@@ -33,3 +33,4 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR-Ab/GLP-1이 AP 등 CVO에서 검출·c-Fos.
 - [[cao-2024-hunting-for-heroes-brain]] — AP^GLP-1R=혐오(→lPBN), NTS와 분리.
 - [[overview-cea-glp1r-food-safety-alarm]] — AP를 섭취후 독소 관문으로 편입.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — GLP-1RA 오심·구토가 `GLP1R` 좌위 변이와 연관되고 **효능과 같은 신호일 가능성**(72.6%); AP 혐오 축의 인간 유전 대응 (Nature 2026).

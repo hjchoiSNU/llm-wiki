@@ -2,7 +2,7 @@
 title: "섭식행동 패턴과 GLP-1RA 치료효과의 연관 (T2D, 다기관 전향 관찰; Koide 2025)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 source: "raw/2025 Association between eating behavior patterns and the therapeutic efficacy of GLP-1 receptor agonists in individuals with type 2 diabetes a multicenter prospective observational study.pdf"
 authors: [Koide Y, Kato T, Yabe D, et al.]
 year: 2025
@@ -31,3 +31,5 @@ year: 2025
 - [[kim-2021-digital-therapeutics-for-obesity]] — 다차원 섭식표현형 기반 개인화; external eating 층화 응용.
 - [[concept-loss-of-control-eating]] — 통제상실 표현형(약물 반응 이질성 맥락).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(임상 층).
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제(반응 이질성)의 **유전 층**. 본 연구의 행동 표현형 층화와 나란히 놓으면 2축 층화 모델. 단 유전 기여는 작다(전체 R² 25% 중 대부분이 비유전).
+- [[concept-glp1ra-response-variability]] — 두 축을 포함한 4층 hub.

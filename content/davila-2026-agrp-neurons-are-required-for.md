@@ -80,3 +80,5 @@ journal: PNAS
 - [[concept-need-motivation-pleasure-utility]] — Need 신호가 섭취량과 분리되어 체중 결과를 좌우한 사례.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 종합(사용자 lab); 본 논문은 그 지도에서 **비-GLP1R 세포의 필수성**을 추가.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 임상에서도 **여성이 더 잘 빠진다**(−12.2% vs −10.0%); 본 논문의 암컷 특이 AgRP 의존성과 같은 기전인지가 열린 질문 (Nature 2026).
+- [[concept-glp1ra-response-variability]] — 반응 이질성 hub.

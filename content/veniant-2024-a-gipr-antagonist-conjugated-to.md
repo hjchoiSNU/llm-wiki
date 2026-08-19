@@ -2,7 +2,7 @@
 title: "AMG 133 (maridebart cafraglutide): GIPR 길항–GLP-1 작용 이중특이 분자의 체중감소 (전임상 + phase 1)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 source: "raw/2024 Nature Metabolism. A GIPR antagonist conjugated to GLP-1 analogues promotes weight loss with improved metabolic parameters in preclinical and phase 1 settings (2).pdf"
 authors: [Véniant MM, Lu S-C, et al.]
 year: 2024
@@ -46,3 +46,4 @@ year: 2024
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 후뇌 GLP-1R 기전과 대비(BBB 미투과 말초 작용 가설).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — antibody–peptide 접합·GIPR 길항 전략의 위치.
 - [[concept-dorsal-vagal-complex]] — AP/NTS 등 BBB 밖 말초 incretin 작용 무대.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — `GIPR` **기능↓ → tirzepatide 구토↑**라는 인간 유전 근거. GIPR **길항** 전략의 내약성 우려와 직접 맞물림 (Nature 2026).

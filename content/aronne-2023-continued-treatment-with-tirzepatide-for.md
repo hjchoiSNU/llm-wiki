@@ -2,7 +2,7 @@
 title: SURMOUNT-4 — 티르제파타이드 지속 vs 중단의 체중 유지 RCT
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 source: raw/2023 JAMA. Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity.pdf
 authors: [Aronne LJ et al.]
 year: 2023
@@ -29,3 +29,5 @@ year: 2023
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — dual GIP/GLP-1(티르제파타이드)의 위치·중단 후 rebound 이슈.
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — GIP 축을 반대로(antagonist) 겨냥하는 접근과 대비.
 - [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — 또 다른 GIP/GLP-1 접합체 비만 임상.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — tirzepatide 반응·부작용의 유전적 층화(`GLP1R` 효능, `GIPR` 구토) (Nature 2026).
+- [[concept-glp1ra-response-variability]] — 반응 이질성 hub; 중단 후 rebound는 그 시간 축.

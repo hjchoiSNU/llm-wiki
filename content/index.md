@@ -201,6 +201,7 @@ _(섭식·동기 행동은 🍽️로)_
 
 #### GLP-1/GIP incretin — 기전·약물 배치 (2021–2025)
 개념 hub: [[concept-glp-1]] · [[concept-gip]] · [[concept-incretin-effect]]. 종합: [[overview-next-gen-incretin-obesity-drugs-2026]].
+- ★ **반응 이질성·정밀 항비만** — 개념 hub [[concept-glp1ra-response-variability]]. · [[su-2026-genetic-predictors-of-glp1-receptor]]: 23andMe GWAS(n=27,885)로 **`GLP1R` p.Pro7Leu**(사본당 추가 −0.76 kg)·**`GIPR` p.Glu354Gln**(tirzepatide 한정 구토 OR 1.83, 효능 무영향) 동정; **효능 신호와 오심 신호가 co-localize**(H4 96.6%). 단 전체 예측 R²=25%로 **대부분이 비유전 요인**(성별·약물·용량·T2D) (Nature 2026). · 행동 축은 [[koide-2025-association-between-eating-behavior]](external eating).
 - **기전·회로(GIP)** — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]]: GIP→중추 **GABAergic 뉴런** 의존 (Nat Metab). · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]]: GIP→ME **올리고덴드로사이트**·혈관투과성→GLP-1RA 뇌접근↑ (Cell Metab). · [[liu-2025-gipr-ab-glp-1-peptide]]: 중추 GIPR+GLP-1R 요구 (Nat Metab). · [[rupp-2023-suppression-of-food-intake-by]]: DMH **Glp1r·Lepr 수렴** 뉴런 (JCI). · [[crunkhorn-2025-pairing-up-with-glp-1]]: **GLP-1×렙틴 이중작용제**가 바로 이 DMH LepR^Glp1r 뉴런 표적(인과 검증)·NHP 공발현 (하이라이트, Polex-Wolf 2024).
 - **GIPR agonism vs antagonism 역설** — [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1, phase1) · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]](MariTide **월1회** phase2 −16.2%, NEJM).
 - **임상 시험** — [[aronne-2023-continued-treatment-with-tirzepatide-for]](tirzepatide SURMOUNT-4 유지/중단 rebound, JAMA) · [[coppin-2022-does-glp-1-receptor-agonist]](liraglutide는 food **liking 불변**=wanting 축, RCT preprint) · [[koide-2025-association-between-eating-behavior]](**external eating**이 GLP-1RA 반응 예측).
@@ -435,6 +436,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 창약 / 약물 클래스 / CNS 전달
 - [[concept-gpcr-drug-discovery]] · [[concept-biased-agonism]] — GPCR 창약 지형·G단백질/β-arrestin 편향
+- [[concept-glp1ra-response-variability]] — GLP-1RA 반응 이질성 4층(임상·유전·행동 표현형·회로)과 예측 성능 상한
 - [[concept-glucagon-receptor-agonism]] · [[concept-amylin-receptor-agonists]] — 비-GLP-1 파트너 약물 클래스(EE·포만)
 - [[concept-peptide-drug-conjugate]] · [[concept-blood-brain-barrier-shuttle]] — 조직특이·CNS 표적 전달
 - [[concept-de-novo-protein-design]] · [[concept-ai-drug-discovery]] — AI 리간드 설계·타깃 발굴

@@ -103,3 +103,4 @@ RNA 보존 면역조직화학 + 레이저 캡처 미세절제 + bulk RNA-seq(**I
 - [[gao-2026-semaglutide-drives-weight-loss-through]] · [[liskiewicz-2026-glp-1r-gipr-ppar]] — 약물 측; 본 연구는 표적 세포 측.
 - [[concept-mc4r]] — 하류 수용체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 `GLP1R`·`GIPR` 코딩 변이가 약물 반응을 좌우; 본 연구가 그 수용체들이 **어느 세포에 얼마나** 있는지의 좌표를 제공 (Nature 2026).

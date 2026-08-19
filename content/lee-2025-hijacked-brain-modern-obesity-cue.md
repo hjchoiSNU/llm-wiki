@@ -2,7 +2,7 @@
 title: "Hijacked Brain in Modern Obesity: Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals"
 type: paper
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-08-19
 source: "raw/2025 JOMES Hijacked Brain in Modern Obesity Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals.pdf"
 authors: [Lee T, Park S, Lee S, Hwangbo A, Bae H, Lee Y, Choi HJ]
 year: 2025
@@ -119,3 +119,5 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[koide-2025-association-between-eating-behavior]] — cue-evoked(external) eating이 GLP-1RA 반응 예측(임상 검증).
 - [[concept-inhibitory-control-demand]] — Restraint 표현형의 dlPFC·ACC 제어노력을 craving-비례 제어부하로 정식화(trouble resisting).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-glp1ra-response-variability]] — 표현형 기반 개인화가 겨냥하는 문제(GLP-1RA 반응 이질성)를 유전·임상·행동·회로 4층으로 정리한 hub.
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제의 유전 층 근거 (Nature 2026).

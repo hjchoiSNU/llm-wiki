@@ -74,3 +74,4 @@ journal: Nature Metabolism
 - [[wan-2023-glp-1r-signaling-and-functional]] — semaglutide 작동 수용체 신호 기반.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 심혈관·중추 작용 대조.
 - [[davila-2026-agrp-neurons-are-required-for]] — 본 논문이 정의한 AP·Gs–cAMP **상류 입력**의 하류에서, 시상하부 **AgRP가 적응 대사반응(지방 동원·β₃-교감신경)을 실행**해야 체중 감량이 완성됨을 보임. 입력(AP) vs 실행(AgRP) 분업 (PNAS 2026, Horvath lab).
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 유전학에서 **효능 신호와 오심 신호가 co-localize**(H4 96.6%) → 본 논문의 AP(혐오) vs NTS(non-aversive satiety) 분업이 실제로 **분리 가능한지**를 묻는 데이터 (Nature 2026).
