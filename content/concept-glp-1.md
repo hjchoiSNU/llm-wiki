@@ -2,7 +2,7 @@
 title: Glucagon-like peptide-1 (GLP-1)
 type: concept
 created: 2026-04-29
-updated: 2026-05-31
+updated: 2026-08-19
 aliases: [GLP-1, glucagon-like peptide-1, GLP1]
 ---
 
@@ -226,3 +226,5 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[fleming-2026-metabolism-and-the-mind]] · [[concept-metabolic-interoception]] — 인슐린감수성 개선→보상학습·기분 경로(GLP-1RA 항우울 가설).
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — semaglutide가 T2D의 effort 동기 편향을 (단면) 회복 못 함(반례).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[davila-2026-agrp-neurons-are-required-for]] — GLP1R **비발현** 세포(AgRP)가 GLP-1RA 체중 감량에 필수라는 간접 경로; GC→AgRP-GR 매개, 성별·식이·조작시점 의존 (PNAS 2026).
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC의 `GLP1R` 발현 확인(단 마우스보다 낮음), 인간 AgRP도 저수준 `GLP1R` 검출; VL POMC 아집단에 농축 (Nat Commun 2026).

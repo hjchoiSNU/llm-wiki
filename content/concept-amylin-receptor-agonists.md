@@ -2,7 +2,7 @@
 title: "Amylin receptor agonists (아밀린 수용체 작용제)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -24,3 +24,4 @@ updated: 2026-07-28
 - [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — CagriSema 임상.
 - [[concept-glp-1]] · [[concept-incretin-effect]] · [[overview-next-gen-incretin-obesity-drugs-2026]] — incretin 맥락.
 - [[concept-glucagon-receptor-agonism]] — 또 다른 비-GLP-1 파트너 축.
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC의 `CALCR` + `RAMP1`(DM 농축)·`RAMP3`(VL 농축) → **AMY1·AMY3 수용체가 공간적으로 분리된 아집단에서 형성될 가능성**; cagrilintide류의 인간 표적 세포 근거. 단 CALCR⁺ POMC는 소수(~15%) (Nat Commun 2026).

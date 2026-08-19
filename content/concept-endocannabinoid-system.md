@@ -2,7 +2,7 @@
 title: Endocannabinoid system (내인성 카나비노이드 시스템)
 type: concept
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -40,3 +40,4 @@ Arachidonic acid에서 요구 시 생성되어 CB1·CB2 G단백질 결합 수용
 - [[concept-fat-taste]] — 구강 지방 감각이 gut endocannabinoid 동원의 상류 자극.
 - [[concept-vagal-afferent-neurons]] — CB1은 vagal fiber에 존재하며 gut-brain 신호 조절.
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — 지방 선호 gut-brain 회로 맥락.
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC 뉴런이 `CNR1`(CB1)을 풍부히 발현 → CB1이 POMC를 통해 식욕을 조절한다는 마우스 모델의 **인간 분자 대응** (Nat Commun 2026).

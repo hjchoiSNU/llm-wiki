@@ -2,7 +2,7 @@
 title: HypoMap — single-cell hypothalamus atlas
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-19
 aliases: [HypoMap, hypothalamus single-cell atlas, human hypothalamus atlas]
 ---
 
@@ -78,3 +78,4 @@ HypoMap·atlas 시대의 발견:
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-yeo-giles]] — atlas 책임자.
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **상보적 접근**(IHC/LCM-Seq bulk): snRNA-seq의 ~2,000 transcript/cell 대비 14,000–16,000 검출로 희귀 수용체·lncRNA 포착; HypoMap의 POMC-CALCR(C4-374) 제3뇌실 근접 분포를 RNAscope로 독립 검증. 대가는 세포 이질성 분해 불가 (Nat Commun 2026).

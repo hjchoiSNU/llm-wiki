@@ -2,7 +2,7 @@
 title: Hypothalamic arcuate nucleus
 type: concept
 created: 2026-04-29
-updated: 2026-05-30
+updated: 2026-08-19
 aliases: [ARC, arcuate, arcuate nucleus]
 ---
 
@@ -105,3 +105,5 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC AgRP의 병렬·중복 투사(aBNST·PVH·LHA 각각 섭식-충분) 배선 원리 (Cell 2013, Sternson lab).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-medial-preoptic-area]] — ARC AgRP 투사 목록의 **비-섭식 표적**: GABA·NPY로 MPOA를 억제해 양육을 끄고 새끼 공격을 유발. 수유 중 ARC tuberoinfundibular 도파민 뉴런은 프로락틴에 의해 **met-enkephalin으로 신경전달물질 전환** (NRN 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[davila-2026-agrp-neurons-are-required-for]] — ARC AgRP가 GLP-1RA 체중 감량에 **필수**(암컷); 세마글루타이드가 `Agrp`/`Npy`·c-FOS·미토콘드리아·AgRP→PVH 말단을 증강 (PNAS 2026).
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 ARC(infundibular nucleus)의 AgRP·POMC·kisspeptin 3종 전사체를 세포당 14,000–16,000 transcript 깊이로 비교 (Nat Commun 2026).

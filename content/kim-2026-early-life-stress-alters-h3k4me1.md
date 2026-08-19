@@ -2,7 +2,7 @@
 title: Early-life stress alters H3K4me1 in VTA to prime stress sensitivity (Kim 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-19
 source: raw/2026 Neuron. Early-life stress alters H3K4me1 in VTA to prime stress sensitivity.pdf
 authors: [Hye Ji J. Kim, Luke T. Geiger, Julie-Anne Balouek, Lisa Z. Fang, Mason R. Barrett, Ian Maze, Meaghan C. Creed, Catherine Jensen Peña]
 year: 2026
@@ -85,3 +85,4 @@ doi: 10.1016/j.neuron.2026.07.018
 - [[tomiyama-2019-stress-and-obesity]] — 스트레스→비만 통합 모델의 상위 프레임.
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스가 회로 수준에서 goal→habit을 전환(본 논문은 그 상류 반응성 자체를 프로그램).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 발달·경험이 회로를 재구성한다는 같은 논지의 다른 사례(양육 회로; microglia 매개 pruning·사춘기 재편·감작).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 자매 사례. 본 논문 ELS→VTA `H3K4me1`/SETD7 vs 산후 스트레스→dHF **H3 dopaminylation**. 둘 다 도파민 회로가 무대이고 "경험→히스톤→지속 행동" 문법을 공유 (Nature 2026).

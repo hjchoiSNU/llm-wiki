@@ -2,7 +2,7 @@
 title: Spatial transcriptomics (공간전사체)
 type: concept
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-08-19
 aliases: [SRT, Visium, Xenium, MERFISH, spatial transcriptomics, snRNA-seq atlas]
 ---
 
@@ -28,3 +28,4 @@ aliases: [SRT, Visium, Xenium, MERFISH, spatial transcriptomics, snRNA-seq atlas
 - [[littleton-2025-from-identity-to-function-unveiling]] — single-cell atlas era의 종간 번역 roadmap.
 - [[concept-hypomap]] — 시상하부 단일세포 아틀라스(HypoMap) 맥락.
 - [[concept-medium-spiny-neuron]] — SRT로 인간 subtype 공간 정체가 규명된 세포군.
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **IHC/LCM-Seq**: RNA 보존 면역염색(PVSA 2%) + 레이저 캡처 + bulk RNA-seq. 침수고정 사람 사후 뇌에 적용, **단백질 기준 세포 정의 + 공간 맥락 보존 + bulk 깊이**의 조합. 항원부활이 RNA를 파괴하는 문제를 RNase 억제제로 해결 (Nat Commun 2026).

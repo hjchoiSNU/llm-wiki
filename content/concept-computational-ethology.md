@@ -2,7 +2,7 @@
 title: 계산 동물행동학 (Computational Ethology) — 행동 자동 정량화
 type: concept
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-19
 aliases: [computational ethology, 행동 정량화, markerless tracking, pose estimation, behavioral syllable]
 ---
 
@@ -69,3 +69,6 @@ aliases: [computational ethology, 행동 정량화, markerless tracking, pose es
 - [[wang-2026-multimodal-alignments-of-in]] — 활성↔분자정체 정합; 같은 "측정 인프라" 계열.
 - [[concept-need-motivation-pleasure-utility]] — 분해된 행동 클래스가 매핑될 이론 틀.
 - [[concept-appetitive-consummatory-phases]] — 고전 ethology의 이분법; 계산 도구가 이를 얼마나 세분할 수 있는지가 쟁점.
+- [[concept-joint-brain-behaviour-modelling]] — **다음 단계 hub**: 여기서 얻은 행동 라벨을 신경 데이터와 한 latent 공간에서 결합 모델링하는 방법론(discriminative/generative/contrastive·identifiability·scorecard).
+- [[mathis-2026-joint-modelling-of-brain-and]] — 결합 모델링 리뷰(NRN 2026); 행동 위계·pose·다중모달 파트가 본 페이지와 직접 겹치고, "라벨 타당성"을 identifiability·consistency 지표로 형식화.
+- [[mathis-2026-leveraging-insights-from-neuroscience-to]] — 같은 저자 Perspective; pose·genomic·neural 인코더를 LLM이 라우팅하는 agentic 파이프라인 제안(본 도구군의 청사진).

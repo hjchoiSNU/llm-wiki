@@ -8,6 +8,30 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-19 — ingest (raw/ 미정리분 5편: GLP-1RA×AgRP · 인간 시상하부 전사체 · 신경-행동 AI 모델링 2편 · 모성 뇌 도파민)
+
+`raw/` 전체(305 PDF + 스텁 1)를 위키 `source:` 필드와 대조해 **미정리 5건**을 식별하고 ingest. 나머지 불일치 34건은 파일명 중복 변이(` 1`·`(1)`·`(2)`·supplement)로 확인해 제외.
+
+**새 페이지 6**
+- [[davila-2026-agrp-neurons-are-required-for]] — PNAS 2026, Horvath lab. GLP-1RA가 AgRP를 **모집**하며 AgRP가 체중 감량에 필수(식이 억제는 분리). 3가지 독립 loss-of-function 모델·지방 동원/β₃-AR/UCP2·GC→AgRP-GR 축·암컷 특이.
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — Nat Commun 2026, Hrabovszky lab. **IHC/LCM-Seq**로 인간 AgRP·POMC·KP 전사체(14,000–16,000 transcript/세포). 인간 POMC `GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`, 인간 AgRP `ACVR1C`·`NR3C1`·사이토카인·후각수용체 3종; CART 종차; POMC DM/VL 공간 분업.
+- [[mathis-2026-joint-modelling-of-brain-and]] — NRN 2026. 결합 모델링 3계열(discriminative/generative/contrastive)·identifiability·trustworthiness scorecard.
+- [[mathis-2026-leveraging-insights-from-neuroscience-to]] — Nat Neurosci 2026 Perspective. internal model·prediction error·memory replay 기반 적응형 AI, agentic 아키텍처 제안(미구현).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — Nature 2026, Maze lab. **H3 dopaminylation**이 모성 뇌 dHF 재편을 인과 매개, 인간 subiculum 보존. ⚠️ 원문 PDF 미확보 — `raw/`의 메타데이터 스텁(초록 기반)으로 작성, PDF 입수 시 재작성 필요.
+- [[concept-joint-brain-behaviour-modelling]] — 신규 개념 hub. 결합 모델링 방법론 + 섭식 적용 설계 메모(NMPU 축 분리 검정, 약물 전후 표상 비교).
+
+**갱신 페이지 17**
+- 회로/세포: [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-arcuate-nucleus]]
+- 호르몬/약물: [[concept-glp-1]] · [[concept-amylin-receptor-agonists]] · [[concept-endocannabinoid-system]] · [[concept-ectopic-olfactory-receptors]] · [[gao-2026-semaglutide-drives-weight-loss-through]]
+- 방법론/atlas: [[concept-hypomap]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]]
+- 도파민/후성유전/발달: [[concept-dopamine-reward-system]] · [[concept-epigenetic-priming]] · [[kim-2026-early-life-stress-alters-h3k4me1]] · [[concept-maternal-programming-hypothalamus]]
+- 이론: [[concept-need-motivation-pleasure-utility]]
+- [[index.md|wiki/index.md]] — 🍽️ 회로·세포, 🧪 방법론, 🤖 AI×NS, 발달/DOHaD, 🎯 종합·메타, 💡 개념 6개 절 갱신.
+
+**교차 함의**: d'Ávila(GC→AgRP-GR 필요)와 Takács(인간 AgRP `NR3C1` 고발현)가 서로를 보강 — 마우스 기전에 인간 분자 근거가 붙었다. 또 Takács의 종차 데이터(`Glp1r`가 마우스 POMC에서 더 높음, 인간 POMC는 CART 음성)는 기존 GLP-1 회로 페이지들의 rodent→human 번역 주장에 **수용체 단위 검증**이라는 단서를 단다.
+
+**미해결**: `wiki/` 폴더에 PDF 4개가 잘못 놓여 있음(`2026 Nature Metabolism. Glycogen…`, `…Semaglutide…hindbrain…`, `2026 Nature. GLP-1R–GIPR–PPARαγδ…`, `2026 Nature. Genetic predictors of GLP1…`). 모두 대응 위키 페이지는 존재. 평면 구조 규칙상 `raw/`로 옮기는 게 맞으나 사용자 확인 후 처리 예정.
+
 ## 2026-08-16 — ingest (신규 3편: eCB-LTP one-shot learning · ELS 후성유전 priming · 양육 회로)
 
 어제 18:11에 `raw/`에 추가된 3편 일괄 ingest. 페이지 418→424(+6: 논문 3 + 개념 3). 세 편 모두 기존 위키에 없던 신규(제목·저자·주제 전수 대조 확인).

@@ -2,7 +2,7 @@
 title: Epigenetic priming (후성유전적 priming)
 type: concept
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-19
 aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer, latent gene expression, 잠재 취약성]
 ---
 
@@ -58,3 +58,4 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 - [[concept-maternal-programming-hypothalamus]] — 산전 모체 프로그래밍(발달 programming 자매 축).
 - [[concept-emotional-eating]] — priming된 스트레스 민감성이 임상적으로 발현되는 경로.
 - [[concept-spatial-transcriptomics]] — 조직 내 분자 상태를 위치와 함께 읽는 상보적 방법론 hub.
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 같은 문법의 다른 변형: 산후 스트레스 → **도파민 동역학 변화 → H3 dopaminylation** → dHF 전사·행동의 지속 재편 (Nature 2026, Maze lab).

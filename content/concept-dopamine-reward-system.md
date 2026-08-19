@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-05-31
+updated: 2026-08-19
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -184,3 +184,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). 개념 [[concept-one-shot-learning]].
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 초기 역경이 **VTA 도파민 뉴런의 크로마틴을 priming**해 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭(기저는 정상); SETD7/H3K4me1 양방향 인과 (Neuron 2026). 개념 [[concept-epigenetic-priming]].
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — MPOA→VTA→NAc가 **새끼 자극에 incentive salience**를 부여; 산후 쥐에서 새끼 강화가가 코카인을 넘을 수 있음. 도파민 보상계의 비-섭식 자연 보상 사례 (NRN 2026).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 배측 해마 전사·모성 행동 적응을 인과 매개; 인간 subiculum에서 parity 의존 보존 (Nature 2026, Maze lab). _(초록 기반 페이지)_

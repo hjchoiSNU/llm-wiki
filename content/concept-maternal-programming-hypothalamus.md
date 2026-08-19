@@ -2,7 +2,7 @@
 title: Maternal programming of hypothalamic circuits
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-19
 aliases: [maternal obesity programming, developmental programming hypothalamus, DoHAD hypothalamus]
 ---
 
@@ -80,3 +80,4 @@ aliases: [maternal obesity programming, developmental programming hypothalamus, 
 - [[concept-epigenetic-priming]] — 발달기 경험이 허용적 크로마틴으로 저장되는 기전 hub.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — **모체 자신의 회로 재편**(임신 호르몬이 MPOA^Gal을 재구성)을 다룬 리뷰; 본 페이지가 다루는 "모체 상태→자손 프로그래밍"의 상류 조건.
 - [[concept-medial-preoptic-area]] — 임신 중 Esr1/Pgr 신호로 재편되는 양육 허브.
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 축의 **상류 절반**: 자손이 아니라 **모체 자신**의 뇌가 임신·출산·산후 스트레스로 재편되는 기전(도파민→H3 dopaminylation→dHF) (Nature 2026).

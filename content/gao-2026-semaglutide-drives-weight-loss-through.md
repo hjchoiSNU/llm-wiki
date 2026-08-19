@@ -2,7 +2,7 @@
 title: "Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons (Gao et al. 2026, Nature Metabolism)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-08-19
 source: "raw/2026 Nat. Metab. (Krashes) Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
 authors: [Gao C, Geneve IC, Rodriguez-Gonzalez S, Li C, McElhern K, Reitman ML, Lutas A, Krashes MJ]
 year: 2026
@@ -73,3 +73,4 @@ journal: Nature Metabolism
 - [[cao-2024-hunting-for-heroes-brain]] — semaglutide 후뇌 GLP-1R 매개 논점 종합.
 - [[wan-2023-glp-1r-signaling-and-functional]] — semaglutide 작동 수용체 신호 기반.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 심혈관·중추 작용 대조.
+- [[davila-2026-agrp-neurons-are-required-for]] — 본 논문이 정의한 AP·Gs–cAMP **상류 입력**의 하류에서, 시상하부 **AgRP가 적응 대사반응(지방 동원·β₃-교감신경)을 실행**해야 체중 감량이 완성됨을 보임. 입력(AP) vs 실행(AgRP) 분업 (PNAS 2026, Horvath lab).

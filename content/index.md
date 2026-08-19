@@ -67,6 +67,9 @@ title: 뇌과학 LLM Wiki
 전기생리, 이미징, 광유전학, 단일세포 시퀀싱, 행동 패러다임, 계산 분석.
 
 - [[concept-hypomap]] — Mouse + 인간 hypothalamus single-cell atlas (Steuernagel 2022, Tadross 2025).
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **IHC/LCM-Seq**: RNA 보존 면역염색(PVSA 2%)+레이저 캡처+bulk RNA-seq을 **침수고정 사람 사후 뇌**에 적용. 단백질 기준 세포 정의 + 공간 맥락 보존 + snRNA-seq의 7–8배 깊이(희귀 수용체·lncRNA 포착); 대가는 세포 이질성 분해 불가 (Nat Commun 2026). _(내용은 🍽️에도)_
+- [[concept-joint-brain-behaviour-modelling]] — **신경-행동 결합 모델링 hub**: discriminative/generative/contrastive 3계열, identifiability(왜 CEBRA류가 세션·개체 간 비교를 보장하는가), 그리고 디코딩 정확도만으로 모델을 고르지 말라는 **trustworthiness scorecard**.
+- [[mathis-2026-joint-modelling-of-brain-and]] — 결합 모델링 방법론 리뷰: 세 계열의 손실함수·한계 정리, LFADS·SLDS·CEBRA·MARBLE, 행동 위계(activity→action→motion primitive), consistency·robustness·identifiability scorecard 제안 (NRN 2026, Mathis & Mathis). _(AI 축은 🤖에도)_
 - [[concept-spatial-transcriptomics]] — 공간전사체(Visium/Xenium/MERFISH)+snRNA-seq 통합 방법론 hub. 인간 뇌 부위 아틀라스·rodent→human transfer learning.
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA, MRI 정합); 25영역·59뉴런타입·DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026, Jun Yan lab).
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc Visium+snRNA-seq 아틀라스; D1/D2 MSN 연속 공간 gradient·OPRM1+ D1 island(오피오이드 hedonic 상관)·rodent 약물반응 transfer learning (Neuron 2026, Maynard/Lieber). _(보상 회로는 🎯에도)_
@@ -122,6 +125,8 @@ _(섭식·동기 행동은 🍽️로)_
 - [[woods-1991-the-eating-paradox-how]] — **먹기=약물처럼 항상성을 교란하는 위협**; 동물은 약물 내성처럼 cephalic 예측반응(식전 인슐린)으로 tolerate; satiety·소식·식후 억제=학습된 방어, 오작동=reactive hypoglycemia (Psych Review 1991, Woods). Woods 2016·NMPU의 이론 원전.
 
 ### 회로·세포
+- [[davila-2026-agrp-neurons-are-required-for]] — ★ **GLP-1RA 통념 역전**: 세마글루타이드가 ARC AgRP를 억제·우회하는 게 아니라 **모집**; AgRP 회로 파괴 시 식이 억제는 남되 **체중 감량 붕괴**(지방 동원·β₃-교감신경·미토콘드리아 실패). 매개축 **glucocorticoid→AgRP-GR**, **암컷 특이**(난소절제로 부분 회복)·식이·조작시점 의존 (PNAS 2026, Horvath lab).
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — ★ **인간** AgRP·POMC·kisspeptin 뉴런 전사체(세포당 14,000–16,000 transcript, IHC/LCM-Seq). 인간 POMC=`GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`·`OPRM1`, 인간 AgRP=`ACVR1C`·`GHSR`·`INSR`·`GHR`·`NR3C1`·사이토카인 수용체·후각수용체 3종. **CART 발현이 rodent와 정반대**·POMC DM/VL 공간 분업 (Nat Commun 2026, Hrabovszky lab). _(방법론은 🧪에도)_
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH 종합 (EMM 2025, 사용자 lab).
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입(>30 subtype)·에너지 항상성 종합 리뷰: Vgat("engine")/Vglut2("brake")/orexin·MCH·LHA^Lepr(social)·LHA^Nts(thirst) 프레임 (Cells 2025, Peking U. 레퍼런스).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 음식 **맛(taste)이 bout마다 AgRP를 일시 억제**(post-ingestive와 독립)→satiation 앞당김; 상류 **DMH^LepR이 sweet/fat 맛에 동조**(AgRP 거울상)·맛+영양 통합; Garfield 2016의 taste·meal-termination 버전 (Neuron 2024, Knight lab).
@@ -241,6 +246,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — ★ ELS(P10–17)가 성체 **VTA 히스톤 지형을 허용적으로 재편**(변화 변형의 75%가 permissive); **SETD7·H3K4me1**이 성체 스트레스에 대한 전사 반응·도파민 뉴런 흥분성(I_h)·사회회피에 **필요하고 충분**. Setd7-OE는 ELS 없이 취약성 재현, ELS 후 Setd7-KD는 resilient 0%→33%. **기저는 정상, 2차 hit에서만 발현** (Neuron 2026, Peña·Creed lab). 개념 [[concept-epigenetic-priming]]. _(VTA 도파민은 🎯에도)_
 - [[concept-epigenetic-priming]] — 발달기 경험이 허용적 크로마틴(H3K4me1·SETD7)으로 저장돼 미래 자극 반응성을 증폭한다는 개념 hub; 히스톤 질량분석·epigenome editing 방법론 포함.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 모체 자신의 회로가 임신·출산·수유 호르몬으로 재편되는 축(자손 programming의 상류 조건). _(본문은 🧩에)_
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — ★ 모체 뇌 재편의 **분자 기전**: 산후 스트레스가 도파민 동역학을 바꿔 **H3 dopaminylation**(도파민 의존 히스톤 변형)을 통해 배측 해마 전사·행동을 지속 재편; 인간 subiculum에서 parity 의존 보존; 처녀 마우스 dHF 도파민 억제만으로 재현(충분성) (Nature 2026, Maze lab). _(초록 기반 페이지 — 원문 PDF 미확보)_ _(도파민 축은 🎯에도)_
 
 ## ⚡ 신경조절 치료 (Neuromodulation Therapy)
 
@@ -371,6 +377,9 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 인공신경망 모델, 컴퓨테이셔널 모델, 뇌-기계 인터페이스, LLM과 뇌.
 
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework를 interoception 기반으로 재정의 (Trends Cogn Sci 2025). NMPU와 직접 호환.
+- [[mathis-2026-leveraging-insights-from-neuroscience-to]] — 뇌→AI 방향 Perspective: internal model·**prediction error를 교사 신호로**·memory replay·모듈성에서 **적응형(adaptive) AI** 설계 원리를 끌어옴. 전문 인코더(pose·genomic·neural·VLM)를 LLM이 동적 라우팅하고 예측오차로 견고성을 감시하는 **agentic 아키텍처** 제안(미구현) (Nat Neurosci 2026, M.W. Mathis).
+- [[mathis-2026-joint-modelling-of-brain-and]] — 짝 논문(AI→뇌·행동 모델링). 결합 모델의 3계열·identifiability·평가 scorecard (NRN 2026). _(방법론은 🧪에도)_
+- [[concept-joint-brain-behaviour-modelling]] — 두 논문을 잇는 개념 hub; NMPU 축 분리 검정 등 섭식 적용 설계 메모 포함.
 
 ### AI 신약개발 (AI drug discovery)
 식욕·대사 GPCR 표적 발굴·리간드 설계에 적용되는 AI 창약 축. 개념 hub: [[concept-ai-drug-discovery]]·[[concept-de-novo-protein-design]]·[[concept-gpcr-drug-discovery]].
@@ -417,7 +426,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-food-insecurity]] · [[concept-food-environment-access]] · [[concept-food-addiction]]
 
 ### 발달 / atlas / 방법론
-- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]]
+- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]] · [[concept-joint-brain-behaviour-modelling]]
 
 ### 지질 감지 / 수용체 / 신경펩타이드
 - [[concept-neurotensin]] — LH·중뇌 Nts 펩타이드(섭식·음수·각성·운동·보상)
@@ -514,6 +523,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 종합·메타
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 논쟁 Nature Feature (2026).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 전사·행동을 인과 매개. 보상 신호 프레임 밖의 도파민 (Nature 2026, Maze lab). _(DOHaD는 🍽️ 발달 절에도)_
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa).
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — 중독=쾌락(양성강화) 아닌 **hyperkatifeia 제거(음성강화)**; 확장 편도체(CeA/BNST)·CRF·dynorphin·glucocorticoid; ghrelin·GLP-1 gut-brain 조절 (Neuron 2026, Koob). 개념 hub [[concept-negative-reinforcement-hyperkatifeia]]. 정서적 폭식·food addiction 이식.
 

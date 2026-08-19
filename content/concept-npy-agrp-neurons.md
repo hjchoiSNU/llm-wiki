@@ -2,7 +2,7 @@
 title: NPY/AgRP neurons
 type: concept
 created: 2026-04-29
-updated: 2026-06-17
+updated: 2026-08-19
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
 	
@@ -142,3 +142,5 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ **AgRP를 '섭식 뉴런'에서 '경쟁 동기 억제 스위치'로 재규정**: 절식 또는 ARC AgRP 활성화가 **GABA·NPY 방출로 MPOA 뉴런을 억제**해 처녀 암컷의 새끼 방치·공격을 유발하고, 역으로 새끼의 존재·흥분성 MPOA 활성은 배고픔 유발 섭식을 억제. 발정주기 프로게스테론:에스트라디올 비가 이 억제의 확률을 gating하며, **새끼 감작 경험이 있으면 절식해도 공격이 안 나타남**. 시상하부 밖에서는 절식이 **배측 봉선핵 Y1** 경유 NPY로 모성 돌봄을 억제 (NRN 2026). 개념 [[concept-medial-preoptic-area]].
 - [[concept-medial-preoptic-area]] — AgRP/NPY의 억제 표적이자 양육 허브(동기 경쟁의 상대편).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[davila-2026-agrp-neurons-are-required-for]] — ★ **통념 역전**: GLP-1RA(세마글루타이드)가 AgRP를 억제·우회하는 게 아니라 **모집**하며, AgRP 회로가 망가지면 식이 억제는 남되 **체중 감량이 무너진다**(지방 동원·β₃-교감신경 실패). 매개축 glucocorticoid→AgRP-GR, 암컷 특이 (PNAS 2026, Horvath lab).
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **인간** AgRP 뉴런 전사체: `ACVR1C`(최고 발현)·`GHSR`·`INSR`·`GHR`·`NR3C1`(GR)·`IL1R1`/`IL18R1`·`MC3R`·`AVPR1A`·`AGTR1`·후각수용체 3종; CART·GAL·TAC1·CRH·TRH 공동발현(rodent와 상이) (Nat Commun 2026).

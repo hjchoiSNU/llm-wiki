@@ -2,7 +2,7 @@
 title: "Ectopic olfactory receptors (이소성 후각수용체)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -25,3 +25,4 @@ updated: 2026-07-28
 - [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] · [[concept-fat-taste]] — 지질 감지 계층.
 - [[concept-gpcr-drug-discovery]] — GPCR 창약 지형.
 - [[concept-hypothalamic-obesity]] — 항비만 표적.
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 **AgRP 뉴런에서 후각수용체 `OR52N5`·`OR52N1`·`OR52H1` 선택 발현**; 미확인 순환 대사산물·미생물 유래 화합물 감지 가능성 제기 (Nat Commun 2026).
