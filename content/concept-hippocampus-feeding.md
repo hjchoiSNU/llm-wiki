@@ -2,7 +2,7 @@
 title: 해마와 섭식 (Hippocampus & Feeding) — orexigenic dlHPC
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -38,3 +38,4 @@ updated: 2026-06-01
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc가 공간 식욕기억을 매개(마우스).
 - [[azevedo-2019-a-role-of-drd2]] — 해마 hilus Drd2(LEC→해마→중격)가 맥락 의존 섭식 조절.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP의 먹이-거리 신호가 **공간 기억 회상**에 연동(암 조건에서 행동 선호·거리 신호 동반 소실); 저자 제안 경로 **해마→LS→LH→DMH→AgRP**가 해마-섭식 축을 hunger 회로에 직접 연결 (bioRxiv 2026, 미검증 가설).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 배측 해마 형성체(dHF)·subiculum이 **생식 경험의 최대 전사 재편 부위**이며, 도파민 의존 히스톤 변형이 그 지속성을 매개 (Nature 2026). 섭식이 주제는 아니나 dHF 가소성의 분자 기준선.

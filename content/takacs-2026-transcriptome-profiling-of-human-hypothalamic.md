@@ -104,3 +104,4 @@ RNA 보존 면역조직화학 + 레이저 캡처 미세절제 + bulk RNA-seq(**I
 - [[concept-mc4r]] — 하류 수용체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 `GLP1R`·`GIPR` 코딩 변이가 약물 반응을 좌우; 본 연구가 그 수용체들이 **어느 세포에 얼마나** 있는지의 좌표를 제공 (Nature 2026).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — **종간 수렴**: 본 논문의 인간 AgRP `ACVR1C` 고발현이, 마우스 AgRP를 **Sst형/Acvr1c형**으로 분할한 결과와 서로를 보강. 저쪽은 여기에 크로마틴 접근성 층을 더함 (bioRxiv 2025).

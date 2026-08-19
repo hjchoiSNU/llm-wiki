@@ -29,3 +29,5 @@ aliases: [SRT, Visium, Xenium, MERFISH, spatial transcriptomics, snRNA-seq atlas
 - [[concept-hypomap]] — 시상하부 단일세포 아틀라스(HypoMap) 맥락.
 - [[concept-medium-spiny-neuron]] — SRT로 인간 subtype 공간 정체가 규명된 세포군.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **IHC/LCM-Seq**: RNA 보존 면역염색(PVSA 2%) + 레이저 캡처 + bulk RNA-seq. 침수고정 사람 사후 뇌에 적용, **단백질 기준 세포 정의 + 공간 맥락 보존 + bulk 깊이**의 조합. 항원부활이 RNA를 파괴하는 문제를 RNase 억제제로 해결 (Nat Commun 2026).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — Xenium으로 AgRP 2아형·Bnc2/Glp1r 3아형의 ARC/VMH·DMH 공간 분포를 독립 검증 (bioRxiv 2025).
+- [[concept-cis-regulatory-element-obesity]] — 전사체·공간에 이은 **조절 층** 방법론 hub.

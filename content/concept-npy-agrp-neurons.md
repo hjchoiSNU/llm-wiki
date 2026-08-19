@@ -144,3 +144,4 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[davila-2026-agrp-neurons-are-required-for]] — ★ **통념 역전**: GLP-1RA(세마글루타이드)가 AgRP를 억제·우회하는 게 아니라 **모집**하며, AgRP 회로가 망가지면 식이 억제는 남되 **체중 감량이 무너진다**(지방 동원·β₃-교감신경 실패). 매개축 glucocorticoid→AgRP-GR, 암컷 특이 (PNAS 2026, Horvath lab).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **인간** AgRP 뉴런 전사체: `ACVR1C`(최고 발현)·`GHSR`·`INSR`·`GHR`·`NR3C1`(GR)·`IL1R1`/`IL18R1`·`MC3R`·`AVPR1A`·`AGTR1`·후각수용체 3종; CART·GAL·TAC1·CRH·TRH 공동발현(rodent와 상이) (Nat Commun 2026).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — AgRP 뉴런이 **Agrp/Sst형(ARC 배측)** 과 **Agrp/Acvr1c(ALK7)형(ARC 복측)** 으로 분할; Xenium 검증 각 ~42%. Acvr1c는 마우스 기능상실 시 DIO 방어·인간 SNP는 저체중 연관 (bioRxiv 2025).

@@ -2,7 +2,7 @@
 title: "Cue reactivity (큐 반응성)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -28,3 +28,4 @@ updated: 2026-07-28
 - [[concept-incentive-sensitization]] · [[concept-food-addiction]] · [[concept-liking-wanting]] — 상위 이론.
 - [[concept-digital-therapeutics]] — 임상 응용.
 - [[concept-inhibitory-control-demand]] — VR cue provocation으로 올라간 craving에 비례해 dlPFC·ACC 제어부하가 증가하는 trouble-resisting 국면.
+- [[zhang-2026-inherited-input-and-local-transformations]] — 학습된 cue 가치가 **전역 표상으로 부과되지 않고** 선재하는 감각 scaffold(pDMS의 cue 위치 지도) 위에만 얹힘. cue reactivity의 부위·감각 채널 편중에 대한 회로 문법 (bioRxiv 2026).

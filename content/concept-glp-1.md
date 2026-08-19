@@ -230,3 +230,4 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC의 `GLP1R` 발현 확인(단 마우스보다 낮음), 인간 AgRP도 저수준 `GLP1R` 검출; VL POMC 아집단에 농축 (Nat Commun 2026).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — `GLP1R` 미스센스 **rs10305420 (p.Pro7Leu)**가 인간 치료반응을 좌우(사본당 추가 −0.76 kg); 같은 좌위 변이가 오심·구토도 좌우하고 **효능 신호와 co-localize**(H4 96.6%) (Nature 2026, 23andMe GWAS n=27,885).
 - [[concept-glp1ra-response-variability]] — 반응 이질성 hub(비유전 임상 ~21% + 유전 ~4%p + 행동 표현형 + 회로 4층).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — 시상하부 **Lepr×Glp1r 공발현 뉴런 = Bnc2/Nkx2-4/Glp1r 3아형**(Ebf1/Trh/Tbx19); ARC는 Trh·Tbx19형, DMH는 Ebf1형 우세. PVH AVP 뉴런도 Glp1r 농축 (bioRxiv 2025).

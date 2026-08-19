@@ -2,7 +2,7 @@
 title: "Neurotensin (Nts)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -26,3 +26,4 @@ Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·
 - [[concept-lateral-hypothalamus]] — 상위 회로 hub.
 - [[concept-dopamine-reward-system]] · [[concept-need-motivation-pleasure-utility]] — 보상·동기 축과의 관계.
 - [[person-soden-marta]] · [[person-korotkova-tatiana]] — LH-Nts 회로 연구자.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LH의 **Nts 발현 LepR 클러스터**(cluster 3, GABAergic)를 전사·크로마틴 양쪽으로 정의 (bioRxiv 2025).

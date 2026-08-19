@@ -59,3 +59,4 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 - [[concept-emotional-eating]] — priming된 스트레스 민감성이 임상적으로 발현되는 경로.
 - [[concept-spatial-transcriptomics]] — 조직 내 분자 상태를 위치와 함께 읽는 상보적 방법론 hub.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 같은 문법의 다른 변형: 산후 스트레스 → **도파민 동역학 변화 → H3 dopaminylation** → dHF 전사·행동의 지속 재편 (Nature 2026, Maze lab).
+- [[concept-h3-dopaminylation]] — 같은 "경험→크로마틴" 문법의 다른 실행 단위: TG2가 히스톤 H3Q5에 모노아민을 공유결합. H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 사례.

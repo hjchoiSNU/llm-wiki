@@ -107,3 +107,4 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[davila-2026-agrp-neurons-are-required-for]] — ARC AgRP가 GLP-1RA 체중 감량에 **필수**(암컷); 세마글루타이드가 `Agrp`/`Npy`·c-FOS·미토콘드리아·AgRP→PVH 말단을 증강 (PNAS 2026).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 ARC(infundibular nucleus)의 AgRP·POMC·kisspeptin 3종 전사체를 세포당 14,000–16,000 transcript 깊이로 비교 (Nat Commun 2026).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ARC LepR 아형 지도(AgRP 2종·POMC 2종·KNDy·Ghrh·Pnoc/Htr3b·Tbx19/Anxa2·PNOC/NPY 등)와 아형별 열린 크로마틴; ARC의 Lepr^Glp1r은 **Trh/Tbx19형** 편중 (bioRxiv 2025).

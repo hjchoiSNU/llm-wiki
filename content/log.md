@@ -8,6 +8,37 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-19 — ingest (raw/ 미정리 3편: 선조체 상속-vs-국소변환 · LepR 뉴런 multiome · 모성 뇌 도파민 원문)
+
+`raw/` 328개 파일을 위키 `source:` 필드와 대조. 불일치 51건 중 파일명 변이(` 1`·`(1)`·`(2)`)·supplement·docx·mp4·README를 제외하고 **실제 미정리 3건**을 ingest. (직전 세션이 놓쳤던 표기 차이 2건 — Berridge 2020의 곡선따옴표, LepRb multiome — 을 이번에 정정 확인.)
+
+**새 페이지 4**
+- [[zhang-2026-inherited-input-and-local-transformations]] — bioRxiv 2026, Howe lab. 선조체 전역 34–81부위 광섬유 어레이로 **dSPN(D1-Cre)·iSPN(A2A-Cre) 칼슘 × flex-iGluSnFR 글루탐산 입력**을 병렬 측정. cue 위치(pDMS, 학습 불변, 대측 편향)·licking은 **입력에 이미 존재 = 상속**. **pDMS의 경로대립 가치**(dSPN⁺ 221/229 CS⁺ / iSPN CS⁻ 선호 65/73, kernel 부호 반대 p=6.83×10⁻¹⁷)와 **pVLS dSPN ramping**(20.6% vs iSPN 4.0%)은 **글루탐산 입력에 부재 = 국소 변환**. ramp 기울기가 예상 licking 개시 잠복을 예측(p=4.32×10⁻¹¹). 결론: 학습은 전역 가치 표상을 부과하지 않고, 입력 scaffold가 "쓸 수 있는 변수"를 정하고 국소 가소성이 "dSPN/iSPN 불균형으로 표현될지"를 정한다.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — bioRxiv 2025, UT Southwestern. NuTRAP^LepR FANS + 10x **Multiome**(22,581 핵) → LepR 시상하부 **39아형**. AgRP = **Sst형(ARC 배측)/Acvr1c(ALK7)형(ARC 복측)**, POMC = **Glipr1형(저 LepR)/Prdm12형(고 LepR)**, Lepr×Glp1r = **Bnc2/Nkx2-4/Glp1r의 Ebf1·Trh·Tbx19 3형제**(ARC는 Trh/Tbx19, DMH는 **Ebf1 우세·Glp1r 최고**). 클러스터 특이 OCR(intergenic 36–45%·intronic 43–50%) → **liftOver → GWAS/LD proxy/시상하부 eQTL/HuGE** 교차. 수렴 클러스터 **7·13·15**.
+- [[concept-h3-dopaminylation]] — 신규 개념 hub. TG2가 히스톤 H3 **글루타민 5**에 모노아민을 transamidation, H3K4me3와 공존(H3K4me3Q5dop). 도파민 작용 3층 표(수용체 ms–분 / 가소성 게이팅 분–일 / **크로마틴 주–개월**), 인과 도구표(CUT&RUN·H3.3(Q5A) 우성음성), 그리고 **섭식 회로에서의 측정 자료가 이 위키에 없다**는 열린 질문 명시.
+- [[concept-cis-regulatory-element-obesity]] — 신규 개념 hub. OCR→CRE→인간 비만 유전학 7단계 표준 파이프라인과 4대 구조적 한계(정적 스냅숏·masked enhancer, bulk eQTL의 세포타입 미분해, 상관 수준, liftOver 보존 편향).
+
+**전면 재작성 1**
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 2026-07-04에 **메타데이터 스텁(초록)** 으로 작성했던 페이지를, 이번에 `raw/`에 들어온 **원문 PDF**(Nature 654:465–473) 기반으로 전면 재작성. 스텁 경고·"자료 상태" 절 제거, `source:` 필드를 실제 PDF로 교체. 확인된 세부: 49 dpp 11부위 전사체(고민감 dHF·NAc·mPOA·LC·vHF), WGCNA 9모듈 중 도파민(green/magenta)·estrogen(yellow/brown) 분리, 교배+임신+출산이 1차 동인이나 산후 경험이 추가로 필요, stress RE(3h 분리+limited nesting, 10–20 dpp)가 control RE DEG의 **~85%를 반대 방향**으로 되돌림, dHF snRNA-seq 109,334핵 16클러스터(차이는 subiculum 흥분성 및 GABA.2/mossy cell), **반복 분리가 기저 도파민을 상승**시킴, H3K4me3Q5dop CUT&RUN에서 **parity가 dopaminylation을 하향**(마우스 dHF + 인간 dSub, NP 3 vs parous 5), **VTA→dHF chemogenetic 억제(AAVrg-TH.PI.Cre + hM4Di, DCZ)** 만으로 처녀에서 pup retrieval 획득(실패 8/13 → 1/15)·RE 유사 전사·dopaminylation 감소, **H3.3(Q5A) 우성음성**이 stress RE의 dopaminylation·전사·맥락 공포 행동을 회복. 스텁 시절 미확인으로 남겼던 3개 질문(항체 vs 질량분석 / 표적 도파민 경로 / 인간 코호트 정의)이 모두 해소됨.
+
+**갱신 페이지 30**
+- 선조체·보상: [[concept-medium-spiny-neuron]] · [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] · [[fallon-2026-striatal-pathways-dissociably-control-action]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] · [[yang-2026-a-sync-state-in-the]] · [[concept-cue-reactivity]] · [[concept-consumption-vigor]] · [[concept-appetitive-consummatory-phases]] · [[concept-need-motivation-pleasure-utility]] · [[adam-2026-dopamine-takes-hit-how-neuroscience]]
+- 시상하부·atlas: [[concept-leptin]] · [[concept-hypomap]] · [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-ghost-pomc-neurons]] · [[concept-arcuate-nucleus]] · [[concept-dorsomedial-hypothalamus]] · [[concept-ventromedial-hypothalamus]] · [[concept-neurotensin]] · [[concept-glp-1]] · [[rupp-2023-suppression-of-food-intake-by]] · [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] · [[concept-spatial-transcriptomics]]
+- 유전·후성유전: [[concept-glp1ra-response-variability]] · [[su-2026-genetic-predictors-of-glp1-receptor]] · [[concept-epigenetic-priming]] · [[kim-2026-early-life-stress-alters-h3k4me1]] · [[concept-astrocyte-neuron-lactate-shuttle]]
+- 모성·발달: [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-maternal-programming-hypothalamus]] · [[concept-medial-preoptic-area]] · [[concept-hippocampus-feeding]] · [[concept-early-life-adversity]] · [[freire-agulleiro-2026-early-life-programming-of]]
+- [[index.md|wiki/index.md]] — 🧪 방법론, 🍽️ 회로·세포, 🎯 Heterogeneity, 💡 메커니즘·분자 / 발달·atlas 4개 절 갱신. ochan 항목의 "초록 기반·PDF 미확보" 단서 제거.
+
+**교차 함의 3건**
+- **Heyward × Takács 종간 수렴**: 마우스 AgRP를 Sst형/**Acvr1c(ALK7)형**으로 분할한 결과와, [[takacs-2026-transcriptome-profiling-of-human-hypothalamic|Takács 2026]]의 **인간 AgRP `ACVR1C` 고발현**이 서로를 보강. Acvr1c가 종을 넘는 AgRP 아형 축일 가능성이 열림.
+- **Heyward × Rupp × 사용자 lab DMH 노선**: [[rupp-2023-suppression-of-food-intake-by|Rupp 2023]]의 DMH LepRb^Glp1r과 [[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]]의 DMH GLP-1R cognitive satiation이 가리키는 세포가 **Bnc2/Nkx2-4/Glp1r의 Ebf1형**이라는 검증 가능한 1차 가설이 생겼다. Ebf1이 Cre driver 후보 표지.
+- **Zhang의 방법론적 요구**: 식이 cue에 대한 NAc·DS의 D1/D2 해리를 "선조체가 계산했다"고 주장하려면 **동일 부위 글루탐산 입력 대조**가 필요하다는 기준선이 생겼다. 동시에 전측 복측 선조체(NAc 포함)의 CS⁺ 가치는 상당 부분 **상류 상속**일 수 있다는 경고이기도 하다.
+
+**남은 미정리·주의**
+- Halpern 논문 2편의 **supplement PDF**(`(supp)`/`(suppl)`)는 본문 페이지가 이미 존재해 별도 ingest하지 않음. 필요 시 해당 페이지 보강 재료.
+- `raw/2022 Brain Stimulation (Halpern) … hypothalamus.mp4` — 동영상 자료, 위키 페이지 대상 아님.
+- `raw/ochan-2026-….md` 메타데이터 스텁은 `raw/` 읽기전용 원칙에 따라 **삭제하지 않고 그대로 둠**(현 `source:`는 원문 PDF를 가리킴).
+- Zhang 2026·Heyward 2025는 **미심사 preprint**. Heyward는 1년령 암컷 pooling·기저 상태 단일 조건.
+
 ## 2026-08-19 — other + ingest (wiki/ 오적재 PDF 정리 → 발견된 미정리 논문 1편)
 
 **정리**: `wiki/` 폴더에 잘못 들어가 있던 PDF 4개(모두 6월 20일 동시 적재)를 사용자 승인 후 처리.

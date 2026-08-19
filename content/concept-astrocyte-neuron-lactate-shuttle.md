@@ -2,7 +2,7 @@
 title: 성상교세포-뉴런 젖산 셔틀 (Astrocyte-Neuron Lactate Shuttle, ANLS)
 type: concept
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-08-19
 aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle, 성상교세포 젖산, H3K9la, 젖산화, lactylation]
 ---
 
@@ -46,3 +46,5 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 - [[concept-glp-1]] — 뇌 GLP-1R가 성상교세포 대사를 통해 작동한다는 관점의 상위 약리 hub.
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 말초 위주 sema는 이 뇌 셔틀에 도달하지 못해 임상 음성이었을 가능성(대비).
 - [[concept-epigenetic-priming]] · [[kim-2026-early-life-stress-alters-h3k4me1]] — 같은 문법의 다른 입력: 여기서는 **대사(젖산)**가, 저기서는 **스트레스 경험**이 히스톤 코드를 써서 뉴런 반응성을 바꾼다(H3K9 젖산화 vs H3K4me1 priming).
+- [[concept-h3-dopaminylation]] — 대사·신호 분자가 히스톤에 직접 붙는 같은 문법의 자매 사례(H3K9 lactylation ↔ TG2 매개 H3Q5 dopaminylation).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 그 1차 출처 (Nature 2026).

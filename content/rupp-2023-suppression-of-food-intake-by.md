@@ -2,7 +2,7 @@
 title: Glp1r/Lepr 공발현 뉴런에 의한 식이 억제와 비만 예방 (Rupp et al., 2023)
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 source: raw/2023 JCI Suppression of food intake by Glp1r Lepr-coexpressing neurons prevents obesity in mouse models.pdf
 authors: [Rupp AC et al. (Myers MG)]
 year: 2023
@@ -41,3 +41,4 @@ snRNA-seq로 발굴한, DMH에 집중된 보존적 GABA성 LepRb^Glp1r(Glp1r·Le
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 다른 부위 LepRb 뉴런의 섭식 제어 비교.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — DMH GLP-1R cognitive satiation(사용자 lab)과 세포 접점.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — leptin×GLP-1 수렴점을 표적 회로 관점에 편입.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — 본 논문의 DMH LepRb^Glp1r 뉴런을 **Bnc2/Nkx2-4/Glp1r의 Ebf1형·Trh형·Tbx19형 3아형**으로 분해; DMH에서는 Ebf1형이 최다·Glp1r 최고 발현 (bioRxiv 2025).

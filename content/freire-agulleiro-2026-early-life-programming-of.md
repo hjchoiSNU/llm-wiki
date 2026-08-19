@@ -2,7 +2,7 @@
 title: "Freire-Agulleiro, Lee & Quarta 2026 — Early-life programming of hypothalamic circuits by maternal obesity"
 type: paper
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-19
 source: raw/2026 Early-life programming of hypothalamic circuits by maternal obesity implications for neuroendocrine disorders.pdf
 authors: [Óscar Freire-Agulleiro, Thomas H. Lee, Carmelo Quarta]
 year: 2026
@@ -173,3 +173,4 @@ ARC melanocortin system (POMC vs AgRP/NPY + MC3R·MC4R)이 가장 sensitive. PVN
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-quarta-carmelo]] — 저자.
 - [[concept-early-life-adversity]] — 초기역경 발달 programming 개념 hub.
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — DOHaD 축의 **반대편 절반**: 자손이 아닌 **모체 자신**의 뇌가 생식 경험으로 영구 재편되며, 도파민 의존 후성유전이 매개 (Nature 2026).

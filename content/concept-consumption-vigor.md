@@ -2,7 +2,7 @@
 title: "Consumption vigor (소비 강도)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -24,3 +24,4 @@ updated: 2026-07-28
 - [[concept-liking-wanting]] · [[concept-dopamine-reward-system]] — wanting 이론·기질.
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH-Nts licking 운동량 부호화(접점).
 - [[concept-appetitive-consummatory-phases]] — consummatory phase.
+- [[zhang-2026-inherited-input-and-local-transformations]] — pVLS **dSPN ramping의 기울기가 예상 licking 개시 잠복을 예측**(가파를수록 이른 lick); vigor·행동 개시의 선조체 accumulator 후보. 글루탐산 입력에는 없는 국소 변환 신호 (bioRxiv 2026).

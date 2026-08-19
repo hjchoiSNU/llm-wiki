@@ -2,7 +2,7 @@
 title: "중뇌 도파민 네트워크의 'sync state'와 내수용 영양 학습 (Yang 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-19
 source: "raw/2026 Cell. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
 authors: [Xiao Yang, Weijie Yan, Weixuan Lu, Ruijie Wang, Rong Gong]
 year: 2026
@@ -41,3 +41,4 @@ year: 2026
 - [[concept-flavor-nutrient-conditioning]] — 신경 상태 수준에서 이 학습을 설명.
 - [[concept-consumption-vigor]] — 측정 구성개념(wanting/Motivation proxy).
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]] — NMPU Motivation↔Utility, consummatory phase 특이 상태.
+- [[zhang-2026-inherited-input-and-local-transformations]] — **시간축 상보**: 본 논문이 섭취 **후** 도파민 sync state의 credit assignment를 다룬다면, 저쪽은 보상 **전** pVLS dSPN ramping이 섭취 개시 시점을 예측함을 보임 (bioRxiv 2026).

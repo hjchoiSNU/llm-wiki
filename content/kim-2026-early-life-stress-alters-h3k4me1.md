@@ -86,3 +86,4 @@ doi: 10.1016/j.neuron.2026.07.018
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스가 회로 수준에서 goal→habit을 전환(본 논문은 그 상류 반응성 자체를 프로그램).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 발달·경험이 회로를 재구성한다는 같은 논지의 다른 사례(양육 회로; microglia 매개 pruning·사춘기 재편·감작).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 자매 사례. 본 논문 ELS→VTA `H3K4me1`/SETD7 vs 산후 스트레스→dHF **H3 dopaminylation**. 둘 다 도파민 회로가 무대이고 "경험→히스톤→지속 행동" 문법을 공유 (Nature 2026).
+- [[concept-h3-dopaminylation]] — 자매 변형의 개념 hub. 여기서는 H3K4me1/SETD7, 저쪽은 TG2 매개 H3Q5 모노아민화.

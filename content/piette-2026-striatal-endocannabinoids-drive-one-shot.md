@@ -2,7 +2,7 @@
 title: Striatal endocannabinoids drive one-shot learning (Piette 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-19
 source: raw/2026 Nature Neuroscience. Striatal endocannabinoids drive one-shot learning.pdf
 authors: [Charlotte Piette, Arnaud Hubert, Sylvie Perez, Jérémy Peixoto, Nicolas Gervasi, Hugues Berry, Jonathan Touboul, Laurent Venance]
 year: 2026
@@ -80,3 +80,5 @@ doi: 10.1038/s41593-026-02392-z
 - [[concept-hedonic-hotspot]] — NAc shell 핫스폿에서 엔도카나비노이드가 '좋아함'을 증폭하는 별개 축(같은 분자, 다른 기능).
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 말초 eCB→지방 섭취 축(본 논문의 중추 축과 대비).
 - [[concept-computational-ethology]] — 본 논문의 PCA 기반 avoidance index·궤적 정량이 속한 행동 계측 문제.
+- [[zhang-2026-inherited-input-and-local-transformations]] — 부위별 국소 변환의 존재를 신호 수준에서 확인(pDMS 경로대립 가치·pVLS ramping이 입력에 부재). 본 논문의 DLS vs DMS 가소성 규칙 분업이 그 분자 후보 중 하나 (bioRxiv 2026).
+- [[concept-h3-dopaminylation]] — 도파민이 가소성 규칙을 넘어 **크로마틴 상태**까지 직접 쓰는 세 번째 층.

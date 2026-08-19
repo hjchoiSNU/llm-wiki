@@ -71,6 +71,8 @@ title: 뇌과학 LLM Wiki
 - [[concept-joint-brain-behaviour-modelling]] — **신경-행동 결합 모델링 hub**: discriminative/generative/contrastive 3계열, identifiability(왜 CEBRA류가 세션·개체 간 비교를 보장하는가), 그리고 디코딩 정확도만으로 모델을 고르지 말라는 **trustworthiness scorecard**.
 - [[mathis-2026-joint-modelling-of-brain-and]] — 결합 모델링 방법론 리뷰: 세 계열의 손실함수·한계 정리, LFADS·SLDS·CEBRA·MARBLE, 행동 위계(activity→action→motion primitive), consistency·robustness·identifiability scorecard 제안 (NRN 2026, Mathis & Mathis). _(AI 축은 🤖에도)_
 - [[concept-spatial-transcriptomics]] — 공간전사체(Visium/Xenium/MERFISH)+snRNA-seq 통합 방법론 hub. 인간 뇌 부위 아틀라스·rodent→human transfer learning.
+- [[concept-cis-regulatory-element-obesity]] — **조절 층 방법론 hub**: 세포타입 특이 열린 크로마틴(OCR) → mm10→hg38 liftOver → 비만 GWAS/시상하부 eQTL/HuGE 점수 교차로 **비코딩 변이를 세포아형에 귀속**. BETA·masked enhancer·bulk eQTL 한계 정리.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — snRNA+snATAC **multiome**(22,581 핵)으로 시상하부 LepR 뉴런 39아형 정의 + 아형별 CRE를 인간 비만 유전학과 연결 (bioRxiv 2025, Heyward). _(회로·세포 내용은 🍽️에도)_
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA, MRI 정합); 25영역·59뉴런타입·DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026, Jun Yan lab).
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc Visium+snRNA-seq 아틀라스; D1/D2 MSN 연속 공간 gradient·OPRM1+ D1 island(오피오이드 hedonic 상관)·rodent 약물반응 transfer learning (Neuron 2026, Maynard/Lieber). _(보상 회로는 🎯에도)_
 - [[mueller-2025-privi-towards-general-purpose-video]] — PriVi: NHP 행동 영상 자동 인식 video foundation model(V-JEPA 기반, 424h primate 데이터·frozen encoder). NHP 자유행동 섭식 정량화 도구 (2025, Ecker lab). _(방법 인프라, appetite 회로 아님)_
@@ -127,6 +129,7 @@ _(섭식·동기 행동은 🍽️로)_
 ### 회로·세포
 - [[davila-2026-agrp-neurons-are-required-for]] — ★ **GLP-1RA 통념 역전**: 세마글루타이드가 ARC AgRP를 억제·우회하는 게 아니라 **모집**; AgRP 회로 파괴 시 식이 억제는 남되 **체중 감량 붕괴**(지방 동원·β₃-교감신경·미토콘드리아 실패). 매개축 **glucocorticoid→AgRP-GR**, **암컷 특이**(난소절제로 부분 회복)·식이·조작시점 의존 (PNAS 2026, Horvath lab).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — ★ **인간** AgRP·POMC·kisspeptin 뉴런 전사체(세포당 14,000–16,000 transcript, IHC/LCM-Seq). 인간 POMC=`GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`·`OPRM1`, 인간 AgRP=`ACVR1C`·`GHSR`·`INSR`·`GHR`·`NR3C1`·사이토카인 수용체·후각수용체 3종. **CART 발현이 rodent와 정반대**·POMC DM/VL 공간 분업 (Nat Commun 2026, Hrabovszky lab). _(방법론은 🧪에도)_
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ★ 마우스 **LepR 시상하부 뉴런 39아형** 지도(snRNA+snATAC multiome). AgRP=**Sst형/Acvr1c형**, POMC=**Glipr1형/Prdm12형**, Lepr×Glp1r=**Bnc2/Nkx2-4/Glp1r의 Ebf1(DMH)·Trh·Tbx19(ARC) 3형제**. 아형별 cis-조절요소를 인간 비만 GWAS/eQTL/HuGE와 교차 (bioRxiv 2025). _(방법론은 🧪에도)_
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH 종합 (EMM 2025, 사용자 lab).
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입(>30 subtype)·에너지 항상성 종합 리뷰: Vgat("engine")/Vglut2("brake")/orexin·MCH·LHA^Lepr(social)·LHA^Nts(thirst) 프레임 (Cells 2025, Peking U. 레퍼런스).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 음식 **맛(taste)이 bout마다 AgRP를 일시 억제**(post-ingestive와 독립)→satiation 앞당김; 상류 **DMH^LepR이 sweet/fat 맛에 동조**(AgRP 거울상)·맛+영양 통합; Garfield 2016의 taste·meal-termination 버전 (Neuron 2024, Knight lab).
@@ -247,7 +250,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — ★ ELS(P10–17)가 성체 **VTA 히스톤 지형을 허용적으로 재편**(변화 변형의 75%가 permissive); **SETD7·H3K4me1**이 성체 스트레스에 대한 전사 반응·도파민 뉴런 흥분성(I_h)·사회회피에 **필요하고 충분**. Setd7-OE는 ELS 없이 취약성 재현, ELS 후 Setd7-KD는 resilient 0%→33%. **기저는 정상, 2차 hit에서만 발현** (Neuron 2026, Peña·Creed lab). 개념 [[concept-epigenetic-priming]]. _(VTA 도파민은 🎯에도)_
 - [[concept-epigenetic-priming]] — 발달기 경험이 허용적 크로마틴(H3K4me1·SETD7)으로 저장돼 미래 자극 반응성을 증폭한다는 개념 hub; 히스톤 질량분석·epigenome editing 방법론 포함.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 모체 자신의 회로가 임신·출산·수유 호르몬으로 재편되는 축(자손 programming의 상류 조건). _(본문은 🧩에)_
-- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — ★ 모체 뇌 재편의 **분자 기전**: 산후 스트레스가 도파민 동역학을 바꿔 **H3 dopaminylation**(도파민 의존 히스톤 변형)을 통해 배측 해마 전사·행동을 지속 재편; 인간 subiculum에서 parity 의존 보존; 처녀 마우스 dHF 도파민 억제만으로 재현(충분성) (Nature 2026, Maze lab). _(초록 기반 페이지 — 원문 PDF 미확보)_ _(도파민 축은 🎯에도)_
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — ★ 모체 뇌 재편의 **분자 기전**: 산후 스트레스가 도파민 동역학을 바꿔 **H3 dopaminylation**(도파민 의존 히스톤 변형)을 통해 배측 해마 전사·행동을 지속 재편; 인간 subiculum에서 parity 의존 보존; 처녀 마우스 dHF 도파민 억제만으로 재현(충분성) (Nature 2026, Maze lab). _(도파민 축은 🎯에도)_
 
 ## ⚡ 신경조절 치료 (Neuromodulation Therapy)
 
@@ -416,6 +419,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)
 - [[concept-emotional-eating]] · [[concept-early-life-adversity]] — 정서적 섭식·초기역경 발달 programming
 - [[concept-epigenetic-priming]] — 허용적 크로마틴(H3K4me1·SETD7)이 미래 자극 반응성을 증폭; 잠재 취약성의 분자 저장 기전
+- [[concept-h3-dopaminylation]] — 도파민·세로토닌이 **TG2를 통해 히스톤 H3Q5에 공유결합**(H3K4me3와 공존); 도파민 작용의 제3의 층(주–개월 시간척도). H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 도구
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
@@ -427,7 +431,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-food-insecurity]] · [[concept-food-environment-access]] · [[concept-food-addiction]]
 
 ### 발달 / atlas / 방법론
-- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]] · [[concept-joint-brain-behaviour-modelling]]
+- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]] · [[concept-joint-brain-behaviour-modelling]] · [[concept-cis-regulatory-element-obesity]]
 
 ### 지질 감지 / 수용체 / 신경펩타이드
 - [[concept-neurotensin]] — LH·중뇌 Nts 펩타이드(섭식·음수·각성·운동·보상)
@@ -573,6 +577,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 역방향 **VTADA→LH**가 cue–특정결과 학습·의사결정(PIT)에 필요·충분; LH 도파민=비-RPE 보상근접 ramp; 메스암페타민이 LH-VTA 양방향 강화→cue 통제력↑(habit 이론 반박) (Neuron 2026, Sharpe lab).
 - [[dong-2026-reward-prediction-is-encoded-by]] — LH [[concept-orexin-neurons|orexin]] 뉴런이 **reward prediction을 부호화**(보상 직전 상승·수령 후 감소·effort 의존); 예측 직전 짧은 광억제만으로 동기 행동 차단; orexin-Cre rat 인과 (PNAS 2026). 단순 arousal 아님. _(LH 회로는 🍽️에도)_
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — 등외측 선조체 **dSPN(D1)/iSPN(D2)가 steering(방향)과 action counting(횟수 세기)을 push–pull로 해리 제어**; net(dSPN−iSPN)=목표 근접도; accumulator vs leak (Nat Neurosci 2026, Yin lab). [[concept-medium-spiny-neuron|MSN]] 기능 분업 확장.
+- [[zhang-2026-inherited-input-and-local-transformations]] — 선조체 전역 dSPN/iSPN 칼슘 **× 글루탐산 입력** 병렬 측정으로 신호의 기원을 해리: cue 위치·licking은 **상속**, **pDMS 경로대립 가치(dSPN⁺/iSPN⁻)** 와 **pVLS dSPN ramping**은 **국소 변환**. 학습은 전역 가치를 부과하지 않고 선재 감각 scaffold 위에만 얹힌다 (bioRxiv 2026, Howe lab).
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 도파민의 또 다른 역할: **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). _(본문은 🧩에)_
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — VTA 도파민 뉴런의 **크로마틴 priming**(SETD7·H3K4me1)이 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭; 기저 상태는 정상 (Neuron 2026). _(본문은 🍽️ 발달/DOHaD에)_
 

@@ -2,7 +2,7 @@
 title: Neural circuits for mammalian parental behaviour (Jamieson & Kohl 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-19
 source: raw/2026 NRN Neural circuits for mammalian parental behaviour.pdf
 authors: [Bradley B. Jamieson, Johannes Kohl]
 year: 2026
@@ -96,3 +96,5 @@ doi: 10.1038/s41583-026-01073-x
 - [[concept-early-life-adversity]] — 양육의 질·경험이 자손의 발달 programming 상류.
 - [[xu-2020-behavioral-state-coding-by]] — PVH 세포타입 ensemble의 행동상태 coding; 본 리뷰의 "내부 상태가 회로를 재구성" 논지와 공명.
 - [[concept-basolateral-amygdala]] · [[concept-cortical-amygdala]] — MeA·PA 등 확장편도가 새끼 신호를 동기 상태로 변환하는 평가 단계.
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 본 리뷰가 정리한 모성 회로 재편의 **분자 지속 기전**: 생식 경험이 dHF를 전사 재편하고 그것을 **도파민 → H3 dopaminylation**이 유지; VTA→dHF 도파민 억제만으로 처녀 마우스에서 새끼 회수 행동이 획득됨 (Nature 2026, Maze lab).
+- [[concept-h3-dopaminylation]] — 그 재편의 실행 단위 개념 hub.

@@ -81,3 +81,4 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존); AgRP는 글리코겐 비의존 (Nat Metab 2026, Claret lab).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **인간** POMC 전사체: `GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`·`OPRM1`·`PRLR`·`HCRTR2` 보유, **CART 음성**(rodent 정반대), `Glp1r`는 마우스가 더 높음; DM(CALCR·SSTR1·RAMP1) vs VL(LEPR·GLP1R·RAMP3) 공간 분업 (Nat Commun 2026).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — POMC가 **Pomc/Glipr1형(저 LepR)** 과 **Pomc/Prdm12형(~4배 LepR)** 으로 분할; 두 클러스터 모두 Gad1/2 상당량 발현(POMC ~40% GABAergic과 일치). Prdm12형은 인간 비만 유전 증거 수렴 클러스터 (bioRxiv 2025).

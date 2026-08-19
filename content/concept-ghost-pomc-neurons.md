@@ -2,7 +2,7 @@
 title: Ghost POMC neurons
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-19
 aliases: [Ghost POMC, atypical POMC, ghost neurons]
 ---
 
@@ -50,3 +50,4 @@ aliases: [Ghost POMC, atypical POMC, ghost neurons]
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 사용자 lab 가소성 임상.
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — rebound 메커니즘.
 - [[person-quarta-carmelo]] — 발견자.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — POMC 이질성의 크로마틴 층: **Pomc/Glipr1(저 LepR) vs Pomc/Prdm12(고 LepR)** 두 아형과 아형별 cis-조절요소 (bioRxiv 2025).

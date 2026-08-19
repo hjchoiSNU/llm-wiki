@@ -184,4 +184,6 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). 개념 [[concept-one-shot-learning]].
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 초기 역경이 **VTA 도파민 뉴런의 크로마틴을 priming**해 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭(기저는 정상); SETD7/H3K4me1 양방향 인과 (Neuron 2026). 개념 [[concept-epigenetic-priming]].
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — MPOA→VTA→NAc가 **새끼 자극에 incentive salience**를 부여; 산후 쥐에서 새끼 강화가가 코카인을 넘을 수 있음. 도파민 보상계의 비-섭식 자연 보상 사례 (NRN 2026).
-- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 배측 해마 전사·모성 행동 적응을 인과 매개; 인간 subiculum에서 parity 의존 보존 (Nature 2026, Maze lab). _(초록 기반 페이지)_
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 배측 해마 전사·모성 행동 적응을 인과 매개; 인간 subiculum에서 parity 의존 보존 (Nature 2026, Maze lab).
+- [[zhang-2026-inherited-input-and-local-transformations]] — 도파민 표적인 dSPN/iSPN에서 **경로 대립 가치·보상근접 ramping이 글루탐산 입력에 없음** → 선조체 국소 변환의 산물이며 도파민 의존 가소성이 유력 후보 (bioRxiv 2026).
+- [[concept-h3-dopaminylation]] — 도파민 작용의 **제3의 층**: 수용체를 거치지 않고 TG2가 히스톤 H3Q5에 도파민을 공유결합, 주–개월 시간척도의 전사 상태를 만든다.

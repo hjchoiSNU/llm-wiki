@@ -2,7 +2,7 @@
 title: Ventromedial hypothalamus (VMH)
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-19
 aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 ---
 
@@ -67,3 +67,4 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — VMH의 **사회행동 축**: VMHvl이 암컷 성적 수용성의 주 조절자이자 **PA→VMHvl^Npy2r**가 모성 공격 회로; 프로락틴이 VMH PRLR로 공격을 억제. anti-parental PeFA^Ucn3→VMH는 새끼 탐색을 억제 (NRN 2026).
 - [[concept-medial-preoptic-area]] — 양육·성 동기를 함께 조율하는 인접 전시상하부 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — VMH LepR 뉴런이 **Nr5a1(SF-1) 3아형**·Qrfpr·Foxb1로 분해되며 아형별 열린 크로마틴 확보 (bioRxiv 2025).

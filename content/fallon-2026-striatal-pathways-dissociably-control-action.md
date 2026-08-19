@@ -2,7 +2,7 @@
 title: Striatal pathways dissociably control action counting and goal-directed steering
 type: paper
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-08-19
 source: raw/2026 Nature Neuroscience. Striatal pathways dissociably control action counting and goal-directed steering.pdf
 authors: [Fallon IP, Roshchina M, Hong F, Fernandez S, Ruan S, Yin HH]
 year: 2026
@@ -49,3 +49,4 @@ year: 2026
 - [[concept-computational-ethology]] — 본 논문의 DeepLabCut kinematics 측정이 속한 도구 계열 hub; 이산 press와 연속 운동학을 함께 다루는 계측 문제.
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 같은 DLS의 **입력단**: dSPN/iSPN이 출력을 나눈다면, 그 corticostriatal 입력 시냅스는 eCB-LTP(짧은 1회 경험)/NMDA-LTP(반복 경험)로 가소성 규칙을 나눈다. presynaptic D2R 결손이 두 논문 모두에서 핵심 (Nat Neurosci 2026).
 - [[concept-one-shot-learning]] — DLS 시냅스의 비고전적 가소성 규칙 개념 hub.
+- [[zhang-2026-inherited-input-and-local-transformations]] — 같은 dSPN/iSPN 분업을 **신호의 기원**(상속 vs 국소 변환) 측면에서 물음. 본 논문이 인과 조작으로 출력을 보였다면, 저쪽은 입력 대조로 계산 위치를 특정 (bioRxiv 2026, Howe lab).

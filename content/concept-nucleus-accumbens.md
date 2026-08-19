@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -69,3 +69,5 @@ updated: 2026-06-01
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — NAc CP-AMPAR 상향과 cue approach 강화.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — **비-섭식 자연 보상**으로서의 새끼: MPOA→VTA→NAc가 새끼에 incentive salience 부여, NAc shell DA 고갈·수용체 차단이 retrieval·grooming 손상, 개체별 모성행동 차이가 DA 신호 강도와 상관. 산후 쥐의 새끼 lever-press가 코카인을 넘을 수 있음 (NRN 2026).
 - [[concept-medial-preoptic-area]] — NAc 보상 축을 새끼 자극에 연결하는 시상하부 상류 허브.
+- [[zhang-2026-inherited-input-and-local-transformations]] — 전측 복측 선조체(NAc 포함)의 학습된 CS⁺ 가치는 dSPN·iSPN **수렴형**이며 글루탐산 입력에도 이미 존재 → 상당 부분 **상류에서 상속**된 신호 (bioRxiv 2026).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — NAc가 생식 경험 **고민감 부위** 중 하나이자 새끼 분리 시 도파민 상승이 가장 큰 곳 (Nature 2026).

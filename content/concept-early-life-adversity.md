@@ -2,7 +2,7 @@
 title: Early-life adversity (초기 역경) / 발달기 stress programming
 type: concept
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-08-19
 aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분리, developmental programming]
 ---
 
@@ -43,3 +43,5 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 - [[concept-loss-of-control-eating]] — 폭식/BED 표현형.
 - [[concept-leptin]] — leptin 발달 trophic 역할.
 - [[concept-lateral-hypothalamus]] — LH^Lepr 회로 무대.
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — **모체 쪽** 대응 사례: 산후 스트레스(모자 분리+limited nesting, 10–20 dpp)가 dHF 적응의 ~85%를 반대 방향으로 되돌리고 학습 이점을 소거 (Nature 2026).
+- [[concept-h3-dopaminylation]] — 스트레스가 남기는 크로마틴 흔적의 새 변형 축.

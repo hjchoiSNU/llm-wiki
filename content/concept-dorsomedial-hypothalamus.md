@@ -2,7 +2,7 @@
 title: Dorsomedial hypothalamus (DMH)
 type: concept
 created: 2026-05-25
-updated: 2026-05-31
+updated: 2026-08-19
 aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ---
 
@@ -74,3 +74,4 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[crunkhorn-2025-pairing-up-with-glp-1]] — GLP-1×렙틴 이중작용제가 바로 이 DMH LepR^Glp1r 뉴런을 표적(인과 검증); NHP DMH 공발현 (하이라이트, Polex-Wolf 2024).
 - [[cao-2024-hunting-for-heroes-brain]] — DMH^GLP-1R preingestive satiation 논점 맥락화.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — DMH의 Lepr×Glp1r 뉴런이 **Bnc2/Nkx2-4/Glp1r 계열**이며 DMH에서는 **Ebf1형이 우세·Glp1r 최고 발현**(Xenium ~60%) → liraglutide 포만 매개 DMH LepR 뉴런의 분자 정체 후보 (bioRxiv 2025).

@@ -89,3 +89,5 @@ GLP-1 수용체 작용제의 체중 감량 효능과 부작용은 개인차가 �
 - [[petersen-2026-the-evolving-landscape-of]] — 비만 약물치료 지형·정밀의료.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 약물 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — 미설명 분산을 **비코딩 조절 변이 × 세포아형** 축에서 탐색할 좌표계: 시상하부 LepR 39아형의 CRE를 인간 GWAS/eQTL/HuGE와 교차 (bioRxiv 2025).
+- [[concept-cis-regulatory-element-obesity]] — 그 접근의 방법론 hub(OCR → liftOver → GWAS/eQTL/HuGE).

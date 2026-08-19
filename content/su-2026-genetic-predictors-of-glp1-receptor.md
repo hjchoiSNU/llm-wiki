@@ -101,3 +101,5 @@ doi: 10.1038/s41586-026-10330-z
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 표현형 기반 개인화 framework (사용자 lab).
 - [[petersen-2026-the-evolving-landscape-of]] — 비만 약물치료 지형; 정밀의료 섹션의 근거 논문.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 incretin 약물 hub.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — **비코딩 쪽 짝**: 본 논문이 코딩 변이(GLP1R p.Pro7Leu, GIPR p.Glu354Gln)를 다뤘다면, 저쪽은 세포아형 특이 enhancer 위의 조절 변이를 후보로 제시 (bioRxiv 2025).
+- [[concept-cis-regulatory-element-obesity]] — 비코딩 변이를 세포아형에 귀속시키는 방법론 hub.

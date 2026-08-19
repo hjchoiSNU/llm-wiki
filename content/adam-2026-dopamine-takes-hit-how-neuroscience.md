@@ -2,7 +2,7 @@
 title: "What does dopamine actually do?"
 type: paper
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-08-19
 source: "raw/2026 Nature. Dopamine takes a hit- how neuroscience is rethinking the ‘feel-good’ chemical.pdf"
 authors: [Adam D]
 year: 2026
@@ -80,3 +80,5 @@ journal: "Nature 651:572–574 (Feature)"
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — DA를 말초 내수용 신호에 의존하는 'interoceptive gating' 관점으로 재정의 (Sci Adv 2026).
 - [[berridge-2023-separating-desire-from-prediction-of]] — 도파민='갈망(incentive salience)'이며 예측가치로 환원 불가; TD/예측처리 진영에 대한 동기-기반 반론 (TiCS 2023).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민 프레임 확장의 구체 사례: 수용체 신호가 아닌 **히스톤 공유결합(H3 dopaminylation)** 이 전사·행동을 인과 매개 (Nature 2026).
+- [[concept-h3-dopaminylation]] — 그 작용 양식의 개념 hub.
