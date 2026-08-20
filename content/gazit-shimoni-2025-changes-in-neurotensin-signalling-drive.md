@@ -110,3 +110,4 @@ Cre-dependent **NTS 과발현(AAV-NTS-OE)** 을 NAcLat→VTA 투사 뉴런에 �
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 차세대 체중감량 약물이 억제하는 보상 회로(NTS→CeA→VTA→NAc DA↓)와의 대비.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] · [[grove-2022-dopamine-subsystems-track-internal]] — LH↔VTA 양방향 축.
 - [[person-lammel-stephan]] — 교신저자, mesolimbic 회로 이질성 연구.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 논문을 §24.4.3의 핵심 근거로 사용한 교재 챕터(식락학 Ch 24).

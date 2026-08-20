@@ -68,3 +68,4 @@ authors: [최형진 (Choi Hyung Jin)]
 - [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]] — 그렐린·CCK·GLP-1·PYY 분비·생리 종합(챕터의 학술 backbone).
 - [[concept-need-motivation-pleasure-utility]] — 호르몬 신호 통합 → 동기·섭식 결정의 이론 framework.
 - [[concept-interoception]] — 위장관 호르몬·미주 구심성이 전달하는 내수용 신호의 상위 개념.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 Ch 24 정리본. 본 챕터의 포만 호르몬 동역학을 24.1(갈망≠배고픔)·24.3.5(섭취 속도 대 포만 신호 도착 시간)에서 인용.

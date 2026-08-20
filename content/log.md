@@ -8,6 +8,33 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-20 — 챕터 작성 (식락학 Ch 24: 음식 갈망과 중독)
+
+사용자 요청으로 식락학 교재 **Ch 24**(음식 갈망과 중독: 생물학적·화학적 관점) 집필. 사용자 담당 4개 챕터 중 셋째(18 ✅ · 20 ✅ · **24 ✅** · 25 미착수).
+
+**포맷·문체 기준(사용자 지정)**
+- **구조·분량·포맷**: `Downloads/박태현/`의 9·10·11장 파일을 롤모델로 지정받아 분석 → **목차 / 본문 / 그림 3분할 docx** 구성, 본문 23,000–24,300자(공백 제외)·대절 4–6개·소절 15–28개·그림 6–13개 규모를 목표로 삼음.
+- **문체·인용**: 사용자 본인 원고 2편(`내 드라이브/원고/식락학/(수정 보완 예정) … Ch 20 …_2026_06_25.docx`, `… Ch 18_v3.docx`)을 지정받아 분석 → 서술체·일상 사례 도입·한글(영문) 병기·**author-year 인용**·"이 장의 길잡이" 도입 문단 방식을 따름. (박태현 원고는 번호 인용 `(1)` 방식이지만, 문체 기준을 사용자 원고로 지정받아 author-year를 유지.)
+- 용어는 [[reference-sikrakhak-glossary]]를 1차 기준으로 통일.
+
+**산출물 3종** (프로젝트 루트, `raw/` 밖)
+- `[24장-1 목차] - 2026.08.20.docx` — 7개 대절 · 36개 소절.
+- `[24장-2 본문] - 2026.08.20.docx` — **25,053자(공백 제외)**, 참고문헌 38편, 그림 12개 인용.
+- `[24장-3 그림] - 2026.08.20.docx` — 그림 24.1–24.12 캡션.
+
+**본문 구성**: 24.1 갈망≠배고픔(3국면) / 24.2 갈망의 생물학(필요-갈망 분리·단서 반응성·유인-감작·스트레스·측정·**취약성 3층**) / 24.3 음식의 화학(당·지방 조합·감각 특이적 포만감 무력화·맛=대리보상 vs 영양=1차보상·두 도파민·향미-영양 학습·속도) / 24.4 회로 재편 5층(단서 도파민·**쾌락 가치 저하**·습관·강박·음성 강화) / 24.5 음식 중독 논쟁(YFAS 순환성·동물 3모델 해리·물질 vs 행동 중독·**끊을 수 없다는 구조적 난점**·LOC eating·신중론·식품 불안정) / 24.6 개입(5 표현형·단서 줄이기·약물·회로 개입) / 24.7 맺음말.
+
+**새 페이지 1**
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 챕터 정리본. 절별 요약 + 위키 소스 매핑 + 이번 집필로 새로 생긴 연결 3개(① 유인-감작 ↔ 쾌락 가치 저하의 **측정 축 차이** 화해 논증, ② 음식 중독의 '끊을 수 없다' 구조적 비대칭, ③ 취약성 3층 모델) 명시.
+
+**갱신 페이지 18**
+- 교재: [[overview-sikrakhak-book-project]](Ch 24 ✅ 목차·담당표 갱신) · [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] · [[overview-sikrakhak-ch18-appetite-hormones]] · [[reference-sikrakhak-glossary]] · [[person-choi-hyung-jin]]
+- 개념 hub: [[concept-food-addiction]] · [[concept-incentive-sensitization]] · [[concept-cue-reactivity]] · [[concept-hedonic-devaluation]] · [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-loss-of-control-eating]] · [[concept-emotional-eating]] · [[concept-inhibitory-control-demand]] · [[concept-need-motivation-pleasure-utility]]
+- 1차 소스: [[lee-2019-food-craving-seeking-and]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]
+- [[index.md|wiki/index.md]] — 🌐 Overviews 절에 Ch 24 등재, 총 페이지 440.
+
+> 참고: 본문은 **전적으로 이 위키 안의 내용**으로만 작성했으며 web search를 쓰지 않았다. 참고문헌의 서지사항(권·호·면수)은 위키 페이지에 기록된 범위에서 채웠으므로, 일부 최신 논문(Hoang 2026, Giovanniello 2025, Tabibnia 2026, Vendruscolo & Koob 2026, Leow 2026, Pascoli 2026, Choi 2025 등)은 **권·면수가 비어 있어 투고 전 확인이 필요**하다.
+
 ## 2026-08-20 — ingest (raw/ 미정리 1편: 비만의 hedonic devaluation 회로 기전)
 
 `raw/` 329개 파일을 위키 `source:` 필드와 대조. 불일치 51건 중 파일명 변이(` 1`·`(1)`·`(2)`)·supplement·mp4·docx(식락학 교재 원고)·README·이미 다른 표기로 등재된 건을 제외하고 **실제 미정리 1건**을 ingest.

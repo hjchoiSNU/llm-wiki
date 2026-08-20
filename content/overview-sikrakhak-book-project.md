@@ -55,7 +55,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 
 ### Part VI. 미래 전망 (Future Perspectives)
 - Ch 23. 분자에서 마음으로: 식락학의 통합 과학 — 정서진
-- **Ch 24. 음식 갈망과 중독: 생물학적·화학적 관점 — 최형진** → [[concept-food-addiction]]·[[lee-2019-food-craving-seeking-and]]
+- **Ch 24. 음식 갈망과 중독: 생물학적·화학적 관점 — 최형진** → [[overview-sikrakhak-ch24-food-craving-addiction]] ✅ *(집필 완료 2026-08-20)* · [[concept-food-addiction]]·[[concept-incentive-sensitization]]·[[concept-hedonic-devaluation]]·[[lee-2019-food-craving-seeking-and]]
 - **Ch 25. 비만의 근본적 치료를 위한 과학적 통찰 — 최형진** → [[lee-2025-hijacked-brain-modern-obesity-cue]]·[[concept-digital-therapeutics]]
 - Ch 26. 인공 감미료·지방 대체제: 미각 만족의 화학 vs 생물학 — 정서진
 - Ch 27. 즐거움을 위한 식품 디자인·정밀영양 — 홍재희
@@ -66,7 +66,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 |---|---|---|
 | 18 | 식욕·포만 호르몬 | [[overview-sikrakhak-ch18-appetite-hormones]] · [[concept-ghrelin]]·[[concept-leptin]]·[[concept-glp-1]]·[[concept-cck]] |
 | 20 | 오피오이드·도파민(liking/wanting) | [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]·[[concept-dopamine-reward-system]] |
-| 24 | 음식 갈망과 중독 | [[concept-food-addiction]]·[[lee-2019-food-craving-seeking-and]]·[[concept-loss-of-control-eating]] |
+| 24 | 음식 갈망과 중독 | [[overview-sikrakhak-ch24-food-craving-addiction]] ✅ · [[concept-food-addiction]]·[[concept-incentive-sensitization]]·[[concept-hedonic-devaluation]]·[[concept-negative-reinforcement-hyperkatifeia]]·[[lee-2019-food-craving-seeking-and]]·[[concept-loss-of-control-eating]] |
 | 25 | 비만의 근본적 치료 | [[lee-2025-hijacked-brain-modern-obesity-cue]]·[[concept-digital-therapeutics]]·[[concept-deep-brain-stimulation]] |
 
 ## 프로젝트 현황·마일스톤
@@ -79,6 +79,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 - [[reference-sikrakhak-glossary]] — ★ 교재 표준 용어집·표기 스타일(Neurogastronomy 번역 인덱스); 전 챕터 집필 시 용어·표기 통일 기준.
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 Ch 18 정리본(프로젝트 첫 산출물).
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20 정리본(둘째 산출물: 오피오이드·도파민 / liking·wanting).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 Ch 24 정리본(셋째 산출물: 음식 갈망과 중독). 박태현 교수님 9·10·11장 포맷을 준용해 **목차·본문·그림 3분할 docx**로 작성.
 - [[person-choi-hyung-jin]] — 사용자(Ch 18·20·24·25 담당).
 - [[overview-appetite-energy-homeostasis]] — 사용자 담당 챕터들의 과학적 backbone(본 wiki spine).
 - [[concept-need-motivation-pleasure-utility]] — Ch 14·기호 vs 항상성 섭식의 이론 framework.

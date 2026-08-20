@@ -29,3 +29,4 @@ aliases: [negative reinforcement, hyperkatifeia, dark side of addiction, hedonic
 - [[tomiyama-2019-stress-and-obesity]] — 스트레스-glucocorticoid-섭식 축의 병렬 사례.
 - [[overview-cea-glp1r-food-safety-alarm]] — CeA aversion 축과 연결되는 종합.
 - [[concept-need-motivation-pleasure-utility]] — 음성 utility(hyperkatifeia) 제거를 향한 동기의 계산적 대응.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.4.6. 쾌락 가치 저하 + 음성 강화의 결합으로 '즐겁지 않은데 멈출 수 없다'를 설명.

@@ -244,3 +244,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[concept-joint-brain-behaviour-modelling]] — Need/Motivation/Pleasure가 실제로 분리 가능한 신경 부분공간인지 **contrastive latent 정렬로 검정**하는 방법론 경로.
 - [[zhang-2026-inherited-input-and-local-transformations]] — Motivation→행동 개시 전이를 선조체 **accumulator**(pVLS dSPN ramp)로 읽을 가능성; 가치 신호의 상속 vs 국소 변환 해리 (bioRxiv 2026).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **Pleasure 축의 분자·투사 정의 후보**: NAcLat^Nts→VTA. 만성 HFD에서 Pleasure는 내려가는데 섭취는 유지되는 해리를 회로로 인과 증명 (Nature 2025).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.1. NMPU 네 성분의 **정렬이 깨진 상태**로 갈망을 정의.

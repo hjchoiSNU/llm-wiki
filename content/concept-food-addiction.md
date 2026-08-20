@@ -39,3 +39,4 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — cue-triggered craving·wanting/liking 해리.
 - [[meye-2014-feelings-about-food-the]] — cue-induced reinstatement 공유.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌-저항 섭취(중독의 정의적 특징)의 시상하부 회로; 인간 rZI-sgACC FC가 food addiction score와 상관.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 개념의 논쟁 지형(YFAS의 순환성·동물 3모델 해리·물질 vs 행동 중독·'끊을 수 없다'는 구조적 난점)을 교재 언어로 정리한 챕터.

@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 439 (+ index.md, log.md)
+- 총 페이지: 440 (+ index.md, log.md)
 - 마지막 갱신: 2026-08-20
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -490,6 +490,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[overview-appetite-energy-homeostasis]] — 3-layer 통합 (이론 NMPU + 회로 gut-brain-hypothalamus + 임상 DTx/약물). 본 wiki의 spine.
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 저작 식락학 교재 Ch 18 정리: 식욕·포만 호르몬(그렐린·렙틴·인슐린·GLP-1·CCK)을 장기 adiposity vs 단기 식사 신호로 통합한 교육용 synthesis.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 저작 식락학 교재 Ch 20 정리: 오피오이드 ‘좋아함’ vs 도파민 ‘갈망’의 신경화학·유인-감작·인간 약리학·비만 함의.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 저작 식락학 교재 **Ch 24** 정리: 음식 갈망과 중독. 갈망≠배고픔(3국면) → 단서 반응성·유인-감작·스트레스·취약성 3층 → 음식의 화학(당·지방 조합, 맛=대리보상/영양=1차보상, 두 도파민, 향미-영양 학습, 속도) → 회로 재편 5층(단서 도파민·[[concept-hedonic-devaluation|쾌락 가치 저하]]·습관·강박·음성 강화) → 음식 중독 논쟁 → 개입. 박태현 교수님 9·10·11장 포맷을 준용한 **목차·본문(25,053자)·그림(12개) 3분할 docx**. (2026-08-20 집필)
 - [[overview-sikrakhak-book-project]] — 식락학(Food Hedonology) 교재 프로젝트 전체 목차(6 Part·28 챕터)·집필 구조·현황. 사용자 담당 Ch 18·20·24·25.
 - [[reference-sikrakhak-glossary]] — 식락학 교재 표준 용어집·표기 스타일(Neurogastronomy 번역 인덱스, 용어 192개). 전 챕터 집필 시 영어→한글 표준역·표기 규칙 통일 기준.
 - [[overview-future-research-directions]] — 위키가 문서화한 gap에서 도출한 사용자 lab 향후 연구 로드맵(Tier 1–3): 비침습 심부자극·NMPU 인간 번역·회로별 맞춤 DTx 등.

@@ -74,3 +74,4 @@ journal: "Journal of Obesity & Metabolic Syndrome 28:148–157"
 - [[person-choi-hyung-jin]] · [[person-kim-meelim]] — 저자(교신·공저).
 - [[concept-inhibitory-control-demand]] — craving(내적 state)에 저항하는 Go/NoGo·stop-signal 억제통제를 craving-비례 PFC 제어부하로 확장.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 리뷰의 3국면 framework를 교재 §24.1.2로 재서술(식락학 Ch 24).

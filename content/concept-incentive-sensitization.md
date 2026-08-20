@@ -64,3 +64,4 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — 당 섭취의 cocaine/amphetamine 교차민감화.
 
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **경쟁 프레임**: 만성 HFD에서 고칼로리 음식의 무노력 섭취·선호가 실제로 감소(hedonic devaluation). 단, 같은 경로 자극의 place preference는 유지돼 두 축이 분리 가능함을 시사 (Nature 2025).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24. 유인-감작과 [[concept-hedonic-devaluation|쾌락 가치 저하]]의 충돌을 **측정 축의 차이**(cue 유발 접근 행동 vs 자유 소비량)로 화해시킨 논증 수록.

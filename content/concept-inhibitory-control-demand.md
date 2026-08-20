@@ -46,3 +46,4 @@ Craving을 유발하는 환경(VR food cue 등)에서 craving이 상승하면, �
 - [[concept-digital-therapeutics]] · [[concept-transcranial-electrical-stimulation]] — VR provocation·dlPFC 자극 개입.
 - [[kim-2020-multidimensional-cognitive-behavioral-therapy]] — 표현형별 CBT-DTx(제어 재훈련 실증).
 - [[leow-2026-a-cortical-hypothalamic-neural]] — 반대 방향의 top-down: mPFC→rZI가 제어가 아니라 강박 섭식을 **구동**; 피질이 통제/구동 양방향으로 작용함을 대비.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.5. 갈망 측정에 **저항 비용**을 함께 재야 한다는 논지로 본 개념을 교재에 도입(제어 개입 vs 실패 두 국면 명시).

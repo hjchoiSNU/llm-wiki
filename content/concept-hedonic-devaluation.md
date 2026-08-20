@@ -73,3 +73,4 @@ aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward de
 - [[stuber-2025-the-neurobiology-of-overeating]] · [[onimus-2026-dopamine-ensembles-regulating-appetite]] · [[liu-2026-granular-motivational-interaction-and]] — HFD 유발 보상계 재편 리뷰.
 - [[concept-anhedonia]] · [[schulz-2026-blunted-anticipation-but-not]] — 우울증에서의 유사하지만 다른 해리(예측 wanting↓ · liking 보존).
 - [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-cue-reactivity]] · [[concept-emotional-eating]] — 쾌락 없이 지속되는 섭취의 대안 동력.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.4.3. 본 개념을 교재 서사에 배치하고 유인-감작과의 긴장을 해소한 논증.

@@ -29,3 +29,4 @@ updated: 2026-08-19
 - [[concept-digital-therapeutics]] — 임상 응용.
 - [[concept-inhibitory-control-demand]] — VR cue provocation으로 올라간 craving에 비례해 dlPFC·ACC 제어부하가 증가하는 trouble-resisting 국면.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 학습된 cue 가치가 **전역 표상으로 부과되지 않고** 선재하는 감각 scaffold(pDMS의 cue 위치 지도) 위에만 얹힘. cue reactivity의 부위·감각 채널 편중에 대한 회로 문법 (bioRxiv 2026).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.2. 단서 반응성을 갈망의 1차 발생원으로 놓고 회로·인체 근거·개입을 정리.

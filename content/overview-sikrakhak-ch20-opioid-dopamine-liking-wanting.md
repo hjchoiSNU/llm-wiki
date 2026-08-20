@@ -90,3 +90,4 @@ year: 2026
 - [[concept-liking-wanting]] — 본 챕터 핵심 개념 hub.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — 완성본 20.7.2의 RL·primary/proxy/secondary reward 위계 근거(liking=proxy).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[berridge-2023-separating-desire-from-prediction-of]] — 완성본 20.4.6 도파민 역할 논쟁(RPE·유인 현저성·vigor).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 Ch 24 정리본(다음 챕터). 본 챕터의 '갈망'이 **병리로 넘어가는 지점**을 이어받아 단서 반응성·유인-감작·쾌락 가치 저하·강박·음성 강화로 전개.

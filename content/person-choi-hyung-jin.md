@@ -118,3 +118,4 @@ ORCID: 0000-0003-0593-6978
 - [[lee-2019-food-craving-seeking-and]] · [[kim-2020-multidimensional-cognitive-behavioral-therapy]] · [[kim-2021-digital-therapeutics-for-obesity]] · [[kim-2021-mental-health-of-people]]
 - [[johansen-2025-brain-control-of-energy]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[godschall-2026-a-brain-reward-circuit-inhibited]] · [[duran-2026-the-central-amygdala-integrates]] — 본 lab 논문(Kim KS 2024 Science 등)을 인용한 외부 리뷰·연구 (Cell·Neuron·Nature·bioRxiv 2025–26).
 - [[person-nord-camilla]] — Cambridge 계산정신의학; [[concept-metabolic-interoception|대사–정신건강]]·GLP-1·보상 축의 접점.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 교재 Ch 24(음식 갈망과 중독) 집필본 정리 (2026-08-20).

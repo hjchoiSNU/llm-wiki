@@ -32,3 +32,4 @@ aliases: [emotional eating, stress eating, comfort eating, 정서적 섭식, 스
 - [[concept-loss-of-control-eating]] — 통제상실·binge 표현형.
 - [[concept-food-addiction]] — 정서적 과식·중독 유비.
 - [[concept-need-motivation-pleasure-utility]] — need 무관 hedonic/정서 drive.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.4·§24.4.6. 정서적 섭식을 음성 강화 틀로 재기술.

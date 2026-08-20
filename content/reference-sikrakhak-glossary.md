@@ -233,3 +233,4 @@ source: raw/ng tech word list.xlsx
 - [[overview-sikrakhak-book-project]] — 식락학 교재 전체 구조(line: "용어 통일=Neurogastronomy 번역 인덱스" = 본 용어집).
 - [[overview-sikrakhak-ch18-appetite-hormones]] · [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 담당 챕터 정리본(집필 시 본 용어집 적용 대상).
 - [[person-choi-hyung-jin]] — 사용자(집필진).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 용어집을 적용해 집필한 세 번째 챕터(Ch 24). 복측 피개영역·측좌핵·편도체·선조체·안와전두피질·섬엽·전방띠이랑·배외측 전전두엽 피질 표기 통일.
