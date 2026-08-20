@@ -65,7 +65,7 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - semaglutide·tirzepatide 15–20%; chronic 시 **OFC가 palatable cue에 활성↑**(hedonic 과식 favoring, Farr 2019). 부작용: 근육량↓·anhedonia·우울.
 - **GCG·GIP 병용**. GIPR **agonist와 antagonist 둘 다 weight loss**(desensitization 역설).
 - **Transient efficacy → weight regain**(AgRP 급성 억제로 설명 가능) → 장기 전략 필요.
-- **두 최신 연구**: Zhu 2025 Science(peri-LC glutamate→VTA GABA 억제 → DA disinhibit → semaglutide satiety 상쇄, hedonic 과식 지속); Gazit Shimoni 2025 Nature(HFD가 lateral NAc→VTA **neurotensin** 신호 교란 → hedonic devaluation).
+- **두 최신 연구**: Zhu 2025 Science(peri-LC glutamate→VTA GABA 억제 → DA disinhibit → semaglutide satiety 상쇄, hedonic 과식 지속); [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni 2025 Nature]](HFD가 lateral NAc→VTA **neurotensin** 신호 교란 → [[concept-hedonic-devaluation|hedonic devaluation]]).
 
 ## 진영·관점
 | 진영 | 본 리뷰와의 관계 |
@@ -114,3 +114,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[murray-2014-hormonal-and-neural-mechanisms]] — 과식 신경생물학의 선행 종합.
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — food addiction·보상 저민감성 논의 대비.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 과식의 강박 성분을 회로로 분리(mPFC→rZI^GABA, 처벌-저항 HFD 추구); 일반 식욕(TN^SST)과 해리.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 리뷰가 인용한 최신 두 연구 중 하나. 위키에 원문 페이지로 수록됨 (Nature 2025).

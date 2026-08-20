@@ -8,6 +8,24 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-08-20 — ingest (raw/ 미정리 1편: 비만의 hedonic devaluation 회로 기전)
+
+`raw/` 329개 파일을 위키 `source:` 필드와 대조. 불일치 51건 중 파일명 변이(` 1`·`(1)`·`(2)`)·supplement·mp4·docx(식락학 교재 원고)·README·이미 다른 표기로 등재된 건을 제외하고 **실제 미정리 1건**을 ingest.
+
+**새 페이지 3**
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — Nature 641:1238–1247 (2025), Lammel lab(UC Berkeley). 만성 HFD 마우스는 홈케이지 고지방 사료 섭취·체중이 늘면서도 **무노력 급성 검사에서 고칼로리 음식 섭취가 붕괴**. opto-tagged 기록에서 REG의 "NAcLat→VTA 활성↑ = hedonic feeding" 관계가 HFD에서 **탈동조**. 경로 20 Hz 자극은 REG에서만 jelly·chocolate·peanut butter·butter·HF chow 섭취를 늘리고(chow·물 불변), HFD에서는 무효 — 단 **place preference는 유지**되어 보상성이 아니라 "보상→섭식 번역"이 끊긴 것. patch-seq 결과 내재 흥분성은 정상이고 ***Nts*가 log₂FC −1.52로 하향**(NAcLat→VTA 세포의 95%가 발현, VTA 투사 세포의 ~75%가 *Nts*⁺), 신규 센서 **ntsLight1.1/2.0**으로 NTS 방출 감소를 ex vivo·in vivo 확인. **조건부 *Nts* KO**와 **intra-VTA SR142948A**가 각각 광유발 hedonic feeding을 차단(필요조건), NTS 관류·*Ntsr1* mRNA는 REG/HFD 동일 → **전적으로 presynaptic 병변**. **NTS 과발현**이 HFD 상태에서 hedonic feeding·체중증가·운동성·불안을 동시에 정상화(충분조건). 정상식 복귀 2–3주로 가역.
+- [[concept-hedonic-devaluation]] — 신규 개념 hub. sensory-specific satiety·alliesthesia·[[concept-incentive-sensitization]]·[[concept-anhedonia]]와의 시간규모·방향 구분표, 위키 안의 관찰 근거, 회로 기전 사슬, "그런데도 왜 과식하는가"에 대한 위키 내 4가지 설명(habit·wanting/liking 해리·cue·음성강화), 그리고 devaluation vs sensitization의 이론적 긴장을 정리. 열린 질문 3개(인간 NAc NTS 측정 자료 없음 / GLP-1RA와의 상호작용 / 임상 subtyping 도구)를 명시.
+- [[person-lammel-stephan]] — UC Berkeley. mesolimbic 회로 이질성, **NAc 아구역(medial shell=억제 / lateral shell=탈억제)→VTA** 기능 분업.
+
+**갱신 페이지 15**
+- 보상·쾌락 축: [[concept-liking-wanting]] · [[concept-incentive-sensitization]] · [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] · [[concept-neurotensin]]
+- 인용 리뷰(인라인 citation → wikilink 전환 포함): [[stuber-2025-the-neurobiology-of-overeating]] · [[liu-2026-granular-motivational-interaction-and]] · [[onimus-2026-dopamine-ensembles-regulating-appetite]]
+- LH^Nts 대비: [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]] · [[person-soden-marta]]
+- 사용자 lab 접점: [[concept-need-motivation-pleasure-utility]] · [[proposal-lh-nac-nmpu-neuron-discovery]] · [[lee-2025-hijacked-brain-modern-obesity-cue]]
+- [[index.md|wiki/index.md]] — 🎯 liking/wanting 절, 💡 보상·정서 조절 절, 👤 인물 절 갱신. 총 페이지 수를 실제 파일 수(439)로 정정(424 → 439).
+
+**미처리로 남긴 것**: `raw/`의 식락학 교재 원고 `.docx` 8종(12장·9장 목차/본문/그림·Ch 18·textbook 목차·출판 회의 안건)은 논문이 아닌 사용자 집필 원고여서 ingest 대상에서 제외. 필요하면 별도 지시 요망.
+
 ## 2026-08-19 — ingest (raw/ 미정리 3편: 선조체 상속-vs-국소변환 · LepR 뉴런 multiome · 모성 뇌 도파민 원문)
 
 `raw/` 328개 파일을 위키 `source:` 필드와 대조. 불일치 51건 중 파일명 변이(` 1`·`(1)`·`(2)`)·supplement·docx·mp4·README를 제외하고 **실제 미정리 3건**을 ingest. (직전 세션이 놓쳤던 표기 차이 2건 — Berridge 2020의 곡선따옴표, LepRb multiome — 을 이번에 정정 확인.)

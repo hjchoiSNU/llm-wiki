@@ -27,3 +27,4 @@ Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·
 - [[concept-dopamine-reward-system]] · [[concept-need-motivation-pleasure-utility]] — 보상·동기 축과의 관계.
 - [[person-soden-marta]] · [[person-korotkova-tatiana]] — LH-Nts 회로 연구자.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LH의 **Nts 발현 LepR 클러스터**(cluster 3, GABAergic)를 전사·크로마틴 양쪽으로 정의 (bioRxiv 2025).
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc 기원 NTS 축**(LH 기원과 별개): NAcLat→VTA 뉴런의 NTS가 VTA 도파민 뉴런을 NTSR1로 흥분시켜 hedonic feeding을 매개. 만성 HFD가 *Nts* 발현(log₂FC −1.52)·방출을 낮춰 **hedonic devaluation**을 유발하고, NTS 과발현이 이를 되돌린다. 수용체는 온전 = presynaptic 병변 (Nature 2025). 인물 [[person-lammel-stephan]].

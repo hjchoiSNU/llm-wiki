@@ -106,3 +106,4 @@ flowchart LR
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP 번역.
 - [[person-choi-hyung-jin]] · [[person-kwon-hyung-bae]] — 연구진·도구 협력.
 - [[proposal-nmpu-human-translation]] — 자매 과제(인간 번역).
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc 쪽 후보 세포타입의 선례**: NAcLat^Nts→VTA를 patch-seq(활성+분자정체)·역행표지(투사)·조건부 KO/과발현(인과)으로 확정한 설계. 본 제안의 CaRMA·TRU-FACT 파이프라인이 목표하는 결과물의 구체적 사례 (Nature 2025).

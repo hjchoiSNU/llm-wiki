@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 424 (+ index.md, log.md)
-- 마지막 갱신: 2026-08-16
+- 총 페이지: 439 (+ index.md, log.md)
+- 마지막 갱신: 2026-08-20
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -447,6 +447,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
+- [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서 고칼로리 음식의 쾌락 가치가 하락하는 현상 hub(sensory-specific satiety·alliesthesia·incentive sensitization과의 구분표 포함). _(🎯 도파민 절에도)_
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지
 - [[concept-metabolic-interoception]] — 대사신호(glucose·insulin)→보상학습·동기·기분(energy allostasis·metabolic-mood); 중추 인슐린→선조체 도파민
 
@@ -476,6 +477,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-edison-paul]] — GLP-1 유사체 신경퇴행 repurposing 임상(ELAD liraglutide-AD) 총괄; FDG-PET·MRI 영상 바이오마커. Imperial College London.
 - [[person-wassum-kate]] — BLA 글루타메이트 생체센서·OFC→BLA 투사로 상태의존 reward value 부호화/인출 분해; liking≠wanting 회로. UCLA.
 - [[person-soden-marta]] — LH·VTA 신경펩타이드(neurotensin) 회로와 섭취·동기 행동. University of Washington.
+- [[person-lammel-stephan]] — mesolimbic 회로 이질성; **NAc 아구역(lateral shell)→VTA** 투사의 기능 분업과 NAc 기원 neurotensin의 hedonic feeding 매개. UC Berkeley.
 - [[person-kroemer-nils]] — gut-brain(ghrelin·insulin·vagus)×보상×우울증 인간 통합 연구. Bonn / Tübingen.
 - [[person-nord-camilla]] — 계산정신의학·interoception·대사–정신건강(glucose·insulin→보상/동기/기분); effort-DM 표현형. Cambridge MRC CBU.
 - [[person-lam-tony]] — 소장·신장 영양소(지질·포도당) 감지 gut-brain 축의 분자 기전. Toronto.
@@ -560,6 +562,8 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[kringelbach-2015-the-pleasure-of-food]] — 단일 쾌락 시스템·pleasure cycle·OFC 주관 쾌락 (Flavour 2015).
 - [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도가 ‘갈망’ 승자독식 집중·‘아픈 것을 원하기’ (Behav Brain Res 2021).
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1=좋아함+갈망, D2=갈망·좋아함 음 (Mol Psychiatry 2023).
+- [[concept-hedonic-devaluation]] — **쾌락 가치 저하** 개념 hub: 만성 HFD·비만이 고칼로리 음식의 hedonic value를 실제로 떨어뜨린다(과잉섭취와 공존). 유인-감작(wanting↑)과 정면으로 각을 세우는 축.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 그 회로 기전: 만성 HFD → **lateral NAc(NAcLat)→VTA 뉴런의 *Nts* 발현·NTS 방출 ↓**(log₂FC −1.52) → NTSR1 매개 VTA 도파민 흥분 실패 → hedonic feeding 소실. 조건부 *Nts* KO·intra-VTA 길항제로 필요성, **NTS 과발현으로 hedonic feeding·체중·활동성·불안 동시 정상화**. 수용체는 온전한 **presynaptic 병변**이고 정상식 복귀 2–3주로 가역 (Nature 641:1238, Lammel lab). 인물 [[person-lammel-stephan]].
 - [[robinson-2008-the-incentive-sensitization-theory]] — 유인-감작 이론 쟁점 정리 (Phil Trans R Soc B 2008).
 - [[robinson-2025-incentive-sensitization-30-years]] — 유인-감작 30주년 종합(sign-/goal-tracker·인간 영상) (Annu Rev Psychol 2025).
 - [[soutschek-2021-opioid-antagonism-modulates-wanting]] — naltrexone이 ‘갈망’ 선택 감소·DLPFC–선조체 결합 (eLife 2021).

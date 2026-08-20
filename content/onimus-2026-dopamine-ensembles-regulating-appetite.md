@@ -28,7 +28,7 @@ Trends in Endocrinology & Metabolism 2026 리뷰. "homeostatic 시상하부 vs h
 - **말초 hormone이 VTA 수용체에 직접 작용**: ghrelin(GHS-R1a), leptin(LepR), amylin, **GLP-1(GLP-1R)** → 흥분성·시냅스 입력·출력 재조정 → meal size·macronutrient preference 변화. ([[concept-ghrelin]]·[[concept-leptin]]·[[concept-glp-1]]와 연결.)
 - **HFD 가소성**: HFD가 ARC^AgRP/NPY + VTA mesolimbic 동시 재편 → 표준 사료의 보상가치↓, energy-dense 음식 선호↑ (Mazzone 2020). 비만 진행·유지의 회로 기반.
 - **이질성(heterogeneity)**:
-  - **NtsR1+ 아형**: refeeding·meal timing·DIO 감수성 조절. Nts는 LH 또는 lateral NAc에서 방출(Soden 2023; Gazit Shimoni 2025 Nature — 비만에서 neurotensin 신호 변화가 hedonic devaluation 유발).
+  - **NtsR1+ 아형**: refeeding·meal timing·DIO 감수성 조절. Nts는 LH 또는 lateral NAc에서 방출(Soden 2023; [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni 2025 Nature]] — 비만에서 neurotensin 신호 변화가 [[concept-hedonic-devaluation|hedonic devaluation]] 유발).
   - **NAPE-PLD**(VTA endocannabinoid 합성효소) 하향 → reward-seeking↑이지만 EE↑·adiposity 보호 → 섭식·palatability·대사의 dissociation.
   - **caudal VTA^DA → lateral parabrachial(LPBN)**: meal termination(satiation). 억제 시 feeding bout 연장 (Han 2021).
   - DA–5HT(dorsal raphe) 상호작용으로 반대 방향 섭식 결과.
@@ -83,3 +83,4 @@ Trends in Endocrinology & Metabolism 2026 리뷰. "homeostatic 시상하부 vs h
 
 ---
 *출처: raw/2026 TEM. Dopamine ensembles regulating appetite, feeding, and energy homeostasis.pdf (Onimus O, Peters KZ, Naneix F, Gangarossa G. Trends Endocrinol Metab 2026; doi:10.1016/j.tem.2026.04.012)*
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — NtsR1+ VTA 아형에 작용하는 **NAc 기원** NTS의 인과 규명 (Nature 2025). 개념 [[concept-hedonic-devaluation]].

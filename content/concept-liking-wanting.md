@@ -72,3 +72,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — OFC→BLA로 reward **value(갈망)**를 조작해도 **palatability(좋아함)** 불변; 회로 수준 liking≠wanting (Nat Neurosci 2019).
 - [[schulz-2026-blunted-anticipation-but-not]] — 인간 우울증에서 음식의 anticipatory **wanting↓·consummatory liking 보존**; liking≠wanting의 임상 증거 (Cell Rep Med 2026).
 - [[concept-anhedonia]] — anhedonia = anticipatory wanting 결손이라는 재정의 hub.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **반대 방향의 축**: 만성 HFD가 lateral NAc→VTA neurotensin 신호를 낮춰 고칼로리 음식의 **hedonic value 자체를 떨어뜨린다**(무노력 섭취·선호 감소). wanting↑ 프레임과의 긴장점 (Nature 2025).

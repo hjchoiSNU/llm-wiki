@@ -63,3 +63,4 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 음식 CS incentive salience를 선택 sensitize.
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — 당 섭취의 cocaine/amphetamine 교차민감화.
 
+- [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **경쟁 프레임**: 만성 HFD에서 고칼로리 음식의 무노력 섭취·선호가 실제로 감소(hedonic devaluation). 단, 같은 경로 자극의 place preference는 유지돼 두 축이 분리 가능함을 시사 (Nature 2025).

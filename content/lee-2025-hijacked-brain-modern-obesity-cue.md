@@ -121,3 +121,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glp1ra-response-variability]] — 표현형 기반 개인화가 겨냥하는 문제(GLP-1RA 반응 이질성)를 유전·임상·행동·회로 4층으로 정리한 hub.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제의 유전 층 근거 (Nature 2026).
+- [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 5-type 분류가 다루지 않는 축: 만성 HFD가 고칼로리 음식의 **쾌락 가치 자체를 낮추는** 회로 기전(NAcLat→VTA neurotensin). habit·restraint형이 쾌락 보고와 어긋나는 이유의 후보 설명 (Nature 2025).

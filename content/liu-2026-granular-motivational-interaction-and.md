@@ -71,7 +71,7 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - Leptin: ARC^AgRP 직접 억제 + ARC^BNC2 경유; LH·DMH^Lepr도 조절. 비만 → leptin 저항.
 - ARC^PNOC: HFD 시 hyperphagia·obesity 촉진(Lepr 결실 시 NPY↑).
 - LH^VGLUT2 = feeding "brake"이나 비만에서 reward 반응 blunted(Rossi 2019). aPVT 염증→compulsive sucrose-seeking. OFC disinhibition→satiety value update 손상. ACC→BLA reward devaluation.
-- aDCN-LAT(소뇌)→VTA^DA → basal DA↑로 식후 DA 반응 blunt → meal size 제어(Prader-Willi 함의). Neurotensin lateral NAc→VTA^DA가 비만 hedonic devaluation 구동(Gazit Shimoni 2025).
+- aDCN-LAT(소뇌)→VTA^DA → basal DA↑로 식후 DA 반응 blunt → meal size 제어(Prader-Willi 함의). Neurotensin lateral NAc→VTA^DA가 비만 [[concept-hedonic-devaluation|hedonic devaluation]] 구동([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni 2025]]).
 
 ## 방법론 제언
 - 고도통제 패러다임·food intake 단일 지표 → **자연주의 패러다임 + AI pose/behavior + 다영역/전뇌 calcium·fUSI + 망 분석(Granger·graph theory·persistent homology)**.
@@ -107,3 +107,4 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - [[liu-2025-castle-a-training-free-foundation-model]] — 본 논문이 요구하는 granularity를 **라벨 없이** 얻는 계측 수단; reach-and-grasp에서 "food approaching mouth"·"food releasing at mouth" 하위행동을 자동 분리한 실증.
 - [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub(BBQSM이 전제하는 AI pose/behavior 분석의 지형).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — lateral NAc→VTA neurotensin이 비만 hedonic devaluation을 구동 (Nature 2025). 개념 [[concept-hedonic-devaluation]].

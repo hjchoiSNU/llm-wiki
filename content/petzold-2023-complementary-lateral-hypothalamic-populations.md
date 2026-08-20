@@ -33,3 +33,4 @@ year: 2023
 - [[concept-need-motivation-pleasure-utility]] — Need vs 경쟁(social) 욕구 arbitration.
 - [[concept-orexin-neurons]] — LepR→OX 축.
 - [[person-korotkova-tatiana]] — 교신저자.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — LH^Nts와 별개인 **NAcLat^Nts→VTA** 축; 같은 펩타이드가 출처에 따라 섭식 촉진/hedonic 매개로 갈린다 (Nature 2025).

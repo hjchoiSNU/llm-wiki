@@ -53,3 +53,4 @@ LH neurotensin(Nts) 뉴런은 licking 운동량·물 섭취를 부호화하며, 
 - [[person-soden-marta]] — 교신저자·PI. LH-Nts↔VTA 신경펩타이드 회로.
 - [[person-korotkova-tatiana]] — LH-Nts 상보 arbitration 연구자.
 - [[concept-dopamine-reward-system]] · [[concept-need-motivation-pleasure-utility]] — VTA-DA value coding 대비, NMPU 축 배치.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **출처 대비**: LH^Nts는 음수·운동을 촉진하는 반면, NAcLat^Nts→VTA는 hedonic feeding을 매개하고 비만에서 감소한다. VTA 내 NTS 출처별 통합은 미해결 (Nature 2025).

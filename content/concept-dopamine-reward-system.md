@@ -187,3 +187,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 배측 해마 전사·모성 행동 적응을 인과 매개; 인간 subiculum에서 parity 의존 보존 (Nature 2026, Maze lab).
 - [[zhang-2026-inherited-input-and-local-transformations]] — 도파민 표적인 dSPN/iSPN에서 **경로 대립 가치·보상근접 ramping이 글루탐산 입력에 없음** → 선조체 국소 변환의 산물이며 도파민 의존 가소성이 유력 후보 (bioRxiv 2026).
 - [[concept-h3-dopaminylation]] — 도파민 작용의 **제3의 층**: 수용체를 거치지 않고 TG2가 히스톤 H3Q5에 도파민을 공유결합, 주–개월 시간척도의 전사 상태를 만든다.
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 비만의 **도파민 저하에 대한 상류 원인**: 만성 HFD가 lateral NAc→VTA 뉴런의 *Nts* 발현·NTS 방출을 낮춰 NTSR1 매개 도파민 뉴런 흥분이 실패. 수용체는 온전한 **presynaptic 병변**이며, NTS 과발현으로 hedonic feeding·체중·활동성이 함께 정상화 (Nature 2025, Lammel lab). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].

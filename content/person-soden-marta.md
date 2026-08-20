@@ -22,3 +22,4 @@ University of Washington(Pharmacology / UW Medicine Diabetes Institute)의 신�
 - [[concept-neurotensin]] · [[concept-lateral-hypothalamus]] — 주제 hub.
 - [[person-korotkova-tatiana]] — LH-Nts 상보 arbitration 연구자(대응/보완).
 - [[person-knight-zachary]] — 시상하부 섭식·갈증 회로 dynamics(방법·개념 인접).
+- [[person-lammel-stephan]] — 같은 neurotensin 회로를 **NAc 기원**에서 접근([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]).
