@@ -247,3 +247,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.1. NMPU 네 성분의 **정렬이 깨진 상태**로 갈망을 정의.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **해마=경험 기반 결과 예측 / 시상하부=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 시상하부, 학습된 Utility는 피질-해마" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **맥락 게이팅이 Motivation 크기와 분리 가능**함을 보인 드문 인과 증거: DLS^Pdyn 억제는 총 섭취량을 바꾸지 않고 **보상 맥락 귀속만** 무너뜨렸다 (Neuron 2026). → [[concept-lateral-septum]]
+- [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — **Motivation 축의 지속(engagement)**을 eCB가 매개; 총 섭취량(Need)과 해리된다는 점에서 두 축 분리의 실험적 사례 (Nature 2026).

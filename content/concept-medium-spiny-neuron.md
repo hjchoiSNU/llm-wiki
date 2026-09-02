@@ -37,3 +37,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[zhang-2026-inherited-input-and-local-transformations]] — dSPN/iSPN 신호가 **어디서 만들어지는가**: 선조체 전역 칼슘 × 글루탐산 입력 병렬 측정으로 cue 위치·licking은 **상속**, pDMS 경로대립 가치·pVLS dSPN ramping은 **국소 변환**임을 해리 (bioRxiv 2026, Howe lab).
 - [[concept-dynorphin-kappa-opioid]] — D1 MSN의 정의 마커 `PDYN`이 속한 dynorphin/KOR 개념 hub.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **D1/D2-MSN 분업이 중독의 두 축에 대응**: D1R-MSN=양성강화(중뇌 GABA 되먹임·locomotor sensitization·cue 추구, 만성 노출 후 투사 강화), D2R-MSN=음성강화(BLA CCK⁺·PVT 입력, VP 투사 presynaptic depression=[[concept-anhedonia|anhedonia]], BLA 입력 강화=incubation of craving). 둘의 수렴점이 [[concept-ventral-pallidum|VP]]. OFC→DST potentiation은 예외적으로 **양 SPN 계열에서 동시에** 일어난다 (Annu Rev Neurosci 2021).
+- [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — D2R-Penk MSN = **2-AG 생산 세포**; D1R⁻ 시냅스에서 DSE·tonic eCB가 흥분성 편향을 형성 (Nature 2026).

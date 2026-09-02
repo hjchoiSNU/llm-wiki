@@ -39,3 +39,4 @@ ARC AgRP 뉴런은 서로 다른 부분군이 aBNST·PVH·LHA·PVT로 축 담보
 - [[concept-parabrachial-cgrp-alarm]] — 소수 AgRP→PBN 투사 = 배고픔↔혐오/경보 회로의 접점.
 - [[concept-ghrelin]] · [[concept-leptin]] — 투사 부분군을 차등 조절하는 배고픔/포만 호르몬.
 - [[overview-appetite-energy-homeostasis]] — 항상성 섭식 큰 그림.
+- [[concept-paraventricular-thalamus]] — AgRP 투사 표적 중 하나(~2.1%, 부분적 섭식 유발)인 PVT의 개념 hub.

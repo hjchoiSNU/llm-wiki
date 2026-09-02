@@ -82,3 +82,4 @@ doi: 10.1038/s41593-026-02392-z
 - [[concept-computational-ethology]] — 본 논문의 PCA 기반 avoidance index·궤적 정량이 속한 행동 계측 문제.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 부위별 국소 변환의 존재를 신호 수준에서 확인(pDMS 경로대립 가치·pVLS ramping이 입력에 부재). 본 논문의 DLS vs DMS 가소성 규칙 분업이 그 분자 후보 중 하나 (bioRxiv 2026).
 - [[concept-h3-dopaminylation]] — 도파민이 가소성 규칙을 넘어 **크로마틴 상태**까지 직접 쓰는 세 번째 층.
+- [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — 같은 해 선조체 eCB 논문의 **상보 축**: 이쪽은 학습(가소성), 저쪽은 진행 중 행동의 실시간 조율 (Nature 2026).

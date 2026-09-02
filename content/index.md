@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 451 (+ index.md, log.md)
-- 마지막 갱신: 2026-09-02
+- 총 페이지: 453 (+ index.md, log.md)
+- 마지막 갱신: 2026-09-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -48,6 +48,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-ventral-pallidum]] — NAc 주 출력핵·보상 마지막 관문. posterior VP=쾌락 핫스폿 '좋아함' 필수; VP^GABA=hedonic 섭식/비만 노드 (Wang 2026).
 - [[concept-basal-forebrain-cholinergic]] — 기저전뇌(SI) ChAT→BLA ACh=현저성 modulator; NAc D1/D2가 양방향 통제 (Chen 2026).
 - [[concept-lateral-septum]] — **외측중격 = 해마(top-down cue 예측) × 시상하부(bottom-up 행동·현저성) 수렴 평가 노드**. LS^Crhr2 10 분자 아형(Glp1r·Calcr·Lhx2·Foxp2·Chat…)이 공간·기능·입력에서 갈라짐. septal rage 역설의 회로 해석. 해마-섭식 축과 GLP-1RA 변연계 경로의 미완성 결절점 (Bhatti Mazo 2026).
+- [[concept-paraventricular-thalamus]] — 정중선 시상 관문. 시상하부 항상성(AgRP/POMC) → 보상(NAc·BLA) 중계. **aPVT^NTS→NAc = 보상 추구 '관여(engagement)'의 eCB gain control 지점** (Marcus 2026).
 
 ## 🔬 분자/세포 신경과학 (Molecular & Cellular)
 
@@ -558,6 +559,9 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 #### 해마-측좌핵 식욕기억
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc(PV+FSI feedforward inhibition)가 공간 식욕기억을 행동으로 번역 (Cell 2019).
 - [[azevedo-2019-a-role-of-drd2]] — 해마 hilus Drd2 뉴런(LEC→해마→중격)이 맥락 의존 섭식·음식-장소 기억 조절 (Neuron 2019).
+
+### 진영 — 비도파민 신경조절: eCB retrograde gain control
+- [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — ★ 보상 추구 **'관여(engagement)'의 지속**을 도파민이 아닌 **2-AG**가 매개. NAc D2R-Penk MSN이 활동 의존적으로 2-AG 생산 → 역행성 **CB1R**로 [[concept-paraventricular-thalamus|aPVT]]^NTS 말단 글루타메이트 입력을 실시간 억제(gain control). *Cnr1* 결손은 **총 섭취량 불변, licking 시간 구조만 변화** → 포만(Need)과 추구 지속(Motivation) 해리. GRAB_eCB 바이오센서·SLEAP closed-loop·GRIN 이미징 (Nature 2026, Bruchas lab). 개념 [[concept-endocannabinoid-system]]. _(섭식 맥락은 🍽️와도)_
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012).

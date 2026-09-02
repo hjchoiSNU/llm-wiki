@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-03 — ingest (신규 1편: NAc eCB 역행성 gain control)
+
+`raw/` 335건 대조 결과 미등록 신규 논문 1편 ingest. 페이지 451→453.
+- [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — **보상 추구 '관여(engagement)'의 지속을 2-AG가 매개**: [[concept-nucleus-accumbens|NAc]] D2R-Penk [[concept-medium-spiny-neuron|MSN]]이 활동 의존적으로 2-AG를 생산 → 역행성 **CB1R**로 aPVT^NTS 말단의 글루타메이트 입력을 실시간 억제(retrograde gain control). GRAB_eCB2.0 photometry(신호가 5일차에 cue 쪽으로 선행), DO34/JZL184 약리, 역행추적+RNAscope(aPVT=NAc 최대 입력·CB1R 최다), ChR2/PPO 인과 조작, *Cnr1* CRISPR 결손, NAc Penk 광자극→eCB 상승, SLEAP closed-loop, GRIN 앙상블 이미징·Hilbert 위상 동조 (Nature 2026, Bruchas lab, UW).
+- **핵심 해리**: *Cnr1* 결손이 **총 licking 수는 불변**시키고 licking의 **시간 구조·관여만** 바꿈 → 포만(Need)과 추구 지속(Motivation) 분리. valence 비특이(foot shock도 eCB 방출)이나 *Cnr1* 결손은 보상 관여만 감쇠·freezing 관여는 보존.
+- 신규 개념 페이지: [[concept-paraventricular-thalamus]] — 위키 곳곳에 흩어져 있던 PVT 언급(AgRP→PVT 2.1%·부분적 섭식유발, AgRP→PVT→BLA→섬엽, POMC→PVT β-endorphin→당 식욕, PVT→D2-MSN 음성강화)을 aPVT/pPVT 분화와 함께 hub로 통합.
+- 역링크 9곳 추가: [[concept-endocannabinoid-system]]·[[concept-nucleus-accumbens]]·[[concept-medium-spiny-neuron]]·[[concept-neurotensin]]·[[concept-need-motivation-pleasure-utility]]·[[concept-appetitive-consummatory-phases]]·[[betley-2013-parallel-redundant-circuit-organization-for]]·[[piette-2026-striatal-endocannabinoids-drive-one-shot]]·[[concept-liking-wanting]]. [[index.md|wiki/index.md]] 🧠 기타 회로 + 🎯 신설 하위절(비도파민 신경조절)에 등재.
+
 ## 2026-09-02 (3) — ingest (미정리 1편: 중독 회로 모델 통합 + 개념 hub 3종)
 
 `raw/` 전체(333개)를 위키와 대조해 **미정리 항목을 전수 점검**. PDF 319개 중 위키에 없는 것은 **1편**이었고 이를 ingest. (나머지 미정리 14개는 `.docx` — 식락학 교재 원고 Ch 9/12/18/20·출판회의 안건이며 논문 아님.)

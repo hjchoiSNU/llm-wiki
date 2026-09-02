@@ -30,3 +30,5 @@ Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc 기원 NTS 축**(LH 기원과 별개): NAcLat→VTA 뉴런의 NTS가 VTA 도파민 뉴런을 NTSR1로 흥분시켜 hedonic feeding을 매개. 만성 HFD가 *Nts* 발현(log₂FC −1.52)·방출을 낮춰 **hedonic devaluation**을 유발하고, NTS 과발현이 이를 되돌린다. 수용체는 온전 = presynaptic 병변 (Nature 2025). 인물 [[person-lammel-stephan]].
 - [[concept-lateral-septum]] — LS의 NTS 뉴런은 **섭식을 억제**하는 쪽(LH→VTA NTS의 촉진과 반대 방향; [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit-Shimoni 2025]]). LS 자체의 분자 아형 지도는 [[bhatti-mazo-2026-feature-specific-threat-coding-in]] 참조.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — **LS^Nts = 섭식 억제 방향의 1차 근거**. 급성 구속 스트레스로 활성화되며, 화학유전 활성화 시 섭취·체중↓(불안·운동은 불변), LH 투사로 매개. 단 photometry는 **능동 도피에만** 켜짐을 보였다 (eLife 2020, Friedman lab).
+- [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — NTS가 aPVT를 pPVT에서 분리하는 marker로 쓰여, aPVT^NTS→NAc 회로를 유전적으로 특정 (Nature 2026).
+- [[concept-paraventricular-thalamus]] — NTS 발현으로 정의되는 전측 PVT의 개념 hub.
