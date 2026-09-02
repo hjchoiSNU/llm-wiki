@@ -2,7 +2,7 @@
 title: 뇌심부자극술 (Deep Brain Stimulation, DBS)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-02
 aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 ---
 
@@ -57,3 +57,4 @@ aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 - [[contreras-lopez-2022-effectiveness-of-deep-brain]] · [[hsu-2022-effectiveness-of-deep-brain]] · [[dassen-2023-could-deep-brain-stimulation]] — 체계적 고찰(효능 정량).
 - [[yuen-2022-deep-brain-stimulation-for]] — 중독 DBS(food addiction 인접).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(임상 축).
+- [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-drug-evoked-synaptic-plasticity]] — **"광유전학에서 착안한 DBS" 3원칙**: ① 고주파 연속이 아닌 **간헐·저주파**, ② **D1R 길항제 병용**(전기자극은 도파민도 함께 방출시키므로), ③ 자극 중에만이 아니라 **지속되는 효과**. 저주파 DBS+SCH 23390이 광유전 depotentiation과 동등하게 locomotor sensitization을 역전(Creed 2015); 쥐 OFC >100 Hz DBS가 morphine CPP 소거 촉진·재발 차단(Fakhrieh-Asl 2020) (Annu Rev Neurosci 2021).

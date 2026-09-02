@@ -2,7 +2,7 @@
 title: 알코올 중독의 원동력으로서 음성 강화(negative reinforcement)의 신경생물학
 type: paper
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-02
 source: raw/2026 Neuron. Neurobiology of negative reinforcement as a driving force in alcohol addiction.pdf
 authors: [Vendruscolo LF, Koob GF]
 year: 2026
@@ -56,3 +56,5 @@ year: 2026
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — sweet-fat 금단 CRF·음성강화 동물근거.
 - [[meye-2014-feelings-about-food-the]] — CRF/스트레스축 정서적 섭식 회로.
 - [[concept-emotional-eating]] — 정서적 섭식 개념 hub.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — 같은 음성강화 축의 **선조체·중뇌 판본**(Annu Rev Neurosci 2021). 본 리뷰가 확장편도체(CeA/BNST)를 상세히 다루는 반면, 저쪽은 LHb→RMTg→VTA·D2-MSN→VP 좌표와 시냅스 인과(GluA1)를 제공 — 상보적으로 읽을 것.
+- [[concept-lateral-habenula]] — 본문에 등장하는 LHb→RMTg→VTA 축의 개념 hub.

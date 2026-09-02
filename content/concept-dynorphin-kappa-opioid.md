@@ -65,3 +65,4 @@ aliases: [dynorphin, Pdyn, prodynorphin, KOR, kappa opioid receptor, Oprk1, 다�
 - [[concept-liking-wanting]] · [[concept-hedonic-hotspot]] — μ 오피오이드 쾌락 축과의 대비.
 - [[concept-conditioned-taste-aversion]] · [[concept-parabrachial-cgrp-alarm]] — 식욕 억제↔혐오 분리 난제의 이웃 사례.
 - [[concept-orexin-neurons]] — LH orexin의 Pdyn 공발현.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — **여섯 번째 갈래**: 금단기에 D1R-MSN의 dynorphin이 상향조절돼 NAc·PFC 말단 KOR을 활성화, Gi/βγ 신호로 **도파민 방출을 presynaptic 억제** → dysphoria. KOR은 D1/D2-MSN 세포체와 BLA 글루탐산 말단에도 발현 (Annu Rev Neurosci 2021). Koob의 확장편도 스트레스 축과 같은 분자, **다른 좌표**(선조체).

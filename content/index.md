@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 447 (+ index.md, log.md)
+- 총 페이지: 451 (+ index.md, log.md)
 - 마지막 갱신: 2026-09-02
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -412,11 +412,14 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]]
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]]
 - [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]] · [[concept-npy-nucleus-accumbens]]
+- [[concept-lateral-septum]] · [[concept-zona-incerta]]
+- [[concept-lateral-habenula]] — 혐오·보상누락의 상류 허브(**MRR→LHb→RMTg→VTA DA 억제**). 금단기 무쾌감의 시냅스 좌표(LHb→RMTg GluA1 삽입)이자 negative RPE의 비-도파민 후보
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]]
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]] — eCB는 **말초 지방 섭취 + 중추 eCB-LTP 학습 규칙 + NAc 핫스폿 '좋아함'** 3축
 - [[concept-one-shot-learning]] — 단일시행 학습의 비고전적 가소성 규칙(eCB-LTP·BTSP); 짧은 1회 vs 반복 경험의 분업
+- [[concept-drug-evoked-synaptic-plasticity]] — 중독의 가소성 기질 hub: CP-AMPAR 삽입(permissive metaplasticity) → VTA→NAc→DST **dorsalization**(spiraling connectivity) → OFC→DST potentiation. 핵심은 **되돌릴 수 있다는 것**(depotentiation 양방향 인과) → "광유전학에서 착안한 DBS" 3원칙
 - [[concept-glp1-neuroprotection]] — GLP-1RA 신경보호·신경퇴행(AD·PD) repurposing
 - [[concept-astrocyte-neuron-lactate-shuttle]] — 성상교세포→뉴런 젖산 셔틀·H3K9 젖산화(대사-후성유전)
 - [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
@@ -452,6 +455,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
+- [[concept-compulsion]] — **강박의 조작적 정의 hub: 처벌 저항(foot-shock·air puff·quinine)**. 집단 평균이 아닌 개체 분류 — 기저는 단봉, 처벌 도입 후 **양봉**(perseverer vs renouncer). oDASS ~50% / 약물 자가투여 20–30% → 표본 50–100 요건. 회로는 OFC→DST 시냅스 강도. 섭식판 이식은 [[leow-2026-a-cortical-hypothalamic-neural|처벌-저항 섭취]]
 - [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서 고칼로리 음식의 쾌락 가치가 하락하는 현상 hub(sensory-specific satiety·alliesthesia·incentive sensitization과의 구분표 포함). _(🎯 도파민 절에도)_
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지
 - [[concept-metabolic-interoception]] — 대사신호(glucose·insulin)→보상학습·동기·기분(energy allostasis·metabolic-mood); 중추 인슐린→선조체 도파민
@@ -540,6 +544,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 전사·행동을 인과 매개. 보상 신호 프레임 밖의 도파민 (Nature 2026, Maze lab). _(DOHaD는 🍽️ 발달 절에도)_
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa).
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — 중독=쾌락(양성강화) 아닌 **hyperkatifeia 제거(음성강화)**; 확장 편도체(CeA/BNST)·CRF·dynorphin·glucocorticoid; ghrelin·GLP-1 gut-brain 조절 (Neuron 2026, Koob). 개념 hub [[concept-negative-reinforcement-hyperkatifeia]]. 정서적 폭식·food addiction 이식.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — ★ **중독 3대 프레임의 접합부**: 유인-감작(Berridge)과 음성강화(Koob)를 경쟁 이론이 아닌 **합산 항**으로 두고 **양성강화(D1-MSN) + 음성강화(D2-MSN) → dorsalization → [[concept-compulsion|compulsion]]** 서열로 통합. 중독은 신경퇴행이 아닌 **gain-of-function** → 표적은 시냅스 **depotentiation**. 음성강화 회로 좌표(LHb→RMTg→VTA·BLA CCK⁺/PVT→D2-MSN·D2-MSN→VP=anhedonia) 명시. 유전 동질 개체의 **양봉분포**로 "왜 소수만 망가지는가"를 이론 중심에 놓음 (Annu Rev Neurosci 2021, Lüscher & Janak). 개념 [[concept-drug-evoked-synaptic-plasticity]] · [[concept-lateral-habenula]] · 인물 [[person-luscher-christian]].
 
 #### 보상·food-addiction·정서적 섭식 (2014–2023 배치)
 개념 hub: [[concept-emotional-eating]] · [[concept-food-addiction]] · [[concept-liking-wanting]].

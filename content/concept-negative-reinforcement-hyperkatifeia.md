@@ -31,3 +31,5 @@ aliases: [negative reinforcement, hyperkatifeia, dark side of addiction, hedonic
 - [[concept-need-motivation-pleasure-utility]] — 음성 utility(hyperkatifeia) 제거를 향한 동기의 계산적 대응.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.4.6. 쾌락 가치 저하 + 음성 강화의 결합으로 '즐겁지 않은데 멈출 수 없다'를 설명.
 - [[concept-dynorphin-kappa-opioid]] — 본 프레임의 **dynorphin-KOR 축** 개념 hub. ⚠️ 화해 과제: 여기서 dynorphin은 확장편도의 **스트레스·불쾌 매개자**인데, [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]의 외측중격 dynorphin은 **맥락 학습의 매개자**다.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — 본 프레임을 **회로 모델에 흡수**한 리뷰. Koob의 확장편도체 축과 달리 **선조체·중뇌 좌표**(LHb→RMTg→VTA, BLA CCK⁺→D2-MSN, PVT→D2-MSN, D2-MSN→VP=[[concept-anhedonia|anhedonia]])를 제시하며, 음성강화를 양성강화와 **합산해** dorsalization→[[concept-compulsion|compulsion]]으로 잇는다.
+- [[concept-lateral-habenula]] — within-system 적응(보상계 hypofunction)의 회로 허브 개념 hub.

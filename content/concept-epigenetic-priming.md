@@ -2,7 +2,7 @@
 title: Epigenetic priming (후성유전적 priming)
 type: concept
 created: 2026-08-15
-updated: 2026-08-19
+updated: 2026-09-02
 aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer, latent gene expression, 잠재 취약성]
 ---
 
@@ -60,3 +60,4 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 - [[concept-spatial-transcriptomics]] — 조직 내 분자 상태를 위치와 함께 읽는 상보적 방법론 hub.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 같은 문법의 다른 변형: 산후 스트레스 → **도파민 동역학 변화 → H3 dopaminylation** → dHF 전사·행동의 지속 재편 (Nature 2026, Maze lab).
 - [[concept-h3-dopaminylation]] — 같은 "경험→크로마틴" 문법의 다른 실행 단위: TG2가 히스톤 H3Q5에 모노아민을 공유결합. H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 사례.
+- [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **중독 취약성 개체차의 정면 사례**: 유전적으로 동질한 C57BL/6J에서도 인간과 유사한 비율만 강박이 되고, 유전 동일 마우스의 개체차는 시간에 따라 **증가**한다(Freund 2013). 저자들은 잔여 유전 분리·확률적 유전자 발현과 함께 **환경 미세차이에 의한 후성유전 drift**를 후보로 들며, compulsion 회로(OFC→DST) 뉴런의 후성유전 리모델링을 유력 기질로 지목.

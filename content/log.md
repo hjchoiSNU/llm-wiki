@@ -8,6 +8,36 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-02 (3) — ingest (미정리 1편: 중독 회로 모델 통합 + 개념 hub 3종)
+
+`raw/` 전체(333개)를 위키와 대조해 **미정리 항목을 전수 점검**. PDF 319개 중 위키에 없는 것은 **1편**이었고 이를 ingest. (나머지 미정리 14개는 `.docx` — 식락학 교재 원고 Ch 9/12/18/20·출판회의 안건이며 논문 아님.)
+
+- [[luscher-2021-consolidating-the-circuit-model-for]] — *Consolidating the Circuit Model for Addiction* (Annu Rev Neurosci 44:173–95, 2021, Lüscher & Janak)
+
+**새 페이지 4**
+- 논문 페이지 1.
+- [[concept-compulsion]] — **신규 hub**. 위키 37개 페이지가 "강박적으로 먹는다"를 조작적 정의 없이 써 왔던 것을 **처벌 저항(resistance to punishment)** 단일 기준으로 정리. 양봉분포·oDASS/oGABASI·표본 50–100 요건·OFC→DST 회로.
+- [[concept-drug-evoked-synaptic-plasticity]] — **신규 hub**. CP-AMPAR permissive metaplasticity → dorsalization(spiraling connectivity) → OFC→DST potentiation, 그리고 **양방향 depotentiation 인과**와 "광유전학에서 착안한 DBS" 3원칙.
+- [[concept-lateral-habenula]] — **신규 hub**. 8개 페이지에 흩어져 있던 LHb 언급(negative RPE 후보·LH→LHb·인간 섭식 영상·DBS 표적)을 **MRR→LHb→RMTg→VTA DA 억제** 축으로 정렬.
+
+**갱신 페이지 21 (역방향 링크·본문 수정)**
+- 본문 수정: [[person-luscher-christian]](핵심 기여에 2021 통합판·gain-of-function 논지 추가)
+- 이론 축: [[concept-negative-reinforcement-hyperkatifeia]] · [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] · [[concept-incentive-sensitization]] · [[robinson-2025-incentive-sensitization-30-years]]
+- 회로·세포: [[concept-medium-spiny-neuron]] · [[concept-nucleus-accumbens]] · [[concept-ventral-pallidum]] · [[concept-orbitofrontal-cortex]] · [[concept-basolateral-amygdala]] · [[concept-lateral-hypothalamus]] · [[concept-dopamine-reward-system]]
+- 표현형·기전: [[concept-anhedonia]] · [[concept-dynorphin-kappa-opioid]] · [[concept-epigenetic-priming]]
+- 섭식 응용: [[concept-food-addiction]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[leow-2026-a-cortical-hypothalamic-neural]]
+- 치료: [[concept-deep-brain-stimulation]]
+- 같은 lab 계보: [[pascoli-2026-conditioned-accumbal-dopamine-transients]]
+- [[index.md|wiki/index.md]] — 🎯 종합·메타에 논문, 💡 회로/세포에 [[concept-lateral-habenula]], 메커니즘·분자에 [[concept-drug-evoked-synaptic-plasticity]], 보상·정서 조절에 [[concept-compulsion]] 등재. 회로/세포 로스터에 누락돼 있던 [[concept-lateral-septum]]·[[concept-zona-incerta]]도 함께 추가. 총 페이지 451.
+
+**핵심 성과 4**
+1. ✅ **Berridge ↔ Koob 접합.** 위키는 [[concept-incentive-sensitization|유인-감작]]과 [[concept-negative-reinforcement-hyperkatifeia|음성강화]]를 각각 hub로 갖고 있었으나 **둘의 관계가 미정의**였다. 본 리뷰는 둘을 경쟁 이론이 아니라 **D1-MSN 축 + D2-MSN 축의 합산**으로 배치하고, 그 합이 dorsalization을 거쳐 compulsion에 도달한다는 순서를 준다. 단, Berridge 본인은 '갈망'을 독립 과정으로 유지하므로 **화해가 아니라 대안 배치**임을 양쪽 페이지에 명시.
+2. **"강박적 섭식"에 처음으로 측정 기준이 생김.** 처벌 저항 + 양봉분포 + 표본 요건. [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]이 이미 섭식에 이식한 사례가 위키에 있어 **이론(2021)↔응용(2026)이 연결**됨.
+3. **음성강화의 두 좌표계 확보.** Koob=확장편도체(CeA/BNST), Lüscher=선조체·중뇌(LHb→RMTg→VTA, D2-MSN→VP). 서로 배타적이지 않고 **다른 층위**이며, 두 페이지에 상보 관계로 표기.
+4. **신경조절 설계 원리 추출.** "간헐·저주파 + D1R 길항제 병용 + 지속효과"는 사용자 lab의 [[concept-deep-brain-stimulation|DBS]]·[[concept-responsive-neurostimulation|폐루프]] 설계에 그대로 쓸 수 있는 3원칙. 단 저자 자신이 **"이 모델 기반 신규 중독 치료는 아직 없다"** 고 명시한 점도 함께 기록.
+
+**남은 질문**: 강박이 소인(predisposition)인가 처벌 개시 시점에 촉발되는 진짜 확률 과정인가 — 저자 제시 Future issue 1번이며, 위키의 [[concept-epigenetic-priming]] 축이 답할 후보.
+
 ## 2026-09-02 (2) — ingest (신규 2편: 외측중격–시상하부 섭식 축 완결)
 
 사용자가 `raw/`에 추가한 2편 ingest. 둘 다 직전 ingest에서 **후속 후보로 지목했던 바로 그 논문**이며, 직전에 남긴 **LS↔LH 방향성 미해결 질문을 해소**한다.

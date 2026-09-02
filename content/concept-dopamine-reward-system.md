@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-09-02
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -188,3 +188,5 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[zhang-2026-inherited-input-and-local-transformations]] — 도파민 표적인 dSPN/iSPN에서 **경로 대립 가치·보상근접 ramping이 글루탐산 입력에 없음** → 선조체 국소 변환의 산물이며 도파민 의존 가소성이 유력 후보 (bioRxiv 2026).
 - [[concept-h3-dopaminylation]] — 도파민 작용의 **제3의 층**: 수용체를 거치지 않고 TG2가 히스톤 H3Q5에 도파민을 공유결합, 주–개월 시간척도의 전사 상태를 만든다.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 비만의 **도파민 저하에 대한 상류 원인**: 만성 HFD가 lateral NAc→VTA 뉴런의 *Nts* 발현·NTS 방출을 낮춰 NTSR1 매개 도파민 뉴런 흥분이 실패. 수용체는 온전한 **presynaptic 병변**이며, NTS 과발현으로 hedonic feeding·체중·활동성이 함께 정상화 (Nature 2025, Lammel lab). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].
+- [[luscher-2021-consolidating-the-circuit-model-for]] — 중독성 약물의 **약리적 공통분모=NAc 도파민 상승**과 그 결과: 자연 보상의 도파민은 예측되면 감쇠하지만 약물 도파민은 **지속** → 반복되는 **비정상 RPE 교사신호**가 cue·행동을 과대평가. VTA disinhibition motif(GABA 뉴런 억제→DA 활성)가 오피오이드 강화의 회로 문법 (Annu Rev Neurosci 2021). 개념 [[concept-drug-evoked-synaptic-plasticity]] · [[concept-compulsion]].
+- [[concept-lateral-habenula]] — 도파민을 **끄는** 상류 축(MRR→LHb→RMTg→VTA); negative RPE를 도파민 dip이 담당하지 않을 가능성의 유력 후보.

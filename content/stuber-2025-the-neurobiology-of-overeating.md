@@ -2,7 +2,7 @@
 title: "The neurobiology of overeating (Stuber, Schwitzgebel & Lüscher 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-05-31
+updated: 2026-09-02
 source: "raw/2025 Neuron. Luscher. The neurobiology of overeating (1).pdf"
 authors: [Garret D. Stuber, Valerie M. Schwitzgebel, Christian Lüscher]
 year: 2025
@@ -115,3 +115,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — food addiction·보상 저민감성 논의 대비.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 과식의 강박 성분을 회로로 분리(mPFC→rZI^GABA, 처벌-저항 HFD 추구); 일반 식욕(TN^SST)과 해리.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 리뷰가 인용한 최신 두 연구 중 하나. 위키에 원문 페이지로 수록됨 (Nature 2025).
+- [[luscher-2021-consolidating-the-circuit-model-for]] — **본 리뷰가 과식에 적용하는 중독 회로 모델의 원본**(Annu Rev Neurosci 2021, Lüscher 공저). 양성강화+음성강화→dorsalization→[[concept-compulsion|compulsion]] 서열과 처벌-저항 조작화를 여기서 가져온다.

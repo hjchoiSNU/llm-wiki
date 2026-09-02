@@ -2,7 +2,7 @@
 title: 안와전두피질 (Orbitofrontal Cortex, OFC)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -43,3 +43,4 @@ updated: 2026-06-01
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — OFC 축삭이 편도 BL 경계·IM에 종말해 CeA 자율출력 게이팅.
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화, mOFC→BLA=가치 인출** 이중해리(Nat Neurosci 2019, Wassum lab).
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC/OFC(medial orbital ORBm 포함)→rZI가 강박 섭식을 gate; rZI 투사 mPFC=Npr3+, NAc 투사와 대비.
+- [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **OFC→등쪽 선조체(DST) 시냅스 강도가 강박을 결정**: 인공 depotentiation은 처벌-저항 추구를 줄이고, 인공 potentiation은 비강박 개체에 강박을 만든다(Pascoli 2018, 양방향 인과). mPFC=주의·반응억제, **OFC=가치 갱신**(lateral=목표지향 유지, medial=정보 통합)이라는 기능 분업도 여기서 정리됨 (Annu Rev Neurosci 2021).

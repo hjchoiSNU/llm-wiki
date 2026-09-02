@@ -2,7 +2,7 @@
 title: "유인-감작 이론 (incentive-sensitization theory)"
 type: concept
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-02
 aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 감작, 유인-감작, sensitization]
 ---
 
@@ -65,3 +65,4 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **경쟁 프레임**: 만성 HFD에서 고칼로리 음식의 무노력 섭취·선호가 실제로 감소(hedonic devaluation). 단, 같은 경로 자극의 place preference는 유지돼 두 축이 분리 가능함을 시사 (Nature 2025).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24. 유인-감작과 [[concept-hedonic-devaluation|쾌락 가치 저하]]의 충돌을 **측정 축의 차이**(cue 유발 접근 행동 vs 자유 소비량)로 화해시킨 논증 수록.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — **대비 프레임**: IST는 감작된 '갈망'을 쾌락 이론·음성강화와 **구분되는 독립 동기 과정**으로 두는 반면, Lüscher & Janak은 양성강화와 음성강화를 **합산 항**으로 배치해 dorsalization→[[concept-compulsion|compulsion]]에 이르게 한다. 같은 현상(cue 과대평가)을 IST는 감작으로, 이쪽은 **비정상 RPE 교사신호의 누적**으로 설명 (Annu Rev Neurosci 2021).

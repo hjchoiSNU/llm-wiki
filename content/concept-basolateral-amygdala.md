@@ -140,3 +140,4 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[person-wassum-kate]] — BLA reward valuation 연구 프로그램 hub.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **BLA→외측중격 LS^Glp1r·LS^Foxp2 아형에 선택적 입력**(rabies+STPT). 한편 BLA는 CS 제시 중 LS가 수행하는 cue-outcome 계산을 하지 않아, 위협 평가 위계에서 LS와 역할이 갈린다 (Nature 2026).
 - [[concept-lateral-septum]] — BLA 입력을 아형 선택적으로 받는 변연계 평가 노드.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — BLA→NAc가 보상·혐오를 모두 전달하되 **혐오는 CCK⁺ BLA 뉴런이 D2R-MSN으로** 전달(Shen 2019); Ppp1r1b⁺=보상 / Rspo2⁺=혐오(Kim 2016). BLA→D2R-MSN 강화가 **incubation of craving**의 기질 (Annu Rev Neurosci 2021).

@@ -2,7 +2,7 @@
 title: 음식 중독 (Food Addiction)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-02
 aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 ---
 
@@ -40,3 +40,4 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[meye-2014-feelings-about-food-the]] — cue-induced reinstatement 공유.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌-저항 섭취(중독의 정의적 특징)의 시상하부 회로; 인간 rZI-sgACC FC가 food addiction score와 상관.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 개념의 논쟁 지형(YFAS의 순환성·동물 3모델 해리·물질 vs 행동 중독·'끊을 수 없다'는 구조적 난점)을 교재 언어로 정리한 챕터.
+- [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **논쟁을 우회할 기준**: "중독인가"를 자기보고 척도(YFAS) 대신 **처벌 저항**이라는 단일 행동 기준으로 판정. 함께 따라오는 것이 개체차 논리(20–30%만 강박·기저는 단봉·처벌 도입 후 양봉)로, "같은 식품환경, 다른 결과"의 설계 요건을 제공한다.

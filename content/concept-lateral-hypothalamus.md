@@ -189,3 +189,4 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[concept-lateral-septum]] — LH와 상호 연결되는 변연계 평가 노드. [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 해마→LS→LH→DMH→AgRP 가설과 방향성 쟁점.
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **LHA^Vgat 뉴런이 외측중격 DLS^Pdyn의 단시냅스 억제 표적**(광유발 IPSC, EPSC 없음; orexin·VTA는 비표적). 이 억제가 **맥락에 따라 얼마나 먹을지**를 정한다. [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 LHA→LS 상행과 합쳐 **LS↔LHA 상호 회로** 성립 (Neuron 2026).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS^Nts→LH 종말 광자극만으로 섭취가 가역적으로 감소. LS→LH 억제의 **두 번째 병렬 채널**(DLS^Pdyn와 세포군 거의 비중첩) (eLife 2020).
+- [[concept-lateral-habenula]] — LH→LHb 공격성·서열 상실 투사의 하류 구조 개념 hub(혐오·음성강화 축).

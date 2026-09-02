@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-08-19
+updated: 2026-09-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -72,3 +72,4 @@ updated: 2026-08-19
 - [[zhang-2026-inherited-input-and-local-transformations]] — 전측 복측 선조체(NAc 포함)의 학습된 CS⁺ 가치는 dSPN·iSPN **수렴형**이며 글루탐산 입력에도 이미 존재 → 상당 부분 **상류에서 상속**된 신호 (bioRxiv 2026).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — NAc가 생식 경험 **고민감 부위** 중 하나이자 새끼 분리 시 도파민 상승이 가장 큰 곳 (Nature 2026).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc lateral shell(NAcLat)** 이라는 별개 아구역 정의(core 외측; medial shell과 VTA 효과가 반대). NAcLat→VTA 투사 뉴런의 **약 75%가 *Nts* 발현**하며, 이 NTS가 VTA 도파민 뉴런을 NTSR1로 직접 흥분시켜 **hedonic feeding**을 매개 — 만성 HFD에서 소실·정상식 복귀로 회복 (Nature 2025). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].
+- [[luscher-2021-consolidating-the-circuit-model-for]] — NAc가 **양성강화(D1R-MSN)와 음성강화(D2R-MSN)의 수렴 허브**이며, 여기서 시작된 가소성이 spiraling connectivity를 타고 등쪽 선조체로 확장(dorsalization)돼 [[concept-compulsion|강박]]에 이른다. mPFC→NAc D1R-MSN depotentiation이 cue 추구를 소거 (Annu Rev Neurosci 2021).

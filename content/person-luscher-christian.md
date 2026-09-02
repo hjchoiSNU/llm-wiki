@@ -2,7 +2,7 @@
 title: "Christian Lüscher (크리스티안 뤼셔)"
 type: person
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-09-02
 aliases: [Christian Lüscher, Luscher, Lüscher, 뤼셔]
 ---
 
@@ -16,7 +16,7 @@ aliases: [Christian Lüscher, Luscher, Lüscher, 뤼셔]
 - 분야: 중독 신경생물학, mesolimbic 도파민 회로, 시냅스 가소성, 광유전 자기자극(oDASS), compulsion.
 
 ## 핵심 기여
-- **중독의 회로 모델**: 약물 유발 시냅스 가소성 → 회로 재배선 → 강박적 약물 추구의 단계 모델(Lüscher & Malenka; Lüscher 2016 Annu Rev Neurosci).
+- **중독의 회로 모델**: 약물 유발 시냅스 가소성 → 회로 재배선 → 강박적 약물 추구의 단계 모델(Lüscher & Malenka; Lüscher 2016 Annu Rev Neurosci). 2021년 Patricia Janak과 함께 **음성강화·확률적 전이·세로토닌 조절**을 흡수해 통합판을 발표 → [[luscher-2021-consolidating-the-circuit-model-for]]. 결론은 **중독 = 신경퇴행이 아닌 gain-of-function 질환**이며, 따라서 표적은 잘못 강화된 시냅스의 **depotentiation**이다 → [[concept-drug-evoked-synaptic-plasticity]].
 - **oDASS 패러다임**: VTA 도파민 뉴런 광유전 자기자극으로 약물 없이 중독-유사 강박을 유도(Pascoli 2015 Neuron; Pascoli 2018 Nature — stochastic synaptic plasticity와 compulsion).
 - **[[pascoli-2026-conditioned-accumbal-dopamine-transients|cue 도파민 = 취약성 표지]]**: cue-유발 NAc 도파민(NR−AR 차이)이 자연 vs 인공보상 선호·처벌 무릅쓴 perseverance를 예측(Nat Neurosci 2026).
 - **과식↔중독**: [[stuber-2025-the-neurobiology-of-overeating|Stuber & Lüscher 2025 Neuron]]에서 과식을 중독-회로·시냅스 가소성 관점으로 종합(food addiction 신중론 포함).
@@ -28,3 +28,5 @@ aliases: [Christian Lüscher, Luscher, Lüscher, 뤼셔]
 - [[concept-incentive-sensitization]] — cue 가치 과대의 도파민 기반.
 - [[concept-food-addiction]] — 자연보상 cue 도파민 확장.
 - [[concept-nucleus-accumbens]] — dLight 측정 부위.
+- [[luscher-2021-consolidating-the-circuit-model-for]] — 회로 모델의 통합판(Annu Rev Neurosci 2021, Janak 공저).
+- [[concept-compulsion]] · [[concept-drug-evoked-synaptic-plasticity]] · [[concept-lateral-habenula]] — 이 연구 프로그램에서 파생된 개념 hub 3종.
