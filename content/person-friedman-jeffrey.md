@@ -2,7 +2,7 @@
 title: Jeffrey M. Friedman
 type: person
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-02
 aliases: [Friedman, Jeffrey Friedman, Jeffrey M. Friedman]
 affiliation: Howard Hughes Medical Institute, The Rockefeller University
 ---
@@ -42,3 +42,5 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — leptin 임상.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — de Araujo lab 계열 당 hedonic/nutritional 회로 분리.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 lab의 외측중격 연구: **LS^Nts가 능동 도피 스트레스에 선택적으로 조율**되고 LH 투사로 섭식·체중을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020).
+- [[concept-lateral-septum]] — 위 논문이 세운 LS 섭식 억제 축의 개념 hub.

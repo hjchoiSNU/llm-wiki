@@ -2,7 +2,7 @@
 title: Medium spiny neuron (MSN) — D1/D2, direct/indirect pathway
 type: concept
 created: 2026-07-04
-updated: 2026-08-19
+updated: 2026-09-02
 aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pathway]
 ---
 
@@ -35,3 +35,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — D1r MSN(VS/DS)이 미각/영양 보상 부호화.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1이 PV+FSI 매개 feedforward inhibition으로 MSN assembly 조직.
 - [[zhang-2026-inherited-input-and-local-transformations]] — dSPN/iSPN 신호가 **어디서 만들어지는가**: 선조체 전역 칼슘 × 글루탐산 입력 병렬 측정으로 cue 위치·licking은 **상속**, pDMS 경로대립 가치·pVLS dSPN ramping은 **국소 변환**임을 해리 (bioRxiv 2026, Howe lab).
+- [[concept-dynorphin-kappa-opioid]] — D1 MSN의 정의 마커 `PDYN`이 속한 dynorphin/KOR 개념 hub.

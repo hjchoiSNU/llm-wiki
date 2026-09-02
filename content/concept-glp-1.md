@@ -233,3 +233,5 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — 시상하부 **Lepr×Glp1r 공발현 뉴런 = Bnc2/Nkx2-4/Glp1r 3아형**(Ebf1/Trh/Tbx19); ARC는 Trh·Tbx19형, DMH는 Ebf1형 우세. PVH AVP 뉴런도 Glp1r 농축 (bioRxiv 2025).
 - [[concept-lateral-septum]] — **LS^Glp1r**: [[duran-2026-the-central-amygdala-gates|Duran 2026]]·[[johansen-2025-brain-control-of-energy|Johansen 2025]]이 "GLP-1R 풍부하나 역할 불명"으로 남긴 변연계 노드에 세포 좌표가 생긴 곳.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — LS^Crhr2의 **8.4%가 Glp1r 아형**이며, 위협 회피에서 **행동 개시(Av-run onset) 표상 1위**·SuM 최대 입력·BLA 선택적 입력을 받는 뚜렷한 세포군. ⚠️ 섭식·GLP-1RA는 시험되지 않음 (Nature 2026).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — ★ **LS^Nts 뉴런의 70%가 `Glp1r`⁺**이고, **LS 국소 exendin-4 투여만으로 섭취가 강하게 감소**. LS를 GLP-1RA 변연계 작용점으로 보는 가장 오래된 직접 약리 증거 (eLife 2020, Friedman lab).
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — LS snRNA-seq에서 `Glp1r`가 **`Pdyn`과 공발현**하며, DLS^Glp1r 자극이 섭식을 줄인다는 선행 보고와 수렴. → `Glp1r`는 LS의 **세 독립 좌표계**(Crhr2·Sst/Pdyn·Nts)에 모두 등장하는 수렴 마커 (Neuron 2026). → [[concept-lateral-septum]]

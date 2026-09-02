@@ -246,3 +246,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **Pleasure 축의 분자·투사 정의 후보**: NAcLat^Nts→VTA. 만성 HFD에서 Pleasure는 내려가는데 섭취는 유지되는 해리를 회로로 인과 증명 (Nature 2025).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.1. NMPU 네 성분의 **정렬이 깨진 상태**로 갈망을 정의.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **해마=경험 기반 결과 예측 / 시상하부=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 시상하부, 학습된 Utility는 피질-해마" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **맥락 게이팅이 Motivation 크기와 분리 가능**함을 보인 드문 인과 증거: DLS^Pdyn 억제는 총 섭취량을 바꾸지 않고 **보상 맥락 귀속만** 무너뜨렸다 (Neuron 2026). → [[concept-lateral-septum]]

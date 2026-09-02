@@ -8,6 +8,42 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-02 (2) — ingest (신규 2편: 외측중격–시상하부 섭식 축 완결)
+
+사용자가 `raw/`에 추가한 2편 ingest. 둘 다 직전 ingest에서 **후속 후보로 지목했던 바로 그 논문**이며, 직전에 남긴 **LS↔LH 방향성 미해결 질문을 해소**한다.
+
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — *A dorsal hippocampus–prodynorphinergic dorsolateral septum–to–lateral hypothalamus circuit mediates contextual gating of feeding* (Neuron 114:2050–2072, 2026, Sahay lab)
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — *A limbic circuit selectively links active escape to food suppression* (eLife 2020;9:e58894, Friedman lab)
+
+**새 페이지 3**
+- 두 논문 페이지.
+- [[concept-dynorphin-kappa-opioid]] — **신규 hub**. `Pdyn`/KOR가 위키 다섯 갈래(vDMH^LepR/pDYN→AgRP · LH orexin 공발현 · PVH satiety 마커 · D1 MSN 마커 · Koob 확장편도 스트레스 축)에 흩어져 있던 것을 통합.
+
+**대폭 갱신 1**
+- [[concept-lateral-septum]] — 어제 만든 hub를 **3좌표계 비교표 + 3축(위협/맥락/도피) 구조 + 종합 4항목**으로 재작성.
+
+**갱신 페이지 21 (역방향 링크·본문 수정)**
+- 본문 수정: [[bhatti-mazo-2026-feature-specific-threat-coding-in]](방향성 공백 해소 표기 3곳)
+- 회로: [[concept-lateral-hypothalamus]] · [[concept-hippocampus-feeding]] · [[gruzdeva-2026-hunger-neurons-track-available-food]] · [[concept-bed-nucleus-stria-terminalis]] · [[concept-orexin-neurons]]
+- 대사·수용체: [[concept-glp-1]] · [[concept-neurotensin]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-mc3r]] · [[concept-melanocortin-system]]
+- dynorphin 계열: [[garfield-2016-dynamic-gabaergic-afferent-modulation]] · [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-medium-spiny-neuron]] · [[concept-conditioned-taste-aversion]]
+- 스트레스-섭식: [[concept-emotional-eating]] · [[tomiyama-2019-stress-and-obesity]]
+- 이론·환경: [[concept-need-motivation-pleasure-utility]] · [[concept-food-environment-access]]
+- 기타: [[azevedo-2019-a-role-of-drd2]] · [[person-friedman-jeffrey]]
+- [[index.md|wiki/index.md]] — 🍽️ 회로·세포에 논문 2편, 💡 메커니즘·분자에 [[concept-dynorphin-kappa-opioid]] 등재. 총 페이지 447.
+
+**핵심 성과 4**
+1. ✅ **LS↔LHA 상호 회로 확정.** 직전 ingest에서 [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo]]는 **LHA→LS(상행)** 만 매핑해 [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva]] 가설의 LS→LH와 방향이 어긋났는데, Goode 2026이 **DLS^Pdyn→LHA^Vgat 단시냅스 억제**(광유발 IPSC, TTX+4-AP)를, Azevedo 2020이 **LS^Nts→LH 섭식 억제**를 확정. → **해마→LS→LH 구간 실증 완료**. 남은 미검증 구간은 **LH→DMH→AgRP**.
+2. **해마 배측/복측 분업이 LS 안에서 세포군 수준으로 보존.** 배측 CA3/2→DLS^Pdyn=**맥락**, 복측 HPC→LS^Crhr2=**cue-결과 예측**. LS는 단일 중계소가 아니라 **해마 정보 종류별 분배기**.
+3. **`Glp1r` 삼중 수렴.** LS^Nts의 **70%**(Azevedo 2020, + LS 내 exendin-4가 섭취↓) · `Pdyn`과 공발현(Goode 2026) · LS^Crhr2의 독립 아형 8.4%(Bhatti Mazo 2026). [[duran-2026-the-central-amygdala-gates|Duran]]·[[johansen-2025-brain-control-of-energy|Johansen]]이 "LS GLP-1R 역할 불명"으로 남긴 공백에 **세포 좌표 + 직접 약리 증거**가 모두 갖춰짐.
+4. **맥락 게이팅 ⟂ Motivation 크기.** DLS^Pdyn 억제는 총 섭취량을 그대로 둔 채 **보상 맥락 귀속만** 무너뜨림 — [[concept-need-motivation-pleasure-utility|NMPU]]에서 두 계산이 분리 가능함을 보인 드문 인과 증거.
+
+**주의 · 열린 질문**
+- LS→LH 억제는 **최소 두 개의 병렬 채널**(LS^Nts · DLS^Pdyn)이고 Goode의 FISH에서 두 세포군은 **거의 중첩하지 않는다**. "LS = 섭식 브레이크"로 뭉뚱그리지 말 것.
+- 세 좌표계(`Crhr2` / `Sst`-`Pdyn` / `Nts`)의 **실제 중첩률을 한 데이터셋에서 매핑한 연구는 아직 없음**.
+- DLS^Pdyn 광활성화는 섭취를 줄이면서 **실시간 장소 회피(음성 정동)** 를 동반 → KOR 작용제 dysphoria 문제와 같은 형태의 **식욕 억제↔혐오 분리 난제**.
+- 세 논문 모두 **마우스**. 인간 영상의 해마–LHA 연결 이상(폭식장애 동반 비만)이 LS를 경유한다는 것은 아직 가설.
+
 ## 2026-09-02 — ingest (raw/ 신규 1편: 외측중격 위협 코딩)
 
 `raw/` 330개 파일을 위키 `source:` 필드와 대조 → **미정리 1건** ingest: [[bhatti-mazo-2026-feature-specific-threat-coding-in]] (*Feature-specific threat coding in lateral septum guides defensive action*, Nature 656:415–, 2026, Fishell lab).
@@ -30,7 +66,7 @@
 
 **후속 ingest 후보** (본 논문 참고문헌, 위키에 원문 없음): Azevedo et al. *A limbic circuit selectively links active escape to food suppression* · Goode et al. *Calibration of context-evoked feeding by a genetically defined lateral septum*.
 
-**미해결 (lint 후보)**: `wiki/*.md` 실제 444개 vs `index.md` 등재 442개 — 미등재 2건은 [[overview-snu-med-education-vision-2036]] · [[overview-snu-med-edu-committee-minutes]]. 이번 ingest 범위 밖이라 미수정(깨진 링크는 0건).
+**점검**: `index.md` ↔ `wiki/*.md` 대조 — 깨진 링크 0건, 이번 ingest 신규 2건 정상 등재.
 
 ## 2026-08-20 — 챕터 작성 (식락학 Ch 24: 음식 갈망과 중독)
 

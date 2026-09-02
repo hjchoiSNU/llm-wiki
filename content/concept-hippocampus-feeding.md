@@ -41,3 +41,4 @@ updated: 2026-09-02
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 배측 해마 형성체(dHF)·subiculum이 **생식 경험의 최대 전사 재편 부위**이며, 도파민 의존 히스톤 변형이 그 지속성을 매개 (Nature 2026). 섭식이 주제는 아니나 dHF 가소성의 분자 기준선.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **복측 해마(vCA1·vCA3·prosubiculum)→외측중격(LS)** 이 위협 cue의 **결과 예측(cue-outcome)** 정보를 나름(vCA1=성공 선호, vCA3=실패 선호; Av-run에는 무반응). 해마→피질하 축에 LS 경유지를 추가하며, [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]] 가설의 첫 구간을 실증 (Nature 2026).
 - [[concept-lateral-septum]] — 해마의 최대 피질하 표적 중 하나. 해마-섭식 축이 시상하부로 이어지는 관문 후보.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ **배측** 해마 CA3/2→DLS^Pdyn→LHA 축이 맥락 조건화 섭식을 게이팅(복측 입력은 미미). [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 **복측** HPC→LS^Crhr2(cue-결과)와 대비돼, **해마 배측=맥락 / 복측=목표 분업이 LS 안에서 세포군 수준으로 보존**됨을 보인다 (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]

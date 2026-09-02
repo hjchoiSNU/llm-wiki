@@ -2,7 +2,7 @@
 title: "Dynamic GABAergic afferent modulation of AgRP neurons (Garfield 2016)"
 type: paper
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-02
 source: "raw/2016 Nature Neuroscience. Dynamic GABAergic afferent modulation of AgRP neurons.pdf"
 authors: [Alastair S. Garfield, Bhavik P. Shah, Christian R. Burgess, Monica M. Li, Chia Li, Jennifer S. Steger, Joseph C. Madara, John N. Campbell, Daniel Kroeger, Thomas E. Scammell, Bakhos A. Tannous, Martin G. Myers Jr, Mark L. Andermann, Michael J. Krashes, Bradford B. Lowell]
 year: 2016
@@ -60,3 +60,4 @@ ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 
 - [[concept-glp-1]] — Webster 2024가 caudal ARC inhibitory subset을 Trh⁺/Glp1r⁺/Lepr⁺로 묶음(DMH LepR/GLP-1R 신호 수렴 맥락).
 - [[person-lowell-bradford]] — 교신저자(공동 Krashes·Andermann).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-dynorphin-kappa-opioid]] — 본 논문의 **vDMH^LepR/pDYN** 입력이 속한 dynorphin/KOR 개념 hub. [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]이 외측중격에서 `Pdyn` **삭제만으로 맥락 조건화 섭식이 무너짐**을 보여, dynorphin이 마커가 아니라 계산에 필요한 펩티드임을 시사.

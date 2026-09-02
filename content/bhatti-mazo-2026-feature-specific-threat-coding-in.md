@@ -13,7 +13,7 @@ aliases: [LS Crhr2 threat coding, Bhatti Mazo 2026, feature-specific threat codi
 
 > [!takeaway] 연구 방향 관점의 핵심
 > **외측중격(LS)이 "위협 자극 → 방어 행동"을 계산하는 방식**을 분자·공간·기능·입력의 **4축 정합**으로 처음 해부했다. 사용자에게 직접적인 것은 셋.
-> ① [[concept-lateral-septum|LS]]는 이 위키에서 여러 번 "경유지"로만 언급되던 노드였다 — 특히 [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 미검증 가설 **해마→LS→LH→DMH→AgRP**. 본 논문이 **해마→LS**(top-down, cue-outcome)와 **[[concept-lateral-hypothalamus|LHA]]→LS**(bottom-up, action)를 photometry·광억제로 확립했다. 단 시상하부 축의 방향이 **LH→LS(상행)** 여서 Gruzdeva 가설의 LS→LH와는 **반대 방향의 짝**이다(상호 연결을 전제해야 성립).
+> ① [[concept-lateral-septum|LS]]는 이 위키에서 여러 번 "경유지"로만 언급되던 노드였다 — 특히 [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 미검증 가설 **해마→LS→LH→DMH→AgRP**. 본 논문이 **해마→LS**(top-down, cue-outcome)와 **[[concept-lateral-hypothalamus|LHA]]→LS**(bottom-up, action)를 photometry·광억제로 확립했다. 단 시상하부 축의 방향이 **LH→LS(상행)** 여서 Gruzdeva 가설의 LS→LH와는 **반대 방향의 짝**이다. ✅ 이 방향성 공백은 같은 날 ingest한 [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]이 **DLS^Pdyn→LHA^Vgat 단시냅스 억제**로 해소했다 — LS↔LHA는 상호 회로다.
 > ② **LS^Glp1r 아형**이 분자적으로 정의되고 **행동 개시(Av-run onset) 표상 1위**·SuM 최대 입력 세포군으로 특정됐다 — [[duran-2026-the-central-amygdala-gates|Duran 2026]]·[[johansen-2025-brain-control-of-energy|Johansen 2025]]가 "LS의 GLP-1R 역할 불명"으로 남긴 공백에 **첫 세포 좌표**. (경고: 본 연구는 섭식·GLP-1RA를 전혀 시험하지 않았다.)
 > ③ **방법론 템플릿**: `Crhr2^Flp × GeneX^Cre` 교차 유전학 + miniscope + snRNA-seq + rabies·STPT 뇌 전역 입력지도로 **분자 정체 × 공간 위치 × 기능 동역학 × 입력 구조**를 한 집단에서 정합. [[concept-activity-molecular-registration|CaRMA·TRU-FACT]]의 사후 정합과 짝을 이루는 **사전 유전 접근** 경로이며, LH·ARC 세포타입 작업에 그대로 이식 가능.
 
@@ -121,8 +121,8 @@ LS^Crhr2를 **단일 집단으로 취급한 최근 보고들과 반대로** 10�
 - 기록 마우스 수가 본문(45)과 그림 legend(47)에서 다르게 표기됨.
 
 ## 사용자 lab 함의
-1. **해마-섭식 축의 잃어버린 고리.** [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]이 AgRP 공간 신호의 상류로 제안한 **해마→LS→LH→DMH→AgRP**에서, 본 논문은 **해마(vCA1/vCA3/ProS)→LS**가 실재하고 **cue-outcome 정보**를 나른다는 것을 photometry+광억제로 보였다. 다만 본 논문이 매핑한 시상하부 축은 **LHA→LS(상행)** 로 Gruzdeva의 LS→LH와 방향이 반대다. 즉 **LS↔LH 상호 회로**를 전제해야 가설이 성립하며, 이 방향성 검증이 후속 실험의 1순위.
-2. **LS^Glp1r = 새로운 변연계 GLP-1R 노드 후보.** [[concept-glp-1|GLP-1]] 회로 지도에서 LS는 [[johansen-2025-brain-control-of-energy|Johansen 2025]]가 NAc 도파민 억제의 간접 경유지로, [[duran-2026-the-central-amygdala-gates|Duran 2026]]이 "역할 불명"으로 남긴 곳이다. 본 논문은 LS^Glp1r가 (i) LS^Crhr2의 8.37%, (ii) **행동 개시 표상 1위**, (iii) **SuM 최대 입력 + BLA 선택적 입력**을 받는 뚜렷한 세포군임을 보였다. → "GLP-1RA가 LS^Glp1r를 통해 **행동 개시**를 누르는가"가 바로 시험 가능한 가설.
+1. **해마-섭식 축의 잃어버린 고리.** [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]이 AgRP 공간 신호의 상류로 제안한 **해마→LS→LH→DMH→AgRP**에서, 본 논문은 **해마(vCA1/vCA3/ProS)→LS**가 실재하고 **cue-outcome 정보**를 나른다는 것을 photometry+광억제로 보였다. 다만 본 논문이 매핑한 시상하부 축은 **LHA→LS(상행)** 로 Gruzdeva의 LS→LH와 방향이 반대다. 즉 **LS↔LH 상호 회로**를 전제해야 한다. ✅ [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]](DLS^Pdyn→LHA^Vgat 단시냅스 억제)과 [[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]](LS^Nts→LH 섭식 억제)이 **하행 축을 확정**해 상호 회로가 성립했다. 남은 미검증 구간은 **LH→DMH→AgRP**.
+2. **LS^Glp1r = 새로운 변연계 GLP-1R 노드 후보.** [[concept-glp-1|GLP-1]] 회로 지도에서 LS는 [[johansen-2025-brain-control-of-energy|Johansen 2025]]가 NAc 도파민 억제의 간접 경유지로, [[duran-2026-the-central-amygdala-gates|Duran 2026]]이 "역할 불명"으로 남긴 곳이다. 본 논문은 LS^Glp1r가 (i) LS^Crhr2의 8.37%, (ii) **행동 개시 표상 1위**, (iii) **SuM 최대 입력 + BLA 선택적 입력**을 받는 뚜렷한 세포군임을 보였다. → "GLP-1RA가 LS^Glp1r를 통해 **행동 개시**를 누르는가"가 바로 시험 가능한 가설. ★ 나아가 `Glp1r`는 [[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]](LS^Nts의 **70%**, LS 내 exendin-4가 섭식↓)·[[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]](`Pdyn`과 공발현)에서도 반복 등장 — **세 독립 좌표계의 수렴 마커**다.
 3. **LS^Calcr.** [[concept-amylin-receptor-agonists|amylin(CALCR) 계열]]의 변연계 좌표 후보. LHA 입력을 가장 많이 받고 anticipatory 행동 표상에 기여 → cagrilintide류 중추 작용 부위 논의의 참고점(직접 증거는 아님).
 4. **NMPU 매핑.** 해마 = 경험 기반 예측(학습된 결과 예측), 시상하부 = 내부 상태·현저성(행동 구동)이라는 분업이 **입력 수준에서 실측**됐다. 위협 맥락이지만 [[concept-need-motivation-pleasure-utility|NMPU]]가 배치한 "Motivation은 시상하부 / 학습된 Utility는 피질-해마"와 **독립 도메인에서 수렴**하는 증거.
 5. **4축 정합 방법론.** `X^Flp × marker^Cre` 교차 유전학으로 **분자 아형별 freely-moving miniscope**를 돌리고 같은 아형에 **rabies+STPT 입력지도**를 붙이는 조합은 [[concept-lateral-hypothalamus|LH]]·[[concept-arcuate-nucleus|ARC]] 이질성 문제에 그대로 적용된다. [[concept-activity-molecular-registration|CaRMA/TRU-FACT]](사후 정합·마커 무편향) 대비 **사전 유전 접근**(마커를 미리 알아야 하지만 인과 조작까지 직결) — 두 전략의 trade-off를 명시적으로 비교할 것.
@@ -142,3 +142,5 @@ LS^Crhr2를 **단일 집단으로 취급한 최근 보고들과 반대로** 10�
 - [[azevedo-2019-a-role-of-drd2]] — 해마 Drd2→중격 회로가 맥락 의존 섭식을 조절(같은 해마-중격 축의 섭식판).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — PeFA→LS가 새끼 repulsion을 매개(LS의 사회·방어 축).
 - [[concept-computational-ethology]] — 집단 동역학·GLM·디코딩 분석 계열.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ 본 논문이 남긴 **LS→LHA 방향 공백을 해소**: 배측 해마 CA3/2→DLS^Pdyn→LHA^Vgat 단시냅스 억제가 **맥락 조건화 섭식**을 게이팅 (Neuron 2026, Sahay lab).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS^Nts→LH가 **능동 도피 스트레스** 시 섭식을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020, Friedman lab).

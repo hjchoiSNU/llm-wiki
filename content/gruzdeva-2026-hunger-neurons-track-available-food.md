@@ -84,3 +84,5 @@ year: 2026
 - [[concept-dopamine-reward-system]] — 접근 시 **상승**하는 도파민 ramp와 **하강**하는 AgRP ramp의 부호 대비.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ 본 논문이 제안한 **해마→LS→LH→DMH→AgRP** 가설의 **첫 구간을 실증**: 복측 해마(vCA1·vCA3·ProS)→LS가 실재하며 **cue-outcome 정보**를 나른다(photometry+광억제). ⚠️ 단 이 논문이 매핑한 시상하부 축은 **LHA→LS(상행)** 로 방향이 반대여서, 가설이 성립하려면 **LS↔LH 상호 회로**를 전제해야 한다. 방향성 검증이 후속 실험 1순위 (Nature 2026). → [[concept-lateral-septum]]
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★★ 본 논문의 **해마→LS→LH** 구간이 실증됨: 배측 해마 CA3/2→**DLS^Pdyn**→**LHA GABA(Vgat) 단시냅스 억제**(ex vivo IPSC). 어느 지점을 끊어도 **맥락 조건화 섭식만** 무너지고 총 섭취량은 보존. 남은 미검증 구간은 **LH→DMH→AgRP** (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS→LH 하행의 두 번째 채널(LS^Nts, 능동 도피 스트레스 시 섭식 억제). LS→LH는 단일 경로가 아니다 (eLife 2020).

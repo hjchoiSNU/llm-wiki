@@ -112,3 +112,4 @@ Cre-dependent **NTS 과발현(AAV-NTS-OE)** 을 NAcLat→VTA 투사 뉴런에 �
 - [[person-lammel-stephan]] — 교신저자, mesolimbic 회로 이질성 연구.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 논문을 §24.4.3의 핵심 근거로 사용한 교재 챕터(식락학 Ch 24).
 - [[concept-lateral-septum]] — 본 논문이 "LH→VTA NTS와 반대 방향(섭식 억제)"으로 지목한 **외측중격**의 분자·기능 지도. [[bhatti-mazo-2026-feature-specific-threat-coding-in]]이 LS^Crhr2를 10 아형으로 분해(NTS 아형은 미분류).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 논문이 "LS의 NTS 뉴런은 섭식 억제"라고 적은 **그 1차 출처**. LS^Nts→LH 화학·광유전 조작으로 섭취·체중↓ (eLife 2020, Friedman lab).

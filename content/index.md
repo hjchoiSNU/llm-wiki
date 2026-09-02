@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 444 (+ index.md, log.md)
+- 총 페이지: 447 (+ index.md, log.md)
 - 마지막 갱신: 2026-09-02
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -170,6 +170,8 @@ _(섭식·동기 행동은 🍽️로)_
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
 - [[leow-2026-a-cortical-hypothalamic-neural]] — **rostral ZI GABA**가 처벌(quinine·foot-shock)-저항 강박 섭식 전담(일반 식욕 TN^SST와 해리); **mPFC(PL·ORBm·ACAd)→rZI** top-down이 gate, binge가 mPFC-rZI를 지속 attractor로 재편; 인간 3코호트 rZI-mPFC FC=BMI/binge biomarker (Neuron 2026, Yu Fu·Zhou). 개념 [[concept-zona-incerta]]. _(강박·LOC은 🎯/신경조절에도)_
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ **맥락이 섭취량을 정하는 회로**: 배측 해마 CA3/2 → **외측중격 DLS^Pdyn** → **LHA GABA(Vgat) 단시냅스 억제**. 입력·세포체·종말·`Pdyn` 유전자 중 어디를 끊어도 **맥락 조건화 섭식만** 붕괴(총 섭취량은 보존). [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva]] 가설의 **해마→LS→LH 구간 실증** (Neuron 2026, Sahay lab). 개념 [[concept-lateral-septum]]·[[concept-dynorphin-kappa-opioid]]. _(해마 축은 🧠에도)_
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — **LS^Nts가 <능동 도피> 스트레스에만 선택적으로 켜져**(freezing·부동에는 안 켜짐) LH 투사로 섭식·체중↓; 불안·운동은 불변. **LS^Nts의 70%가 `Glp1r`⁺**·LS 내 exendin-4가 섭취↓ = GLP-1RA 변연계 작용점의 직접 약리 증거 (eLife 2020, Friedman lab). _(스트레스-섭식 방향은 🧩에도)_
 
 ### 지방 감지 (Fat sensing — 구강·장·중추 3층)
 지방(LCFA)을 감지하는 CD36/GPR40/GPR120이 혀·장·시상하부에서 부위별 분업. 구강=쾌락 초안, 장=wanting(gut-brain), 중추=satiety. 4번째 계층: 혈중 옥시리핀→간 이소성 후각수용체. 종합: [[garrido-2026-lipid-sensing-and-brain-hormone]](gut–kidney–brain 축).
@@ -419,6 +421,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-astrocyte-neuron-lactate-shuttle]] — 성상교세포→뉴런 젖산 셔틀·H3K9 젖산화(대사-후성유전)
 - [[concept-cephalic-phase-response]] — 식전 예측 대사반응(cephalic insulin)
 - [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)
+- [[concept-dynorphin-kappa-opioid]] — `Pdyn`/KOR hub. 시상하부(vDMH^LepR/pDYN→AgRP·LH orexin·PVH satiety)·D1 MSN·확장편도 스트레스 축에 흩어져 있던 dynorphin을 통합; 외측중격에서 **`Pdyn` 삭제만으로 맥락 조건화 섭식이 붕괴**(Goode 2026) — 마커가 아니라 계산에 필요한 펩티드
 - [[concept-emotional-eating]] · [[concept-early-life-adversity]] — 정서적 섭식·초기역경 발달 programming
 - [[concept-epigenetic-priming]] — 허용적 크로마틴(H3K4me1·SETD7)이 미래 자극 반응성을 증폭; 잠재 취약성의 분자 저장 기전
 - [[concept-h3-dopaminylation]] — 도파민·세로토닌이 **TG2를 통해 히스톤 H3Q5에 공유결합**(H3K4me3와 공존); 도파민 작용의 제3의 층(주–개월 시간척도). H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 도구

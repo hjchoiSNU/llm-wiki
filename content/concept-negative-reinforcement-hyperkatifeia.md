@@ -2,7 +2,7 @@
 title: 음성 강화 · Hyperkatifeia · 중독의 "dark side" (Koob)
 type: concept
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-02
 aliases: [negative reinforcement, hyperkatifeia, dark side of addiction, hedonic allostasis, opponent process]
 ---
 
@@ -30,3 +30,4 @@ aliases: [negative reinforcement, hyperkatifeia, dark side of addiction, hedonic
 - [[overview-cea-glp1r-food-safety-alarm]] — CeA aversion 축과 연결되는 종합.
 - [[concept-need-motivation-pleasure-utility]] — 음성 utility(hyperkatifeia) 제거를 향한 동기의 계산적 대응.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.4.6. 쾌락 가치 저하 + 음성 강화의 결합으로 '즐겁지 않은데 멈출 수 없다'를 설명.
+- [[concept-dynorphin-kappa-opioid]] — 본 프레임의 **dynorphin-KOR 축** 개념 hub. ⚠️ 화해 과제: 여기서 dynorphin은 확장편도의 **스트레스·불쾌 매개자**인데, [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]의 외측중격 dynorphin은 **맥락 학습의 매개자**다.

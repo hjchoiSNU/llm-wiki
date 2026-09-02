@@ -187,3 +187,5 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[concept-medial-preoptic-area]] · [[jamieson-2026-neural-circuits-for-mammalian-parental]] — LH가 중재하는 drive 목록의 **바깥쪽 확장**: 양육이 섭식과 경쟁하며, MPOA가 그 중재 노드. LH→PVN^OT 흥분성 입력이 부성 양육 전환에 관여 (NRN 2026).
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **LHA subfornical area(LHAsf)→외측중격(LS)** 이 LH의 새 출력 표적으로 확인. 이 상행 투사는 위협 회피에서 **행동 예고 신호**(CS 내내 ramp → Av-run까지)를 나르며, 억제 시 회피 확률↓. 시상하부 입력 전반이 LS에 **bottom-up 행동·현저성** 축을 공급한다 (Nature 2026, Fishell lab).
 - [[concept-lateral-septum]] — LH와 상호 연결되는 변연계 평가 노드. [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 해마→LS→LH→DMH→AgRP 가설과 방향성 쟁점.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **LHA^Vgat 뉴런이 외측중격 DLS^Pdyn의 단시냅스 억제 표적**(광유발 IPSC, EPSC 없음; orexin·VTA는 비표적). 이 억제가 **맥락에 따라 얼마나 먹을지**를 정한다. [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 LHA→LS 상행과 합쳐 **LS↔LHA 상호 회로** 성립 (Neuron 2026).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS^Nts→LH 종말 광자극만으로 섭취가 가역적으로 감소. LS→LH 억제의 **두 번째 병렬 채널**(DLS^Pdyn와 세포군 거의 비중첩) (eLife 2020).

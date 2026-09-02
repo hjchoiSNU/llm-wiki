@@ -2,7 +2,7 @@
 title: Conditioned taste aversion (CTA·조건화 미각 혐오)
 type: concept
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-02
 aliases: [conditioned taste aversion, CTA, 조건화 미각 혐오, taste aversion learning, food aversion learning]
 ---
 
@@ -31,3 +31,4 @@ aliases: [conditioned taste aversion, CTA, 조건화 미각 혐오, taste aversi
 - [[concept-central-amygdala-glp1r]] — valence 출력 노드.
 - [[concept-taste-valence-coding]] — 미각 valence 처리 hub.
 - [[concept-one-shot-learning]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — CTA는 대표적 **단일시행 학습**. 선조체에서는 그 시냅스 규칙이 eCB-LTP로 밝혀졌으나, CTA 회로(편도·PBN·NTS)에 같은 규칙이 적용되는지는 **본 위키 자료 범위 내에서 미검증 가설**.
+- [[concept-dynorphin-kappa-opioid]] — **식욕 억제 ↔ 혐오 분리 난제**의 또 다른 사례: 외측중격 DLS^Pdyn 광활성화는 섭취를 줄이면서 **실시간 장소 회피(음성 정동)** 를 동반한다(Goode 2026). KOR 작용제의 dysphoria 문제와 같은 형태.

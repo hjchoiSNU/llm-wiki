@@ -2,7 +2,7 @@
 title: 식품환경 & 접근성 (Food Environment & Access)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-02
 aliases: [food environment, food access, food desert, food swamp, 식품환경, 식품 접근성]
 ---
 
@@ -37,3 +37,4 @@ aliases: [food environment, food access, food desert, food swamp, 식품환경, 
 - [[person-kim-kirang]] — 한국 식품환경·FI 역학 hub.
 - [[hong-2023-development-and-validation-of]] · [[shim-2018-spatial-disparity-in-food]] · [[shim-2019-objective-and-perceived-food]] · [[kim-2021-effects-of-perceived-food]] · [[lee-2022-regional-difference-in-the]] · [[yang-2020-is-the-perceived-fruit]] · [[kim-2013-the-impact-of-nutritional]] · [[park-2018-food-acquisition-through-private]] — 한국 코호트 연구.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — "환경이 섭취량을 정한다"의 회로 근거: 배측 해마→DLS^Pdyn→LHA를 끊으면 **맥락 조건화 섭식만** 소실되고 총 섭취량은 보존 (Neuron 2026). → [[concept-lateral-septum]]

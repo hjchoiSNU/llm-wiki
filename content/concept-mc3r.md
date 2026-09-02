@@ -2,7 +2,7 @@
 title: Melanocortin-3 receptor (MC3R)
 type: concept
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-02
 aliases: [MC3R, melanocortin 3 receptor]
 ---
 
@@ -52,3 +52,4 @@ aliases: [MC3R, melanocortin 3 receptor]
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need encoder (NMPU).
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 차세대 약물·정밀의학.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — **외측중격 LS^Nts 뉴런의 20%가 `Mc3r`⁺**(viral-TRAP + FISH). 멜라노코르틴계의 변연계 좌표 후보이나 인과 검증은 없음 (eLife 2020).

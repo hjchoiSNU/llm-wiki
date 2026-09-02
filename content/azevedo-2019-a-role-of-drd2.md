@@ -33,3 +33,5 @@ year: 2019
 - [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — 해마 내 섭식 조절 하위회로 계보.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc 공간 식욕기억(상보적 해마-섭식 회로).
 - [[concept-lateral-septum]] — 본 논문의 표적은 주로 **내측중격(MS)** 이나, 해마→중격 축이라는 점에서 [[bhatti-mazo-2026-feature-specific-threat-coding-in]]의 **복측 해마→외측중격(LS)** cue-outcome 경로와 짝을 이룬다. 두 축을 구분해 읽을 것.
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — 같은 1저자(Azevedo)의 이듬해 논문. 이쪽은 **외측중격(LS^Nts)**→LH가 능동 도피 스트레스에서 섭식을 억제. 본 논문의 해마 Drd2→**내측중격(MS)** 축과 구분해 읽을 것.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — 같은 "맥락이 섭식을 정한다" 문제를 **배측 해마 CA3/2→DLS^Pdyn→LHA** 축으로 푼 논문 (Neuron 2026).

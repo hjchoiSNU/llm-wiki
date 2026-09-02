@@ -2,7 +2,7 @@
 title: Emotional eating (정서적 섭식) / 스트레스-섭식
 type: concept
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-02
 aliases: [emotional eating, stress eating, comfort eating, 정서적 섭식, 스트레스 섭식]
 ---
 
@@ -33,3 +33,4 @@ aliases: [emotional eating, stress eating, comfort eating, 정서적 섭식, 스
 - [[concept-food-addiction]] — 정서적 과식·중독 유비.
 - [[concept-need-motivation-pleasure-utility]] — need 무관 hedonic/정서 drive.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.4·§24.4.6. 정서적 섭식을 음성 강화 틀로 재기술.
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — ⚠️ **방향이 반대인 축**: 스트레스가 섭식을 **억제**하는 회로(LS^Nts→LH). 다만 **능동 도피(active coping)** 스트레스에만 켜지고 freezing·부동에는 켜지지 않는다 → 스트레스-섭식 연구에서 **대처 양식**을 층화해야 한다는 시사 (eLife 2020).
