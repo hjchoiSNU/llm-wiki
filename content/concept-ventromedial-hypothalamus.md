@@ -2,7 +2,7 @@
 title: Ventromedial hypothalamus (VMH)
 type: concept
 created: 2026-05-25
-updated: 2026-08-19
+updated: 2026-09-02
 aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 ---
 
@@ -68,3 +68,5 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - [[concept-medial-preoptic-area]] — 양육·성 동기를 함께 조율하는 인접 전시상하부 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — VMH LepR 뉴런이 **Nr5a1(SF-1) 3아형**·Qrfpr·Foxb1로 분해되며 아형별 열린 크로마틴 확보 (bioRxiv 2025).
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **VMH→외측중격 LS^Chat 아형 편향 입력**. VMH는 SuM·PH·MPO·AHN·LHA와 함께 LS^Crhr2의 주요 시상하부 입력원이며, 이 축이 **bottom-up 행동·현저성** 신호를 담당 (Nature 2026).
+- [[concept-lateral-septum]] — VMH 출력을 받는 변연계 평가 노드.

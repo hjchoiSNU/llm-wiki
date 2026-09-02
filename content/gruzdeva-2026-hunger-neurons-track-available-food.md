@@ -2,7 +2,7 @@
 title: "Hunger neurons track available food locations during foraging and spatial memory recall (Gruzdeva 2026)"
 type: paper
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-09-02
 source: "raw/2026 bioRxiv. Hunger neurons track available food locations during foraging and spatial memory recall.pdf"
 authors: [Anna Gruzdeva, Jamien Shea, Daniel Shi, Antonio Fernandez-Ruiz, Azahara Oliva, Nilay Yapici]
 year: 2026
@@ -83,3 +83,4 @@ year: 2026
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동을 상태로 분해하는 분석 프레임; 본 논문의 toward/away segmentation과 방법론적 자매.
 - [[concept-dopamine-reward-system]] — 접근 시 **상승**하는 도파민 ramp와 **하강**하는 AgRP ramp의 부호 대비.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ 본 논문이 제안한 **해마→LS→LH→DMH→AgRP** 가설의 **첫 구간을 실증**: 복측 해마(vCA1·vCA3·ProS)→LS가 실재하며 **cue-outcome 정보**를 나른다(photometry+광억제). ⚠️ 단 이 논문이 매핑한 시상하부 축은 **LHA→LS(상행)** 로 방향이 반대여서, 가설이 성립하려면 **LS↔LH 상호 회로**를 전제해야 한다. 방향성 검증이 후속 실험 1순위 (Nature 2026). → [[concept-lateral-septum]]

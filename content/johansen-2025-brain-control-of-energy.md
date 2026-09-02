@@ -2,7 +2,7 @@
 title: "Brain control of energy homeostasis: Implications for anti-obesity pharmacotherapy (Johansen et al. 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-02
 source: "raw/2025 Cell. Brain control of energy homeostasis- Implications for anti-obesity pharmacotherapy.pdf"
 authors: [Valdemar Brimnes Ingemann Johansen, Jonas Petersen, Jens Lund, Cecilie Vad Mathiesen, Henning Fenselau, Christoffer Clemmensen]
 year: 2025
@@ -94,3 +94,4 @@ Cell 2025 Leading Edge 리뷰. **비만의 원인론(gene×environment, push-pul
 
 ---
 *출처: raw/2025 Cell. Brain control of energy homeostasis- Implications for anti-obesity pharmacotherapy.pdf (Johansen VBI, Petersen J, Lund J, Mathiesen CV, Fenselau H, Clemmensen C. Cell 2025;188:4178–4212; doi:10.1016/j.cell.2025.06.010)*
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 본 리뷰가 GLP-1RA의 NAc 도파민 억제 간접 경유지로 지목한 **lateral septum**의 세포 구성을 해부: LS^Crhr2 10 분자 아형 중 **Glp1r 아형 8.4%**가 행동 개시를 표상하고 SuM·BLA 입력을 받음 (Nature 2026). → [[concept-lateral-septum]]

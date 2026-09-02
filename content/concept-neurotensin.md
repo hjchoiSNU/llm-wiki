@@ -2,7 +2,7 @@
 title: "Neurotensin (Nts)"
 type: concept
 created: 2026-07-28
-updated: 2026-08-19
+updated: 2026-09-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -28,3 +28,4 @@ Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·
 - [[person-soden-marta]] · [[person-korotkova-tatiana]] — LH-Nts 회로 연구자.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LH의 **Nts 발현 LepR 클러스터**(cluster 3, GABAergic)를 전사·크로마틴 양쪽으로 정의 (bioRxiv 2025).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc 기원 NTS 축**(LH 기원과 별개): NAcLat→VTA 뉴런의 NTS가 VTA 도파민 뉴런을 NTSR1로 흥분시켜 hedonic feeding을 매개. 만성 HFD가 *Nts* 발현(log₂FC −1.52)·방출을 낮춰 **hedonic devaluation**을 유발하고, NTS 과발현이 이를 되돌린다. 수용체는 온전 = presynaptic 병변 (Nature 2025). 인물 [[person-lammel-stephan]].
+- [[concept-lateral-septum]] — LS의 NTS 뉴런은 **섭식을 억제**하는 쪽(LH→VTA NTS의 촉진과 반대 방향; [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit-Shimoni 2025]]). LS 자체의 분자 아형 지도는 [[bhatti-mazo-2026-feature-specific-threat-coding-in]] 참조.

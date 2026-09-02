@@ -2,7 +2,7 @@
 title: "The central amygdala gates exogenous glucagon-like peptide 1 signals (Duran et al. 2026, Mol Metab)"
 type: paper
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-02
 source: raw/2026 Molecular Metabolism. The central amygdala gates exogenous glucagon-like peptide 1 signals.pdf
 authors: [Duran M, Zeng N, Cutts EJ, Polamarasetty A, Rodriguez M, Habegger KM, Hardaway JA]
 year: 2026
@@ -62,3 +62,4 @@ year: 2026
 - [[concept-need-motivation-pleasure-utility]] — Glp1r^CeA hedonic 전담 = Pleasure/Motivation 축 약리 진입점.
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 부위별 GLP-1R 분업 review (사용자 lab).
 - [[overview-cea-glp1r-food-safety-alarm]] — 본 논문 + Godschall 2026 + Woods 1991을 묶어 CeA^Glp1r을 "food safety alarm"으로 종합.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 본 논문이 "GLP-1R 풍부하나 역할 불명"으로 남긴 **lateral septum**에 세포 좌표를 제공: **LS^Glp1r**(LS^Crhr2의 8.4%)가 행동 개시 표상 1위·SuM 최대 입력. 단 위협 회피 과제이며 섭식·GLP-1RA는 미시험 (Nature 2026). → [[concept-lateral-septum]]

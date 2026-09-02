@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-09-02
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -185,3 +185,5 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[person-soden-marta]] — LH-Nts↔VTA 신경펩타이드 회로 연구자.
 - [[concept-zona-incerta]] · [[leow-2026-a-cortical-hypothalamic-neural]] — 인접 orexigenic 노드 ZI; rZI^GABA는 강박 섭식 전담(LH^GABA→VTA sucrose seeking과 병렬, TN^SST 일반 식욕과 해리).
 - [[concept-medial-preoptic-area]] · [[jamieson-2026-neural-circuits-for-mammalian-parental]] — LH가 중재하는 drive 목록의 **바깥쪽 확장**: 양육이 섭식과 경쟁하며, MPOA가 그 중재 노드. LH→PVN^OT 흥분성 입력이 부성 양육 전환에 관여 (NRN 2026).
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **LHA subfornical area(LHAsf)→외측중격(LS)** 이 LH의 새 출력 표적으로 확인. 이 상행 투사는 위협 회피에서 **행동 예고 신호**(CS 내내 ramp → Av-run까지)를 나르며, 억제 시 회피 확률↓. 시상하부 입력 전반이 LS에 **bottom-up 행동·현저성** 축을 공급한다 (Nature 2026, Fishell lab).
+- [[concept-lateral-septum]] — LH와 상호 연결되는 변연계 평가 노드. [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 해마→LS→LH→DMH→AgRP 가설과 방향성 쟁점.

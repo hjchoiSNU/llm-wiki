@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-09-02
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -245,3 +245,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[zhang-2026-inherited-input-and-local-transformations]] — Motivation→행동 개시 전이를 선조체 **accumulator**(pVLS dSPN ramp)로 읽을 가능성; 가치 신호의 상속 vs 국소 변환 해리 (bioRxiv 2026).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **Pleasure 축의 분자·투사 정의 후보**: NAcLat^Nts→VTA. 만성 HFD에서 Pleasure는 내려가는데 섭취는 유지되는 해리를 회로로 인과 증명 (Nature 2025).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.1. NMPU 네 성분의 **정렬이 깨진 상태**로 갈망을 정의.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **해마=경험 기반 결과 예측 / 시상하부=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 시상하부, 학습된 Utility는 피질-해마" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]

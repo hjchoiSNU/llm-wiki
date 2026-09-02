@@ -2,7 +2,7 @@
 title: "Changes in neurotensin signalling drive hedonic devaluation in obesity (Gazit Shimoni & Tose 2025)"
 type: paper
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-02
 source: "raw/2025 Nature. Changes in neurotensin signalling drive hedonic devaluation in obesity.pdf"
 authors: [Neta Gazit Shimoni, Amanda J. Tose, Charlotte Seng, Yihan Jin, Tamás Lukacsovich, Hongbin Yang, Jeroen P. H. Verharen, Christine Liu, Michael Tanios, Eric Hu, Jonathan Read, Lilly W. Tang, Byung Kook Lim, Lin Tian, Csaba Földy, Stephan Lammel]
 year: 2025
@@ -111,3 +111,4 @@ Cre-dependent **NTS 과발현(AAV-NTS-OE)** 을 NAcLat→VTA 투사 뉴런에 �
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] · [[grove-2022-dopamine-subsystems-track-internal]] — LH↔VTA 양방향 축.
 - [[person-lammel-stephan]] — 교신저자, mesolimbic 회로 이질성 연구.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 논문을 §24.4.3의 핵심 근거로 사용한 교재 챕터(식락학 Ch 24).
+- [[concept-lateral-septum]] — 본 논문이 "LH→VTA NTS와 반대 방향(섭식 억제)"으로 지목한 **외측중격**의 분자·기능 지도. [[bhatti-mazo-2026-feature-specific-threat-coding-in]]이 LS^Crhr2를 10 아형으로 분해(NTS 아형은 미분류).

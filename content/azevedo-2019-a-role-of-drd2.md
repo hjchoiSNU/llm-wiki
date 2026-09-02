@@ -2,7 +2,7 @@
 title: A Role of Drd2 Hippocampal Neurons in Context-Dependent Food Intake
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-02
 source: raw/2019 Neuron. A Role of Drd2 Hippocampal Neurons in Context-Dependent Food Intake.pdf
 authors: [Azevedo EP et al.]
 year: 2019
@@ -32,3 +32,4 @@ year: 2019
 - [[concept-need-motivation-pleasure-utility]] — hD2R 활성→섭식 동기↓(motivation 축).
 - [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — 해마 내 섭식 조절 하위회로 계보.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc 공간 식욕기억(상보적 해마-섭식 회로).
+- [[concept-lateral-septum]] — 본 논문의 표적은 주로 **내측중격(MS)** 이나, 해마→중격 축이라는 점에서 [[bhatti-mazo-2026-feature-specific-threat-coding-in]]의 **복측 해마→외측중격(LS)** cue-outcome 경로와 짝을 이룬다. 두 축을 구분해 읽을 것.

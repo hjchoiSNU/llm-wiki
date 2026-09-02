@@ -2,7 +2,7 @@
 title: Basolateral amygdala (BLA, 기저외측편도체)
 type: concept
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-09-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -138,3 +138,5 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — BL/BLmc가 OFC·전측두 입력의 주 표적(rhesus 배선도).
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — BLA 글루타메이트가 상태의존 reward value 부호화·인출을 매개; OFC→BLA 이중해리(Nat Neurosci 2019, Wassum lab).
 - [[person-wassum-kate]] — BLA reward valuation 연구 프로그램 hub.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **BLA→외측중격 LS^Glp1r·LS^Foxp2 아형에 선택적 입력**(rabies+STPT). 한편 BLA는 CS 제시 중 LS가 수행하는 cue-outcome 계산을 하지 않아, 위협 평가 위계에서 LS와 역할이 갈린다 (Nature 2026).
+- [[concept-lateral-septum]] — BLA 입력을 아형 선택적으로 받는 변연계 평가 노드.

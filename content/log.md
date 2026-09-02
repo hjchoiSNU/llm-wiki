@@ -8,6 +8,30 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-02 — ingest (raw/ 신규 1편: 외측중격 위협 코딩)
+
+`raw/` 330개 파일을 위키 `source:` 필드와 대조 → **미정리 1건** ingest: [[bhatti-mazo-2026-feature-specific-threat-coding-in]] (*Feature-specific threat coding in lateral septum guides defensive action*, Nature 656:415–, 2026, Fishell lab).
+
+**새 페이지 2**
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 논문 페이지. LS^Crhr2를 **분자 10아형 × 공간 topography × 기능 동역학 × 입력 구조** 4축으로 해부. 두 시점 표상(CS 1초 이내 / 행동 1.5초 전)의 인과 분리, **해마=cue-outcome(top-down) / 시상하부 LHAsf·SuM=action(bottom-up)** 분업.
+- [[concept-lateral-septum]] — **신규 hub**. 위키에서 6개 이상 페이지가 "경유지"로만 언급하던 LS를 처음 독립 개념 페이지로 정리(조직 원리 4축 + 섭식·대사 조각 + 사회·양육 축 + 열린 질문 5).
+
+**갱신 페이지 16 (역방향 링크)**
+- 회로: [[concept-lateral-hypothalamus]](LHAsf→LS 상행 출력) · [[concept-hippocampus-feeding]](vCA1/vCA3/ProS→LS) · [[concept-bed-nucleus-stria-terminalis]](CRHR1 vs CRHR2 대비) · [[concept-basolateral-amygdala]](BLA→LS^Glp1r/Foxp2) · [[concept-ventromedial-hypothalamus]](VMH→LS^Chat)
+- 대사·수용체: [[concept-glp-1]] · [[concept-amylin-receptor-agonists]] · [[concept-neurotensin]] · [[duran-2026-the-central-amygdala-gates]] · [[johansen-2025-brain-control-of-energy]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]
+- 이론·방법: [[concept-need-motivation-pleasure-utility]] · [[concept-activity-molecular-registration]]
+- 회로 가설: [[gruzdeva-2026-hunger-neurons-track-available-food]] · [[azevedo-2019-a-role-of-drd2]] · [[jamieson-2026-neural-circuits-for-mammalian-parental]]
+- [[index.md|wiki/index.md]] — 🧠 기타 회로에 [[concept-lateral-septum]], 🧩 인지 & 행동에 논문 등재. 총 페이지 444.
+
+**핵심 함의 3**
+1. [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 미검증 가설 **해마→LS→LH→DMH→AgRP**의 첫 구간(해마→LS)이 실증됨. ⚠️ 단 본 논문의 시상하부 축은 **LHA→LS(상행)** 로 방향이 반대 — **LS↔LH 상호 회로** 전제 필요. 방향성 검증이 후속 1순위.
+2. **LS^Glp1r**(LS^Crhr2의 8.4%)가 행동 개시 표상 1위·SuM 최대 입력 세포군으로 특정 → [[duran-2026-the-central-amygdala-gates|Duran 2026]]·[[johansen-2025-brain-control-of-energy|Johansen 2025]]의 "LS GLP-1R 역할 불명" 공백에 첫 세포 좌표. **단 섭식·GLP-1RA 미시험 — 대사 함의는 전부 추론.**
+3. `Crhr2^Flp × marker^Cre` + miniscope + snRNA-seq + rabies·STPT 조합 = **사전 유전 접근** 형태의 활성–분자 정합. [[concept-activity-molecular-registration|CaRMA/TRU-FACT]](사후 정합)와 trade-off 명시.
+
+**후속 ingest 후보** (본 논문 참고문헌, 위키에 원문 없음): Azevedo et al. *A limbic circuit selectively links active escape to food suppression* · Goode et al. *Calibration of context-evoked feeding by a genetically defined lateral septum*.
+
+**미해결 (lint 후보)**: `wiki/*.md` 실제 444개 vs `index.md` 등재 442개 — 미등재 2건은 [[overview-snu-med-education-vision-2036]] · [[overview-snu-med-edu-committee-minutes]]. 이번 ingest 범위 밖이라 미수정(깨진 링크는 0건).
+
 ## 2026-08-20 — 챕터 작성 (식락학 Ch 24: 음식 갈망과 중독)
 
 사용자 요청으로 식락학 교재 **Ch 24**(음식 갈망과 중독: 생물학적·화학적 관점) 집필. 사용자 담당 4개 챕터 중 셋째(18 ✅ · 20 ✅ · **24 ✅** · 25 미착수).

@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 440 (+ index.md, log.md)
-- 마지막 갱신: 2026-08-20
+- 총 페이지: 444 (+ index.md, log.md)
+- 마지막 갱신: 2026-09-02
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -47,6 +47,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-hippocampus-feeding]] — 배외측 해마(dlHPC)=LH MCH orexigenic subnetwork; 비만에서 연결성↓ (Halpern 2023).
 - [[concept-ventral-pallidum]] — NAc 주 출력핵·보상 마지막 관문. posterior VP=쾌락 핫스폿 '좋아함' 필수; VP^GABA=hedonic 섭식/비만 노드 (Wang 2026).
 - [[concept-basal-forebrain-cholinergic]] — 기저전뇌(SI) ChAT→BLA ACh=현저성 modulator; NAc D1/D2가 양방향 통제 (Chen 2026).
+- [[concept-lateral-septum]] — **외측중격 = 해마(top-down cue 예측) × 시상하부(bottom-up 행동·현저성) 수렴 평가 노드**. LS^Crhr2 10 분자 아형(Glp1r·Calcr·Lhx2·Foxp2·Chat…)이 공간·기능·입력에서 갈라짐. septal rage 역설의 회로 해석. 해마-섭식 축과 GLP-1RA 변연계 경로의 미완성 결절점 (Bhatti Mazo 2026).
 
 ## 🔬 분자/세포 신경과학 (Molecular & Cellular)
 
@@ -97,6 +98,7 @@ title: 뇌과학 LLM Wiki
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — ★ **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 DLS의 eCB-LTP**가 담당. 새 행동과제 STA test(끈끈이 테이프 회피, 보상·처벌 없음)·Neuropixels·plasticitymeter 모델·GRAB_eCB2.0·CB1R/D2R 조건부 KO로 인과 규명. **짧은 경험=eCB-LTP / 긴·반복 경험=NMDA-LTP** 분업 (Nat Neurosci 2026, Venance lab). 개념 [[concept-one-shot-learning]]. _(엔도카나비노이드는 💡·🍽️와도)_
 - [[concept-one-shot-learning]] — 단일시행 학습과 그 비고전적 가소성 규칙(선조체 eCB-LTP·해마 BTSP·STDP 한계) 개념 hub. CTA·flavor-nutrient 같은 one-trial 식이 학습으로의 이식 가설.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ 포유류 **양육 회로** 종합: 다중감각 새끼신호 평가 → MPOA(pro)↔PeFA^Ucn3/BNST^Esr1(anti) → VTA-NAc 강화·PAG 운동. 발달(P14–15 microglia pruning)·감작·관찰학습·임신 호르몬으로 **끊임없이 재구성되는 가소적 시스템**. ★ **배고픔↔돌봄 경쟁**(AgRP/NPY→MPOA 억제) (NRN 2026, Kohl lab). 개념 [[concept-medial-preoptic-area]]. _(🧠 시상하부 핵·🍽️ AgRP와도)_
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ **외측중격(LS^Crhr2)** 이 위협 cue를 방어 행동으로 바꾸는 계산을 **분자 10아형 × 공간 topography × 기능 동역학 × 입력 구조** 4축으로 해부. CS 1초 이내와 행동 1.5초 전의 **두 시점 표상**, **해마=cue-outcome / 시상하부(LHAsf·SuM)=action** 분업. **LS^Glp1r**·**LS^Calcr** 아형 특정 (Nature 2026, Fishell lab). 개념 [[concept-lateral-septum]]. _(GLP-1R·해마-섭식 축은 🍽️·💡와도)_
 
 **대사–인지 계산정신의학 (Nord 랩, Cambridge · metabolic interoception cluster)**
 - [[mehrhof-2025-an-interoceptive-model-of-energy]] — **이론 spine**: 대사–우울 공존을 뇌의 예측적 에너지 조절(**interoceptive energy allostasis**) 교란으로 재개념화; 대사↔인지↔행동 vicious cycle·개인별 개입 진입점 (Sci Adv 2025 리뷰). → [[concept-metabolic-interoception]].

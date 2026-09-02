@@ -2,7 +2,7 @@
 title: 분계선조 침상핵 (Bed nucleus of the stria terminalis, BNST)
 type: concept
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-02
 aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침상핵, extended amygdala]
 ---
 
@@ -51,3 +51,5 @@ aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — BNST의 **사회·양육 축**: **BNST^Esr1(새끼 공격) ↔ MPOA^Esr1(돌봄)**이 상호 억제 스위치를 이루고, 새끼 distress 발성이 **BNST→LHb**로 음성 정동을 부호화(감작 시 이 경로가 약화). 전배측 BNST의 CRH는 모성 방치를 유발 (NRN 2026).
 - [[concept-medial-preoptic-area]] — BNST^Esr1과 상호 억제로 결합된 pro-parental 상대 노드.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-lateral-septum]] — 인접 변연계 스트레스·동기 허브. BNST=CRH/CRHR1 중심인 반면 **LS=CRHR2** 중심이며, LS는 해마(top-down)와 시상하부(bottom-up) 수렴으로 위협 표상을 만든다. 두 구조 모두 GLP-1R이 풍부하나 역할은 미규명.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — LS^Crhr2의 분자 10아형·기능·입력 해부 (Nature 2026).
