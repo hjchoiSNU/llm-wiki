@@ -64,3 +64,4 @@ GLP-1 수용체 작용제를 알츠하이머(AD)·파킨슨(PD)·근위축성측
 - [[person-edison-paul]] — ELAD·incretin 신경보호 연구자(공저자 아님이나 근접 라인).
 - [[fang-2025-glucagon-like-peptide-1-medicines]] — 자매 리뷰(Drucker 공저): 신경퇴행을 넘어 **SUD·정신질환·발작·두통**까지 확장한 광역판(Cell Rep Med 2025).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사 응용 지형(신경 응용의 대비축).
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 신경보호 논쟁의 배경: GLP-1R의 조직 직접 작용(체중 비의존)이 존재한다는 근거 (Cell Metab 2026).

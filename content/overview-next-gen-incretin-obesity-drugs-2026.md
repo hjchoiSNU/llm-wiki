@@ -64,3 +64,4 @@ updated: 2026-06-21
 - [[crunkhorn-2025-pairing-up-with-glp-1]] — GLP-1×렙틴 이중작용제가 DMH LepR^Glp1r 뉴런 표적(하이라이트).
 - [[mullard-2025-from-gene-hunter-to]] — MariTide를 modular therapeutic 사례로 거론한 산업 인터뷰.
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 차세대 다중작용제의 미해결 질문 제기: **GLP-1R 작용의 추가/생략이 조직 특이 보호를 강화·약화·재편하는가** (Cell Metab 2026, Drucker).

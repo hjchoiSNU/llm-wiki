@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-03 — ingest (신규 1편: GLP-1 체중 비의존 작용)
+
+`source:` 필드 기준 재대조에서 이전 탐지가 놓친 신규 1편 추가 ingest. 페이지 453→454.
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — **"GLP-1 효과 = 체중 감소의 결과"라는 등식을 해체**하는 Drucker commentary. ① 효과가 체중 감소에 **선행**(liraglutide 2주 내 인슐린 감수성↑, Exendin(9-39)로 소실), ② **매개분석 불완전 귀속**(SELECT 중심지방 1/3, hsCRP 20.6–61.8%, ESSENCE 간 종료점 50–70% 비체중), ③ **체중 감소 미미해도 이득**(SELECT 9.4%에 MACE 20%↓·사망 19%↓, STRIDE는 BMI<30 다수), ④ **체중 독립 GLP-1R 기전**(VSMC GLP-1R=혈압 전담이며 섭식·체중·혈당 무관, 간 LSEC GLP-1R=국소 간보호, 장 IEL GLP-1R=PKA 의존 TCR 억제, 관절 GLP-1R–AMPK–PFKFB3=연골 대사 전환). 특히 **신경 GLP-1R(조혈·내피 아님)이 말초 TLR 매개 염증 억제에 필수**이며 α1-아드레날린·κ-오피오이드를 경유하는 신경-면역 crosstalk (Cell Metab 2026, Drucker lab).
+- 임상 함의: 장기 보호를 체중에서 떼어낼 수 있다면 고령·쇠약·근감소증 위험군에 **저용량 전략**이 가능. 체중을 1차 지표로만 쓰면 유효 치료를 조기 중단하게 된다는 경고.
+- 역링크 9곳: [[concept-glp-1]]·[[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]]·[[petersen-2026-the-evolving-landscape-of]]·[[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[fang-2025-glucagon-like-peptide-1-medicines]]·[[sabbagh-2026-repurposing-glucagon-like-peptide-1]]·[[concept-glp1-neuroprotection]]·[[gao-2026-semaglutide-drives-weight-loss-through]]·[[overview-next-gen-incretin-obesity-drugs-2026]]. index 🍽️ GLP-1/GIP 절 등재.
+- ⚠️ 탐지 개선 메모: 파일명 토큰 매칭은 기존 GLP-1 페이지들과 겹쳐 **오탐**했음. `source:` 필드 정확 매칭 + 제목 구절 검색 병행이 정확.
+
 ## 2026-09-03 — ingest (신규 1편: NAc eCB 역행성 gain control)
 
 `raw/` 335건 대조 결과 미등록 신규 논문 1편 ingest. 페이지 451→453.

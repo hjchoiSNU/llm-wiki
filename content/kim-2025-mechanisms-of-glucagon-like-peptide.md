@@ -88,3 +88,4 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포 실측.
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 부위 논쟁 종합.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 약리·뇌기전).
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 중추 GLP-1R의 새 역할: **신경(비조혈·비내피) GLP-1R이 말초 TLR 매개 염증 억제에 필수**, α1-아드레날린·κ-오피오이드 경유 신경-면역 crosstalk (Cell Metab 2026).

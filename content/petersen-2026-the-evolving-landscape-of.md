@@ -41,3 +41,4 @@ year: 2026
 - [[muller-2022-gut-hormone-triple-agonists-clinical]] · [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — 리뷰(공저자 Müller).
 - [[johansen-2025-brain-control-of-energy]] · [[lee-2017-glp-1-based-combination-therapy]] — 사용자 lab 중추·병용 라인.
 - [[concept-glp1-neuroprotection]] — 신경퇴행 적응증(EVOKE 실패).
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 비만 약물 평가에서 **체중을 1차 지표로만 쓰는 것의 위험**을 제기; 저용량·장기보호 우선 전략의 근거 (Cell Metab 2026, Drucker).

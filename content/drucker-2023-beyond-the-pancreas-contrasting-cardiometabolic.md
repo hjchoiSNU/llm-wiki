@@ -33,3 +33,4 @@ GIP와 GLP-1의 췌장 밖(근육·간·지방·뼈·면역·신장·심혈관·
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — AMG-133(본 리뷰가 임상 진입 예고).
 - [[concept-dorsal-vagal-complex]] — GLP-1/GIP 후뇌(NTS·AP) 무대.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 다중작용·경구 흐름의 개념 선행.
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 같은 저자의 후속 논지 심화: 췌장외 작용을 **체중 감소 독립성**의 관점으로 재정리 (Cell Metab 2026).

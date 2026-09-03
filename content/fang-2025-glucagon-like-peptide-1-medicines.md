@@ -60,3 +60,4 @@ GLP-1 수용체 작용제를 신경퇴행(AD·PD)·뇌졸중·발작·편두통�
 - [[concept-liking-wanting]] · [[concept-incentive-sensitization]] · [[concept-food-addiction]] — GLP-1의 ‘갈망’·중독 개입이 닿는 보상 개념.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-need-motivation-pleasure-utility]] — 사용자 lab 중독·NMPU framework의 약리 검증 축.
 - [[concept-glp-1]] — 상위 호르몬·약리 hub.
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 물질사용장애 등 비대사 적응증이 **체중 감소의 이차 결과가 아님**을 뒷받침하는 기전 정리 (Cell Metab 2026, Drucker).
