@@ -8,6 +8,18 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-07 (2) — ingest 점검 (신규 0건)
+
+`raw/` 336건을 `source:` 필드(따옴표 제거·정규화) 기준으로 재대조. **미등록 논문 0건** — 당일 오전 [[wang-2015-whole-brain-mapping-of-the-direct]] ingest 이후 새 파일 없음(최신 파일 `fnana-09-00040.pdf`, 이미 등록). 페이지 458 유지.
+
+미매칭 36건의 내역(모두 비-신규):
+- 중복본 ` 1.pdf`/`(1)`/`(2)`/` 2.pdf` 접미사 22건 + supplement 2건 + `README.md` + 스텁 `ochan-2026-…md`(PDF 원본 있음).
+- 따옴표 표기 차이(curly vs straight) 4건 — Berridge 2020·2021, TI 2023(Front Neurosci), Liraglutide AD 2026(Nat Med). 위키 `source:`는 straight quote로 기록돼 있어 문자열 비교에서만 어긋남.
+- **체크섬이 다른 동일 논문 4쌍** (다른 시점 다운로드, 첫 페이지·DOI 동일 확인): Roh 2021 JKSFN DBS 리뷰 / Dong 2026 PNAS orexin(`2025 PNAS…` 파일은 8월 재다운로드본) / Godschall 2026 Nature(`Nature.A brain…` 오타본) / Walker 2026 Neuron(`2026 Neuron. A hypothalamic circuit…`). 각각 [[roh-2021-deep-brain-stimulation-for]]·[[concept-orexin-neurons]]·[[godschall-2026-a-brain-reward-circuit-inhibited]]·[[walker-2026-a-hypothalamic-circuit-for]] 등재 완료.
+- `.docx`/`.xlsx`/`.pptx`/`.mp4` 18건은 식락학 교재 원고·회의 안건·슬라이드·영상으로 논문 ingest 대상 아님.
+
+⚠️ 탐지 메모: 향후 대조 시 `source:` 값의 따옴표 제거 + curly→straight 정규화까지 적용하면 오탐 4건이 사라짐.
+
 ## 2026-09-07 — ingest (신규 1편: POMC·AgRP 전뇌 배선 지도 + 방법론 hub)
 
 `raw/` 336건을 **`source:` 필드 정확 매칭**으로 전수 대조. 미등록 파일 50건 중 **논문은 1편**뿐이었고(나머지 49건 = 중복본 `(1)`/` 1.pdf`·supplement·식락학 교재 `.docx`·`README.md`), 이를 ingest. 페이지 454→456.
