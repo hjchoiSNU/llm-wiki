@@ -2,7 +2,7 @@
 title: "활성–분자정체 정합 (Activity–Molecular Registration: CaRMA · TRU-FACT)"
 type: concept
 created: 2026-06-02
-updated: 2026-09-02
+updated: 2026-09-07
 aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registration, 활성 분자정체 정합, in vivo imaging spatial transcriptomics alignment]
 ---
 
@@ -63,3 +63,4 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 - [[concept-need-motivation-pleasure-utility]] — 활성↔정체 연결이 검증하는 framework.
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-lateral-hypothalamus]] · [[concept-paraventricular-nucleus]] — 적용 대상 feeding 세포타입.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **사전 유전 접근(prospective genetic access)** 계열의 대안 전략: `Crhr2^Flp × marker^Cre` 교차 유전학으로 **분자 아형별 freely-moving miniscope**를 돌리고, 같은 아형에 rabies+STPT 입력지도를 붙여 분자×공간×기능×입력을 정합. CaRMA/TRU-FACT의 사후 정합(마커 무편향)과 trade-off — 마커를 미리 알아야 하지만 광유전 인과 조작까지 직결된다 (Nature 2026). → [[concept-lateral-septum]]
+- [[concept-monosynaptic-rabies-tracing]] — **직교 축**: 광견병 지도는 '누가 입력을 주는가'를, CaRMA/TRU-FACT는 '이 활성 세포가 누구인가'를 답한다. [[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]가 남긴 숙제(ARC POMC의 이질적 부분집합마다 다른 subcircuit인가)는 배선 지도만으로 풀리지 않고 활성–분자정체 정합이 필요한 문제.

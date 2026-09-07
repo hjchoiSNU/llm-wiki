@@ -2,7 +2,7 @@
 title: "Zona Incerta (ZI) — orexigenic 시상하부 노드"
 type: concept
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-09-07
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -41,3 +41,4 @@ updated: 2026-07-31
 - [[concept-need-motivation-pleasure-utility]] — rZI=강박(처벌-저항 wanting) 성분 배치.
 - [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — 처벌-저항 강박 섭취와 임상 대응.
 - [[concept-deep-brain-stimulation]] · [[concept-transcranial-electrical-stimulation]] · [[concept-digital-therapeutics]] — mPFC-rZI 표적 신경조절.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **ZI가 ARC POMC의 직접 입력원**임을 단시냅스 광견병 추적으로 검출. 저자는 subiculum과 함께 **통상 tract tracing에서 이전에 동정되지 않았던 입력**으로 명시(방법 감도 차이). [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 rZI^GABA 강박 섭식 축에 **ZI→ARC라는 시상하부 직결 경로**를 더하는 오래된 해부 근거 (Front Neuroanat 2015).

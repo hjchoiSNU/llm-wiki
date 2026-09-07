@@ -2,7 +2,7 @@
 title: 외측 고삐핵 (Lateral habenula, LHb) — 혐오·음성강화의 상류 허브
 type: concept
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-07
 aliases: [lateral habenula, LHb, 외측 고삐핵, 고삐핵, habenula, RMTg, rostromedial tegmentum, MRR, median raphe region]
 ---
 
@@ -59,3 +59,4 @@ MRR (median raphe region, vGluT2⁺) → LHb → RMTg (VTA tail, GABA) → VTA D
 - [[concept-central-amygdala-glp1r]] · [[concept-bed-nucleus-stria-terminalis]] — 병렬 혐오·스트레스 축(확장편도체).
 - [[concept-deep-brain-stimulation]] · [[dupre-2015-deep-brain-stimulation-for]] · [[yuen-2022-deep-brain-stimulation-for]] — 표적 후보로서의 habenula.
 - [[concept-parabrachial-cgrp-alarm]] — 또 다른 상행 혐오·경보 축(비교).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — LHb가 ARC POMC·AgRP로 직접 투사하는 시상 계열 입력원 목록에 포함(소수). 시상 전반이 ARC로 거의 투사하지 않는 가운데 PVT와 함께 잡힌 예외 (Front Neuroanat 2015).

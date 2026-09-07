@@ -2,7 +2,7 @@
 title: Dorsomedial hypothalamus (DMH)
 type: concept
 created: 2026-05-25
-updated: 2026-08-19
+updated: 2026-09-07
 aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ---
 
@@ -75,3 +75,4 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[cao-2024-hunting-for-heroes-brain]] — DMH^GLP-1R preingestive satiation 논점 맥락화.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — DMH의 Lepr×Glp1r 뉴런이 **Bnc2/Nkx2-4/Glp1r 계열**이며 DMH에서는 **Ebf1형이 우세·Glp1r 최고 발현**(Xenium ~60%) → liraglutide 포만 매개 DMH LepR 뉴런의 분자 정체 후보 (bioRxiv 2025).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **DM이 ARC POMC·AgRP 입력 중 수적으로 가장 많은 시상하부 영역**임을 전뇌 지도로 확인([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]의 AgRP 입력 DMH 26%와 정합). 단 이 영역 수준 결과는 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]의 세포 수준 선택성(vDMH^LepR이 AgRP 100% vs POMC 9%)과 **다른 층위** — 같은 핵이 둘 다에 투사한다는 사실이 같은 뉴런이 둘 다에 투사함을 뜻하지는 않는다 (Front Neuroanat 2015).

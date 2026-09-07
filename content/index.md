@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 454 (+ index.md, log.md)
-- 마지막 갱신: 2026-09-03
+- 총 페이지: 456 (+ index.md, log.md)
+- 마지막 갱신: 2026-09-07
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -78,6 +78,7 @@ title: 뇌과학 LLM Wiki
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA, MRI 정합); 25영역·59뉴런타입·DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026, Jun Yan lab).
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc Visium+snRNA-seq 아틀라스; D1/D2 MSN 연속 공간 gradient·OPRM1+ D1 island(오피오이드 hedonic 상관)·rodent 약물반응 transfer learning (Neuron 2026, Maynard/Lieber). _(보상 회로는 🎯에도)_
 - [[mueller-2025-privi-towards-general-purpose-video]] — PriVi: NHP 행동 영상 자동 인식 video foundation model(V-JEPA 기반, 424h primate 데이터·frozen encoder). NHP 자유행동 섭식 정량화 도구 (2025, Ecker lab). _(방법 인프라, appetite 회로 아님)_
+- [[concept-monosynaptic-rabies-tracing]] — **단시냅스 광견병 역행추적 hub**: EnvA–TVA(진입 제한) + ΔG–RG 보충(확산 제한) 원리, 시작세포·**수렴비**라는 정량 단위, 필수 대조군, 그리고 읽을 때의 5가지 함정(음성 결과 과대해석·**영역 수준 공유를 세포 수준으로 승격**·해부≠기능·집단 평균·시작세포 종속). 위키 회로 논문 17편 이상의 공통 방법.
 - [[concept-activity-molecular-registration]] — 활성–분자정체 정합 방법론 hub: in vivo 활성↔분자 cell-type 연결(CaRMA vs TRU-FACT 비교).
 - [[hyun-2022-tagging-active-neurons-by]] — soma-targeted Cal-Light: Ca²⁺+광 동시검출로 활성 뉴런 태깅(tag-then-manipulate); 배경↓·조건부 KI (Nat Commun 2022, Kwon).
 - [[wang-2026-multimodal-alignments-of-in]] — TRU-FACT: in vivo 영상↔공간전사체(MERFISH)↔projection 세포 단위 정합(Schnitzer, bioRxiv 2026). 활성에 분자정체 부여.
@@ -133,6 +134,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[davila-2026-agrp-neurons-are-required-for]] — ★ **GLP-1RA 통념 역전**: 세마글루타이드가 ARC AgRP를 억제·우회하는 게 아니라 **모집**; AgRP 회로 파괴 시 식이 억제는 남되 **체중 감량 붕괴**(지방 동원·β₃-교감신경·미토콘드리아 실패). 매개축 **glucocorticoid→AgRP-GR**, **암컷 특이**(난소절제로 부분 회복)·식이·조작시점 의존 (PNAS 2026, Horvath lab).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — ★ **인간** AgRP·POMC·kisspeptin 뉴런 전사체(세포당 14,000–16,000 transcript, IHC/LCM-Seq). 인간 POMC=`GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`·`OPRM1`, 인간 AgRP=`ACVR1C`·`GHSR`·`INSR`·`GHR`·`NR3C1`·사이토카인 수용체·후각수용체 3종. **CART 발현이 rodent와 정반대**·POMC DM/VL 공간 분업 (Nat Commun 2026, Hrabovszky lab). _(방법론은 🧪에도)_
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ★ 마우스 **LepR 시상하부 뉴런 39아형** 지도(snRNA+snATAC multiome). AgRP=**Sst형/Acvr1c형**, POMC=**Glipr1형/Prdm12형**, Lepr×Glp1r=**Bnc2/Nkx2-4/Glp1r의 Ebf1(DMH)·Trh·Tbx19(ARC) 3형제**. 아형별 cis-조절요소를 인간 비만 GWAS/eQTL/HuGE와 교차 (bioRxiv 2025). _(방법론은 🧪에도)_
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP)의 전뇌 입력·출력 지도**. POMC 입력 **52영역**·수렴비 ~49 vs AgRP **35영역**(POMC의 부분집합)·~21 → **AgRP 전용 입력원 없음**, 유일한 AgRP 우세는 **SO**. NTS POMC는 입력 ~80%가 뇌교·연수+소뇌로 **ARC POMC와 별개 회로**. 주요 입력원은 거의 모두 **상호 연결**이고, **12개 핵이 세 갈래 공통 상류**. 통상 추적이 놓친 subiculum·ZI 검출 vs SCN 미표지 (Front Neuroanat 2015, Luo·Zhan lab). _(방법론은 🧪에도)_
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH 종합 (EMM 2025, 사용자 lab).
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입(>30 subtype)·에너지 항상성 종합 리뷰: Vgat("engine")/Vglut2("brake")/orexin·MCH·LHA^Lepr(social)·LHA^Nts(thirst) 프레임 (Cells 2025, Peking U. 레퍼런스).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 음식 **맛(taste)이 bout마다 AgRP를 일시 억제**(post-ingestive와 독립)→satiation 앞당김; 상류 **DMH^LepR이 sweet/fat 맛에 동조**(AgRP 거울상)·맛+영양 통합; Garfield 2016의 taste·meal-termination 버전 (Neuron 2024, Knight lab).
@@ -441,7 +443,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-food-insecurity]] · [[concept-food-environment-access]] · [[concept-food-addiction]]
 
 ### 발달 / atlas / 방법론
-- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]] · [[concept-joint-brain-behaviour-modelling]] · [[concept-cis-regulatory-element-obesity]]
+- [[concept-maternal-programming-hypothalamus]] · [[concept-hypomap]] · [[concept-activity-molecular-registration]] · [[concept-monosynaptic-rabies-tracing]] · [[concept-spatial-transcriptomics]] · [[concept-computational-ethology]] · [[concept-joint-brain-behaviour-modelling]] · [[concept-cis-regulatory-element-obesity]]
 
 ### 지질 감지 / 수용체 / 신경펩타이드
 - [[concept-neurotensin]] — LH·중뇌 Nts 펩타이드(섭식·음수·각성·운동·보상)

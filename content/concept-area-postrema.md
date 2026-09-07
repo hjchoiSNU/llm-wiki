@@ -2,7 +2,7 @@
 title: Area postrema (AP·최후야)
 type: concept
 created: 2026-07-05
-updated: 2026-08-19
+updated: 2026-09-07
 aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 ---
 
@@ -34,3 +34,4 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[cao-2024-hunting-for-heroes-brain]] — AP^GLP-1R=혐오(→lPBN), NTS와 분리.
 - [[overview-cea-glp1r-food-safety-alarm]] — AP를 섭취후 독소 관문으로 편입.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — GLP-1RA 오심·구토가 `GLP1R` 좌위 변이와 연관되고 **효능과 같은 신호일 가능성**(72.6%); AP 혐오 축의 인간 유전 대응 (Nature 2026).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — NTS POMC 입력이 밀집한 연수 계열(Su5·IRt·Gi·RMg·MdD/MdV·PCRt)의 해부 지형. NTS POMC 입력의 ~80%가 뇌교·연수에서 오며, AP 인접 hindbrain이 POMC 포만 회로의 주 상류임을 보임 (Front Neuroanat 2015).

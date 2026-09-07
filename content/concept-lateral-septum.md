@@ -2,7 +2,7 @@
 title: 외측중격 (Lateral septum, LS)
 type: concept
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-07
 aliases: [LS, lateral septum, 외측중격, 중격, septal area, LS Crhr2, LS Nts, DLS Pdyn, septal rage]
 ---
 
@@ -183,3 +183,4 @@ Goode 2026은 DLS^Pdyn이 **LS에서 자극 시 섭취를 줄이는 여러 세�
 - [[concept-need-motivation-pleasure-utility]] — top-down/bottom-up 분업과 맥락 게이팅의 이론적 대응.
 - [[concept-activity-molecular-registration]] — 분자×기능 정합 방법론 비교.
 - [[person-friedman-jeffrey]] — Azevedo 2020 교신 lab.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **LS→ARC 축의 해부 확립과 미검증 과제**: LS가 ARC POMC·AgRP 양쪽의 최대급 전뇌 입력원(시상하부 밖 전뇌 입력 POMC ~15%·AgRP ~10%를 subiculum·BST와 분담)이며, POMC·AgRP는 **LS로 역방향 투사를 되보낸다**(상호 연결). 입력 밀도는 POMC 쪽이 유의하게 높음. 저자는 LS 활성이 위 팽창·ghrelin에 반응하고(Gong 2013) 중격 오피오이드·노르아드레날린이 섭취를 늘린다는 점을 들어 **LS→ARC 입력이 POMC/AgRP 생리에 미치는 영향은 미검증**이라고 명시 — 위키의 LS→LHA([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode]])·LS^Nts→LH([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo]]) 축 옆에 **비어 있는 칸** (Front Neuroanat 2015).

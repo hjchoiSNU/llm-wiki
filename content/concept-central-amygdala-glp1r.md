@@ -2,7 +2,7 @@
 title: Central amygdalar GLP-1R neurons (CeA^Glp1r)
 type: concept
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-07
 aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Glp1r^CeA, CeM Glp1r]
 ---
 
@@ -76,3 +76,4 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
 - [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — IM→CeA 억제 출력 배선의 primate 해부 좌표계.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **CeM(중심편도 내측부)이 NTS POMC의 전뇌 최대급 입력원**(CeM·PVN·PSTh 셋이 전뇌 입력 ~10%를 구성). CeA가 hindbrain POMC 포만 회로의 **직접 상류**로 닿는 해부 근거이며, 위키의 CeA^Glp1r→VTA 하행 축과는 별개인 **CeA→NTS 하행 축** (Front Neuroanat 2015).

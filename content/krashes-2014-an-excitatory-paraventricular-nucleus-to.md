@@ -2,7 +2,7 @@
 title: "An excitatory paraventricular nucleus to AgRP neuron circuit that drives hunger (Krashes 2014)"
 type: paper
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-07
 source: "raw/2014 Nature. An excitatory paraventricular nucleus to AgRP neuron circuit that drives hunger.pdf"
 authors: [Michael J. Krashes, Bhavik P. Shah, Joseph C. Madara, David P. Olson, David E. Strochlic, Alastair S. Garfield, Linh Vong, Hongjuan Pei, Mitsuko Watabe-Uchida, Naoshige Uchida, Stephen D. Liberles, Bradford B. Lowell]
 year: 2014
@@ -52,3 +52,5 @@ Cre-기반 세포특이 회로 매핑으로, 시상하부 PVH의 **TRH·PACAP(Ad
 - [[concept-dorsomedial-hypothalamus]] — DMH→AgRP 글루타메이트성 입력도 동정(PVH보다 약함).
 - [[person-lowell-bradford]] — 교신저자 인물 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **같은 방법의 POMC 확장판**: 본 논문의 AgRP 광견병 입력 정량(ARC 38%·DMH 26%·PVH 18%)에 POMC를 나란히 놓아, 두 집단이 **52영역 중 35영역을 공유**하되 POMC의 수렴비가 2배 이상(49 vs 21)임을 보임. 본 논문이 CRACM으로 밝힌 PVH→AgRP 흥분 입력은 그 공유 지형 안의 **한 분자 채널** (Front Neuroanat 2015).
+- [[concept-monosynaptic-rabies-tracing]] — 본 논문의 Agrp-IRES-Cre 단시냅스 추적이 속한 방법론 hub.

@@ -2,7 +2,7 @@
 title: Hypothalamic arcuate nucleus
 type: concept
 created: 2026-04-29
-updated: 2026-08-19
+updated: 2026-09-07
 aliases: [ARC, arcuate, arcuate nucleus]
 ---
 
@@ -108,3 +108,5 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[davila-2026-agrp-neurons-are-required-for]] — ARC AgRP가 GLP-1RA 체중 감량에 **필수**(암컷); 세마글루타이드가 `Agrp`/`Npy`·c-FOS·미토콘드리아·AgRP→PVH 말단을 증강 (PNAS 2026).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 ARC(infundibular nucleus)의 AgRP·POMC·kisspeptin 3종 전사체를 세포당 14,000–16,000 transcript 깊이로 비교 (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ARC LepR 아형 지도(AgRP 2종·POMC 2종·KNDy·Ghrh·Pnoc/Htr3b·Tbx19/Anxa2·PNOC/NPY 등)와 아형별 열린 크로마틴; ARC의 Lepr^Glp1r은 **Trh/Tbx19형** 편중 (bioRxiv 2025).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — ARC 두 first-order 집단의 **전뇌 입력 지도**: 52영역이 POMC로, 그중 35영역이 AgRP로도 투사(시상하부 60–70%). 수렴비 POMC ~49 vs AgRP ~21. **SO(supraoptic)만 AgRP 우세**, POMC 전용 17영역은 총 입력의 ~7%. 통상 추적이 놓친 subiculum·ZI 입력을 새로 검출한 반면 SCN 입력은 미표지 (Front Neuroanat 2015, Luo·Zhan lab).
+- [[concept-monosynaptic-rabies-tracing]] — ARC 회로 상류 매핑에 쓰이는 방법의 원리·정량 단위(시작세포·수렴비)·해석 함정 hub.

@@ -2,7 +2,7 @@
 title: Medial preoptic area (MPOA, 내측 시각교차전영역)
 type: concept
 created: 2026-08-15
-updated: 2026-08-19
+updated: 2026-09-07
 aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측 시색전영역, 시각교차전영역]
 ---
 
@@ -61,3 +61,4 @@ aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측
 - [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] — MPOA→VTA→NAc 강화 축.
 - [[concept-arcuate-nucleus]] — MPOA를 억제하는 AgRP/NPY의 출처 핵.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — mPOA가 생식 경험 **고민감 전사 부위** 5곳(dHF·NAc·mPOA·LC·vHF) 중 하나 (Nature 2026, Maze lab).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — MPO/MPA가 ARC POMC의 **POMC 우세 주요 입력원**(AgRP보다 입력 밀도가 유의하게 높은 영역군: LS·MPO·AH·VTg·NI·VS)이자 POMC·AgRP 축삭의 조밀한 표적 = **상호 연결**. 양육-섭식 경쟁을 배선 수준에서 뒷받침 (Front Neuroanat 2015).

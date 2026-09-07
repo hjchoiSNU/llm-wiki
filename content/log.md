@@ -8,6 +8,40 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-07 — ingest (신규 1편: POMC·AgRP 전뇌 배선 지도 + 방법론 hub)
+
+`raw/` 336건을 **`source:` 필드 정확 매칭**으로 전수 대조. 미등록 파일 50건 중 **논문은 1편**뿐이었고(나머지 49건 = 중복본 `(1)`/` 1.pdf`·supplement·식락학 교재 `.docx`·`README.md`), 이를 ingest. 페이지 454→456.
+
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — *Whole-brain mapping of the direct inputs and axonal projections of POMC and AgRP neurons* (Front Neuroanat 9:40, 2015; Fuqiang Xu·**Minmin Luo**·**Cheng Zhan** 교신, NIBS 베이징·칭화대). 파일명이 `fnana-09-00040.pdf`라 제목 기반 탐지에 걸리지 않았던 건.
+
+**핵심 발견 4**
+1. ★ **"POMC와 AgRP는 기능이 반대니 배선도 반대"라는 직관이 해부 수준에서 기각.** 52영역이 POMC로, 그중 **35영역이 AgRP로도** 투사하고 **AgRP 전용 입력원은 없다**(AgRP 35영역이 POMC 52영역의 부분집합). 두 집단의 반대 작용은 입력 출처가 아니라 **같은 입력을 다르게 계산**하는 데서 나온다.
+2. **양은 다르다** — 수렴비 POMC **~49** vs AgRP **~21**(시작세포 수는 비슷). 공유 35영역 대부분에서 POMC 쪽 밀도가 유의하게 높고, **유일한 역전이 SO(supraoptic)**. POMC 전용 17영역은 총 입력의 ~7%(DS·HDB·DRN).
+3. ★ **NTS POMC = ARC POMC와 별개 회로.** 입력의 **~80%가 뇌교·연수**(Su5·IRt 최다 밀도)에 **소뇌핵**까지, 전뇌 입력은 ~10%(CeM·PVN·PSTh)뿐. 위키가 "NTS POMC = 즉시 satiety" 한 줄로만 다뤄 온 집단에 **해부학적 실체**가 생겼고, [[concept-dorsal-vagal-complex|DVC]] GLP-1RA 약리와 시상하부 경로의 상보성이 배선으로 설명된다.
+4. **상호 연결** — 총 입력 1% 초과 영역은 **전부 역방향 투사를 되받는다**(LS·PVT·MPO·PVN). **12개 핵(BST·DM·LH·Rch·TC·PVN·ARC·PAG·EW·LPB·RMg·ROb)이 세 갈래 공통 상류.** 시상하부 회로를 일방향 화살표로 그리면 안 된다는 경고이자 폐루프 설계의 해부 근거.
+
+**새 페이지 2**
+- 논문 페이지 1.
+- [[concept-monosynaptic-rabies-tracing]] — **신규 방법론 hub**. 위키 회로 논문 **17편 이상이 이 방법의 결과를 근거로 삼는데 방법 페이지가 없었다.** EnvA–TVA(진입 제한)+ΔG–RG 보충(확산 제한) 원리, **시작세포·수렴비**라는 정량 단위, 필수 대조군(야생형 무표지), 그리고 **읽을 때의 5가지 함정**을 정리. 위키 내 구현 계보 11건 표([[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]]·[[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]·Wang 2015·[[campos-2016-parabrachial-cgrp-neurons-control-meal|Campos 2016]]·[[douglass-2017-central-amygdala-circuits-modulate-food|Douglass 2017]]·[[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]·[[leow-2026-a-cortical-hypothalamic-neural|Leow 2026 VITALISTIC]]·[[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026 CVS-N2c+STPT]] 등)와 인접 방법 비교표.
+
+**★ 위키 전체에 적용된 개념 교정 — 층위 구분**
+가장 중요한 성과. 이 위키는 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]의 "vDMH^LepR이 AgRP 100% vs POMC 9%" 같은 **세포 수준 선택성**을 여러 곳에서 인용해 왔는데, Wang 2015의 **영역 수준 공유**(DM이 둘 다에 투사)와 나란히 놓으면 모순처럼 보인다. 실제로는 **다른 층위**이며, 저자 스스로 "같은 핵의 같은 뉴런이 둘 다에 투사하는지는 이중색 추적 없이는 판정 불가"라고 명시한다. 이 구분을 [[concept-npy-agrp-neurons]]·[[concept-pomc-neurons]]·[[concept-dorsomedial-hypothalamus]]·[[garfield-2016-dynamic-gabaergic-afferent-modulation]]·[[concept-monosynaptic-rabies-tracing]] 다섯 곳에 명시적으로 박아 넣었다.
+
+**갱신 페이지 25**
+- **본문 대폭 증보 2**: [[concept-pomc-neurons]](신설 "★ 전뇌 배선 지도" 절 — ARC vs AgRP 비교표·**ARC POMC vs NTS POMC 배선 비교표**·상호 연결·층위 경고) · [[concept-npy-agrp-neurons]]("입력 회로 지도"에 전뇌 좌표계 + 층위 경고 삽입).
+- 시상하부·전뇌 회로: [[concept-arcuate-nucleus]] · [[concept-melanocortin-system]] · [[concept-paraventricular-nucleus]] · [[concept-dorsomedial-hypothalamus]] · [[concept-lateral-hypothalamus]] · [[concept-medial-preoptic-area]] · [[concept-zona-incerta]] · [[concept-lateral-septum]] · [[concept-bed-nucleus-stria-terminalis]] · [[concept-hippocampus-feeding]] · [[concept-paraventricular-thalamus]] · [[concept-lateral-habenula]] · [[concept-medium-spiny-neuron]]
+- 후뇌·혐오 축: [[concept-dorsal-vagal-complex]] · [[concept-central-amygdala-glp1r]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]]
+- 방법론: [[concept-activity-molecular-registration]] · [[concept-enteroendocrine-cells]]
+- 1차 논문: [[betley-2013-parallel-redundant-circuit-organization-for]] · [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] · [[garfield-2016-dynamic-gabaergic-afferent-modulation]]
+- [[overview-appetite-energy-homeostasis]] · [[index.md|wiki/index.md]](🍽️ 회로·세포에 논문, 🧪 방법론 + 💡 발달/atlas/방법론에 hub) · 본 log.
+
+**남은 질문 (사용자 lab 후속 후보)**
+1. **LS→ARC가 비어 있는 칸.** 저자가 LS를 ARC POMC/AgRP의 최대급 입력원으로 확인하고도 "**그 입력이 POMC/AgRP 생리에 어떤 영향을 주는지는 미검증**"이라고 명시했다. 그 사이 위키에는 LS→LHA([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]])·LS^Nts→LH([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]) 축이 쌓였으나 **LS→ARC 구간만 11년째 공백**.
+2. **이중색 추적 미실시.** POMC·AgRP가 같은 입력 뉴런을 공유하는지는 아직 위키 안에 답이 없다.
+3. **subiculum→ARC POMC 선택성.** 배측 subiculum이 **POMC 전용** 입력원이라는 점은 [[concept-hippocampus-feeding|해마-섭식]] 축이 AgRP가 아니라 POMC 쪽으로 들어온다는 뜻 — Goode 2026의 해마→LS→LHA 경로와 대비되는 별도 채널.
+
+**메모**: 인물 페이지(Minmin Luo·Cheng Zhan)는 **생성 보류**. 위키 내 1차 자료가 본 논문 1편뿐이라 기존 `person-*` 페이지 수준의 내용을 채울 근거가 없고, 추측으로 채우는 것은 규칙 위반. 같은 lab 논문이 더 들어오면 재검토.
+
 ## 2026-09-03 — ingest (신규 1편: GLP-1 체중 비의존 작용)
 
 `source:` 필드 기준 재대조에서 이전 탐지가 놓친 신규 1편 추가 ingest. 페이지 453→454.

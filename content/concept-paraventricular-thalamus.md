@@ -2,7 +2,7 @@
 title: 시상 실방핵 (Paraventricular thalamus, PVT)
 type: concept
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-07
 aliases: [PVT, aPVT, pPVT, paraventricular thalamus, 시상 실방핵, midline thalamus]
 ---
 
@@ -54,3 +54,4 @@ aliases: [PVT, aPVT, pPVT, paraventricular thalamus, 시상 실방핵, midline t
 - [[concept-insula]] — AgRP→PVT→BLA→섬엽 경로의 종착점.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — PVT→D2-MSN 음성강화 축.
 - [[concept-anhedonia]] — 그 축의 임상 표현형.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — PVT가 ARC POMC·AgRP **양쪽의 주요 상호 연결 상대**임을 전뇌 지도로 확인(총 입력 1%를 넘는 영역은 모두 역방향 투사를 되받음). [[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]]의 AgRP→PVT 출력(~2.1%)에 **PVT→ARC 입력 방향**을 채워 넣는다 (Front Neuroanat 2015).

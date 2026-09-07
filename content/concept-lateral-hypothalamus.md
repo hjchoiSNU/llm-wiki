@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-09-02
+updated: 2026-09-07
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -190,3 +190,4 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **LHA^Vgat 뉴런이 외측중격 DLS^Pdyn의 단시냅스 억제 표적**(광유발 IPSC, EPSC 없음; orexin·VTA는 비표적). 이 억제가 **맥락에 따라 얼마나 먹을지**를 정한다. [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 LHA→LS 상행과 합쳐 **LS↔LHA 상호 회로** 성립 (Neuron 2026).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS^Nts→LH 종말 광자극만으로 섭취가 가역적으로 감소. LS→LH 억제의 **두 번째 병렬 채널**(DLS^Pdyn와 세포군 거의 비중첩) (eLife 2020).
 - [[concept-lateral-habenula]] — LH→LHb 공격성·서열 상실 투사의 하류 구조 개념 hub(혐오·음성강화 축).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **LH가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나. ARC POMC·AgRP의 주요 시상하부 입력원이자 두 집단 축삭의 조밀한 표적 = 상호 연결. LH를 ARC의 하류로만 그리면 안 된다는 해부 근거 (Front Neuroanat 2015).

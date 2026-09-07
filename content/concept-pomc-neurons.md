@@ -2,7 +2,7 @@
 title: POMC neurons
 type: concept
 created: 2026-04-29
-updated: 2026-08-19
+updated: 2026-09-07
 aliases: [pro-opiomelanocortin neurons, POMC]
 ---
 
@@ -15,6 +15,8 @@ aliases: [pro-opiomelanocortin neurons, POMC]
 
 ## 위치
 [[concept-arcuate-nucleus|시상하부 arcuate nucleus]] (Nucleus of the solitary tract에도 별도 집단). Pro-opiomelanocortin 전구체를 발현.
+
+> 두 집단은 같은 유전자를 쓰지만 **입력·출력 배선이 서로 다르다** — ARC POMC는 시상하부·전뇌에서 입력을 받고, NTS POMC는 입력의 ~80%를 뇌교·연수에서 받는다. 아래 "전뇌 배선 지도" 절 참조 ([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]).
 
 ## 산물
 POMC 전구체가 단백질가수분해로 다음으로 처리:
@@ -54,6 +56,46 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - **NTS POMC** = 즉시 satiety.
 - **ARC POMC** = 수시간 sustained; 식이 anticipation 즉시 활성 (Chen·Knight 2015) → 간 mitochondrial fragmentation prep (Brandt 2018).
 
+## ★ 전뇌 배선 지도 ([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]])
+
+세포타입 특이 [[concept-monosynaptic-rabies-tracing|단시냅스 광견병 추적]] + 순행 AAV를 같은 개체에 적용해 **입력과 출력을 같은 기준으로** 매핑한 해부 기준선.
+
+### ARC POMC vs ARC AgRP — 지형은 공유, 밀도는 다름
+| | ARC POMC | ARC AgRP |
+|---|---|---|
+| 시작세포 | ~900 | ~800 |
+| 전뇌 입력 뉴런 | **43,990 ± 8,596** | 17,191 ± 4,526 |
+| **수렴비** | **~49** | ~21 |
+| 입력 영역 수 | **52** | 35 (POMC의 부분집합) |
+| 시상하부 비중 | ~60% | ~70% |
+
+- **52영역 중 35영역을 AgRP와 공유**하고, 그 35영역 대부분에서 **POMC 쪽 입력 밀도가 유의하게 높다**(LS·MPO·AH·VTg·NI·VS).
+- **유일한 역전 = SO(supraoptic nucleus)** — AgRP에 더 많이 투사하며 AgRP 개체에서 가장 조밀하게 표지된 핵.
+- **POMC 전용 17영역**은 총 입력의 **~7%** 로 소수: **DS(배측 subiculum)** · **HDB** · **DRN** 등.
+- 주요 시상하부 입력: AH · **DM**(수 1위) · LA · PVN · LH · **SO**(밀도 1위) · VMH · PH · MPA/MPO · LPO. 시상하부 밖 전뇌(~15%)는 **subiculum · [[concept-lateral-septum|LS]] · [[concept-bed-nucleus-stria-terminalis|BST]]**.
+- 통상 추적이 놓쳤던 **subiculum · [[concept-zona-incerta|ZI]]** 입력을 새로 검출한 반면, 통상 추적이 보고한 **SCN→ARC**는 미표지.
+
+> ⚠️ **층위 주의**: 이 "35영역 공유"는 **영역 수준**이다. 같은 핵 안의 **같은 뉴런**이 POMC·AgRP 둘 다에 투사하는지는 이 실험으로 판정 불가(저자 명시, 이중색 추적 필요). 실제로 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]은 그 공유 영역인 DM 안에서 **vDMH^LepR/pDYN이 AgRP 100% vs POMC 9%로 선택적**임을 보였다. 영역 공유와 세포 선택성은 모순이 아니라 **다른 층위**다.
+
+### ★ NTS POMC = ARC POMC와 배선이 다른 세포
+"NTS POMC = 즉시 satiety"라는 기능적 한 줄에 **해부학적 실체**를 부여한 결과.
+
+| | ARC POMC | **NTS POMC** |
+|---|---|---|
+| 수렴비 | ~49 | **~74** (시작세포 ~300, 입력 22,061 ± 5,092) |
+| 입력 출처 | 시상하부·전뇌 중심 | **뇌교·연수 ~80%** + **소뇌핵**(Lat·Med) |
+| 전뇌 입력 | 대부분 | **~10%** 뿐 — **CeM · PVN · PSTh** |
+| 최다 밀도 입력 | SO | **Su5**(상삼차신경핵) · **IRt** |
+| 축삭 표적 | 시상하부(AH·MPA/MPO·LH·DM·VMH·PVN·PSTh·PH) + BST·LS·DB·Acb + PAG·DpG·DpMe | 뇌간 중심(PCRt·MdD/MdV·SubC·Gi·PnO·IRt·Su5·LPB), 문측으로 **Acb까지** |
+
+- 후뇌 입력은 **29개 핵**에 분포(LC·Gi·RMg·Rn·PnO/PnC 등). 피질에서는 M1·M2·AI·S1·S2에 산발.
+- **ARC → NTS POMC 입력은 희박**하나, **ARC POMC → NTS**와 **NTS POMC → ARC** 축삭은 둘 다 존재 → 두 POMC 집단이 서로 투사.
+- **12개 핵이 ARC POMC·NTS POMC·ARC AgRP 셋 모두에 직접 투사**: BST · DM · LH · Rch · TC · PVN · ARC · PAG · EW · LPB · RMg · ROb. PSTh를 빼면 NTS POMC로 투사하는 시상하부 영역은 모두 ARC POMC로도 투사한다.
+- 함의: 같은 *Pomc* 유전자를 쓰지만 **다른 회로에 사는 세포**. [[concept-dorsal-vagal-complex|DVC]] 무대의 GLP-1RA 약리와 시상하부 경로가 왜 상보적인지를 배선 수준에서 설명한다.
+
+### 상호 연결 (reciprocal)
+총 입력의 **1%를 넘는 모든 영역**이 POMC 뉴런으로부터 **역방향 투사를 되받는다**. ARC POMC → LS · PVT · MPO; NTS POMC → IRt · LPB · PVN. **PVN은 멜라노코르틴 세 갈래 모두와 상호 연결**. → 이 회로들을 일방향 화살표로 그리면 안 된다.
+
 ## 발달 / 가소성
 - POMC progenitor → AgRP·Kiss1까지 분화 가능.
 - Postnatal leptin surge (P0–P14) → projection 발달 (Bouret 2004).
@@ -82,3 +124,5 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **인간** POMC 전사체: `GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`·`OPRM1`·`PRLR`·`HCRTR2` 보유, **CART 음성**(rodent 정반대), `Glp1r`는 마우스가 더 높음; DM(CALCR·SSTR1·RAMP1) vs VL(LEPR·GLP1R·RAMP3) 공간 분업 (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — POMC가 **Pomc/Glipr1형(저 LepR)** 과 **Pomc/Prdm12형(~4배 LepR)** 으로 분할; 두 클러스터 모두 Gad1/2 상당량 발현(POMC ~40% GABAergic과 일치). Prdm12형은 인간 비만 유전 증거 수렴 클러스터 (bioRxiv 2025).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **ARC POMC와 NTS POMC의 전뇌 입력·출력 지도**(본 페이지 '전뇌 배선 지도' 절의 1차 출처). POMC 입력 52영역·수렴비 ~49, AgRP와 35영역 공유하되 밀도는 POMC 우세, SO만 역전. NTS POMC는 입력 ~80%가 뇌교·연수로 **ARC POMC와 별개 회로** (Front Neuroanat 2015, Luo·Zhan lab).
+- [[concept-monosynaptic-rabies-tracing]] — 위 지도가 나온 방법의 원리·대조군·해석 함정 hub.

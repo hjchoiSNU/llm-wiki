@@ -2,7 +2,7 @@
 title: Appetite & energy homeostasis — synthesis
 type: overview
 created: 2026-04-29
-updated: 2026-05-31
+updated: 2026-09-07
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -177,3 +177,4 @@ updated: 2026-05-31
 
 ### 향후 방향
 [[overview-future-research-directions]] — 본 wiki gap에서 도출한 사용자 lab 연구 로드맵(Tier 1–3).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — Front Neuroanat 2015 (Luo·Zhan lab); ARC POMC·AgRP와 NTS POMC의 **전뇌 입력·출력 지도**. POMC·AgRP 입력 지형은 대부분 공유(52 중 35)되고 SO만 AgRP 우세; NTS POMC는 입력 ~80%가 뇌교·연수로 **ARC POMC와 별개 회로**; 주요 입력원은 거의 모두 **상호 연결**.

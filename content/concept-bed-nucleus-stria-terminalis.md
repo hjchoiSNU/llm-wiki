@@ -2,7 +2,7 @@
 title: 분계선조 침상핵 (Bed nucleus of the stria terminalis, BNST)
 type: concept
 created: 2026-06-20
-updated: 2026-09-02
+updated: 2026-09-07
 aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침상핵, extended amygdala]
 ---
 
@@ -54,3 +54,4 @@ aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침
 - [[concept-lateral-septum]] — 인접 변연계 스트레스·동기 허브. BNST=CRH/CRHR1 중심인 반면 **LS=CRHR2** 중심이며, LS는 해마(top-down)와 시상하부(bottom-up) 수렴으로 위협 표상을 만든다. 두 구조 모두 GLP-1R이 풍부하나 역할은 미규명.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — LS^Crhr2의 분자 10아형·기능·입력 해부 (Nature 2026).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 급성 구속 스트레스 c-fos가 BNST·BLA·섬엽과 함께 **LS**에서 증가; 그 LS 세포형이 `Nts`⁺임을 동정 (eLife 2020).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **BST가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나이며, 동시에 ARC POMC·AgRP 축삭의 주요 전뇌 표적 = 상호 연결. [[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]]의 AgRP→aBNST 섭식-충분 출력에 **BST→ARC 입력 방향**을 채워 넣는다 (Front Neuroanat 2015).

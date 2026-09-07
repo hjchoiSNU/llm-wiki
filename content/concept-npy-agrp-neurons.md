@@ -2,7 +2,7 @@
 title: NPY/AgRP neurons
 type: concept
 created: 2026-04-29
-updated: 2026-08-19
+updated: 2026-09-07
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
 	
@@ -35,6 +35,9 @@ aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ## ★ 입력 회로 지도 (synaptic afferents) — 흥분/억제 × 예측/실시간
 
 rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]): AgRP 입력의 **ARC 국소 38% · DMH 26% · PVH 18%**. 핵심 fast-synaptic 입력:
+
+> **전뇌 좌표계** ([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]): AgRP는 **35개 뇌영역**에서 직접 입력을 받고 그 **전부가 [[concept-pomc-neurons|POMC]]의 52개 입력영역 안에 포함**된다(시상하부 ~70%). 즉 **AgRP 전용 입력원은 없다**. 수렴비는 AgRP ~21 vs POMC ~49로, 공유 영역 대부분에서 POMC 쪽 입력 밀도가 유의하게 높다. **유일한 AgRP 우세 입력원이 SO(supraoptic nucleus)** 이며 AgRP 개체에서 가장 조밀하게 표지된 핵이다.
+> ⚠️ 아래 표의 "선택성"(예: vDMH^LepR이 AgRP 100% vs POMC 9%)은 **세포 수준**이고, 위 "35영역 공유"는 **영역 수준**이다. 같은 핵의 같은 뉴런이 둘 다에 투사하는지는 이중색 추적이 필요하며 아직 미해결(저자 명시). 두 층위를 뒤섞으면 안 된다. → [[concept-monosynaptic-rabies-tracing]]
 
 | 입력원 | 전달 | 부호 | 무엇에 반응 | 출처 |
 |---|---|---|---|---|
@@ -145,3 +148,5 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[davila-2026-agrp-neurons-are-required-for]] — ★ **통념 역전**: GLP-1RA(세마글루타이드)가 AgRP를 억제·우회하는 게 아니라 **모집**하며, AgRP 회로가 망가지면 식이 억제는 남되 **체중 감량이 무너진다**(지방 동원·β₃-교감신경 실패). 매개축 glucocorticoid→AgRP-GR, 암컷 특이 (PNAS 2026, Horvath lab).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **인간** AgRP 뉴런 전사체: `ACVR1C`(최고 발현)·`GHSR`·`INSR`·`GHR`·`NR3C1`(GR)·`IL1R1`/`IL18R1`·`MC3R`·`AVPR1A`·`AGTR1`·후각수용체 3종; CART·GAL·TAC1·CRH·TRH 공동발현(rodent와 상이) (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — AgRP 뉴런이 **Agrp/Sst형(ARC 배측)** 과 **Agrp/Acvr1c(ALK7)형(ARC 복측)** 으로 분할; Xenium 검증 각 ~42%. Acvr1c는 마우스 기능상실 시 DIO 방어·인간 SNP는 저체중 연관 (bioRxiv 2025).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **AgRP 입력의 전뇌 좌표계**: 35개 입력영역 전부가 POMC의 52개 영역 안에 포함(= AgRP 전용 입력원 없음), 수렴비 AgRP ~21 vs POMC ~49, **SO(supraoptic)만 AgRP 우세**. AgRP 축삭의 주요 표적(aBNST·PVH·LHA·PVT·LS·MPO)이 **동시에 AgRP의 입력원**이기도 함(상호 연결) (Front Neuroanat 2015, Luo·Zhan lab).
+- [[concept-monosynaptic-rabies-tracing]] — 위 입력 지도들이 나온 방법의 원리·정량 단위(시작세포·수렴비)·해석 함정 hub. 영역 수준 공유와 세포 수준 선택성을 가르는 기준.

@@ -2,7 +2,7 @@
 title: "Dynamic GABAergic afferent modulation of AgRP neurons (Garfield 2016)"
 type: paper
 created: 2026-06-17
-updated: 2026-09-02
+updated: 2026-09-07
 source: "raw/2016 Nature Neuroscience. Dynamic GABAergic afferent modulation of AgRP neurons.pdf"
 authors: [Alastair S. Garfield, Bhavik P. Shah, Christian R. Burgess, Monica M. Li, Chia Li, Jennifer S. Steger, Joseph C. Madara, John N. Campbell, Daniel Kroeger, Thomas E. Scammell, Bakhos A. Tannous, Martin G. Myers Jr, Mark L. Andermann, Michael J. Krashes, Bradford B. Lowell]
 year: 2016
@@ -61,3 +61,4 @@ ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 
 - [[person-lowell-bradford]] — 교신저자(공동 Krashes·Andermann).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-dynorphin-kappa-opioid]] — 본 논문의 **vDMH^LepR/pDYN** 입력이 속한 dynorphin/KOR 개념 hub. [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]이 외측중격에서 `Pdyn` **삭제만으로 맥락 조건화 섭식이 무너짐**을 보여, dynorphin이 마커가 아니라 계산에 필요한 펩티드임을 시사.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **층위 대비의 짝**: Wang 2015는 영역 수준에서 DM이 POMC·AgRP 양쪽에 투사한다고 보고하고, 본 논문은 세포 수준에서 그 DM 안의 **vDMH^LepR/pDYN이 AgRP 100% vs POMC 9%로 선택적**임을 보인다. '같은 핵에서 입력을 받는다'가 '같은 뉴런에서 받는다'를 뜻하지 않는다는 위키 내 표준 사례 (Front Neuroanat 2015).

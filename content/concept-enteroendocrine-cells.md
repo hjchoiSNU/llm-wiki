@@ -2,7 +2,7 @@
 title: Enteroendocrine cells
 type: concept
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-07
 aliases: [EEC, enteroendocrine, gut endocrine cells]
 ---
 
@@ -137,3 +137,4 @@ Lamina propria의 vagal afferent terminal (~5-10 µm 거리)을 직접 자극. �
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — endocannabinoid 반응이 enterocyte OEA와 독립.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — EEC 아형 in vivo 선택 조작(교차유전학)·아형별 food reward/aversion.
+- [[concept-monosynaptic-rabies-tracing]] — neuropod 역행 수송 입증에 쓰인 단시냅스 광견병 추적의 원리·대조군(야생형 무표지)·해석 함정 방법론 hub. 본 페이지가 남긴 '비특이 바이러스 발현 통제 필수' 경고의 상위 맥락.

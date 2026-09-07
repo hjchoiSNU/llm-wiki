@@ -2,7 +2,7 @@
 title: Paraventricular nucleus (PVN)
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-07
 aliases: [PVN, PVH, paraventricular hypothalamus]
 ---
 
@@ -61,3 +61,4 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — PVN의 **비-섭식 축**: **PVN^OT**가 양육 감작·관찰학습의 핵심(인공 활성만으로 처녀 암컷 retrieval 촉진; PIL·SC 입력, PVN→A1 출력), **PVN^CRH**는 anti-parental PeFA^Ucn3로 투사해 스트레스가 돌봄을 끄는 통로. 주산기 성상교세포 돌기 후퇴가 OT 방출을 증대 (NRN 2026).
 - [[concept-medial-preoptic-area]] — PVN^OT/CRH가 수렴·길항하는 양육 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **PVN이 멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP) 모두와 상호 연결**을 이루는 핵임을 전뇌 지도로 확정. PVN은 ARC 두 집단의 주요 시상하부 입력원이자 이들의 축삭 표적이고, 동시에 **NTS POMC의 전뇌 3대 입력원**(CeM·PVN·PSTh) 중 하나. 인접 **SO(supraoptic)는 전체 지도에서 유일하게 AgRP 우세** 입력원이며 AgRP 개체에서 가장 조밀하게 표지된 핵 (Front Neuroanat 2015).

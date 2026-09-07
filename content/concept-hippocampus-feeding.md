@@ -2,7 +2,7 @@
 title: 해마와 섭식 (Hippocampus & Feeding) — orexigenic dlHPC
 type: concept
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-07
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -42,3 +42,4 @@ updated: 2026-09-02
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **복측 해마(vCA1·vCA3·prosubiculum)→외측중격(LS)** 이 위협 cue의 **결과 예측(cue-outcome)** 정보를 나름(vCA1=성공 선호, vCA3=실패 선호; Av-run에는 무반응). 해마→피질하 축에 LS 경유지를 추가하며, [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]] 가설의 첫 구간을 실증 (Nature 2026).
 - [[concept-lateral-septum]] — 해마의 최대 피질하 표적 중 하나. 해마-섭식 축이 시상하부로 이어지는 관문 후보.
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ **배측** 해마 CA3/2→DLS^Pdyn→LHA 축이 맥락 조건화 섭식을 게이팅(복측 입력은 미미). [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 **복측** HPC→LS^Crhr2(cue-결과)와 대비돼, **해마 배측=맥락 / 복측=목표 분업이 LS 안에서 세포군 수준으로 보존**됨을 보인다 (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **subiculum(S; DS·VS)이 ARC POMC의 주요 전뇌 입력원**(시상하부 밖 전뇌 입력 ~15%를 LS·BST와 분담)이며, **배측 subiculum(DS)은 POMC 전용 17영역**에 포함돼 AgRP에는 투사하지 않는다. 저자는 이 subiculum 입력을 통상 추적이 놓쳤던 것으로 명시. 해마-섭식 축이 시상하부 first-order 뉴런에 **직접** 닿는 가장 오래된 해부 근거이며, AgRP가 아니라 **POMC 쪽으로 선택적**이라는 점이 [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|해마→LS→LHA]] 경로와 대비된다 (Front Neuroanat 2015).
