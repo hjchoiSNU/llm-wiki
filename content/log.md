@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-09 — query (wanting/liking 심리학적 정의, 대학원 자격시험용)
+
+"wanting과 liking의 심리학적 정의" 질의. [[concept-liking-wanting]] hub를 축으로 [[berridge-2009-dissecting-components-of-reward]]·[[nguyen-2021-positive-affect-nature-and-brain]]·[[morales-2020-liking-and-wanting-in-eating]]·[[berridge-2023-separating-desire-from-prediction-of]]·[[warlow-2021-incentive-motivation-wanting-roles]]·[[robinson-2008-the-incentive-sensitization-theory]]·[[robinson-2025-incentive-sensitization-30-years]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]·[[concept-anhedonia]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]를 종합해 답변. 구성: 핵심 정의('liking'=hedonic impact, 'wanting'=incentive salience) → 따옴표 표기(core process vs 의식적 느낌) → 조작적 측정(taste reactivity / sign-tracking·PIT·조건강화·상태 조절) → 이중 해리 증거(6-OHDA·DA 상승·핫스폿 비대칭·CeA·인간 약리·MDD) → 시험용 압축 정의 → 흔한 오류. 위키 한계 명시: Robinson & Berridge 1993·Berridge & Robinson 1998 원전은 raw/에 없음(2008·2009 이후 문헌으로만 인용 가능). 새 페이지 생성 없음(시험 정리 페이지 보관은 사용자 확인 대기).
+
 ## 2026-09-07 (2) — ingest 점검 (신규 0건)
 
 `raw/` 336건을 `source:` 필드(따옴표 제거·정규화) 기준으로 재대조. **미등록 논문 0건** — 당일 오전 [[wang-2015-whole-brain-mapping-of-the-direct]] ingest 이후 새 파일 없음(최신 파일 `fnana-09-00040.pdf`, 이미 등록). 페이지 458 유지.
