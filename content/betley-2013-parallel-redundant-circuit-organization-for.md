@@ -2,7 +2,7 @@
 title: "섭식 항상성 제어의 병렬·중복 회로 조직 (Betley 2013)"
 type: paper
 created: 2026-07-05
-updated: 2026-09-07
+updated: 2026-09-11
 source: raw/etley et al. 2013, Cell — Parallel, redundant circuit organization for homeostatic control of feeding behavior.pdf
 authors: [Betley JN, Cao ZFH, Ritola KD, Sternson SM]
 year: 2013
@@ -42,3 +42,6 @@ ARC AgRP 뉴런은 서로 다른 부분군이 aBNST·PVH·LHA·PVT로 축 담보
 - [[concept-paraventricular-thalamus]] — AgRP 투사 표적 중 하나(~2.1%, 부분적 섭식 유발)인 PVT의 개념 hub.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **짝을 이루는 입력 쪽 지도**: 본 논문이 AgRP **출력**의 병렬·중복 배선을 정의했다면, Wang 2015는 같은 AgRP의 **입력**을 POMC와 나란히 매핑(52영역 중 35 공유·수렴비 21 vs 49). 본 논문이 확인한 AgRP→aBNST·PVH·LHA·PVT 표적들이 **동시에 AgRP의 입력원**이기도 함(상호 연결)을 보여, 병렬 출력 모델에 **되먹임 고리**를 추가한다 (Front Neuroanat 2015).
 - [[concept-monosynaptic-rabies-tracing]] — 본 논문의 pseudotyped SAD-ΔG 추적이 속한 방법론 hub(시작세포·수렴비·해석 함정).
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — 같은 Sternson lab의 **입력 쪽 작업**: 본 논문이 AgRP **출력**의 병렬·중복 배선을 정의했다면, Yang 2011은 AgRP로 들어오는 **흥분성 시냅스가 배고픔 상태를 기억(hysteresis)** 함을 보인다. 회로를 공학적 논리(병렬 중복 / SR 래치)로 기술하는 같은 어법 (Cell 2011).
+- [[person-sternson-scott]] — 교신저자 인물 hub.
+- [[concept-agrp-synaptic-plasticity]] — AgRP 입력 가소성 개념 hub.

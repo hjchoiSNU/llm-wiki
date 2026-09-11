@@ -8,7 +8,28 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-11 — ingest (AgRP 시냅스 가소성 2편: Yang 2011 · Grzelka 2023)
+
+`raw/` 미정리분에서 **[[yang-2011-hunger-states-switch-a-flip-flop]]**(Cell 2011, Sternson lab)과 **[[grzelka-2023-a-synaptic-amplifier-of-hunger]]**(Cell Metab 2023, Fenselau·Lowell) 정리. 두 편이 위키에 없던 축 하나를 통째로 연다 — AgRP 회로의 **배선**(누가 누구에게)·**부호화**(무엇에 반응)에 이어 **시냅스 강도(gain)** 축.
+
+**새 페이지 7**
+- 논문 2: [[yang-2011-hunger-states-switch-a-flip-flop]] · [[grzelka-2023-a-synaptic-amplifier-of-hunger]]
+- 개념 3: [[concept-agrp-synaptic-plasticity]](가소성 4축 비교표·5원리) · [[concept-circuit-bistability-hysteresis]](SR flip-flop·set range·검증 체크리스트 5단계) · [[concept-weight-regain-defended-adiposity]](임상 수치 × 회로 기전 × 창약 전략 3층 hub)
+- 인물 2: [[person-sternson-scott]] · [[person-fenselau-henning]]
+
+**갱신 20**: [[concept-npy-agrp-neurons]](★ "시냅스 가소성 — Need 신호의 gain" 절 신설) · [[concept-arcuate-nucleus]] · [[concept-pomc-neurons]](오피오이드 reset = POMC 비정규 기능) · [[concept-ghrelin]](set 신호·전시냅스 작용점) · [[concept-leptin]](직접 작용 아님, POMC 경유 reset) · [[concept-paraventricular-nucleus]] · [[concept-dorsomedial-hypothalamus]] · [[concept-hypothalamic-ampk]](전말단 작용 층) · [[concept-drug-evoked-synaptic-plasticity]](섭식판 자매 개념) · [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] · [[garfield-2016-dynamic-gabaergic-afferent-modulation]] · [[walker-2026-a-hypothalamic-circuit-for]] · [[betley-2013-parallel-redundant-circuit-organization-for]] · [[xu-2020-behavioral-state-coding-by]] · [[davila-2026-agrp-neurons-are-required-for]] · [[aronne-2023-continued-treatment-with-tirzepatide-for]] · [[petersen-2026-the-evolving-landscape-of]] · [[person-lowell-bradford]](네 번째 축 추가) · [[overview-appetite-energy-homeostasis]](**Layer 4 — 상태의 gain과 유지** 신설, 핵심 lesson 7 추가) · [[index.md|wiki/index.md]].
+
+**연구계획서 보강**: [[proposal-glp1ra-rebound-microbiota]]에 **제3의 기전 축(시냅스 가소성)** 절 추가 — le-qEPSC 측정 설계, MK-801·부위특이 NMDAR 차단 실험, [[davila-2026-agrp-neurons-are-required-for|d'Ávila 2026]](GLP-1RA가 AgRP를 *모집*)과의 대조 필요성, naltrexone 병용 시 rebound이 오히려 악화된다는 반대 방향 예측.
+
+**핵심 함의 3**
+1. **set point → set range**: 배고픔은 비교기가 아니라 **래치**일 수 있다. 치료 질문이 "설정점을 낮추는 법"에서 **"무엇이 이 상태를 reset하는가"** 로 바뀐다.
+2. **체중 재증가에 끊을 수 있는 표적이 생겼다**: PVH^TRH→AgRP 증폭기, 관문은 NMDAR. [[petersen-2026-the-evolving-landscape-of|Petersen 2026]]이 거론한 "부위특이 NMDA 길항" 창약 전략과 **같은 표적**이다.
+3. **POMC β-endorphin의 두 번째 얼굴**: 쾌락 부호화([[proposal-pomc-endorphin-food-pleasure]]) 외에 **AgRP 시냅스 reset**이라는 별도 기능. naltrexone이 이를 방해할 수 있다는 검증 가능한 예측.
+
+**남은 gap**: Liu 2012 Neuron(NMDAR·spinogenesis)·Kong 2016 Neuron(후시냅스 AMPK–PAK) 원본이 `raw/`에 없어 [[concept-agrp-synaptic-plasticity]]의 4축 중 2축이 2차 인용 상태. 확보 시 해당 표를 1차 출처로 승격할 것.
+
 ## 2026-09-09 (2) — query (appetitive phase anticipatory behaviors를 wanting 지표로 제시하는 방향 + 압축 정의 단축)
+
 
 같은 자격시험 준비 맥락의 후속 질의 2건. (1) appetitive phase의 다양한 anticipatory behaviors를 'wanting' 지표로 제시하는 논증 방향 조언: [[concept-appetitive-consummatory-phases]]·[[kringelbach-2015-the-pleasure-of-food]](pleasure cycle) → phase≠process 경고, [[berridge-2023-separating-desire-from-prediction-of]]·[[nguyen-2021-positive-affect-nature-and-brain]]의 incentive salience 판별 규칙별로 지표를 분류(sign-tracking·food-cup approach [[derman-2018-junk-food-enhances-conditioned-food-cup]] / PIT [[odoherty-2016-multiple-systems-for-the-motivational]] / PR breakpoint [[warlow-2021-incentive-motivation-wanting-roles]] / effort·invigoration [[neuser-2020-vagus-nerve-stimulation-boosts]]·[[korb-2020-dopaminergic-and-opioidergic-regulation]]·[[concept-effort-based-decision-making]] / latency·approach ramping [[hamid-2016-mesolimbic-dopamine-signals-value-work]]·[[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] / seeking initiation [[kim-2024-normative-framework-dissociates-need]]·[[lee-2019-food-craving-seeking-and]] / anticipatory rating 다국면 [[schulz-2026-blunted-anticipation-but-not]] / cue DA transient [[pascoli-2026-conditioned-accumbal-dopamine-transients]]), 타당화 3축(liking·learning/prediction·Need와의 해리), 함정(주관 평정 둔감, cue approach vs US 동기 vs cue-potentiated feeding 분리, cephalic 반응=Need/예측 [[concept-cephalic-phase-response]], 인간 약리 불일치 [[soutschek-2021-opioid-antagonism-modulates-wanting]]). (2) 이전 답변의 답안용 압축 정의를 한 문장 수준으로 단축. 새 페이지 없음.
 

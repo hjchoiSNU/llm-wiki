@@ -2,7 +2,7 @@
 title: "AgRP neurons are required for the weight-lowering effects of GLP-1 receptor agonists in female mice (d'Ávila et al. 2026, PNAS)"
 type: paper
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-11
 source: "raw/2026 PNAS Agrp-neurons-are-required-for-the-weight-lowering-effects-of-glp-1-receptor-agonists-in-female-mice.pdf"
 authors: [d'Ávila M, Cavalcanti-de-Albuquerque JP, Collado-Pérez R, Liu ZW, Hunter J, White A, Schlessinger J, D'Agostino G, Horvath TL]
 year: 2026
@@ -82,3 +82,6 @@ journal: PNAS
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 임상에서도 **여성이 더 잘 빠진다**(−12.2% vs −10.0%); 본 논문의 암컷 특이 AgRP 의존성과 같은 기전인지가 열린 질문 (Nature 2026).
 - [[concept-glp1ra-response-variability]] — 반응 이질성 hub.
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — AgRP를 **재증가 쪽 관문**으로 보는 짝 논문: 체중 감소가 PVH^TRH→AgRP 시냅스를 증폭하고 그 증폭이 잃은 체중 회복에 필요·충분(NMDAR 의존). 본 논문(AgRP가 **감량**에 필요)과 합치면 **AgRP는 감량과 재증가 양쪽의 관문** (Cell Metab 2023).
+- [[concept-weight-regain-defended-adiposity]] — 본 논문의 `AgRP-Sirt1` KO 암컷 rebound 관찰을 포함한 체중 재증가 개념 hub.
+- [[concept-agrp-synaptic-plasticity]] — AgRP 신호 gain의 시냅스 층.

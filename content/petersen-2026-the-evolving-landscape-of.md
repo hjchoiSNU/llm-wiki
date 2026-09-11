@@ -2,7 +2,7 @@
 title: "비만 약물치료의 진화하는 지형 (Petersen 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-11
 source: "raw/Petersen et al. - 2026 - The evolving landscape of obesity pharmacotherapy.pdf"
 authors: [Jonas Petersen, Brian Finan, Timo D. Müller, Christoffer Clemmensen]
 year: 2026
@@ -42,3 +42,6 @@ year: 2026
 - [[johansen-2025-brain-control-of-energy]] · [[lee-2017-glp-1-based-combination-therapy]] — 사용자 lab 중추·병용 라인.
 - [[concept-glp1-neuroprotection]] — 신경퇴행 적응증(EVOKE 실패).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 비만 약물 평가에서 **체중을 1차 지표로만 쓰는 것의 위험**을 제기; 저용량·장기보호 우선 전략의 근거 (Cell Metab 2026, Drucker).
+- [[concept-weight-regain-defended-adiposity]] — 본 리뷰의 **유지생물학(defended adiposity)** 항목을 임상 수치·회로 기전과 묶은 개념 hub.
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ 본 리뷰가 제시한 **"부위특이 NMDA 길항으로 rebound hyperphagia 차단"** 전략의 전임상 근거: 체중 감소가 PVH^TRH→AgRP 시냅스를 NMDAR 의존적으로 증폭하며, MK-801이 과식·체중 증가를 모두 차단 (Cell Metab 2023).
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — **LEAP2 유사체·leptin 재감작** 전략이 겨냥하는 set/reset 회로의 원리(ghrelin=set, leptin→POMC 오피오이드=reset) (Cell 2011).

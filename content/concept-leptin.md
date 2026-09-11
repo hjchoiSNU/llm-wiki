@@ -2,7 +2,7 @@
 title: Leptin
 type: concept
 created: 2026-04-29
-updated: 2026-08-19
+updated: 2026-09-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -83,3 +83,6 @@ updated: 2026-08-19
 - [[zhao-2026-direct-interoceptive-input-to-the]] — leptin의 **시상하부 밖(섬엽 피질) 작용점**: INS^LepR가 지방량 신호를 직접 감지해 **학습된 섭식·동기** 조절(항상성 섭식엔 불필요).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LepR 뉴런을 **39개 전사·후성유전 아형**으로 해부(snRNA+snATAC multiome). AgRP 2종·POMC 2종·Bnc2/Nkx2-4/Glp1r 3종 등, 아형별 cis-조절요소를 인간 비만 유전학과 연결 (bioRxiv 2025).
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ **leptin이 AgRP 시냅스를 직접 끄지 않는다**: 절편에 직접 투여하면 무효이고, 복강 투여 효과는 **POMC 뉴런의 오피오이드(β-endorphin 추정)** 를 경유하며 **naltrexone으로 차단**된다(멜라노코르틴 MTII로는 재현 안 됨). flip-flop 모델에서 leptin = **reset 신호** (Cell 2011, Sternson lab).
+- [[concept-circuit-bistability-hysteresis]] — leptin이 reset 입력으로 들어가는 set/reset 래치 구조.
+- [[concept-weight-regain-defended-adiposity]] — 감량 후 leptin 저하가 reset 신호 결핍으로 읽히는 지점(leptin 재감작 전략).

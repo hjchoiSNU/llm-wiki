@@ -2,7 +2,7 @@
 title: Appetite & energy homeostasis — synthesis
 type: overview
 created: 2026-04-29
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -178,3 +178,13 @@ updated: 2026-09-07
 ### 향후 방향
 [[overview-future-research-directions]] — 본 wiki gap에서 도출한 사용자 lab 연구 로드맵(Tier 1–3).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — Front Neuroanat 2015 (Luo·Zhan lab); ARC POMC·AgRP와 NTS POMC의 **전뇌 입력·출력 지도**. POMC·AgRP 입력 지형은 대부분 공유(52 중 35)되고 SO만 AgRP 우세; NTS POMC는 입력 ~80%가 뇌교·연수로 **ARC POMC와 별개 회로**; 주요 입력원은 거의 모두 **상호 연결**.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — Cell 2011 (Sternson lab); AgRP 흥분성 시냅스의 **전시냅스 AMPK 양성 되먹임**이 배고픔 상태를 기억(hysteresis)하고, **leptin→POMC 오피오이드**가 reset. 항상성 제어를 **set point가 아니라 set range(SR flip-flop)** 로 재기술.
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — Cell Metab 2023 (Fenselau·Lowell); 체중 감소가 **PVH^TRH→AgRP 시냅스만** 선택 증폭하고, 이 증폭이 **잃은 체중 회복에 필요·충분**하며 **NMDAR 의존**. 다이어트·약물 중단 후 재증가의 첫 회로 기질.
+
+### Layer 4 — 상태의 gain과 유지 (2026-09 추가)
+회로 배선(누가 누구에게)과 부호화(무엇을 표상하는가) 위에 **시냅스 강도**라는 세 번째 축이 있다. 같은 배선·같은 입력이라도 강도가 달라지면 같은 자극이 다른 크기의 배고픔을 만들고, 그 강도는 **자극이 사라진 뒤에도 수 시간–수 주 남는다**. 이 축이 **체중 유지 실패**를 설명하는 자리다.
+- 개념 hub: [[concept-agrp-synaptic-plasticity]] · [[concept-circuit-bistability-hysteresis]] · [[concept-weight-regain-defended-adiposity]]
+- 임상 접점: [[aronne-2023-continued-treatment-with-tirzepatide-for|SURMOUNT-4 rebound]] · [[petersen-2026-the-evolving-landscape-of|유지생물학·부위특이 NMDA 길항]] · [[proposal-glp1ra-rebound-microbiota|사용자 lab 제안]]
+- 인물: [[person-sternson-scott]] · [[person-fenselau-henning]]
+
+> **핵심 lesson 7**: 항상성 회로는 반드시 set point 비교기가 아니다. 배고픔은 **래치된 상태**일 수 있고, 그렇다면 치료 질문은 "설정점을 어떻게 낮추는가"가 아니라 **"무엇이 이 상태를 reset하는가"** 가 된다.

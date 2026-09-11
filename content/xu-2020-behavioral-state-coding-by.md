@@ -2,7 +2,7 @@
 title: "Xu et al. 2020 — PVH 세포타입 ensemble의 행동상태 부호화 (CaRMA imaging)"
 type: paper
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-09-11
 source: raw/2020 Science (Sternson) Behavioral state coding by molecularly defined paraventricular hypothalamic cell type ensembles (1).pdf
 authors: [Shengjin Xu, Hui Yang, Vilas Menon, Andrew L. Lemire, Lihua Wang, Fredrick E. Henry, Srinivas C. Turaga, Scott M. Sternson]
 year: 2020
@@ -45,3 +45,6 @@ Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. 시상하부 실방
 - [[concept-melanocortin-system]] · [[concept-mc4r]] — PVH MC4R satiety 맥락.
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 사용자 lab NHP 회로 영상(번역 타깃).
 - [[weinreb-2026-spontaneous-behavior-is-a]] — dmPFC의 **수 초 behavioral state 코딩**(shMoSeq); 여기의 PVH 항상성 상태 코딩과 같은 "행동 상태를 앙상블이 부호화" 개념 가족, 다른 뇌영역·시간척도.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — 같은 Sternson lab. 본 논문이 행동상태가 **어떻게 표상되는가**(PVH 앙상블 조합 부호)를 다룬다면, Yang 2011은 그 상태가 **어떻게 유지되는가**(AgRP 시냅스의 SR flip-flop·hysteresis)를 다룬다 — 표상과 유지 기전의 짝 (Cell 2011).
+- [[concept-circuit-bistability-hysteresis]] — 상태 유지의 회로 논리.
+- [[person-sternson-scott]] — 교신저자 인물 hub.

@@ -2,7 +2,7 @@
 title: Dorsomedial hypothalamus (DMH)
 type: concept
 created: 2026-05-25
-updated: 2026-09-07
+updated: 2026-09-11
 aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ---
 
@@ -76,3 +76,5 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — DMH의 Lepr×Glp1r 뉴런이 **Bnc2/Nkx2-4/Glp1r 계열**이며 DMH에서는 **Ebf1형이 우세·Glp1r 최고 발현**(Xenium ~60%) → liraglutide 포만 매개 DMH LepR 뉴런의 분자 정체 후보 (bioRxiv 2025).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **DM이 ARC POMC·AgRP 입력 중 수적으로 가장 많은 시상하부 영역**임을 전뇌 지도로 확인([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]의 AgRP 입력 DMH 26%와 정합). 단 이 영역 수준 결과는 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]의 세포 수준 선택성(vDMH^LepR이 AgRP 100% vs POMC 9%)과 **다른 층위** — 같은 핵이 둘 다에 투사한다는 사실이 같은 뉴런이 둘 다에 투사함을 뜻하지는 않는다 (Front Neuroanat 2015).
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — **DMH^Vglut2→AgRP 입력의 가소성 서명이 PVH^TRH와 다르다**: 단식 시 양자 **진폭**이 오르고(후시냅스 전도도) 빈도는 불변. 그리고 단식 중 DMH^Vglut2를 침묵시켜도 재급식 식이·체중 재증가는 **영향 없음** — 같은 AgRP 뉴런으로 가는 흥분성 입력이라도 기능이 갈린다 (Cell Metab 2023).
+- [[concept-agrp-synaptic-plasticity]] — 입력별 가소성 서명 비교표가 있는 개념 hub.

@@ -2,7 +2,7 @@
 title: Hypothalamic AMPK
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-11
 aliases: [hypothalamic AMP-activated protein kinase, AMPK]
 ---
 
@@ -49,3 +49,7 @@ aliases: [hypothalamic AMP-activated protein kinase, AMPK]
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — semaglutide POMC GPR43-AMPK 회로.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-lopez-miguel]] — 저자.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ **AMPK 작용점에 "시냅스 전말단"을 추가**한 논문. 기존 framework(지방산 대사·유전자 발현·BAT)와 다른 층에서, ARC^AgRP로 들어오는 흥분성 말단의 **AMPK가 글루타메이트 방출을 직접 조절**한다. 경로는 **ghrelin→Ghsr1→CAMKK→AMPK→cADP ribose→RyR→Ca²⁺**이며 이 고리가 **양성 되먹임**을 이뤄 배고픔 상태를 수 시간 유지한다. 결정적 대조: AgRP 뉴런 **내부**로 AMPK 활성제·억제제를 투석해도 무효 = **후시냅스가 아니라 전시냅스** (Cell 2011, Sternson lab).
+- [[concept-agrp-synaptic-plasticity]] — 전시냅스 AMPK 축이 속한 개념 hub.
+- [[concept-circuit-bistability-hysteresis]] — AMPK 되먹임이 만드는 양안정·이력 구조.
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — PVH^TRH→AgRP 활성 의존 증폭의 하류 분자로 **CaMKII·AMPK**를 추정(저자 논의; 미검증) (Cell Metab 2023).

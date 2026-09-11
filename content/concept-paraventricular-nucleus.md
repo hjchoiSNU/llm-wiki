@@ -2,7 +2,7 @@
 title: Paraventricular nucleus (PVN)
 type: concept
 created: 2026-05-25
-updated: 2026-09-07
+updated: 2026-09-11
 aliases: [PVN, PVH, paraventricular hypothalamus]
 ---
 
@@ -62,3 +62,7 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[concept-medial-preoptic-area]] — PVN^OT/CRH가 수렴·길항하는 양육 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **PVN이 멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP) 모두와 상호 연결**을 이루는 핵임을 전뇌 지도로 확정. PVN은 ARC 두 집단의 주요 시상하부 입력원이자 이들의 축삭 표적이고, 동시에 **NTS POMC의 전뇌 3대 입력원**(CeM·PVN·PSTh) 중 하나. 인접 **SO(supraoptic)는 전체 지도에서 유일하게 AgRP 우세** 입력원이며 AgRP 개체에서 가장 조밀하게 표지된 핵 (Front Neuroanat 2015).
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ **PVH^TRH/PACAP → ARC^AgRP 시냅스가 "배고픔 증폭기"**: 체중 감소 시 이 입력만 선택적으로 강화(양자 빈도↑=전시냅스 방출 부위 수)되고, 단식 중 PVH^TRH를 침묵시키면 증폭·과식·체중 회복이 모두 무너진다. 상류 PVH^TRH를 **편측만** 활성화하면 **동측 AgRP에서만** 시냅스가 강화 = 순환 호르몬이 아닌 **회로 특이·활성 의존** 현상. 글루타메이트 방출(Vglut2) 필수 (Cell Metab 2023, Fenselau·Lowell).
+- [[concept-agrp-synaptic-plasticity]] · [[concept-weight-regain-defended-adiposity]] — PVH^TRH 축의 가소성 개념 hub와 임상 표현형.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — PVH를 포함한 ghrelin 민감 흥분성 입력이 단식 상태를 시냅스에 기억한다는 선행 원리(당시 입력 세포 정체는 미규명) (Cell 2011).
+- [[person-fenselau-henning]] — PVH^TRH→AgRP 시냅스 가소성 연구 그룹.

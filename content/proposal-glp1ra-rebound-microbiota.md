@@ -2,7 +2,7 @@
 title: "[연구계획서] GLP-1RA 중단 후 체중 rebound의 microbiota–시상하부 회로 기전과 공동중재"
 type: proposal
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-09-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -74,3 +74,19 @@ updated: 2026-06-02
 - [[person-choi-hyung-jin]] · [[person-lopez-miguel]] — 연구진·협력(AMPK).
 - [[proposal-ttis-feeding-reward-circuits]] · [[proposal-food-insecurity-cross-species]] — 자매 연구계획서.
 - [[aronne-2023-continued-treatment-with-tirzepatide-for]] — GLP-1RA/tirzepatide 중단 후 rebound 임상 앵커(SURMOUNT-4).
+
+---
+
+## 2026-09-11 보강 — 제3의 기전 축: 시냅스 가소성
+
+본 제안은 rebound을 **microbiota reset 실패 + 시상하부 set-point 복귀** 두 축으로 설계했다. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]] ingest로 **독립적으로 검증 가능한 세 번째 축**이 확보됐다.
+
+- **가설 추가**: 약물 중단 후 rebound기에 **PVH^TRH → ARC^AgRP 시냅스 증폭**(양자 빈도↑, 전시냅스 방출 부위 수 증가)이 재현되며, 이 증폭이 rebound 섭취의 **후반 성분(8–24시간 이후)** 을 매개한다.
+- **측정**: 광유전 **le-qEPSC**(Sr²⁺ 비동기 방출)로 PVH^TRH·DMH^Vglut2 입력을 **나란히** 측정 — PPR·CV·AMPAR/NMDAR 비를 함께 보고해 전·후시냅스를 분리.
+- **차단 실험**: 중단 시점에 **MK-801**(또는 부위특이 NMDAR 조작)으로 증폭 유도를 막았을 때 rebound 곡선이 완만해지는지. [[petersen-2026-the-evolving-landscape-of|Petersen 2026]]이 거론한 **GLP-1–NMDA 길항 [[concept-peptide-drug-conjugate|PDC]]** 와 같은 표적이라 임상 전환 경로가 이미 있다.
+- **대조가 필요한 지점**: [[davila-2026-agrp-neurons-are-required-for|d'Ávila 2026]]은 GLP-1RA가 AgRP를 **모집**한다고 보고했다. 따라서 "약물 유도 감량이 칼로리 제한과 같은 시냅스 변화를 만드는가"는 **가정이 아니라 첫 번째로 확인할 실험**이다.
+- **reset 축**: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]의 **POMC 오피오이드 reset**을 고려하면, naltrexone 병용군은 rebound이 오히려 악화될 수 있다는 반대 방향 예측이 나온다(대조군 설계 시 고려).
+
+- [[concept-weight-regain-defended-adiposity]] — 본 제안이 속한 상위 개념 hub.
+- [[concept-agrp-synaptic-plasticity]] · [[concept-circuit-bistability-hysteresis]] — 기전 개념.
+- [[person-fenselau-henning]] — 방법론(le-qEPSC·교차 recombinase) 출처 그룹.

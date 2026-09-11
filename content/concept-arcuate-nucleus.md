@@ -2,7 +2,7 @@
 title: Hypothalamic arcuate nucleus
 type: concept
 created: 2026-04-29
-updated: 2026-09-07
+updated: 2026-09-11
 aliases: [ARC, arcuate, arcuate nucleus]
 ---
 
@@ -110,3 +110,6 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ARC LepR 아형 지도(AgRP 2종·POMC 2종·KNDy·Ghrh·Pnoc/Htr3b·Tbx19/Anxa2·PNOC/NPY 등)와 아형별 열린 크로마틴; ARC의 Lepr^Glp1r은 **Trh/Tbx19형** 편중 (bioRxiv 2025).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ARC 두 first-order 집단의 **전뇌 입력 지도**: 52영역이 POMC로, 그중 35영역이 AgRP로도 투사(시상하부 60–70%). 수렴비 POMC ~49 vs AgRP ~21. **SO(supraoptic)만 AgRP 우세**, POMC 전용 17영역은 총 입력의 ~7%. 통상 추적이 놓친 subiculum·ZI 입력을 새로 검출한 반면 SCN 입력은 미표지 (Front Neuroanat 2015, Luo·Zhan lab).
 - [[concept-monosynaptic-rabies-tracing]] — ARC 회로 상류 매핑에 쓰이는 방법의 원리·정량 단위(시작세포·수렴비)·해석 함정 hub.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — ARC 안에서 단식이 **AgRP 흥분성 입력은 올리고 POMC 입력은 내린다**(세포타입 특이 시냅스 가소성); ghrelin이 AgRP 전시냅스 말단에서 AMPK 양성 되먹임을 켜고, POMC 유래 오피오이드가 그것을 끄는 **ARC 내부 set/reset 회로** (Cell 2011, Sternson lab).
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ARC^AgRP가 받는 흥분성 입력의 가소성이 **입력마다 다르다**: PVH^TRH는 전시냅스(방출 부위 수↑), DMH^Vglut2는 후시냅스(진폭↑). 체중 재증가에 필요한 것은 PVH^TRH 쪽뿐 (Cell Metab 2023).
+- [[concept-agrp-synaptic-plasticity]] — ARC 첫 번째 뉴런의 **시냅스 강도 조절** 층 개념 hub(배선·부호화와 구별되는 제3의 축).

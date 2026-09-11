@@ -2,7 +2,7 @@
 title: "An excitatory paraventricular nucleus to AgRP neuron circuit that drives hunger (Krashes 2014)"
 type: paper
 created: 2026-06-17
-updated: 2026-09-07
+updated: 2026-09-11
 source: "raw/2014 Nature. An excitatory paraventricular nucleus to AgRP neuron circuit that drives hunger.pdf"
 authors: [Michael J. Krashes, Bhavik P. Shah, Joseph C. Madara, David P. Olson, David E. Strochlic, Alastair S. Garfield, Linh Vong, Hongjuan Pei, Mitsuko Watabe-Uchida, Naoshige Uchida, Stephen D. Liberles, Bradford B. Lowell]
 year: 2014
@@ -54,3 +54,6 @@ Cre-기반 세포특이 회로 매핑으로, 시상하부 PVH의 **TRH·PACAP(Ad
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **같은 방법의 POMC 확장판**: 본 논문의 AgRP 광견병 입력 정량(ARC 38%·DMH 26%·PVH 18%)에 POMC를 나란히 놓아, 두 집단이 **52영역 중 35영역을 공유**하되 POMC의 수렴비가 2배 이상(49 vs 21)임을 보임. 본 논문이 CRACM으로 밝힌 PVH→AgRP 흥분 입력은 그 공유 지형 안의 **한 분자 채널** (Front Neuroanat 2015).
 - [[concept-monosynaptic-rabies-tracing]] — 본 논문의 Agrp-IRES-Cre 단시냅스 추적이 속한 방법론 hub.
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ **본 논문이 동정한 시냅스의 가소성 축**(같은 Lowell 계열, 교신 Fenselau): 체중 감소가 PVH^TRH→AgRP 시냅스의 기능적 방출 부위 수를 늘리고, 이 증폭이 **잃은 체중 회복에 필요·충분**하며 **NMDAR 의존**. 본 논문이 "이 시냅스가 존재하고 섭식을 구동한다"를 세웠다면, Grzelka는 "이 시냅스의 강도가 체중을 결정한다"를 세운다 (Cell Metab 2023).
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — **선행 문제 설정**: Yang 2011은 단식이 AgRP 흥분성 입력을 강화한다는 것을 보였으나 **그 입력 뉴런의 정체를 미규명으로 남겼고**, 본 논문이 PVH TRH/PACAP로 좁혔다 (Cell 2011, Sternson lab).
+- [[concept-agrp-synaptic-plasticity]] — 이 시냅스의 가소성 개념 hub.

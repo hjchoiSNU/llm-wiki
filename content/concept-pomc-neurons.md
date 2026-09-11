@@ -2,7 +2,7 @@
 title: POMC neurons
 type: concept
 created: 2026-04-29
-updated: 2026-09-07
+updated: 2026-09-11
 aliases: [pro-opiomelanocortin neurons, POMC]
 ---
 
@@ -126,3 +126,5 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — POMC가 **Pomc/Glipr1형(저 LepR)** 과 **Pomc/Prdm12형(~4배 LepR)** 으로 분할; 두 클러스터 모두 Gad1/2 상당량 발현(POMC ~40% GABAergic과 일치). Prdm12형은 인간 비만 유전 증거 수렴 클러스터 (bioRxiv 2025).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **ARC POMC와 NTS POMC의 전뇌 입력·출력 지도**(본 페이지 '전뇌 배선 지도' 절의 1차 출처). POMC 입력 52영역·수렴비 ~49, AgRP와 35영역 공유하되 밀도는 POMC 우세, SO만 역전. NTS POMC는 입력 ~80%가 뇌교·연수로 **ARC POMC와 별개 회로** (Front Neuroanat 2015, Luo·Zhan lab).
 - [[concept-monosynaptic-rabies-tracing]] — 위 지도가 나온 방법의 원리·대조군·해석 함정 hub.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ **POMC의 비정규 기능**: POMC 뉴런이 방출하는 **오피오이드(β-endorphin 추정)** 가 AgRP 흥분성 시냅스의 전시냅스 AMPK를 꺼서 배고픔 상태를 **reset**한다. leptin의 AgRP 시냅스 효과는 직접이 아니라 이 POMC 오피오이드 경유이며, 멜라노코르틴(MTII)으로는 재현되지 않고 **naltrexone으로 차단**된다. 또한 단식은 POMC 자신의 흥분성 입력을 **감소**시킨다(AgRP와 정반대 방향의 시냅스 가소성) (Cell 2011, Sternson lab).
+- [[concept-agrp-synaptic-plasticity]] — 위 reset 신호가 작동하는 시냅스 가소성 개념 hub.

@@ -2,7 +2,7 @@
 title: NPY/AgRP neurons
 type: concept
 created: 2026-04-29
-updated: 2026-09-07
+updated: 2026-09-11
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
 	
@@ -54,6 +54,16 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 **DMH GABAergic 억제 cluster (부분 중첩)**: 세 DMH 억제 입력은 분자적으로 겹치는 한 GABAergic 집단의 모드들 — **Lepr/Glp1r 공발현**(Webster 2024 RAMPANT의 Trh⁺/Glp1r⁺/Lepr⁺ subset). ① sight/가치([[garfield-2016-dynamic-gabaergic-afferent-modulation\|Garfield 2016]], vDMH^LepR/pDYN) · ② taste([[aitken-2024-negative-feedback-control-of-hypothalamic\|Aitken 2024]], DMH^LepR) · ③ **인지·preingestive satiation**([[kim-2024-glp-1-increases-preingestive-satiation\|Kim 2024 Science]], DMH^GLP-1R, 사용자 lab). ③은 CRACM으로 DMH^GLP-1R→ARC NPY/AgRP 단일시냅스 IPSC(8/8)·회로 epistasis(DMH^GLP-1R hM4Di 또는 AgRP hM3Dq가 liraglutide 효과 차단)로 입증. (DMH glutamatergic 흥분 입력[Krashes]과는 별개 집단.)
 
 **핵심 비대칭**: PVH 흥분 입력 = **인지·예측**(외부 맥락) vs DMH 억제 입력 = **감각·인지 피드백**(sight=Garfield / taste=Aitken / GLP-1R cognitive satiation=Kim). → [[kim-2024-normative-framework-dissociates-need\|AgRP=Need]]를 *어떻게 계산하는가*: 영양소 정체(McKnight)·미래 예측(Walker)·음식 가치/맛(Garfield·Aitken)·preingestive satiation(Kim). **약리**: GLP-1RA가 DMH^GLP-1R 억제 입력을 *식이 시에만* 잠재화해 AgRP를 끔 = 인간 체중감량의 cognitive·preingestive layer([[lee-2025-hijacked-brain-modern-obesity-cue\|hijacked brain]]·[[proposal-dmh-glp1r-human-imaging\|인간 번역 계획서]]).
+
+## ★ 시냅스 가소성 — Need 신호의 gain (배선·부호화와 구별되는 제3의 축)
+
+위 표는 *누가 AgRP에 입력을 주는가*이고, 이 절은 *그 입력이 얼마나 세지는가*다. → 전용 hub [[concept-agrp-synaptic-plasticity]]
+
+- **단식은 AgRP 흥분성 입력을 올리고 [[concept-pomc-neurons|POMC]] 입력은 내린다** (mEPSC 빈도 AgRP 1.4→3.0 s⁻¹ / POMC 3.3→1.8 s⁻¹). 단식 후 AgRP 발화 상승은 **CNQX로 사라진다** — 상태 의존 활성의 상당 부분이 세포 내재 흥분성이 아니라 **시냅스**에 있다 ([[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]).
+- **유발 신호보다 오래 간다**: ghrelin 5분 노출 후 수용체를 완전히 차단해도 3–5시간 지속되고, AMPK·CAMKK를 억제하면 10분 내 붕괴 → **능동 유지되는 양성 되먹임**(단순 흔적이 아님). 생체 내에서는 재급식 24시간 후에도 상승, 48시간에 복귀. → [[concept-circuit-bistability-hysteresis]]
+- **입력마다 기전이 다르다**: PVH^TRH→AgRP는 양자 **빈도**↑(전시냅스 방출 부위 수), DMH^Vglut2→AgRP는 양자 **진폭**↑(후시냅스 전도도). "단식이 AgRP 입력을 올린다"를 하나로 뭉뚱그리면 안 된다 ([[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]).
+- **체중 축에서는 훨씬 길다**: 저체중이 유지되는 한 PVH^TRH→AgRP 증폭이 계속 유지되고 **체중이 회복되어야 꺼진다**. 이 증폭은 **잃은 체중 회복에 필요·충분**하며 **NMDAR 의존**(MK-801이 과식·체중 증가 모두 차단). → [[concept-weight-regain-defended-adiposity]]
+- **끄는 신호는 따로 있다**: [[concept-leptin|leptin]]은 직접 작용하지 않고 **POMC 오피오이드(β-endorphin 추정)** 를 통해 전시냅스 AMPK를 끈다. **naltrexone이 이를 차단**한다.
 
 ## 행동 효과 (광유전·화학유전 실험)
 - AgRP 뉴런 활성화 → 즉시·강력한 섭식 (몇 분 내).
@@ -150,3 +160,9 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — AgRP 뉴런이 **Agrp/Sst형(ARC 배측)** 과 **Agrp/Acvr1c(ALK7)형(ARC 복측)** 으로 분할; Xenium 검증 각 ~42%. Acvr1c는 마우스 기능상실 시 DIO 방어·인간 SNP는 저체중 연관 (bioRxiv 2025).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **AgRP 입력의 전뇌 좌표계**: 35개 입력영역 전부가 POMC의 52개 영역 안에 포함(= AgRP 전용 입력원 없음), 수렴비 AgRP ~21 vs POMC ~49, **SO(supraoptic)만 AgRP 우세**. AgRP 축삭의 주요 표적(aBNST·PVH·LHA·PVT·LS·MPO)이 **동시에 AgRP의 입력원**이기도 함(상호 연결) (Front Neuroanat 2015, Luo·Zhan lab).
 - [[concept-monosynaptic-rabies-tracing]] — 위 입력 지도들이 나온 방법의 원리·정량 단위(시작세포·수렴비)·해석 함정 hub. 영역 수준 공유와 세포 수준 선택성을 가르는 기준.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ AgRP 흥분성 시냅스가 **배고픔 상태를 기억한다**(ghrelin→전시냅스 AMPK 양성 되먹임·hysteresis), leptin은 **POMC 오피오이드 경유로만** 그것을 끈다. 단식 시 AgRP와 POMC의 시냅스 변화가 정반대 (Cell 2011, Sternson lab).
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ 체중 감소가 **PVH^TRH→AgRP 시냅스만 선택 증폭**(입력 특이성), 저체중이 유지되는 한 지속되며 **잃은 체중 회복에 필요·충분**, **NMDAR 의존**(MK-801 차단). 단회 자극으로 수주 지속 체중 증가 (Cell Metab 2023, Fenselau·Lowell).
+- [[concept-agrp-synaptic-plasticity]] — 위 두 축을 정리한 **AgRP 시냅스 가소성** 개념 hub(Need 신호의 gain).
+- [[concept-circuit-bistability-hysteresis]] — 상태가 래치되는 회로 논리(set point vs set range).
+- [[concept-weight-regain-defended-adiposity]] — 그 가소성의 임상 표현형(다이어트·약물 중단 후 재증가).
+- [[person-sternson-scott]] · [[person-fenselau-henning]] — 위 두 논문의 교신 그룹.

@@ -2,7 +2,7 @@
 title: 약물 유발 시냅스 가소성 (Drug-evoked synaptic plasticity)
 type: concept
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-11
 aliases: [drug-evoked synaptic plasticity, CP-AMPAR, calcium-permeable AMPAR, metaplasticity, depotentiation, mGluR-LTD, dorsalization, spiraling connectivity, 약물 유발 가소성]
 ---
 
@@ -65,3 +65,5 @@ VTA (수 시간)  →  NAc (수일)  →  DST (더 많은 피질선조체 루프
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — 같은 lab; 가소성의 상류 입력(cue 도파민)을 개체 수준에서 측정.
 - [[person-luscher-christian]] — 이 연구 프로그램의 주도자.
 - [[concept-incentive-sensitization]] — 감작의 행동 이론; 여기서는 그 시냅스 기질.
+- [[concept-agrp-synaptic-plasticity]] — **섭식 회로판 자매 개념**. 같은 논리 구조(병리·상태가 시냅스 강도에 저장되고, 그 강도를 되돌리면 행동이 되돌아온다)가 시상하부 배고픔 회로에서도 성립한다: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서는 **오피오이드**가 depotentiation 역할을 하고, [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]에서는 **NMDAR 차단**이 증폭 유도를 막아 체중 증가를 없앤다.
+- [[concept-circuit-bistability-hysteresis]] — "되돌릴 수 있는 래치"라는 공통 프레임.

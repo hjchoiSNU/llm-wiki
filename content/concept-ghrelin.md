@@ -2,7 +2,7 @@
 title: Ghrelin
 type: concept
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -96,3 +96,7 @@ updated: 2026-04-29
 - [[concept-enteroendocrine-cells]] — 폐쇄형 EEC 대표.
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — leptin 리뷰 (보완).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림에서의 위치.
+- [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ ghrelin 작용점에 **시냅스 전말단**을 추가: Ghsr1→CAMKK→AMPK→cADPR→RyR→Ca²⁺로 AgRP 입력의 글루타메이트 방출을 늘리며, **5분 노출만으로 3–5시간 지속되는 상태**를 만든다(hysteresis). 24시간 단식 중 i.c.v. Ghsr1 길항제로 이 상승이 차단되므로 ghrelin은 **필요하고 충분**. 즉 ghrelin의 효과는 혈중 농도가 떨어진 뒤에도 남는다 (Cell 2011).
+- [[concept-circuit-bistability-hysteresis]] — ghrelin이 **set 신호**로 작동하는 flip-flop 모델(reset은 leptin→POMC 오피오이드).
+- [[concept-agrp-synaptic-plasticity]] — ghrelin–AMPK 축이 속한 가소성 개념 hub.
+- [[concept-weight-regain-defended-adiposity]] — LEAP2 유사체(내인성 ghrelin 수용체 길항)가 유지생물학 전략으로 거론되는 맥락.

@@ -2,7 +2,7 @@
 title: "A hypothalamic circuit for anticipating future changes in energy balance (Walker 2026)"
 type: paper
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-11
 source: "raw/A hypothalamic circuit for anticipating future changes in energy balance.pdf"
 authors: [Samuel J. Walker, Elijah D. Lowenstein, Amelia M. Douglass, Callum M.P. Thomas, Joseph C. Madara, Hakan Kucukdereli, Eunice A. Barbosa-Meillon, Jenkang Tao, Jon M. Resch, Bradford B. Lowell]
 year: 2026
@@ -85,3 +85,5 @@ PVH의 **Sim2 발현 흥분성 뉴런**(Trh⁺/Adcyap1⁺)이 ARC^AgRP hunger �
 - [[person-lowell-bradford]] — 교신저자 인물 hub.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — 같은 "예측기 AgRP" 그림의 **공간 축**. 본 논문이 지목한 복측 해마 입력과 Gruzdeva가 제안한 해마→LS→LH→DMH→AgRP 가설이 수렴 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(예측적 Need 축).
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ **같은 PVH→AgRP 경로의 gain 축**(본 논문 공저자 Samuel J. Walker가 참여). 본 논문이 *무엇이 이 회로를 켜는가*(미래 결핍 예측 cue)를 밝혔다면, Grzelka는 *이 시냅스가 얼마나 세지는가*를 밝힌다 — 체중 감소가 PVH^TRH→AgRP 시냅스만 선택적으로 증폭하고, 그 증폭이 **잃은 체중 회복에 필요·충분**하며 NMDAR 의존적. 본 논문의 "만성 silencing이 섭취·체중을 지속 감소시킨다"는 관찰과 직접 맞물린다 (Cell Metab 2023).
+- [[concept-agrp-synaptic-plasticity]] · [[concept-weight-regain-defended-adiposity]] — 그 gain 축의 개념 hub와 임상 표현형.

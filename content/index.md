@@ -61,8 +61,10 @@ title: 뇌과학 LLM Wiki
 - [[concept-tanycytes]] — Median eminence gatekeeper, leptin·liraglutide shuttle.
 - [[concept-mc4r]] — 핵심 melanocortin receptor. Setmelanotide 표적. PVN-hypertension.
 - [[concept-mc3r]] — energy rheostat/boundary receptor. MC4R(driver)과 division of labor.
-- [[concept-hypothalamic-ampk]] — López의 master cellular integrator. sEV brain delivery (Milbank 2021).
+- [[concept-hypothalamic-ampk]] — López의 master cellular integrator. sEV brain delivery (Milbank 2021). **전시냅스 말단 작용** 층 추가 (Yang 2011).
 - [[concept-hypothalamic-inflammation]] — HFD 24–72h microinflammation. Microglia·astrocyte·tanycyte.
+- ★ [[concept-agrp-synaptic-plasticity]] — **AgRP 시냅스 가소성**: 배선·부호화와 구별되는 제3의 축(신호 gain). 전시냅스 AMPK–ghrelin 되먹임 / 후시냅스 NMDAR·spinogenesis / 입력 특이 증폭(PVH^TRH). 끄는 신호는 **POMC 오피오이드**.
+- ★ [[concept-circuit-bistability-hysteresis]] — **양안정성·이력현상**: 항상성을 set point 비교기가 아닌 **SR flip-flop(set=ghrelin / reset=leptin)** 으로 보는 틀. 검증 체크리스트 5단계 포함.
 
 ## 🧪 방법론 (Methods)
 
@@ -169,6 +171,11 @@ _(섭식·동기 행동은 🍽️로)_
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — **vDMH^LepR/pDYN GABAergic → ARC^AgRP** 선택적 억제 입력(AgRP 100% vs POMC 9%)이 음식 cue 시 빠르게 활성·**음식 가치(초콜릿>chow) 부호화**해 AgRP를 끔(preconsummatory suppression의 시냅스 출처); Walker 2026 흥분성 입력의 거울상 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — **PVH TRH/PACAP → ARC^AgRP** 흥분성 회로가 섭식 구동("PVH=satiety" 통설 반전); AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로; Walker 2026 PVH^Sim2의 모태 (Nature 2014, Lowell lab).
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP가 aBNST·PVH·LHA·PVT로 **축 담보 거의 없이 부분군별 독립 투사**, 각 투사(aBNST·PVH·LHA)가 섭식-충분(one-to-all 기각); 병렬·중복 배선 = 생존행동의 redundancy (Cell 2013, Sternson lab).
+
+#### 시냅스 가소성 — 배고픔 신호의 gain과 그 유지
+개념 hub: [[concept-agrp-synaptic-plasticity]] · [[concept-circuit-bistability-hysteresis]] · [[concept-weight-regain-defended-adiposity]].
+- ★ [[yang-2011-hunger-states-switch-a-flip-flop]] — **시냅스가 배고픔 상태를 기억한다**. 단식이 AgRP 흥분성 입력을 늘리고(POMC는 반대) 이는 **ghrelin→Ghsr1→CAMKK→AMPK→cADPR→RyR→Ca²⁺ 양성 되먹임**이 유지. ghrelin 5분 노출만으로 **3–5시간 지속**(hysteresis), 생체 내 재급식 24시간까지. **leptin은 직접 작용하지 않고 POMC 오피오이드(β-endorphin 추정)로 reset**(naltrexone 차단). 항상성을 **set point가 아닌 set range(SR flip-flop)** 로 재기술 (Cell 2011, Sternson lab).
+- ★ [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — **다이어트 후 체중 재증가의 회로 기질**. 체중 감소가 **PVH^TRH→AgRP 시냅스만 선택 증폭**(양자 빈도↑=전시냅스 방출 부위 수; DMH^Vglut2는 진폭↑=후시냅스). 상류 활성 의존(편측 자극→동측만)·**체중이 회복될 때까지 유지**·**NMDAR 의존**. 10분 광자극 또는 CNO **1회**로 수주 지속 체중 증가, **MK-801이 전부 차단**. AgRP 침묵·Vglut2 삭제로 소실 (Cell Metab 2023, Fenselau·Lowell).
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 **BNST→NAc·OFC·dmINS** effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측; 인간 7T fMRI+DCM gustometer (Nat Commun 2026, Steward·Brown lab).
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — **복측 창백핵 VP^GABA**가 항상성 아닌 hedonic 섭식을 전담(ghrelin 둔감·CCK 억제·bout/palatability 추적); ablation이 HFD 비만 차단·항상성 보존 (bioRxiv 2026, Kravitz·Creed). _(보상 회로는 🎯에도)_
@@ -204,6 +211,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — Leptin 종합 (JACC 2021).
 
 ### 임상·DTx
+- ★ [[concept-weight-regain-defended-adiposity]] — **체중 재증가·유지 실패 hub**: 임상 수치(SURMOUNT-4 +14%, 세마글루타이드 중단 12주 71%) × 회로 기전(PVH^TRH→AgRP 증폭기·NMDAR, ghrelin/leptin 래치) × 약물개발 전략(leptin 재감작·LEAP2·부위특이 NMDA 길항) 3층 통합.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — Hijacked brain framework + DTx + electroceutical (JOMES 2025, 사용자 lab).
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 경구 MC3R/MC4R dual agonist 710GO: 비만 macaque 15주 11.8% 감량·지방 선택적·제지방 보존·무오심·심혈관 안전·semaglutide 시너지; MC3R=rheostat/MC4R=driver division of labor (Nat Commun 2026, Endevica Bio).
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 lixisenatide fMRI: lean vs obese T2DM의 visual food cue 뇌활성을 GLP-1RA가 차별적 조절; 비만 cue 과반응 영상 근거 (DMJ 2019, 사용자 lab).
@@ -433,6 +441,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-epigenetic-priming]] — 허용적 크로마틴(H3K4me1·SETD7)이 미래 자극 반응성을 증폭; 잠재 취약성의 분자 저장 기전
 - [[concept-h3-dopaminylation]] — 도파민·세로토닌이 **TG2를 통해 히스톤 H3Q5에 공유결합**(H3K4me3와 공존); 도파민 작용의 제3의 층(주–개월 시간척도). H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 도구
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
+- ★ [[concept-agrp-synaptic-plasticity]] · [[concept-circuit-bistability-hysteresis]] · [[concept-weight-regain-defended-adiposity]] — **시냅스 강도 3부작**. 배고픔 신호의 gain이 어떻게 커지고(가소성), 왜 자극보다 오래 유지되며(양안정·이력), 그것이 왜 다이어트·약물 중단 후 체중 재증가로 나타나는가. 약리적 접점은 **NMDAR**(부위특이 길항)과 **μ-오피오이드**(naltrexone)
 - [[concept-microbiota-gut-brain-axis]]
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]]
 - [[concept-liking-wanting]] · [[concept-hedonic-hotspot]] · [[concept-incentive-sensitization]]
@@ -495,6 +504,8 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-nord-camilla]] — 계산정신의학·interoception·대사–정신건강(glucose·insulin→보상/동기/기분); effort-DM 표현형. Cambridge MRC CBU.
 - [[person-lam-tony]] — 소장·신장 영양소(지질·포도당) 감지 gut-brain 축의 분자 기전. Toronto.
 - [[person-baker-david]] — de novo 단백질 설계(RFdiffusion·ProteinMPNN); GPCR 리간드 설계. UW / IPD(노벨화학상 2024).
+- [[person-sternson-scott]] — 시상하부 섭식 회로를 **공학적 논리**로 기술(AgRP 시냅스 SR flip-flop·출력의 병렬 중복·PVH 앙상블 부호·CaRMA). Janelia/HHMI → UCSD.
+- [[person-fenselau-henning]] — 에너지 항상성 회로의 **시냅스 전달·가소성**. PVH^TRH→AgRP 배고픔 증폭기와 체중 재증가. Max Planck Cologne (Lowell lab 출신).
 
 ## 🌐 종합/리뷰 (Overviews)
 
