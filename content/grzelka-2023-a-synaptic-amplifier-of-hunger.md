@@ -93,3 +93,5 @@ year: 2023
 - [[person-fenselau-henning]] · [[person-lowell-bradford]] — 교신저자 인물 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(체중 유지 실패의 회로 설명).
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **본 논문 NMDAR 축의 직접 선행**(같은 Lowell lab, Neuron 2012). AgRP `Grin1` 삭제가 단식 반응 전체(가시형성·EPSC 빈도·발화·`Agrp`/`Npy` mRNA)를 없앤다. 본 논문이 "양자 빈도 증가가 가시 수 증가인지 방출 부위 증가인지 구분 못 한다"고 남긴 한계는, Liu의 **가시 +67%** 관찰과 같은 자리를 가리킨다.
+- [[concept-agrp-synaptic-plasticity]] "분자 실행자" 절 — ★ 본 논문 Discussion의 **CaMKII 후보 논증 4갈래를 분해**하고, 그중 2갈래(CaMKII→AMPK / 유전·약리 대사 표현형)의 인용이 실제로는 **CaMKK2(CaMKKβ)** 논문(Hawley 2005·Anderson 2008)임을 명시. 두 효소를 구별해 읽어야 한다.
+- [[concept-hypothalamic-ampk]] "상류 키나아제" 절 — CaMKK2가 AMPK 상류라는 근거와 AgRP 시냅스에서의 STO-609 증거.

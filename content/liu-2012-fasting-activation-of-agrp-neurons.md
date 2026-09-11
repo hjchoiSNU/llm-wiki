@@ -79,3 +79,4 @@ AgRP 뉴런에서만 `Grin1`(NMDAR NR1 subunit)을 지우면 **체중·지방·�
 - [[person-sternson-scott]] — 충돌하는 해석을 낸 상대 그룹.
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — Need 신호의 gain이 구조적으로(시냅스 수) 조절된다는 함의.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-agrp-synaptic-plasticity]] "분자 실행자" 절 — 본 논문이 확립한 **후시냅스 NMDAR 요구**가 하류 후보를 "후시냅스 Ca²⁺ 의존 키나아제"로 좁히는 구조적 제약이 된다. 그 자리에 CaMKII를 놓는 논증과 그 한계를 정리.

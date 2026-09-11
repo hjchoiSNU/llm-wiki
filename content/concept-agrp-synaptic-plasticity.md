@@ -28,6 +28,7 @@ AgRP 회로 연구의 대부분은 **누가 누구에게 투사하는가**(배�
 | **입력 특이적 활성 의존 증폭** | PVH^TRH 말단 | **상류 뉴런 활성**(호르몬 비의존) | **NMDAR** 의존, 방출 부위 수↑ | [[grzelka-2023-a-synaptic-amplifier-of-hunger\|Grzelka 2023]] |
 
 > ⚠️ Kong 2016은 위 논문들이 **인용한 문헌**이며 본 위키에 원본 페이지가 아직 없다. 수치·세부 주장을 인용하려면 원본 확보가 필요하다. (Liu 2012는 2026-09-11 원본 확보 완료.)
+> **서지**: Kong D, Dagon Y, Campbell JN, Guo Y, Yang Z, Yi X, Aryal P, Wellenstein K, Kahn BB, Sabatini BL, Lowell BB (2016). *A postsynaptic AMPK→p21-activated kinase pathway drives fasting-induced synaptic plasticity in AgRP neurons.* **Neuron 91, 25–33.** doi:10.1016/j.neuron.2016.05.025 — 제목이 **"postsynaptic AMPK"** 를 명시하므로, [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]의 "후시냅스 AMPK 조작 무효" 결과와 직접 부딪힌다. 아래 "분자 실행자" 절의 논증 3을 판정하려면 이 원본이 필요하다.
 
 ## ★★ 미해결 쟁점 — 전시냅스인가 후시냅스인가
 
@@ -77,6 +78,53 @@ Liu는 전시냅스 설명을 **명시적으로 기각**한다(PPR 불변 · 후
 [[concept-leptin|Leptin]]은 AgRP 시냅스에 **직접 작용하지 않는다**(절편 직접 투여 무효). 대신 **[[concept-pomc-neurons|POMC]] 뉴런의 오피오이드(β-endorphin 추정)** 가 전시냅스 AMPK를 불활성화한다 — POMC 광자극이 AgRP mEPSC를 낮추고 **naltrexone이 이를 차단**. 멜라노코르틴(MTII)은 무효 ([[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]).
 
 > 임상적 함의: **naltrexone(bupropion–naltrexone)** 은 이 reset을 *방해*하는 방향으로 작용할 수 있다 — 아직 검증되지 않은 예측이지만, 위키 내 자료로 가설을 명시할 수는 있다.
+
+## ★ 분자 실행자는 누구인가 — CaMKII 후보 논리와 그 균열
+
+후시냅스 축의 분자 기전은 **미규명**이다([[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]] 저자 명시). 저자들이 CaMKII를 후보로 든 논증은 **네 갈래**이고, 뒤 두 갈래에 인용 문제가 있다.
+
+### 논증 1 — 상류가 NMDAR이면 하류는 Ca²⁺ 의존 키나아제여야 한다 (구조적 제약)
+[[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]에서 단식 반응 전체가 후시냅스 `Grin1` 삭제로 소실되고, Grzelka에서 회로 활성 유발 증폭이 D-AP5·MK-801로 차단된다. NMDAR의 정의적 기능은 **Ca²⁺ 유입**이므로, 후보는 자동으로 **후시냅스 구획의 Ca²⁺ 활성 키나아제**로 좁혀진다. 이 단계는 CaMKII 특이적 증거가 아니라 **후보군을 좁히는 제약**이다.
+
+### 논증 2 — 설명해야 할 표현형이 "유지"이고, LTP 분야에서 유지를 맡는 효소가 CaMKII다
+Grzelka가 설명해야 하는 것은 유도가 아니라 **수일–수주 지속**이다(저체중이 유지되는 한 증폭 유지, CNO 1회로 7일 체중 증가). 저자들이 인용한 4편은 그 자체로 논증을 담고 있다:
+
+| 인용 | 주장 |
+|---|---|
+| Tao 2021 *eLife* | **"Synaptic memory requires CaMKII"** |
+| Incontro 2018 *Nat Commun* | CaMKII/NMDAR 복합체가 해마 전달을 통제(키나아제 의존·비의존 두 기전) |
+| Herring & Nicoll 2016 *Annu Rev Physiol* | LTP: CaMKII에서 AMPA 수용체 트래피킹까지 |
+| Lledo 1995 *PNAS* | CaMKII와 LTP가 **같은 기전으로** 시냅스 전달을 강화 |
+
+즉 "유지 국면 = CaMKII"는 해마 LTP 분야의 표준 귀속이고, Grzelka는 **그 귀속을 시상하부로 유비 이식**한다. 논증의 힘은 유비의 강도에 달려 있다.
+
+> ⚠️ CaMKII가 유지를 담당하는 **분자 스위치 기전**(자가인산화→Ca²⁺ 비의존 자율 활성 등)의 구체적 내용은 본 위키의 `raw/` 원본에 없다. 위 4편은 Grzelka의 인용 목록에서 서지만 확인된 상태이며 원문 미확보.
+
+### 논증 3 — CaMKII가 AMPK를 활성화하므로 기존 AMPK 노드와 연결된다 ⚠️ **인용 불일치**
+Grzelka 본문: "CaMKII increases the activity of the AMP-activated protein kinase(ref 69)". 그런데 **ref 69는 Hawley 2005 *Cell Metab*, "Calmodulin-dependent protein kinase kinase-**beta** is an alternative upstream kinase for AMP-activated protein kinase"** — 즉 **CaMKKβ(CaMKK2)** 논문이지 CaMKII 논문이 아니다. 두 효소는 다르다.
+
+### 논증 4 — 유전·약리 조작이 AgRP 발현·섭식·체중을 바꾼다 ⚠️ **인용 불일치**
+Grzelka 본문: "genetic deletion of CaMKII downregulates AgRP gene expression and reduces feeding after fasting, and pharmacological inhibition of CaMKII promotes weight loss(ref 70)". **ref 70은 Anderson 2008 *Cell Metab*, "Hypothalamic **CaMKK2** contributes to the regulation of energy balance"** — 역시 CaMKK2다.
+
+### ★ 결론 — 두 효소를 분리해서 읽어야 한다
+
+| | **CaMKII** | **CaMKK2 (CaMKKβ)** |
+|---|---|---|
+| 역할 | LTP **유지** 국면 | **AMPK의 상류** 키나아제 |
+| 섭식 회로 직접 증거 | **위키 자료 없음** | 있음 |
+| 약리 | (본 위키 원본에 억제제 자료 없음) | **STO-609** |
+| AgRP 시냅스에서 검증된 것 | — | [[yang-2011-hunger-states-switch-a-flip-flop\|Yang 2011]]: STO-609가 ghrelin 유발 f<sub>mEPSC</sub> 증가를 차단. AICAR는 STO-609 후에도 작동 → **CAMKK가 AMPK의 상류** 확정 |
+| 대사 표현형 | — | Anderson 2008: 시상하부 CaMKK2가 에너지 균형 조절 |
+
+**따라서 현재 상태**: 섭식 회로에서 실제 직접 증거(약리 차단 + 유전 조작 + 대사 표현형)를 가진 효소는 **CaMKK2**이고, 그 자리는 [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서 **전시냅스**로 배정됐다. **CaMKII는 후시냅스 후보이되, AgRP 시냅스에서의 직접 증거는 본 위키 자료 범위에 없다** — 해마 LTP로부터의 유비다.
+
+> 논증 3이 성립하려면 **후시냅스 AMPK가 실제로 작동해야** 하는데, 바로 그 지점이 논쟁 중이다. [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]은 AgRP 뉴런 **내부로** AMPK 활성제·억제제를 투석해도 f<sub>mEPSC</sub>가 변하지 않는다고 보고했다(후시냅스 AMPK 무효). 반면 Grzelka가 ref 21로 인용한 **Kong 2016 *Neuron*의 제목 자체가 "A postsynaptic AMPK→p21-activated kinase pathway drives fasting-induced synaptic plasticity in AgRP neurons"** 다. 즉 **AMPK의 구획조차 미해결**이며, CaMKII→AMPK 논증은 그 미해결 위에 얹혀 있다. (Kong 2016 원본 미확보 — 위 "4개의 축" 표의 경고 참조.)
+
+### 구별 실험 설계 (위키가 제안하는 것)
+1. **구획 검증**: Yang 2011이 AMPK에 쓴 방법을 그대로 이식 — 기록 중인 AgRP 뉴런 **내부로** CaMKII 억제제를 투석. 후시냅스·CaMKII 의존이라면 증폭이 차단돼야 하고, Yang의 AMPK 음성 대조와 직접 비교된다.
+2. **Occlusion/epistasis**: Yang 2011의 논리(STO-609 후에도 AICAR가 작동 → CAMKK가 AMPK 상류)를 CaMKII에 적용. CaMKII 억제 후 AMPK 활성제가 증폭을 구제하면 CaMKII는 AMPK 상류, 구제하지 못하면 별도 경로.
+3. **효소 분리**: STO-609(CaMKK)와 CaMKII 선택적 억제를 **같은 실험에서 나란히** 적용. 현재 문헌이 두 효소를 섞어 쓰고 있으므로 이 대조가 없으면 결론이 갈리지 않는다.
+4. **도구는 이미 있다**: Grzelka 저자들이 명시하듯, `Trh-p2a-Dre` × `Agrp-ires-Cre` **교차 recombinase** 접근이 "이 분자 기전을 경로 특이적으로 심문할 선택적 수단"을 제공한다. 상류 PVH^TRH 활성화와 하류 AgRP 분자 조작을 한 동물에서 결합할 수 있다.
 
 ## 열려 있는 질문
 - 두 축(ghrelin–AMPK / 활성–NMDAR)이 **같은 시냅스에서 어떻게 상호작용**하는가. Grzelka는 하류 분자로 CaMKII·AMPK를 추정만 했다.

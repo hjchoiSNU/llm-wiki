@@ -84,3 +84,4 @@ year: 2011
 - [[betley-2013-parallel-redundant-circuit-organization-for]] · [[xu-2020-behavioral-state-coding-by]] — 같은 lab의 AgRP 출력 배선·PVH 상태 부호화.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(항상성 제어의 set point vs set range).
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **본 논문의 전시냅스 해석을 명시적으로 기각하는 후속**(Lowell lab, Neuron 2012). 같은 관찰(mEPSC 빈도 2배·진폭 불변)을 **후시냅스 시냅스 수 증가**로 읽으며 세 근거를 든다: 단식이 PPR을 바꾸지 않음(fed 0.67 vs fasted 0.66, 표준 조건), 후시냅스 NMDAR 삭제 시 빈도 증가 소실, 단식이 가시를 **67% 증가**시킴. 단 Liu도 전시냅스 기전을 배제하지 않으며 두 기전의 공존 가능성을 인정한다. 상세 대조표는 [[concept-agrp-synaptic-plasticity]]의 "미해결 쟁점" 절.
+- [[concept-hypothalamic-ampk]] "상류 키나아제" 절 — 본 논문의 **STO-609 실험**(CaMKK 억제가 ghrelin 효과를 차단하되 AICAR는 여전히 작동 → CaMKK가 AMPK 상류)이 AgRP 시냅스에서 **CaMKK2**의 직접 증거로 정리된 자리. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]이 후시냅스 후보로 든 CaMKII와 혼동하지 말 것.

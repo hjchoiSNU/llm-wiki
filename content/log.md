@@ -8,6 +8,21 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-11 (3) — query (후시냅스 가소성에서 CaMKII가 핵심 효소일 것이라는 논리)
+
+질의: 후시냅스 기전의 시냅스 가소성에서 CaMKII가 중요한 효소 역할을 할 것이라는 논리들. 위키에 CaMKII는 [[concept-agrp-synaptic-plasticity]]·[[concept-hypothalamic-ampk]]의 한 줄 추정으로만 있어, 규칙 §2(a)에 따라 `raw/`의 [[grzelka-2023-a-synaptic-amplifier-of-hunger]] Discussion(Cell Metab 781)과 참고문헌 65–70, [[yang-2011-hunger-states-switch-a-flip-flop]]의 STO-609 실험을 재독해 보강 후 답변.
+
+**★ 발견 — Grzelka 논의의 인용 불일치**: 저자들이 CaMKII 후보 논거로 든 4갈래 중 뒤 2갈래(CaMKII→AMPK 활성화 / 유전삭제·약리억제의 AgRP·체중 표현형)의 인용이 실제로는 **CaMKK2(CaMKKβ) 논문**이다 — ref 69 = Hawley 2005 *Cell Metab*("Calmodulin-dependent protein kinase kinase-**beta** is an alternative upstream kinase for AMPK"), ref 70 = Anderson 2008 *Cell Metab*("Hypothalamic **CaMKK2** contributes to the regulation of energy balance"). **CaMKII와 CaMKK2는 다른 효소**이며, 섭식 회로에서 약리(STO-609)·유전·대사 표현형의 직접 증거를 가진 쪽은 CaMKK2이고 그 자리는 [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서 **전시냅스**로 배정됐다.
+
+**갱신 5**
+- [[concept-agrp-synaptic-plasticity]] — ★ **"분자 실행자는 누구인가 — CaMKII 후보 논리와 그 균열"** 절 신설. 논증 4갈래 분해(① NMDAR→Ca²⁺ 구조적 제약 ② LTP 유지 국면 귀속, 인용 4편 Tao 2021·Incontro 2018·Herring&Nicoll 2016·Lledo 1995 ③ CaMKII→AMPK ⚠️ ④ 대사 표현형 ⚠️), CaMKII vs CaMKK2 대조표, 구별 실험 설계 4가지. Kong 2016 완전 서지 추가(Neuron 91:25–33) — 제목의 "postsynaptic AMPK"가 Yang 2011의 후시냅스 AMPK 음성 결과와 충돌하므로 논증 3 판정에 필수.
+- [[concept-hypothalamic-ampk]] — **"상류 키나아제 — CaMKK2"** 절 신설(Hawley 2005 AMPK 직접 상류, Yang 2011의 STO-609 occlusion, Anderson 2008 대사 표현형, CaMKII 혼동 경고).
+- [[grzelka-2023-a-synaptic-amplifier-of-hunger]] · [[yang-2011-hunger-states-switch-a-flip-flop]] · [[liu-2012-fasting-activation-of-agrp-neurons]] — 위 두 절로 상호 링크.
+
+**답변 요지**: 논증 ①②는 유효(상류가 NMDAR이므로 하류는 후시냅스 Ca²⁺ 의존 키나아제여야 하고, 설명 대상이 "유지"이므로 LTP 분야 귀속상 CaMKII가 1순위 후보). 논증 ③④는 인용이 CaMKK2라 **CaMKII를 섭식 회로 효소로 만들어 주지 못한다**. 현재 상태 = CaMKII는 **해마 LTP로부터의 유비**이며 AgRP 시냅스 직접 증거는 위키 자료 범위에 없음. 판정하려면 후시냅스 투석·occlusion·두 효소 나란히 억제·교차 recombinase 4설계가 필요.
+
+**새 페이지 없음.**
+
 ## 2026-09-11 (2) — ingest (Liu 2012 · Cunningham & Maze 2026)
 
 `raw/`에 새로 들어온 2편 정리. 한 편은 **직전 ingest에서 gap으로 기록해 둔 바로 그 논문**이다.
