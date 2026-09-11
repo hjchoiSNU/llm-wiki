@@ -2,7 +2,7 @@
 title: "Dopamine drives persistent remodelling of the maternal brain (O'Chan et al. 2026, Nature)"
 type: paper
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-11
 source: "raw/2026 Nature. Dopamine drives persistent remodelling of the maternal brain.pdf"
 authors: [O'Chan JC, Di Salvo G, Cunningham AM, Dutta S, Brindley E, Weekley BH, Chen W, Iyer RR, Wan E, Zhang C, Mechawar N, Turecki G, Maze I]
 year: 2026
@@ -111,3 +111,6 @@ pmid: 42162419
 - [[concept-medial-preoptic-area]] — RE 고민감 부위 중 하나이자 모성 행동의 핵심 노드.
 - [[concept-nucleus-accumbens]] — RE 고민감 부위이자 새끼 분리 시 도파민 상승이 가장 큰 곳.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — 도파민 프레임 재검토 논의; 비-보상 작용 축 확장의 맥락.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 같은 Maze lab의 **리뷰 짝**(NRN 2026). 본 논문 공저자 Ashley M. Cunningham이 제1저자다. 본 논문의 H3 dopaminylation을 ELS 후성유전 전체 지형 안에 배치하되, **ELS 맥락에서의 도파민화 기능은 미확정**으로 남긴다.
+- [[person-maze-ian]] — 교신저자 인물 hub.
+- [[concept-glia-stress-plasticity]] · [[concept-peripheral-epigenetic-biomarker]] — 위 리뷰가 정리한 두 인접 축.

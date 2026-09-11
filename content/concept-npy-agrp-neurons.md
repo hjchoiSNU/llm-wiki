@@ -166,3 +166,4 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[concept-circuit-bistability-hysteresis]] — 상태가 래치되는 회로 논리(set point vs set range).
 - [[concept-weight-regain-defended-adiposity]] — 그 가소성의 임상 표현형(다이어트·약물 중단 후 재증가).
 - [[person-sternson-scott]] · [[person-fenselau-henning]] — 위 두 논문의 교신 그룹.
+- [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **AgRP는 수상돌기 가시가 풍부하고 POMC는 사실상 없다**는 구조적 비대칭을 확립. 24시간 단식이 가시를 **67% 증가**시키고, AgRP에서만 `Grin1`(NMDAR)을 지우면 **단식 반응 전체**(가시형성·EPSC 빈도·탈분극·발화·c-Fos·`Agrp`/`Npy` mRNA)가 사라지며 저체중·저지방·저섭취·RER 감소가 나타난다. POMC에서 지우면 대사 표현형 없음 (Neuron 2012, Lowell lab).

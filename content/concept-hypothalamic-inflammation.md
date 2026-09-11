@@ -2,7 +2,7 @@
 title: Hypothalamic inflammation (microinflammation)
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-11
 aliases: [hypothalamic microinflammation, neuroinflammation hypothalamic, hypothalamic gliosis]
 ---
 
@@ -63,3 +63,5 @@ aliases: [hypothalamic microinflammation, neuroinflammation hypothalamic, hypoth
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — gut-driven.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-glia-stress-plasticity]] — **같은 세포의 다른 얼굴**. 본 페이지가 미세아교세포를 *염증* 프레임으로 다룬다면, 저쪽은 **시냅스 가지치기·수초화·성상교세포 Ca²⁺** 프레임이다. ELS 연구에서는 미세아교세포를 화학유전으로 **활성화**하는 것이 오히려 회로·행동을 구제한다 — 활성화=해롭다는 단순 도식이 성립하지 않는 사례.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 1차 출처(NRN 2026). LBN이 PVN에서 CRH 뉴런 주위 미세아교세포의 시냅스 포식을 감소시킨다는 시상하부 사례 포함.

@@ -8,6 +8,30 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-11 (2) — ingest (Liu 2012 · Cunningham & Maze 2026)
+
+`raw/`에 새로 들어온 2편 정리. 한 편은 **직전 ingest에서 gap으로 기록해 둔 바로 그 논문**이다.
+
+**새 페이지 5**
+- 논문 2: [[liu-2012-fasting-activation-of-agrp-neurons]](Neuron 2012, Lowell lab) · [[cunningham-2026-early-life-experiences-the-neural]](Nat Rev Neurosci 2026, Maze lab)
+- 개념 2: [[concept-glia-stress-plasticity]](미세아교세포 가지치기·수초 가소성·성상교세포 Ca²⁺ + bulk 프로파일링 함정) · [[concept-peripheral-epigenetic-biomarker]](말초 메틸화 표지의 해석 규칙 5가지)
+- 인물 1: [[person-maze-ian]]
+
+### ★ 모순 발견 — AgRP 시냅스 변화의 자리
+[[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]가 [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]의 **전시냅스 해석을 명시적으로 기각**한다. 같은 관찰(단식 → mEPSC 빈도 2배·진폭 불변)을 Yang은 전시냅스 방출 증가로, Liu는 후시냅스 시냅스 수 증가로 읽는다. Liu의 세 근거: 단식이 PPR을 바꾸지 않음(fed 0.67 vs fasted 0.66), 후시냅스 `Grin1` 삭제 시 빈도 증가 소실, 가시 **+67%** 동반.
+
+[[concept-agrp-synaptic-plasticity]]에 **"미해결 쟁점 — 전시냅스인가 후시냅스인가"** 절을 신설해 대조표·위키 판단·인용 규칙을 명시했다. 위키 판단은 **배타적이지 않다** — 시간척도(분 단위 약리 vs 24시간 구조)와 측정 조건(0.5 mM vs 2 mM Ca²⁺)이 다르고, [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]이 같은 자리에서 "가시 수인지 방출 부위인지 구분 못 한다"고 한계를 인정한다. **인용 규칙: 한쪽만 들어 단정하지 않는다.**
+
+**갱신 17**: [[concept-agrp-synaptic-plasticity]](Liu를 2차 인용→**1차 출처로 승격**, 모순 절 신설, 미결 질문에 "시냅스를 누가 제거하는가" 추가) · [[yang-2011-hunger-states-switch-a-flip-flop]] · [[grzelka-2023-a-synaptic-amplifier-of-hunger]] · [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]](가소성 축에서의 POMC 비대칭: aspiny·NMDAR 삭제 무효) · [[person-lowell-bradford]] · [[person-sternson-scott]] · [[concept-early-life-adversity]] · [[concept-epigenetic-priming]] · [[concept-h3-dopaminylation]] · [[kim-2026-early-life-stress-alters-h3k4me1]] · [[ochan-2026-dopamine-drives-persistent-remodelling-of]] · [[shin-2023-early-adversity-promotes-binge-like-eating]] · [[concept-hypothalamic-inflammation]] · [[concept-dopamine-reward-system]] · [[concept-astrocyte-neuron-lactate-shuttle]] · [[concept-medium-spiny-neuron]] · [[concept-tanycytes]] · [[concept-digital-therapeutics]] · [[concept-glp1ra-response-variability]] · [[index.md|wiki/index.md]].
+
+**핵심 함의 4**
+1. **AgRP vs POMC는 가소성에서 대칭이 아니다.** AgRP는 가시가 풍부, POMC는 사실상 aspiny이고 POMC NMDAR 삭제는 대사 표현형을 만들지 않는다. "길항 짝"이라는 통념이 적용되지 않는 축.
+2. **부위특이 NMDA 길항의 최초 근거가 2012년에 이미 있었다.** AgRP `Grin1` 결손 마우스의 저체중·저지방·RER 감소가 [[petersen-2026-the-evolving-landscape-of|Petersen 2026]]의 유지생물학 전략과 14년 간격으로 이어진다. → [[concept-weight-regain-defended-adiposity]]
+3. **글리아가 회로를 조각한다.** ELS에서 가장 깨끗한 인과 구제 실험이 미세아교세포·희소돌기아교세포 쪽에서 나온다. 위키의 [[concept-hypothalamic-inflammation|미세아교세포=염증]] 프레임에 **가지치기 프레임**을 병기했다. 파생 질문: 단식으로 생긴 AgRP 가시를 재급식 후 **누가 제거하는가** — 위키에 자료 없음.
+4. **말초 후성유전 표지는 뇌를 대리하지 못한다.** `GRIN2B`는 ELS가 있되 MDD로 진행하지 않은 군에서도 동일하게 변한다 = 노출의 표지이지 질환의 표지가 아니다. [[concept-digital-therapeutics|DTx]] 반응 예측 설계 시 넘으면 안 되는 선.
+
+**남은 gap**: Kong 2016 Neuron(후시냅스 AMPK–PAK) 원본이 여전히 `raw/`에 없어 [[concept-agrp-synaptic-plasticity]] 4축 중 1축이 2차 인용 상태. (Liu 2012는 이번에 해소.)
+
 ## 2026-09-11 — ingest (AgRP 시냅스 가소성 2편: Yang 2011 · Grzelka 2023)
 
 `raw/` 미정리분에서 **[[yang-2011-hunger-states-switch-a-flip-flop]]**(Cell 2011, Sternson lab)과 **[[grzelka-2023-a-synaptic-amplifier-of-hunger]]**(Cell Metab 2023, Fenselau·Lowell) 정리. 두 편이 위키에 없던 축 하나를 통째로 연다 — AgRP 회로의 **배선**(누가 누구에게)·**부호화**(무엇에 반응)에 이어 **시냅스 강도(gain)** 축.

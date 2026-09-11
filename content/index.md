@@ -175,6 +175,7 @@ _(섭식·동기 행동은 🍽️로)_
 #### 시냅스 가소성 — 배고픔 신호의 gain과 그 유지
 개념 hub: [[concept-agrp-synaptic-plasticity]] · [[concept-circuit-bistability-hysteresis]] · [[concept-weight-regain-defended-adiposity]].
 - ★ [[yang-2011-hunger-states-switch-a-flip-flop]] — **시냅스가 배고픔 상태를 기억한다**. 단식이 AgRP 흥분성 입력을 늘리고(POMC는 반대) 이는 **ghrelin→Ghsr1→CAMKK→AMPK→cADPR→RyR→Ca²⁺ 양성 되먹임**이 유지. ghrelin 5분 노출만으로 **3–5시간 지속**(hysteresis), 생체 내 재급식 24시간까지. **leptin은 직접 작용하지 않고 POMC 오피오이드(β-endorphin 추정)로 reset**(naltrexone 차단). 항상성을 **set point가 아닌 set range(SR flip-flop)** 로 재기술 (Cell 2011, Sternson lab).
+- ★ [[liu-2012-fasting-activation-of-agrp-neurons]] — **AgRP는 수상돌기 가시가 풍부하고 POMC는 사실상 없다**는 구조적 비대칭 확립. 24시간 단식이 가시를 **+67%**, AgRP에서만 `Grin1`(NMDAR)을 지우면 **단식 반응 전체**(가시형성·EPSC 빈도·탈분극·발화·c-Fos·`Agrp`/`Npy` mRNA)가 소실되고 저체중·저지방·저섭취·RER 감소. POMC 삭제는 무효. ★ **Yang 2011의 전시냅스 해석을 명시적으로 기각**(PPR 불변·후시냅스 NMDAR 필요·가시형성 동반) — 위키 내 대표 모순 사례 (Neuron 2012, Lowell lab).
 - ★ [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — **다이어트 후 체중 재증가의 회로 기질**. 체중 감소가 **PVH^TRH→AgRP 시냅스만 선택 증폭**(양자 빈도↑=전시냅스 방출 부위 수; DMH^Vglut2는 진폭↑=후시냅스). 상류 활성 의존(편측 자극→동측만)·**체중이 회복될 때까지 유지**·**NMDAR 의존**. 10분 광자극 또는 CNO **1회**로 수주 지속 체중 증가, **MK-801이 전부 차단**. AgRP 침묵·Vglut2 삭제로 소실 (Cell Metab 2023, Fenselau·Lowell).
 - [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 급성 스트레스가 인간 **BNST→NAc·OFC·dmINS** effective connectivity를 하향조절; BNST→OFC 강도가 주관적 스트레스 예측; 인간 7T fMRI+DCM gustometer (Nat Commun 2026, Steward·Brown lab).
 - [[gomez-valades-2026-glycogen-drives-the-sensory]] — POMC의 **sensory(sight/smell) 활성이 뉴런 국소 글리코겐(Gys1)을 연료**로 함(혈당·ghrelin 반응은 보존, AgRP는 비의존); 결손 시 cephalic-phase 인슐린·간 AKT-mTOR 손상→prediabetes→비만 (Nat Metab 2026, Claret lab).
@@ -267,6 +268,9 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-epigenetic-priming]] — 발달기 경험이 허용적 크로마틴(H3K4me1·SETD7)으로 저장돼 미래 자극 반응성을 증폭한다는 개념 hub; 히스톤 질량분석·epigenome editing 방법론 포함.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 모체 자신의 회로가 임신·출산·수유 호르몬으로 재편되는 축(자손 programming의 상류 조건). _(본문은 🧩에)_
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — ★ 모체 뇌 재편의 **분자 기전**: 산후 스트레스가 도파민 동역학을 바꿔 **H3 dopaminylation**(도파민 의존 히스톤 변형)을 통해 배측 해마 전사·행동을 지속 재편; 인간 subiculum에서 parity 의존 보존; 처녀 마우스 dHF 도파민 억제만으로 재현(충분성) (Nature 2026, Maze lab). _(도파민 축은 🎯에도)_
+- ★ [[cunningham-2026-early-life-experiences-the-neural]] — **ELS 후성유전 분야 종합**(NRN 2026, Maze lab). 위 세 편을 하나의 좌표계에 배치: DNA 메틸화(5mC/5hmC·non-CpG)·히스톤 PTM(H3K4me1·H3K79me2·H3K27me1·모노아민화)·ncRNA를 **세포타입·영역·발달단계별**로 정리. 종별 민감기 표(설치류 PND 2–20 / NHP 6개월 / 인간 0–18세), ACE 역학 30–60%, two-hit priming. **차별점 2가지** — ① 글리아가 주역(미세아교세포 가지치기·수초화·성상교세포 Ca²⁺, 화학유전 구제), ② 말초 표지의 한계를 명시(`GRIN2B`는 MDD 진행 여부와 무관). bulk 프로파일링이 세포 구성 변화를 후성유전 변화로 오독하는 함정 경고. 개념 [[concept-glia-stress-plasticity]]·[[concept-peripheral-epigenetic-biomarker]].
+- [[concept-glia-stress-plasticity]] — ELS·스트레스의 **비뉴런 기질** hub.
+- [[concept-peripheral-epigenetic-biomarker]] — 혈액·타액 메틸화 표지의 유효 범위와 해석 규칙 5가지.
 
 ## ⚡ 신경조절 치료 (Neuromodulation Therapy)
 
@@ -438,6 +442,8 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-taste-valence-coding]] · [[concept-conditioned-taste-aversion]] — 미각 valence·혐오 학습(food safety alarm)
 - [[concept-dynorphin-kappa-opioid]] — `Pdyn`/KOR hub. 시상하부(vDMH^LepR/pDYN→AgRP·LH orexin·PVH satiety)·D1 MSN·확장편도 스트레스 축에 흩어져 있던 dynorphin을 통합; 외측중격에서 **`Pdyn` 삭제만으로 맥락 조건화 섭식이 붕괴**(Goode 2026) — 마커가 아니라 계산에 필요한 펩티드
 - [[concept-emotional-eating]] · [[concept-early-life-adversity]] — 정서적 섭식·초기역경 발달 programming
+- [[concept-glia-stress-plasticity]] — **글리아가 회로를 조각한다**: 미세아교세포 시냅스 가지치기·희소돌기아교세포 수초 가소성·성상교세포 Ca²⁺. 화학유전 구제 실험으로 인과 확립. bulk 후성유전 결과를 오염시키는 세포 구성 문제도 여기
+- [[concept-peripheral-epigenetic-biomarker]] — 혈액·타액 메틸화(`NR3C1`·`BDNF`·`SLC6A4`·`GRIN2B`·`PXDN`)의 **경계선**: 위험 층화에는 유효, 뇌 상태 대리에는 무효. 노출의 표지 ≠ 질환의 표지
 - [[concept-epigenetic-priming]] — 허용적 크로마틴(H3K4me1·SETD7)이 미래 자극 반응성을 증폭; 잠재 취약성의 분자 저장 기전
 - [[concept-h3-dopaminylation]] — 도파민·세로토닌이 **TG2를 통해 히스톤 H3Q5에 공유결합**(H3K4me3와 공존); 도파민 작용의 제3의 층(주–개월 시간척도). H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 도구
 - [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]]
@@ -506,6 +512,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-baker-david]] — de novo 단백질 설계(RFdiffusion·ProteinMPNN); GPCR 리간드 설계. UW / IPD(노벨화학상 2024).
 - [[person-sternson-scott]] — 시상하부 섭식 회로를 **공학적 논리**로 기술(AgRP 시냅스 SR flip-flop·출력의 병렬 중복·PVH 앙상블 부호·CaRMA). Janelia/HHMI → UCSD.
 - [[person-fenselau-henning]] — 에너지 항상성 회로의 **시냅스 전달·가소성**. PVH^TRH→AgRP 배고픔 증폭기와 체중 재증가. Max Planck Cologne (Lowell lab 출신).
+- [[person-maze-ian]] — 신경후성유전학. **히스톤 monoaminylation**(도파민화·세로토닌화) 발견·확립; 경험이 크로마틴에 각인돼 개월 단위로 행동을 유지하는 기전. Mount Sinai / HHMI.
 
 ## 🌐 종합/리뷰 (Overviews)
 

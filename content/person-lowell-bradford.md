@@ -34,3 +34,4 @@ aliases: [Bradford Lowell, Brad Lowell, B.B. Lowell]
 - [[person-fenselau-henning]] — 출신 lab 멤버, Grzelka 2023 공동교신. 시냅스 전달·가소성 축.
 - [[person-sternson-scott]] — 같은 AgRP 회로를 공학적 논리로 기술한 병렬 그룹(flip-flop·병렬 중복·앙상블 부호).
 - [[concept-agrp-synaptic-plasticity]] · [[concept-weight-regain-defended-adiposity]] — 본 그룹 작업이 수렴하는 개념 hub 2종.
+- [[liu-2012-fasting-activation-of-agrp-neurons]] (Neuron 2012, 교신; Sabatini lab 공동) — 본 그룹 가소성 노선의 **출발점**. AgRP NMDAR이 단식 반응 전체를 매개하고 가시형성이 동반됨을 확립. [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]](Sternson)의 전시냅스 해석과 정면으로 갈리는 지점이기도 하다.

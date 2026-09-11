@@ -92,3 +92,4 @@ year: 2023
 - [[kim-2024-normative-framework-dissociates-need]] · [[concept-need-motivation-pleasure-utility]] — Need의 **gain을 설정하는 가소성 층**.
 - [[person-fenselau-henning]] · [[person-lowell-bradford]] — 교신저자 인물 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(체중 유지 실패의 회로 설명).
+- [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **본 논문 NMDAR 축의 직접 선행**(같은 Lowell lab, Neuron 2012). AgRP `Grin1` 삭제가 단식 반응 전체(가시형성·EPSC 빈도·발화·`Agrp`/`Npy` mRNA)를 없앤다. 본 논문이 "양자 빈도 증가가 가시 수 증가인지 방출 부위 증가인지 구분 못 한다"고 남긴 한계는, Liu의 **가시 +67%** 관찰과 같은 자리를 가리킨다.

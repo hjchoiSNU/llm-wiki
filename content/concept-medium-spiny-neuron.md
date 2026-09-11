@@ -2,7 +2,7 @@
 title: Medium spiny neuron (MSN) — D1/D2, direct/indirect pathway
 type: concept
 created: 2026-07-04
-updated: 2026-09-07
+updated: 2026-09-11
 aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pathway]
 ---
 
@@ -39,3 +39,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **D1/D2-MSN 분업이 중독의 두 축에 대응**: D1R-MSN=양성강화(중뇌 GABA 되먹임·locomotor sensitization·cue 추구, 만성 노출 후 투사 강화), D2R-MSN=음성강화(BLA CCK⁺·PVT 입력, VP 투사 presynaptic depression=[[concept-anhedonia|anhedonia]], BLA 입력 강화=incubation of craving). 둘의 수렴점이 [[concept-ventral-pallidum|VP]]. OFC→DST potentiation은 예외적으로 **양 SPN 계열에서 동시에** 일어난다 (Annu Rev Neurosci 2021).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — D2R-Penk MSN = **2-AG 생산 세포**; D1R⁻ 시냅스에서 DSE·tonic eCB가 흥분성 편향을 형성 (Nature 2026).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — 추적 문헌 일반 원칙의 참조점: 같은 구조 안의 **비중첩 세포타입이 유사한 입력 패턴**을 갖는 사례로 선조체 **D1 vs D2 MSN**이 인용된다. 즉 '입력 지형이 비슷하다'는 결과는 두 집단이 기능적으로 같음을 뜻하지 않는다 (Front Neuroanat 2015 Discussion).
+- [[cunningham-2026-early-life-experiences-the-neural]] — **D1 vs D2 MSN의 스트레스 분업**: D1 MSN 활성화는 만성 스트레스 **회복력**, D2 MSN 활성화는 **취약성**을 촉진. 초기역경에서 NAc **H3K79me2** 변화와 DOT1L·KDM2B 발현 변화가 **Drd2⁺ 세포에 특이적**으로 일어나며, Drd2-MSN에서 Dot1l을 넉다운하면 취약성이 되돌아가고 과발현하면 표현형이 재현된다 (NRN 2026, Maze lab).

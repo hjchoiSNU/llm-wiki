@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-09-02
+updated: 2026-09-11
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -190,3 +190,5 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 비만의 **도파민 저하에 대한 상류 원인**: 만성 HFD가 lateral NAc→VTA 뉴런의 *Nts* 발현·NTS 방출을 낮춰 NTSR1 매개 도파민 뉴런 흥분이 실패. 수용체는 온전한 **presynaptic 병변**이며, NTS 과발현으로 hedonic feeding·체중·활동성이 함께 정상화 (Nature 2025, Lammel lab). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].
 - [[luscher-2021-consolidating-the-circuit-model-for]] — 중독성 약물의 **약리적 공통분모=NAc 도파민 상승**과 그 결과: 자연 보상의 도파민은 예측되면 감쇠하지만 약물 도파민은 **지속** → 반복되는 **비정상 RPE 교사신호**가 cue·행동을 과대평가. VTA disinhibition motif(GABA 뉴런 억제→DA 활성)가 오피오이드 강화의 회로 문법 (Annu Rev Neurosci 2021). 개념 [[concept-drug-evoked-synaptic-plasticity]] · [[concept-compulsion]].
 - [[concept-lateral-habenula]] — 도파민을 **끄는** 상류 축(MRR→LHb→RMTg→VTA); negative RPE를 도파민 dip이 담당하지 않을 가능성의 유력 후보.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 초기역경이 중변연계(VTA·NAc·PFC)를 재편하는 후성유전 경로 종합. NAc **Drd2⁺ MSN 특이 H3K79me2·DOT1L/KDM2B**가 취약성을 양방향으로 좌우(Dot1l 넉다운·약리 억제가 취약성을 되돌리고, 과발현이 재현). PFC→VTA 투사 과흥분성이 노출 직후 나타나 중변연계 취약성을 prime (NRN 2026, Maze lab).
+- [[person-maze-ian]] — 도파민의 **후성유전 작용 축**(개월 시간척도)을 연 그룹.

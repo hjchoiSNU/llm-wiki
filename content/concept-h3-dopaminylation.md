@@ -2,7 +2,7 @@
 title: H3 dopaminylation (히스톤 도파민화) — 모노아민의 후성유전 작용
 type: concept
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-11
 aliases: [H3 dopaminylation, H3Q5dop, H3K4me3Q5dop, histone dopaminylation, monoaminylation, 히스톤 도파민화, 세로토닌화, H3 serotonylation, TG2, transglutaminase 2]
 ---
 
@@ -58,3 +58,5 @@ aliases: [H3 dopaminylation, H3Q5dop, H3K4me3Q5dop, histone dopaminylation, mono
 - [[concept-early-life-adversity]] — 경험이 남기는 지속 취약성의 행동·회로 층.
 - [[concept-maternal-programming-hypothalamus]] — 세대 간 프로그래밍 축.
 - [[concept-cis-regulatory-element-obesity]] — 크로마틴 상태를 **유전 변이** 쪽에서 읽는 상보적 축.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 같은 lab의 **분야 종합**. 모노아민화를 히스톤 PTM 목록에 정식 배치(H3Q5ser·H3Q5dop·H3Q5his, 신규 H4Q27dop). ELS 맥락에서는 MS(PND 5–10) 랫트 PFC·NAc에서 **H3Q5dop 상승**이 보고됐으나 **기능적 의의는 아직 미확정**이라고 명시 (NRN 2026).
+- [[person-maze-ian]] — 본 개념을 확립한 그룹의 인물 hub.

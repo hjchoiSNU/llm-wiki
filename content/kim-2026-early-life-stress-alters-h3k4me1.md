@@ -2,7 +2,7 @@
 title: Early-life stress alters H3K4me1 in VTA to prime stress sensitivity (Kim 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-08-19
+updated: 2026-09-11
 source: raw/2026 Neuron. Early-life stress alters H3K4me1 in VTA to prime stress sensitivity.pdf
 authors: [Hye Ji J. Kim, Luke T. Geiger, Julie-Anne Balouek, Lisa Z. Fang, Mason R. Barrett, Ian Maze, Meaghan C. Creed, Catherine Jensen Peña]
 year: 2026
@@ -87,3 +87,5 @@ doi: 10.1016/j.neuron.2026.07.018
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 발달·경험이 회로를 재구성한다는 같은 논지의 다른 사례(양육 회로; microglia 매개 pruning·사춘기 재편·감작).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 자매 사례. 본 논문 ELS→VTA `H3K4me1`/SETD7 vs 산후 스트레스→dHF **H3 dopaminylation**. 둘 다 도파민 회로가 무대이고 "경험→히스톤→지속 행동" 문법을 공유 (Nature 2026).
 - [[concept-h3-dopaminylation]] — 자매 변형의 개념 hub. 여기서는 H3K4me1/SETD7, 저쪽은 TG2 매개 H3Q5 모노아민화.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 본 논문을 포함한 ELS 후성유전 분야의 **상위 종합**(NRN 2026). 공저자 Ian Maze가 교신. 본 논문의 H3K4me1/SETD7 축을 H3K79me2·DOT1L, H3K27me1, 모노아민화와 나란히 배치하고, 글리아·말초 표지·bulk 프로파일링 한계를 추가.
+- [[person-maze-ian]] — 본 논문 공저자의 인물 hub.

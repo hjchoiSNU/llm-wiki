@@ -2,7 +2,7 @@
 title: Tanycytes
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-11
 aliases: [tanycyte, hypothalamic tanycytes]
 ---
 
@@ -45,3 +45,4 @@ aliases: [tanycyte, hypothalamic tanycytes]
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — Nogueiras·Prévot 기여.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab 뇌 GLP-1R 리뷰; tanycyte·BBB가 말초 GLP-1RA의 중추 접근 경로임을 정리 (APEM 2025).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-glia-stress-plasticity]] — 비뉴런 세포가 회로를 조각하는 더 넓은 틀(미세아교세포 가지치기·희소돌기아교세포 수초화·성상교세포 Ca²⁺). tanycyte는 그중 시상하부에서 가장 정교하게 정리된 사례.

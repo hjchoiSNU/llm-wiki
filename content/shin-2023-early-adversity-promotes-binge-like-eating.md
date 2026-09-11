@@ -2,7 +2,7 @@
 title: "Early adversity promotes binge-like eating habits by remodeling a leptin-responsive lateral hypothalamus–brainstem pathway (Shin & Lim 2023)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-11
 source: "raw/2023 Nature Neuroscience. Early adversity promotes binge-like eating habits by remodeling a leptin-responsive lateral hypothalamus–brainstem pathway.pdf"
 authors: [Shin S, You IJ, Jeong M, Bae Y, Wang XY, Cawley ML, Han A, Lim BK]
 year: 2023
@@ -35,3 +35,5 @@ year: 2023
 - [[concept-emotional-eating]] — 스트레스·정서 유발 섭식과 회로 접점.
 - [[concept-food-addiction]] — vlPAG^Penk opioidergic·palatable overconsumption 접점.
 - [[concept-dorsal-vagal-complex]] — "brainstem" 용어 혼동 방지(회로는 중뇌 vlPAG).
+- [[cunningham-2026-early-life-experiences-the-neural]] — ELS 후성유전 분야 종합(NRN 2026). 본 논문의 시상하부 회로 소견과 같은 방향으로 **ELS에서 시상하부 흥분성 시냅스·자발 EPSC가 증가**한다고 정리하며, 회로 수준 인과 증거가 여전히 희박함(BLA→NAc 사례가 사실상 유일)을 지적한다.
+- [[concept-glia-stress-plasticity]] — ELS가 회로를 바꾸는 비뉴런 경로(가지치기·수초).

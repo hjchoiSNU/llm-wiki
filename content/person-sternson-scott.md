@@ -35,3 +35,4 @@ aliases: [Scott Sternson, S.M. Sternson]
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — 사용자 lab의 계산 수준 이론이 이 어법을 공유.
 - [[concept-monosynaptic-rabies-tracing]] — Betley 2013의 방법론 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[liu-2012-fasting-activation-of-agrp-neurons]] — Lowell lab이 Yang 2011의 **전시냅스 해석을 기각**한 논문. 두 그룹이 같은 현상을 다르게 읽는 위키 내 대표 사례.

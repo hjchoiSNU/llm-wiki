@@ -23,11 +23,33 @@ AgRP 회로 연구의 대부분은 **누가 누구에게 투사하는가**(배�
 | 축 | 위치 | 유도 신호 | 분자 | 1차 출처 |
 |---|---|---|---|---|
 | **전시냅스 AMPK 되먹임** | 말단 | **ghrelin**(호르몬) | Ghsr1→CAMKK→**AMPK**→cADPR→RyR→Ca²⁺ | [[yang-2011-hunger-states-switch-a-flip-flop\|Yang 2011]] |
-| **후시냅스 NMDAR·spinogenesis** | 가시 | 단식 | **NMDAR**, 가시 수 증가 | Liu 2012 Neuron (Lowell lab) |
+| **후시냅스 NMDAR·spinogenesis** | 가시 | 단식 | **NMDAR**, 가시 수 **+67%** | [[liu-2012-fasting-activation-of-agrp-neurons\|Liu 2012]] |
 | **후시냅스 AMPK–PAK** | 가시 | 단식 | AMPK→p21-activated kinase | Kong 2016 Neuron (Lowell lab) |
 | **입력 특이적 활성 의존 증폭** | PVH^TRH 말단 | **상류 뉴런 활성**(호르몬 비의존) | **NMDAR** 의존, 방출 부위 수↑ | [[grzelka-2023-a-synaptic-amplifier-of-hunger\|Grzelka 2023]] |
 
-> ⚠️ Liu 2012·Kong 2016은 위 두 1차 논문이 **인용한 문헌**이며 본 위키에 원본 페이지가 아직 없다. 수치·세부 주장을 인용하려면 원본 확보가 필요하다.
+> ⚠️ Kong 2016은 위 논문들이 **인용한 문헌**이며 본 위키에 원본 페이지가 아직 없다. 수치·세부 주장을 인용하려면 원본 확보가 필요하다. (Liu 2012는 2026-09-11 원본 확보 완료.)
+
+## ★★ 미해결 쟁점 — 전시냅스인가 후시냅스인가
+
+세 논문이 **같은 관찰**을 보고한다: 단식이 AgRP의 AMPAR-매개 EPSC **빈도를 약 2배** 올리고 **진폭은 바꾸지 않는다**. 해석이 갈린다.
+
+| | [[yang-2011-hunger-states-switch-a-flip-flop\|Yang 2011]] (Sternson) | [[liu-2012-fasting-activation-of-agrp-neurons\|Liu 2012]] (Lowell) |
+|---|---|---|
+| **결론** | 전시냅스 **방출 증가** | 후시냅스 **시냅스 수 증가** |
+| 기전 | ghrelin→Ghsr1→AMPK 되먹임 | 단식→NMDAR→가시형성 |
+| PPR | 0.5 mM Ca²⁺에서 ghrelin이 **감소**시킴 (2 mM에선 불변) | 단식으로 **불변** (fed 0.67 vs fasted 0.66) |
+| 결정 실험 | AgRP 세포 **내부** AMPK 조작은 무효 → 전시냅스 | 후시냅스 **NMDAR 삭제**로 빈도 증가 소실 → 후시냅스 |
+| 구조 근거 | — | 가시 **+67%**, 재급식 시간 경과가 EPSC와 일치 |
+
+Liu는 전시냅스 설명을 **명시적으로 기각**한다(PPR 불변 · 후시냅스 NMDAR 필요 · 가시형성 동반의 세 근거). 다만 배제할 수는 없으며 **두 기전이 동시에 작동할 수 있다**고 덧붙인다.
+
+**위키의 판단**: 배타적이지 않을 가능성이 높다.
+- **시간척도가 다르다** — Yang의 ghrelin 효과는 **분 단위 약리**(절편 5분 노출), Liu의 가시형성은 **24시간 구조 변화**.
+- **측정 조건이 다르다** — Yang이 PPR 감소를 본 것은 방출확률 천장을 낮춘 **0.5 mM Ca²⁺**에서였고, 생리적 2 mM에서는 Yang도 PPR 불변을 보고했다. Liu의 측정은 표준 조건이다. **같은 지표의 다른 조건**이므로 직접 충돌이 아니다.
+- **Grzelka가 같은 자리에 선다** — [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]은 PPR·CV·AMPA/NMDA 비가 모두 불변인 채 양자 빈도만 오르는 것을 **"기능적 방출 부위 수 증가"** 로 읽으면서, **그것이 가시 수 증가인지 방출 부위 증가인지 구분할 수 없다**고 한계를 명시한다.
+- **아직 아무도 하지 않은 실험**: 같은 동물에서 가시 수와 PPR·양자 빈도를 **동시에** 측정하고, 전시냅스 AMPK와 후시냅스 NMDAR을 **교차로** 차단하는 설계.
+
+> **인용 규칙**: "단식이 AgRP 흥분성 입력을 늘린다"까지는 3편 합의. **그 변화의 자리가 전인지 후인지는 미해결**로 쓸 것. 한쪽만 인용해 단정하지 않는다.
 
 ## 핵심 원리 5가지
 
@@ -58,7 +80,8 @@ AgRP 회로 연구의 대부분은 **누가 누구에게 투사하는가**(배�
 
 ## 열려 있는 질문
 - 두 축(ghrelin–AMPK / 활성–NMDAR)이 **같은 시냅스에서 어떻게 상호작용**하는가. Grzelka는 하류 분자로 CaMKII·AMPK를 추정만 했다.
-- 빈도 증가가 **가시 수 증가인지 방출 부위 증가인지** 미해결(Grzelka 저자 명시).
+- 빈도 증가가 **가시 수 증가인지 방출 부위 증가인지** 미해결(Grzelka 저자 명시). → 위 "미해결 쟁점" 절.
+- **새로 생긴 시냅스를 나중에 누가 제거하는가**. [[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]에서 가시는 재급식 3일 내에 기저로 돌아간다. 다른 회로에서 그 일을 하는 것은 미세아교세포지만, 시상하부 섭식 회로에서는 **위키에 자료 없음**. → [[concept-glia-stress-plasticity]]
 - **인간에서 측정 가능한가** — 현재로선 불가. 대리 지표(다이어트 후 식욕 항진의 시간 경과, GLP-1RA 중단 후 rebound 속도)로만 접근.
 - 억제성 입력([[garfield-2016-dynamic-gabaergic-afferent-modulation|vDMH^LepR]]·[[kim-2024-glp-1-increases-preingestive-satiation|DMH^GLP-1R]])에도 대응하는 가소성이 있는가 — **미탐색 영역**이며 사용자 lab의 GLP-1R 회로 전문성과 정확히 겹친다.
 
@@ -78,3 +101,5 @@ AgRP 회로 연구의 대부분은 **누가 누구에게 투사하는가**(배�
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — Need 신호의 **gain·시간 상수**.
 - [[person-sternson-scott]] · [[person-fenselau-henning]] · [[person-lowell-bradford]] — 이 분야를 만든 세 그룹.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[liu-2012-fasting-activation-of-agrp-neurons]] — 후시냅스 **NMDAR·spinogenesis** 축의 1차 출처. AgRP는 가시가 풍부하고 POMC는 사실상 없다는 구조적 비대칭, 단식 가시 +67%, `Grin1` 삭제 시 단식 반응 전체 소실 (Neuron 2012, Lowell lab).
+- [[concept-glia-stress-plasticity]] — 시냅스를 **제거하는** 쪽 기전(미세아교세포 가지치기). 본 페이지의 미결 질문 중 하나.

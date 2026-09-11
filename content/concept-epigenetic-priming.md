@@ -2,7 +2,7 @@
 title: Epigenetic priming (후성유전적 priming)
 type: concept
 created: 2026-08-15
-updated: 2026-09-02
+updated: 2026-09-11
 aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer, latent gene expression, 잠재 취약성]
 ---
 
@@ -61,3 +61,6 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 같은 문법의 다른 변형: 산후 스트레스 → **도파민 동역학 변화 → H3 dopaminylation** → dHF 전사·행동의 지속 재편 (Nature 2026, Maze lab).
 - [[concept-h3-dopaminylation]] — 같은 "경험→크로마틴" 문법의 다른 실행 단위: TG2가 히스톤 H3Q5에 모노아민을 공유결합. H3.3(Q5A) 우성음성으로 행동까지 되돌린 인과 사례.
 - [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **중독 취약성 개체차의 정면 사례**: 유전적으로 동질한 C57BL/6J에서도 인간과 유사한 비율만 강박이 되고, 유전 동일 마우스의 개체차는 시간에 따라 **증가**한다(Freund 2013). 저자들은 잔여 유전 분리·확률적 유전자 발현과 함께 **환경 미세차이에 의한 후성유전 drift**를 후보로 들며, compulsion 회로(OFC→DST) 뉴런의 후성유전 리모델링을 유력 기질로 지목.
+- [[cunningham-2026-early-life-experiences-the-neural]] — ★ 본 개념의 **분야 종합**(NRN 2026, Maze lab). two-hit 구조(ELS 단독보다 ELS+성체 스트레스에서 표현형이 훨씬 큼)를 여러 모델에서 확인하고, 실행 단위를 H3K4me1 외에 **H3K79me2·DOT1L/KDM2B**(NAc Drd2⁺ MSN 특이)·**H3K27me1 축적**으로 확장. Dot1l 넉다운·약리 억제가 ELS 취약성을 되돌린다는 인과 사례 포함.
+- [[concept-peripheral-epigenetic-biomarker]] — priming을 **말초에서 읽으려는 시도**의 한계선. `GRIN2B` 사례(ELS는 있으나 MDD로 진행하지 않은 군에서도 같은 변화)가 "노출의 표지 ≠ 질환의 표지"를 보여준다.
+- [[concept-glia-stress-plasticity]] — 크로마틴 저장과 나란히 가는 **세포 수준 저장**(가지치기·수초). bulk 프로파일링에서 둘이 섞이는 함정 포함.

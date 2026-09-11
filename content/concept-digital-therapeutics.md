@@ -2,7 +2,7 @@
 title: Digital therapeutics (DTx)
 type: concept
 created: 2026-05-31
-updated: 2026-08-19
+updated: 2026-09-11
 aliases: [DTx, digital therapeutics, 디지털 치료제]
 ---
 
@@ -48,3 +48,4 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[concept-inhibitory-control-demand]] — VR craving provocation·dlPFC 자극의 이론 근거(craving-비례 제어부하, trouble resisting).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glp1ra-response-variability]] — 약물 반응 이질성의 4층 분해; 미설명 분산 ~75%가 행동 표현형·DTx 층화의 기회 공간.
+- [[concept-peripheral-epigenetic-biomarker]] — 비침습 **반응 예측 바이오마커** 후보로 자주 거론되는 말초 메틸화 표지의 유효 범위와 한계. 현재 DTx 반응 예측을 주도하는 baseline 심리지표에 추가하려면 넘어야 할 조건을 정리.

@@ -128,3 +128,4 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[concept-monosynaptic-rabies-tracing]] — 위 지도가 나온 방법의 원리·대조군·해석 함정 hub.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ **POMC의 비정규 기능**: POMC 뉴런이 방출하는 **오피오이드(β-endorphin 추정)** 가 AgRP 흥분성 시냅스의 전시냅스 AMPK를 꺼서 배고픔 상태를 **reset**한다. leptin의 AgRP 시냅스 효과는 직접이 아니라 이 POMC 오피오이드 경유이며, 멜라노코르틴(MTII)으로는 재현되지 않고 **naltrexone으로 차단**된다. 또한 단식은 POMC 자신의 흥분성 입력을 **감소**시킨다(AgRP와 정반대 방향의 시냅스 가소성) (Cell 2011, Sternson lab).
 - [[concept-agrp-synaptic-plasticity]] — 위 reset 신호가 작동하는 시냅스 가소성 개념 hub.
+- [[liu-2012-fasting-activation-of-agrp-neurons]] — **가소성 축에서의 POMC 비대칭**: POMC 수상돌기는 사실상 **가시가 없고**(AgRP는 풍부), POMC에서 `Grin1`(NMDAR)을 삭제해도 체중·지방·섭취에 **아무 변화가 없다**. 단식 시 `Pomc` mRNA 감소도 POMC의 NMDAR과 무관. AgRP/POMC가 길항 짝이라는 통념에 "가소성에서는 대칭이 아니다"를 더한다 (Neuron 2012, Lowell lab).

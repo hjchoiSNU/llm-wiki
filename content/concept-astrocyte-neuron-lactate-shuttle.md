@@ -2,7 +2,7 @@
 title: 성상교세포-뉴런 젖산 셔틀 (Astrocyte-Neuron Lactate Shuttle, ANLS)
 type: concept
 created: 2026-07-10
-updated: 2026-08-19
+updated: 2026-09-11
 aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle, 성상교세포 젖산, H3K9la, 젖산화, lactylation]
 ---
 
@@ -48,3 +48,5 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 - [[concept-epigenetic-priming]] · [[kim-2026-early-life-stress-alters-h3k4me1]] — 같은 문법의 다른 입력: 여기서는 **대사(젖산)**가, 저기서는 **스트레스 경험**이 히스톤 코드를 써서 뉴런 반응성을 바꾼다(H3K9 젖산화 vs H3K4me1 priming).
 - [[concept-h3-dopaminylation]] — 대사·신호 분자가 히스톤에 직접 붙는 같은 문법의 자매 사례(H3K9 lactylation ↔ TG2 매개 H3Q5 dopaminylation).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 그 1차 출처 (Nature 2026).
+- [[concept-glia-stress-plasticity]] — 성상교세포의 **다른 축**: 대사 지원(젖산 셔틀)이 아니라 **Ca²⁺ 신호·GFAP**를 통한 스트레스 반응. 외측 편도체 성상교세포 Ca²⁺ 조작만으로 스트레스 유발 행동 결손이 구제된다.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 출처. **ELS 성상교세포의 후성유전체를 직접 본 연구는 아직 없다**는 공백도 명시 (NRN 2026).

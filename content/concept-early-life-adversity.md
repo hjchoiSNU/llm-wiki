@@ -2,7 +2,7 @@
 title: Early-life adversity (초기 역경) / 발달기 stress programming
 type: concept
 created: 2026-07-05
-updated: 2026-08-19
+updated: 2026-09-11
 aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분리, developmental programming]
 ---
 
@@ -45,3 +45,7 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 - [[concept-lateral-hypothalamus]] — LH^Lepr 회로 무대.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — **모체 쪽** 대응 사례: 산후 스트레스(모자 분리+limited nesting, 10–20 dpp)가 dHF 적응의 ~85%를 반대 방향으로 되돌리고 학습 이점을 소거 (Nature 2026).
 - [[concept-h3-dopaminylation]] — 스트레스가 남기는 크로마틴 흔적의 새 변형 축.
+- [[cunningham-2026-early-life-experiences-the-neural]] — ★ **본 hub의 분자층 전체 지도**(NRN 2026, Maze lab). DNA 메틸화·히스톤 PTM·ncRNA를 세포타입·뇌영역·발달단계별로 정리. 종별 민감기 표(설치류 PND 2–20 / NHP 생후 6개월 / 인간 0–18세), ACE 역학(아동 30–60%가 최소 1개), HPA축 둔화, **ELS 단독 < ELS + 성체 스트레스**의 two-hit 구조. 글리아와 말초 표지를 전면에 놓은 것이 이 리뷰의 차별점.
+- [[concept-glia-stress-plasticity]] — ELS 효과의 **비뉴런 기질**(미세아교세포 가지치기·수초화·성상교세포 Ca²⁺). 화학유전 구제 실험이 인과를 지지.
+- [[concept-peripheral-epigenetic-biomarker]] — 혈액·타액 표지(`NR3C1`·`BDNF`·`SLC6A4`·`GRIN2B`·`PXDN`)의 쓸 수 있는 범위와 한계.
+- [[person-maze-ian]] — 위 종합의 출처 그룹.
