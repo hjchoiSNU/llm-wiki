@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-14 (2) — query (wanting 정의 추가 + liking/wanting 압축본)
+
+직전 query 후속. ‘갈망(wanting)’을 같은 형식(한 문장 정의 → 정의 요소 → 조작적 정의 → 배제 조건 → 신경기반 → 압축본)으로 정의하고, ‘좋아함’·‘갈망’ 둘 다 단축. 근거: [[concept-liking-wanting]] · [[berridge-2009-dissecting-components-of-reward]] · [[berridge-2023-separating-desire-from-prediction-of]](incentive salience 4규칙·desire≠prediction) · [[warlow-2021-incentive-motivation-wanting-roles]] · [[concept-incentive-sensitization]] · [[concept-dopamine-reward-system]] · [[nguyen-2021-positive-affect-nature-and-brain]] · [[morales-2020-liking-and-wanting-in-eating]] · [[concept-hedonic-hotspot]]. 새 페이지 없음.
+
 ## 2026-09-14 — query (liking의 한국어 심리학적 정의)
 
 "liking의 정의를 한국어로 심리학적으로" 질의. 2026-09-09 자격시험용 wanting/liking 정의 질의의 후속으로, 이번엔 'liking' 단독 정의에 집중. [[concept-liking-wanting]] hub + [[berridge-2009-dissecting-components-of-reward]]·[[nguyen-2021-positive-affect-nature-and-brain]]·[[morales-2020-liking-and-wanting-in-eating]]·[[concept-hedonic-hotspot]]·[[korb-2020-dopaminergic-and-opioidergic-regulation]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] 종합. 구성: 한 문장 정의(‘좋아함’=보상 자극의 쾌락적 충격, 객관적 정서 반응으로서의 핵심 과정) → 정의 4요소(성분성·정서반응성·핵심과정/따옴표·상태의존성) → 조작적 정의(taste reactivity, 인간 암묵 측정) → 배제 조건(wanting·도파민·주관 평정·학습과 구별) → 신경기반 한 줄. 위키 한계 재명시: Berridge & Robinson 1998 원전 없음. 새 페이지 없음.
