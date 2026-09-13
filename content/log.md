@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-14 — query (liking의 한국어 심리학적 정의)
+
+"liking의 정의를 한국어로 심리학적으로" 질의. 2026-09-09 자격시험용 wanting/liking 정의 질의의 후속으로, 이번엔 'liking' 단독 정의에 집중. [[concept-liking-wanting]] hub + [[berridge-2009-dissecting-components-of-reward]]·[[nguyen-2021-positive-affect-nature-and-brain]]·[[morales-2020-liking-and-wanting-in-eating]]·[[concept-hedonic-hotspot]]·[[korb-2020-dopaminergic-and-opioidergic-regulation]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] 종합. 구성: 한 문장 정의(‘좋아함’=보상 자극의 쾌락적 충격, 객관적 정서 반응으로서의 핵심 과정) → 정의 4요소(성분성·정서반응성·핵심과정/따옴표·상태의존성) → 조작적 정의(taste reactivity, 인간 암묵 측정) → 배제 조건(wanting·도파민·주관 평정·학습과 구별) → 신경기반 한 줄. 위키 한계 재명시: Berridge & Robinson 1998 원전 없음. 새 페이지 없음.
+
 ## 2026-09-11 (3) — query (후시냅스 가소성에서 CaMKII가 핵심 효소일 것이라는 논리)
 
 질의: 후시냅스 기전의 시냅스 가소성에서 CaMKII가 중요한 효소 역할을 할 것이라는 논리들. 위키에 CaMKII는 [[concept-agrp-synaptic-plasticity]]·[[concept-hypothalamic-ampk]]의 한 줄 추정으로만 있어, 규칙 §2(a)에 따라 `raw/`의 [[grzelka-2023-a-synaptic-amplifier-of-hunger]] Discussion(Cell Metab 781)과 참고문헌 65–70, [[yang-2011-hunger-states-switch-a-flip-flop]]의 STO-609 실험을 재독해 보강 후 답변.
