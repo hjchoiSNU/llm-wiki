@@ -2,8 +2,10 @@
 title: "중뇌 도파민 네트워크의 'sync state'와 내수용 영양 학습 (Yang 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-08-19
-source: "raw/2026 Cell. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
+updated: 2026-09-15
+source: "raw/2026 Neuron. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
+journal: Neuron
+doi: 10.1016/j.neuron.2026.07.002
 authors: [Xiao Yang, Weijie Yan, Weixuan Lu, Ruijie Wang, Rong Gong]
 year: 2026
 ---
@@ -14,7 +16,7 @@ year: 2026
 # 중뇌 도파민 네트워크의 'sync state'와 내수용 영양 학습 (Yang 2026)
 
 ## 한 줄 요약
-자발적 신규 음식 섭취 중 VTA 도파민 아집단이 섭취 시작 ~30초 후 **0.8 Hz 동기 버스트("sync state")** 로 전환되어, 지연된 위장관 영양신호와 즉각적 미각 신호를 연결하는 interoceptive credit assignment(장기 학습창)를 수행하고 미래 소비 vigor를 강화한다. (Neuron 2026, Rong Gong lab; ※raw 파일명은 "Cell"이나 실제 게재지는 Neuron)
+자발적 신규 음식 섭취 중 VTA 도파민 아집단이 섭취 시작 ~30초 후 **0.8 Hz 동기 버스트("sync state")** 로 전환되어, 지연된 위장관 영양신호와 즉각적 미각 신호를 연결하는 interoceptive credit assignment(장기 학습창)를 수행하고 미래 소비 vigor를 강화한다. (Neuron 115:1–21, 온라인 2026 · 호 날짜 2027-01-06, doi:10.1016/j.neuron.2026.07.002; Rong Gong lab, BNU. ※ raw/에 동일 PDF가 "2026 Cell. …"(저널 오기)·"2026 Cell. … 1"·"2026 Neuron. …" 세 이름으로 존재 — 내용 동일(58쪽), source는 정확한 저널명 사본을 가리킴)
 
 ## 핵심 내용
 - **행동 패러다임**: head-fixed "consumption-vigor test" — reward window 내 licks가 palatability에 비례. Novel-food-nutrient-learning: 한 음식엔 10% maltodextrin(비감미 칼로리), 대조는 맛만 다르고 palatability·부피 matched. 4일 학습 후 **NF reward licks만 선택적↑**(섭취량 고정, 2병 선호도 불변) → 정적 palatability를 넘어 cue-evoked wanting 증폭.

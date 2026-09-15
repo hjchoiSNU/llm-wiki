@@ -8,6 +8,18 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-15 — ingest (raw/ 점검 — 신규 1건은 중복, 미정리 논문 0건)
+
+"ingest" 트리거. `raw/` 341개 파일 전수를 위키 `source:` 필드와 대조(따옴표 정규화·` 1`/`(1)`/`(2)` 사본 접미사 무시).
+
+**결과**: 논문 PDF는 전부 이미 위키에 반영. 오늘(09-15 11:42) 추가된 `raw/2026 Neuron. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf`는 기존 [[yang-2026-a-sync-state-in-the]]의 원본(`raw/2026 Cell. …` — 저널 오기)과 **동일 논문·동일 58쪽**(첫 페이지 텍스트·서지 일치, 파일 바이트만 41B 차이). **새 페이지 없음.**
+
+**갱신 1**: [[yang-2026-a-sync-state-in-the]] — `source:`를 저널명이 정확한 Neuron 사본으로 교체, `journal: Neuron`·`doi: 10.1016/j.neuron.2026.07.002` 추가, 한 줄 요약에 완전 서지(Neuron 115:1–21, 호 날짜 2027-01-06)와 raw/ 3중 사본 사실 명기.
+
+**미반영 잔여분(ingest 대상 아님, 2026-06 판정과 동일)**: 중복 사본(` 1.pdf`/`(1)`/`(2)`) · supplement 2건(Halpern Nat Med 2022/2025) · `.mp4` 1건 · README · 식락학 교재 docx(12장·9장 목차/본문/그림·Ch 18 v1/v2·textbook 목차·출판회의 안건 사본).
+
+**lint 후보(미수정, 승인 필요)**: `source:` 경로가 raw/ 실제 파일명과 따옴표(’ vs ')만 다른 페이지 4 — [[morales-2020-liking-and-wanting-in-eating]] · [[warlow-2021-incentive-motivation-wanting-roles]] · Front. Neurosci. 2023 TI stimulation · Nat Med 2026 liraglutide AD.
+
 ## 2026-09-14 (2) — query (wanting 정의 추가 + liking/wanting 압축본)
 
 직전 query 후속. ‘갈망(wanting)’을 같은 형식(한 문장 정의 → 정의 요소 → 조작적 정의 → 배제 조건 → 신경기반 → 압축본)으로 정의하고, ‘좋아함’·‘갈망’ 둘 다 단축. 근거: [[concept-liking-wanting]] · [[berridge-2009-dissecting-components-of-reward]] · [[berridge-2023-separating-desire-from-prediction-of]](incentive salience 4규칙·desire≠prediction) · [[warlow-2021-incentive-motivation-wanting-roles]] · [[concept-incentive-sensitization]] · [[concept-dopamine-reward-system]] · [[nguyen-2021-positive-affect-nature-and-brain]] · [[morales-2020-liking-and-wanting-in-eating]] · [[concept-hedonic-hotspot]]. 새 페이지 없음.
