@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-15 — query (논문제출자격시험 연구계획서 검토: NHP wanting/liking 동시 측정 + 간헐 접근)
+
+사용자 제안서(영문) 초안의 과학 용어·논리 약점 검토. 위키 대조: [[concept-liking-wanting]] (Wyvell & Berridge 2000·Peciña 2003은 해리 **긍정** 증거 → 제안서의 인용 맥락 오류), [[robinson-2025-incentive-sensitization-30-years]] (주의 포획=salience; IST는 liking 감소 불요), [[derman-2018-junk-food-enhances-conditioned-food-cup]] (junk-food가 cue approach↑·PR breakpoint↓ → PR을 wanting 수렴 증거로 묶는 예측에 경고), [[kringelbach-2015-the-pleasure-of-food]] (phase 매핑의 적정 출처), [[concept-hedonic-devaluation]] (AL군 liking↓ 경쟁 예측). Kosheleff 2018·Cartoni 2016·Pool 2016·Havermans 2011·MaqFACS 계열은 위키에 없음(원문 검증 불가, 텍스트 내부 정합성만 검토). 위키 페이지 변경 없음.
+
 ## 2026-09-15 — ingest (raw/ 점검 — 신규 1건은 중복, 미정리 논문 0건)
 
 "ingest" 트리거. `raw/` 341개 파일 전수를 위키 `source:` 필드와 대조(따옴표 정규화·` 1`/`(1)`/`(2)` 사본 접미사 무시).
