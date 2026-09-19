@@ -2,7 +2,7 @@
 title: 회로 양안정성과 이력현상 (Bistability & hysteresis)
 type: concept
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [bistability, hysteresis, flip-flop, SR latch, positive feedback, set range, 양안정성, 이력현상, 양성 되먹임, set point]
 ---
 
@@ -53,6 +53,7 @@ aliases: [bistability, hysteresis, flip-flop, SR latch, positive feedback, set r
 
 ## 해석 주의
 - **행동의 지속은 회로 양안정성의 증거가 아니다**. 느린 호르몬 동역학, 위장관 신호, 학습 모두 지속성을 만든다. 위 체크리스트 1–3을 통과해야 한다.
+- **네 번째 경쟁 설명 — 상류 입력이 계속 켜져 있는 경우**: [[walker-2026-a-hypothalamic-circuit-for|Walker 2026]]은 단식 **초기** ARC^AgRP의 빠른 활성 상승이 **PVH^Sim2 흥분성 입력에 의해 구동**됨을 인과로 보인다(PVH^Sim2 hM4Di 억제 시 상승이 τ +1.8~2 h 지연). 같은 논문은 **단식 후기의 높은 AgRP 유지는 순환 호르몬 등 다른 요인이 분담**한다고 한정한다. 즉 "상태가 시냅스에 래치되어 있다"와 "상류가 계속 드라이브한다"는 *in vivo* 관찰만으로 구분되지 않으므로, 래치를 주장하려면 **상류 입력을 침묵시킨 조건에서** 체크리스트 1(자극·수용체 차단 후에도 남는가)과 3(고리를 끊으면 즉시 붕괴하는가)을 다시 통과시켜야 한다.
 - 양안정성은 **측정 수준에 의존**한다 — 단일 시냅스가 양안정이 아니어도 집단 평균이 계단형으로 보일 수 있다.
 - Yang 2011의 flip-flop은 **시냅스 수준 모델**이며, 개체 수준 체중 조절이 set point인지 set range인지에 대한 직접 증거는 아니다.
 
@@ -67,3 +68,4 @@ aliases: [bistability, hysteresis, flip-flop, SR latch, positive feedback, set r
 - [[concept-one-shot-learning]] — 짧은 입력이 긴 상태를 만드는 또 다른 규칙 계열.
 - [[xu-2020-behavioral-state-coding-by]] — 행동 "상태"를 앙상블이 부호화한다는 상보적 관점(상태의 표상 vs 상태의 유지 기전).
 - [[overview-appetite-energy-homeostasis]] — 항상성 제어 이론의 자리.
+- [[walker-2026-a-hypothalamic-circuit-for]] — "지속되는 활성"의 경쟁 설명: 단식 **초기** AgRP의 빠른 상승이 **PVH^Sim2의 흥분성 드라이브**로 구동된다(억제 시 상승 τ +1.8~2 h 지연; 단 후기 유지는 순환 호르몬 분담). 래치 가설을 시험할 때 배제해야 할 상류-입력 대안 (Neuron 2026, Lowell lab).

@@ -2,12 +2,12 @@
 title: CD36 (fatty acid translocase, FAT)
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-09-19
 aliases: [CD36, FAT, fatty acid translocase, SR-B2]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> CD36 = **지방(long-chain fatty acid)을 감지하는 다기능 수용체**로, **혀(미뢰)·뇌(시상하부 VMH)·장(enterocyte)** 세 층에서 동일 분자가 지방 신호를 부호화. GPCR가 아니면서 Src-PTK·Ca²⁺ 신호를 켜는 비정통 화학감지기. 사용자 관점: **지방 감지의 3층 backbone** — 구강 [[concept-fat-taste|지방맛]](쾌락 초안)·중추 [[concept-ventromedial-hypothalamus|VMH]] satiety·장 gut-brain. 단, gut-brain **선호(wanting)** 형성엔 CD36 대신 [[concept-free-fatty-acid-receptors|GPR40/GPR120]]이 필수([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]]) — 부위·기능별 수용체 분업이 핵심 미묘점.
+> CD36 = **지방(long-chain fatty acid)을 감지하는 다기능 수용체**로, **혀(미뢰)·뇌(시상하부 VMH)·장(enterocyte)** 세 층에서 동일 분자가 지방 신호를 부호화. GPCR가 아니면서 Src-PTK·Ca²⁺ 신호를 켜는 비정통 화학감지기. 사용자 관점: **지방 감지의 3층 backbone** — 구강 [[concept-fat-taste|지방맛]](쾌락 초안)·중추 [[concept-ventromedial-hypothalamus|VMH]] satiety·장 gut-brain(2026 갱신으로 신장–뇌간 GDF15·간 옥시리핀 계층이 추가 — 아래 「지방 감지 계층 지도」 참조). 단, gut-brain **선호(wanting)** 형성엔 CD36 대신 [[concept-free-fatty-acid-receptors|GPR40/GPR120]]이 필수([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]]) — 부위·기능별 수용체 분업이 핵심 미묘점.
 
 # CD36 (fatty acid translocase / FAT)
 
@@ -19,7 +19,7 @@ Scavenger receptor class B family의 88 kDa ditopic 막당단백질. **long-chai
 | 부위 | 역할 | 근거 |
 |---|---|---|
 | **혀 미뢰(circumvallate papillae 정단)** | 구강 LCFA 미각 수용체 → 지방 자발선호·cephalic-phase 소화 분비 | [[laugerette-2005-cd36-involvement-in-orosensory-detection\|Laugerette 2005]] |
-| **미뢰(조절)** | 식이지방에 의해 **후전사적 급감**(sensory-specific satiety 유사) | [[martin-2011-the-lipid-sensor-candidates-cd36\|Martin 2011]] |
+| **미뢰(조절)** | 식이지방·섭식이 **두 층위에서 감소**시킴 — 식이지방이 *CD36* **mRNA**를 낮추고(무지방식은 무효, 0.5%로도 2배↓), 급성 재급식 1 h에는 **mRNA 불변인 채 단백질만** 3배↓(후 회복 = 후전사 조절) → sensory-specific satiety 유사 | [[martin-2011-the-lipid-sensor-candidates-cd36\|Martin 2011]] |
 | **시상하부 VMH** | 지방산 감지 뉴런의 주 effector → 식이 억제(식후 TG-지단백→LPL→FA) | [[moulle-2013-fatty-acid-transporter-cd36-mediates\|Moullé 2013]] |
 | **장 enterocyte** | 지방 흡수·chylomicron 형성; 식이지방에 의한 CD36 후전사 감소 | Martin 2011, Tran 2011 |
 
