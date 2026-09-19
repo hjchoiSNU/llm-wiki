@@ -2,7 +2,7 @@
 title: "Lateral hypothalamus and eating: cell types, molecular identity, anatomy, temporal dynamics and functional roles"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-09-19
 source: "raw/2025 EMM Lateral hypothalamus and eating cell types, molecular identity, anatomy, temporal dynamics and functional roles.pdf"
 authors: [Cheon DH, Park S, Park J, Koo M, Kim HH, Han S, Choi HJ]
 year: 2025
@@ -26,8 +26,8 @@ LH의 세포 다양성, 4개 subdivision, 시간 동역학, 기능적 역할을 
 | **Camk2a** | 대부분 Vglut2 (~64-79%); Vgat 발현 일부 |
 
 핵심 포인트:
-- **Nts** 뉴런 95%가 Gal 공발현; ~75% MC4R 공발현.
-- **Lepr** 뉴런 ≈ ARC GABAergic의 20%, Crh와 ~50% 공발현.
+- **Nts** 뉴런 95%가 Gal 공발현; **MC4R 뉴런의 약 75%가 Nts를 공발현**(원문 p.2 "about 75% of Mc4r neurons also coexpressing Nts" — 방향 주의, 'Nts의 75%가 MC4R'이 아님). Nts는 ~80% Vgat / ~20% Vglut2.
+- **Lepr** 뉴런: **LH GABAergic 뉴런의 약 20%**(원문 'Lepr neurons' 절, ref 14·48·56 — ARC가 아니라 **LH** 기준). 공발현은 양방향으로 구분: **Crh 뉴런의 ~50%가 Lepr를, Lepr 뉴런의 ~52%가 Crh를** 발현(원문 p.2). 대부분 Vgat 양성이나 **~40%는 Vgat 음성**이라는 보고도 병기. ※ 사용자 lab 원저 [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]의 자체 매핑은 **LH GABA의 4%**(선행 보고는 <20%, 논문은 '4–20%'로 범위 병기)이고 그중 63%가 food-specific — 리뷰의 ~20%와 원저의 4%를 구분해 인용할 것.
 - **Orx 뉴런**: 거의 모두 Pdyn (dynorphin), Penk 공발현; Nts 일부 공발현.
 - **Mch 뉴런**: Orx과 별도 집단; Cart, Npy5r, Mc4r, Lepr 공발현.
 - 단일 세포가 Vgat·Vglut2 동시 발현하는 경우도 — 전통적 GABA/Glut 이분법 약화.
@@ -82,8 +82,8 @@ LH의 세포 다양성, 4개 subdivision, 시간 동역학, 기능적 역할을 
 
 ## 5. 임상 시사
 
-- **Bilateral LH DBS**: 난치성 비만 임상 시도, 안전성·체중·대사 ↑ (Whiting 2013, 2019).
-- **Chemogenetic gene therapy** (LH GABAergic in non-human primate, Ha 2024 from same lab): 식이 행동 조절 가능 — 향후 새로운 비만 치료 path.
+- **Bilateral LH DBS**: 난치성 비만 임상 시도, 안전성·체중·대사 ↑ ([[whiting-2013-lateral-hypothalamic-area-deep|Whiting 2013]], [[whiting-2019-deep-brain-stimulation-of|Whiting 2019]]).
+- **Chemogenetic gene therapy** (LH GABAergic in non-human primate, [[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]], 동일 lab): 식이 행동 조절 가능 — 향후 새로운 비만 치료 path.
 
 ## 관련 페이지
 - [[concept-lateral-hypothalamus]] — 본 페이지의 개념 hub.
@@ -98,3 +98,5 @@ LH의 세포 다양성, 4개 subdivision, 시간 동역학, 기능적 역할을 
 - [[chen-2025-the-integrated-function-of-the]] — 같은 시기 LHA 세포타입·에너지 항상성 종합 리뷰(비-사용자 lab); 본 리뷰와 상보적 LH taxonomy 레퍼런스 (Cells 2025).
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA cell-type 에너지항상성 외부 종합 리뷰.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 본 리뷰가 임상 전망으로 언급한 NHP LHA GABA chemogenetic 유전자치료 원저(동일 lab, Neuron 2024).
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 본 리뷰의 LH^Nts 항목에 대응하는 인과 침묵 실험(총 섭취 불변·음수/각성/자발운동 손상, bioRxiv 2026).

@@ -2,7 +2,7 @@
 title: 성상교세포-뉴런 젖산 셔틀 (Astrocyte-Neuron Lactate Shuttle, ANLS)
 type: concept
 created: 2026-07-10
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle, 성상교세포 젖산, H3K9la, 젖산화, lactylation]
 ---
 
@@ -42,6 +42,7 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 
 ## 관련 페이지
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — ANLS·H3K9la를 GLP-1RA 신경보호 기전으로 규명한 핵심 논문.
+  ⚠️ **범위 주의**: "뇌 GLP-1R = 성상교세포"는 [[du-2026-oral-glp1-receptor-agonist-promotes|Du 2026]]이 **피질·해마**를 표적으로 본 소견이며(AD에서 성상교세포 쪽만 추가 상승, 수컷 마우스·Aβ 모델), 같은 해 [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 리뷰]]는 CNS GLP-1R를 "우세하게 뉴런형"으로 기술한다. 시상하부·후뇌 회로로 옮길 때는 세포종류 가정을 다시 검증해야 한다.
 - [[concept-glp1-neuroprotection]] — 이 셔틀이 GLP-1RA 뇌 효과의 후보 기전으로 들어가는 상위 hub.
 - [[concept-glp-1]] — 뇌 GLP-1R가 성상교세포 대사를 통해 작동한다는 관점의 상위 약리 hub.
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 말초 위주 sema는 이 뇌 셔틀에 도달하지 못해 임상 음성이었을 가능성(대비).

@@ -2,7 +2,7 @@
 title: "GLP-1 single, dual, and triple receptor agonists for treating type 2 diabetes and obesity: a narrative review"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/2024 eClinicalMedicine. GLP-1 single, dual, and triple receptor agonists for treating type 2 diabetes and obesity.pdf
 authors: [Alfaris N, Waldrop S, Johnson V, Boaventura B, Kendrick K, Stanford FC]
 year: 2024
@@ -25,6 +25,7 @@ year: 2024
 - **삼중 GLP-1/GIP/glucagon**: retatrutide(phase 2 48주 −24.2%, plateau 없음) — 현재 최대 감량 후보.
 - **CV/신장**: GLP-1RA MACE 12%↓, SELECT(비당뇨 CVD) 이벤트↓, FLOW(신장) 조기종료.
 - **안전성**: GI 최다; 췌장염/췌장암 위험 근거 없음; 갑상선 EMA PRAC 인과 불충분; 우울/자살성향 단일제 위험 근거 없음(다중제 추가연구).
+  - ⚠️ **정신과 안전성은 이후 상충 보고가 병존**: [[fang-2025-glucagon-like-peptide-1-medicines|Fang·Drucker 2025]]는 메타분석(n=107,860)에서는 정신과 이상반응·우울 증가 없음(오히려 정신적 삶의질·정서적 섭식 개선), 대형 **TriNetX 관찰 코호트**(n=162,253, EHR 기반·인과 아님)에서는 우울·불안·자살행동 위험 증가(HR 1.98~2.95)라는 **상반된 관찰**을 나란히 제시하며, 자살 자체는 '다수 분석에서 위험 증가 없음, 일부 감소'라고 적는다. 따라서 위 "근거 없음"은 **2024 시점의 narrative review 요약**으로 읽고, 병용·장기 설계에서는 상충 자체를 미해결 항목으로 취급할 것.
 
 ## 관련 페이지
 - [[concept-glp-1]] · [[concept-gip]] — 단일→다중 작용제의 두 축.

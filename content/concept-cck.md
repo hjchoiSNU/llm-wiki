@@ -2,7 +2,7 @@
 title: Cholecystokinin (CCK)
 type: concept
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-19
 aliases: [CCK, cholecystokinin]
 ---
 
@@ -99,3 +99,4 @@ aliases: [CCK, cholecystokinin]
 - [[woods-1991-the-eating-paradox-how]] — satiety 매개 장호르몬으로 인용.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — Cck EEC(I/N/L)가 미주·CCKAR로 풍미 선호 구동.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — CCK 포만이 CGRP^PBel 활성화를 요구.
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지질 감지 → CCK(가장 먼저, ~5–10분) → GLP-1·PYY·GIP → 지연 GDF15의 **시간 계층**과 CCK1R·PKCδ 혈당 축 종합 (Nat Rev Endocrinol 2026).

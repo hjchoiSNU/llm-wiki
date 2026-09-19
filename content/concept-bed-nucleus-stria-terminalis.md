@@ -2,7 +2,7 @@
 title: 분계선조 침상핵 (Bed nucleus of the stria terminalis, BNST)
 type: concept
 created: 2026-06-20
-updated: 2026-09-07
+updated: 2026-09-19
 aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침상핵, extended amygdala]
 ---
 
@@ -29,7 +29,7 @@ aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침
 
 ### 인간 — 7T fMRI 매핑 ([[guerrero-hreins-2026-bed-nucleus-of-the-stria|Guerrero-Hreins 2026]])
 - 급성 스트레스가 **BNST→NAc·OFC·dmINS effective connectivity를 하향조절**, 맛 수용은 dmINS→BNST 하향.
-- **BNST→OFC 하향조절 강도 = 주관적 스트레스 변화 예측**(leave-one-out r=0.28).
+- **BNST→OFC 하향조절 ↔ 주관적 스트레스 변화**: 원문 Results와 Discussion 첫 문단은 "주관적 스트레스 변화가 **클수록 하향조절이 덜하다**"("showed **less** downregulation", Fig. 4d)로 적고, 보충 **Fig. S6**의 피험자 수준 분석도 변조값과 스트레스 변화가 **양의 상관**(=덜 하향)이라 같은 방향이다. leave-one-out 교차검증에서 out-of-sample 예측 성립(**r=0.28, p=0.031**, CUE DCM n=44 — 약한 효과). ⚠️ 단 **Fig. 4d 캡션**("greater change … **stronger** downregulation")과 Discussion의 다른 한 문장("BNST downregulation of the OFC predicted **increased** change in subjective stress")은 **반대 방향**으로 적혀 있다 — 인용할 때 반드시 **본문·Fig. S6 기준(덜 하향)**임을 밝히고 캡션 불일치를 함께 표기할 것. → [[guerrero-hreins-2026-bed-nucleus-of-the-stria]]
 - 보상 cue 시 **NAc→BNST 상향**(+0.68) — 스트레스 NAc 도파민 증폭과 정합.
 - 해석: 스트레스가 BNST relay를 **상태의존적으로 gating** → cue 주도 섭식으로 편향.
 

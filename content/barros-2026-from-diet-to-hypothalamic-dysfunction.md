@@ -2,7 +2,7 @@
 title: "Barros et al. 2026 — From diet to hypothalamic dysfunction: Neuroanatomical and hormonal integration of the microbiota-hypothalamus-adipose tissue axis"
 type: paper
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-19
 source: raw/2026 From diet to hypothalamic dysfunction Neuroanatomical and hormonal integration of the microbiota-hypothalamus-adipose tissue axis.pdf
 authors: [Helena Dias de Freitas Queiroz Barros, Breno Picin Casagrande, Diana Dias Araújo, Thais Antonio Jose Mutran, Monica Marques Telles, Debora Estadella, Luciana Pellegrini Pisani]
 year: 2026
@@ -10,7 +10,7 @@ journal: Reviews in Endocrine and Metabolic Disorders
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 비만을 **gut microbiota–시상하부–WAT 3 organ feedback loop의 dysfunction**으로 재정의. SCFA·LPS·bile acid·tryptophan·FGF21·T3가 매개. **Semaglutide·tirzepatide 효과의 microbiota 의존성** — Akk muciniphila Akk11과 synergy. 중단 시 12주 내 71% 체중 rebound가 회로·microbiota·hypothalamic AgRP/POMC·bile acid TGR5 동시 reset 실패. 사용자 lab의 [[de-lartigue-2026-critical-role-gut-brain-signalling|gut-brain]] + [[lee-2025-hijacked-brain-modern-obesity-cue|DTx·obesity]] 작업 직접 합류.
+> 비만을 **gut microbiota–시상하부–WAT 3 organ feedback loop의 dysfunction**으로 재정의. SCFA·LPS·bile acid·tryptophan·FGF21·T3가 매개. **Semaglutide·tirzepatide 효과의 microbiota 의존성** — Akk muciniphila Akk11과 synergy. 중단 시 **12주 이내 참가자 71.4%에서 체중 재증가**(여성 28명 코호트의 비율 지표)가 회로·microbiota·hypothalamic AgRP/POMC·bile acid TGR5 동시 reset 실패를 시사. 사용자 lab의 [[de-lartigue-2026-critical-role-gut-brain-signalling|gut-brain]] + [[lee-2025-hijacked-brain-modern-obesity-cue|DTx·obesity]] 작업 직접 합류.
 
 # From diet to hypothalamic dysfunction: microbiota-hypothalamus-adipose tissue axis
 
@@ -18,6 +18,9 @@ journal: Reviews in Endocrine and Metabolic Disorders
 Obesogenic diet → microbial functional reprogramming → endocrine·neural·immune transmission → hypothalamic microinflammation·leptin resistance → WAT dysfunction → 자기강화 feedback. Incretin therapy가 이 axis 부분 reset.
 
 ## Core framework
+
+> ⚠️ **근거 등급**: 본 리뷰가 제시하는 dysbiosis → 시상하부 염증 → WAT 인과 루프는 **설치류 모델에 기반한 제안 기전**이며, 원문 스스로 "인간에서 현재 확립되지 않았다"고 적는다. 인간 자료는 영상 지표(시상하부 염증·기능이상 ↔ 비만·내장지방)와 **postmortem 연관 1건**뿐이고 모두 상관 수준이다. 티르제파타이드의 microbiota 의존성(Ma 2025, Front Mol Biosci)도 **광범위 항생제로 microbiota를 고갈시킨 전임상 당뇨병성 신장질환 모델**에서 공복혈당·식이량·신기능 지표(혈청 크레아티닌, 알부민/크레아티닌 비) 개선이 "현저히 약화"된 것으로, **인간 자료가 아니다**(리뷰 본문은 종을 명시하지 않음).
+
 - 비만 = **inter-organ signaling disorder**.
 - 단순 caloric excess로 설명 불가 — heterogeneity 큼.
 - Gut-brain-adipose 3축이 통신망.
@@ -94,10 +97,12 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - IKKβ/NF-κB·JNK·ER stress·oxidative stress cascade.
 - **Insulin·leptin resistance + AgRP ↑/POMC↓ orexigenic 톤**.
 
+> ⚠️ 대조 관점: [[johansen-2025-brain-control-of-energy|Johansen 2025 Cell]]은 leptin-멜라노코르틴 축을 **저지방량(기아)을 방어하는 신호**로 규정하고, **과식·체중 증가에 대한 방어 신호는 leptin-멜라노코르틴과 독립적이며 아직 동정되지 않았다**고 본다. 두 서술이 실험으로 서로를 반박한 것은 아니고(양쪽 모두 리뷰 수준 종합), 축 배치가 다를 뿐이다 — 위 사슬의 '시상하부 leptin 저항'을 체중 증가의 상류 원인으로 읽을 때는 이 대조를 함께 볼 것.
+
 ### 인간 증거
 - Brown 2023 Neuroimage Clin — hypothalamic volume ↔ BMI.
 - Rosenbaum 2022 Diabetes Care — hypothalamic gliosis ↔ glucose dysregulation.
-- Kreutzer 2017 — **postmortem 인간 hypothalamic inflammation ↔ Parasutterella sp 감소** (유일한 직접 dysbiosis ↔ hypothalamic inflammation 인간 자료).
+- Kreutzer 2017 — postmortem 인간 시상하부 조직의 **염증·gliosis ↔ 식이지방 유발 장내 Parasutterella sp 감소의 유의한 연관**. ⚠️ 원문은 이를 "potential association"·"strictly correlational"로 규정하고, **dysbiosis ↔ 시상하부 염증의 직접 증거는 없다**("we found no direct evidence")고 명시하며, 기전 근거를 위해서는 **전향적 종단 인간 코호트가 필요**하다고 덧붙인다..
 
 ### 시상하부 → 말초 control
 - PVH SNS → WAT lipolysis (NE).
@@ -152,7 +157,7 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - Bone loss side effect (Lachnospiraceae 매개, Chen 2025).
 
 ### Discontinuation rebound ★
-- Wang 2026: semaglutide 중단 12주 내 71.4% 여성 체중 rebound.
+- Wang 2026(Diabetes Obes Metab): **비만 여성 28명 전향 코호트**에서 세마글루타이드 중단 후 **12주 이내에 71.4%(28명 중 20명)가 유의한 체중 재증가**를 보였고, 원문은 이것이 **급격한 식욕 rebound를 동반**했다고 기술. ⚠️ 71.4%는 **재증가한 사람의 비율**이지 재증가한 체중의 %가 아니며, 소규모·단일 성별 코호트다. 체중 변화율 기준 재증가 수치는 [[aronne-2023-continued-treatment-with-tirzepatide-for|SURMOUNT-4]]를 쓸 것 ([[concept-weight-regain-defended-adiposity]] 참조).
 - 회로 측면: AgRP/NPY ↑·POMC/MC4R ↓ 즉시 reactivation.
 - Microbiota: Bacillota/Bacteroidota ratio ↑, Clostridium sensu stricto 1 감소, **ursodeoxycholic acid ↓ → hypothalamic TGR5 ↓**.
 - 일부 hepatic AMPK/SIRT1 효과는 부분 지속 — **central appetite vs peripheral metabolic relapse 시간 lag**.
@@ -195,3 +200,4 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — GLP-1.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 동반 editorial.
+- [[johansen-2025-brain-control-of-energy]] — leptin을 기아 신호로 보는 대조 관점(과식 방어 신호는 leptin-멜라노코르틴 독립·미동정) 및 뇌 표적 항비만 약물 종합.

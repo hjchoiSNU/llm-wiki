@@ -29,12 +29,28 @@ LCFA → CD36 결합 → **Src-PTK 인산화** → 세포내 Ca²⁺ 급증 → 
 ## 중요한 미묘점 — 부위·기능별 수용체 분업
 - **구강 지방 미각·자발선호**: CD36 필수([[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]]).
 - **장 gut-brain 지방 선호(post-oral wanting)**: **CD36 불요, [[concept-free-fatty-acid-receptors|GPR40/GPR120]] 필수**([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]] CRISPR).
+
+> ⚠️ **'장 CD36 불요'는 지표 한정 명제다.** [[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]]가 CD36 결손에서 정상으로 확인한 것은 **장내 지방 투여에 대한 nodose 미주 반응(칼슘 이미징)과 48h 지방 선호 형성(행동)** 두 가지뿐이고(Fig.6), **장호르몬 분비는 측정하지 않았다**. 반면 [[garrido-2026-lipid-sensing-and-brain-hormone|Garrido 2026]]은 같은 장 CD36에 대해 **호르몬 분비 축**의 근거를 정리한다 — 설치류 CD36 결손 시 위내 올리브유 부하에 대한 [[concept-cck|CCK]] 분비 교란, 그리고 *CD36* rs3211938(G/T) 보유 집단(비만·인슐린저항 흑인계 미국 여성)에서 CD36 발현 50%↓와 고지방식 후 **흡수 전(pre-absorptive) GIP·CCK·GLP-1 반응 둔화**. 즉 **선호 학습 ≠ 장호르몬 분비**이며, CD36을 장 지질 감지 표적에서 배제할 근거는 아직 없다.
+
 - **시상하부 FA 감지**: CD36 주도([[moulle-2013-fatty-acid-transporter-cd36-mediates|Moullé 2013]]).
 - [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]는 fat gut sensor를 "GPR40/120 + CD36"로 함께 기술(문헌 강조 차이).
 
 ## 임상·유전
 - **CD36 결손**(인간·동물)이 대사증후군 특징(이상지질·인슐린저항·고혈압)과 연관.
 - CD36 다형성 ↔ 지방 지각 역치·지방 선호·비만 위험(인간).
+
+## 지방 감지 계층 지도 (3층 → 5층: 2026 갱신)
+지방 감지 지도는 위키 안에서 이미 **구강·장·중추 3층을 넘어섰다**. CD36은 앞 세 층의 공유 분자이고, 뒤 두 층은 CD36과 **다른 분자**가 담당한다.
+
+| 층 | 센서 | 근거 페이지 |
+|---|---|---|
+| 구강(미뢰) | **CD36**(+GPR120) | [[laugerette-2005-cd36-involvement-in-orosensory-detection]]·[[martin-2011-the-lipid-sensor-candidates-cd36]] |
+| 장(EEC/미주) | GPR40/GPR120(미주 반응·선호 학습에 필수), CD36(apical·호르몬 분비 축) | [[li-2022-gut-brain-circuits-for-fat-preference]]·[[garrido-2026-lipid-sensing-and-brain-hormone]] |
+| 중추(VMH) | **CD36** | [[moulle-2013-fatty-acid-transporter-cd36-mediates]] |
+| **신장–뇌간(지연)** | 지질 유도 **GDF15 → GFRAL**(혈중 GDF15 상승 1–6 h, 신장 유래 GDF15가 4–6 h 섭식억제에 필수) | [[garrido-2026-lipid-sensing-and-brain-hormone]]·[[concept-gdf15-gfral-axis]] |
+| **혈중 대사물–간** | 옥시리핀 **12(S)-HEPE → Or5v1/Olfr110** | [[ge-2026-identification-of-or5v1-olfr110]]·[[concept-oxylipins]]·[[concept-ectopic-olfactory-receptors]] |
+
+> 함의: '지방을 감지한다'는 표현이 가리키는 **분자·시간대·조직**이 층마다 다르다(즉각 구강 → 분 단위 장호르몬 → 시간 단위 GDF15 → 산화 대사물 감지). 표적을 고를 때 먼저 이 층을 특정할 것.
 
 ## 관련 페이지
 - [[concept-fat-taste]] — CD36가 분자 기원인 구강 지방 감지 hub.
@@ -49,3 +65,4 @@ LCFA → CD36 결합 → **Src-PTK 인산화** → 세포내 Ca²⁺ 급증 → 
 - [[concept-enteroendocrine-cells]] — 장 지방 감지 세포.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 수용체 정체(본 개념이 근거).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — 장세포·EEC CD36의 **apical 국재**·CCK 세포 공발현·PPARγ 조절, CD36 결손 시 위내 올리브유 부하의 CCK 분비 교란, *CD36* rs3211938(G/T) 보유 집단의 발현 50%↓ 및 고지방식 후 흡수 전 GIP·CCK·GLP-1 반응 둔화; CD36을 지질 감지의 **상류 매개자**로 정리 (Nat Rev Endocrinol 2026).

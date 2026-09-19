@@ -2,7 +2,7 @@
 title: "섭식 항상성 제어의 병렬·중복 회로 조직 (Betley 2013)"
 type: paper
 created: 2026-07-05
-updated: 2026-09-11
+updated: 2026-09-19
 source: raw/etley et al. 2013, Cell — Parallel, redundant circuit organization for homeostatic control of feeding behavior.pdf
 authors: [Betley JN, Cao ZFH, Ritola KD, Sternson SM]
 year: 2013
@@ -45,3 +45,4 @@ ARC AgRP 뉴런은 서로 다른 부분군이 aBNST·PVH·LHA·PVT로 축 담보
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — 같은 Sternson lab의 **입력 쪽 작업**: 본 논문이 AgRP **출력**의 병렬·중복 배선을 정의했다면, Yang 2011은 AgRP로 들어오는 **흥분성 시냅스가 배고픔 상태를 기억(hysteresis)** 함을 보인다. 회로를 공학적 논리(병렬 중복 / SR 래치)로 기술하는 같은 어법 (Cell 2011).
 - [[person-sternson-scott]] — 교신저자 인물 hub.
 - [[concept-agrp-synaptic-plasticity]] — AgRP 입력 가소성 개념 hub.
+- [[concept-npy-agrp-neurons]] — 본 논문이 배선을 정의한 세포집단의 개념 hub. 입력 회로 지도([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]·[[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]·[[walker-2026-a-hypothalamic-circuit-for|Walker 2026]])와 시냅스 가소성 축을 함께 읽으면 입력–가소성–출력 3층이 완성된다.

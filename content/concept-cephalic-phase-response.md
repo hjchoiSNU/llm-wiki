@@ -2,7 +2,7 @@
 title: Cephalic-phase response (cephalic insulin)
 type: concept
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-19
 aliases: [cephalic phase, cephalic insulin, cephalic-phase insulin release, CPIR, anticipatory metabolic response]
 ---
 
@@ -31,3 +31,4 @@ aliases: [cephalic phase, cephalic insulin, cephalic-phase insulin release, CPIR
 - [[concept-interoception]] — 예측적 항상성(anticipatory homeostasis)의 실체.
 - [[concept-incretin-effect]] — 장호르몬 매개 식후 인슐린 증폭(incretin)과 대비되는 신경성 예측 인슐린.
 - [[concept-appetitive-consummatory-phases]] — preingestive(appetitive) 단계의 대사 조율.
+- [[gomez-valades-2026-glycogen-drives-the-sensory]] — CPIR의 **상류 세포 조건**: POMC 뉴런 축삭의 국소 글리코겐(Gys1)을 없애면 음식 감각 cue에 대한 POMC 활성이 선택적으로 사라지고 **CPIR가 감소**한다(혈당·ghrelin 반응은 보존). 고칼로리식·노화가 더해질 때 과체중·당뇨로 진행 (Nat Metab 2026, Claret lab).

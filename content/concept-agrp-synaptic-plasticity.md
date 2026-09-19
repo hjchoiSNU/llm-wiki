@@ -2,7 +2,7 @@
 title: AgRP 시냅스 가소성 (AgRP synaptic plasticity)
 type: concept
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [AgRP synaptic plasticity, AgRP 시냅스 가소성, fasting-induced synaptic plasticity, hunger synapse, 배고픔 시냅스]
 ---
 
@@ -25,7 +25,7 @@ AgRP 회로 연구의 대부분은 **누가 누구에게 투사하는가**(배�
 | **전시냅스 AMPK 되먹임** | 말단 | **ghrelin**(호르몬) | Ghsr1→CAMKK→**AMPK**→cADPR→RyR→Ca²⁺ | [[yang-2011-hunger-states-switch-a-flip-flop\|Yang 2011]] |
 | **후시냅스 NMDAR·spinogenesis** | 가시 | 단식 | **NMDAR**, 가시 수 **+67%** | [[liu-2012-fasting-activation-of-agrp-neurons\|Liu 2012]] |
 | **후시냅스 AMPK–PAK** | 가시 | 단식 | AMPK→p21-activated kinase | Kong 2016 Neuron (Lowell lab) |
-| **입력 특이적 활성 의존 증폭** | PVH^TRH 말단 | **상류 뉴런 활성**(호르몬 비의존) | **NMDAR** 의존, 방출 부위 수↑ | [[grzelka-2023-a-synaptic-amplifier-of-hunger\|Grzelka 2023]] |
+| **입력 특이적 활성 의존 증폭** | PVH^TRH→AgRP 시냅스(전/후 **미확정**) | **상류 뉴런 활성**(호르몬 비의존) | **NMDAR** 의존, **기능적 시냅스 접속 수**↑ | [[grzelka-2023-a-synaptic-amplifier-of-hunger\|Grzelka 2023]] |
 
 > ⚠️ Kong 2016은 위 논문들이 **인용한 문헌**이며 본 위키에 원본 페이지가 아직 없다. 수치·세부 주장을 인용하려면 원본 확보가 필요하다. (Liu 2012는 2026-09-11 원본 확보 완료.)
 > **서지**: Kong D, Dagon Y, Campbell JN, Guo Y, Yang Z, Yi X, Aryal P, Wellenstein K, Kahn BB, Sabatini BL, Lowell BB (2016). *A postsynaptic AMPK→p21-activated kinase pathway drives fasting-induced synaptic plasticity in AgRP neurons.* **Neuron 91, 25–33.** doi:10.1016/j.neuron.2016.05.025 — 제목이 **"postsynaptic AMPK"** 를 명시하므로, [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]의 "후시냅스 AMPK 조작 무효" 결과와 직접 부딪힌다. 아래 "분자 실행자" 절의 논증 3을 판정하려면 이 원본이 필요하다.
@@ -59,7 +59,7 @@ Liu는 전시냅스 설명을 **명시적으로 기각**한다(PPR 불변 · 후
 
 ### 2. 입력마다 기전이 다르다 (균일한 가소성이 아니다)
 [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]이 같은 AgRP 뉴런에서 두 입력을 나란히 측정:
-- **PVH^TRH → AgRP**: 양자 **빈도**↑(진폭·PPR·CV·AMPA/NMDA비 불변) = **전시냅스 방출 부위 수 증가**.
+- **PVH^TRH → AgRP**: 양자 **빈도**↑(진폭·PPR·CV·AMPA/NMDA비 불변) = **기능적 시냅스 접속 수(functional synaptic sites) 증가**(원문 p.773). ⚠️ 원문은 이를 **전시냅스로 단정하지 않는다** — 방증으로 후시냅스 AgRP의 가시 수 증가([[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]·Kong 2016)를 들고, Discussion(p.781–782)에서 "가시 수 증가인지, 기존 시냅스의 기능적 방출 부위 수 증가인지 판정하기 어렵다"고 적는다. 즉 이 행은 위 "★★ 미해결 쟁점" 절과 **같은 미결 상태**이며, '전시냅스'로 인용하면 이 페이지의 인용 규칙을 스스로 어기게 된다.
 - **DMH^Vglut2 → AgRP**: 양자 **진폭**↑ = **후시냅스 전도도 증가**.
 
 → "단식이 AgRP 흥분성 입력을 올린다"를 **하나의 현상으로 뭉뚱그리면 안 된다**.
@@ -151,3 +151,4 @@ Grzelka 본문: "genetic deletion of CaMKII downregulates AgRP gene expression a
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — 후시냅스 **NMDAR·spinogenesis** 축의 1차 출처. AgRP는 가시가 풍부하고 POMC는 사실상 없다는 구조적 비대칭, 단식 가시 +67%, `Grin1` 삭제 시 단식 반응 전체 소실 (Neuron 2012, Lowell lab).
 - [[concept-glia-stress-plasticity]] — 시냅스를 **제거하는** 쪽 기전(미세아교세포 가지치기). 본 페이지의 미결 질문 중 하나.
+- [[davila-2026-agrp-neurons-are-required-for]] — **약물에 의한 AgRP 시냅스 재편**: 세마글루타이드 2일차엔 sIPSC·sEPSC 모두 증가, **15일차엔 sIPSC 빈도만 감소**해 순흥분 쪽으로 이동하며 미토콘드리아 밀도·PVH 말단 면적도 증가 (PNAS 2026).

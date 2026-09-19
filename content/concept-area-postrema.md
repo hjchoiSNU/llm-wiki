@@ -2,12 +2,12 @@
 title: Area postrema (AP·최후야)
 type: concept
 created: 2026-07-05
-updated: 2026-09-07
+updated: 2026-09-19
 aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Area postrema(최후야)는 혈뇌장벽 밖에서 순환 독소·malaise 호르몬(GLP-1·GDF15·amylin·고칼슘)을 직접 감지하는 sensory CVO. 최형진 랩 food-safety-alarm의 "섭취후 순환독소 1차 감지소" — GLP1R/GFRAL/CaSR 흥분성 뉴런이 오심·혐오 신호를 PBN으로 funneling하고, GIPR 억제뉴런이 이를 끄는 항비만·항오심 표적 노드.
+> Area postrema(최후야)는 혈뇌장벽 밖에서 순환 독소·malaise 호르몬(GLP-1·GDF15·amylin·고칼슘)을 직접 감지하는 sensory CVO. 최형진 랩 food-safety-alarm의 "섭취후 순환독소 1차 감지소" — GLP1R/GFRAL/CaSR 흥분성 뉴런이 오심·혐오 신호를 PBN으로 funneling하고, GIPR 억제뉴런이 이를 끄는 **항오심** 표적 노드(항비만 효과는 AP 특이적으로 입증된 것이 아니라 뇌 전반 Vgat⁺ GIPR 의존성에 근거 — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]]).
 
 # Area postrema (AP·최후야)
 
@@ -19,6 +19,7 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - **세포 조성**([[zhang-2021-area-postrema-cell-types-that|Zhang 2021]]): 흥분성 4종·억제성 3종. **cluster 4 = Glp1r+Gfral+Casr** danger hub; cluster 1 = Calcr(amylin); 억제성 cluster 6 = **Gipr**.
 - **감지 리간드**: GLP-1(exendin-4), GDF15(GFRAL), amylin(CALCR), 고칼슘(CaSR), LiCl·LPS 등 malaise 신호.
 - **오심 억제축**([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]]): 장호르몬 **GIP가 GIPR⁺ 억제뉴런을 활성 → GABA로 GFRAL 오심뉴런 억제** → 독소 회피 차단(항오심 표적).
+  - ⚠️ 원논문 한계를 함께 읽을 것: **식후 생리적 GIP 농도가 뇌간 GIPR 뉴런에 충분히 도달하는지, 간접 경로 여부는 미해결**이다([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]] 저자 명시). 입증된 것은 **예방적 외인성 GIP 투여**가 GDF15·LiCl 유발 맛 회피를 없앴고 cluster 6(GIPR⁺) 절제 시 그 효과가 사라졌다는 약리 결과다.
 - **출력**: 장거리 흥분성 투사가 **[[concept-parabrachial-cgrp-alarm|PBN CGRP(general alarm)]]**·자율운동핵으로.
 - **DVC 내 역할 구분**: AP=CVO 독소감지 / NTS=satiety·baseline brake(→ [[concept-dorsal-vagal-complex]]와 구분).
 
@@ -35,3 +36,4 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[overview-cea-glp1r-food-safety-alarm]] — AP를 섭취후 독소 관문으로 편입.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — GLP-1RA 오심·구토가 `GLP1R` 좌위 변이와 연관되고 **효능과 같은 신호일 가능성**(72.6%); AP 혐오 축의 인간 유전 대응 (Nature 2026).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — NTS POMC 입력이 밀집한 연수 계열(Su5·IRt·Gi·RMg·MdD/MdV·PCRt)의 해부 지형. NTS POMC 입력의 ~80%가 뇌교·연수에서 오며, AP 인접 hindbrain이 POMC 포만 회로의 주 상류임을 보임 (Front Neuroanat 2015).
+- [[concept-gdf15-gfral-axis]] — AP/NTS 한정 수용체 GFRAL과 그 리간드 GDF15(지질·metformin 유래)의 개념 hub.

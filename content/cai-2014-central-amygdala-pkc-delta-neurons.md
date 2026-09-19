@@ -2,7 +2,7 @@
 title: "중심편도 PKC-δ⁺ 뉴런이 다중 anorexigenic 신호를 매개한다 (Cai 2014)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/Cai et al. 2014, Nat Neurosci — Central amygdala PKC-δ⁺ neurons mediate multiple anorexigenic signals.pdf
 authors: [Cai H, Haubensak W, Anthony TE, Anderson DJ]
 year: 2014
@@ -25,6 +25,7 @@ CeA의 PKC-δ⁺ GABAergic 뉴런이 포만·구역·병증·불쾌한 맛 등 �
 **Results.**
 - **다중 신호 감지**: CCK·LiCl·LPS 투여 후 CeA Fos⁺의 약 80%가 PKC-δ⁺.
 - **필요성**: hM4Di 억제 시 CCK의 섭식억제가 유의하게 rescue(LiCl 부분, LPS는 무관 → 선택적 매개).
+  - ⚠️ **Fos 수렴 ≠ 기능적 필요성**: 상단 callout과 [[overview-cea-glp1r-food-safety-alarm]]·[[concept-central-amygdala-glp1r]]에 쓰인 "CCK·LiCl·LPS 다중 수렴"은 **Fos 수준의 수렴**(CeA Fos⁺의 ~80%가 PKC-δ⁺)을 가리킨다. 화학유전 억제에서 실제로 필요했던 것은 **CCK(및 부분적으로 LiCl)** 뿐이고 **LPS 식욕억제에는 불필요**했다. 병증(염증)성 anorexia를 CeA 경유로 설명할 때 이 제한을 반드시 붙일 것.
 - **충분성**: 5 Hz 광활성 → 음식박탈 상태에서도 섭식 강력 억제(가역). 접근 지연↑·접근 횟수↓ (appetitive·consummatory 모두).
 - **탈억제로 과식**: eNpHR 침묵 → 포만 마우스 섭취 ~2배↑, 포만 도달 T₀.₅ 8.2분(vs GFP 4.2분).
 - **입력 수렴**: LPB·insula·BLA 등에서 역행 라벨. **LPB→CeA PKC-δ⁺ 입력의 ~60%가 CGRP⁺**([[campos-2016-parabrachial-cgrp-neurons-control-meal|CGRP^PBN]] 연결).
@@ -35,7 +36,7 @@ CeA의 PKC-δ⁺ GABAergic 뉴런이 포만·구역·병증·불쾌한 맛 등 �
 
 ## 관련 페이지
 - [[concept-central-amygdala-glp1r]] — 같은 CeA 노드의 GLP-1R 세포군; PKC-δ와 비중복·상보 관계.
-- [[duran-2026-the-central-amygdala-integrates]] — GLP-1RA hypophagia에 **PKCδ가 광범위 필요**함을 확정(본 논문의 기능적 후속).
+- [[duran-2026-the-central-amygdala-gates]] — Ex-4(GLP-1RA) hypophagia에 **Prkcd^CeA가 필요**함을 확정(본 논문의 기능적 후속; Mol Metab 출판판 — pellet retrieval은 암·수 모두, active poke은 암컷에서만 rescue되며 rescue는 불완전. 프리프린트는 [[duran-2026-the-central-amygdala-integrates]]).
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBN → PKC-δ^CeA 포만/혐오 입력(본 논문의 LPB CGRP 입력).
 - [[concept-parabrachial-cgrp-alarm]] — CeA 상류 뇌간 일반경보 hub.
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — 대조되는 CeA^Htr2a **양성-가치 섭식촉진** 극(PKC-δ 억제).
