@@ -2,7 +2,7 @@
 title: Free fatty acid receptors (GPR40/FFAR1, GPR120/FFAR4)
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-09-19
 aliases: [FFAR1, FFAR4, GPR40, GPR120, free fatty acid receptor, 유리지방산 수용체]
 ---
 
@@ -43,6 +43,18 @@ Long-chain fatty acid(LCFA, MUFA·PUFA 포함)에 반응하는 **G protein-coupl
 | 식이지방 조절(미뢰) | 후전사 급감 | 불변 |
 | GLP-1 분비 | — | GPR120 매개 |
 
+### 상피 극성이 설명하는 분업 (Garrido 2026)
+[[garrido-2026-lipid-sensing-and-brain-hormone|Garrido 2026]]은 장세포·EEC의 지질 수용체가 **막 극성으로 분업**한다고 정리한다(Fig. 1).
+
+| 수용체 | 막 위치 | 감지 대상·역할 |
+|---|---|---|
+| **[[concept-cd36\|CD36]]** | **apical**(내강 쪽) | 지방산 translocase; [[concept-cck\|CCK]] 분비세포와 공발현, PPARγ가 발현 조절, 번역후 수식·막 수송이 국재를 제어 → 지방산 흡수·호르몬 분비에 관여 |
+| **GPR40·GPR120** | **basolateral**(주로) | 흡수된 지방산 감지 → CCK·GIP·GLP-1 분비 |
+| GPR119 | apical + basolateral | 2-oleoyl glycerol·oleoylethanolamide 등 |
+
+- 이 배치는 위키 안의 겉보기 충돌 — [[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]]의 "장 선호엔 CD36 불요"(미주 반응·선호 학습 지표) vs [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]의 GPR40/120/CD36 3중 **약리** 차단·Garrido 2026의 "CD36 = 지질 감지의 상류 매개자" — 을 **어느 단계(내강 접촉 vs 흡수 후 감지)·어느 지표(호르몬 분비 vs 선호 학습)를 봤는가**의 문제로 재정의한다.
+- 실무 함의: 장 지질 감지를 약물로 건드릴 때 apical(CD36·GPR119)과 basolateral(GPR40/120) 표적은 **투여 경로·제형이 달라진다**.
+
 ## 임상 함의
 - **GPR120 작용제**: 항염·인슐린 감수성·GLP-1 분비 → 대사질환 표적.
 - **GPR40 작용제**: 인슐린 분비 증강(당뇨) — 일부 간독성으로 개발 난항.
@@ -61,3 +73,5 @@ Long-chain fatty acid(LCFA, MUFA·PUFA 포함)에 반응하는 **G protein-coupl
 - [[concept-incretin-effect]] — 지방 감지 ↔ incretin.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 vs 장 지방 수용체 분리 연구.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — GPR40/GPR120의 **basolateral** 국재·GPR119(apical+basolateral) 추가, 지질 감지 → CCK(~5–10분)·GLP-1·PYY·GIP(~15분)·GDF15(1–6 h) 시간차 분비 종합 (Nat Rev Endocrinol 2026).
+- [[ge-2026-identification-of-or5v1-olfr110]] — 지방산 자체가 아니라 **산화 대사물(옥시리핀 12(S)-HEPE)**을 읽는 별도 수용체 계층(간 이소성 후각수용체 Or5v1/Olfr110) (Cell 2026).

@@ -2,7 +2,7 @@
 title: Glucagon-like peptide-1 (GLP-1)
 type: concept
 created: 2026-04-29
-updated: 2026-09-02
+updated: 2026-09-19
 aliases: [GLP-1, glucagon-like peptide-1, GLP1]
 ---
 
@@ -48,7 +48,9 @@ Proglucagon에서 절단된 30-31 aa peptide. 두 활성형: GLP-1(7-37), **GLP-
 가수분해 필요. 인공감미료는 GLP-1 자극 X.
 
 ## 수용체
-**GLP-1R** (Class B GPCR): 췌장 β-cell, 위, 미주신경 구심성, 뇌(area postrema, NTS, lateral parabrachial, VTA, PVN, NAcc, **DMH·ARC·PVH·LH·VMH**), 심방, 신장. 단순 확산으로 BBB 통과.
+**GLP-1R** (Class B GPCR): 췌장 β-cell, 위, 미주신경 구심성, 뇌(area postrema, NTS, lateral parabrachial, VTA, PVN, NAcc, **DMH·ARC·PVH·LH·VMH**), 심방, 신장.
+
+> ⚠️ **BBB — 대상을 구분할 것**: 이 페이지의 정박 리뷰([[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert Physiol Rev]])는 **내인성 GLP-1 펩타이드**에 대해 "뇌에 단순 확산으로 들어가는 것으로 보인다"(Kastin 2002 인용)고 적는다. 그러나 **GLP-1 의약(GLP-1RA)**은 다르다: 펩타이드 GLP-1RA는 BBB를 **효율적으로 통과하지 못하며**, 뇌 접근은 **뇌실주위기관(area postrema·subfornical organ·OVLT·정중융기)**과 혈관 근접부, 그리고 [[concept-tanycytes|tanycyte]] GLP-1R 매개 수송에 국한되고 CSF 농도는 미량(exenatide CSF는 혈중의 ~1/100)이다([[fang-2025-glucagon-like-peptide-1-medicines|Fang 2025]]·[[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]·[[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]). 단 Sabbagh는 liraglutide·semaglutide·exenatide의 BBB 통과를 시사하는 전임상도 병기하므로 "전혀 못 통과"가 아니라 **"효율적이지 않다"**가 정확한 표현이다. 예외적으로 경구 **소분자** danuglipron(555.6 Da)은 심부 CeA 뉴런을 직접 활성화함이 입증됐고, orforglipron은 AP보다 **NTS 편향 FOS**를 보였다([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]). → 이 항목은 [[concept-glp1-neuroprotection]]의 '뇌 도달 부족' 가설과 [[du-2026-oral-glp1-receptor-agonist-promotes|뇌투과형 설계]]의 전제다.
 
 ## 작용
 
@@ -79,6 +81,21 @@ Proglucagon에서 절단된 30-31 aa peptide. 두 활성형: GLP-1(7-37), **GLP-
 
 DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 
+### 3-1) ★ 부위별 GLP-1R은 서로 다른 출력을 통제한다 (2026 인과 실험 종합)
+
+같은 수용체라도 **어느 부위에서 켜느냐에 따라 통제되는 변수가 다르다**. 아래는 모두 마우스 인과 실험이며, 인간 근거는 별도 표기.
+
+| 부위 | 통제하는 출력 | 결정적 실험 | 출처 |
+|---|---|---|---|
+| **AP** | **체중 감량 그 자체** | DVC Gs(Gnas) 결손 → 감량 소실; **AP에만 Gs 보존해도 전량 회복(-7.2%)**; NTS는 무상관 | [[gao-2026-semaglutide-drives-weight-loss-through\|Gao 2026]] |
+| **NTS–AP** | 표준식이 + 기호식 **둘 다** | 부위별 human GLP1R 발현 + danuglipron | [[godschall-2026-a-brain-reward-circuit-inhibited\|Godschall 2026]] |
+| **BMH/DMH** | **표준식이(항상성)만**, HFD 무변 | 같은 부위별 발현 실험 | [[godschall-2026-a-brain-reward-circuit-inhibited\|Godschall 2026]] |
+| **CeA** | **기호식(hedonic)만**, SD·체중 무변 | CeA hGLP1R+danuglipron·ChR2 → HFD만 억제; CeA Glp1r 삭제 → liraglutide의 HFD 억제 감소 | [[godschall-2026-a-brain-reward-circuit-inhibited\|Godschall]] · [[duran-2026-the-central-amygdala-gates\|Duran 2026]] |
+| **ARC POMC(PKA)** | **식후 혈당** (체중 아님) | POMC PKA 결손 → 세마글루타이드 혈당강하·장 SGLT1↓ 소실, **체중감량은 무관**; tirzepatide는 비의존 | [[lim-2026-hypothalamic-pomc-neurons-regulate\|Lim 2026]] |
+
+> **읽는 법**: "GLP-1RA가 식욕을 줄인다"는 한 문장으로 쓰면 이 분업이 지워진다. **체중=AP / 기호식=CeA / 항상성 섭취=DMH·BMH / 혈당=ARC POMC**로 분리해 쓰고, 병용·부위특이 설계는 이 표에서 출발할 것.
+> ⚠️ **증거 등급**: 위 다섯 행은 전부 **마우스 인과**이고 상당수가 humanized 수용체(Glp1r^S33W)·화학유전 도구에 의존한다. 인간 쪽 근거는 [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]]의 RCT(preingestive satiation)와 [[gupta-2021-glucagon-like-peptide-1-and|인간 뇌 GLP-1R 분포]] 정도이며, 부위별 분업 자체가 인간에서 검증된 바는 없다.
+
 ### 4) Satiation/aversion 분리 (Hindbrain)
 
 **Huang et al. 2024 Nature**:
@@ -86,6 +103,8 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - **AP GLP-1R** → 강한 aversion (Gfral·Casr 공발현 subset 매개).
 - AP GLP-1R 절제 → aversion ↓, 식이 억제 보존.
 - → **차세대 GLP-1RA**: AP 회피 → 메스꺼움 ↓ 약물.
+
+⚠️ **단, AP 귀속은 미확정**: [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]은 **같은 세마글루타이드**로 AP Gs 보존만으로 체중 감량이 전량(−7.2%) 회복되고 NTS는 무상관임을 보고해 Huang의 NTS 주도와 반대다. 두 연구의 차이는 약물이 아니라 **조작 수준**(GLP-1R 뉴런 침묵 vs Gnas(Gs) 결손)과 **필요성 vs 충분성** 논리에 있다(Gao에는 AP 단독 결손군이 없어 AP 필요성은 상관 수준). 따라서 "AP 회피=효능 유지"는 아직 재확인이 필요하다. → [[cao-2024-hunting-for-heroes-brain]]
 
 ### 5) GI 운동성
 - 위 배출 지연 (PD/A 모두 충족).
@@ -101,7 +120,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - 전임상 AD 모델에서 β-amyloid·tau·신경염증·뇌 인슐린저항·시냅스 손실을 다면적으로 개선.
 - 관찰연구: dulaglutide 인지저하 지연(REWIND), liraglutide+semaglutide 치매 발생 감소, exenatide 파킨슨 개선.
 - **그러나 결정적 3상은 음성**: [[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]](경구 sema, 초기 AD, n=3,808) 임상 종점 완전 음성·조기 중단; [[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]도 1차 음성. → 증상성 AD 임상 이득 미확립.
-- 기전: 뇌 GLP-1R은 성상교세포에 우세하며 [[concept-astrocyte-neuron-lactate-shuttle|젖산 셔틀]]·H3K9la를 통해 작동([[du-2026-oral-glp1-receptor-agonist-promotes|OHP2, Cell Metab 2026]]); sema 실패는 **뇌 도달 부족**일 수 있음.
+- 기전(세포종류 논쟁 중): **AD 관련 부위(해마·피질)를 본 마우스 연구**에서 GLP-1R가 성상교세포 표면에 우세하고 뉴런에는 소수로 관찰되며, AD 모델에서 성상교세포 GLP-1R가 **추가로 상향(보상성)**돼 약효 창을 만든다 — [[concept-astrocyte-neuron-lactate-shuttle|젖산 셔틀]]·H3K9la 경유([[du-2026-oral-glp1-receptor-agonist-promotes|OHP2, Cell Metab 2026]]; APP/PS1·5xFAD, **수컷 마우스만**. 저자 스스로 "선행 연구는 PVN·후각구에 집중했고 본 연구는 피질·해마를 본다"고 부위를 한정). 반면 [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]은 CNS GLP-1R가 **주로 뉴런**이고 성상교세포·희소돌기아교세포·내피·혈관평활근·주피세포에도 발현한다고 기술한다. 본 hub가 정리하는 DMH/AP/POMC의 **뉴런** GLP-1R 회로와 충돌하지 않도록, 성상교세포 우세는 **부위·모델·성별 한정 소견**으로 읽을 것. sema 임상 실패의 **뇌 도달 부족** 귀인도 여러 후보 중 하나인 가설이다([[concept-glp1-neuroprotection]] 참조).
 - 상세: [[concept-glp1-neuroprotection]].
 
 ## T2DM에서
@@ -134,7 +153,8 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 | Tirzepatide (Mounjaro/Zepbound) | GIP/GLP-1 dual | T2DM, 비만 |
 | Exenatide (Byetta/Bydureon) | DPP-4 저항 | T2DM |
 | Retatrutide | GLP-1/GIP/glucagon triple | 임상 진행 |
-| Danuglipron | 경구 small molecule | 임상 진행 |
+| Danuglipron | 경구 small molecule | **개발 중단(간독성)** — 단 BBB 투과 회로 연구 도구로는 계속 사용([[concept-central-amygdala-glp1r]]) |
+| Orforglipron | 경구 소분자, partial/biased agonist | **2026 FDA 승인**([[petersen-2026-the-evolving-landscape-of]]) |
 
 ### Tanycytes
 - 시상하부 tanycytes (3rd ventricle 벽)에 GLP-1R 발현 — liraglutide·semaglutide의 시상하부 transport 매개 (Imbernon 2022).
@@ -154,7 +174,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - Semaglutide → acetate-producer (Bacteroides acidifaciens, Blautia coccoides) ↑ → ARC acetate → POMC GPR43 → 식이 ↓.
 - Semaglutide + **Akkermansia muciniphila Akk11** 시너지 (Gao 2026).
 - Tirzepatide 효과가 microbiota 의존 — antibiotic depletion 시 차단 (Ma 2025).
-- **중단 rebound** (Wang 2026): 71% 12주 내 체중 rebound + ursodeoxycholic acid ↓ + TGR5 ↓.
+- **중단 rebound** (Wang 2026, 비만 여성 28명 전향 코호트): **참가자의 71.4%가 12주 이내 유의한 체중 재증가**(사람 비율 지표이지 체중 변화율 아님) + ursodeoxycholic acid ↓ + 시상하부 TGR5 ↓.
 
 ## 인간 hypothalamic atlas (Tadross 2025)
 - **인간 POMC = LepR + GLP1R 공발현** (마우스 분리). → dual agonist 효과 분자 정당성.
@@ -216,7 +236,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[wan-2023-glp-1r-signaling-and-functional]] — GLP-1R 세포내 신호(Gαs/Gαq/β-arrestin)·biased agonism.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 췌장외·중추 작용 대조 표준 리뷰.
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 뉴런(DMH/후뇌/LS) 비판적 종합.
-- [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide는 food liking 불변(효과는 wanting 축) 인간 RCT.
+- [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 food liking을 바꾸지 않았다는 인간 RCT(**미심사 preprint·n=44·저검정력 null**); 효과는 wanting 축이라는 해석의 간접 근거.
 - [[concept-glp1-neuroprotection]] — GLP-1RA 신경퇴행 repurposing hub(대사 밖 뇌 작용).
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 경구 sema 초기 AD 3상 음성(EVOKE/EVOKE+, Lancet 2026).
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 GLP-1RA(OHP2)의 성상교세포 젖산·H3K9la 기전(Cell Metab 2026).

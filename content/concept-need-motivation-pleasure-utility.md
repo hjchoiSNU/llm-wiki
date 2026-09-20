@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-09-02
+updated: 2026-09-19
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -100,7 +100,7 @@ REMD 2026 special issue 7편 ingest 이후 NMPU 회로 매핑 갱신:
 - **AgRP heterogeneity** ([[faour-2025-emerging-role-of-agrp|Faour 2025]]): ARC + AgRP^Hindbrain (Bachor 2024) + pituitary/adrenal AgRP — Need 신호의 분산.
 - **Circadian Need**: SCN→DMH^Trh→ARC AgRP feed-forward (Douglass 2024 Cell Metab) — Need가 시간 anticipation까지 인코딩.
 - **BNC2+/Lepr+ ARC GABA** (Tan HL 2024 Nature, Friedman lab): AgRP보다 빠른 식이 cue 반응. Need 갱신 회로 추가 노드.
-- **DMH GLP-1R/LepR/Trh co-express subset** (Webster 2024 RAMPANT, [[concept-dorsomedial-hypothalamus|DMH]]): liraglutide의 Need 차단 분자 회로.
+- **Trh⁺/Glp1r⁺/Lepr⁺ caudal ARC 억제성 subset** (Webster 2024 RAMPANT; 위키 내 다수 페이지가 부위를 **caudal ARC**로 기록 → [[concept-arcuate-nucleus]]): liraglutide의 Need 차단 분자 회로 **후보**. 사용자 lab의 [[kim-2024-glp-1-increases-preingestive-satiation|DMH^GLP-1R]] 집단과 동일 세포인지는 미확정이며, [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]]는 Lepr×Glp1r 뉴런이 ARC=Trh형(74.4%)·DMH=Ebf1형(~60%)으로 갈린다고 보고한다.
 
 ### Motivation 회로 — Korotkova arbitration framework
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]: LH가 **hunger × safety × social 3 motivational drive arbitration**.
@@ -147,7 +147,7 @@ REMD 2026 special issue 7편 ingest 이후 NMPU 회로 매핑 갱신:
 
 → Weber framework의 **state-driven (water) vs event-driven (sugar/fat)** 구분도 NMPU 안에 흡수 가능 — Utility의 두 sub-type.
 
-[[knight-liberles-2025-interoception|Knight & Liberles 2025]] editorial 의 anticipatory homeostasis 정의 (homeostatic neuron이 sensory cue로 bodily change를 **anticipate**) 와 NMPU의 Need definition이 동일.
+[[knight-liberles-2025-interoception|Knight & Liberles 2025]] editorial의 **저자 약력란**에 실린 anticipatory homeostasis 진술(homeostatic neuron이 sensory cue로 bodily change를 **anticipate**)은 NMPU의 Need definition과 **개념적으로 정합**하다(위키의 해석 — editorial 본문은 NMPU를 언급하지 않는다).
 
 → **사용자 lab의 NMPU framework가 2025 frontier가 도달한 결론과 정렬**. NMPU는 4-component 분리·bidirectional cycle·algorithm reshape 등에서 더 ambitious. RL 분야에 NMPU를 push할 timing.
 
@@ -230,7 +230,7 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[redish-2016-the-computational-complexity-of-valuation]] — 가치의 다중성(단일 common currency 거부)·craving·CM(계산 관점).
 - [[dong-2026-nose-to-brain-axis-spoiled-food]] — 운동방어(retching) vs 가치방어(aversion) 해리.
 - [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — CGRP^PBN 혐오 경보 = 부적 정동/utility 축.
-- [[coppin-2022-does-glp-1-receptor-agonist]] — GLP-1RA는 Pleasure(liking) 축 불변(인간 약리 검증).
+- [[coppin-2022-does-glp-1-receptor-agonist]] — GLP-1RA가 Pleasure(liking) 축을 바꾸지 않는다는 **인간 null 결과**. ⚠️ 근거 등급 주의: **미심사 preprint·분석 n=44·사전 설계된 검정력 없음** — 저자 스스로 확정 아님이라 명시(단 상호작용항 BF=0.041로 null 쪽을 지지).
 - [[meye-2014-feelings-about-food-the]] — need vs hedonic/정서 drive 구분(VTA 회로).
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR Motivation의 다중 욕구 arbitration.
 - [[concept-inhibitory-control-demand]] — Utility(자기통제·미래가치) 성분의 회로 구현: craving-비례 dlPFC·ACC 제어부하(trouble resisting).
@@ -248,3 +248,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **해마=경험 기반 결과 예측 / 시상하부=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 시상하부, 학습된 Utility는 피질-해마" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **맥락 게이팅이 Motivation 크기와 분리 가능**함을 보인 드문 인과 증거: DLS^Pdyn 억제는 총 섭취량을 바꾸지 않고 **보상 맥락 귀속만** 무너뜨렸다 (Neuron 2026). → [[concept-lateral-septum]]
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — **Motivation 축의 지속(engagement)**을 eCB가 매개; 총 섭취량(Need)과 해리된다는 점에서 두 축 분리의 실험적 사례 (Nature 2026).
+- [[davila-2026-agrp-neurons-are-required-for]] — Need 축(AgRP)이 **섭취량과 분리되어 체중 결과를 좌우**한 사례: AgRP 기능 결손 암컷에서 GLP-1RA의 칼로리 섭취 억제는 유지되나 전신 지방 이용 전환과 체중 감량이 약화됨 (PNAS 2026).

@@ -2,7 +2,7 @@
 title: Central amygdalar GLP-1R neurons (CeA^Glp1r)
 type: concept
 created: 2026-05-31
-updated: 2026-09-07
+updated: 2026-09-19
 aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Glp1r^CeA, CeM Glp1r]
 ---
 
@@ -15,8 +15,10 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 중심편도(central amygdala, CeA) — 특히 내측 CeM — 에 위치한 **GLP-1 수용체(Glp1r) 발현 GABAergic 뉴런**. 말초·중추 GLP-1RA 투여 시 일관되게 동원되며, GLP-1RA의 **기호성(hedonic) feeding 억제 효과를 전담**하는 회로 노드. 인접한 [[concept-basolateral-amygdala|기저외측 편도(BLA)]]와는 별개 nucleus.
 
 ## 분자·세포 정체
+> ⚠️ **인용 판본 주의**: Duran et al.은 bioRxiv 프리프린트([[duran-2026-the-central-amygdala-integrates|"integrates"]])와 정식 출판판([[duran-2026-the-central-amygdala-gates|"gates", *Mol Metab* 110:102403, 2026]])이 모두 이 위키에 있다. 결론은 동일하나 **인용은 출판판으로** 한다. 현재 위키 안에는 프리프린트를 1차로 인용하는 페이지가 다수 남아 있으므로 발견 시 교체할 것.
+
 - **GABAergic** (glutamatergic marker 없음). [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]] snRNA-seq: **Vdr(vitamin D receptor)+ cluster**.
-- **~30% Pnoc(prepronociceptin) 공발현** — Pnoc^CeA는 palatable feeding 촉진(Hardaway 2019) → CeA^Glp1r과 **reciprocal(길항)** 관계 추정.
+- **~30% Pnoc(prepronociceptin) 공발현** — [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]] RNAscope: CeA^Glp1r 뉴런의 약 30%가 Pnoc을 **함께** 발현. ⚠️ **미해결 긴장**: Pnoc^CeA는 기호식 섭취를 *촉진*하고(Hardaway 2019) CeA^Glp1r 활성은 기호식을 *억제*하는데 두 표지자가 **같은 세포에서 30% 겹친다** — 공발현은 두 집단을 서로 배타적인 gas/brake로 나누는 그림과 긴장 관계에 있다. [[duran-2026-the-central-amygdala-gates|Duran 2026]]의 "Pnoc^CeA와 **reciprocal(길항)** 관계"는 저자들의 **추정 가설**이지 이 공발현 데이터에서 유도된 결론이 아니다. Godschall 2026도 한계에서 **CeA^Glp1r 이질성(Vdr⁺/Pnoc⁺ 등) 내 기능 분해는 미완**이라고 명시 — 위키 자료 범위에서 **Pnoc⁺Glp1r⁺ 세포의 기능은 미검증**.
 - CeM에서 Sst·PKCδ(Prkcd) population과 **비중복** 분포 (Zeng 2021).
 - **Gs–cAMP** 신호: GLP1RA 결합 → cAMP 상승 → 탈분극·흥분성↑.
 
@@ -31,10 +33,10 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 ## 기능 — hedonic feeding 전담
 - **selectivity**: CeA^Glp1r 활성(ChR2)·human GLP1R 발현+danuglipron → **기호성 HFD 섭취만 억제, 표준식이(SD)·체중·에너지소비 무변** ([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]]).
 - **necessity**: CeA에서 Glp1r 삭제 → liraglutide의 HFD 억제 능력 감소(SD 무변).
-- [[duran-2026-the-central-amygdala-integrates|Duran 2026]]: 말초 Ex-4가 CeA를 빠르고 지속적으로 활성(Exendin-9로 차단). **Glp1r^CeA 억제 → Ex-4의 HFD 억제를 강하게 rescue(~30%)**, 표준식이(~10%)보다 큼 → homeostatic보다 hedonic 억제.
+- [[duran-2026-the-central-amygdala-gates|Duran 2026 (Mol Metab, 출판판)]]: 말초 Ex-4가 CeA를 빠르고 지속적으로 활성(Exendin-9로 차단). **Glp1r^CeA 억제 → Ex-4의 HFD 억제를 강하게 rescue(~30%)**, 표준식이(~10%)보다 큼 → homeostatic보다 hedonic 억제.
 - CeA = global hunger/satiety가 아닌 **food valence(쾌락가)** 인코딩.
 
-## CeA 세포종류 분업 ([[duran-2026-the-central-amygdala-integrates|Duran 2026]])
+## CeA 세포종류 분업 ([[duran-2026-the-central-amygdala-gates|Duran 2026, Mol Metab 출판판]]; 프리프린트 = [[duran-2026-the-central-amygdala-integrates]])
 | CeA population | Ex-4 hypophagia 효과 |
 |---|---|
 | **Prkcd(PKCδ)** | 필요 (광범위) |
@@ -71,7 +73,7 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[jin-2021-top-down-control-of-sweet]] — CeA→뇌간 rNST GABA 피드백으로 단맛/접근 억제.
 - [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 예측적 혐오 회피 학습.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBel→PKC-δ^CeA 포만/혐오 입력.
-- [[cai-2014-central-amygdala-pkc-delta-neurons]] — CeA **PKC-δ⁺ anorexigenic 극**의 원전(CCK·LiCl·LPS 다중 수렴); Glp1r과 비중복.
+- [[cai-2014-central-amygdala-pkc-delta-neurons]] — CeA **PKC-δ⁺ anorexigenic 극**의 원전(CCK·LiCl·LPS의 **Fos** 수렴; 기능적 필요성은 CCK·부분 LiCl에 한정, LPS엔 불필요); Glp1r과 비중복.
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA **Htr2a⁺ 양성-가치 섭식촉진극**(PKC-δ 억제); hedonic 억제극의 반대.
 - [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
 - [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.

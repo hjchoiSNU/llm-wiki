@@ -2,7 +2,7 @@
 title: "Kim, Park, Hwang et al. 2024 — GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans"
 type: paper
 created: 2026-05-25
-updated: 2026-05-31
+updated: 2026-09-19
 source: raw/2024 Science. GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans..pdf
 authors: [Kyu Sik Kim, Joon Seok Park, Eunsang Hwang, Min Jung Park, Hwa Yun Shin, Young Hee Lee, Kyung Min Kim, Laurent Gautron, Elizabeth Godschall, Bryan Portillo, Kyle Grose, Sang-Ho Jung, So Lin Baek, Young Hyun Yun, Doyeon Lee, Eunseong Kim, Jason Ajwani, Seong Ho Yoo, Ali D. Güler, Kevin W. Williams, Hyung Jin Choi]
 year: 2024
@@ -21,7 +21,8 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 
 ### 1. 인간 RCT — preingestive satiation
 - Phase-specific 임상시험: baseline → preingestive (cue 노출) → ingestive 3 phase.
-- GLP-1RA 처치군 = preingestive phase에서 **prospective food ingestion·reward·motivation index 모두 ↑**.
+- GLP-1RA 처치군 = preingestive phase에서 **satiation index가 baseline 대비 유의하게 ↑** — prospective food ingestion·food reward·food motivation **각각의 satiation index가 모두 상승**(원문 Results 'GLP-1RAs raise human preingestive satiation', Fig. 1B–F 및 fig. S1D–E, n=28).
+- ※ satiation index는 값이 클수록 포만이 큰 지표이며 실제 섭취량과 역상관(fig. S1C)이다. 따라서 "앞으로 먹을 수 있을 것 같은 양(prospective food ingestion)"은 GLP-1RA에서 **감소**하는 방향으로 읽어야 한다.
 - Control은 baseline → preingestive로 satiation 감소; GLP-1RA는 유지·증가.
 - Baseline satiation × 처치 ANCOVA: GLP-1RA가 preingestive 단계에서 가장 큰 효과.
 
@@ -75,14 +76,14 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025 DMJ]] = 본 Science 2024 paper의 한국어 추가 분석 + 후속 review.
 - [[concept-arcuate-nucleus|ARC]] feed-forward sensory cue 회로 — DMH GLP-1R이 매개자 정립.
 - Webster 2024 Nat Metab RAMPANT: 인간 atlas의 **Trh+/Glp1r+/Lepr+ caudal ARC inhibitory subset** = 본 paper의 DMH GLP-1R+/LepR+ subset 신호 매개.
-- Garfield 2016 Nat Neurosci — DMH LepR → ARC AgRP GABA.
+- [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016 Nat Neurosci]] — vDMH^LepR/pDYN → ARC AgRP GABA 억제(음식 sight·가치에 반응). 본 논문의 DMH^GLP-1R 억제 입력과 같은 계열의 선행 회로.
 - Berrios 2021 Nature — LH^Vglut2 → DMH LepR → ARC AgRP.
 
 ## 사용자 lab framework
 - **NMPU framework** ([[concept-need-motivation-pleasure-utility|NMPU]]):
   - **DMH GLP-1R cognitive satiation** = **Need 갱신 (predicted deficit feed-forward 감소)** 분자 회로.
   - Preingestion neurons (23%) = Need encoder, ingestion neurons (21%) = Utility decoder.
-- **Cheon 2025 LH**: LH^Vglut2 → DMH 신호 매개 (LH input source).
+- **[[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025 LH review]]**: LH^Vglut2 → DMH 신호 매개 (LH input source).
 - **Hijacked brain**: GLP-1RA 효과가 5 maladaptive type 중 cue-evoked·habit·addiction 회로 표적.
 
 ## 임상 함의

@@ -2,7 +2,7 @@
 title: "Genetic predictors of GLP1 receptor agonist weight loss and side effects (Su et al. 2026, Nature)"
 type: paper
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-19
 source: "raw/2026 Nature. Genetic predictors of GLP1 receptor agonist weight loss and side effects.pdf"
 authors: [Su QJ, Ashenhurst JR, Xu W, Tran V, Wu RR, Weldon CH, Shi J, Hicks B, 23andMe Research Team, Abul-Husn NS, Aslibekyan S, Holmes MV, Koelsch BL, Auton A]
 year: 2026
@@ -103,3 +103,4 @@ doi: 10.1038/s41586-026-10330-z
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 incretin 약물 hub.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — **비코딩 쪽 짝**: 본 논문이 코딩 변이(GLP1R p.Pro7Leu, GIPR p.Glu354Gln)를 다뤘다면, 저쪽은 세포아형 특이 enhancer 위의 조절 변이를 후보로 제시 (bioRxiv 2025).
 - [[concept-cis-regulatory-element-obesity]] — 비코딩 변이를 세포아형에 귀속시키는 방법론 hub.
+- [[overview-cea-glp1r-food-safety-alarm]] — 효능·오심 신호의 co-localization이 "food safety alarm의 치료 출력(섭취 brake) ↔ 혐오 출력"을 분리하려는 차세대 약물 설계 전망에 거는 **인간 유전 수준 제약**.

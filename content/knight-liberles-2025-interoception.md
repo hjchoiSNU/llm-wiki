@@ -2,7 +2,7 @@
 title: "Interoception 2025"
 type: paper
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-09-19
 source: "raw/2025 (Knight, Liberles) Interoception.pdf"
 authors: [Knight ZA, Liberles SD]
 year: 2025
@@ -72,8 +72,9 @@ Knight × Liberles editorial — 인터셉션 분야 21개 review의 frontier �
 3. 동일 신호가 motivation·learning·emotion 모두 modulate.
 
 ## 사용자 lab과의 직접 연결
-- 본 issue의 review 중 ★★ 표시 4개 (Sandoval, Alhadeff, Gribble, Roitman, Small)는 **즉시 ingest 후보**. 
-- Knight·Liberles의 "anticipate bodily changes preemptively"는 NMPU의 Need definition과 일치 — 사용자 lab 이론적 정당성을 frontier가 인정.
+- 본 issue의 review 중 ★★ 표시 **5개** (Sandoval, Alhadeff, Gribble, Roitman, Small)는 **즉시 ingest 후보**. 
+- "anticipate bodily changes preemptively"는 **editorial 본문이 아니라 Knight 개인 약력란**의 자기 lab 요약 문구이며, NMPU를 언급·평가한 것이 아니다(원문 확인: editorial 본문에 NMPU·need/motivation 분해 언급 없음). 이를 NMPU의 Need(=예측된 결핍)와 **개념적으로 정합**하다고 읽는 것은 위키의 해석이다.
+- 외부 리뷰가 사용자 lab의 need/motivation 분해를 **명시적으로 인용**한 사례는 [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]]이며, 거기서도 "a recent normative framework **postulates**"(가설로 소개)로 [[kim-2024-normative-framework-dissociates-need|Kim 2024 Sci Adv]]를 인용한다. [[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]]와의 정렬은 **본 위키가 사후에 매핑한 개념적 호환**이다(Weber 본문은 NMPU를 인용하지 않는다).
 - 본 wiki의 [[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]] 가 같은 영역 review (NRGH)와 cross-reference 가능.
 
 ## 관련 페이지

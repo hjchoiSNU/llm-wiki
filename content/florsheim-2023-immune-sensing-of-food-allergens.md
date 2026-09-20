@@ -2,7 +2,7 @@
 title: 식품 알레르겐의 면역 감지가 회피 행동을 촉진한다 (Florsheim et al. 2023)
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/florsheim-2023-immune-sensing-of-food-allergens.pdf
 authors: [Florsheim EB, Bachtel ND, et al.]
 year: 2023
@@ -40,3 +40,4 @@ year: 2023
 - [[concept-vagal-afferent-neurons]] — 미주 구심성은 개별적으로 불필요하나 중복 기여 가능.
 - [[concept-interoception]] — 면역→뇌 신호(류코트리엔·GDF15)를 통한 내수용 위험 감지.
 - [[woods-1991-the-eating-paradox-how]] — "음식=잠재 위협·learned safety"의 위협 감지 층위 확장.
+- [[concept-gdf15-gfral-axis]] — 본 논문에서 회피에 **필요**했던 GDF15의 수용체 축(GFRAL은 AP/NTS 한정 발현). 단 본 논문에서 **area postrema FOS는 무변**이었으므로, 면역 유래 GDF15의 중추 작용 좌표는 미해결.

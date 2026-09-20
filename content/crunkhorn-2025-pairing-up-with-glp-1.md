@@ -2,7 +2,7 @@
 title: "GLP-1과 렙틴을 짝지어 비만 치료 (Crunkhorn 2025 highlight)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-19
 source: "raw/Crunkhorn - 2024 - Pairing up with GLP-1 to combat obesity.pdf"
 authors: [Sarah Crunkhorn]
 year: 2025
@@ -24,6 +24,8 @@ GLP-1을 렙틴 수용체 작용제와 공유결합한 단일분자 이중작용
 - **db/db(LepR 결여)**: 섭식 억제 실패 → LepR 경로 필요성 입증.
 - **Glp1r 뉴런 특이 Lepr 결손**: 효과 약화 → **GLP-1R 뉴런에서의 LepR 신호가 완전 효과에 필수**. Glp1r 전신 KO에서 효과 소실, LepR 뉴런에 한해 GLP1R 재활성화 시 복원 → **LepR^Glp1r 뉴런이 작용점**임을 인과 확정.
 - **결론**: DMH LepR^Glp1r 뉴런이 차세대 항비만 신약의 매력적 표적; 렙틴 저항성을 우회해 렙틴 이점을 활용하는 전략.
+
+> ⚠️ **근거 등급**: 이 페이지의 모든 실험 서술은 1쪽짜리 **2차 하이라이트**(NRDD 2025;24:89)에서 온 것이고, 1차 논문(Polex-Wolf et al., Sci Transl Med 2024)은 위키·`raw/`에 없다. 따라서 "인과 확정"은 **하이라이트 저자의 요약을 옮긴 것**이며 figure·통계·대조군은 미확인이다. 같은 세포집단의 1차 근거는 [[rupp-2023-suppression-of-food-intake-by|Rupp 2023]]이며, 그쪽은 "GLP-1RA 효과 상당 부분은 다른 Glp1r 뉴런도 매개"라고 더 보수적으로 적는다. 인용 시 1차 논문 확보 후 등급 상향 권장.
 
 ## 관련 페이지
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH Glp1r·Lepr 수렴 뉴런(직접 선행, 가장 밀접).

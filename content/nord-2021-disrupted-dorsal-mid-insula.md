@@ -2,7 +2,7 @@
 title: Disrupted dorsal mid-insula activation during interoception across psychiatric disorders (Nord 2021)
 type: paper
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-09-19
 source: raw/nord-et-al-2021-disrupted-dorsal-mid-insula-activation-during-interoception-across-psychiatric-disorders.pdf
 authors: [Camilla L. Nord, Rebecca P. Lawson, Tim Dalgleish]
 year: 2021
@@ -38,3 +38,4 @@ year: 2021
 - [[mehrhof-2025-an-interoceptive-model-of-energy]] — Nord 랩 energy-allostasis 이론의 신경해부 배경.
 - [[concept-metabolic-interoception]] — 대사 modality를 포함한 내수용 위계(본 논문 probe에 hunger 포함).
 - [[livneh-2020-estimation-of-current-and-future]] · [[gehrlach-2019-aversive-state-processing-in-the]] — 섬엽 내수용 예측·혐오상태 부호화(회로 수준 상보 증거).
+- [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — 7T DCM에서 **우측** dmINS가 BNST와 양방향으로 결합하고, 급성 스트레스가 dmINS→BNST 방향을 하향조절한다. 본 논문의 **좌측** dmINS 소견과 반구가 다르다는 점이 열린 쟁점 (Nat Commun 2026).

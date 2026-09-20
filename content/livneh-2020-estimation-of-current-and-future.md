@@ -2,7 +2,7 @@
 title: "섬엽의 현재·미래 생리상태 추정 (Livneh 2020)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/Livneh et al. 2020, Neuron — Estimation of Current and Future Physiological States in Insular Cortex.pdf
 authors: [Livneh Y, Sugden AU, Madara JC, et al., Lowell BB, Andermann ML]
 year: 2020
@@ -41,3 +41,6 @@ insular cortex가 지속 활동으로 현재 생리상태를, 학습된 단서�
 - [[concept-basolateral-amygdala]] — 학습 동기단서를 insula로 라우팅하는 관문(BLA).
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 섬엽의 음식 anticipation 선제 부호화(종간 대응).
 - [[overview-appetite-energy-homeostasis]] — 예측적 항상성 큰 그림.
+- [[overview-cea-glp1r-food-safety-alarm]] — 본 논문을 food safety alarm의 **피질 내수용 예측층(6층)**으로 인용하는 종합 페이지(역방향 링크).
+- [[schiff-2018-an-insula-central-amygdala-circuit]] — 같은 섬엽에서 출발하는 예측적 혐오 회피(IC→CeL) 학습 축.
+- [[zhao-2026-direct-interoceptive-input-to-the]] — 섬엽 심부층 LepR⁺ 뉴런이 섭식 직전↑·섭취 시↓로 상태를 추적(본 논문의 현재·미래 상태 부호화와 상보).

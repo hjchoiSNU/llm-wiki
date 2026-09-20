@@ -2,7 +2,7 @@
 title: "Dopamine drives persistent remodelling of the maternal brain (O'Chan et al. 2026, Nature)"
 type: paper
 created: 2026-08-19
-updated: 2026-09-11
+updated: 2026-09-19
 source: "raw/2026 Nature. Dopamine drives persistent remodelling of the maternal brain.pdf"
 authors: [O'Chan JC, Di Salvo G, Cunningham AM, Dutta S, Brindley E, Weekley BH, Chen W, Iyer RR, Wan E, Zhang C, Mechawar N, Turecki G, Maze I]
 year: 2026
@@ -59,7 +59,7 @@ pmid: 42162419
 - dHF **snRNA-seq 109,334 핵**(NP 37,030 / control RE 35,631 / stress RE 36,633), **16 클러스터**: 흥분성(DG·CA1·CA3·subiculum·mossy cell, 43.3%), GABAergic(GABA.1–4, 9.1%), 신경전구(neural stem·radial glia-like, 9.7%), 비신경(astrocyte·oligodendrocyte·OPC·microglia·immune, 37.9%).
 - **NP vs control RE** 차이는 흥분성 뉴런, 특히 **subiculum**에 집중. **control vs stress RE** 차이는 **GABA.2와 mossy cell**에 집중.
 - **GABA.2** 클러스터가 **Drd1·Drd2** 발현 농축. subclustering으로 Drd1형·Drd2형 하위집단 동정, 둘 다 control RE에서 변화. 배측 CA1 **FISH**로 검증. DG에서도 흥분성 Drd1(granule)·Drd2(hilar mossy) 세포에서 유사 변화.
-- **도파민 정량**: 새끼 분리 시 NAc·dHF 모두 도파민 상승(절대치는 dHF가 훨씬 낮음 — 지배 밀도 반영). **반복 분리 시 dHF·NAc의 기저 도파민이 상승**(급성과 다름). → stress RE의 Drd1/2 증가는 control RE의 **낮은 기저 도파민에 대한 보상 반응**으로 해석.
+- **도파민 정량**: 새끼 분리 시 NAc·dHF 모두 도파민 상승(절대치는 dHF가 훨씬 낮음 — 지배 밀도 반영). **반복 분리 시 dHF·NAc의 기저 도파민이 상승**(급성과 다름). → 저자 해석(가정): Drd1/2 발현이 **감소한 쪽은 control RE**(Fig. 2h: GABA.2 subclustering에서 control RE의 Drd1·Drd2 발현 감소)이며, 이 **Drd1/2 발현 뉴런 감소가 낮은 기저 도파민에 대한 보상 반응**일 수 있고 control RE에서 관찰된 도파민 관련 전사 활성 감소와 일치한다고 본다. 반복 분리(stress RE 패러다임)는 반대로 dHF·NAc 기저 도파민을 **올리며**(Fig. 2m), 저자는 이를 '산후 스트레스가 도파민 의존 dHF 적응을 교란하는가'의 맥락에서 제시. Result 7에서 NP-hM4Di(도파민 억제) 암컷이 control RE와 유사하게 **낮은 Drd1/Drd2 발현 세포 분포가 증가**한 것(Fig. 4g,h)과 정합.
 
 **Result 6 — Parity가 H3 dopaminylation을 하향 조절 (마우스 & 인간)**
 - **H3 dopaminylation(H3Q5dop)**: 조직 transglutaminase 2(**TG2**)가 도파민을 히스톤 H3의 **글루타민 5(H3Q5)** 에 transamidation. H3K4me3와 **인접·공존 가능**하며 스트레스·약물 등 환경 자극에 반응. 검증된 **H3K4me3Q5dop 항체**로 **CUT&RUN-seq**(n=4/군).
@@ -85,6 +85,7 @@ pmid: 42162419
 - stress RE dHF가 control RE보다 **높은 dopaminylation**을 보였으므로, stress RE dam에 H3.3 WT 또는 H3.3(Q5A) 투여 → control RE + H3.3 WT과 비교.
 - **결과**: H3.3(Q5A)가 control RE vs stress RE를 구분하던 **차등 dopaminylation 부위를 역전**. 전사 프로파일도 계층 클러스터링에서 **control RE 패턴을 부분 복원**(green 모듈 중첩). 학습·시냅스 가소성·글루탐산 신호 경로 농축.
 - **행동**: 맥락 공포 획득에서 control RE H3.3 WT와 **stress RE H3.3(Q5A) 모두** stress RE H3.3 WT보다 강화. 맥락 검사에서도 두 군이 stress RE H3.3 WT보다 높은 freezing → **H3 dopaminylation 조작만으로 스트레스가 앗아간 행동 이점을 되돌림**.
+> ⚠️ 도구의 특이성: H3.3(Q5A)는 원문 표현대로 'monoaminylated H3Q5'를 줄이는 우성음성이라 도파민화뿐 아니라 세로토닌화·히스타민화([[concept-h3-dopaminylation]])도 함께 막는다. '도파민화'로의 귀속은 H3K4me3Q5dop CUT&RUN 부위 역전 + VTA→dHF 도파민 억제(Result 7)의 모사 결과를 합친 추론이며, Q5A 실험 단독으로는 'H3Q5 모노아민화'까지만 말할 수 있다.
 - H3.3(Q5A)가 바꾼 DEG의 upstream TF 다수가 **인간 parous dSub과 공유** → dopaminylation이 표적 유전자뿐 아니라 **TF·크로마틴 리모델러까지 조절**해 하류 발현을 조정.
 
 **저자 해석·한계**

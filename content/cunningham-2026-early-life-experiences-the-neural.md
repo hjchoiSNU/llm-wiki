@@ -2,7 +2,7 @@
 title: "초기 생애 경험, 신경 후성유전체, 정동장애 위험 (Cunningham & Maze 2026)"
 type: paper
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-19
 source: "raw/2026 NRN Early life experiences, the neural epigenome and affective disorder risk.pdf"
 authors: [Ashley M. Cunningham, Ian Maze]
 year: 2026
@@ -76,6 +76,7 @@ doi: 10.1038/s41583-026-01074-w
 - 설치류: MS(PND 8–9)만으로 PFC 흥분성 시냅스에 층 특이적 변화; **PFC→VTA 투사 과흥분성**이 노출 직후 나타나 중변연계 취약성을 prime. VTA 도파민 뉴런 흥분성 상승 + 수상돌기 가시 밀도·머리 크기 증가.
 - **시상하부(HYPO)**: ELS에서 **흥분성 시냅스 증가·자발 EPSC 상승**(리뷰 Fig. 5b). 섭식 회로 맥락에서 [[shin-2023-early-adversity-promotes-binge-like-eating|Shin 2023]]의 LH^Lepr 폭식 회로와 같은 방향.
 - **인과 증거는 희박**: 회로 조작으로 ELS 행동을 재현한 사례는 사실상 **BLA→NAc의 CRH/GABA성 투사 선택적 활성화** 하나뿐.
+> ⚠️ 범위 주의: 이 '하나뿐'은 리뷰가 다루는 **정동장애 행동 표현형** 범위 안의 집계다. 위키 안에는 [[shin-2023-early-adversity-promotes-binge-like-eating]]이 LH Lepr shRNA/CRISPR KO로 ELT 없이 폭식·비만을 재현하고 LH^Lepr→vlPAG 투사 특이 조작·vlPAG^Penk 활성화로 ELT 폭식을 구제한 **섭식 표현형의 회로 인과 사례**가 있다. 본 리뷰도 §7에서 ELS의 시상하부 흥분성 시냅스 증가를 같은 방향으로 인용하지만, 이 섭식 회로 인과 연구는 리뷰의 인과 사례 집계에는 포함되지 않았다.
 
 ### 8. 저자가 지목한 공백 (연구 기회)
 1. **단일세포 CUT&Tag·공간 CUT&Tag를 ELS에 적용한 연구가 거의 없다** — bulk 프로파일링이 세포 구성 변화를 후성유전 변화로 오독할 위험을 해소할 방법.

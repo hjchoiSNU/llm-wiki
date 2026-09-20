@@ -2,7 +2,7 @@
 title: 올리고덴드로사이트 GIPR 신호가 GLP-1R 작용의 체중감소 효과를 증강한다 (Hansford et al. 2025)
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/2025 Cell Metabolism. Glucose-dependent insulinotropic polypeptide receptor signaling in oligodendrocytes increases the weight-loss action of GLP-1R agonism.pdf
 authors: [Hansford R et al. (Blouet C)]
 year: 2025
@@ -41,3 +41,8 @@ year: 2025
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide 체중감소 뇌 기전 병렬.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — GLP-1 작용 기전 종설.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 incretin 종합.
+- [[concept-tanycytes]] — 같은 정중융기·제3뇌실 경계에서 GLP-1RA(liraglutide)의 시상하부 수송을 매개한다고 보고된 축(Imbernon 2022). 본 논문의 **OL→VEGF-A→혈관 fenestration** 경로와 병존·경쟁 관계로 아직 대조 실험 없음.
+- [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — 같은 '이중작용제 우월성'을 **Vgat⁺ 억제성 뉴런 GIPR**로 설명하는 경쟁 가설.
+- [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR **길항** 접합체의 중추 GIPR·GLP-1R 요구성과 CVO 경유 뇌 접근.
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — "GIPR는 다수가 비뉴런(oligodendrocyte·pericyte)"이라는 발현 지도 상위 리뷰(본 논문과 정합).
+- [[concept-area-postrema]] — BBB 밖 CVO 직접 노출이라는 또 다른 뇌 접근 경로.

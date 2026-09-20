@@ -2,7 +2,7 @@
 title: Paraventricular nucleus (PVN)
 type: concept
 created: 2026-05-25
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [PVN, PVH, paraventricular hypothalamus]
 ---
 
@@ -66,3 +66,4 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[concept-agrp-synaptic-plasticity]] · [[concept-weight-regain-defended-adiposity]] — PVH^TRH 축의 가소성 개념 hub와 임상 표현형.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — PVH를 포함한 ghrelin 민감 흥분성 입력이 단식 상태를 시냅스에 기억한다는 선행 원리(당시 입력 세포 정체는 미규명) (Cell 2011).
 - [[person-fenselau-henning]] — PVH^TRH→AgRP 시냅스 가소성 연구 그룹.
+- [[concept-maternal-programming-hypothalamus]] — PVN OXT↓·CRH↑·MC4R hypertension을 정리한 모체 프로그래밍 hub.

@@ -2,12 +2,12 @@
 title: Digital therapeutics (DTx)
 type: concept
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [DTx, digital therapeutics, 디지털 치료제]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **소프트웨어로 전달하는 근거중심 치료 개입** = 비만·섭식 문제에 대한 약물·수술의 대안/보완. 사용자 lab의 임상 translational 축의 핵심 modality. 단순 tracking/wellness 앱과 구분되는 핵심: **임상 근거(RCT)·규제 승인·치료 의도**. lab의 DTx 노선은 (1) 개념 정립([[kim-2021-digital-therapeutics-for-obesity|EnM 2021]]) → (2) 다차원 CBT-DTx RCT 실증([[kim-2020-multidimensional-cognitive-behavioral-therapy|JMIR 2020]]) → (3) 표적 인구 심리 규명([[kim-2021-mental-health-of-people|IJCHP 2021]]) → (4) [[lee-2025-hijacked-brain-modern-obesity-cue|5 신경행동 표현형]] 개인화로 확장. 효과의 열쇠: **CBT 기반 + 인간 코치 결합 + 다차원 표현형 개인화 + engagement 유지**.
+> **소프트웨어로 전달하는 근거중심 치료 개입** = 비만·섭식 문제에 대한 약물·수술의 대안/보완. 사용자 lab의 임상 translational 축의 핵심 modality. 단순 tracking/wellness 앱과 구분되는 핵심: **임상 근거(RCT)·규제 승인·치료 의도**. lab의 DTx 노선은 (1) 개념 정립([[kim-2021-digital-therapeutics-for-obesity|EnM 2021]]) → (2) 다차원 CBT-DTx RCT 실증([[kim-2020-multidimensional-cognitive-behavioral-therapy|JMIR 2020]]) → (3) 표적 인구 심리 규명([[kim-2021-mental-health-of-people|IJCHP 2021]]) → (4) [[lee-2025-hijacked-brain-modern-obesity-cue|5 신경행동 표현형]] 개인화로 확장. 효과의 **후보** 열쇠([[kim-2021-digital-therapeutics-for-obesity|EnM 2021 리뷰]]의 제안): **CBT 기반 + 인간 코치 결합 + 다차원 표현형 개인화 + engagement 유지** — 단 위키 내 RCT가 실제로 검증한 것은 앞의 두 요소를 **묶은 패키지**의 8주 효과뿐(아래 '근거 등급' 절).
 
 # Digital therapeutics (DTx)
 
@@ -29,6 +29,18 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 ## 표적 인구
 - **[[kim-2021-mental-health-of-people|IJCHP 2021]]**: 왜곡된 체중인지(과대평가) 여성 + 의료적 체중조절(WCS-m) 사용자 = 다차원 심리 부담이 가장 큰 집단 → DTx 개입이 필요한 인구를 인구역학적으로 정의.
 
+## 근거 등급 (위키 안에서 무엇이 실제로 검증됐나)
+
+| 구성요소 | 위키 내 근거 | 등급 |
+|---|---|---|
+| 심리학자 전달 **다차원 CBT + 코칭 앱**(묶음) vs 앱 단독 | [[kim-2020-multidimensional-cognitive-behavioral-therapy]] open-label RCT, 8주 체중 −3.1% vs −0.7%(개입 45 / 대조 25) | **RCT 검증 — 단 CBT와 인간 코치의 기여는 분리 불가** |
+| 인간 코치의 단독 기여 | 분리 설계 없음 | 미검증 |
+| 다차원 표현형 **개인화 개입** | baseline 동기·우울·불안·자존감의 **반응 예측**만 보고 | 예측 단계(층화 개입 시험 없음) |
+| engagement·이탈 관리 | [[kim-2021-digital-therapeutics-for-obesity]] 리뷰의 쟁점 제기(ML 참여예측 후속은 위키 미ingest) | 개념·제안 수준 |
+| 장기 유지(재증가 방지) | 없음 — RCT는 8주·여성 70명·open-label | **공백** ([[concept-weight-regain-defended-adiposity]] 참조) |
+
+> 위 '핵심 구성요소' 목록은 [[kim-2021-digital-therapeutics-for-obesity|EnM 2021 리뷰]]의 **제안**이고, 위키가 실증으로 지지하는 문장은 "다차원 CBT 패키지가 8주 단기에 앱 단독보다 낫다"까지다. '개인화가 효과의 열쇠'는 **다음 시험에서 검증할 가설**이다.
+
 ## 표현형 개인화로의 확장
 - **[[lee-2025-hijacked-brain-modern-obesity-cue|Hijacked Brain (2025)]]**: 비만을 cue·habit·addiction·emotion·restraint 5 신경행동 표현형으로 분해, 각각에 DTx·electroceutical 매핑. 본 lab의 CBT-DTx RCT를 backbone으로 인용.
 
@@ -49,3 +61,4 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glp1ra-response-variability]] — 약물 반응 이질성의 4층 분해; 미설명 분산 ~75%가 행동 표현형·DTx 층화의 기회 공간.
 - [[concept-peripheral-epigenetic-biomarker]] — 비침습 **반응 예측 바이오마커** 후보로 자주 거론되는 말초 메틸화 표지의 유효 범위와 한계. 현재 DTx 반응 예측을 주도하는 baseline 심리지표에 추가하려면 넘어야 할 조건을 정리.
+- [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 후 비만(HO) 코호트(사용자 lab, n=29): 음식 주의력 저하·포만 저하·억제섭식↑이라는 **또 하나의 DTx 표적 표현형**(약물·수술 저항군).

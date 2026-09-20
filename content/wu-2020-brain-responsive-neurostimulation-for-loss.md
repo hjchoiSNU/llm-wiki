@@ -2,7 +2,7 @@
 title: "Brain-Responsive Neurostimulation for Loss of Control Eating: Early Feasibility Study (Wu et al. 2020)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: "raw/2020 Neurosurgery. (Halpern) Brain-Responsive Neurostimulation for Loss of Control Eating Early Feasibility Study.pdf"
 authors: [Hemmings Wu, Casey H. Halpern, et al.]
 year: 2020
@@ -18,6 +18,7 @@ Neurosurgery 87:1277–1288. 난치성 고도비만 + loss-of-control eating 환
 
 ## 핵심 내용
 - **대상**: 6인, BMI 45–60, 난치성(약물 + 행동치료 + 위우회술 실패) LOC eating.
+> ⚠️ BMI 포함기준은 본 2020 프로토콜 논문에서 45–60이나, 같은 trial(NCT03868670)의 2025 보고([[choi-2025-brain-activity-associated-with-breakthrough]] Methods)는 "BMI = 40–60 kg m⁻²"로 기술한다 — 시험 진행 중 기준이 완화된 것으로 보이나 사유는 원본에 명시되지 않음. [[concept-loss-of-control-eating]]의 '40–60'은 후자 기준.
 - **개입**: 양측 [[concept-nucleus-accumbens|NAc]] RNS. delta/저주파 biomarker 기반 closed-loop 자극.
 - **표적화**: NAc tractographic targeting(DSI Studio, HCP 데이터) — 개인별 회로 기반 좌표.
 - **provocation 패러다임**: Knutson MID(monetary incentive delay) + milkshake task + multi-item buffet provocation으로 NAc reward 반응을 유발·기록.

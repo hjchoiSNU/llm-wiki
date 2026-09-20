@@ -2,7 +2,7 @@
 title: "Glucagon receptor (GCGR) agonism"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -17,6 +17,8 @@ updated: 2026-07-28
 - **대사 효과**: 간 지질 산화·에너지소비↑, 포만(GLP-1 축과 시너지). GCGR agonism이 현 비만약 중 **EE 증가에 가장 근접**한 기전([[petersen-2026-the-evolving-landscape-of|Petersen 2026]]).
 - **약물**: GLP-1R/GCGR dual — mazdutide(中 승인), [[le-roux-2026-survodutide-once-weekly-for|survodutide]], pemvidutide. GLP-1R/GIPR/GCGR triple — [[muller-2022-gut-hormone-triple-agonists-clinical|retatrutide]].
 - **과제**: 고혈당·심박수 상승(NN1177 중단). 질환별 최적 GLP-1R:GCGR 비율·용량 정의가 핵심.
+
+⚠️ **근거 등급**: "에너지소비↑"는 현재 **기전 수준 주장**이다([[tschop-2023-gut-hormone-based-pharmacology-novel|Tschöp 2023]]의 glucagon lipolysis·시상하부 AMPK; [[petersen-2026-the-evolving-landscape-of|Petersen 2026]]은 EE를 여전히 **미충족 영역**으로 분류). 위키에 들어온 인체 임상([[le-roux-2026-survodutide-once-weekly-for]]·[[kaplan-2026-survodutide-in-adults-with]])의 실측 종료점은 **체중·간지방**이며 에너지소비는 측정되지 않았다. → EE 증가는 가설로 다루고, 인용 시 '기전 근거'로 표기.
 
 ## 관련 페이지
 - [[petersen-2026-the-evolving-landscape-of]] — 비만약 지형(근거).

@@ -2,7 +2,7 @@
 title: "‘좋아함(liking)’과 ‘갈망(wanting)’ — 보상의 이중 해리"
 type: concept
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-19
 aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, 쾌락적 충격]
 ---
 
@@ -65,7 +65,7 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[person-choi-hyung-jin]] — Ch 20 저자(사용자).
 - [[wang-2018-coding-of-valence-and-identity]] — 편도가 부여하는 미각 valence(=liking 축).
 - [[concept-taste-valence-coding]] — 미각 valence 부호화 hub.
-- [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 liking 불변(인간 RCT); 효과는 wanting 쪽.
+- [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 liking 불변(인간 RCT, **preprint·n=44·저검정력**); 효과는 wanting 쪽이라는 해석의 간접 근거.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — hedonic(VS)/energy(DS) 회로 분리.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — cue approach(wanting)↑ vs consummatory 불변 해리.
 - [[murray-2014-hormonal-and-neural-mechanisms]] — opioid(liking)/dopamine(wanting) 이중 축.

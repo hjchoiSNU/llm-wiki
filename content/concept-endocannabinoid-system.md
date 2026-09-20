@@ -2,7 +2,7 @@
 title: Endocannabinoid system (내인성 카나비노이드 시스템)
 type: concept
 created: 2026-07-04
-updated: 2026-08-19
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -43,3 +43,4 @@ Arachidonic acid에서 요구 시 생성되어 CB1·CB2 G단백질 결합 수용
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC 뉴런이 `CNR1`(CB1)을 풍부히 발현 → CB1이 POMC를 통해 식욕을 조절한다는 마우스 모델의 **인간 분자 대응** (Nat Commun 2026).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — 같은 시스템의 **세 번째 축**: in vivo 역행성 gain control로 보상 추구 '관여(engagement)'를 지속시킴 (Nature 2026, Bruchas lab).
 - [[concept-paraventricular-thalamus]] — 그 gain control이 작동하는 상류 노드(aPVT 말단 CB1R).
+- [[concept-oxylipins]] — 같은 PUFA(아라키돈산·EPA) 계열의 **또 다른 지질 messenger**이나 대사 출력은 대조적: gut eCB–CB1은 지방 섭취를 **늘리고**([[dipatrizio-2011-endocannabinoid-signal-in-the-gut]]), 12(S)-HEPE–Or5v1/Olfr110은 간 지방산화를 **켠다**([[ge-2026-identification-of-or5v1-olfr110]]).

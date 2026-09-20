@@ -2,7 +2,7 @@
 title: "Brain control of energy homeostasis: Implications for anti-obesity pharmacotherapy (Johansen et al. 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-09-02
+updated: 2026-09-19
 source: "raw/2025 Cell. Brain control of energy homeostasis- Implications for anti-obesity pharmacotherapy.pdf"
 authors: [Valdemar Brimnes Ingemann Johansen, Jonas Petersen, Jens Lund, Cecilie Vad Mathiesen, Henning Fenselau, Christoffer Clemmensen]
 year: 2025
@@ -37,6 +37,8 @@ Cell 2025 Leading Edge 리뷰. **비만의 원인론(gene×environment, push-pul
 - **멜라노코르틴**: [[concept-npy-agrp-neurons|AgRP]](GABA·NPY·AgRP co-release, PVH-MC4R 억제 → 섭식↑; HPA·간 autophagy·ketogenesis도 구동; **negative valence**이나 섭식 중엔 positive reinforcement) ↔ [[concept-pomc-neurons|POMC]](α-MSH satiety; 단 **β-endorphin은 식후 sugar appetite ON**, Minère 2025 → [[jouque-2025-beyond-satiety-unraveling-the]]).
 - **AgRP 활성 감소 timescale**: 냄새(빠름·일시) → gut nutrient(느림·지속) → 에너지 항상성 회복(가장 느림·지속). cue에 의한 빠른 감소가 incentive salience↑·학습 촉진(Berrios 2021).
 - **beyond AgRP/POMC (★ single-cell 시대)**: ARC dopaminergic·SST·**PNOC**(HFD로 활성, POMC 억제 tone↑) + AgRP-negative NPY + **OXTR**(glutamate→PVH satiety, α-MSH로 강화) + **BNC2/TRH**(leptin·GLP-1R·food cue로 AgRP 억제, 시간적 공백 메움; Tan 2024 Friedman lab, Webster 2024 RAMPANT).
+
+> ⚠️ **미해결(1차 문헌 간 긴장)**: 본 리뷰(원문 p.9)는 BNC2(Tan 2024, ref150)와 TRH(Webster 2024, ref205)를 **한 묶음으로** 묶어 "이 억제성 뉴런들의 활동은 sensory food cue·에너지 상태·GLP-1R·leptin에 의해 조절된다"고 서술한다. 그러나 [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]] Discussion(p.14)은 같은 Tan 2024(ref17)를 인용하면서 **"Bnc2^ARC 뉴런이 GLP-1에 반응하지 않는다"는 보고가 의외**라고 적고, 이를 Bnc2 계열의 Glp1r 농축과 어긋나는 미해결 긴장으로 남긴다(해소 가설: Ebf1/Trh/Tbx19 아형 간 GLP-1 반응성 차이). GLP-1 감수성의 직접 근거는 Webster 2024의 Trh/Cxcl12 회로 쪽이므로, "BNC2 집단이 GLP-1R를 통해 AgRP를 억제한다"는 아직 확정 서술로 쓰지 말 것.
 - **[[concept-lateral-hypothalamus|LH]]**: GABAergic 활성 → appetitive·consummatory↑ (마우스 + **NHP**, [[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024 사용자 lab]]); LH^GABA→VTA → compulsive feeding(Nieh 2015). glutamate = "stop". 30+ subpopulation(orexin·MCH·LepR·Nts). homeostatic↔reward bridge.
 
 #### 뇌간 (DVC: NTS·AP·DMV)

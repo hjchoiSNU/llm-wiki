@@ -2,7 +2,7 @@
 title: "GLP-1 의약의 신경·정신질환 전반 리뷰 (Fang·Drucker, 2025)"
 type: paper
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-09-19
 source: "raw/2025 Cell Reports Medicine. Glucagon-like peptide-1 medicines in neurological and psychiatric disorders.pdf"
 authors: [Fang S, Cui F, Drucker DJ]
 year: 2025
@@ -28,6 +28,7 @@ GLP-1 수용체 작용제를 신경퇴행(AD·PD)·뇌졸중·발작·편두통�
 - **AD 역학(양성)**: 치매 위험 감소 반복(pooled CVOT HR 0.47; 스웨덴 54%↓; 5백만 비만 코호트 AD RR 0.63·PD 0.57·Lewy 0.59·혈관성 0.44).
 - **AD RCT(음성)**: liraglutide pilot(FDG 보존)·[[edison-2026-liraglutide-in-mild-to-moderate|ELAD]](2차 인지·부피 유리, 1차 음성)·**[[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]](CDR-SB 음성)**. 진행 중: ISAP(oral sema tau), LIGHT-MCI, OxSENSE.
 - **PD**: exenatide/liraglutide 초·중기 양성 vs **최대·최장 exenatide-PD3(198인·96주) 음성**; lixisenatide LixiPark(+), NLY01(전체 음성·젊은층 post hoc). → AD와 같은 "소규모 양성 vs 대형 RCT 음성".
+  - ⚠️ 표본수는 **리뷰 원문끼리 다르다**: 본 리뷰(Cell Rep Med 2025, 본문 p.4)는 같은 시험을 **198인**, [[sabbagh-2026-repurposing-glucagon-like-peptide-1]](Nature Aging 2026, 본문 p.7)는 **194인**으로 적는다(둘 다 출처는 Vijiaratnam et al., Lancet 405:627–636, 2025). 1차 논문이 이 위키의 `raw/`에 없어 어느 값이 맞는지 확인 불가 → **임의로 통일하지 말 것**. 시험 기간(96주)·개입(주1회 exenatide)·결론(음성)은 두 리뷰가 일치한다.
 - **기타**: MS(안전·대사이득, 신경학적 결과 미검증), 다계통위축(MSA) exenatide UMSARS 개선하나 바이오마커 무변 → 효과 불명.
 
 ### 물질사용장애(SUD) ★ — 사용자 보상회로 직결

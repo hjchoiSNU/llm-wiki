@@ -2,7 +2,7 @@
 title: "Neurodegeneration and Stroke After Semaglutide and Tirzepatide in Diabetes and Obesity (Lin 2025)"
 type: paper
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-19
 source: "raw/2025 JAMA Network Open. Neurodegeneration and Stroke After Semaglutide and Tirzepatide in Patients With Diabetes and Obesity.pdf"
 authors: [Lin HT, Tsai YF, Liao PL, Wei JCC]
 year: 2025
@@ -41,7 +41,8 @@ doi: 10.1001/jamanetworkopen.2025.21016
 
 ## 해석·한계
 - 저자 결론: 차세대 GLP-1RA가 혈당조절 너머 **신경보호·뇌혈관 이익** 가능 → RCT 확증 필요(진행 중 EVOKE/EVOKE+).
-- 파킨슨 무효과는 semaglutide/tirzepatide의 느린 뇌 uptake·수용체 선택성 차이 가능성(초기 GLP-1RA exenatide/lixisenatide는 파킨슨 양성).
+  - ⚠️ **이후 갱신(2026)**: 본 논문 **서론**이 '진행 중'이라 적은 두 개의 확증 3상은 이미 결과가 나왔다 — [[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]](경구 sema 14 mg, amyloid 확인 초기 증상성 AD, **두 시험 합계 n=3,808**)는 104주 CDR-SB 1차 종점이 음성(ETD −0.08, p=0.57 / +0.10, p=0.46)이고 기능·인지 2차 종점도 모두 무효여서 **음성 결과로 중단**됐다. 단 두 연구의 질문은 다르다 — 본 코호트는 **신경퇴행 기왕력이 없는 T2D+비만에서의 치매 '발생'**(HR 0.63)을, EVOKE는 **이미 증상이 있는 초기 AD의 '진행' 억제**를 본다. 따라서 EVOKE가 본 코호트를 직접 반증하지는 않지만, 본 연구의 HR을 신경보호의 **인과 근거로 읽을 수는 없고** 남는 것은 미검증 '예방 창(무증상 장기 노출)' 가설뿐이다([[concept-glp1-neuroprotection]]). 또한 저자들의 실제 결론문은 EVOKE가 아니라 "고위험군 대상 향후 RCT로 인과 검증이 필요하다"이다.
+- 파킨슨 무효과는 semaglutide/tirzepatide의 느린 뇌 uptake·수용체 선택성 차이 가능성(저자 해석). ⚠️ 단 '초기 GLP-1RA는 PD에 양성'이라는 전제는 위키의 최신 근거와 어긋난다 — [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]에 따르면 **lixisenatide(156인)는 MDS-UPDRS 개선(+)**이지만 **최대·최장 phase 3 exenatide 주1회(194인·96주)는 음성**이다. PD에서는 약물 세대 차이보다 **효과 자체의 미확립**이 더 단순한 설명일 수 있다.
 - **관찰연구 한계**: 잔여 교란(frailty·기능상태), biomarker·유전자·영상 부재, 처방≠복약, 사망 competing risk 미보정. 인과 해석 불가.
 
 ## 관련 페이지
@@ -51,3 +52,4 @@ doi: 10.1001/jamanetworkopen.2025.21016
 - [[concept-glp-1]] — 호르몬·약리 hub.
 - [[person-edison-paul]] — GLP-1 신경보호 임상 총괄(본 논문 배경 리뷰 저자).
 - [[choi-2025-brain-activity-associated-with-breakthrough]] — tirzepatide 인간 NAc biomarker(약물×회로 접점).
+- [[cummings-2026-efficacy-and-safety-of-oral]] — 본 논문 서론이 '진행 중'으로 인용한 pivotal 3상(EVOKE/EVOKE+): 초기 증상성 AD에서 **1차·2차 종점 음성·중단**(합계 n=3,808). 관찰(발생 예방) vs RCT(증상기 치료)의 상대편.

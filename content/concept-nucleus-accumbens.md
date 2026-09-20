@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -22,7 +22,7 @@ updated: 2026-09-02
 
 ### 인간 NAc 전기생리 biomarker (Halpern 라인)
 - **마우스**: NAc delta(1–4 Hz)가 고지방 binge ~1초 전 ~30%↑ ([[wu-2018-closing-the-loop-on]]).
-- **인간 LOC eating**: 저주파(2–8 Hz / delta–theta ≤7 Hz) 전력이 LOC 한입 ~2초 전 ramp-up ([[shivacharan-2022-pilot-study-of-responsive-nucleus]], [[choi-2025-brain-activity-associated-with-breakthrough]]).
+- **인간 LOC eating**: 저주파(2–8 Hz) 전력이 LOC 한입 ~2초 전 ramp-up ([[shivacharan-2022-pilot-study-of-responsive-nucleus]]); 같은 전극에서 ambulatory magnet-swipe로 잡은 **severe food preoccupation 순간의 delta–theta(≤7 Hz)↑**는 [[choi-2025-brain-activity-associated-with-breakthrough]] (한입 정렬 분석이 아니라 craving 상태 vs 휴식 비교).
 - **인간 단일 unit**: 깨어있는 수술 중 appetitive 자극에 반응하는 unit, NAc→LH 투사 밀집 아구역에 국재 ([[parker-2022-appetitive-mapping-of-the-human]]).
 - **자극 효과**: 고주파 NAc 자극이 용량의존적 **기분 상승(mirth/smile)** 유발 — positive affect를 evoke해 pre-meal 음성정동을 상쇄한다는 치료 가설.
 

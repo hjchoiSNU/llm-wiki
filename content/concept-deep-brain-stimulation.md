@@ -2,7 +2,7 @@
 title: 뇌심부자극술 (Deep Brain Stimulation, DBS)
 type: concept
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-19
 aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 ---
 
@@ -22,7 +22,7 @@ aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 | **LHA** (외측시상하부)    | "feeding center"; 식욕·motivation·에너지소비 hub | [[whiting-2013-lateral-hypothalamic-area-deep]], [[whiting-2019-deep-brain-stimulation-of]] (1차 비만), [[franco-2018-assessment-of-safety-and]] (Prader-Willi)                                      | RMR(휴식대사율) 16–28%↑; 체중은 비일관(PWS에선 오히려 증가)  |            |
 | **VMH** (복내측시상하부)   | "satiety center"; SF1·thermogenesis       | [[hamani-2008-memory-enhancement-induced-by]] (복측 시상하부, n=1), Wilent 2010(공황발작)                                                                                                                   | 식욕 변화 미미·정동 부작용; 이후 비만 trial 중단            |            |
 | **NAc** (측좌핵)       | hedonic·reward·"wanting"; addiction 유사    | [[harat-2016-nucleus-accumbens-stimulation-in]], [[tronnier-2018-massive-weight-loss-following]], [[rezai-2018-feasibility-of-nucleus-accumbens]], [[mantione-2010-smoking-cessation-and-weight]] | 사례에서 큰 체중 감소(8.8–32% BMI↓)·craving↓; 가장 유망 |            |
-| **NAc shell (폐루프)** | LOC eating 직전 저주파 biomarker               | [[wu-2022-local-accumbens-in-vivo]], [[barbosa-2022-aberrant-impulse-control-circuitry]]                                                                                                          | [[concept-responsive-neurostimulation      | rDBS]]로 분기 |
+| **NAc shell (폐루프)** | LOC eating 직전 저주파 biomarker               | [[wu-2022-local-accumbens-in-vivo]], [[barbosa-2022-aberrant-impulse-control-circuitry]]                                                                                                          | [[wu-2022-local-accumbens-in-vivo]]는 마우스 기계론 연구이고, 인간 결과는 pilot n=2에서 6개월 LOC −80%/−87%·체중 −5.9/−8.2 kg([[shivacharan-2022-pilot-study-of-responsive-nucleus]]; 프로토콜 [[wu-2020-brain-responsive-neurostimulation-for-loss]]) → [[concept-responsive-neurostimulation\|rDBS]]로 분기 |
 
 ### 자극의 기전 — 표적·주파수 의존
 - **LHA**: 고주파가 **에너지소비(RMR/SEE)↑**를 유발(식욕 억제보다 대사 축) — [[whiting-2019-deep-brain-stimulation-of]]에서 RMR 16–20%↑가 야간 수면대사까지 지속. 정확한 contact·최대 내약 전압이 주파수보다 중요.
@@ -58,3 +58,8 @@ aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 - [[yuen-2022-deep-brain-stimulation-for]] — 중독 DBS(food addiction 인접).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(임상 축).
 - [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-drug-evoked-synaptic-plasticity]] — **"광유전학에서 착안한 DBS" 3원칙**: ① 고주파 연속이 아닌 **간헐·저주파**, ② **D1R 길항제 병용**(전기자극은 도파민도 함께 방출시키므로), ③ 자극 중에만이 아니라 **지속되는 효과**. 저주파 DBS+SCH 23390이 광유전 depotentiation과 동등하게 locomotor sensitization을 역전(Creed 2015); 쥐 OFC >100 Hz DBS가 morphine CPP 소거 촉진·재발 차단(Fakhrieh-Asl 2020) (Annu Rev Neurosci 2021).
+- [[shivacharan-2022-pilot-study-of-responsive-nucleus]] — 인간 NAc 폐루프 DBS first-in-human pilot(n=2, 6개월).
+- [[wu-2020-brain-responsive-neurostimulation-for-loss]] — 그 pilot의 임상 프로토콜(NCT03868670, "BITES").
+- [[wu-2018-closing-the-loop-on]] — 마우스 NAc delta-triggered RNS 원전(폐루프 개념의 전임상 근거).
+- [[parker-2022-appetitive-mapping-of-the-human]] — 수술 중(급성·open-loop) NAc 자극이 용량의존적 기분 상승을 유발한 매핑.
+- [[choi-2025-brain-activity-associated-with-breakthrough]] — 이식 전극으로 약물(tirzepatide) 반응을 읽은 n=1 biomarker 사례.

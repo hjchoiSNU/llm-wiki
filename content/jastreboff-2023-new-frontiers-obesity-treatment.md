@@ -2,7 +2,7 @@
 title: New Frontiers in Obesity Treatment — GLP-1 및 Nutrient-Stimulated Hormone 기반 치료제
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/2023 Annual Review of Medicine. New Frontiers in Obesity Treatment- GLP-1 and Nascent Nutrient-Stimulated Hormone-Based Therapeutics.pdf
 authors: [Jastreboff AM, Kushner RF]
 year: 2023
@@ -20,6 +20,7 @@ GLP-1 RA를 축으로 GIP·glucagon·amylin 등을 단독·조합·dual/triple R
 - **프레임**: 비만 = 상승된 fat mass set point를 방어하는 질환; 치료 = set point 재설정. 과거 단가아민 약물은 효과 제한(2.6–8.8kg).
 - **호르몬·수용체 지형**: GLP-1(L세포; CNS 시상하부·NTS·AP·striatum, β세포), amylin(β세포; AP·VTA·NTS), GIP(K세포; β세포·CNS), glucagon(α세포; 포만·에너지소비↑), CCK·OXM·PYY.
 - **약물 성적**: liraglutide 3.0mg(위약보정 ~5%), **semaglutide 2.4mg**(STEP-1 14.9%, 1/3이 ≥20%), oral semaglutide/danuglipron, **cagrilintide**(amylin; cagri-sema 17.1% vs sema 9.8%), **tirzepatide**(SURMOUNT-1 15mg 20.9%), GLP-1/glucagon dual(BI456906 8.8–13.7%), **삼중작용제 retatrutide**(phase 2 진행).
+⚠️ **수치 규약**: 원문은 두 규약을 **모두** 싣는다 — Table 1은 절대 감량을 치료군 vs 위약군으로 병기(semaglutide 14.9 vs 2.4; tirzepatide 15 mg 20.9 vs 3.1)하고, SUMMARY POINTS는 **위약보정** 값을 명시한다(liraglutide **5.2%**, semaglutide **12.5%**, tirzepatide **17.8%**). 본 페이지는 liraglutide만 위약보정, semaglutide·tirzepatide는 절대값으로 적어 규약이 섞여 있으니 서열 비교 시 주의. [[petersen-2026-the-evolving-landscape-of]]의 −12.5%·−20.1%는 **위약보정 efficacy estimand** 값이므로 절대값과 직접 비교 금지.
 - **주장**: entero-endocrine/endo-pancreatic 펩타이드 조합·coformulation으로 다면적 병태생리 동시 표적 → 지속 감량·대사 개선.
 
 ## 관련 페이지
@@ -30,3 +31,6 @@ GLP-1 RA를 축으로 GIP·glucagon·amylin 등을 단독·조합·dual/triple R
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — GIPR antagonist 접근(대비).
 - [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — 본 리뷰가 예고한 cagri-sema 후속 phase 3.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 병용요법 선행 개념.
+- [[concept-weight-regain-defended-adiposity]] — 본 리뷰의 "fat mass set point 방어" 프레임을 회로 수준(PVH^TRH→AgRP 증폭기·NMDAR)으로 내린 hub. 거기서는 set point가 아니라 **set range**로 재서술된다.
+- [[concept-amylin-receptor-agonists]] — 본 리뷰가 예고한 cagrilintide/CagriSema 축의 개념 hub.
+- [[concept-glucagon-receptor-agonism]] — GLP-1/glucagon dual(BI456906=survodutide) 축의 개념 hub.

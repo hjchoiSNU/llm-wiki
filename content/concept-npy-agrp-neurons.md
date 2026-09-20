@@ -2,7 +2,7 @@
 title: NPY/AgRP neurons
 type: concept
 created: 2026-04-29
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
 	
@@ -53,7 +53,11 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 
 **DMH GABAergic 억제 cluster (부분 중첩)**: 세 DMH 억제 입력은 분자적으로 겹치는 한 GABAergic 집단의 모드들 — **Lepr/Glp1r 공발현**(Webster 2024 RAMPANT의 Trh⁺/Glp1r⁺/Lepr⁺ subset). ① sight/가치([[garfield-2016-dynamic-gabaergic-afferent-modulation\|Garfield 2016]], vDMH^LepR/pDYN) · ② taste([[aitken-2024-negative-feedback-control-of-hypothalamic\|Aitken 2024]], DMH^LepR) · ③ **인지·preingestive satiation**([[kim-2024-glp-1-increases-preingestive-satiation\|Kim 2024 Science]], DMH^GLP-1R, 사용자 lab). ③은 CRACM으로 DMH^GLP-1R→ARC NPY/AgRP 단일시냅스 IPSC(8/8)·회로 epistasis(DMH^GLP-1R hM4Di 또는 AgRP hM3Dq가 liraglutide 효과 차단)로 입증. (DMH glutamatergic 흥분 입력[Krashes]과는 별개 집단.)
 
+> ⚠️ 위 통합('한 GABAergic 집단의 모드들')은 **가설**이며 아직 미검증이다. 반대 단서 셋: ① 분자 근거로 든 Webster 2024 집단은 위키 다른 페이지에서 **caudal ARC**로 기록된다(→ [[concept-arcuate-nucleus]]); ② [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]] 자신이 DMH 안에 **GLP-1R-only / LepR-only / 공발현** 세 종류가 있고 GLP-1R⁺/LepR⁻가 별도 표적 후보라고 명시; ③ 행동 미세구조가 다르다 — [[aitken-2024-negative-feedback-control-of-hypothalamic|Aitken 2024]]의 DMH^LepR 억제는 **bout 수만** 늘리고 크기는 불변, [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]]의 DMH^GLP-1R 억제는 **bout 지속시간**을 늘린다. 판정에는 동일 개체 이중표지 + 동일 미세구조 지표 비교가 필요.
+
 **핵심 비대칭**: PVH 흥분 입력 = **인지·예측**(외부 맥락) vs DMH 억제 입력 = **감각·인지 피드백**(sight=Garfield / taste=Aitken / GLP-1R cognitive satiation=Kim). → [[kim-2024-normative-framework-dissociates-need\|AgRP=Need]]를 *어떻게 계산하는가*: 영양소 정체(McKnight)·미래 예측(Walker)·음식 가치/맛(Garfield·Aitken)·preingestive satiation(Kim). **약리**: GLP-1RA가 DMH^GLP-1R 억제 입력을 *식이 시에만* 잠재화해 AgRP를 끔 = 인간 체중감량의 cognitive·preingestive layer([[lee-2025-hijacked-brain-modern-obesity-cue\|hijacked brain]]·[[proposal-dmh-glp1r-human-imaging\|인간 번역 계획서]]).
+
+> ⚠️ **약리 서술의 조건 주의**: "GLP-1RA가 AgRP를 끈다"는 위 회로(DMH^GLP-1R→AgRP, 급성 liraglutide 조건)에서 확립된 것이다. [[davila-2026-agrp-neurons-are-required-for|d'Ávila 2026]]은 **암컷 마우스 세마글루타이드 15일 투여에서 AgRP가 오히려 활성화·구조 재편**된다고 보고했다(`Agrp`/`Npy` mRNA↑, c-FOS↑, 미토콘드리아 밀도↑, 15일차 sIPSC 빈도만↓ → 순흥분). 그리고 AgRP 회로를 파괴하면 **섭취 억제는 유지되고 체중 감량만 약화**된다. 섭취(intake) 축과 체중·기질 이용 축을, 또 급성과 만성·성별을 분리해 읽을 것.
 
 ## ★ 시냅스 가소성 — Need 신호의 gain (배선·부호화와 구별되는 제3의 축)
 
@@ -167,3 +171,4 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[concept-weight-regain-defended-adiposity]] — 그 가소성의 임상 표현형(다이어트·약물 중단 후 재증가).
 - [[person-sternson-scott]] · [[person-fenselau-henning]] — 위 두 논문의 교신 그룹.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **AgRP는 수상돌기 가시가 풍부하고 POMC는 사실상 없다**는 구조적 비대칭을 확립. 24시간 단식이 가시를 **67% 증가**시키고, AgRP에서만 `Grin1`(NMDAR)을 지우면 **단식 반응 전체**(가시형성·EPSC 빈도·탈분극·발화·c-Fos·`Agrp`/`Npy` mRNA)가 사라지며 저체중·저지방·저섭취·RER 감소가 나타난다. POMC에서 지우면 대사 표현형 없음 (Neuron 2012, Lowell lab).
+- [[betley-2013-parallel-redundant-circuit-organization-for]] — ★ **AgRP 출력 배선의 1차 자료**: 서로 다른 AgRP 부분군이 축 담보 거의 없이(penetrance 4–27%) aBNST·PVH·LHA·PVT로 독립 투사하고, **aBNST·PVH·LHA는 각각 단독으로 섭식 충분**(PVT 부분적, CEA·PAG 불가). 정량 조직 PVH ~29.7% · aBNST ~18.3% · PBN ~3.3% · PVT ~2.1%. PVH 차단이 AgRP 유발 섭식을 ~50% 억제 (Cell 2013, Sternson lab). 본 페이지 "Projection별 segregation" 절의 수치는 이 논문을 1차로 확인할 것.

@@ -2,7 +2,7 @@
 title: "Rosenstock 2026 — CagriSema as Add-On to Basal Insulin in T2D (REIMAGINE 3)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-19
 source: raw/2026 Lancet Cagrilintide–semaglutide (CagriSema) as an add-on to basal insulin in adults with type 2 diabetes (REIMAGINE 3).pdf
 authors: [Julio Rosenstock, Liana K Billings, Francesco Giorgino, John B Buse, Akshay B Jain]
 year: 2026
@@ -36,7 +36,8 @@ journal: "Lancet"
 
 ## 관련 페이지
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 비만약 hub.
-- [[concept-melanocortin-system]] — amylin·MC 포만 회로.
+- [[concept-amylin-receptor-agonists]] — amylin 약리 hub(수용체 = calcitonin receptor + RAMP, DACRA vs SARA, amycretin 등). CagriSema의 cagrilintide 축.
+- [[concept-melanocortin-system]] — 인접 포만 회로(단 amylin 수용체는 melanocortin 계열이 아님).
 - [[concept-glp-1]] · [[concept-incretin-effect]] — GLP-1 축.
 - [[rosenstock-2026-oral-small-molecule-glp]] — 동일 제1저자 aleniglipron.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 기반 복합요법.

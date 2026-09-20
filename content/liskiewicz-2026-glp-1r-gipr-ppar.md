@@ -2,7 +2,7 @@
 title: "GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-19
 source: "raw/2026 Nature. GLP-1R–GIPR–PPARα γ δ quintuple agonism corrects obesity and diabetes in mice.pdf"
 authors: [Liskiewicz D, Novikoff A, ..., Knerr PJ, Müller TD]
 year: 2026
@@ -10,7 +10,7 @@ journal: "Nature 653:776–785"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **차세대 비만약 설계 패러다임**: incretin 펩타이드(GLP-1–GIP co-agonist)에 핵수용체 작용 소분자(PPARα/γ/δ pan-agonist lanifibranor)를 **공유결합으로 tethering** → GLP-1R/GIPR 발현 세포에만 PPAR 약물을 표적 전달. 결과 = semaglutide·co-agonism·tirzepatide(db/db)보다 강한 체중·식이·혈당 개선. 사용자 연구 관점에서 중요한 두 지점: (1) **체중감소는 두 incretin 수용체 + 글루타메이트성 GLP-1R→POMC 활성 강화**가 매개 — [[concept-pomc-neurons|POMC]] 활성이 GLP-1–GIP보다 더 강함 (BBB 미투과·AP/NTS/ARC/DMH FOS는 동일). (2) **lean mice에서 체중감소 없이 CTA만 유발** → 메스꺼움(aversion)이 체중감소 기전 아님을 해리. **단, 본 논문은 사용자 lab을 인용하지 않음** — 외부 incretin 약리 레퍼런스로 위치. Ch 18 비만약 파트의 "분자공학적 표적전달" 최신 사례.
+> **차세대 비만약 설계 패러다임**: incretin 펩타이드(GLP-1–GIP co-agonist)에 핵수용체 작용 소분자(PPARα/γ/δ pan-agonist lanifibranor)를 **공유결합으로 tethering** → GLP-1R/GIPR 발현 세포에만 PPAR 약물을 표적 전달. 결과 = semaglutide·co-agonism·tirzepatide(db/db)보다 강한 체중·식이·혈당 개선. 사용자 연구 관점에서 중요한 두 지점: (1) **체중감소는 두 incretin 수용체(GLP-1R+GIPR)에 의존** — DIR-KO에서 효과 완전 소실. 그 위의 *추가* 체중감소에 대해 저자는 **글루타메이트성 GLP-1R 뉴런을 통한 [[concept-pomc-neurons|POMC]] 활성 가속**을 후보 기전으로 *제시*한다(Discussion p784: "collectively suggest"·"likely to contribute", hindbrain 기전 병존 명시) — ⚠️ 인과 단정 아님: 조작은 POMC 특이가 아닌 **Vglut2-Cre Glp1r-KO**(범-글루타메이트성)이고, POMC 차이는 photometry/patch(상관)에서만 나왔으며 **ARC·DMH·AP·NTS FOS는 두 약물 간 동일**(Fig 5a–f). (BBB 미투과 — in vitro human BBB 모델.) (2) **lean mice에서 체중감소 없이 CTA만 유발** → 메스꺼움(aversion)이 체중감소 기전 아님을 해리. **단, 본 논문은 사용자 lab을 인용하지 않음** — 외부 incretin 약리 레퍼런스로 위치. Ch 18 비만약 파트의 "분자공학적 표적전달" 최신 사례.
 
 # Liskiewicz et al. 2026 — GLP-1–GIP–Lani 5중작용제 (Nature)
 
@@ -68,11 +68,13 @@ DIO 마우스 (10 nmol/kg/day):
 
 ## 중추신경 작용 (Fig 5) — 사용자 관점 핵심
 
-- 단회 피하투여 후 GLP-1–GIP–Lani와 GLP-1–GIP가 **ARC·AP·NTS에서 동일한 FOS** 활성 ([[concept-arcuate-nucleus|ARC]]·area postrema·[[concept-dorsal-vagal-complex|NTS]]).
+- 단회 피하투여(50 nmol/kg, n=3–4) 후 GLP-1–GIP–Lani와 GLP-1–GIP가 **ARC·DMH·AP·NTS 네 부위 모두에서 동일한 FOS** 활성 (Fig 5c–f; [[concept-arcuate-nucleus|ARC]]·[[concept-dorsomedial-hypothalamus|DMH]]·area postrema·[[concept-dorsal-vagal-complex|NTS]]).
 - **BBB 미투과**: liraglutide·semaglutide·acyl-GIP처럼 혈액뇌장벽 통과 못함(in vitro human BBB 모델).
 - 그럼에도 brainstem proteome 강하게 변동(350 단백질 vs GLP-1–GIP 94) — neurotransmitter receptor internalization 관련.
 - **POMC 활성**: GLP-1–GIP–Lani가 GLP-1–GIP보다 **[[concept-pomc-neurons|POMC]] 뉴런 활성을 더 강하게 유도** (Pomc-cre fiber photometry + Pomc-GFP whole-cell patch).
 - **결론(저자)**: GLP-1–GIP–Lani가 GLP-1–GIP 대비 추가 체중감소를 내는 것은 **글루타메이트성 GLP-1R 뉴런을 통한 POMC 활성 가속** 때문일 가능성 (+ hindbrain 기전 병존).
+
+> ⚠️ **인용 시 한계(원문 기준, Discussion p784)**: 저자 표현은 "these data collectively **suggest**"이며, 이어서 "POMC 활성 증가가 체중감소에 **기여할 가능성이 높다(likely to contribute)**"면서도 "**hindbrain 기전도 역할을 할 수 있다**", "공간·시간적 기전은 **향후 연구 과제**"라고 명시한다. 근거 사슬은 (i) Vglut2-Cre *Glp1r*-KO에서 체중·식이 효과 손상(Fig 4a,b) — 그러나 이 조작은 POMC 특이가 아니라 AP·NTS의 글루타메이트성 GLP1R 뉴런도 함께 지운다, (ii) POMC fiber photometry(*Pomc-cre*, 10 nmol/kg, n=6)·whole-cell patch(*Pomc*-GFP, 2 nM, n=6)의 활성 차이 — **상관**. **POMC만 선택적으로 차단해 추가 체중감소가 사라지는 실험은 본 논문에 없다.** 또한 FOS(50 nmol/kg 단회 피하, n=3–4)는 **ARC·DMH·AP·NTS 네 부위 모두에서 두 약물 간 차이가 없었다**(Fig 5c–f; p784는 "brainstem·hypothalamus에서 동일한 FOS"로 총괄). → "POMC가 매개한다"가 아니라 "POMC 활성 증가가 동반되는 **후보 기전**"으로 인용할 것.
 
 ## 한계
 
@@ -83,7 +85,7 @@ DIO 마우스 (10 nmol/kg/day):
 ## 관련 페이지
 - [[concept-glp-1]] — GLP-1R agonism이 펩타이드 골격의 핵심 축.
 - [[concept-incretin-effect]] — GLP-1 + GIP 이중 incretin 작용이 골격(MAR709)의 기반.
-- [[concept-pomc-neurons]] — 본 분자의 추가 체중감소를 매개하는 핵심 뉴런(글루타메이트성 GLP-1R→POMC 활성 ↑).
+- [[concept-pomc-neurons]] — 추가 체중감소의 **후보 기전**으로 저자가 제시한 뉴런(글루타메이트성 GLP-1R→POMC 활성 ↑; 매개는 미입증, Vglut2-Cre는 POMC 비특이).
 - [[concept-arcuate-nucleus]] — ARC FOS는 GLP-1–GIP와 동일; POMC 활성만 차별적.
 - [[concept-dorsal-vagal-complex]] — AP·NTS FOS 동일·BBB 미투과 → hindbrain이 incretin 약물 1차 무대.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide의 AP Gs–cAMP 기전과 대비; 본 논문은 그 위에 GIP+PPAR을 더한 분자공학적 확장.

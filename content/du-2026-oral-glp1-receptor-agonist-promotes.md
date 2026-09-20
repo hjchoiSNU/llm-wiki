@@ -2,7 +2,7 @@
 title: "뇌투과 경구 GLP-1RA(OHP2)의 성상교세포-뉴런 젖산·지질 셔틀"
 type: paper
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-09-19
 source: "raw/2026 Cell Metabolism. Oral GLP-1 receptor agonist promotes astrocyte-neuron lactate and lipid transfer with neuroprotective effects.pdf"
 authors: [Du Y, Sun C, Wu L, Chen S, Gao X, et al.]
 year: 2026
@@ -59,3 +59,4 @@ doi: 10.1016/j.cmet.2026.05.014
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 시상하부(DMH) GLP-1R 뉴런 연구와 대비: 본 논문은 뇌 GLP-1R이 뉴런보다 성상교세포에 우세하다는 세포종류 관점을 더함.
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide도 astrocyte 젖산 수송으로 항-AD 작용한다는 선행(본 논문 ref #62)과 연결.
 - [[person-choi-hyung-jin]] — 대사-뇌 인터페이스·GLP-1 뇌작용 연구(사용자 lab) 접점.
+- [[concept-blood-brain-barrier-shuttle]] · [[dolgin-2026-brain-shuttle-biologics-chart-new]] — CNS 침투를 얻는 **다른 경로**(TfR·CD98hc 수용체매개 transcytosis, 항체·효소 cargo). OHP2의 caveolae 수송과 대비해 읽을 것.

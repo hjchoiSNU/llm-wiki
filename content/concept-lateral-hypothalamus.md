@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-09-07
+updated: 2026-09-19
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -30,10 +30,10 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ### Neuropeptide 기반
 | Cell type | 특성 | 식이 효과 |
 |---|---|---|
-| **Lepr** | ~20% LH GABAergic; pmLH 우세 | seeking + consummatory ↑ (사용자 lab Lee YH 2023) |
+| **Lepr** | LH GABAergic의 **~20%**([[cheon-2025-lateral-hypothalamus-and-eating-cell\|Cheon 2025]] 리뷰) ↔ 사용자 lab 원저 실측 **4%**([[lee-2023-lateral-hypothalamic-leptin-receptor\|Lee 2023]]; 논문은 '4–20%' 병기, LepR의 63%가 food-specific, food-specific LH GABA의 79%가 LepR); Crh와 ~50/52% 상호 공발현; pmLH 우세 | 조건 의존 — phase-isolated에서 seeking·consummatory ↑(Lee 2023, pmLH) vs 급성 제한 후 다중자극 조건에서 섭취 ↓([[petzold-2023-complementary-lateral-hypothalamic-populations\|Petzold 2023]], amLH). 아래 쟁점 절 참조 |
 | **Orx** (orexin / hypocretin) | Vglut1·2; Pdyn·Penk 공발현 | foraging·anticipation ↑; consumption 시 즉시 ↓ |
 | **Mch** (melanin-concentrating hormone) | Vglut1·2 또는 Gad67; Cart 공발현 | consumption sustain (Orx과 정반대) |
-| **Nts** (neurotensin) | 80% Vgat, 95% Gal 공발현, 75% MC4R | amLH에서 식이 ↑ |
+| **Nts** (neurotensin) | 80% Vgat / 20% Vglut2, 95% Gal 공발현, **MC4R 뉴런의 ~75%가 Nts 공발현**(방향 주의) | amLH 집단 활성화 시 식이 ↑([[cheon-2025-lateral-hypothalamus-and-eating-cell\|Cheon 2025]]) — 단 LH^Nts 전체를 TeTox로 침묵시키면 총 먹이 섭취는 거의 불변이고 음수·각성·자발운동이 손상([[sumarli-2026-multidimensional-control-of-ingestive-behavior\|Sumarli 2026]]) |
 | **Crh** | 82% Vgat | amLH에서 VTA·LC projection으로 식이 ↑ |
 | **Penk** | 52% Vglut2, 42% Vgat | plLH→PAG에서 stress eating ↑ |
 | **Gal** | ~50% Vgat | 식이 ↑ |
@@ -91,6 +91,20 @@ LH가 **hunger × safety (anxiety) × social (loneliness)** 사이의 우선순�
 - **Anxiety 감소** (Figge-Schlensok 2025 Nat Neurosci) — EPM·anxiogenic 상황에서 활성.
 - **Tac1·Galanin·Opcml·Ebf1** 공발현 subset.
 - **Anorexia nervosa 회로**: ABA 모델에서 LepR LH chemogenetic 활성 → excessive exercise 차단.
+
+#### ⚠️ 미해결 쟁점 — LH^LepR 활성화는 섭취를 늘리는가 줄이는가
+
+같은 세포집단인데 인과 조작 결과의 **부호가 반대**다. 조건을 붙이지 않고 한쪽만 인용하면 안 된다.
+
+| 출처 | 조작·과제 조건 | 섭취 결과 |
+|---|---|---|
+| [[lee-2023-lateral-hypothalamic-leptin-receptor\|Lee 2023]] (사용자 lab, 수컷) | **ad libitum(포만) 마우스** ChR2, **phase-isolated** 과제(숨긴 먹이 seeking 전용 / 소형 챔버 consummatory 전용). 좌표 AP −1.5·ML 0.9 | seeking·consummatory **각각 ↑**(섭취량 ↑). 두 phase가 동시에 가능한 대형 챔버(33×33×33 cm)에서는 **활성·억제 모두 효과 없음** |
+| [[petzold-2023-complementary-lateral-hypothalamic-populations\|Petzold 2023]] (Korotkova lab, 양성) | **급성 식이제한 직후** 재급식, 먹이·물·물체가 있는 자유접근 인클로저 ChR2. 좌표 AP −1.3·ML 0.9–1.0 | feeding rebound **억제**(먹이 구역 체류·섭취 ↓). **만성(5일) 제한 후·포만 상태에서는 무효**. 급성 갈증에서는 음수 억제 |
+| [[korotkova-2026-balancing-acts-lateral-hypothalamic\|Korotkova 2026]] | 위 결과를 배고픔 강도로 요약 | **중등도 배고픔에서만** 억제, 만복에서는 무효 |
+
+조건 차이 후보(모두 원문에 기록됨): ① **과제 구조** — phase-isolated vs 다중자극 자유행동, ② **배고픔 상태** — Lee의 활성화 실험은 포만, Petzold는 급성 제한 직후, ③ **급성 vs 만성 제한**, ④ **LH 아영역** — [[cheon-2025-lateral-hypothalamus-and-eating-cell\|Cheon 2025]]는 Petzold를 **amLH(활성화→식이 ↓)**, Lee 2023을 **pmLH(활성화→seeking·consummatory ↑)** 로 분류한다(AP 0.2 mm 차이의 경계선상 구분), ⑤ 성별(Lee는 수컷 only).
+
+→ Cheon 2025 본문도 "LH Lepr 뉴런의 역할은 논쟁 중이며, 그 원인은 appetitive/consummatory를 검사하는 실험 설계의 불일치"라고 명시한다. 검증 설계는 **동일 계통·동일 자극 세트에서 phase-isolated 조건과 다중욕구 조건, 그리고 amLH/pmLH 좌표를 교차**시키는 것. ([[chen-2025-the-integrated-function-of-the]]·[[rossi-2023-control-of-energy-homeostasis]]도 각각 한쪽 서술만 채택하고 있음에 유의.)
 
 ### Orexin
 - ACC theta → empathy·prosocial (Kim JG 2026 Science).

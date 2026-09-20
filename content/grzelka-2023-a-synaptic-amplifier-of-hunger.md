@@ -2,7 +2,7 @@
 title: "체중을 되찾기 위한 시상하부의 배고픔 시냅스 증폭기 (Grzelka 2023)"
 type: paper
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-19
 source: "raw/2023 Cell Mtabolism. A synaptic amplifier of hunger for regaining body weight in the hypothalamus.pdf"
 authors: [Katarzyna Grzelka, Hannah Wilhelms, Stephan Dodt, Marie-Luise Dreisow, Joseph C. Madara, Samuel J. Walker, Chen Wu, Daqing Wang, Bradford B. Lowell, Henning Fenselau]
 year: 2023
@@ -27,7 +27,7 @@ year: 2023
 
 | 입력 | 단식 후 변화 | 해석 |
 |---|---|---|
-| **PVH^TRH → AgRP** | **빈도 2배↑**, 진폭 불변 | **전시냅스**(기능적 방출 부위/시냅스 수 증가) |
+| **PVH^TRH → AgRP** | **빈도 2배↑**, 진폭 불변 | **기능적 시냅스 접속 수 증가**(원문 p.773 "fasting increases the number of functional synaptic sites") — ⚠️ 전/후시냅스 **미확정**. 저자는 이 해석의 방증으로 선행 연구의 **후시냅스 AgRP 가시 수 증가**([[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]·Kong 2016)를 들고, Discussion(p.781–782)에서 "관찰된 le-qEPSC 빈도 증가가 가시 수 증가를 반영하는지 판정하기 어렵다 / **대안으로 기존 시냅스의 기능적 방출 부위 수 증가**일 수 있다"고 명시한다 |
 | **DMH^Vglut2 → AgRP** | **진폭↑**, 빈도 불변 | **후시냅스**(이온 전도도 증가) |
 
 - PVH^TRH 입력에서는 **PPR·CV·AMPAR/NMDAR 비 모두 불변** → 방출확률 변화나 수용체 비 변화가 아니라 **시냅스 접속 수**가 늘었다는 세 겹의 독립 증거.

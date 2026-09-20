@@ -2,7 +2,7 @@
 title: "Mechanisms of glucagon-like-peptide 1 in the brain beyond metabolic effects (Kim, Park, Choi 2025 — review)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-19
 source: "raw/2025 APEM Mechanisms of glucagon-like-peptide 1 in the brain beyond metabolic effects.pdf"
 authors: [Kyu Sik Kim, Joon Seok Park, Hyung Jin Choi]
 year: 2025
@@ -35,6 +35,7 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - **분포**: 시상하부(ARC·DMH·VMH·PVH·LH·SFO), 뇌간(NTS·AP·DVC), 변연계(NAc·VTA·CeA·LS·HP·caudate putamen·globus pallidus).
 - **역사**: 1995 ICV GLP-1→PVH·CeA c-fos↑·feeding↓(Turton). LH micro-ICV→reward·lever press↓·체중↓. VMH→anorexia·glucose tolerance.
 - **ARC**: GLP-1이 AgRP 활성↓·POMC 활성↑. **GLP-1R은 AgRP에 비발현, POMC에 발현 → AgRP 효과는 간접**(타 영역 기원).
+  > ⚠️ **조건에 따라 부호가 갈린다**: 위 "AgRP 활성↓"는 GLP-1R 비발현 세포에 대한 **간접** 효과이며, 리뷰가 근거로 든 문헌은 급성·상태 의존 관찰(ref50 Dong 2021 "time and metabolic state-dependent", ref84 McMorrow 2024 "rapidly inhibit")이다. 반면 [[davila-2026-agrp-neurons-are-required-for|d'Ávila 2026 (PNAS)]]은 **암컷 마우스에 세마글루타이드를 15일 투여하면 `Agrp`·`Npy` mRNA와 c-FOS⁺ AgRP 비율, 미토콘드리아 밀도·피복률이 오르고 15일차엔 sIPSC 빈도만 감소해 시냅스 균형이 순흥분 쪽으로 이동**한다고 보고했다(2일 투여에서는 전사 변화 없음). 더욱이 AgRP 회로를 파괴하면 **칼로리 섭취 억제는 유지되는데(오히려 약간 더 강함) 체중 감량만 약화**된다(전신 지방 이용 전환 실패, β₃-AR 길항제 SR59230A 병용으로 부분 재현). 즉 GLP-1RA 하에서 AgRP는 '꺼야 할 표적'이 아니라 **감량을 완성하는 적응 노드**일 수 있다. 단 이 의존성은 **성별(암컷)·식이·AgRP 조작 방식**에 따라 달라지고, 성체 AgRP-DTR ablation 연구는 감량이 대부분 보존된다고 보고해 저자들도 미해결로 남겼다. 시간척도(급성 vs 15일)·측정층위(섭취 vs 체중·기질 이용)·성별을 밝히지 않은 채 "GLP-1RA = AgRP 억제"로 일반화하지 말 것.
 - **DMH GLP-1R/LepR 공발현(Rupp 2023)**: sensory 정보 반응→AgRP 억제 투사→anticipatory hunger↓. **자기 lab: GLP-1RA가 DMH GLP-1R→AgRP 조절로 preingestive satiation 유도**(Kim KS 2024 Science, ref61).
 - **BBB·침투**: GLP-1RA가 CVO·제3뇌실·tanycyte로 시상하부 진입(Imbernon 2022). Ex-4(고지질친화, 고용량)는 VTA·NAc까지; **fluorescent liraglutide·semaglutide는 시상하부·뇌간까지만, 변연계 못 감**.
 - **뇌간 AP vs NTS 해리(★ Huang 2024 Nature, ref74)**: AP GLP-1R=**aversion**(오심), NTS GLP-1R=**satiation**(비-혐오). AP는 food intake 감소에 불필요, NTS는 혐오 없이 satiation 유발 → **비-혐오성 GLP-1R 약물** 방향. AP는 NTS PPG로 투사 안 함; NTS PPG는 GLP-1RA 효과에 불필요 → **GLP-1RA 작용은 endogenous GLP-1(NTS PPG)와 독립**.
@@ -89,3 +90,4 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 부위 논쟁 종합.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 약리·뇌기전).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 중추 GLP-1R의 새 역할: **신경(비조혈·비내피) GLP-1R이 말초 TLR 매개 염증 억제에 필수**, α1-아드레날린·κ-오피오이드 경유 신경-면역 crosstalk (Cell Metab 2026).
+- [[davila-2026-agrp-neurons-are-required-for]] — 본 리뷰의 "GLP-1이 AgRP를 억제한다"와 **반대 부호**의 만성 결과: 암컷 마우스에서 세마글루타이드 15일 투여가 AgRP를 모집(`Agrp`/`Npy` mRNA↑·c-FOS↑·미토콘드리아↑)하고, AgRP 기능 결손 시 섭취 억제는 남되 체중 감량이 약화된다. 매개축은 corticosterone→AgRP-GR (PNAS 2026, Horvath lab).

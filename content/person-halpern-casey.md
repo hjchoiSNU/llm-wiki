@@ -2,7 +2,7 @@
 title: Casey H. Halpern
 type: person
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -18,6 +18,7 @@ updated: 2026-06-01
 ### 연구 프로그램 — 인간 reward 회로의 closed-loop 신경조절
 - **핵심 가설**: 충동/강박/식이 폭발(LOC eating, binge)은 발작적(episodic)이며, **행동 직전 NAc·ventral striatum의 저주파(delta~theta, ≤7–8 Hz) 전력이 올라간다**. 이 ramp-up을 biomarker로 검출해 그 순간에만 고주파 자극을 주면(responsive/closed-loop), 상시 자극보다 특이적으로 행동을 차단할 수 있다.
 - **방법론 spine**: subject-specific tractography(DSI Studio, HCP) 표적화 → 깨어있는 수술 중 microelectrode recording + 개인화 appetitive provocation → macroelectrode 자극 mapping → NeuroPace RNS 이식 → ambulatory iEEG("magnet swipe")로 일상 biomarker 추적.
+> ⚠️ 위 '핵심 가설'의 **특이적** 폐루프 차단은 마우스에서 입증된 것이고, 인간 pilot([[shivacharan-2022-pilot-study-of-responsive-nucleus]])에서는 범용 저주파(Area/AUC) 검출기의 specificity가 48.3%/58.8%에 그쳤으며 자극이 하루 약 400회(상한 700 bout≈117분/일) 발사됐다. 인간용 LOC 맞춤 검출기는 아직 개발 중([[barbosa-2022-aberrant-impulse-control-circuitry]]).
 - **연락처**: casey.halpern@pennmedicine.upenn.edu
 
 ### 번역 아크 (mouse → protocol → human pilot → 약물 시대)
@@ -29,9 +30,9 @@ updated: 2026-06-01
 
 ### 기계론·영상·경제성 (rDBS 보강 축)
 - **[[wu-2022-local-accumbens-in-vivo]]** (PNAS 2022) — 자극 중 photometry로 NAc D1-MSN ramp가 hedonic feeding을 추진함을 직접 보고, **폐루프 rDBS가 상시 cDBS보다 지속·저용량**임을 입증(rDBS 우월성의 마우스 mechanism).
-- **[[barbosa-2022-aberrant-impulse-control-circuitry]]** (Mol Psychiatry 2022) — vmPFC→NAc shell 충동조절 회로가 비만에서 약화(BMI 역상관·우울 무관); tractography-유도 개인맞춤 NAc-shell rDBS 1례로 LOC↓.
+- **[[barbosa-2022-aberrant-impulse-control-circuitry]]** (Mol Psychiatry 2022) — vmPFC→NAc shell 충동조절 회로가 비만에서 약화(BMI 역상관·우울 무관); tractography-유도 개인맞춤 NAc-shell rDBS 1례로 LOC↓(이 1례는 [[shivacharan-2022-pilot-study-of-responsive-nucleus]] subject 2의 12주 시점 결과로 판단 — 별도 사례로 합산하지 말 것).
 - **[[mahajan-2022-can-responsive-deep-brain]]** (Obesity 2022) — rDBS가 위우회술 대비 비용효과적이 되는 BMI 감소 임계값(≈13.7–15.2 kg/m²/5년) 모델링.
-- **[[parvizi-2022-complex-negative-emotions-induced]]** (Brain Stimul 2022) — 인간 복내측 시상하부 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발; DBS-for-obesity의 시상하부 정동 부작용 경고.
+- **[[parvizi-2022-complex-negative-emotions-induced]]** (Brain Stimul 2022) — 인간 복내측 시상하부 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발; DBS-for-obesity의 시상하부 정동 부작용 경고. (교신저자는 Josef Parvizi; Halpern은 최종저자로 협력 — 그의 rDBS 프로그램 논문은 아님.)
 
 ### 인간 식이 cortex 회로 매핑 (별도 축)
 - **[[huang-2021-the-insulo-opercular-cortex-encodes]]** (Nat Commun 2021) — insulo-opercular cortex가 음식 cue 특이적 고주파 신호를 anticipation·자연 식사에서 encode.

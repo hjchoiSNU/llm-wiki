@@ -2,7 +2,7 @@
 title: "유전자 사냥꾼에서 신약 사냥꾼으로 (Mullard 2025 인터뷰)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-19
 source: "raw/Mullard - 2025 - From gene hunter to drug hunter.pdf"
 authors: [Asher Mullard]
 year: 2025
@@ -28,3 +28,5 @@ Amgen 신임 CSO Howard Chang(전 Stanford 유전체학자·피부과의)과의 
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — AMG133/maridebart 기전(GIPR 길항+GLP-1) 전임상.
 - [[concept-glp-1]] · [[concept-gip]] — MariTide의 두 축.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] · [[petersen-2026-the-evolving-landscape-of]] — 차세대 incretin 비만약.
+- [[concept-peptide-drug-conjugate]] — 인터뷰가 든 "modular therapeutic" 사례(MariTide=peptide–antibody conjugate)가 속하는 포맷 hub.
+- [[concept-cis-regulatory-element-obesity]] — "질병 연관의 대다수가 비암호화"라는 주장이 비만 유전체에서 구체화되는 지점.

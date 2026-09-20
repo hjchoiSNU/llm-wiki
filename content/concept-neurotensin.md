@@ -2,7 +2,7 @@
 title: "Neurotensin (Nts)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-02
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -18,6 +18,16 @@ Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·
 - **LH neurotensin 뉴런**: 갈증(음수 촉진)·각성·자발적 운동·novelty seeking을 조율. [[sumarli-2026-multidimensional-control-of-ingestive-behavior|Sumarli 2026]]은 LH-Nts가 **licking 운동량**을 부호화하고(거의 inverse value coding: 물>sucrose), 침묵 시 음수·체온·체중·자발적 운동이 손상되나 총 먹이 섭취는 불변임을 보였다. [[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]](Korotkova)은 LH^Nts가 음수를 촉진하고 social behavior를 억제해 LH^LepR과 상보적으로 arbitration함을 보였다.
 - **체온·대사**: 중추 Nts는 저체온을 유발하며, LH-Nts 침묵은 core body temperature를 낮춘다(Sumarli 2026).
 - **도파민 조절**: VTA에서 Nts는 도파민 뉴런 흥분성을 조절 — 보상·동기 신호와 연결.
+
+### LH^Nts와 섭식 — 무엇이 합의됐고 무엇이 갈리는가
+
+| 출처 | 조작·범위 | 섭식 결과 |
+|---|---|---|
+| [[rossi-2023-control-of-energy-homeostasis\|Rossi 2023]] (리뷰 요약) | LHA^Nts 일반 | **섭식 억제**·수분·에너지소비 ↑ |
+| [[sumarli-2026-multidimensional-control-of-ingestive-behavior\|Sumarli 2026]] | 양측 **TeTox 침묵**(집단 전체) | **24 h 총 섭취·meal 구조 불변**, 물 섭취·체온·자발운동 ↓ |
+| [[petzold-2023-complementary-lateral-hypothalamic-populations\|Petzold 2023]] | 화학유전 활성화, 다중욕구 자유행동 | **음수 급증**(물 우선), social ↓ |
+
+합의: **수분·각성·자발운동 축은 일관**. 갈리는 축: 먹이 섭취 방향 — 조작 방향(활성 vs 침묵)과 지표(총 섭취량 vs licking 운동량), 대상 범위(리뷰 일반화 vs 집단 전체 침묵)가 모두 다르므로 **조건 차이로 읽고, 인용 시 조건을 함께 적을 것**. (subregion별 분해는 [[cheon-2025-lateral-hypothalamus-and-eating-cell]]의 amLH/alLH/pmLH/plLH 틀 참조.)
 
 ## 관련 페이지
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH-Nts 다차원 섭취행동 조율 (근거 논문).

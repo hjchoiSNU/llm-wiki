@@ -2,7 +2,7 @@
 title: Melanocortin-3 receptor (MC3R)
 type: concept
 created: 2026-05-31
-updated: 2026-09-02
+updated: 2026-09-19
 aliases: [MC3R, melanocortin 3 receptor]
 ---
 
@@ -34,6 +34,9 @@ aliases: [MC3R, melanocortin 3 receptor]
 - 자세한 모델·실험: [[seiler-2026-dual-activation-of-mc3r-and|Seiler 2026]].
 
 ## 임상 함의
+
+> ⚠️ **근거 등급**: 아래 710GO 관련 수치는 전부 **비인간 영장류(수컷 cynomolgus macaque) 전임상**이며 **first-in-human은 아직 예정 단계**다. [[seiler-2026-dual-activation-of-mc3r-and|Seiler 2026]]은 작은 표본·큰 개체 변이·수컷 한정·"working model"임을 스스로 명시하고, **저자 전원이 개발사(Endevica Bio) 소속·지분 보유**임을 밝힌다. 또 **rat에서는 MC3R 단독으로도 체중이 줄어** 종간 차이가 크다 — 인간 외삽은 미검증.
+
 - **인간 MC3R LoF는 비만에서 더 흔함** + energy partitioning·성장 조절 → MC4R-단독 표적의 한계 보완.
 - **MC3R/MC4R dual agonist (710GO)**: 비만 macaque 15주 11.8% 체중 감소, **지방 선택적·제지방 보존·무오심·심혈관 안전**, semaglutide 병용 시너지. MC4R 단독 작용제가 좁은 치료역으로 임상 실패한 문제를 공작용으로 우회.
 - **반대 방향**: MC3R/MC4R dual *antagonist* (mifomelatide/TCMCB07)은 cachexia에서 체중 *증가* 약물 — 같은 수용체쌍의 양방향 약리.

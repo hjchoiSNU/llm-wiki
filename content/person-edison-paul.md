@@ -2,7 +2,7 @@
 title: Paul Edison
 type: person
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -21,6 +21,8 @@ updated: 2026-07-09
 - **연락처**: paul.edison@imperial.ac.uk
 
 ### 대표 성과
+⚠️ **현재 위치(2026 갱신)**: ELAD(204명)는 이 분야 최초의 다기관 RCT이지만, 이후 pivotal 3상 [[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]](경구 semaglutide, n=3,808)가 초기 AD에서 **1차·2차 종점 전부 음성**으로 조기 중단되며 ELAD의 2차 인지 신호를 재현하지 못했다. [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]의 결론도 "확립된 AD에 경구 sema 사용을 지지하지 않는다"이다. Edison 라인의 현재 가치는 **결론**이 아니라 **방법론**(FDG-PET·VBM 기반 중추 target engagement 측정)에 있다.
+
 - **[[edison-2026-liraglutide-in-mild-to-moderate]]** (Nat Med 2026) — ELAD phase 2b. 비당뇨 경도–중등도 AD 204명, liraglutide 52주. 1차 뇌 포도당 대사 음성, 2차 인지(ADAS-Exec)·탐색 뇌위축 유리. GLP-1RA 알츠하이머 최초 대규모 임상.
 
 ### 협업 네트워크(ELAD)
@@ -35,3 +37,6 @@ updated: 2026-07-09
 - [[concept-glp-1]] — 상위 호르몬·약리 hub.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 신호 종합(사용자 lab); 기전 배경 공유.
 - [[person-choi-hyung-jin]] — 사용자. GLP-1 뇌 작용을 섭식·시상하부 회로에서 분해; Edison은 같은 수용체의 신경퇴행 임상 응용.
+- [[cummings-2026-efficacy-and-safety-of-oral]] — ELAD 이후의 pivotal 3상(EVOKE/EVOKE+); ELAD 2차 신호 미재현·조기 중단(Lancet 2026).
+- [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — ELAD를 근거지도에 배치한 종합 리뷰(Nature Aging 2026).
+- [[fang-2025-glucagon-like-peptide-1-medicines]] — 신경퇴행을 넘어 SUD·정신질환까지 확장한 광역 리뷰(Cell Rep Med 2025).

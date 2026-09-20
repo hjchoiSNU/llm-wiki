@@ -2,7 +2,7 @@
 title: Ghrelin
 type: concept
 created: 2026-04-29
-updated: 2026-09-11
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -100,3 +100,4 @@ updated: 2026-09-11
 - [[concept-circuit-bistability-hysteresis]] — ghrelin이 **set 신호**로 작동하는 flip-flop 모델(reset은 leptin→POMC 오피오이드).
 - [[concept-agrp-synaptic-plasticity]] — ghrelin–AMPK 축이 속한 가소성 개념 hub.
 - [[concept-weight-regain-defended-adiposity]] — LEAP2 유사체(내인성 ghrelin 수용체 길항)가 유지생물학 전략으로 거론되는 맥락.
+- [[davila-2026-agrp-neurons-are-required-for]] — 세마글루타이드는 **순환 ghrelin을 바꾸지 않으면서** AgRP를 모집한다(ghrelin은 매개자에서 배제) (PNAS 2026).

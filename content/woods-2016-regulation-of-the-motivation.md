@@ -2,7 +2,7 @@
 title: "Woods & Begg 2016 — Regulation of the Motivation to Eat (book chapter)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-19
 source: raw/2016 Book Behavioral Neuroscience of Motivation.pdf
 authors: [Stephen C. Woods, Denovan P. Begg]
 year: 2016
@@ -66,3 +66,4 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[woods-1991-the-eating-paradox-how]] — 동일 저자의 25년 전 원전(cephalic·예측반응).
 - [[concept-cephalic-phase-response]] — cephalic 반응 개념 hub.
+- [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]] — 본 장이 satiation 신호로 나열한 CCK·GLP-1·PYY를 6가지 physiological criteria로 등급화(인간에서 완전 입증은 CCK satiation·GLP-1 incretin뿐). '학습이 무조건 신호를 덮는다'는 주장도 공유(단 그쪽은 사고실험).

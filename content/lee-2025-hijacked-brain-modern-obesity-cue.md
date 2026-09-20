@@ -2,7 +2,7 @@
 title: "Hijacked Brain in Modern Obesity: Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals"
 type: paper
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-09-19
 source: "raw/2025 JOMES Hijacked Brain in Modern Obesity Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals.pdf"
 authors: [Lee T, Park S, Lee S, Hwangbo A, Bae H, Lee Y, Choi HJ]
 year: 2025
@@ -103,7 +103,7 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[kim-2020-multidimensional-cognitive-behavioral-therapy]] — 다차원 CBT-DTx RCT (본 framework가 인용하는 실증 backbone).
 - [[kim-2021-mental-health-of-people]] — restrained·emotional 표현형의 인구역학 근거 (왜곡 BWP·WCS-m 여성).
 - [[lee-2019-food-craving-seeking-and]] — craving/seeking/consumption phase framework 원전.
-- [[bae-2019-glucagon-like-peptide-1-receptor]] — 비만 T2DM의 food cue 과반응(시상하부·OFC·visual cortex)을 인체 fMRI로 입증 — cue-evoked eating type의 영상 근거 (DMJ 2019, 본 lab).
+- [[bae-2019-glucagon-like-peptide-1-receptor]] — 비만 T2DM의 food cue 과반응(시상하부·OFC·visual cortex)을 인체 fMRI로 **시사**(n=29·급성 단회·**다중비교 미보정 P<0.001**의 탐색적 결과) — cue-evoked eating type의 영상 근거이되 확증 아님 (DMJ 2019, 본 lab).
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — gut-brain dysfunction 보완.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — DA 회로 재해석 맥락.
 - [[stuber-2025-the-neurobiology-of-overeating]] — food addiction 개념에 신중론 (긴장); circuit model은 공유.

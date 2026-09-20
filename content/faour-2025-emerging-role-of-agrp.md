@@ -2,7 +2,7 @@
 title: "Faour et al. 2025 — Emerging role of AgRP neurons as integrators of metabolic, sensory and environmental cues"
 type: paper
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-19
 source: raw/2026 Emerging role of AgRP neurons as integrators of metabolic, sensory and environmental cues in the control of energy homeostasis.pdf
 authors: [Maya Faour, Nour Mesto, Claire Martin, Serge Luquet]
 year: 2025
@@ -34,7 +34,10 @@ ARC AgRP 뉴런이 **hormone + sensory + 환경 + circadian** 4개 modality를 �
 
 ### 3. Projection diversity
 - 직접 efferent: PVN (30% 최고), aBNST, LH, mPOA, MeA, CeA, PBN, PVT, LS, PAG, DR.
-- **LH·aBNST·PVT·mPOA·MeA만 fiber 자극으로 식이 유도** (Betley 2013 Cell). PBN·PAG·CeA는 식이 자극 안 됨.
+- **fiber(축삭말단) 자극만으로 섭식을 유도하는 투사** — 본 리뷰 §3은 "AgRP→LH·aBNST·PVT·mPOA·MeA 투사가 섭식 유도에 충분"이라고 적으면서 **문헌 4편을 함께 인용**한다. 따라서 이 목록을 [[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]] 한 편에 귀속하면 안 된다.
+  - Betley 2013이 실제로 광자극한 투사는 **aBNST·PVH·PVT·CEA·PAG·LHA 6곳**(PBN은 Atasoy 2012 선행 결과 인용): **aBNST·PVH·LHA는 섭식 충분**, **PVT는 유발하되 크기가 작음**, **CEA·PAG·PBN은 유발 불가**. **mPOA·MeA는 Betley가 시험한 표적이 아니다**(다른 인용 문헌의 결과).
+  - ⚠️ **PVH를 목록에서 빼면 안 된다** — 같은 리뷰도 바로 앞에서 "PVN이 AgRP 신경지배가 가장 조밀(~30%)하며 AgRP→PVN 활성이 멜라노코르틴 차단을 통해 강력히 섭식을 자극한다"고 따로 적는다. Betley의 정량에서도 PVH가 최대 표적(ARC AgRP 뉴런의 **29.9 ± 7.4%**, aBNST 18.3 ± 3.3%)이다 ([[concept-npy-agrp-neurons]], [[concept-paraventricular-nucleus]]).
+  - 단 PVH가 유일한 수렴점은 아니다: AgRP 활성 중 ARC^AgRP→PVH를 약리적으로 차단해도 식이는 **~50%만** 줄었다(Atasoy 2012; Betley 2013 Discussion이 인용) — 병렬·중복 배선의 근거.
 - AgRP→PVN = ★ 가장 강력. AgRP→LH = sucrose seeking + iBAT 억제 → insulin resistance.
 - AgRP→aBNST = feeding + iBAT 전사 리프로그래밍.
 - AgRP→PBN^CGRP = satiety 억제 (meal termination 지연).
@@ -112,3 +115,4 @@ ARC AgRP 뉴런이 **hormone + sensory + 환경 + circadian** 4개 modality를 �
 - [[seiler-2026-dual-activation-of-mc3r-and]] — AgRP=MC3R/MC4R inverse agonist; 그 하류 수용체 dual-agonism 약리 (Nat Commun 2026).
 - [[concept-mc3r]] — AgRP가 길항하는 수용체 (rheostat/boundary).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[betley-2013-parallel-redundant-circuit-organization-for]] — 본문 "Projection diversity" 절이 인용한 1차 출처 중 하나. 투사별 섭식 충분성(aBNST·PVH·LHA 충분 / PVT 소폭 / CEA·PAG·PBN 불가), 축 담보 빈약(표적 주입부 penetrance 4–27%, 인접 표적은 거의 무표지), 정량 조직(ARC AgRP 9,965±66개 중 PVH 29.9±7.4%, aBNST 18.3±3.3%, PAG 4.0±1.2%, PBN 3.1±0.9%, CEA 2.2±0.6%, PVT 2.1±0.2%)은 이 논문에서 직접 확인할 것 (Cell 2013, Sternson lab).

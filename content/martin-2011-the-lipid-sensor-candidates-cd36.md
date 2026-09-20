@@ -2,7 +2,7 @@
 title: "The Lipid-Sensor Candidates CD36 and GPR120 Are Differentially Regulated by Dietary Lipids in Mouse Taste Buds: Impact on Spontaneous Fat Preference"
 type: paper
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-09-19
 source: raw/Martin2011.pdf
 authors: [Céline Martin, Patricia Passilly-Degrace, Dany Gaillard, Jean-François Merlin, Michaël Chevrot, Philippe Besnard]
 year: 2011
@@ -14,7 +14,7 @@ year: 2011
 # The Lipid-Sensor Candidates CD36 and GPR120 in Mouse Taste Buds (Martin 2011)
 
 ## 한 줄 요약
-미뢰의 두 지방 센서 중 **[[concept-cd36|CD36]]만 식이지방에 의해 후전사적으로 하향조절**(GPR120은 불변)되며, 이 CD36 감소가 지방 선호를 낮춘다 — 구강 지방 감지의 **sensory-specific satiety** 유사 기전. *PLoS ONE* 6(8):e24014 (Besnard lab).
+미뢰의 두 지방 센서 중 **[[concept-cd36|CD36]]만 식이지방에 의해 후전사적으로 하향조절**(GPR120은 불변)되며, 이 감소가 지방 선호를 바꾸기에 **충분할 것**으로 저자가 추론한다(원문 "should be sufficient"/"seems sufficient" — 직접 검증 아님; 근거는 유전적 CD36⁺/⁻의 선호 소실) — 구강 지방 감지의 **sensory-specific satiety** 유사 기전. *PLoS ONE* 6(8):e24014 (Besnard lab).
 
 ## 핵심 내용
 
@@ -38,6 +38,8 @@ year: 2011
 ## 방법·해석 유의
 - CD36 하류: LCFA→CD36→Src-PTK→Ca²⁺↑→세로토닌/NE 방출→미주·설인 구심성→NST(El-Yassimi 2008, Gaillard 2008). GPR120의 지방 선호 기전은 미확립.
 - 장(intestine)에서도 동일한 지방 유발 CD36 후전사 감소가 관찰 → CD36가 **구강-장 연속체(oro-intestinal continuum)** 의 지방 센서라는 가설(Martin 2011 *Physiol Behav* "CD36 as a lipid sensor").
+- ⚠️ **인과 사슬의 빈칸**: '식사로 유발된 미뢰 CD36 감소 → 지방 선호 저하'는 본 논문이 **직접 실험으로 보이지 않았다**. 저자는 fed vs fasted 비교가 **내분비 상태와 자율신경 활동의 큰 변화** 때문에 지방 선호 자체를 함께 바꿔 "질문에 온전히 답할 수 없다"고 명시하고(p.5, 해당 Results 절), 그 한계를 우회해 **유전적으로** CD36 단백이 절반인 CD36⁺/⁻가 0.5% linoleic acid 선호를 잃는다(4배 농도인 2%에서도 동일)는 사실로 "should be sufficient"라고 추론한다. 즉 급성·가역적 단백 감소와 만성·유전적 감소가 같은 행동 효과를 낸다는 가정이 검증되지 않은 채 남아 있다.
+- 이 빈칸은 [[proposal-oral-fat-taste-pleasure-desire|구강 지방 연구계획서]] Aim 1의 검증 대상 그 자체다(식사 중 미뢰 CD36 단백 감소를 시간해상도로 측정하면서 wanting을 동시에 재는 설계).
 
 ## 관련 페이지
 - [[concept-cd36]] — 본 논문의 주역(미뢰 food-sensitive 센서).

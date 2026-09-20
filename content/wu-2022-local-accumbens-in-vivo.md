@@ -2,14 +2,14 @@
 title: "Local accumbens in vivo imaging during DBS reveals strategy-dependent amelioration of hedonic feeding (Wu 2022)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: "raw/2022 PNAS (Halpern) Local accumbens in vivo imaging during deep brain stimulation reveals a strategy-dependent amelioration of hedonic feeding.pdf"
 authors: [Wu H, Kakusa B, Neuner S, Heifets BD, Malenka RC, Halpern CH]
 year: 2022
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[concept-nucleus-accumbens|NAc]] **D1-MSN 칼슘 활성이 고지방 섭식 직전 ramp-up**하고, DBS가 이 신호를 끊어 hedonic feeding을 억제함을 자극 중 photometry로 직접 본 마우스 연구. 결정적 결론: **상시(continuous) 자극은 시간이 지나며 효과를 잃지만, 폐루프(responsive) 자극은 ~1/10 전류로 지속 효과** — Halpern 인간 [[concept-responsive-neurostimulation|rDBS]] 임상의 기계론적 근거. NMPU의 Pleasure 축(D1-MSN)을 회로 수준에서 분해.
+> [[concept-nucleus-accumbens|NAc]] **D1-MSN 칼슘 활성이 고지방 섭식 직전 ramp-up**하고, DBS가 이 신호를 끊어 hedonic feeding을 억제함을 자극 중 photometry로 직접 본 마우스 연구. 결정적 결론: **상시(continuous) 자극은 시간이 지나며 효과를 잃지만, 폐루프(responsive) 자극은 같은 진폭(0.1 mA)에서 **누적 자극시간만 ~1/10**(3시간 중 10.7%, ≈19분)로 줄여도 지속 효과** — Halpern 인간 [[concept-responsive-neurostimulation|rDBS]] 임상의 기계론적 근거. NMPU의 Pleasure 축(D1-MSN)을 회로 수준에서 분해.
 
 # Local accumbens in vivo imaging during DBS reveals strategy-dependent amelioration of hedonic feeding (Wu 2022)
 
@@ -23,7 +23,7 @@ year: 2022
   - **D1 특이**: Drd1 접근 신호↑(p=.0015), A2a(D2)는 무(p=.34).
   - 130 Hz cDBS가 hedonic feeding·고지방 연관 transient를 차단(3 Hz 대조 무효).
   - **지속성 분리**: 3시간 cDBS는 효과가 부분 소실(습관화)되는 반면, **rDBS는 1·3시간 모두 지속 효과**(신호 surge 감쇠 없음). rDBS 성공률 78–83%.
-  - 효율: rDBS는 3시간 중 ~10.7%만 자극 — 적은 전류로 동등+지속 효과.
+  - 효율: rDBS는 3시간 중 ~10.7%(마우스당 누적 ≈19분)만 자극 — **진폭은 cDBS와 동일한 0.1 mA**이고 줄어든 것은 총 전달 전하량(자극시간)이며, 그 상태로 동등+지속 효과.
 - **안전성**: 본 연구 별도 AE 보고 없음. 선행연구상 cDBS·rDBS 모두 이동·place preference엔 영향 없으나 cDBS만 juvenile interaction(보상 assay)↓ → rDBS가 행동 특이성·부작용 면에서 우월.
 - **주장**: NAc D1-MSN ramp가 hedonic feeding을 추진하고 DBS가 이를 끊어 과식을 억제; **자극 전략 의존적**이라 폐루프가 상시보다 지속·저용량 효과 → 난치 과식의 표적 신경조절 근거.
 
@@ -36,3 +36,5 @@ year: 2022
 - [[concept-deep-brain-stimulation]] — cDBS의 습관화 한계.
 - [[concept-loss-of-control-eating]] · [[concept-dopamine-reward-system]] — hedonic feeding 회로 맥락.
 - [[concept-lateral-hypothalamus]] — NAc D1R→LH "feeding authorization" 하류.
+- [[shivacharan-2022-pilot-study-of-responsive-nucleus]] — 본 기계론이 뒷받침하는 인간 NAc rDBS pilot(n=2). 단 인간 검출기는 specificity 48–59%로 마우스 delta-trigger와 동일하지 않음.
+- [[barbosa-2022-aberrant-impulse-control-circuitry]] — 인간 NAc-shell 폐루프 1례(pilot subject 2)와 vmPFC 회로 영상.

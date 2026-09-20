@@ -2,7 +2,7 @@
 title: "Gut-brain circuits for fat preference"
 type: paper
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-09-19
 source: raw/Li2022.pdf
 authors: [Mengtong Li, Hwei-Ee Tan, Zhengyuan Lu, Katherine S. Tsang, Ashley J. Chung, Charles S. Zuker]
 year: 2022
@@ -60,7 +60,7 @@ year: 2022
 - [[concept-fat-taste]] — 구강 지방 감지와 대비되는 post-oral 축.
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — gut-brain 종합 맥락.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 공저자 후속의 말초 endocannabinoid 축(선행 연구).
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 선행 연구: 지방 sham feeding(구강 감각 격리)이 **미주 원심성(efferent vagal) 섬유**를 통해 rat 공장(jejunum)의 2-AG·anandamide를 동원하고, 십이지장 내 rimonabant가 지방 sham 섭취를 억제 → 장 CB1이 지방 섭취를 구동(Piomelli lab, PNAS 2011). ⚠️ 두 논문에 **공유 저자 없음**(Xiaosong Li ≠ Mengtong Li, 성만 동일) — 주제상의 상보 관계.
 - [[concept-endocannabinoid-system]] — CB1 축 hub.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 상보: 장→뇌 선호/혐오를 EEC 아형으로 해부.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 당 vs 지방의 gut-brain 후-섭취 보상(동일 계열).

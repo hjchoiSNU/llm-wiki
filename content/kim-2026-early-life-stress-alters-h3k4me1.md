@@ -2,7 +2,7 @@
 title: Early-life stress alters H3K4me1 in VTA to prime stress sensitivity (Kim 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-09-11
+updated: 2026-09-19
 source: raw/2026 Neuron. Early-life stress alters H3K4me1 in VTA to prime stress sensitivity.pdf
 authors: [Hye Ji J. Kim, Luke T. Geiger, Julie-Anne Balouek, Lisa Z. Fang, Mason R. Barrett, Ian Maze, Meaghan C. Creed, Catherine Jensen Peña]
 year: 2026
@@ -65,6 +65,7 @@ doi: 10.1016/j.neuron.2026.07.018
   - OE 벡터가 **ubiquitous EF1a 프로모터** → 도파민 뉴런 특이적 조작이 아님. VTA 밖 일부 발현(mammillary·interpeduncular·pontine nuclei 가능)도 관찰됨.
   - AAV 과발현은 **H3K4me1이 게놈 어디에 놓이는지 통제 불가**(이미 열려 접근 가능한 영역에 놓일 가능성) → **CRISPR-dCas9 표적 epigenetic editing**이 필요한 후속.
   - 실험마다 스트레서가 다름(사회패배 vs variable stress) — 다만 결과는 모든 지표에서 일관.
+  > ⚠️ 위키 적용 규칙([[concept-glia-stress-plasticity]]·[[cunningham-2026-early-life-experiences-the-neural]]): 히스톤 MS는 **수컷 3마리 VTA punch를 pooling한 bulk 조직**, RNA-seq도 bulk이며 세포 정렬·deconvolution은 보고되지 않았다. 따라서 '변화한 변형의 75%가 permissive'라는 **지형 서술**은 ELS에 의한 VTA 세포 구성 변화를 배제하지 못한다. SETD7의 TH⁺ 핵 내 증가(IHC)와 Setd7 OE/KD 인과 실험은 이 함정에 덜 취약하므로, priming 결론은 유지되되 지형 수치는 bulk 한계를 달고 읽을 것.
   - Setd7-OE는 juvenile(P14)뿐 아니라 성체에서도 크로마틴 접근성·행동 민감성을 높인다는 선행 보고가 있어, **효과가 발달기 한정은 아닐 수 있음**(성체 스트레스 자체는 Setd7을 안 바꾸지만).
 - **열린 질문**: VTA 도파민 뉴런은 예상 밖의 **혐오와 보상 둘 다** 부호화한다. H3K4me1 priming이 **긍정적·풍요로운 자극에 대한 민감성**도 높인다면, 아동기 역경 경험자에 대한 **개입(enrichment) 경로**가 열린다. 일부 동물 연구는 ELS의 특정 형태·시기가 오히려 resilience를 촉진한다고 보고.
 - 인접: H3K4 **탈**메틸효소 LSD1(Kdm1a)은 성체 스트레스 반응에 관여 — Kdm1a 감소가 Egr1·Fos 즉시조기유전자를 줄이고 통증 과민을 완화. 즉 **H3K4 메틸화 조절은 전 생애에 걸친 스트레스 반응 축**.

@@ -2,7 +2,7 @@
 title: "Cue reactivity (큐 반응성)"
 type: concept
 created: 2026-07-28
-updated: 2026-08-19
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -19,7 +19,7 @@ updated: 2026-08-19
 - **조절 수단**:
   - 인지 — [[concept-affect-labeling|cue labeling]]이 흡연 craving·precuneus 활성↓([[tabibnia-2026-cue-labeling-reduces-cigarette-craving]]).
   - 비침습 자극 — DLPFC [[concept-transcranial-electrical-stimulation|tDCS]]가 흡연·음식 craving↓([[perri-2021-transcranial-direct-current-stimulation]], [[jeong-2024-efficacy-of-transcranial-direct]]).
-  - 침습/폐루프 — cue 유발 충동 직전 biomarker 검출 시 자극([[concept-responsive-neurostimulation]], [[nho-2026-human-orbitofrontal-neural-activity-is]]).
+  - 침습/폐루프 — cue 유발 충동 직전 biomarker 검출 시 자극([[concept-responsive-neurostimulation]]; 인간에서 실제 구동된 사례는 섭식 [[shivacharan-2022-pilot-study-of-responsive-nucleus]]). 강박 [[nho-2026-human-orbitofrontal-neural-activity-is]]는 provocation 중 amOFC gamma biomarker를 찾고 **급성 open-loop** NAc-VeP 자극으로 그 신호·증상을 낮춘 연구로, biomarker-triggered 자극은 향후 방향.
 
 ## 관련 페이지
 - [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] · [[concept-affect-labeling]] — 인지적 cue 조절.

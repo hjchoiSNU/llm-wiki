@@ -2,7 +2,7 @@
 title: "Novelty exploration-activated ensemble in the lateral hypothalamus confers analgesic and anxiolytic effects (Jia/Zhou 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-19
 source: "raw/2026 Nat. Comm. Novelty exploration-activated ensemble in the lateral hypothalamus confers analgesic and anxiolytic effects  .pdf"
 authors: [Tao Jia, Yi-Ting Peng, Yi-Ling Sun, Cui Yin, Xizhi Gu, Liqun Yang, Song Zhang, Jun-Li Cao, Cheng Xiao, Chunyi Zhou]
 year: 2026
@@ -78,3 +78,6 @@ journal: "Nature Communications 17:4418; doi:10.1038/s41467-026-73205-x"
 - [[concept-dopamine-reward-system]] — LH→VTA 투사가 보상/혐오(CPP·CPA) 매개.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(LH 통합 노드).
 - [[person-choi-hyung-jin]] — 인용된 사용자 lab(Cheon 2025).
+- [[concept-lateral-habenula]] — 본 논문에서 진통/통각과민의 부호를 가르는 표적: **LH^GABA→LHb = 진통**, **LH^Glu→LHb = 통각과민**. LHb hub의 '혐오·음성강화' 축에 세포타입 의존 부호 반전 사례를 추가.
+- [[concept-orexin-neurons]] — novelty ensemble의 ~26%가 orexin⁺(MCH ~6%). LH salience ensemble과 orexin 집단의 관계는 미해결.
+- [[concept-activity-molecular-registration]] · [[hyun-2022-tagging-active-neurons-by]] — Fos-TRAP + Cre-OFF(Fos⁻) 대조 설계가 속한 **활성 뉴런 태깅·정합 방법론** 계열. tag-then-manipulate 논리의 같은 가족.

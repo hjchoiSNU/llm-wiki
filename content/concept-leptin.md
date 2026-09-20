@@ -2,7 +2,7 @@
 title: Leptin
 type: concept
 created: 2026-04-29
-updated: 2026-09-11
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -86,3 +86,5 @@ updated: 2026-09-11
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ **leptin이 AgRP 시냅스를 직접 끄지 않는다**: 절편에 직접 투여하면 무효이고, 복강 투여 효과는 **POMC 뉴런의 오피오이드(β-endorphin 추정)** 를 경유하며 **naltrexone으로 차단**된다(멜라노코르틴 MTII로는 재현 안 됨). flip-flop 모델에서 leptin = **reset 신호** (Cell 2011, Sternson lab).
 - [[concept-circuit-bistability-hysteresis]] — leptin이 reset 입력으로 들어가는 set/reset 래치 구조.
 - [[concept-weight-regain-defended-adiposity]] — 감량 후 leptin 저하가 reset 신호 결핍으로 읽히는 지점(leptin 재감작 전략).
+- [[davila-2026-agrp-neurons-are-required-for]] — GLP-1RA 감량에서 leptin은 매개자가 아니며(WT 감소·KO 상승), **leptin 병용은 오히려 체중 감량을 강화**. 매개축은 glucocorticoid→AgRP-GR (PNAS 2026).
+- [[concept-maternal-programming-hypothalamus]] — postnatal leptin surge blunting을 6 매개 기전 중 하나로 정리한 상위 hub.

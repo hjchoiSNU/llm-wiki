@@ -2,7 +2,7 @@
 title: "Glucagon Like Peptide-1 and Its Receptor in Human Brain: 발현 분포·기능·연령·종특이성 (Gupta 2021)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: "raw/2021 Glucagon Like Peptide-1 and Its Receptor in Human Brain Distribution of Expression, Functional Implications, Age Related Changes & Species Specific Characteristics.pdf"
 authors: [Gupta T, Kaur M, Shekhawat D, Aggarwal R, Nanda N, Sahni D]
 year: 2021
@@ -31,3 +31,5 @@ year: 2021
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab GLP-1 뇌기전 종합의 인간 분포 실측 근거.
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 사용자 lab 인체 GLP-1RA fMRI의 해부학적 분포 지도.
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 설치류 GLP-1R hedonic 회로; 종특이성 소견은 인간 번역 시 주의점.
+- [[concept-glp1-neuroprotection]] — 본 논문을 인간 CNS 발현 근거로 쓰는 hub(역방향 링크). 근거 등급·한계는 그곳의 근거표 참조.
+- [[concept-orbitofrontal-cortex]] — 인간 OFC에서 GLP-1R가 검출되지 않았다는 소견이 직접 걸리는 부위 hub.

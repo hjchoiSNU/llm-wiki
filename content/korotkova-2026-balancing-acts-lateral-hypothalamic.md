@@ -2,7 +2,7 @@
 title: "Korotkova 2026 — Balancing acts: lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions"
 type: paper
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-19
 source: raw/2026 (Korotkova) Balancing acts lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions.pdf
 authors: [Tatiana Korotkova]
 year: 2026
@@ -100,3 +100,4 @@ LH 뉴런 identity = **molecular marker × oscillatory phase × connectivity × 
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — 같은 lab 원 실험(hunger×social arbitration).
 - [[rossi-2023-control-of-energy-homeostasis]] — LepR·Nts subset의 상위 taxonomy 리뷰.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-medial-preoptic-area]] — **arbitration의 자매 사례**: LH가 섭식·음수·사회를 중재한다면, MPOA는 양육을 섭식·스트레스·성 동기와 중재한다. AgRP/NPY→MPOA 억제라는 구체적 중재 시냅스가 규명돼 있어 LH arbitration 모델의 검증 template로 쓸 수 있다 (NRN 2026).
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts를 arbitration의 'drive' 성분이 아니라 **licking 운동량·각성·자발적 운동의 tonic 조율 신호**로 읽는 경쟁 해석 (bioRxiv 2026).

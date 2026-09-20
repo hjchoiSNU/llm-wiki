@@ -2,7 +2,7 @@
 title: "Rosenstock 2026 — Oral Small-Molecule GLP-1RA Aleniglipron in Overweight/Obesity (ACCESS)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-19
 source: raw/2026 Nature Medicine. Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity.pdf
 authors: [Julio Rosenstock, Ildiko Lingvay, Donna Ryan, Ania M. Jastreboff, ACCESS Trial Investigators]
 year: 2026
@@ -31,7 +31,7 @@ journal: "Nature Medicine"
 ## 사용자 lab 관점
 - **경구 소분자 paradigm 강화**: [[davies-2026-elecoglipron-an-oral-small|elecoglipron(VISTA)]]과 나란히 경구 GLP-1RA의 효능·내약성 입증.
 - **내약성 회로**: 복용 중단/재개에도 구토가 재발하지 않는 적응 현상 → 후뇌 욕지기 회로 적응 연구 단서([[gao-2026-semaglutide-drives-weight-loss-through]]).
-- **정체기 없음**: 장기 감량 궤적 → 시상하부 set-point 재설정 가설과 연결.
+- **정체기 없음**: 36주 이중맹검 + OLE 중간분석(중앙값 20주)까지 감량 궤적이 꺾이지 않음 = **투약 중 약효 지속**의 증거. ⚠️ set-point 재설정의 증거로 읽지 말 것 — 본 시험은 **중단 후 추적을 보고하지 않았고**, 방어되는 지방량의 재설정 여부는 중단 후 체중 궤적으로만 검증된다. 위키의 재증가 근거는 오히려 반대 방향이다([[concept-weight-regain-defended-adiposity]]: SURMOUNT-4 중단 후 52주간 +14.0%, 세마글루타이드 중단 후 12주 내 71.4% 재증가).
 
 ## 관련 페이지
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 비만약 hub.
@@ -39,3 +39,4 @@ journal: "Nature Medicine"
 - [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — 동일 제1저자(Rosenstock)의 CagriSema 임상.
 - [[concept-glp-1]] · [[concept-incretin-effect]] — 기전.
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.
+- [[concept-weight-regain-defended-adiposity]] — 감량 궤적의 해석 축: 투약 중 지속 vs 중단 후 방어되는 지방량으로의 복귀.

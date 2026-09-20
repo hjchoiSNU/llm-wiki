@@ -2,7 +2,7 @@
 title: Early-life adversity (초기 역경) / 발달기 stress programming
 type: concept
 created: 2026-07-05
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분리, developmental programming]
 ---
 
@@ -16,7 +16,7 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 
 ## 핵심 내용
 - **기전**: 초기 stress→leptin↓·corticosterone↑. Leptin은 발달기 시상하부 회로의 trophic factor여서, 그 교란이 회로 배선을 영구 변경.
-- **LH^Lepr 재편**([[shin-2023-early-adversity-promotes-binge-like-eating]]): 모성분리→성체 LH Lepr 하향조절(국소 leptin 저항)→LH^Lepr 흥분성↑→LH^Lepr→vlPAG^Penk 탈억제→HFD 재노출 시 지속 폭식.
+- **LH^Lepr 재편**([[shin-2023-early-adversity-promotes-binge-like-eating]]): 모성분리→성체 LH Lepr 하향조절(국소 leptin 저항)→LH^Lepr(80.7% GABA) 흥분성↑→**LH^Lepr→vlPAG^Penk 탈억제**→HFD 재노출 시 지속 폭식. 출력 특이성이 확인됨 — LH^Lepr→**vlPAG만** 폭식을 정상화/악화시키고 VTA·MPA 투사는 무효. ⚠️ 원논문 제목의 "brainstem"은 실제로는 **중뇌 vlPAG**이며 [[concept-dorsal-vagal-complex|DVC(AP·NTS·DMX)]]가 아니다 — 본 위키의 hindbrain 약리 경로와 혼동하지 말 것. vlPAG^Penk(proenkephalin)는 내인성 오피오이드 계열이라 [[concept-food-addiction]]·기호식 과섭취 축과 닿는다.
 - **모체 프로그래밍과 구분·연속**: 산전 모체 비만·과영양([[concept-maternal-programming-hypothalamus]])은 산전 축, ELT는 산후 stress 축 — 둘 다 발달 programming.
 - **잠재적(latent) 취약성**: baseline은 정상이나 유발자(HFD·stress) 노출 시 발현.
 - **크로마틴 층**([[kim-2026-early-life-stress-alters-h3k4me1]]): ELS(P10–17)가 성체 **VTA 히스톤 지형을 허용적 방향으로** 재편(변화한 변형의 75%가 permissive). 실행자는 H3K4 단일메틸화 효소 **SETD7**과 **H3K4me1** — **Setd7 과발현만으로 ELS 없이 취약성 재현(충분), ELS 후 Setd7 넉다운으로 차단(필요)**. 기저 상태에서는 전기생리·행동 모두 정상이고 **2차 스트레스가 와야 발현** → 위 "잠재적 취약성"의 분자 저장 기전. → [[concept-epigenetic-priming]]
@@ -25,10 +25,12 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 ## 저장 층위 정리
 같은 two-hit 논리가 서로 다른 수준에서 관찰된다.
 
-| 수준 | 대표 근거 | 저장 매체 | 2차 hit |
-|---|---|---|---|
-| 회로 | [[shin-2023-early-adversity-promotes-binge-like-eating]] | LH^Lepr 국소 leptin 저항 → vlPAG^Penk 탈억제 | HFD 재노출 |
-| 크로마틴 | [[kim-2026-early-life-stress-alters-h3k4me1]] | VTA H3K4me1·SETD7 (permissive chromatin) | 성체 사회패배·회피불가 스트레스 |
+| 수준 | 대표 근거 | ELS 창·패러다임 | 저장 매체 | 2차 hit |
+|---|---|---|---|---|
+| 회로 | [[shin-2023-early-adversity-promotes-binge-like-eating]] | **P3–4, 단회 23h 모성분리** | LH^Lepr 국소 leptin 저항 → vlPAG^Penk 탈억제 | HFD 재노출 |
+| 크로마틴 | [[kim-2026-early-life-stress-alters-h3k4me1]] | **P10–17, limited bedding/nesting(만성)** | VTA H3K4me1·SETD7 (permissive chromatin) | 성체 사회패배·회피불가 스트레스 |
+
+⚠️ 두 축의 ELS 창이 다르다. [[cunningham-2026-early-life-experiences-the-neural]]는 PND 2–9 노출(사회적 종속·공포기억)과 PND 10–17/20 노출(사춘기 전 창, 성체 만성스트레스 취약성)을 **다른 표현형군**으로 분류하므로, 두 축을 잇는 실험(예: ELT 폭식 모델에 VTA Setd7 조작)은 창 일치 여부를 먼저 정해야 한다.
 
 두 축이 같은 동물에서 연결되는지는 이 위키의 자료 범위 내에서 **미검증**.
 
@@ -49,3 +51,4 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 - [[concept-glia-stress-plasticity]] — ELS 효과의 **비뉴런 기질**(미세아교세포 가지치기·수초화·성상교세포 Ca²⁺). 화학유전 구제 실험이 인과를 지지.
 - [[concept-peripheral-epigenetic-biomarker]] — 혈액·타액 표지(`NR3C1`·`BDNF`·`SLC6A4`·`GRIN2B`·`PXDN`)의 쓸 수 있는 범위와 한계.
 - [[person-maze-ian]] — 위 종합의 출처 그룹.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 자손 역경의 **상류인 양육 행동** 쪽 리뷰: 스트레스·CRH가 retrieval·grooming·nursing을 낮추고 방치를 늘리며, 감작·경험이 그 억제를 완충한다.

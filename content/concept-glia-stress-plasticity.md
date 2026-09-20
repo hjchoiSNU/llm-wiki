@@ -2,7 +2,7 @@
 title: 글리아와 스트레스 가소성 (Glia in stress & developmental plasticity)
 type: concept
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [glia, microglia, astrocyte, oligodendrocyte, OPC, synaptic pruning, myelin plasticity, 미세아교세포, 성상교세포, 희소돌기아교세포, 시냅스 가지치기, 수초 가소성]
 ---
 
@@ -13,6 +13,9 @@ aliases: [glia, microglia, astrocyte, oligodendrocyte, OPC, synaptic pruning, my
 # 글리아와 스트레스 가소성
 
 ## 한 줄 요약
+
+> ⚠️ 근거 등급: 본 페이지의 인과 주장(미세아교세포 화학유전 활성화 구제·탈수초화 재현/oligodendrogenesis 정상화·성상교세포 Ca²⁺ 구제)은 모두 [[cunningham-2026-early-life-experiences-the-neural]] 리뷰의 **2차 인용**이며, 해당 1차 논문은 이 위키에 없다(마우스 연구). 부위·성별·패러다임 세부는 1차 논문 ingest 전까지 단정하지 말 것.
+
 미세아교세포·희소돌기아교세포·성상교세포가 스트레스와 발달 경험에 반응해 **시냅스 수·수초·세포외 신호 환경**을 바꾸고, 그 변화가 회로와 행동을 인과적으로 결정하는 기전들.
 
 ## 세 계열의 분업
@@ -20,7 +23,7 @@ aliases: [glia, microglia, astrocyte, oligodendrocyte, OPC, synaptic pruning, my
 ### 1. 미세아교세포 — 시냅스 가지치기
 - 전체 뇌세포의 **약 5–12%**. 사이토카인·케모카인 방출 같은 면역 기능 외에 **시냅스 가지치기와 잔해 제거**를 수행.
 - **ELS가 가지치기를 낮춘다**: 제한된 깔짚·둥지(LBN, PND 2–10)가 **PVN에서 CRH 뉴런 주위** 미세아교세포의 돌기 길이·운동성·글루타메이트 시냅스 포식을 감소시킨다. 청소년기 해마에서도 같은 방향.
-- ★ **인과**: **화학유전으로 미세아교세포를 활성화하면 정상 가지치기·회로 기능·행동이 회복**된다 ([[cunningham-2026-early-life-experiences-the-neural|Cunningham & Maze 2026]] 종합).
+- ★ **인과**: **화학유전으로 미세아교세포를 활성화하면 정상 가지치기·회로 기능·행동이 회복**된다 ([[cunningham-2026-early-life-experiences-the-neural|Cunningham & Maze 2026]] 종합). ⚠️ 원문에서 이 구제 문장은 **인용 번호·뇌 부위·성별이 명시돼 있지 않다.** 바로 앞 두 인용은 PVN CRH 뉴런 연구(Bolton 2022 Cell Rep, 성체 스트레스 반응 이상)와 **청소년기 해마** 연구(Ahmed 2024, 원 제목에 '성별 특이 결손·해마 기능')이며, 두 1차 논문 모두 이 위키에 없다. 따라서 **'PVN에서 구제됐다'고도 '해마에서만 구제됐다'고도 단정하지 말 것** — 시상하부 회로에 이식하려면 1차 논문에서 부위·성별을 확인해야 한다.
 - 종 특이성 주의: 원숭이에서는 모성분리가 오히려 PVN 미세아교세포 돌기 길이·복잡도를 **증가**시킨다 — 방향이 종·영역 특이적.
 
 ### 2. 희소돌기아교세포 — 수초 가소성
@@ -44,6 +47,18 @@ ELS는 **희소돌기아교세포 계열 세포 수·미세아교세포 밀도·
 - [[concept-hypothalamic-inflammation]]은 고지방식 24–72시간 미세아교세포 반응을 **염증** 프레임으로 다룬다. 같은 세포의 **가지치기** 기능과는 구분해서 읽어야 한다.
 - [[concept-tanycytes]]는 시상하부에서 이미 잘 정의된 비뉴런 관문 사례 — 글리아 계열 중 위키에서 가장 정교하게 정리된 축.
 
+### 위키 내 미세아교세포 개입 방향 대조표
+
+| 맥락 | 미세아교세포 소견 | 개입과 결과 | 출처 |
+|---|---|---|---|
+| HFD 24–72h 시상하부 | 활성·염증(IKKβ/NF-κB) | 염증 프레임(활성=해로움) | [[concept-hypothalamic-inflammation]] |
+| 모체 비만 자손(P16) | aberrant phenotype | **제거**가 자손 체중증가 차단 (Mendoza-Romero 2025) | [[freire-agulleiro-2026-early-life-programming-of]] |
+| ELS(LBN) PVN·해마 | 가지치기·시냅스 포식 **저하** | **화학유전 활성화**가 가지치기·행동 구제(해마 연구, 2차 인용) | [[cunningham-2026-early-life-experiences-the-neural]] |
+| MPOA 발달 P14–15 | 시냅스 입력 pruning | pruning이 juvenile alloparenting 출현을 구동(프리프린트) | [[jamieson-2026-neural-circuits-for-mammalian-parental]] |
+
+- 같은 세포에 대해 '제거가 보호'와 '활성화가 보호'가 공존한다 — 방향은 **발달 창·자극 종류·부위**에 의존하며, 미세아교세포 표적 전략은 활성/제거 어느 쪽인지를 맥락별로 먼저 물어야 한다.
+- 시상하부에서 미세아교세포 가지치기가 행동을 여는 위키 내 사례는 MPOA(프리프린트) 하나뿐이며, AgRP 시냅스의 제거 주체는 여전히 자료 없음.
+
 ## 관련 페이지
 - [[cunningham-2026-early-life-experiences-the-neural]] — 본 개념의 1차 출처(NRN 2026, Maze lab 종합).
 - [[concept-early-life-adversity]] — 상위 hub. 글리아는 그 분자·세포 기질의 한 층.
@@ -56,3 +71,5 @@ ELS는 **희소돌기아교세포 계열 세포 수·미세아교세포 밀도·
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — ELS의 섭식 표현형(회로 층).
 - [[concept-spatial-transcriptomics]] · [[concept-activity-molecular-registration]] — 세포 구성 문제를 해결할 단일세포·공간 해상도 방법론.
 - [[person-maze-ian]] — 본 종합의 출처 그룹.
+- [[freire-agulleiro-2026-early-life-programming-of]] — 모체 비만 자손의 미세아교세포 aberrant phenotype(P16)과 **제거가 보호적**이라는 반대 방향 사례; ARC/SON astrocyte 증가.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — MPOA에서 microglia 매개 시냅스 pruning이 P14–15 alloparenting 출현을 구동(프리프린트) — 위키 내 유일한 시상하부 가지치기 사례.

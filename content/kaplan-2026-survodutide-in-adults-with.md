@@ -2,7 +2,7 @@
 title: "Kaplan 2026 — Survodutide in Adults with Obesity and At-Risk MASLD (SYNCHRONIZE-MASLD)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-19
 source: raw/2026 Nature Medicine. Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease.pdf
 authors: [Lee M. Kaplan, C.W. le Roux, Arun J. Sanyal, SYNCHRONIZE-MASLD Investigators]
 year: 2026
@@ -10,7 +10,7 @@ journal: "Nature Medicine"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> survodutide(글루카곤-R/GLP-1R **이중 작용제**)가 비만+at-risk MASLD에서 **체중과 독립적으로 간지방·간염증을 개선**함을 보인 phase 3. 사용자 lab 관점: glucagon 수용체 작용이 **간에서 지방산 산화·지방 청소**를 직접 촉진 → GLP-1 단일로는 못 잡는 말초 대사축. 체중–간효과의 부분적 분리는 [[concept-glp-1|GLP-1]]/glucagon 중추–말초 분업 연구 단서. → hub [[overview-next-gen-incretin-obesity-drugs-2026]].
+> survodutide(글루카곤-R/GLP-1R **이중 작용제**)가 비만+at-risk MASLD에서 **간지방·간염증 지표를 크게 개선**함을 보인 phase 3(공동 1차: MRI-PDFF 간지방 ≥30% 감소 **84.2% vs 24.3%**, efficacy estimand). ⚠️ 단 같은 시험에서 체중도 **−12.2% vs −1.0%**(ETD −11.2%)로 갈렸고 **본 시험은 체중 보정·매개분석을 보고하지 않았다**. 저자들은 Discussion에서 **선행 phase 2 MASH 시험의 매개분석**(ELF·ALT·AST 등 간염증·섬유화 NIT 개선이 "대체로 체중감소 비의존")을 인용해 글루카곤 수용체의 **간 직접작용 가능성(potential)**을 논할 뿐이다. 따라서 '체중과 독립적인 간 효과'는 본 phase 3의 결과가 아니라 **가설**이다(본문 참조). 사용자 lab 관점: glucagon 수용체 작용이 **간에서 지방산 산화·지방 청소**를 직접 촉진 → GLP-1 단일로는 못 잡는 말초 대사축. 체중–간효과의 부분적 분리는 [[concept-glp-1|GLP-1]]/glucagon 중추–말초 분업 연구 단서. → hub [[overview-next-gen-incretin-obesity-drugs-2026]].
 
 # Survodutide in Adults with Obesity and At-Risk MASLD — SYNCHRONIZE-MASLD (Kaplan 2026)
 

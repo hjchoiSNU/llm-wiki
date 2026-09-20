@@ -2,7 +2,7 @@
 title: "Human orbitofrontal neural activity is linked to obsessive-compulsive behavioral dynamics (Nho et al. 2026)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: "raw/2026 Cell. (Halpern) Human orbitofrontal neural activity is linked to obsessive-compulsive behavioral dynamics.pdf"
 authors: [Young-Hoon Nho, Liming Qiu, Robert L. Seilheimer, Andreas Horn, Kai J. Miller, Katherine W. Scangos, Casey H. Halpern, et al.]
 year: 2026
@@ -14,7 +14,7 @@ year: 2026
 # Human orbitofrontal neural activity is linked to obsessive-compulsive behavioral dynamics (Nho et al. 2026)
 
 ## 한 줄 요약
-Cell 189:739–747 (2026-02-05), doi:10.1016/j.cell.2025.12.037. 난치성 강박장애(trOCD) 3인의 sEEG 유도 다표적 DBS 시험에서 **우측 amOFC low-gamma(30–55 Hz)가 고증상 상태를 추적**하고, **NAc-VeP 자극이 amOFC gamma·증상을 함께 줄임**을 보인 개인화·전기생리 유도 adaptive DBS 연구. (공동교신 K.W. Scangos & C.H. Halpern; Nolan R. Williams 추모 헌정.)
+Cell 189:739–747 (2026-02-05), doi:10.1016/j.cell.2025.12.037. 난치성 강박장애(trOCD) 3인의 sEEG 유도 다표적 DBS 시험에서 **우측 amOFC low-gamma(30–55 Hz)가 고증상 상태를 추적**하고, **NAc-VeP 자극이 amOFC gamma·증상을 함께 줄임**을 보인 개인화·전기생리 유도 **급성 open-loop 자극** 연구(피험자당 단일 파라미터 1회 시행; biomarker-triggered adaptive/closed-loop DBS는 논문이 제시한 **향후 방향**이지 본 연구에서 구현된 것이 아님). (공동교신 K.W. Scangos & C.H. Halpern; Nolan R. Williams 추모 헌정.)
 
 ## 핵심 내용
 - **대상·시험**: trOCD 3인(NCT05623306, IDE G220185). S1 38M Y-BOCS 40(병적 의심/침입사고), S2 62F Y-BOCS 38(오염/청결), S3 26F Y-BOCS 44(오염). 확장 ALIC–복측 선조 다표적 전극. Penn(Perelman/UPenn).
@@ -23,7 +23,7 @@ Cell 189:739–747 (2026-02-05), doi:10.1016/j.cell.2025.12.037. 난치성 강�
 - **급성 자극 효과(고통 감소)**: ALIC–복측 선조 표적 중 **NAc-VeP = 33.3% 감소(Cohen's d=0.83, n=16, p=0.013, 최대)**; NAc 16.2%(d=0.50); VeP 0%; ALIC −5.7%.
 - **인과 검증**: amOFC 동측 **NAc-VeP 고주파 자극(130 Hz, 90 μs, 2–3 mA)이 amOFC low-gamma와 OCD 고통을 동반 감소**(VAS 8→6, 10→5, 8→4); sham 무효. 반대로 rostral ACC 자극은 고통↑(4→8)·amOFC 무변화. → amOFC gamma↔증상 인과 연결 시사.
 - **회로**: amOFC=보상 가치/결과 기반 행동 통합, NAc로 강하게 투사(VeP와 상호연결). 선행 Nho 2023(Neuron, NAc-VeP responsive DBS 단일 OCD 환자) 위에 구축. 도구: RAVE/YAEL·FreeSurfer·ANTs·BCI2000·FieldTrip. 협업 Andreas Horn(connectomic DBS).
-- **테마·한계**: 개인화·전기생리 유도 adaptive/closed-loop 다표적 DBS. n=3, 급성, 단일 자극 시행.
+- **테마·한계**: 개인화·전기생리 유도 다표적 DBS. adaptive/closed-loop는 **지향점**이며(논문은 gamma 기반 추적의 '향후 adaptive DBS' 타당성만 제시), 본 연구 자극은 실험자가 건 급성 open-loop다. n=3, 급성, 단일 파라미터 1회 자극 시행.
 
 ## 관련 페이지
 - [[concept-orbitofrontal-cortex]] — amOFC low-gamma OCD biomarker 개념 hub.

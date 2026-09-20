@@ -2,7 +2,7 @@
 title: Microbiota-gut-brain axis
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-19
 aliases: [gut-brain axis, gut microbiota, microbiota-gut-brain-adipose axis]
 ---
 
@@ -63,7 +63,7 @@ aliases: [gut-brain axis, gut microbiota, microbiota-gut-brain-adipose axis]
 - **Tirzepatide**: Clostridium sensu stricto 1·Romboutsia ↑, 효과는 microbiota 의존 (Ma 2025).
 - **Akkermansia muciniphila Akk11 + semaglutide** = SAT/VAT 시너지 (Gao 2026).
 - β-glucan hydrogel, engineered C. butyricum (GLP-1 분비).
-- **중단 rebound** (Wang 2026): 71% 여성 12주 내 체중 rebound + Bacillota/Bacteroidota ratio reset 실패.
+- **중단 rebound** (Wang 2026, 비만 여성 28명 전향 코호트): **참가자의 71.4%가 12주 이내 유의한 체중 재증가**(비율 지표) + Bacillota/Bacteroidota ratio 상승·Clostridium sensu stricto 1 감소·ursodeoxycholic acid 감소로 reset 실패.
 
 ## 사용자 lab 함의
 - [[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]] (사용자 공저) + [[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] 직접 합류.

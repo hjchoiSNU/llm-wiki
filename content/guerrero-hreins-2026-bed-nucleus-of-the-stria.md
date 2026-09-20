@@ -2,7 +2,7 @@
 title: "Guerrero-Hreins et al. 2026 — Bed nucleus of the stria terminalis connectivity during food cue and taste processing under stress"
 type: paper
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-19
 source: raw/2026 Nature Communications. Bed nucleus of the stria terminalis connectivity during food cue and taste processing under stress.pdf
 authors: [Eva Guerrero-Hreins, Matthew D. Greaves, Po-Han Kung, Bradford A. Moffat, Rebecca K. Glarin, Stuart B. Murray, Ben J. Harrison, Priya Sumithran, Robyn M. Brown, Trevor Steward]
 year: 2026
@@ -10,7 +10,7 @@ journal: Nature Communications
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **스트레스가 인간 [[concept-bed-nucleus-stria-terminalis|BNST]](분계선조 침상핵)–보상/내수용 회로의 effective connectivity를 하향조절**한다는 첫 7T fMRI+DCM 인과 증거. 음료 cue·맛 수용을 스캐너 안 gustometer로 주며, 고스트레스 cue가 **BNST→[[concept-nucleus-accumbens|NAc]]·[[concept-orbitofrontal-cortex|OFC]]·dorsal mid-[[concept-insula|insula]]** 출력을 모두 ↓, 맛 수용은 **dmINS→BNST**를 ↓. 특히 **BNST→OFC 하향조절 강도가 주관적 스트레스 변화를 예측**(leave-one-out 교차검증). 사용자의 **stress eating·식품 불안정([[concept-food-insecurity]])·[[concept-interoception|내수용감각]]·인간 보상 회로 번역** 관심과 직결되며, BNST를 stress-reward 허브로 인간에서 매핑한 도구(7T DCM)가 사용자 lab의 인간 회로 연구에 그대로 이식 가능.
+> **스트레스가 인간 [[concept-bed-nucleus-stria-terminalis|BNST]](분계선조 침상핵)–보상/내수용 회로의 effective connectivity를 하향조절**한다는 첫 7T fMRI+DCM 증거(⚠️ DCM의 "causal"은 **생성모형 기반 방향성 추정**이며 개입 실험이 아니다 — 저자도 "inferring effective connectivity", "단순 기능적 연결성보다 반드시 우월하지는 않다"고 명시). 음료 cue·맛 수용을 스캐너 안 gustometer로 주며, 고스트레스 cue가 **BNST→[[concept-nucleus-accumbens|NAc]]·[[concept-orbitofrontal-cortex|OFC]]·dorsal mid-[[concept-insula|insula]]** 출력을 모두 ↓, 맛 수용은 **dmINS→BNST**를 ↓. 특히 **BNST→OFC 하향조절 강도가 주관적 스트레스 변화를 예측**(leave-one-out 교차검증). 사용자의 **stress eating·식품 불안정([[concept-food-insecurity]])·[[concept-interoception|내수용감각]]·인간 보상 회로 번역** 관심과 직결되며, BNST를 stress-reward 허브로 인간에서 매핑한 도구(7T DCM)가 사용자 lab의 인간 회로 연구에 그대로 이식 가능.
 
 # Bed nucleus of the stria terminalis connectivity during food cue and taste processing under stress
 
@@ -29,6 +29,8 @@ journal: Nature Communications
 - **자극**: cue(초콜릿우유 vs 물 사진 5s) → TASTE(해당 음료 1 ml, gustometer로 전달, 5s) → 쾌적도 평정 → RINSE. 런당 12블록.
 - **스트레스 검증**: 주관적 스트레스(고 5.04 vs 저 2.27, p≈2×10⁻¹⁶); HRV(RMSSD 등)로 생리적 각성↑ 확인(tonic EDA는 유의차 없음).
 - **DCM 구조**: 4영역 **star 구조, BNST=중심 허브**(BNST↔NAc, ↔OFC, ↔dmINS). MNI 좌표: BNST(22,−8,−11), NAc(10,19,−8), OFC(43,42,−19), dmINS(37,5,10). OFC·dmINS는 우측 우세 활성으로 단측, BNST·NAc는 양측. 4모델: ① 고스트레스 cue, ② 고스트레스 초콜릿우유 cue, ③ 고스트레스 맛, ④ 고스트레스 초콜릿우유 맛. **PEB**로 집단효과·스트레스변화 공변량 분석.
+⚠️ **star 구조는 결과가 아니라 가정이다.** 원문 Methods: "A priori, we permitted interactions to conform to a star-shaped connectivity architecture, **with the BNST as the central hub**" — NAc↔OFC처럼 BNST를 거치지 않는 연결은 모델 공간에서 제외됐고, Bayesian model reduction·모델 평균도 그 star 안에서만 이뤄졌다. 대안 아키텍처(완전연결·NAc 중심 등) 비교는 없다.
+따라서 "BNST가 stress-reward 허브"는 이 데이터가 고른 결론이 아니라 **모델이 강제한 전제**이며, 집단효과 판정 임계도 posterior probability 0.75(positive evidence)로 느슨하다. 인용 시 이 제약을 함께 적을 것. → [[concept-bed-nucleus-stria-terminalis]]
 
 ## 핵심 결과
 ### 고스트레스 cue = BNST 출력 전반 하향조절 (Model 1)
@@ -42,6 +44,7 @@ journal: Nature Communications
 ### BNST→OFC 하향조절이 주관적 스트레스를 예측 ★ (Model 1 + 공변량)
 - 주관적 스트레스 변화가 클수록 **BNST→OFC 하향조절이 덜함**.
 - **Leave-one-out 교차검증**: BNST→OFC 변조로 빠진 참가자의 스트레스 변화 예측 가능(r=0.28, p=0.031) → BNST-연결성↔행동 관계의 강건성.
+⚠️ **부호 주의(원문 내부 불일치)**: Results는 "individuals with greater change in subjective stress, showed **less** downregulation"(Fig. 4d 관련 문단), Discussion 1문단은 "Greater (more positive) change in subjective stress was associated with **less** BNST-to-OFC downregulation"으로 **음의 관계**이고, 보충 **Fig. S6**(피험자 수준, 비-PEB)도 변조값↔스트레스 변화가 **양의 상관**이라 같은 방향이다. 반면 **Fig. 4d 캡션**은 "greater change … **stronger** downregulation", Discussion의 OFC 문단은 "the strength of BNST downregulation of the OFC predicted **increased** change in subjective stress"로 **반대로** 적혀 있다. 인용 기준은 **본문·Fig. S6(스트레스 변화가 클수록 하향조절이 덜함)**으로 하되 캡션 불일치를 함께 밝힐 것. 또 r=0.28(p=0.031, n=44)은 약한 효과이며, 여기서 '강건성'은 out-of-sample 예측이 성립했다는 뜻 이상이 아니다.
 - 우반구 우세 패턴 = 내수용–현저성·보상가치 계산의 우반구 편중과 정합.
 
 ## 해석 (저자)
@@ -66,3 +69,5 @@ journal: Nature Communications
 - [[concept-food-insecurity]] · [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — 스트레스성 과식·binge 임상 표적.
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 같은 gustometer cue/receipt 인간 전기생리 계열.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[nord-2021-disrupted-dorsal-mid-insula]] — 위키의 dmINS 앵커. ⚠️ **반구 대비**: Nord 2021의 transdiagnostic 내수용 locus는 **좌측** dorsal mid-insula인데, 본 논문의 dmINS 노드는 **우측**(37,5,10)이며 저자는 우반구 우세를 내수용–현저성 계산의 편중으로 해석한다. 인간 dmINS를 표적/관심영역으로 쓸 때 반드시 반구를 명시할 것.
+- [[concept-emotional-eating]] · [[concept-cue-reactivity]] — 본 논문이 다루는 스트레스×food cue 반응의 임상·행동 대응.

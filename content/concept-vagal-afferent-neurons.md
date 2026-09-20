@@ -2,12 +2,12 @@
 title: Vagal afferent neurons (VANs)
 type: concept
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-09-19
 aliases: [VAN, vagal afferent, vagal afferent neurons]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 미주신경 구심성 뉴런(VAN)이 **gut-brain 통신의 1차 conduit**. Mechanosensors (stretch) + chemosensors (영양소·호르몬·미생물 대사물) 다양한 subtype이 식이의 3 phases 모두 조절. **3-stage 비만 진행** ([[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue, Brierley, Choi 2026 NRGH]]): reinforcement-driven → compensatory (vagal 보호) → vagal dysfunction (돌이킬 수 없는 단계). GLP-1RA는 vagus 우회 → 근본 dysfunction 미해결. taVNS·microbiota 개입이 차세대 표적.
+> 미주신경 구심성 뉴런(VAN)이 **gut-brain 통신의 1차 conduit**. Mechanosensors (stretch) + chemosensors (영양소·호르몬·미생물 대사물) 다양한 subtype이 식이의 3 phases 모두 조절. **3-stage 비만 진행** ([[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue, Brierley, Choi 2026 NRGH]]): reinforcement-driven → compensatory (vagal 보호) → vagal dysfunction (과식·체중 증가가 자기강화되는 단계 — **비가역 여부는 원문에서 미해결 질문**). GLP-1RA는 vagus 우회 → 근본 dysfunction 미해결. taVNS·microbiota 개입이 차세대 표적.
 
 # Vagal afferent neurons (VANs)
 
@@ -129,5 +129,6 @@ Single-cell transcriptomics (Kupari 2019, Bai 2019, Zhao 2022)로 ~30+ subpopula
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — VAN tone이 mesolimbic DA를 gating; nodose는 DAT 미발현(약물 직접작용 아님), vagus→NTS→PBN→VTA (Sci Adv 2026).
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — **fructose 전용** Y2R(Npy2r)+ VAN 경로가 AgRP 억제 매개(glucose=척수 구심성과 분리); fructose·glucose가 비중복 VAN 집단 활성 (Neuron 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — gut endocannabinoid 동원의 미주신경 의존성.
+- [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — gut endocannabinoid 동원의 미주신경 의존성. ⚠️ 방향 주의: 본 논문이 요구하는 것은 구심이 아니라 **미주 원심성(efferent)** 신호(구강 지방 → 뇌 → 공장 2-AG·anandamide 동원; subdiaphragmatic vagotomy로 폐지).
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — Cck EEC 선호가 미주 구심 의존(vagotomy로 소거).
+- [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지질 유도 장호르몬의 미주 구심 수용체 지도(CCK1R·GLP1R·Y2R); **GIPR는 미주구심에 부재 → GIP는 내분비 경로**로 중추 작용 (Nat Rev Endocrinol 2026).

@@ -2,7 +2,7 @@
 title: "Can responsive DBS be a cost-effective treatment for severe obesity? (Mahajan 2022)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: "raw/2022 Obesity. (Halpern) Can responsive deep brain stimulation be a cost-effective treatment for severe obesity.pdf"
 authors: [Mahajan UV, Ojukwu DI, Azagury DE, Safer DL, Halpern CH]
 year: 2022
@@ -26,6 +26,7 @@ year: 2022
   - 강건성: rDBS 합병증을 10%(실제 <3.5%)로 가정해도 비용 <10% 상승.
 - **안전성**: 임상 안전성 연구가 아님(입력값 기반). 인용 비만 DBS 사례(n=8): 9–16개월 BMI 5–16 감소, 비반응 1·중단 2(자살 1, DBS 무관 판단).
 - **주장**: rDBS가 5년 BMI ~13.7–15.2 감소를 내면 위우회술보다 비용효과적이며, 저자들은 이 임계가 달성 가능하다고 봄(효능 RCT 데이터 전제).
+> ⚠️ **임계 vs 실제 폐루프 데이터**: '달성 가능' 판단의 근거는 open-loop 비만 DBS 사례(n=8, 9–16개월 BMI 5–16↓; [[concept-deep-brain-stimulation]] 표 참조)다. 유일한 폐루프 인간 데이터는 [[shivacharan-2022-pilot-study-of-responsive-nucleus]] 6개월 **BMI −2.2/−2.9 kg/m²**(−4.5%/−5.8%), [[barbosa-2022-aberrant-impulse-control-circuitry]] 12주 BMI 48.9→48.1로, 5년 임계 13.7–15.2의 1/5 수준이며 외삽 근거가 없다. 또한 BITES의 1차 종결점은 체중이 아니라 LOC 빈도([[wu-2020-brain-responsive-neurostimulation-for-loss]])여서, 본 모델의 효능 입력(BMI)과 임상의 표적 결과변수가 다르다.
 
 ## 관련 페이지
 - [[concept-responsive-neurostimulation]] — 평가 대상 modality(NAc LOC eating rDBS).

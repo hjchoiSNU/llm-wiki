@@ -2,7 +2,7 @@
 title: "Ventral pallidal GABAergic neurons control hedonic feeding and obesity (Wang 2026)"
 type: paper
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-09-19
 source: raw/2026 bioRxov (Kravitz) Ventral pallidal GABAergic neurons control hedonic feeding and obesity.pdf
 authors: [Wang "...", Creed M, Kravitz AV]
 year: 2026
@@ -24,11 +24,19 @@ year: 2026
 ### 핵심 발견
 - **Hedonic > homeostatic 선택성**: VP^GABA 활성은 palatable food 섭취를 우선 구동. **ghrelin·금식(need 상태)에는 둔감**.
 - **포만 신호 감수성**: [[concept-cck|CCK]]에 의해 억제됨 → meal-termination 신호와 연결.
-- **행동 부호화**: 핥기 **bout 길이·palatability를 trial 단위로 추적**(consummatory 쾌락의 실시간 상관물).
+- **행동 부호화**: 핥기 **bout 길이·palatability를 trial 단위로 추적**. ⚠️ 저자도 bout duration을 "palatability와 연결돼 온" **간접** 지표로 제시하며, 위키에서 같은 계열 지표는 [[concept-consumption-vigor|consumption vigor]](Motivation 출력 겸 palatability 상관)로 분류된다 — '좋아함'의 직접 측정인 **미각 반응(taste reactivity) 검사는 본 논문에 없다**.
 - **인과(이득)**: **폐루프 광유전**으로 bout 중 활성 → bout 연장(consummatory drive↑).
 - **인과(소실)**: **taCasp3 유전적 ablation** → **HFD 유발 비만 차단**, 그러나 표준식 항상성 섭식은 보존 → hedonic overeating 전용.
 - **후보 회로 기전**: VP^GABA → VTA GABA 탈억제 → 도파민 방출↑ ([[concept-dopamine-reward-system]]).
 - **대조**: Arc^AgRP(homeostatic, need-driven)와 명시적으로 대비 — 동일 섭식 행동의 서로 다른 동기 성분.
+
+## 한계·주의 (원본 확인)
+- **미심사 preprint**: bioRxiv 2026-06-23 게시, "not certified by peer review". 수치·결론은 심사 과정에서 바뀔 수 있다.
+- **자극의 특이성**: VP^GABA 활성은 HFD·기호성 액체 섭취를 신뢰성 있게 유발했으나 **일반 사료 섭취는 12마리 중 3마리에서만** 유발됐다. 또 일부 개체에서 사료·**플라스틱 레고 블록**과의 **비-섭취 상호작용**이 나타났고 모든 개체에서 재현되지는 않았다 → 비특이적 구강·소비 운동 성분을 배제하지 못한다.
+- **정동 부작용**: 활성 시 개방장 **중심부 체류시간 감소**(평균 속도는 불변). Arc^AgRP 활성의 anxiolytic 효과와 방향이 반대다.
+- **수용체 지도는 직접 측정이 아니다**: 12개 섭식 관련 수용체 지도는 공개 MERFISH + scSeq의 **클러스터 수준 기대값 투영**이며 저자 스스로 "rather than direct measurement"라고 명시.
+- **성차 검출 검정력 없음**(저자 명시). 인간 데이터 없음.
+→ 인용 시 "preprint 단계의 마우스 인과 증거"로 등급을 밝힐 것. [[concept-ventral-pallidum]]
 
 ## 사용자 연구와의 연결
 - **[[concept-need-motivation-pleasure-utility|NMPU]]**: VP^GABA = **Pleasure(쾌락)** 축 회로 후보. need(AgRP)와 분리되는 hedonic 노드의 세포 수준 인과 증거.
@@ -47,3 +55,5 @@ year: 2026
 - [[concept-npy-agrp-neurons]] — homeostatic(need) 대조 회로.
 - [[stuber-2025-the-neurobiology-of-overeating]] — hedonic overeating의 보상-회로 모델(같은 맥락).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-consumption-vigor]] — 본 논문이 쓴 **핥기 bout 길이** 지표가 속한 개념. 위키 정의상 vigor는 **Motivation(wanting)의 행동 출력**이며 '좋아함'의 직접 측정이 아니다. 폐루프 광유전으로 bout를 연장한 것은 vigor의 드문 **회로 인과 검증** 사례.
+- [[concept-appetitive-consummatory-phases]] — VP^GABA가 붙는 국면은 소비(consummatory) 쪽.

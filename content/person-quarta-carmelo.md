@@ -2,7 +2,7 @@
 title: Carmelo Quarta
 type: person
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-19
 aliases: [Carmelo Quarta, Quarta]
 affiliation: University of Bordeaux, INSERM, Neurocentre Magendie U1215
 ---
@@ -40,3 +40,4 @@ affiliation: University of Bordeaux, INSERM, Neurocentre Magendie U1215
 - [[freire-agulleiro-2026-early-life-programming-of]] — maternal.
 - [[concept-melanocortin-system]] — 전체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[concept-maternal-programming-hypothalamus]] — Quarta 리뷰([[freire-agulleiro-2026-early-life-programming-of|Freire-Agulleiro 2026]])를 1차 출처로 하는 개념 hub.

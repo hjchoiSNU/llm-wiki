@@ -2,7 +2,7 @@
 title: "Gut hormone-based pharmacology: novel formulations and future possibilities for metabolic disease therapy"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/2023 Diabetologia. Gut hormone-based pharmacology novel formulations and future possibilities for metabolic disease therapy.pdf
 authors: [Tschöp MH et al.]
 year: 2023
@@ -32,3 +32,5 @@ GLP-1 RA 중심으로 gut hormone 기반 대사질환 치료제의 제형 발전
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — dual/triple·경구화 후속 전개 종합.
 - [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-oral-small-molecule-glp]] — 비펩타이드 경구 GLP-1RA 후속.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 병용요법 상위 맥락.
+- [[concept-peptide-drug-conjugate]] — 본 리뷰의 nuclear hormone 컨쥬게이트(GLP-1/oestradiol·glucagon/T3·GLP-1/dexamethasone)가 속하는 포맷 hub(전임상 단계 근거 제공).
+- [[concept-glucagon-receptor-agonism]] · [[concept-hypothalamic-ampk]] — glucagon의 lipolysis·에너지소비↑와 시상하부 AMPK/FGF21 축.

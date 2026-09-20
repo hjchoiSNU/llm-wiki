@@ -2,11 +2,11 @@
 title: "[연구계획서] GLP-1RA 중단 후 체중 rebound의 microbiota–시상하부 회로 기전과 공동중재"
 type: proposal
 created: 2026-06-02
-updated: 2026-09-11
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[overview-future-research-directions|향후 연구 방향]] Tier 1 #3의 구체화. GLP-1RA 시대 최대 미충족 수요 = **중단 후 rebound**([[barros-2026-from-diet-to-hypothalamic-dysfunction|중단 12주 71% 재증가]]). 핵심 가설: rebound은 단일 원인이 아니라 **① microbiota·담즙산·SCFA 신호의 reset 실패 + ② 시상하부 POMC/AMPK set-point 회로의 원상 복귀**가 동반된 현상이며, **중단 시점 microbiome 공동중재**(Akkermansia·SCFA·TGR5)가 이 reset을 막아 rebound을 완화한다. 사용자 lab의 GLP-1 뇌 회로 전문성([[kim-2024-glp-1-increases-preingestive-satiation|Science]]·[[kim-2025-mechanisms-of-glucagon-like-peptide|brain-wide 리뷰]])에 microbiome 축을 결합 — "약물 중단 후 유지" 전략 개척.
+> [[overview-future-research-directions|향후 연구 방향]] Tier 1 #3의 구체화. GLP-1RA 시대 최대 미충족 수요 = **중단 후 rebound**([[barros-2026-from-diet-to-hypothalamic-dysfunction|중단 12주 내 참가자 71.4% 재증가]]). 핵심 가설: rebound은 단일 원인이 아니라 **① microbiota·담즙산·SCFA 신호의 reset 실패 + ② 시상하부 POMC/AMPK set-point 회로의 원상 복귀**가 동반된 현상이며, **중단 시점 microbiome 공동중재**(Akkermansia·SCFA·TGR5)가 이 reset을 막아 rebound을 완화한다. 사용자 lab의 GLP-1 뇌 회로 전문성([[kim-2024-glp-1-increases-preingestive-satiation|Science]]·[[kim-2025-mechanisms-of-glucagon-like-peptide|brain-wide 리뷰]])에 microbiome 축을 결합 — "약물 중단 후 유지" 전략 개척.
 
 # [연구계획서] GLP-1RA 중단 후 rebound의 microbiota–시상하부 회로 기전과 공동중재
 
@@ -15,6 +15,9 @@ updated: 2026-09-11
 
 ## 2. 배경 및 필요성
 - **rebound 문제**: semaglutide·tirzepatide는 강력하나 **중단 시 빠른 체중 재증가**가 핵심 한계 — [[barros-2026-from-diet-to-hypothalamic-dysfunction]]은 중단 후 **12주 71% rebound**과 microbiota·담즙산 동시 reset 실패를 rebound 핵심 기전으로 지목.
+
+> ⚠️ 수치 사용 주의: 이 71.4%는 **비만 여성 28명 전향 코호트에서 유의한 재증가를 보인 참가자 비율**(28명 중 20명)이며 재증가 체중의 %가 아니다([[barros-2026-from-diet-to-hypothalamic-dysfunction]] 인용 Wang 2026, Diabetes Obes Metab). 효과크기·표본수 산정에는 체중 변화율 기반 자료([[aronne-2023-continued-treatment-with-tirzepatide-for|SURMOUNT-4]] −20.9% 후 위약 전환 시 52주간 +14.0%)를 쓸 것.
+
 - **세 갈래 기전 후보**:
   1. **Microbiota 의존**: GLP-1RA 효과가 microbiota 매개 — ARC acetate→**POMC GPR43-AMPK** 회로, **Akkermansia(Akk11) 시너지**, bile acid **TGR5**([[barros-2026-from-diet-to-hypothalamic-dysfunction]]·[[concept-microbiota-gut-brain-axis]]).
   2. **중추 회로 표적**: semaglutide 1차 표적=**area postrema·Gs–cAMP 필수**·downstream elPBN([[gao-2026-semaglutide-drives-weight-loss-through]]); 뇌 GLP-1R brain-wide 작용([[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[concept-dorsal-vagal-complex]]).

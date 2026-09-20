@@ -2,7 +2,7 @@
 title: "GLP-1RA 신경퇴행 repurposing 종합 리뷰 (Sabbagh·Drucker 등, 2026)"
 type: paper
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-09-19
 source: "raw/2026 Nature Aging. Repurposing glucagon-like peptide-1 receptor agonists for the treatment of neurodegenerative disorders.pdf"
 authors: [Sabbagh MN, Cummings JL, Ballard C, van der Flier WM, Heneka MT, Holst JJ, Knudsen LB, Salloway S, Tansey MG, Drucker DJ]
 year: 2026
@@ -42,6 +42,7 @@ GLP-1 수용체 작용제를 알츠하이머(AD)·파킨슨(PD)·근위축성측
 
 ### 임상 근거 — PD·ALS
 - **PD**: 전임상 다수 양성(도파민 회복·α-synuclein↓). **lixisenatide**(Meissner NEJM 2024, 156인) MDS-UPDRS 개선(+). 그러나 **최대·최장 phase3 exenatide 주1회(194인·96주) 음성**(Vijiaratnam Lancet 2025).
+  - ⚠️ 표본수 표기 불일치(**원 리뷰 간 차이**): 본 리뷰 원문(p.7)은 **194인**, [[fang-2025-glucagon-like-peptide-1-medicines]](Cell Rep Med 2025, p.4)는 **198인**으로 같은 시험(Vijiaratnam Lancet 2025)을 적는다. 1차 논문이 `raw/`에 없어 판정 불가이므로 위키는 각 원문을 그대로 전사해 두 값을 병기하며 통일하지 않는다. 인용 시 원 시험 보고를 확인할 것. 결론(음성·96주)은 동일.
 - **ALS**: 전임상(SOD1·TDP-43) liraglutide 무효; 임상은 **가속·악화 신호**(sema 후 진행 가속 증례, GLP-1RA군 기관절개-무생존 단축). → **ALS 치료로 부적합**.
 
 ### 결론·함의

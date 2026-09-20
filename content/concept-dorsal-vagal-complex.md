@@ -2,7 +2,7 @@
 title: Dorsal vagal complex (DVC) — AP·NTS·DMX
 type: concept
 created: 2026-05-31
-updated: 2026-09-07
+updated: 2026-09-19
 aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus solitarius, DMX]
 ---
 
@@ -19,10 +19,13 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 
 ## 기능 분업 (약리 관점)
 
+> ⚠️ **'NTS'를 한 덩어리로 쓰지 말 것.** 이 위키에서 NTS는 최소 두 집단을 가리킨다 — GLP-1R을 **받는** NTS^Glp1r([[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 Gs 조작 대상)과 GLP-1을 **만드는** NTS^Gcg([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]의 CeA 상류). "세마글루타이드 체중감량에 NTS는 무관"과 "NTS^Gcg가 hedonic brake의 출발점"은 모순이 아니라 **다른 세포에 대한 진술**이다. 참고로 Godschall의 부위별 실험에서 hGLP1R을 **NTS–AP**에 발현시키면 SD·HFD를 모두 억제하는데, 이는 GLP-1R **수용** 뉴런에 대한 결과이자 NTS와 AP를 함께 표적한 조건이어서 NTS 단독 기여가 분리되지 않으며, Gao의 Gs 음성 결과와는 조작 수준(수용체 발현 vs G단백 신호)·약물(small molecule vs 세마글루타이드)이 다르다.
+
 | 핵 | 약리·생리 역할 | 근거 |
 |---|---|---|
 | **AP** | 말초 GLP1RA 1차 결합부위; **혐오(nausea·CTA)** 축; Gs–cAMP가 세마글루타이드 체중감량에 필수 | [[gao-2026-semaglutide-drives-weight-loss-through]], Huang 2024 |
-| **NTS** | non-aversive satiety; baseline 에너지항상성 brake (Gs 결손 시 HFD 체중↑); NTS^Gcg→CeA hedonic 회로 출발점 | [[gao-2026-semaglutide-drives-weight-loss-through]], [[godschall-2026-a-brain-reward-circuit-inhibited]] |
+| **NTS^Glp1r** (GLP-1R을 *받는* 뉴런) | non-aversive satiety; **baseline 에너지항상성 brake**(NTS Gs 결손 시 HFD 체중↑). 단 **말초 세마글루타이드의 체중감량에는 기여가 확인되지 않음**(AP에만 Gs를 보존해도 체중감량 회복; NTS Gnas 결손 정도는 체중 변화와 무상관) | [[gao-2026-semaglutide-drives-weight-loss-through]] |
+| **NTS^Gcg** (GLP-1을 *만드는* preproglucagon 뉴런) | 중추 GLP-1 주공급원; **NTS^Gcg→CeA^Glp1r→VTA→NAc** hedonic feeding brake의 출발점(CeA 종말 자극 시 HFD만 억제, SD 무변) | [[godschall-2026-a-brain-reward-circuit-inhibited]] |
 | **DMX** | 부교감 운동 출력 (세마글루타이드 Fos 변화 미미) | [[gao-2026-semaglutide-drives-weight-loss-through]] |
 
 ## 핵심 신호·세포

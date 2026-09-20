@@ -2,7 +2,7 @@
 title: Appetite & energy homeostasis — synthesis
 type: overview
 created: 2026-04-29
-updated: 2026-09-11
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -24,6 +24,8 @@ updated: 2026-09-11
 **Bidirectional cycle**: Sensory cue → Need → Motivation → Behavior → Pleasure → next Motivation; 그리고 Utility → Pleasure·Need·Motivation 알고리즘 reshape.
 
 **자매 framework — granular motivational states** ([[liu-2026-granular-motivational-interaction-and|Liu·Wang 2026 Neuron]]): NMPU가 동기의 *구성요소*(축)를 분해한다면, 이 리뷰는 동기의 *시간적 sub-state*(food seeking→approaching→investigation→sustained eating→satiation→aversion)를 분해하고 5 phase(preparation·initiation·maintenance·interruption·termination)별 전용 회로를 매핑. 둘은 경쟁이 아닌 **직교 보완** — NMPU의 Motivation 축이 preparation·initiation phase로 시간 전개됨.
+
+> 계보 메모: 이 분해의 출발점은 사용자 lab의 [[lee-2019-food-craving-seeking-and|Lee YH 2019 JOMES]] — craving→seeking→consumption 3 phase와 종별(rodent·NHP·human) 측정법 표, 그리고 **human food seeking 전용 비-computerized 측정법 부재**라는 방법론 공백 지적.
 
 ## Layer 2 — 회로
 
@@ -81,6 +83,18 @@ updated: 2026-09-11
 ### Local signaling 한계
 [[concept-enteroendocrine-cells]]: 농도 hierarchy (neuropod > vagal > paracrine > portal > systemic). 인간 IV로 paracrine·neuropod 재현 불가 — 동물에서만.
 
+### 학습이 호르몬 신호를 덮는다 — 근거 등급
+
+식사량은 호르몬의 무조건 신호만으로 결정되지 않고, 그 음식에 대한 **학습된 예측**이 신호를 덮는다. 위키 안 근거는 등급이 다르다.
+
+| 출처 | 주장 | 근거 종류 |
+|---|---|---|
+| [[woods-1991-the-eating-paradox-how\|Woods 1991]] | 임의 단서(소리·시각·하루 시각)와 음식을 연합해 **cephalic insulin을 조건화**할 수 있고, 차단 시 glucose intolerance → 동물은 소식으로 보상 | 조건화 실험 종합(고전 리뷰) |
+| [[woods-2016-regulation-of-the-motivation\|Woods & Begg 2016]] | **CCK-칼로리 연합을 깨면 쥐가 CCK 신호를 무시** → satiation은 hardwired 반사가 아님 | 설치류 실험 |
+| [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory\|Steinert 2017]] Fig 12 | 친숙식에서는 expected satiation·portion-size 추정이 무조건 신호를 덮어 같은 CCK 주입 효과가 40%→20%로 감소 | **사고실험(thought experiment)** — 데이터 아님 |
+
+→ **설계 함의**: 친숙한 음식으로 수행하는 인간 satiation·GLP-1RA 시험은 호르몬/약물의 무조건 효과를 **과소평가**할 수 있다. 신규식 조건, 노출 이력, portion-size 기대치를 통제 변수로 둘 것. [[concept-cephalic-phase-response]]·[[concept-flavor-nutrient-conditioning]] 참조.
+
 ### RYGB 자연 실험
 - CCK ↑(~2배), GLP-1 ↑↑↑(>10배), PYY ↑↑.
 - 인간 GLP-1 매개 대사 효과 명확; 동물 RYGB는 다른 기전.
@@ -121,7 +135,9 @@ updated: 2026-09-11
 [[de-lartigue-2026-critical-role-gut-brain-signalling|NRGH 2026]]:
 1. Reinforcement-driven (DA reinforcement)
 2. Compensatory (vagal mechano titration — 보호)
-3. **Vagal dysfunction** (terminal remodelling, leptin resistance, CART ↓) — 돌이킬 수 없는 시점
+3. **Vagal dysfunction** (terminal remodelling, leptin resistance, CART ↓)
+
+> ⚠️ **비가역성은 아직 질문이다.** [[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]]은 Box 2(Key knowledge gaps)에서 "threshold 또는 'point-of-no-return'이 존재하는가", "비만이 손상시킨 gut-brain 신호를 되돌릴 수 있는가·어느 정도까지", "체중 감량만으로 정상 gut-brain 통신이 복구되는가"를 **미해결 질문 목록**에 올려두었다. 원문 Box 3의 서술도 "재보정이 점점 어려워져 부적응적 섭식·체중 증가가 self-sustaining해진다"까지다. stage 3을 '돌이킬 수 없는 단계'로 단정하지 말 것.
 
 ## 핵심 lessons
 
@@ -129,6 +145,9 @@ updated: 2026-09-11
 2. **인간 ↔ 동물 차이**: leptin·ghrelin은 큼; GLP-1·CCK는 비교적 일관.
 3. **Cognitive satiation** (DMH GLP-1R)이 GLP-1RA 효과의 인지 차원 — 단순 위장 작용 X.
 4. **Vagal dysfunction**이 비만의 sustained driver — GLP-1RA 우회로는 근본 미해결.
+
+   > ⚠️ 이 문장은 [[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]]의 **저자 주장**이며 중단 후 재증가의 원인 검증 결과가 아니다. 위키 안에는 최소 네 가지 경쟁 설명이 있다 — vagal dysfunction(de Lartigue), microbiota·담즙산 reset 실패([[barros-2026-from-diet-to-hypothalamic-dysfunction]]), PVH^TRH→AgRP 시냅스 증폭기와 NMDAR 관문([[concept-weight-regain-defended-adiposity]]), AgRP 급성 억제의 소실([[stuber-2025-the-neurobiology-of-overeating]]). 대조표는 [[concept-weight-regain-defended-adiposity]]에 정리돼 있다.
+
 5. **5 maladaptive eating types**별 personalized 표적이 차세대 임상.
 6. **도파민 ≠ pure RPE** ([[adam-2026-dopamine-takes-hit-how-neuroscience]]) — multi-function 재정의 진행 중.
 

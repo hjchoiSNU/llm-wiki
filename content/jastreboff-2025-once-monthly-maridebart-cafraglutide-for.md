@@ -2,7 +2,7 @@
 title: "월 1회 Maridebart Cafraglutide(MariTide/AMG 133) 비만 치료 phase 2 임상"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: "raw/2025 NEJM Once-Monthly Maridebart Cafraglutide for the Treatment of Obesity — A Phase 2 Trial.pdf"
 authors: [Jastreboff AM, Ryan DH, et al.]
 year: 2025
@@ -33,3 +33,4 @@ GLP-1R 작용 + GIPR 길항 **펩타이드–항체 접합체** maridebart cafra
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 반대로 GIPR 작용 다중작용제.
 - [[le-roux-2026-survodutide-once-weekly-for]] — 또 다른 차세대 비만 임상(GLP-1/glucagon).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 월 1회·펩타이드–항체 접합 전략의 위치.
+- [[mullard-2025-from-gene-hunter-to]] — Amgen CSO 인터뷰; MariTide를 "modular therapeutic" 대표 사례로 제시(산업 맥락).

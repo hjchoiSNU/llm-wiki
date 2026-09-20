@@ -2,7 +2,7 @@
 title: "Real-world observations of GLP-1RA and SGLT-2i as potential AD treatments (Zhang 2025)"
 type: paper
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-19
 source: "raw/2025 Alzheimers Dementia. Zhang - Real‐world observations of GLP‐1 receptor agonists and SGLT‐2 inhibitors as.pdf"
 authors: [Zhang P, Mao C, Sun A, Cummings J, Cheng F, et al.]
 year: 2025
@@ -35,6 +35,7 @@ doi: 10.1002/alz.70639
 - GLP-1RA·SGLT-2i는 DPP-4i보다 **BBB 투과성 높음** → 중추 접근 유리.
 - 공통: 신경염증·Aβ·tau 인산화 감소, 혈관손상·신경손실 완화, **autophagy/mitophagy 조절**.
 - 저자: AD 위험을 약물 선택의 추가 고려요소로 볼 수 있으나 **인과는 미확정**, RCT 필요.
+⚠️ **이후 갱신**: 그 'RCT'는 이미 보고됐다 — [[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]]에서 경구 세마글루타이드는 초기 증상성 AD의 임상 진행을 늦추지 못했다(1차·2차 모두 음성, 조기 중단). 본 코호트의 HR을 임상 권고로 읽지 말 것. 관찰-RCT 충돌의 정리는 [[concept-glp1-neuroprotection]].
 
 ## 한계
 - 보험가입자 편향, 잔여 교란(SES·흡연·APOE·혈당·중증도), 신경검사·인지검사·영상·생물학적 AD 확진 부재. 인과 아님.
@@ -45,3 +46,4 @@ doi: 10.1002/alz.70639
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 RCT(본 논문이 ELAD 인용).
 - [[concept-glp-1]] — 호르몬·약리 hub.
 - [[person-edison-paul]] — GLP-1 신경보호 임상(본 논문 인용 리뷰 저자 Nowell/Edison).
+- [[cummings-2026-efficacy-and-safety-of-oral]] — 동일 가설의 pivotal 3상(EVOKE/EVOKE+) **음성**; 본 관찰연구 신호의 인과 해석을 막는 직접 반증축.

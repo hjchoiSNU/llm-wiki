@@ -2,7 +2,7 @@
 title: H3 dopaminylation (히스톤 도파민화) — 모노아민의 후성유전 작용
 type: concept
 created: 2026-08-19
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [H3 dopaminylation, H3Q5dop, H3K4me3Q5dop, histone dopaminylation, monoaminylation, 히스톤 도파민화, 세로토닌화, H3 serotonylation, TG2, transglutaminase 2]
 ---
 
@@ -36,6 +36,8 @@ aliases: [H3 dopaminylation, H3Q5dop, H3K4me3Q5dop, histone dopaminylation, mono
 | **TG2 조작** | 촉매 효소 수준 개입 | 상류 차단(본 위키 자료에서는 미사용) |
 
 > 방법론적 요점: H3.3(Q5A)는 **행동 수준까지 되돌린다** — [[ochan-2026-dopamine-drives-persistent-remodelling-of|O'Chan 2026]]에서 산후 스트레스가 없앤 맥락 공포 학습 이점이 stress RE + H3.3(Q5A)에서 회복됐다. 히스톤 변형 조작이 전사뿐 아니라 **행동 표현형의 인과 고리**임을 보인 드문 사례.
+
+> ⚠️ Q5A는 모노아민 종류를 가리지 않는다(도파민·세로토닌·히스타민 모두 H3Q5). 특정 모노아민으로 귀속하려면 해당 모노아민 특이 항체 맵(예: H3K4me3Q5dop CUT&RUN)과 상류 신호 조작(예: [[ochan-2026-dopamine-drives-persistent-remodelling-of]]의 VTA→dHF hM4Di)을 함께 요구해야 한다.
 
 ### 도파민 작용의 세 층
 | 층 | 매개 | 시간척도 | 대표 |

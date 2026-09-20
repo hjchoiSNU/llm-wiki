@@ -2,7 +2,7 @@
 title: GLP-1R Signaling and Functional Molecules in Incretin Therapy
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/2023 Molecules. GLP-1R Signaling and Functional Molecules in Incretin Therapy.pdf
 authors: [Wan et al.]
 year: 2023
@@ -30,3 +30,6 @@ GLP-1R 구조·세포내 신호(Gαs/cAMP, Gαq, β-arrestin)·trafficking을 �
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide 체중감소의 수용체 신호 기반.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — multi-agonist·small-molecule·biased agonism 전략의 2023 스냅샷.
 - [[davies-2026-elecoglipron-an-oral-small]] — 경구 소분자 GLP-1RA 후속 사례.
+- [[concept-biased-agonism]] — 본 리뷰가 상세히 다루는 G단백질/β-arrestin 편향의 개념 hub(역방향 링크).
+- [[concept-gpcr-drug-discovery]] · [[lorente-2025-gpcr-drug-discovery-new-agents]] — class B GPCR 창약 지형에서 GLP-1R의 위치.
+- [[concept-blood-brain-barrier-shuttle]] — corrination처럼 **뇌 침투를 의도적으로 조절**하는 설계 축(반대 방향 사례).

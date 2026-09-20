@@ -2,7 +2,7 @@
 title: "Granular motivational interaction and behavioral choice during feeding (Liu & Wang 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-19
 source: "raw/2026 Neuron (marked. Qingqing Liu, Liping Wang) Granular motivational interaction and behavioral choice during feeding (1).pdf"
 authors: [Qingqing Liu, Liping Wang]
 year: 2026
@@ -108,3 +108,4 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub(BBQSM이 전제하는 AI pose/behavior 분석의 지형).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — lateral NAc→VTA neurotensin이 비만 hedonic devaluation을 구동 (Nature 2025). 개념 [[concept-hedonic-devaluation]].
+- [[lee-2019-food-craving-seeking-and]] — 본 리뷰가 세분한 appetitive/consummatory 분해의 위키 내 원전(craving→seeking→consumption, 사용자 lab JOMES 2019); 종별 측정법 표와 human seeking 측정 공백 지적을 함께 볼 것.

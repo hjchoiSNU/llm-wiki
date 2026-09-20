@@ -2,7 +2,7 @@
 title: "Lee, Kim, Kim, Jang et al. 2023 — Lateral hypothalamic leptin receptor neurons drive hunger-gated food-seeking and consummatory behaviours in male mice"
 type: paper
 created: 2026-05-25
-updated: 2026-05-30
+updated: 2026-09-19
 source: raw/2023 Nature Communications. Lateral hypothalamic leptin receptor neurons drive hunger-gated food-seeking and consummatory behaviours in male mice.pdf
 authors: [Young Hee Lee, Yu-Been Kim, Kyu Sik Kim, Mirae Jang, Ha Young Song, Sang-Ho Jung, Dong-Soo Ha, Joon Seok Park, Jaegeon Lee, Kyung Min Kim, Deok-Hyeon Cheon, Inhyeok Baek, Min-Gi Shin, Eun Jeong Lee, Sang Jeong Kim, Hyung Jin Choi]
 year: 2023
@@ -75,7 +75,7 @@ journal: Nature Communications
 - [[lee-2025-hijacked-brain-modern-obesity-cue|Lee 2025 JOMES]] = 5 maladaptive eating type 임상 응용.
 
 ## 외부 정합
-- [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]] — LepR LH가 hunger × anxiety × social 3-drive arbitration; **본 paper의 seeking·consummatory subpopulation framework와 정합**. Petzold 2023 Cell Metab (Korotkova lab) cites 사용자 lab의 본 paper.
+- [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]] — LepR LH가 hunger × anxiety × social 3-drive arbitration. Petzold 2023 Cell Metab (Korotkova lab) cites 사용자 lab의 본 paper. ⚠️ 단 **인과 조작의 부호는 서로 반대**다: 본 paper는 **ad libitum 수컷**에서 phase-isolated 조건의 LH^LepR 광유전 활성화가 seeking·consummatory를 **증가**시킨다고 보고하고(두 phase가 동시 가능한 대형 챔버에서는 효과 없음), [[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]]은 **급성 식이제한 직후** 먹이·물·물체가 함께 있는 자유접근 조건에서 같은 조작이 feeding rebound를 **억제**한다고 보고한다(만성 제한·포만 상태에서는 무효). 'framework 정합'이 아니라 **조건 의존성(과제 구조·배고픔 상태·LH 아영역)으로 분해해야 할 쟁점** → [[concept-lateral-hypothalamus]]의 'LH^LepR 활성화는 섭취를 늘리는가 줄이는가' 절.
 - Faour 2025 — AgRP→LH 식이·iBAT.
 - Chen 2019 eLife — NPY sustained hunger 매개 (본 paper의 NPY gate 가설 근거).
 
@@ -108,4 +108,5 @@ journal: Nature Communications
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — 같은 LH^LepR을 영양 vs social arbitration 각도로.
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 같은 LH LepR이 초기역경으로 병적 폭식 회로 전환.
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA^LepR(appetitive learning)을 세포타입 taxonomy에 위치.
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH 안의 Nts 집단과 세포타입 분업 대비: LH^Nts 침묵은 총 섭취를 바꾸지 않는다 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

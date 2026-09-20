@@ -2,7 +2,7 @@
 title: Tanycytes
 type: concept
 created: 2026-05-25
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [tanycyte, hypothalamic tanycytes]
 ---
 
@@ -29,6 +29,7 @@ aliases: [tanycyte, hypothalamic tanycytes]
 - Vimentin density ↓ in 자손 newborn (P0).
 - Tanycyte 수가 아닌 **process morphology** 손상 (Kim DW 2016).
 - Cross-fostering to lean mother가 회복 (postnatal modifiable) — Haddad-Tóvolli 2023.
+> ⚠️ 여기서 '회복'되는 것은 median eminence 혈관 leakage·tight junction·염증 마커 결함. 같은 연구(Haddad-Tóvolli 2023)에서 obese dam 출산·수유 **성체** 자손은 ventral ARC vimentin 밀도가 오히려 **증가**했고 cross-fostered 자손에서는 이 증가가 없었음 — 신생아기 vimentin ↓(Kim DW 2016)와 방향이 다르며, 리뷰는 단계 의존적 remodelling으로 해석([[freire-agulleiro-2026-early-life-programming-of]]).
 - Median eminence capillary fenestration ↑ + leakage ↑.
 
 ## 사용자 lab 함의
@@ -46,3 +47,4 @@ aliases: [tanycyte, hypothalamic tanycytes]
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab 뇌 GLP-1R 리뷰; tanycyte·BBB가 말초 GLP-1RA의 중추 접근 경로임을 정리 (APEM 2025).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glia-stress-plasticity]] — 비뉴런 세포가 회로를 조각하는 더 넓은 틀(미세아교세포 가지치기·희소돌기아교세포 수초화·성상교세포 Ca²⁺). tanycyte는 그중 시상하부에서 가장 정교하게 정리된 사례.
+- [[concept-maternal-programming-hypothalamus]] — 모체 비만 tanycyte 손상(단계 의존적 vimentin 방향)을 포함한 상위 hub.

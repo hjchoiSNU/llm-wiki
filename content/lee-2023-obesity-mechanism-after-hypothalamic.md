@@ -2,7 +2,7 @@
 title: "Lee et al. 2023 — 시상하부 손상 후 비만 기전: 신경영상·심리·인지·임상 다차원 코호트"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: raw/2023 Frontiers in Endocrinology. Obesity mechanism after hypothalamic damage Cohort analysis of neuroimaging, psychological, cognitive, and clinical phenotyping data.pdf
 authors: [Miwoo Lee, Min-Jung Park, Kyung Hwa Lee, Jung Hee Kim, Hyung Jin Choi, Yong Hwy Kim]
 year: 2023
@@ -55,3 +55,4 @@ Lee M, Park M-J, Lee KH, Kim JH, **Choi HJ**, **Kim YH** (SNU College of Medicin
 - [[concept-basolateral-amygdala]] — 편도 ↔ 음식 reward·주의.
 - [[concept-loss-of-control-eating]] · [[bae-2019-glucagon-like-peptide-1-receptor]] — 인간 음식 cue fMRI·이상 섭식 회로(사용자 lab).
 - [[talakoub-2017-lateral-hypothalamic-activity-indicates]] · [[franco-2018-assessment-of-safety-and]] — HO의 신경조절·LHA 측면.
+- [[concept-digital-therapeutics]] — 본 코호트가 지목한 psycho-behavioral 표적(음식 주의·억제·신체상)을 전달할 modality; HO는 약물·수술 저항군이라 DTx 표적 인구 후보.

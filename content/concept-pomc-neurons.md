@@ -2,7 +2,7 @@
 title: POMC neurons
 type: concept
 created: 2026-04-29
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [pro-opiomelanocortin neurons, POMC]
 ---
 
@@ -113,7 +113,7 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[jouque-2025-beyond-satiety-unraveling-the]] — heterogeneity 종합.
 - [[freire-agulleiro-2026-early-life-programming-of]] — 발달 가소성.
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas heterogeneity.
-- [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제(GLP-1–GIP–Lani)가 GLP-1–GIP보다 POMC 활성을 더 강하게 유도 = 추가 체중감소 매개 (Nature 2026).
+- [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제(GLP-1–GIP–Lani)가 GLP-1–GIP보다 POMC 활성을 더 강하게 유도(fiber photometry·whole-cell patch). 단 저자는 이를 추가 체중감소의 **후보 기전으로 "suggest"** 할 뿐 매개를 입증하지 않았고(조작은 POMC 특이가 아닌 Vglut2-Cre *Glp1r*-KO, hindbrain 기전 병존 명시), ARC·DMH·AP·NTS FOS는 두 약물 간 동일했다 (Nature 2026).
 - [[namkoong-2017-central-administration-of-glp-1]] — ICV GLP-1+GIP 병용이 ARC β-endorphin(POMC)↑; 단 활성 c-fos⁺ 세포는 POMC와 비공존(별도 집단) (BBRC 2017).
 - [[lee-2017-glp-1-based-combination-therapy]] — 중추 GLP-1/GIP 병용의 ARC POMC↑를 병용요법 맥락에서 종합한 사용자 lab editorial (JOMES 2017).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 리뷰; ARC POMC 등 부위별 GLP-1R 작용을 종합 (APEM 2025, 사용자 lab).
@@ -127,5 +127,6 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **ARC POMC와 NTS POMC의 전뇌 입력·출력 지도**(본 페이지 '전뇌 배선 지도' 절의 1차 출처). POMC 입력 52영역·수렴비 ~49, AgRP와 35영역 공유하되 밀도는 POMC 우세, SO만 역전. NTS POMC는 입력 ~80%가 뇌교·연수로 **ARC POMC와 별개 회로** (Front Neuroanat 2015, Luo·Zhan lab).
 - [[concept-monosynaptic-rabies-tracing]] — 위 지도가 나온 방법의 원리·대조군·해석 함정 hub.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ **POMC의 비정규 기능**: POMC 뉴런이 방출하는 **오피오이드(β-endorphin 추정)** 가 AgRP 흥분성 시냅스의 전시냅스 AMPK를 꺼서 배고픔 상태를 **reset**한다. leptin의 AgRP 시냅스 효과는 직접이 아니라 이 POMC 오피오이드 경유이며, 멜라노코르틴(MTII)으로는 재현되지 않고 **naltrexone으로 차단**된다. 또한 단식은 POMC 자신의 흥분성 입력을 **감소**시킨다(AgRP와 정반대 방향의 시냅스 가소성) (Cell 2011, Sternson lab).
+- [[davila-2026-agrp-neurons-are-required-for]] — GLP1R을 직접 발현하는 POMC와 달리, **GLP1R 비발현 AgRP**가 GLP-1RA 체중 감량에 필수라는 간접 경로(길항 짝의 비대칭) (PNAS 2026).
 - [[concept-agrp-synaptic-plasticity]] — 위 reset 신호가 작동하는 시냅스 가소성 개념 hub.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — **가소성 축에서의 POMC 비대칭**: POMC 수상돌기는 사실상 **가시가 없고**(AgRP는 풍부), POMC에서 `Grin1`(NMDAR)을 삭제해도 체중·지방·섭취에 **아무 변화가 없다**. 단식 시 `Pomc` mRNA 감소도 POMC의 NMDAR과 무관. AgRP/POMC가 길항 짝이라는 통념에 "가소성에서는 대칭이 아니다"를 더한다 (Neuron 2012, Lowell lab).

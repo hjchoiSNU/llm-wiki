@@ -2,7 +2,7 @@
 title: "[중견연구 연구계획서] GLP-1RA 중단 후 rebound의 microbiota–회로 기전과 공동중재"
 type: proposal
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -18,7 +18,7 @@ updated: 2026-06-02
 ---
 
 ## 1. 연구개발과제의 필요성
-- **rebound 문제**: GLP-1RA(semaglutide·tirzepatide)는 강력하나 **중단 시 빠른 체중 재증가**가 핵심 한계 — [[barros-2026-from-diet-to-hypothalamic-dysfunction]]은 **중단 12주 71% rebound**과 microbiota·담즙산 reset 실패를 핵심 기전으로 지목.
+- **rebound 문제**: GLP-1RA(semaglutide·tirzepatide)는 강력하나 **중단 시 빠른 체중 재증가**가 핵심 한계 — [[barros-2026-from-diet-to-hypothalamic-dysfunction]]은 **중단 12주 이내 참가자 71.4%에서 체중 재증가**(비만 여성 28명 코호트의 비율 지표)와 microbiota·담즙산 reset 실패를 핵심 기전으로 지목.
 - **세 갈래 기전 후보**: ① microbiota 의존(ARC acetate→POMC **GPR43-AMPK**·Akkermansia·bile acid TGR5; [[concept-microbiota-gut-brain-axis]]), ② 중추 표적(semaglutide 1차=area postrema·Gs-cAMP; [[gao-2026-semaglutide-drives-weight-loss-through]]·[[kim-2025-mechanisms-of-glucagon-like-peptide]]), ③ 항상성 set-point 복귀([[concept-hypothalamic-ampk]]·[[concept-glp-1]]).
 - **공백·필요성**: rebound이 무엇이 먼저·어떻게 reset되어 일어나는지, 공동중재로 차단 가능한지 미규명. "약물 중단 후 유지" 전략은 GLP-1RA 시대 최대 미충족 수요.
 

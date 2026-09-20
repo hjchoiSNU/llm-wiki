@@ -2,7 +2,7 @@
 title: 통제 상실 섭식 / 폭식장애 (Loss-of-Control Eating, BED)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -21,7 +21,7 @@ updated: 2026-06-01
 - **BED(binge eating disorder)**: 객관적 대량 + 통제 상실 + 고통의 반복.
 
 ### 임상 맥락 — bariatric 난치성
-- Halpern 임상 코호트(NCT03868670)는 **Roux-en-Y 위우회술 후 체중 재증가 + LOC eating** 환자 — 약물·행동치료·수술 모두 실패한 난치군(BMI 40–60). [[shivacharan-2022-pilot-study-of-responsive-nucleus]]의 2인은 모두 RYGB 후 재증가한 BED 여성, [[choi-2025-brain-activity-associated-with-breakthrough]] 피험자도 RYGB 후 재증가 + 제2형 당뇨.
+- Halpern 임상 코호트(NCT03868670)는 **Roux-en-Y 위우회술 후 체중 재증가 + LOC eating** 환자 — 약물·행동치료·수술 모두 실패한 난치군(BMI 40–60 — [[choi-2025-brain-activity-associated-with-breakthrough]] 2025 보고 기준; 2020 프로토콜 논문 [[wu-2020-brain-responsive-neurostimulation-for-loss]]은 45–60으로 기술). [[shivacharan-2022-pilot-study-of-responsive-nucleus]]의 2인은 모두 RYGB 후 재증가한 BED 여성, [[choi-2025-brain-activity-associated-with-breakthrough]] 피험자도 RYGB 후 재증가 + 제2형 당뇨.
 
 ### 회로 biomarker
 - **NAc 저주파 ramp-up**: LOC 한입 ~1–2초 전 [[concept-nucleus-accumbens|NAc]] delta–theta(≤7–8 Hz) 전력↑ → [[concept-responsive-neurostimulation|responsive DBS]]의 trigger. 마우스 고지방 binge delta biomarker([[wu-2018-closing-the-loop-on]])의 인간 대응물.
@@ -29,7 +29,7 @@ updated: 2026-06-01
 - **폐루프 DBS 근거**: 마우스에서 NAc D1-MSN ramp가 hedonic feeding을 추진하고 [[concept-responsive-neurostimulation|responsive DBS]]가 상시 자극보다 지속·저용량 효과([[wu-2022-local-accumbens-in-vivo]]). 비용효과 임계값도 모델링됨([[mahajan-2022-can-responsive-deep-brain]]).
 
 ### 약물 시대와의 교차
-- incretin 치료(GLP-1RA, GLP-1/GIP dual=**tirzepatide**)가 food preoccupation을 줄이지만 **내성(tolerance)**이 보고됨. [[choi-2025-brain-activity-associated-with-breakthrough]]는 tirzepatide 최대 용량에도 NAc delta-theta biomarker가 재등장하며 LOC가 돌파(breakthrough)하는 단일 사례를 포착 — 약물 반응의 회로 readout 가능성.
+- incretin 치료(GLP-1RA, GLP-1/GIP dual=**tirzepatide**)가 food preoccupation을 줄이지만 **내성(tolerance)**이 보고됨. [[choi-2025-brain-activity-associated-with-breakthrough]]는 tirzepatide 최대 용량에도 NAc delta-theta biomarker가 재등장하며 **severe food preoccupation**이 돌파(breakthrough)하는 단일 사례를 포착 — 약물 반응의 회로 readout 가능성. (논문의 종결점은 월 7회로 증가한 severe food preoccupation episode이며, LOC eating episode의 돌파는 보고되지 않았다 — food preoccupation은 위 '개념 스펙트럼'에서 LOC의 상류 상태로 구분한 별개 구성개념.)
 
 ## 관련 페이지
 - [[concept-nucleus-accumbens]] — LOC 직전 biomarker 발생지.
@@ -48,3 +48,7 @@ updated: 2026-06-01
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 반복 노출 증폭 binge-like eating의 회로.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌(quinine·shock)-저항 강박 섭취의 피질-시상하부 회로(mPFC→rZI^GABA); Halpern NAc biomarker와 상보적인 상류 축, 인간 rZI-mPFC FC가 binge·BMI와 상관.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.5.4. 중독 개념 논쟁을 우회하는 임상 표현형으로 LOC eating을 배치.
+- [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 비만에서는 통제 상실감보다 **음식 주의력 저하(mindless eating)**·억제섭식↑이 전면에 온다(대비 표현형, 사용자 lab).
+- [[wu-2020-brain-responsive-neurostimulation-for-loss]] — BITES 프로토콜의 LOC 포함기준(주당 ≥4회 LOC, EDE 확인)과 1차 종결점(주당 ≥1회 감소를 피험자 ≥50%에서) 원전.
+- [[parker-2022-appetitive-mapping-of-the-human]] — 'LOC는 pre-meal 음성정동 뒤에 온다 → NAc 자극으로 positive affect를 evoke'라는 치료 가설과 수술 중 매핑.
+- [[nho-2026-human-orbitofrontal-neural-activity-is]] — 충동(LOC)–강박(OCD) transdiagnostic 축의 강박편(amOFC gamma).

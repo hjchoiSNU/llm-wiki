@@ -2,7 +2,7 @@
 title: "Liraglutide in mild to moderate Alzheimer's disease: a phase 2b trial (ELAD)"
 type: paper
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-19
 source: raw/2026 Nature Medicine. Liraglutide in mild to moderate Alzheimer's disease a phase 2b clinical trial.pdf
 authors: [Edison Paul, Femminella GD, Ritchie C, Holscher C, Ballard C, et al.]
 year: 2026
@@ -67,7 +67,7 @@ trial: ELAD (NCT01843075)
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — ELAD(ref #123 포함)를 근거지도에 배치한 종합 리뷰(Nature Aging 2026).
 - [[concept-glp-1]] — 호르몬·수용체·약리 hub. 여기서는 대사·섭식 밖 뇌 작용 축.
 - [[person-edison-paul]] — 교신저자, ELAD 총괄 PI(Imperial).
-- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(피질·시상하부·연수) → CNS target engagement의 해부학적 근거.
+- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(**frontal cortex 최대**, 간뇌·뇌간·해마 존재, **OFC·소뇌 미검출**; 시상하부 PVN은 중등도·종간 보존이나 GLP-1 리간드 단백은 시상하부에서 최소) → CNS target engagement의 해부학적 근거. 단 부검 IHC/RT-PCR 반정량(n=30)이고 원문 내부 ΔCt 표기 상충이 보고돼 **근거 등급은 약함**.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 작용·세포내 신호 종합(사용자 lab); 본 임상의 기전 프레임.
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — lixisenatide 인체 fMRI(사용자 lab); GLP-1RA 중추 작용의 인간 영상 선례.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — GLP-1 계열 약물 지형(비만·대사); 본 논문은 그 밖의 신경 응용.

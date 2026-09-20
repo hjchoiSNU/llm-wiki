@@ -2,7 +2,7 @@
 title: "Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior"
 type: paper
 created: 2026-05-25
-updated: 2026-05-30
+updated: 2026-09-19
 source: "raw/2024 Neuron. Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior.pdf"
 authors: [Ha LJ, Yeo HG, Kim YG, Baek I, Baeg E, Lee YH, Won J, Jung Y, Park J, Jeon CY, Kim K, Min J, Song Y, Park JH, Nam KR, Son S, Yoo SBM, Park S, Choi WS, Lim KS, Choi JY, Cho JH, Lee Y, Choi HJ]
 year: 2024
@@ -15,7 +15,7 @@ journal: "Neuron 112:1–13"
 > 2. **자연주의 goal-directed 식이 행동 ↑** for **palatable food only** (cherry tomato, HFHS). Unpalatable food·water·non-food object엔 효과 없음 — high-reward specificity.
 > 3. **In vivo functional validation**: GABA PET ([18F]flumazenil) + 7T MRS (GABA/tCr) — biological efficacy 증명.
 > 4. **Operant conditioning (CANTAB FR1)**: 동기 ↑ for sweet pellet (latency ↓, success ↑, anticipatory ↑). Water reward는 inconclusive (낮은 baseline motivation 가설).
-> 5. **rs-fMRI**: **LHA-frontal FC ↑, intra-frontal FC ↓** → top-down inhibitory control 감소가 motivation 증가의 회로 메커니즘.
+> 5. **rs-fMRI**: **LHA-frontal FC ↑, intra-frontal FC ↓**. 본문 Result 5는 이를 'LHA GABA 활성화 → frontal top-down 억제 약화 → goal-directed motivation 증가'라는 **가설**로 기술한다 — 본문에 매개 검증(경로 특이 조작·매개분석) 기술은 없고 전체 N=3(+pilot)이므로, **상관 수준 근거**로 인용할 것.
 > 6. **Rodent와 달리 aberrant gnawing 없음** — primate higher self-control 가설.
 > 사용자 활용:
 > - **Chemogenetic gene therapy** 임상 path를 NHP에서 입증 — 비만 치료 차세대 modality ([[lee-2025-hijacked-brain-modern-obesity-cue|Hijacked Brain]] electroceutical/gene therapy backbone).

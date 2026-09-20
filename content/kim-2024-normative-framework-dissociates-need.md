@@ -2,7 +2,7 @@
 title: "Kim et al. 2024 — A normative framework dissociates need and motivation in hypothalamic neurons"
 type: paper
 created: 2026-05-25
-updated: 2026-05-30
+updated: 2026-09-19
 source: raw/2024 Science Advances. A normative framework dissociates need and motivation in hypothalamic neurons.pdf
 authors: [Kyu Sik Kim, Young Hee Lee, Jong Won Yun, Yu-Been Kim, Ha Young Song, Joon Seok Park, Sang-Ho Jung, Jong-Woo Sohn, Ki Woo Kim, HyungGoo R. Kim, Hyung Jin Choi]
 year: 2024
@@ -116,3 +116,4 @@ GCaMP6s kernel 합성곱 후 raw photometry trace와 비교. AIC = N·ln(RSS/N) 
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^LepR=Motivation을 다중 욕구 arbitration까지 확장.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — Predicted Deficit(Need)의 **공간 축**: 접근=predicted gain→AgRP↓, 이탈=predicted loss→AgRP↑. Need가 시간적 예측뿐 아니라 "먹이까지의 학습된 거리"로도 갱신됨을 시사 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts가 Need도 value도 아닌 **Motivation의 운동·각성 성분**을 표상한다는 대비 사례(VTA-DA의 value coding과 거의 반대 부호) (bioRxiv 2026).

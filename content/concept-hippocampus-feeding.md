@@ -2,7 +2,7 @@
 title: 해마와 섭식 (Hippocampus & Feeding) — orexigenic dlHPC
 type: concept
 created: 2026-06-01
-updated: 2026-09-07
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -23,6 +23,8 @@ updated: 2026-09-07
 - **질환 관련**: 폭식 경향 여성 34인(lean 17 vs overweight/obese 17)에서 **LH–dlHPC 기능적(rsFC)·구조적 연결성이 비만군에서 유의 감소**, 다변량 모델의 독립 비만 예측인자.
 
 ### 회로 맥락
+> ⚠️ **근거 등급**: [[barbosa-2023-an-orexigenic-subnetwork-within-the]]의 인간 근거는 (i) sweet-fat cue anticipation 저주파(뇌전증 9인, 상관), (ii) LH↔dlHPC evoked potential(1인, 연결 존재), (iii) post-mortem MCH+ 섬유, (iv) 34인 횡단 연결성–BMI 연관이다. dlHPC를 조작해 인간 섭식이 변한다는 인과 데이터와 연결성 감소의 방향(원인 vs 결과)은 미검증이므로, '치료 표적'은 가설 단계로 인용할 것.
+
 - **LH–해마 orexigenic 축**: 설치류에서 LH MCH·orexin이 해마를 통해 식이·충동을 조절(Noble 2019, Hsu 2015). Barbosa는 이를 **인간**에서 확립.
 - **저주파의 역할**: theta 범위와 겹치며, 원거리 영역 간 정보 전달(LH↔dlHPC) 매개 가설.
 

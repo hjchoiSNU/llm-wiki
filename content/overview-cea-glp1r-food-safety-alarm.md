@@ -2,7 +2,7 @@
 title: "CeA GLP-1R 뉴런의 역할 — Food safety alarm과 GLP-1RA 약리의 hijack"
 type: overview
 created: 2026-07-04
-updated: 2026-07-05
+updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -40,7 +40,10 @@ updated: 2026-07-05
 위 방어(접근 속 긴장 + 입안 즉시 거부 + 사후 혐오학습)를 담당할 유력 후보가 **[[concept-central-amygdala-glp1r|중심편도 GLP-1R(CeA^Glp1r) 뉴런]]**이다. 근거·정합성:
 
 - **CeA = 혐오·위협·CTA의 중추 허브**: 중심편도는 fear·threat·malaise·conditioned taste aversion을 처리하는 canonical aversion 노드다. "음식이 위험할 수 있다"는 방어 신호를 **valence(위험가) 출력**으로 바꾸기에 해부학적으로 적합하다(인접한 [[concept-basolateral-amygdala|BLA]]는 가치 학습, CeA는 방어 출력).
-- **CeA는 valence-길항 세포군의 집합**: CeA는 단일체가 아니라 **혐오/식욕억제 극([[cai-2014-central-amygdala-pkc-delta-neurons|PKC-δ⁺, Cai 2014]] — CCK·LiCl·LPS 다중 anorexigenic 신호 수렴)** 과 **접근/섭식촉진 극([[douglass-2017-central-amygdala-circuits-modulate-food|Htr2a⁺, Douglass 2017]] — PKC-δ를 억제해 양성-가치 섭식 촉진)** 이 국소 GABA로 경쟁하는 이질적 노드다. [[concept-central-amygdala-glp1r|CeA^Glp1r]]은 이 valence 밸브의 **혐오/억제 축**에 정렬되며([[duran-2026-the-central-amygdala-gates|Duran]]: PKCδ 필요·Glp1r=HFD 전담), 따라서 "food safety alarm"이 CeA에서 **세포군 수준으로 구현**됨을 뒷받침한다.
+
+  ⚠️ 반례를 함께 볼 것: [[cai-2014-central-amygdala-pkc-delta-neurons|Cai 2014]]에서 **외측 중심편도(CEl)의 PKC-δ⁺** 뉴런을 5 Hz로 광활성하면 24시간 절식 동물의 섭식이 강력히 차단되지만, **조건화 장소 회피(CPA)를 만들지 않고 CTA의 US로도 작용하지 못했으며**(동일 실험의 LiCl 대조는 정상적으로 CTA 형성), freezing·운동저하도 없었고 불안검사(EPM·open field·light-dark)에서는 오히려 **항불안 방향**이었다. 즉 CeA의 대표 anorexigenic 세포군은 **혐오정동 없이 섭식을 끌 수 있다**. 단 이는 **충분성 반례**이지 CeA의 CTA 필요성을 부정한 실험은 아니다(그 필요성 검증은 본 위키에 없음). 위키 안에서 CTA의 US 경로로 **필요·충분**이 입증된 노드는 CGRP^PBN([[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]])이며, [[concept-area-postrema|AP]]와 장 EC세포([[bai-2022-enteroendocrine-cell-types-that-drive]])는 말초·순환 기원 경로로 입증돼 있다. 따라서 "경보의 두 출력은 분리 불가"는 CeA 세포군 수준에서 이미 반례가 있는 명제다.
+
+- **CeA는 valence-길항 세포군의 집합**: CeA는 단일체가 아니라 **혐오/식욕억제 극([[cai-2014-central-amygdala-pkc-delta-neurons|PKC-δ⁺, Cai 2014]] — CCK·LiCl·LPS의 Fos 수렴; 단 기능적 필요성은 CCK·(부분)LiCl에 한정되고 LPS에는 불필요)** 과 **접근/섭식촉진 극([[douglass-2017-central-amygdala-circuits-modulate-food|Htr2a⁺, Douglass 2017]] — PKC-δ를 억제해 양성-가치 섭식 촉진)** 이 국소 GABA로 경쟁하는 이질적 노드다. [[concept-central-amygdala-glp1r|CeA^Glp1r]]은 이 밸브에서 **섭식억제 쪽 출력**을 낸다([[duran-2026-the-central-amygdala-gates|Duran 2026]]: PKCδ와 Glp1r이 **각각 독립적인 비중복 세포군**으로 Ex-4 hypophagia에 기여하고 Glp1r은 HFD 전담, 단 모든 rescue는 불완전). 단 Glp1r⁺ 세포군은 PKCδ·Sst와 **비중복**이므로(Zeng 2021 → [[concept-central-amygdala-glp1r]]), PKCδ의 필요성을 Glp1r 세포군이 **혐오 축에 속한다**는 근거로 쓸 수는 없다. 이 단서를 붙인 채로 보면 경보가 CeA에서 세포군 수준으로 분해된다는 그림은 유지되며, 따라서 "food safety alarm"이 CeA에서 **세포군 수준으로 구현**됨을 뒷받침한다.
 - **GLP-1 = 내수용 malaise/포만/nausea 신호**: GLP-1은 "먹은 것이 부담·위협"이라는 [[concept-interoception|내수용]] 경보를 나른다. 그 수용체(Glp1r)를 발현하는 CeA 뉴런은 이 경보를 받아 **현재 섭취 중단 + 미래 회피 학습**으로 번역하는 위치에 있다.
 - **약리 증거와의 정합**: [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]은 CeA^Glp1r 조작이 **기호성 음식만 선택적으로 억제**함을 보이며, malaise/CTA 유발제인 **LiCl을 nausea 기준**으로 삼는다. [[duran-2026-the-central-amygdala-gates|Duran 2026]]은 CeA^Glp1r이 **hedonic(HFD) 섭취 억제 전담**임을 보인다 — "이 음식은 위험하니 그만/피하라"는 경보의 표적 특이성과 부합.
 
@@ -82,11 +85,17 @@ updated: 2026-07-05
 차세대 경구 small-molecule GLP-1RA(orforglipron·danuglipron)와 펩타이드(liraglutide·Ex-4)는 이 생리적 경보 회로를 **약리적으로 점거**한다. 같은 CeA^Glp1r 뉴런의 두 출력이 각각 치료효과와 부작용으로 나타난다.
 
 ### (1) 약물 유발 food aversion → 섭취 감소 (therapeutic)
+
+⚠️ **인간 수준 제약 증거**: [[su-2026-genetic-predictors-of-glp1-receptor|Su 2026 (Nature 653:772, 23andMe n=27,885)]]에서 GLP-1RA의 **체중감량 효능 신호와 오심·구토 부작용 신호가 같은 `GLP1R` 좌위에 co-localize**했다 — ΔBMI%↔오심 **H4 96.6%**, ΔBMI%↔구토 **H4 88.5%**, 다형질 분석에서 같은 신호일 사후확률 **72.6%**이며 저자 결론은 "오심·구토가 클수록 BMI 감량 효능이 크다"는 유전적 연결(p.772). 단 부작용 index SNP은 효능 신호와 **중등도 LD**(r²=0.57·0.75)이고 credible set에 코딩 변이가 없어 **인과 변이는 미확정**이다. 즉 본 페이지가 전망하는 '급성 섭취 brake ↔ 정동(aversion) 출력' 분리는 인간에서 **분리 가능성 자체가 아직 열린 질문**이다. 반대로 같은 논문의 `GIPR` p.Glu354Gln(부분 기능상실; Gln 대립유전자 구토 OR 1.83)은 **tirzepatide 구토 위험만 높이고 효능에는 영향이 없었다**(P=0.73) — [[zhang-2022-brainstem-circuit-for-nausea|AP GIPR 억제뉴런 = 오심 off-switch]] 회로와 방향이 일치하며, **혐오 축만 따로 조절할 표적**이 존재할 가능성도 함께 시사한다.
+
 - 말초/경구 GLP-1RA가 **NTS^Gcg→CeA^Glp1r→VTA→NAc DA↓** 회로를 구동해 기호성 음식의 보상가를 낮추고 섭취를 줄인다([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]]).
-- 필요성·충분성: CeA에서 Glp1r 삭제 → liraglutide의 **HFD 억제 능력 감소**(SD 무변); CeA^Glp1r 억제 → Ex-4의 HFD 억제를 **~30% rescue**(SD ~10%보다 큼)([[duran-2026-the-central-amygdala-gates|Duran 2026]]). → CeA^Glp1r이 GLP-1RA의 hedonic 억제 효과에 **필요**.
+- 필요성·충분성: CeA에서 Glp1r 삭제 → liraglutide의 **HFD 억제 능력 감소**(SD 무변)([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]); CeA^Glp1r 화학유전 억제(hM4d+DCZ) → Ex-4의 HFD 억제를 **~30% rescue**(표준식이 ~10%보다 큼)([[duran-2026-the-central-amygdala-gates|Duran 2026]]). → 약물·방법이 다른 두 연구가 독립적으로 CeA^Glp1r이 GLP-1RA의 hedonic 억제 효과에 **필요**함을 지지.
 - small-molecule(danuglipron 555.6 Da)은 **BBB를 넘어 심부 CeA를 직접 활성**할 수 있어, 약물이 경보 노드에 직접 개입하는 무대가 된다.
 
 ### (2) 약물 유발 혐오정동·우울 증상 (adverse)
+
+⚠️ **부위 귀속 주의**: 아래 nausea-like 프로파일(LiCl 유사 locomotor↓·grooming/sheltering↑)은 **전신 약물 투여 수준**의 표현형이다. [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]이 오심 판정에 쓴 지표는 (i) LiCl을 nausea 기준으로 한 home-cage 행동 syllable 프로파일(Fig. 2d–f), (ii) **조건화 미각 회피** — LiCl·liraglutide에서만 나타나고 danuglipron·orforglipron에서는 검출되지 않음(Extended Data Fig. 2a–c), (iii) open field·EPM 불안검사(Extended Data Fig. 2d–m), (iv) **NTS:AP FOS 비율**(AP 편향 = nausea-like, Fig. 3j)이며, 모두 **전신(IP/경구) 투여** 조건에서 측정됐다. 저자들도 오심·malaise를 **AP 동원**에 귀속시킨다(본문 p.5: "side effects that are often linked to AP engagement"). 반면 **CeA 한정 조작에서 보고된 결과는 HFD 선택적 섭취 억제뿐**이다 — CeA-hGLP1R+danuglipron(Fig. 4f,k), CeA^Glp1r ChR2 광자극(Fig. 4u–w), CeA Glp1r 삭제+liraglutide(Fig. 4x,y) 모두 HFD만 변하고 SD는 무변이며, CPA·CTA 같은 혐오 검사는 CeA 한정 조건에서 시행되지 않았다. 위키 안에서 오심·조건화 회피의 인과 부위로 입증된 곳은 [[concept-area-postrema|최후야(AP)]]다([[zhang-2021-area-postrema-cell-types-that|Zhang 2021]]: AP 국소 Glp1r-KO → exendin-4 회피 소실). 따라서 nausea를 CeA^Glp1r 경보의 출력으로 단정하지 말 것.
+
 - 경보의 aversion 출력이 과활성되면 **nausea·malaise 등 혐오정동**으로 나타난다. GLP-1RA(특히 danuglipron·liraglutide)는 LiCl-유사 locomotor↓·grooming/sheltering↑의 **nausea-like 행동 프로파일**을 보인다([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]]).
 - **만성 CeA^Glp1r→VTA→NAc 도파민 억제**는 mesolimbic 보상 톤을 지속적으로 낮춰 **anhedonia·우울 유사 상태**를 초래할 수 있다 — Godschall 저자들이 orforglipron 대중화에 앞서 "장기 mesolimbic·동기행동 영향과 anhedonia 위험 정의 필요"를 명시적으로 경고했다.
 - 즉 "food safety alarm"의 **오작동/과활성**이 임상적 혐오정동·기분 저하 부작용으로 발현된다는 해석. (Woods framework에서 경보의 부적응이 병리가 되는 것과 평행 — cf. cephalic 방어 오작동 → reactive hypoglycemia.)
@@ -100,11 +109,34 @@ updated: 2026-07-05
 | | 생리 (food safety alarm) | 약리 (GLP-1RA hijack) |
 |---|---|---|
 | **급성 출력** | 현재 (기호성) 섭취 중단 | 약물 유발 food aversion → 섭취↓ (치료) |
-| **학습/지속 출력** | 혐오 연합학습 → 미래 섭취↓ | 혐오정동·nausea, 만성 NAc DA↓ → 우울/anhedonia (부작용) |
+| **학습/지속 출력** | 혐오 연합학습 → 미래 섭취↓ *(CeA^Glp1r 인과 미검증)* | 만성 NAc DA↓ → 우울/anhedonia **가설**(Godschall에서 미측정, 저자의 향후 과제 경고 수준). nausea·malaise는 [[concept-area-postrema|AP]] 동원에 귀속되므로 같은 뉴런의 출력으로 단정 불가 |
 | **회로** | NTS^Gcg → CeA^Glp1r(GABA) → VTA DA↓ → NAc DA↓ | 동일 회로를 약물이 구동(경구 small-molecule은 CeA 직접도 가능) |
 | **선택성** | food valence(위험가) — HFD 선택적, 항상성 보존 | HFD 선택적 억제 + valence-linked 정동 부작용 |
 
 **핵심 통찰**: CeA^Glp1r의 치료효과(섭취 억제)와 부작용(혐오·우울)은 분리 가능한 두 시스템이 아니라, **"음식은 위협"이라는 생리적 경보의 두 출력을 약물이 함께 켜기 때문에 동반**된다. 부작용 없는 차세대 약물 설계는 이 경보의 급성(섭취 brake) 출력과 정동(aversion) 출력을 분리할 수 있는지에 달려 있다(cf. Godschall의 NTS:AP 비율 = nausea 분리 지표; orforglipron의 aversion-separable 프로파일).
+
+## ⚠️ 반대 증거 — 섭취 억제와 혐오는 이미 부분적으로 해리되어 있다
+
+본 framework의 가장 강한 형태("치료효과 = 약물 유발 food aversion")는 이 위키 안의 두 자료와 충돌한다.
+
+1. **약물별 해리** — [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]의 91-syllable 행동 분류에서 LiCl·liraglutide·danuglipron은 nausea-like 프로파일(locomotor↓·grooming/sheltering↑)을 보였으나 **orforglipron은 활동적·exploratory를 유지한 채 섭취만 줄였다** — 저자 표현으로 anorexia가 메스꺼움과 **separable**.
+2. **개체 상태별 해리** — [[liskiewicz-2026-glp-1r-gipr-ppar|Liskiewicz 2026]]에서 GLP-1–GIP–Lani는 lean 마우스에서 **CTA를 유발하면서도 체중은 전혀 줄이지 않았다**. 즉 혐오 유발과 체중 감소는 같은 축이 아니다. 더욱이 **Vglut2-Cre Glp1r-KO에서는 CTA가 사라졌다** — 혐오 성분이 유전적으로 분리 가능한 회로에 얹혀 있다는 뜻.
+
+> 따라서 본 페이지의 주장은 "CeA^Glp1r에서 두 출력이 **함께 켜지기 쉽다**"까지로 읽어야 하며, "원리상 분리 불가"로 읽으면 안 된다. 분리 가능성이야말로 차세대 약물 설계의 실제 쟁점이다(Godschall의 NTS:AP 비율 지표 참조).
+
+## 식욕억제(anorexia) ↔ 혐오(aversion) 분리 근거표
+
+| 조작 (모두 마우스) | 섭취 | 혐오(CTA/CPA/맛회피) | 출처 |
+|---|---|---|---|
+| CeA PKC-δ⁺ 광활성 | 강력 억제(공복에서도) | **없음** — 불안·CTA·freezing 미유도 | [[cai-2014-central-amygdala-pkc-delta-neurons|Cai 2014]] |
+| AP 국소 Glp1r-KO + exendin-4 | 식이감소 **일부 잔존** | flavor avoidance **소실** | [[zhang-2021-area-postrema-cell-types-that|Zhang 2021]] |
+| 예방적 GIP(AP GIPR⁺ 억제뉴런 경유) | — | GDF15·LiCl 맛회피 **소실** | [[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]] |
+| EEC 아형 화학유전 활성 | Tac1·Cck 모두 억제 | CTA는 **Tac1(EC)만**, Cck는 오히려 **선호(CFP)** | [[bai-2022-enteroendocrine-cell-types-that-drive|Bai 2022]] |
+| CGRP^PBN 광활성 + 맛 페어링 | 억제 | CTA 형성에 **충분** | [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function|Palmiter 2018]] |
+| orforglipron vs danuglipron·liraglutide | 셋 다 섭취↓ | orforglipron만 nausea-like 프로파일과 **분리** | [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]] |
+| 외측중격 DLS^Pdyn 광활성 | 억제 | 실시간 장소회피 **동반** | [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]] · [[concept-dynorphin-kappa-opioid]] |
+
+**읽는 법**: 위 표는 "섭취 억제 = 혐오"가 **아님**을 보여준다. 분리는 (i) **세포군**(CeA PKC-δ vs 장 EC Tac1), (ii) **부위**(NTS 포만 vs AP 혐오), (iii) **약물 동역학**(orforglipron의 느린 흡수·낮은 peak) 세 수준에서 각각 확인된다. 다만 인간 유전 수준에서는 효능과 오심·구토 신호가 같은 `GLP1R` 좌위에 co-localize하므로([[su-2026-genetic-predictors-of-glp1-receptor|Su 2026]]), **회로적 분리 가능성과 임상적 분리 가능성은 아직 같은 답이 아니다**.
 
 ## 사용자 lab 연구 함의
 - **가설 검증(핵심 실험)**: "food safety alarm" 가설의 결정적 검증 — CeA^Glp1r이 (i) **쓴맛·신기(novel) 음식** 같은 선천·후천 혐오 자극에 반응하는지(fiber photometry), (ii) **conditioned taste/food aversion**의 형성·발현에 필요·충분한지(광유전 gain/loss + CTA 패러다임), (iii) 이 혐오 학습이 **GLP-1RA로 강화**되는지를 직접 시험.
@@ -131,3 +163,5 @@ updated: 2026-07-05
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA Htr2a⁺ 양성-가치 섭식촉진극(valence 밸브의 반대극).
 - [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽 혐오상태→CeA/BNST 하향 경보(피질층).
 - [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 예측적 내수용 상태추정(섭취 결과 시뮬레이션).
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 유전 근거: GLP-1RA 효능과 오심·구토가 같은 `GLP1R` 좌위에 co-localize(오심 H4 96.6%·구토 88.5%, 같은 신호 사후확률 72.6%) → 본 페이지의 '경보 출력 분리' 전망에 대한 인간 수준 제약. 반면 `GIPR` p.Glu354Gln은 tirzepatide 구토만 좌우하고 효능엔 무영향 → 분리 가능성의 단서도 함께 제공 (Nature 2026).
+- [[liskiewicz-2026-glp-1r-gipr-ppar]] — **해리 반대 증거**: 5중작용제가 lean 마우스에서 CTA는 유발하되 체중은 안 줄임(혐오 ≠ 체중감소 기전), Vglut2-Glp1r KO에서 CTA 소실 (Nature 2026).

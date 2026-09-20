@@ -2,7 +2,7 @@
 title: "Petzold et al. 2023 — 상보적 LH 집단이 배고픔 압력에 저항해 영양·사회 욕구를 균형화"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-19
 source: raw/2023 Cell Metabolism. Complementary lateral hypothalamic populations resist hunger pressure to balance nutritional and social needs.pdf
 authors: [Petzold A, van den Munkhof HE, Figge-Schlensok R, Korotkova T]
 year: 2023
@@ -27,10 +27,11 @@ year: 2023
 ## 관련 페이지
 - [[concept-lateral-hypothalamus]] — LH^LepR·LH^Nts 상보 arbitration을 개념 hub에 반영.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — 같은 lab 후속; hunger×social을 3-drive framework로 확장.
-- [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab; 동일 LH^LepR을 seeking/consummatory로 분리(상보적 시각).
+- [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab; 동일 LH^LepR을 seeking/consummatory로 분리. ⚠️ **결과 부호가 반대**(그쪽은 ad libitum 수컷·phase-isolated 조건에서 활성화→섭취 ↑, 본 연구는 급성 제한 직후 다중자극 자유접근에서 활성화→섭취 ↓). 차이 후보: 과제 구조, 배고픔 상태(포만 vs 급성 제한), 급성 vs 만성 제한, 좌표 아영역(본 연구 AP −1.3 = [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]] 분류상 amLH / Lee 2023 AP −1.5 = pmLH). → [[concept-lateral-hypothalamus]]의 쟁점 절 참조.
 - [[kim-2024-normative-framework-dissociates-need]] — 사용자 lab; LH^LepR=Motivation을 arbitration까지 확장.
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입 종합(LepR social·Nts thirst 정리).
 - [[concept-need-motivation-pleasure-utility]] — Need vs 경쟁(social) 욕구 arbitration.
 - [[concept-orexin-neurons]] — LepR→OX 축.
 - [[person-korotkova-tatiana]] — 교신저자.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — LH^Nts와 별개인 **NAcLat^Nts→VTA** 축; 같은 펩타이드가 출처에 따라 섭식 촉진/hedonic 매개로 갈린다 (Nature 2025).
+- [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH^Nts 집단의 인과 **침묵**(TeTox) 실험: 음수·체온·각성·자발운동은 손상되나 **24 h 총 섭취는 불변**. 본 연구의 '갈증 우선' 해석에 정량적 제약을 더한다 (bioRxiv 2026, Soden lab).

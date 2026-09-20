@@ -2,7 +2,7 @@
 title: Direct interoceptive input to the insular cortex shapes learned feeding behavior (Zhao 2026)
 type: paper
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-09-19
 source: raw/2026 bioRxiv. (Stern) Direct interoceptive input to the insular cortex shapes learned feeding behavior.pdf
 authors: [Zhe Zhao, Binbin Xu, Skylar Anthony, Suganya Subramanian, Bryan Granger, Carolyn Von-Walter, Elisa Mizrachi, Dhruvum Bajpai, Paul Tyagi, Matthew Kidd, Abhishikta Srigiriraju, Isaac McKie, Zhiying Li, M. McLean Bolton, Stefano Berto, Sarah A. Stern]
 year: 2026
@@ -53,3 +53,5 @@ year: 2026
 - [[concept-effort-based-decision-making]] — progressive ratio breakpoint↓(렙틴이 먹이 동기 감소).
 - [[concept-need-motivation-pleasure-utility]] — 항상성이 아닌 동기적/학습된 섭식 축의 피질 기질.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 미각·영양 부호화(섬엽·선조체) 인접 맥락.
+- [[livneh-2020-estimation-of-current-and-future]] — 같은 섬엽의 **현재·미래 생리상태 이중 부호화**; 본 논문 INS^LepR Cluster 4의 섭식 직전↑·섭취 시↓ 동역학과 상보.
+- [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽의 **혐오상태 부호화·CeA/BNST 하향제어**; 본 논문의 RTPP 지연 회피(혐오 성분)와 맞닿는 축.

@@ -2,7 +2,7 @@
 title: 체중 재증가와 방어되는 지방량 (Weight regain & defended adiposity)
 type: concept
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, weight maintenance, 유지생물학]
 ---
 
@@ -20,10 +20,12 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 | 근거 | 개입 | 재증가 |
 |---|---|---|
 | [[aronne-2023-continued-treatment-with-tirzepatide-for\|SURMOUNT-4]] | 티르제파타이드 36주(−20.9%) 후 위약 전환 | 52주간 **+14.0%** (지속군 −5.5%, 군간 차 −19.4%p) |
-| [[barros-2026-from-diet-to-hypothalamic-dysfunction\|Barros 2026]] 인용(Wang 2026) | 세마글루타이드 중단 | **12주 내 71.4%** 재증가(여성 코호트) |
+| [[barros-2026-from-diet-to-hypothalamic-dysfunction\|Barros 2026]]이 인용한 Wang 2026 (**3차 인용, 원논문 미확보**) | 세마글루타이드 중단 | **여성 28명 전향 연구에서 71.4%가 중단 12주 내 유의한 체중 재증가** — 재증가한 *사람의 비율*이지 재증가한 *체중의 %가 아님*. 재증가 폭은 이 출처로 말할 수 없다. |
 | [[hankir-2015-distinctive-striatal-dopamine-signaling-after\|Hankir 2015]] | 다이어트 vs 위우회술 | 다이어트만 **중변연계 도파민 tone 우세 → 요요**; RYGB는 등쪽 우세로 재설정 |
 
 > 유지 지표를 기록할 때는 **"감량분의 몇 %를 유지했는가"** 와 **"기저 대비 최종 체중"** 을 구분할 것. SURMOUNT-4에서 위약군도 종료 시점에 기저 대비 −9.9%였다(legacy effect 논쟁).
+
+> ⚠️ 위 표에서 인용 단위를 섞지 말 것. SURMOUNT-4의 **+14.0%**는 *체중 변화율*이고, Wang 2026의 **71.4%**는 *재증가한 환자의 비율*(여성 28명 중)이다. 후자는 [[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] §6을 거친 3차 인용(원출처: Wang N et al., *Diabetes Obes Metab* 2026 — Barros 참고문헌 191)이며 원논문이 `raw/`에 없으므로, 강의·논문에 쓰려면 원문 확보가 먼저다.
 
 ## 층위 2 — 회로·시냅스 기전 (왜 되돌아오는가)
 
@@ -40,6 +42,14 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - **microbiota·담즙산 reset 실패**: [[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] — 중단 시 microbiota·SCFA·TGR5·시상하부 AgRP/POMC가 **동시에** 원상 복귀.
 - **보상계 재설정 방향**: [[hankir-2015-distinctive-striatal-dopamine-signaling-after|Hankir 2015]] — 감량 *방식*이 선조체 도파민 tone의 방향을 가른다.
 - **쾌락 가치의 변화**: [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서의 쾌락 가치 하락과 그 회복.
+
+### 상류 세포체를 끄면 12주 동안 유지된다 ★
+[[walker-2026-a-hypothalamic-circuit-for|Walker 2026]]은 Grzelka가 측정한 바로 그 시냅스의 **상류 세포**(PVH^Sim2 = PVH^TRH/PACAP의 분자적 부분집합)를 만성 침묵(TeNT)시켰다:
+- **12주에 걸쳐 섭취·체중 증가·체지방이 지속 감소**(수컷에서 강함). 암컷은 섭취는 줄지만 EE·운동량이 동반 감소해 체중은 보상됨.
+- 줄어든 EE는 섭취 감소의 *원인이 아니라 적응적 결과*.
+- 저자들이 결론에서 명시: **다이어트 후 감소한 체중을 *유지*하는 cell-type 특이 치료 표적 후보**.
+
+→ 즉 이 축의 치료 진입점은 두 개다. ① **시냅스 유도 관문 = NMDAR**([[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka]]), ② **상류 세포타입 출력 자체 = PVH^Sim2/TRH**(Walker). ②는 감량 직후가 아니라 **유지기 전 구간**에 걸린다는 점에서 ①과 시간 창이 다르다.
 
 ## 층위 3 — 약물개발에서의 "유지생물학"
 [[petersen-2026-the-evolving-landscape-of|Petersen 2026]]은 이를 **defended adiposity**로 명명하고 세 갈래 대응을 정리한다:
@@ -76,3 +86,4 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[concept-hedonic-devaluation]] · [[concept-loss-of-control-eating]] — 유지기 섭식 행동 표현형.
 - [[concept-digital-therapeutics]] — 유지기 개입 도구.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[walker-2026-a-hypothalamic-circuit-for]] — PVH^Sim2(=PVH^TRH 부분집합) 만성 silencing이 **12주간 섭취·체지방 감소를 유지**; 저자가 '다이어트 후 체중 유지' 표적으로 제시. 증폭기 축의 **상류 세포타입 진입점** (Neuron 2026, Lowell lab).

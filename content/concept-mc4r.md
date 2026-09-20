@@ -2,7 +2,7 @@
 title: Melanocortin-4 receptor (MC4R)
 type: concept
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-19
 aliases: [MC4R, melanocortin 4 receptor]
 ---
 
@@ -55,4 +55,5 @@ aliases: [MC4R, melanocortin 4 receptor]
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity.
 - [[freire-agulleiro-2026-early-life-programming-of]] — maternal MC4R-hypertension.
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — **DMV(미주 운동핵) MC4R**가 α-MSH 입력을 받아 장 SGLT1 포도당 흡수↓; MC4R의 새 말초 대사(혈당) 출력 가지 (Nat Commun 2026).
+- [[concept-maternal-programming-hypothalamus]] — PVN MC4R→hypertension을 포함한 모체 프로그래밍 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

@@ -2,7 +2,7 @@
 title: "The critical role of gut–brain signalling in eating behaviour and obesity"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-09-19
 source: "raw/2026 NRGH. The critical role of gut–brain signalling in eating behaviour and obesity.pdf"
 authors: [de Lartigue G, Brierley DI, Choi HJ]
 year: 2026
@@ -10,7 +10,7 @@ journal: "Nature Reviews Gastroenterology & Hepatology (in press)"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 lab + de Lartigue + Brierley 공동 NRGH 종합 리뷰.** 미주신경 구심성 뉴런(VAN)을 gut-brain 통신의 1차 conduit로 격상. **3-stage diet-induced obesity** framework: (1) reinforcement-driven 과식 → (2) compensatory 식사량 감소 (vagal 보호) → (3) vagal dysfunction (점→돌이킬 수 없는 비만). VAN subtype별 (Glp1r⁺·Oxtr⁺·Cckar⁺·Gpr65⁺·Vip⁺) 식이 단계 매핑. GLP-1RA는 vagus를 우회 → 근본 원인 미해결. 인간에서 미주신경이 obesity 치료의 underappreciated target.
+> **사용자 lab + de Lartigue + Brierley 공동 NRGH 종합 리뷰.** 미주신경 구심성 뉴런(VAN)을 gut-brain 통신의 1차 conduit로 격상. **3-stage diet-induced obesity** framework: (1) reinforcement-driven 과식 → (2) compensatory 식사량 감소 (vagal 보호) → (3) vagal dysfunction (미주 방어 붕괴 → 지속적 과식·체중 증가; **비가역 여부는 원문이 미해결 질문으로 남김**). VAN subtype별 (Glp1r⁺·Oxtr⁺·Cckar⁺·Gpr65⁺·Vip⁺) 식이 단계 매핑. GLP-1RA는 vagus를 우회 → 근본 원인 미해결. 인간에서 미주신경이 obesity 치료의 underappreciated target.
 
 # de Lartigue, Brierley, Choi 2026 — Gut-brain signalling NRGH SOTA
 
@@ -61,7 +61,7 @@ journal: "Nature Reviews Gastroenterology & Hepatology (in press)"
 - AP (Glp1r·Calcr·Ramp·Gfral·Prlhr): satiation·aversion 분담.
 - NTS (Calcr·Prlh·Gcg·Cck·Th): 다중 cell type, **Prlh/Calcr 뉴런이 non-aversive satiation의 핵심**.
 - ARC AgRP 뉴런: **feedforward 억제 by sensory cue** (Berrios 2021), DMH LepR·GLP-1R, ARC LepR·BNC2 매개 (Tan 2024).
-- 본 lab의 DMH GLP-1R cognitive satiation ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025; Kim KS 2024 Science]]).
+- 본 lab의 DMH GLP-1R cognitive satiation ([[kim-2024-glp-1-increases-preingestive-satiation|Kim KS 2024 Science 원전]] · [[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025 DMJ 리뷰]]).
 
 ### Non-prandial activity
 - VAN-AgRP 장기 억제 (Oxtr⁺ subtype).
@@ -77,6 +77,8 @@ journal: "Nature Reviews Gastroenterology & Hepatology (in press)"
 | **3. Vagal dysfunction** | 신호 손상 | sensitivity ↓, terminal remodelling, gene expression 변화 | 과식, weight gain, **돌이킬 수 없는 시점 가능** | 진짜 obesity onset |
 
 → Stage 2→3 전이가 **개입의 critical inflexion point**.
+
+> ⚠️ 원문은 비가역 임계점을 **결론이 아니라 미해결 질문**으로 제시한다(Box 2: "Is there a threshold or 'point-of-no-return' beyond which these changes become irreversible?"). 3-stage framework 자체도 저자들이 "we propose"라고 밝힌 **제안형 통합 모델**이다. 인간 병행 근거는 **stage 1**(fat–sugar 조합에 대한 더 높은 bidding·보상영역 fMRI 반응)에 한정되고, **stage 2·3의 핵심 증거는 설치류 실험**(칼로리 titration과 미주 차단, 미주 민감도 저하·NTS 말단 remodelling·유전자 발현 변화)이며 원문도 "precise causal relationships remain to be fully established"라고 적는다. **3단계의 순차적 진행이 인간에서 검증된 바는 없다** — 인용할 때 'stage 3 = 비가역'으로 요약하지 말 것.
 
 ### Stage 3 세부
 - **Sensitivity ↓**: gastric stretch·hormone·nutrient에 약함.
@@ -109,3 +111,7 @@ journal: "Nature Reviews Gastroenterology & Hepatology (in press)"
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — 본 종합 공저(de Lartigue); 당 종류별 gut-brain 회선(glucose=척수 / fructose=PYY-Y2R-미주) 추가 (Neuron 2026).
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — gut-brain을 **원심성(뇌→장 SGLT1)**으로 확장한 짝 (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[lee-2019-food-craving-seeking-and]] — 본 리뷰 Box 1의 3 phase(food seeking·consumption·non-prandial)와 같은 lab 계보(교신저자 공통)의 선행 분해: craving→seeking→consumption (JOMES 2019). ⚠️ 본 리뷰 reference list에는 인용돼 있지 않음 — 개념적 계보이지 직접 인용 관계는 아니다.
+- [[kim-2024-glp-1-increases-preingestive-satiation]] — DMH GLP-1R pre-ingestive satiation의 1차 근거 (Science 2024).
+- [[knight-liberles-2025-interoception]] — 같은 영역의 평행 editorial(내수용 frontier 지도); 해당 페이지에서 본 리뷰를 참조 중이므로 역링크.
+- [[concept-weight-regain-defended-adiposity]] — 본 리뷰가 지적한 '중단 후 급속 재증가'의 경쟁 기전 대조(시냅스 증폭기·defended adiposity·microbiota reset).

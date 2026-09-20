@@ -2,7 +2,7 @@
 title: "식락학 Ch 18 — 식욕과 포만감을 조절하는 호르몬 (그렐린·렙틴·인슐린·GLP-1·CCK)"
 type: overview
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: raw/식락학 최형진 Ch 18_v3.docx
 authors: [최형진 (Choi Hyung Jin)]
 ---
@@ -28,6 +28,8 @@ authors: [최형진 (Choi Hyung Jin)]
 - 형태: 그렐린=내강 비접촉 **폐쇄형(closed-type)**; CCK/GLP-1/PYY=미세융모 노출 **개방형(open-type)** → 영양소 직접 감지. **위우회술(RYGB)** 후 해부 경로 변화로 분비 세포 자극·영양소 노출이 극적으로 바뀜(→ [[concept-glp-1]] RYGB 후 절 참조).
 
 ### 18.3 그렐린 — 식사 개시의 단기 식욕촉진 호르몬
+⚠️ **근거 수준 주의**: [[cummings-2001-preprandial-rise-in-plasma-ghrelin|Cummings 2001]]은 **식사 시각이 고정된 조건**의 관찰연구로, 저자들 스스로 식전 surge가 진짜 meal initiator인지 **예측(anticipatory) 반응**인지 구분할 수 없다고 명시했다. 또 [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert 2017]]의 생리적 기준 평가에서 **생리적 용량 ghrelin 정맥주입은 인간 식사량을 늘리지 못했다**(초생리적 용량에서만 효과) → [[concept-ghrelin]] 참조. 교재 서술에서는 meal initiation을 **가설/상관**으로 다루는 편이 안전하다.
+
 - 위 산분비샘·장에서 생산되는 순환 펩타이드. **NPY와 함께 가장 강력한 orexigenic** 물질. 혈중 농도가 식사 1–2시간 전 급상승→식전 최고치→섭취 후 급감 = **meal initiation 신호**([[cummings-2001-preprandial-rise-in-plasma-ghrelin|Cummings 2001]]).
 - 작용: 시상하부 궁상핵 **[[concept-npy-agrp-neurons|NPY/AgRP 뉴런]]** 활성, 위 배출 촉진·인슐린 분비 감소. **[[concept-dopamine-reward-system|VTA·NAcc 보상 회로]]**에도 작용해 음식 보상 가치↑(고지방·고당분 선호, 음식 cue 신경반응·지불의사↑).
 - 임상: 체중 감량 시 그렐린(식전·식후 모두)↑·PYY↓가 **62주 이상 지속** → 공복감·식탐 유지로 요요 유발. [[concept-glp-1|GLP-1]]·[[concept-leptin|렙틴]]과 길항 균형.

@@ -2,7 +2,7 @@
 title: "지질 감지와 뇌 호르몬 수용체: gut–kidney–brain 축 (Garrido 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-19
 source: "raw/Garrido et al. - 2026 - Lipid sensing and brain hormone receptors in food intake and glucose regulation.pdf"
 authors: [Ameth N. Garrido, Sulayman Aslan Lyons, Dorsa Moslemian, Jacqueline L. Beaudry, Tony K. T. Lam]
 year: 2026
@@ -42,3 +42,6 @@ year: 2026
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] · [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab DMH GLP-1R.
 - [[concept-microbiota-gut-brain-axis]] — FXR·TGR5·bile acid.
 - [[person-lam-tony]] — 교신저자. gut-brain 지질/포도당 감지.
+- [[concept-cck]] · [[concept-pyy-3-36]] — 본 리뷰가 시간 계층의 앞단(CCK ~5–10분)·뒷단(PYY) 주역으로 다루는 장호르몬 hub.
+- [[concept-enteroendocrine-cells]] — 지질 수용체(apical CD36 / basolateral GPR40·GPR120 / GPR119)를 실제로 얹고 있는 세포.
+- [[concept-vagal-afferent-neurons]] — CCK1R·GLP1R·Y2R 구심 전달로(단, **GIPR는 미주구심에 없음**).

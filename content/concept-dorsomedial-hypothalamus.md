@@ -2,7 +2,7 @@
 title: Dorsomedial hypothalamus (DMH)
 type: concept
 created: 2026-05-25
-updated: 2026-09-11
+updated: 2026-09-19
 aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ---
 
@@ -17,7 +17,7 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ## 주요 cell types
 | Marker | 기능 |
 |---|---|
-| **GLP-1R+** ★ | 사용자 lab Park 2025 DMJ — **pre-ingestive cognitive satiation** 매개 ("신호등 보고 미리 브레이크"). |
+| **GLP-1R+** ★ | **1차 근거 = [[kim-2024-glp-1-increases-preingestive-satiation\|Kim KS 2024 *Science*]]** (사용자 lab): DMH^GLP-1R → ARC NPY/AgRP **picrotoxin 감수성 GABA 억제**(CRACM, 기록 세포 8/8) + 비만 성인 **교차설계 임상시험(n=28)** 으로 **pre-ingestive satiation** 입증("신호등 보고 미리 브레이크"). 종합·리뷰는 [[park-2025-glucagon-like-peptide-1-and-hypothalamic\|Park JS 2025 DMJ]]. |
 | **Lepr+** | [[garfield-2016-dynamic-gabaergic-afferent-modulation\|Garfield 2016]] — **복측** DMH^LepR/pDYN이 ARC AgRP에 GABAergic·dynorphin 억제 입력(AgRP 100% vs POMC 9% 선택적). 음식 탐지 시 빠르게 활성·가치 부호화 → AgRP suppress. (배측 DMH^LepR=glutamatergic·EE와 구별.) |
 | **Dynorphin (Pdyn)** | DMH^PDYN — circadian anticipatory behavior (Sayar-Atasoy 2024). |
 | **Trh+** ★ | SCN→DMH^Trh→ARC AgRP — Douglass 2024 Cell Metab의 circadian feed-forward 회로. Webster 2024 RAMPANT에서 caudal ARC inhibitory subset이 Trh+/Glp1r+/Lepr+ co-express → liraglutide 효과 매개. |
@@ -37,7 +37,7 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 
 ## 핵심 기능
 - **Circadian feeding entrainment** — food-entrainable oscillator.
-- **Cognitive satiation** — visual·olfactory cue 즉시 식이 억제 (DMH GLP-1R, [[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]]).
+- **Cognitive satiation** — visual·olfactory cue 즉시 식이 억제 (DMH GLP-1R → ARC AgRP GABA 억제; 1차 [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 *Science*]], 종합 [[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]]).
 - **AgRP rhythm 매개** — Douglass 2024.
 - **BAT thermogenesis** — sympathetic output (DMH→raphe→BAT).
 - **Sex-specific thermogenic predator response** (Jovanovic 2023).
@@ -49,7 +49,7 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 
 ## 사용자 lab 함의 (★)
 - **사용자 lab 핵심 회로** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025 DMJ]]): DMH GLP-1R+ cognitive satiation.
-- Trh+/Glp1r+/Lepr+ caudal ARC subset (Webster 2024) = **DMH 신호와 동일 cluster** — liraglutide 작용 매개.
+- Trh⁺/Glp1r⁺/Lepr⁺ subset (Webster 2024 RAMPANT)은 위키의 다른 페이지들이 일관되게 **caudal ARC** 집단으로 기록한 대상이다(→ [[concept-arcuate-nucleus]], [[littleton-2025-from-identity-to-function-unveiling]]; Webster 원문 PDF는 `raw/`에 없어 2차 인용). 사용자 lab의 **DMH^GLP-1R** 집단([[kim-2024-glp-1-increases-preingestive-satiation]])과 같은 세포인지는 **미확정**. ⚠️ [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]]의 Xenium 공간 검증(Fig. 2h–m)은 Lepr/Glp1r 공발현 Bnc2⁺ 뉴런이 **ARC/VMH에서는 Trh형 74.4%·Tbx19형 ~13%·Ebf1형 0%**, **DMH에서는 Ebf1형 ~60%·Trh형 ~12%·Tbx19형 ~3%** 로 갈린다고 보고해 'caudal ARC Trh 집단 = DMH 집단'이라는 동일시를 지지하지 않는다. DMH 표적 마커로는 **Trh가 아니라 Ebf1**이 후보(단 이중양성 세포 ARC 99·DMH 109개의 소규모 검증).
 - 사용자 lab의 GLP-1 회로가 시상하부 atlas (Tadross 2025)에서 DMH heterogeneity로 정당화.
 
 ## 관련 페이지
@@ -78,3 +78,4 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **DM이 ARC POMC·AgRP 입력 중 수적으로 가장 많은 시상하부 영역**임을 전뇌 지도로 확인([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]의 AgRP 입력 DMH 26%와 정합). 단 이 영역 수준 결과는 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]의 세포 수준 선택성(vDMH^LepR이 AgRP 100% vs POMC 9%)과 **다른 층위** — 같은 핵이 둘 다에 투사한다는 사실이 같은 뉴런이 둘 다에 투사함을 뜻하지는 않는다 (Front Neuroanat 2015).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — **DMH^Vglut2→AgRP 입력의 가소성 서명이 PVH^TRH와 다르다**: 단식 시 양자 **진폭**이 오르고(후시냅스 전도도) 빈도는 불변. 그리고 단식 중 DMH^Vglut2를 침묵시켜도 재급식 식이·체중 재증가는 **영향 없음** — 같은 AgRP 뉴런으로 가는 흥분성 입력이라도 기능이 갈린다 (Cell Metab 2023).
 - [[concept-agrp-synaptic-plasticity]] — 입력별 가소성 서명 비교표가 있는 개념 hub.
+- [[kim-2024-glp-1-increases-preingestive-satiation]] — ★ **본 hub의 1차 근거**(사용자 lab, Science 2024). DMH^GLP-1R 뉴런이 섭취 전 음식 cue 단계에 활성화되고 ARC NPY/AgRP를 GABA로 억제해 preingestive satiation을 만든다; 인체 교차설계 임상시험(n=28)·광유전·광계측/microendoscopy·CRACM 통합. 리뷰([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]])가 아니라 이 논문을 1차 인용으로 쓸 것.

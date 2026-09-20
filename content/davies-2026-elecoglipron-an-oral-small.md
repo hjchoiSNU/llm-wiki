@@ -2,7 +2,7 @@
 title: "Davies 2026 — Elecoglipron, an Oral Small-Molecule GLP-1RA in Obesity/Overweight (VISTA)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-19
 source: raw/2026 Lancet Elecoglipron, an oral small molecule GLP-1 receptor agonist in adults with obesity or overweight (VISTA).pdf
 authors: [Melanie J Davies, Vanita R Aroda, Julio Rosenstock, C David Sjöström]
 year: 2026
@@ -30,7 +30,7 @@ journal: "Lancet"
 
 ## 사용자 lab 관점
 - **경구 소분자 패러다임**: orforglipron·oral semaglutide·[[rosenstock-2026-oral-small-molecule-glp|aleniglipron]]과 같은 계열 — 접근성·확장성 혁신.
-- **GLP-1 중추 작용 분해**: 소분자는 뇌 침투·수용체 약리 조작 연구 도구.
+- **GLP-1 중추 작용 분해(가설, 본 시험 근거 아님)**: ⚠️ VISTA에는 **CNS 노출·뇌 침투 데이터가 없다**. 본 논문이 제시한 소분자의 이점은 냉장·공복 제약 없는 복용 편의와 SGLT2 억제제 등 타 소분자와의 고정용량 병용 가능성뿐이다. 소분자를 수용체 약리 조작 도구로 보는 근거는 별도 문헌에서 온다 — [[wan-2023-glp-1r-signaling-and-functional]]의 LY3502970(β-arrestin 신호 없는 [[concept-biased-agonism|biased agonist]]). 오히려 같은 리뷰는 exendin-4를 vitamin B12에 corrination해 **뇌 침투를 낮춰** 구토를 분리한 설계를 제시한다. '소분자=뇌 침투'로 전제하지 말 것.
 - **DTx 결합**: 경구 약 + [[concept-digital-therapeutics|디지털 치료제]] 병용 가능성(사용자 NMPU·DTx 라인).
 
 ## 관련 페이지

@@ -2,7 +2,7 @@
 title: "AMG 133 (maridebart cafraglutide): GIPR 길항–GLP-1 작용 이중특이 분자의 체중감소 (전임상 + phase 1)"
 type: paper
 created: 2026-07-05
-updated: 2026-08-19
+updated: 2026-09-19
 source: "raw/2024 Nature Metabolism. A GIPR antagonist conjugated to GLP-1 analogues promotes weight loss with improved metabolic parameters in preclinical and phase 1 settings (2).pdf"
 authors: [Véniant MM, Lu S-C, et al.]
 year: 2024
@@ -25,6 +25,8 @@ year: 2024
 - **db/db·DIO 마우스**(surrogate): 체중·혈당·인슐린·중성지방·콜레스테롤 용량의존 감소, 초기 식이 억제.
 - **비만 시노몰거스 원숭이**: 주 1회 6주로 체중·에너지섭취·인슐린·지질 감소.
 - **뇌 침투 최소**(mAb plasma의 0.1–0.4%) → 식이 감소는 BBB 밖(AP 등) 말초 작용으로 해석.
+
+> ⚠️ **'BBB 밖' ≠ '말초'**. 같은 GIPR 길항+GLP-1 작용 전략을 마우스(surrogate 항체)에서 해부한 [[liu-2025-gipr-ab-glp-1-peptide|Liu 2025]]는 접합체가 **CVO(OVLT·SFO·정중융기·[[concept-area-postrema|AP]])에서 검출**되고, **mGIPR-Ab 단독 ICV 투여만으로도** 전신 투여와 유사하게 체중·섭식이 줄며, **중추 GIPR KO에서는 GIPR 차단의 부가효과가 소실**되고 **중추 GLP-1R KO에서는 접합체 감량이 크게 감쇠**함을 보고했다. 즉 뇌실질 침투가 최소여도 작용점은 **BBB 밖의 중추 신경조직(CVO)**일 수 있다. 본 페이지의 '말초 작용' 해석은 phase 1 단계의 항체 분포 데이터에 근거한 잠정 해석으로 읽을 것.
 
 ### Phase 1 (NCT04478708, 비만 성인)
 - SAD(21–840 mg) + MAD(140/280/420 mg Q4W×3). 안전성 허용(대부분 경증 GI 오심·구토, 8–12h 발현·~72h 지속; 저혈당 없음).

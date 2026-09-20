@@ -2,8 +2,8 @@
 title: Incretin effect
 type: concept
 created: 2026-04-29
-updated: 2026-04-29
-aliases: [incretin, GIP, glucose-dependent insulinotropic peptide]
+updated: 2026-09-19
+aliases: [incretin, incretin effect, 인크레틴 효과]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -45,6 +45,9 @@ Nauck 1986: 같은 혈당 곡선을 만드는 **경구 glucose vs 정맥 glucose
 | **GLP-1** | 정상 또는 약간 ↓ | **부분 보존** |
 
 → **결과**: T2DM에서 incretin effect 감소. **GLP-1 약물은 효과적, GIP 단독 약물은 무효**.
+
+> ⚠️ 위 "GIP 단독 무효"는 **T2DM의 β-cell·혈당 축에 한정**된 진술이다. **체중 축은 다르다** — 장기지속형 acyl-GIP 단독이 고지방식 **마우스**에서 체중·식이를 줄이며, 그 효과는 Vgat⁺ GABA 뉴런의 GIPR에 의존한다([[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]]). 또한 GIPR을 **작용**시키든 **길항**하든 GLP-1R 작용과 결합하면 둘 다 감량이 커지는 **agonism vs antagonism 역설**이 미해결로 남아 있다([[veniant-2024-a-gipr-antagonist-conjugated-to|AMG 133]] vs [[scheen-2023-dual-gip-glp-1-receptor|tirzepatide]]). 상세는 [[concept-gip]].
+
 → 이 비대칭이 GLP-1RA (semaglutide·liraglutide)가 T2DM 1차 표적이 된 이유.
 
 **4주 혈당 정상화로 양쪽 모두 회복** (Hojberg 2009) → 비대칭은 가역적, 본태성 결손이 아님 (당뇨로 인한 secondary).
@@ -99,3 +102,7 @@ GLP-1·GIP 둘 다 **혈당이 낮으면 인슐린 분비 자극 안 함** → �
 - [[scheen-2023-dual-gip-glp-1-receptor]] — 두 인크레틴 상보성의 임상 구현(tirzepatide).
 - [[tschop-2023-gut-hormone-based-pharmacology-novel]] — gut hormone 제형·경구화 진화사.
 - [[alfaris-2024-glp-1-single-dual-and]] — 단일/이중/삼중 작용제 landscape.
+- [[concept-gip]] — **GIP/GIPR 전용 hub**(중추 표적세포·agonism vs antagonism 역설). 본 페이지는 췌장 incretin 생리 축, 저쪽은 수용체·중추 작용 축.
+- [[veniant-2024-a-gipr-antagonist-conjugated-to]] · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — GIPR **길항**+GLP-1 작용(AMG 133/MariTide) 전임상·phase 1·phase 2.
+- [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] · [[liu-2025-gipr-ab-glp-1-peptide]] — 중추 GIPR 작용 세포·회로 근거(마우스).
+- [[su-2026-genetic-predictors-of-glp1-receptor]] — `GLP1R`·`GIPR` 코딩 변이가 인간 치료반응·부작용을 가르는 유전 층 (Nature 2026).

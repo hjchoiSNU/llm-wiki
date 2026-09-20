@@ -2,7 +2,7 @@
 title: "Freire-Agulleiro, Lee & Quarta 2026 — Early-life programming of hypothalamic circuits by maternal obesity"
 type: paper
 created: 2026-05-25
-updated: 2026-08-19
+updated: 2026-09-19
 source: raw/2026 Early-life programming of hypothalamic circuits by maternal obesity implications for neuroendocrine disorders.pdf
 authors: [Óscar Freire-Agulleiro, Thomas H. Lee, Carmelo Quarta]
 year: 2026
@@ -82,7 +82,7 @@ ARC melanocortin system (POMC vs AgRP/NPY + MC3R·MC4R)이 가장 sensitive. PVN
 ### 3. BBB · 신경혈관 발달
 - 모체 obese → 자손 ARC BBB 투과성 ↑, capillary fenestration ↑.
 - **Tanycyte vimentin ↓** in newborn → 형태 손상 (수가 아닌 morphology).
-- 성체 cross-fostering to lean mother가 회복 — postnatal modifiable.
+- 출생 후 lean mother에게 cross-fostering하면 median eminence 혈관 leakage·tight junction 유전자·염증 마커 결함이 되돌려짐 (ref 109, Haddad-Tóvolli 2023) — postnatal modifiable. 단 같은 연구에서 obese dam에서 출생·수유된 **성체** 자손은 ventral ARC **vimentin 밀도 증가**를 보였고 cross-fostered 자손에서는 이 효과가 없었음 — 신생아기 vimentin ↓ (ref 103, Kim DW 2016)와 방향이 다르다. 리뷰는 '모체 비만이 발달 단계에 따라 tanycyte morphology·marker 발현에 다르게 작용하며, 단순 소실이 아닌 adaptive/maladaptive remodelling일 수 있다'고 해석.
 - Cerebrovascular: vessel density ↑, contractility 손상.
 
 ### 4. Leptin signaling ★
@@ -174,3 +174,5 @@ ARC melanocortin system (POMC vs AgRP/NPY + MC3R·MC4R)이 가장 sensitive. PVN
 - [[person-quarta-carmelo]] — 저자.
 - [[concept-early-life-adversity]] — 초기역경 발달 programming 개념 hub.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — DOHaD 축의 **반대편 절반**: 자손이 아닌 **모체 자신**의 뇌가 생식 경험으로 영구 재편되며, 도파민 의존 후성유전이 매개 (Nature 2026).
+- [[concept-glia-stress-plasticity]] — 본 리뷰의 microglia 제거 보호 소견은 ELS 축의 '미세아교세포 활성화 구제'와 방향이 반대 — 맥락 의존성 대조표 참조.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 산후 ELS 후성유전 종합(NRN 2026). 본 리뷰의 산전 모체 대사 축과 대비되는 산후 스트레스 축이며, 종별 민감기 표(설치류 PND 2–20)와 bulk 프로파일링 해석 규칙을 제공.

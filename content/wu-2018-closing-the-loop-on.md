@@ -2,7 +2,7 @@
 title: "Closing the loop on impulsivity via nucleus accumbens delta-band activity in mice and man (Wu et al. 2018)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 source: "raw/2018 PNAS (Halpern) Closing the loop on impulsivity via nucleus accumbens delta-band activity in mice and man.pdf"
 authors: [Hemmings Wu, Kai J. Miller, Zack Blumenfeld, Nolan R. Williams, Brian Knutson, Robert C. Malenka, Casey H. Halpern]
 year: 2018
@@ -30,3 +30,5 @@ PNAS 115(1):192–197. 마우스 NAc에서 **delta-band 전력이 고지방 bing
 - [[concept-responsive-neurostimulation]] · [[concept-nucleus-accumbens]] · [[concept-loss-of-control-eating]] — 핵심 개념 hub.
 - [[person-halpern-casey]] — 저자 hub.
 - [[concept-dopamine-reward-system]] — NAc delta는 mesolimbic reward anticipation 신호.
+- [[wu-2022-local-accumbens-in-vivo]] — 본 연구의 후편: 자극 중 photometry로 D1-MSN ramp 차단과 rDBS>cDBS 지속성을 직접 관찰.
+- [[nho-2026-human-orbitofrontal-neural-activity-is]] — 같은 NAc closed-loop 논리를 강박(OCD)으로 확장한 인간 연구(급성 open-loop 단계).

@@ -2,7 +2,7 @@
 title: Endocannabinoid signal in the gut controls dietary fat intake
 type: paper
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-19
 source: raw/2011 PNAS Endocannabinoid signal in the gut controls dietary fat intake.pdf
 authors: [DiPatrizio NV, Astarita G, Schwartz G, Li X, Piomelli D]
 year: 2011
@@ -42,7 +42,7 @@ year: 2011
 
 ## 관련 페이지
 - [[concept-endocannabinoid-system]] — 2-AG·anandamide–CB1 축 개념 hub.
-- [[li-2022-gut-brain-circuits-for-fat-preference]] — 같은 공저자(Xiaosong Li)가 후속으로 확장한, 지방 선호의 gut-brain 회로 규명. 본 논문의 말초 endocannabinoid 축을 회로 수준으로 연결.
+- [[li-2022-gut-brain-circuits-for-fat-preference]] — 지방 선호의 gut-brain 회로(미각 비의존·GPR40/GPR120·미주) 규명. ⚠️ **저자 계보는 무관**: 본 논문의 Xiaosong Li(Albert Einstein, G. Schwartz·Piomelli 협업)와 Li 2022의 제1저자 Mengtong Li(Columbia, Zuker lab)는 **성만 같은 별개 인물**이며 두 논문에 공유 저자는 없다. 두 연구는 '구강 지방 → 장 지질 신호 → 지방 섭취/선호'라는 **주제상**의 연속선으로만 읽을 것.
 - [[concept-fat-taste]] — 구강 지방 감각(orosensory fat)이 이 양성 피드백의 출발점.
 - [[concept-vagal-afferent-neurons]] — 소장 endocannabinoid 동원이 미주신경 의존적(vagotomy로 입증).
 - [[concept-enteroendocrine-cells]] — 소장 상피에서 OEA 등 지질 신호를 만드는 세포; 본 논문은 endocannabinoid 반응이 OEA와 독립적임을 보임.

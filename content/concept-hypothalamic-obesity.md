@@ -2,7 +2,7 @@
 title: 시상하부성 비만 (Hypothalamic Obesity, HO)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-19
 aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic obesity]
 ---
 
@@ -28,6 +28,8 @@ aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic o
 - LFP 연구: 배고픔=beta/low-gamma, 포만=alpha 리듬; alpha-주파수 LHA DBS가 포만감을 늘렸으나 체중 변화 없음([[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]]).
 
 ### 회로 함의 — homeostatic vs reward 분업
+⚠️ **'잔존'의 두 의미를 구분할 것**: (1) *개입 가능한 회로가 남아 있다* — NAc DBS가 LHA DBS보다 반응이 나았다는 임상 관찰이며, 근거 수준은 [[harat-2016-nucleus-accumbens-stimulation-in|n=1 사례]]와 [[dassen-2023-could-deep-brain-stimulation|6명 체계적 고찰]]에 머문다. ≠ (2) *reward 회로가 과활성이라 비만을 추동한다*. 위키에서 (2)는 **PWS(유전성 HO)의 hyperphagia 해석**으로만 제기되고([[franco-2018-assessment-of-safety-and]]), 후천성 두개인두종 HO 인간 코호트 [[lee-2023-obesity-mechanism-after-hypothalamic]]는 오히려 음식 cue에 **좌 미상핵 활성 저하**·**craving 군간 차이 없음**을 보고하며 주동인을 **음식 주의력 저하(mindless eating)**로 지목한다. 즉 질환군(유전성 vs 후천성)에 따라 방향이 갈리므로, HO 전반에 (2)를 일반화할 근거는 현재 위키에 없다.
+
 - HO에서 **시상대(LHA/VMH) 표적 DBS는 비일관·때로 역설적 악화**, **NAc(reward) 표적은 더 유망** → 비만의 추진력이 손상된 homeostatic 회로보다 잔존 reward 회로에 있을 수 있음.
 - 이는 [[concept-need-motivation-pleasure-utility|NMPU]]의 Need(시상하부) vs Pleasure(NAc) 축 분리를 임상에서 지지.
 

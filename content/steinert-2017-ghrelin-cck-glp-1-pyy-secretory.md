@@ -2,7 +2,7 @@
 title: "Ghrelin, CCK, GLP-1, and PYY(3–36): Secretory Controls and Physiological Roles in Eating and Glycemia in Health, Obesity, and After RYGB"
 type: paper
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-19
 source: "raw/2018 Physiol Rev. Ghrelin, CCK, GLP-1, and PYY(3–36)- Secretory Controls and Physiological Roles.pdf"
 authors: [Steinert RE, Feinle-Bisset C, Asarian L, Horowitz M, Beglinger C, Geary N]
 year: 2017
@@ -83,7 +83,10 @@ Ghrelin, CCK, GLP-1, PYY(3-36)의 분비 기전과 식사·혈당 조절 기여�
   2. **Sustained phase** (30분~수시간): 원위 소장이 **반드시 자극되어야** sustained 분비 (Colombel 1988; ID infusion 50-75 cm distal 필요)
 - 자극: 모든 macronutrient (digestion 필요), bile acids → **TGR5(GPBAR1)** basolateral, fructose → SLC2A5, SCFA(colonic fermentation) → FFAR2/3.
 - 수용체: GLP-1R (pancreatic β, 위, 미주, 뇌, 심방).
-- **Eating**: physiological dose (0.3-0.9 pmol/kg/min) → 식사량 ↓ (criterion 3 충족). 그러나 **exendin(9-39) 길항 → 식사량 증가 안 함** in healthy → criterion 6 미충족. (RYGB 후에는 길항 효과 있음 — VF section.)
+- **Eating**: physiological dose (0.3-0.9 pmol/kg/min) → 식사량 ↓ (criterion 3 충족). 그러나 **exendin(9-39) 길항 → 식사량 증가 안 함** in healthy (5가지 실험 조건) → criterion 6 미충족.
+  - ⚠️ **RYGB 후에도 exendin(9-39) 단독은 식사량을 늘리지 못했다** — 수술 3–12개월 후(평균 BMI 34) 두 환자군 모두 음성 (sect. VC, p.432). 식사량이 증가한 것은 **같은 코호트의 수술 전 검사에서 한 군뿐**(당시 고도비만·T2DM, BMI 40)이며, 원저는 이 차이를 primed infusion·더 높은 유지용량, 수술 후 급증한 GLP-1 분비, 환자 특성 차이로 설명 가능하다고 본다.
+  - RYGB 후 식사량 증가가 관찰된 유일한 조건은 **exendin(9-39) + sitagliptin(PYY(3-36) 합성 억제) 병용**이다 — 식사량 **+20%**, 단독 투여는 각각 무효 → [[concept-glp-1|GLP-1]]·[[concept-pyy-3-36|PYY(3-36)]]의 **synergistic satiating action** 시사 (sect. VF, p.434).
+  - 즉 **RYGB의 식이 효과에 대한 GLP-1 단독 필요성은 인간에서 미입증**이다(원저 요약: RYGB 후 eating에서의 역할은 unclear). 명확히 입증된 쪽은 **혈당 효과** — exendin(9-39)가 RYGB 1주~5년 후 인슐린 분비를 줄이고 식후 혈당을 올렸다 (sect. VF, p.435).
 - **Incretin**: 정상에서 PD/A 모두 충족. β-cell glucose-dependent insulin 분비 자극 + 글루카곤 억제 + 위 배출 지연. T2DM에서는 GIP 반응 사라지고 GLP-1 반응만 부분 보존.
 - 동물 vs 인간 차이: rat에서 식사 후 systemic GLP-1 안 올라감 → local vagal mechanism. 인간은 systemic도 의미 있게 상승 → endocrine 가능.
 - 약리: liraglutide (Saxenda/Victoza), semaglutide, tirzepatide. 인간 비만 임상에서 부작용은 가벼운 GI 증상 위주 (rat의 visceral illness와 대조).
@@ -94,7 +97,7 @@ Ghrelin, CCK, GLP-1, PYY(3-36)의 분비 기전과 식사·혈당 조절 기여�
 - 자극: 지방 > 단백질 > 탄수화물, ≥C12 FA, BA.
 - 수용체: NPY2R (GI, vagal, 뇌).
 - **Eating의 physiological 신호 입증 어려움**:
-  - Postprandial satiety: 0.7-0.8 pmol/kg/min 필요 — 정상 식사 후 PYY peak (~25-55 pM)보다 훨씬 높은 농도 (~45-60 pM).
+  - Postprandial satiety: 0.7-0.8 pmol/kg/min 필요 → 0.8에서 plasma PYY(3-36) 8→**44 pM**, 0.7에서 peak plasma PYY **45-60 pM** (같은 연구의 3000 kcal 식사는 40 pM). 그런데 **공복 10-20 pM, 보통 크기 식사 후 peak 15-30 pM**이고 530/870/4500 kcal 식사가 각각 12/25/55 pM이다 → 효과 용량은 **극단적으로 큰 식사를 제외한 모든 식사보다 높은 농도**. ([[concept-pyy-3-36]] 농도표와 동일 기준.)
   - Intra-meal satiation: 0.4 pmol/kg/min에서 **메스꺼움 자주** (criterion 5 미충족).
   - 0.2 pmol/kg/min 효과 없음.
   - → PD criterion 미충족, 어려운 안전성 윈도우.
@@ -127,7 +130,7 @@ Ghrelin, CCK, GLP-1, PYY(3-36)의 분비 기전과 식사·혈당 조절 기여�
 1. **Criterion-based approach** 유지 — 부분 입증을 충족 입증으로 과장하지 말 것.
 2. **Local signaling** (paracrine, neuropod)을 인간에서 검증할 방법 부재 — 향후 intraintestinal infusion / lymph assay / animal-only molecular tools.
 3. **Gut connectome** (Bohórquez & Liddle 2015): enteroendocrine cell + ENS + 외재신경의 통합 신호.
-4. 학습 효과 (Figure 12): 친숙한 음식에서는 conditioned response (expected satiation, portion size estimation)가 unconditioned signal을 압도. → 새로운 음식에서만 호르몬 신호의 raw 효과가 드러남.
+4. 학습 효과 (Figure 12 — 원문이 "**a thought experiment**"로 명시한 **가상 예시**): 친숙한 음식에서는 conditioned response(expected satiation, portion-size estimation)가 unconditioned 신호를 덮을 **수 있고**, 같은 CCK 주입의 식사량 감소 효과가 신규식 40% → 친숙식 20%로 줄어들 **수 있다**는 도식. → 검증된 결과가 아니라 **가설**이나, 같은 방향의 실험 근거가 [[woods-2016-regulation-of-the-motivation|Woods & Begg 2016]](CCK-칼로리 연합을 깨면 쥐가 CCK 신호를 무시)과 [[woods-1991-the-eating-paradox-how|Woods 1991]](cephalic 반응의 조건화)에 있다.
 5. **개체간 이질성**: 비만은 단일 phenotype 아님 — 식사 패턴, 다이어트 history, gustatory capacity, 다이어트 restraint 등 각기 다른 subgroup 식별 필요.
 
 ## 관련 페이지
@@ -149,6 +152,11 @@ Ghrelin, CCK, GLP-1, PYY(3-36)의 분비 기전과 식사·혈당 조절 기여�
 ### 다른 논문
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — ghrelin 식전 surge의 원전.
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — leptin 종합 리뷰 (보완 관계).
+
+### 학습·예측 축
+- [[woods-2016-regulation-of-the-motivation]] — 같은 호르몬 목록(CCK·GLP-1·PYY·amylin)을 satiation 신호로 다루되 **satiation을 학습된 연합**으로 규정(CCK-칼로리 연합 해제 실험). 본 리뷰 Figure 12(사고실험)의 실험적 대응물.
+- [[woods-1991-the-eating-paradox-how]] — 식사 = 대사 교란이며 cephalic 예측반응이 이를 완화한다는 고전 원전; 본 리뷰의 conditioned eating control 논의의 뿌리.
+- [[concept-cephalic-phase-response]] — 식전 예측 대사반응 개념 hub.
 
 ### 종합
 - [[overview-appetite-energy-homeostasis]] — 본 리뷰가 핵심 reference인 큰 그림.
