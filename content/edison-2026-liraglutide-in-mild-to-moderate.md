@@ -2,8 +2,8 @@
 title: "Liraglutide in mild to moderate Alzheimer's disease: a phase 2b trial (ELAD)"
 type: paper
 created: 2026-07-09
-updated: 2026-09-19
-source: raw/2026 Nature Medicine. Liraglutide in mild to moderate Alzheimer's disease a phase 2b clinical trial.pdf
+updated: 2026-09-21
+source: "raw/2026 Nature Medicine. Liraglutide in mild to moderate Alzheimer’s disease a phase 2b clinical trial.pdf"
 authors: [Edison Paul, Femminella GD, Ritchie C, Holscher C, Ballard C, et al.]
 year: 2026
 journal: Nature Medicine

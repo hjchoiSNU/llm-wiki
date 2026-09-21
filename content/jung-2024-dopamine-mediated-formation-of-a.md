@@ -2,7 +2,7 @@
 title: "Jung et al. 2024 — NAc의 도파민 매개 'memory module'과 목표지향 항법"
 type: paper
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-09-21
 source: raw/2024 Nature Neuroscience. Dopamine-mediated formation of a memory module in the nucleus accumbens for goal-directed navigation.pdf
 authors: [Kanghoon Jung, Sarah Krüssel, Sooyeon Yoo, Rui M. Costa, Hyung-Bae Kwon]
 year: 2024
@@ -44,3 +44,4 @@ Jung K … Costa RM, **Kwon H-B** (Allen Institute·Johns Hopkins·Columbia), *N
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — DA 다기능 논쟁 맥락.
 - [[person-kwon-hyung-bae]] — 교신저자.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — HPC→NAc 공간 목표·식욕기억(상보 회로).
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 같은 **VTA^DA→NAc medial shell** 투사의 시냅스판. 본 페이지가 관찰만 한 'ChAT 태깅 세포의 활성 비율 최고'에 기전 후보를 공급 — DA-GLU의 최대 EPSC 표적이 [[concept-striatal-cholinergic-interneuron|ChI]] (Neurochem Int 2019).

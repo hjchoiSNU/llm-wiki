@@ -2,7 +2,7 @@
 title: "기저전뇌 콜린성 시스템 (Basal forebrain cholinergic system)"
 type: concept
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-09-21
 aliases: [basal forebrain cholinergic, BF cholinergic, substantia innominata, SI ChAT, 무명질, 기저전뇌 콜린성, acetylcholine BLA]
 ---
 
@@ -40,3 +40,4 @@ aliases: [basal forebrain cholinergic, BF cholinergic, substantia innominata, SI
 - [[concept-ventral-pallidum]] — 인접·일부 중첩하는 복측 창백 출력핵.
 - [[concept-need-motivation-pleasure-utility]] — salience/cue 처리 축.
 - [[concept-vagus-nerve-stimulation]] — 말초 cholinergic anti-inflammatory와 구분되는 중추 콜린성 시스템.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] · [[concept-striatal-cholinergic-interneuron]] — ⚠️ **구분 필요**: 본 허브는 SI/NBM의 **투사** 콜린성 뉴런(무스카린 논리)이고, 선조체·NAc의 **국소 ChI**는 VTA 글루타메이트가 구동하는 burst–pause·전시냅스 **니코틴** 논리로 작동한다. 'ACh'로 검색해 들어온 독자가 수용체 논리를 혼동하지 않도록 별도 페이지 참조.

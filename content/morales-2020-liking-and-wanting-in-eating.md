@@ -2,8 +2,8 @@
 title: "Liking과 Wanting의 분리 — 음식 보상의 뇌 기전 (Morales & Berridge 2020)"
 type: paper
 created: 2026-06-20
-updated: 2026-06-20
-source: raw/2020 (Kent Berridge) 'Liking' and 'wanting' in eating and food reward- Brain mechanisms and clinical implications.pdf
+updated: 2026-09-21
+source: "raw/2020 (Kent Berridge) ‘Liking’ and ‘wanting’ in eating and food reward- Brain mechanisms and clinical implications.pdf"
 authors: [Morales I, Berridge KC]
 year: 2020
 ---

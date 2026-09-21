@@ -2,7 +2,7 @@
 title: "중독의 회로 모델 통합 — 양성강화 × 음성강화 → dorsalization → compulsion (Lüscher & Janak 2021)"
 type: paper
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-21
 source: raw/2021 Annu. Rev. Neurosci. Consolidating the Circuit Model for Addiction.pdf
 authors: [Lüscher C, Janak PH]
 year: 2021
@@ -123,3 +123,4 @@ doi: 10.1146/annurev-neuro-092920-123905
 - [[concept-food-addiction]] — 과식을 이 회로 모델로 볼 때의 접점과 신중론.
 - [[leow-2026-a-cortical-hypothalamic-neural]] — 처벌-저항 섭취를 시상하부 회로로 분리한 섭식판 compulsion 연구.
 - [[concept-need-motivation-pleasure-utility]] — 양성·음성강화 합산의 계산적 대응.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 본 페이지의 **NAc ChI D2R–GIRK 억제**가 DA-GLU 유발 ChI **pause** 상의 기전으로 재배치된다(burst=AMPA/SK3). ChI 억제 경향 → 처벌 저항성·행동 전환 실패를 잇는 고리. 개념 [[concept-striatal-cholinergic-interneuron]].

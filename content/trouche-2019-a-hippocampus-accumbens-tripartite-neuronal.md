@@ -2,7 +2,7 @@
 title: "Trouche et al. 2019 — 해마-측좌핵 삼자 뉴런 motif가 공간 내 식욕기억을 유도"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-09-21
 source: raw/2019 Cell. A Hippocampus-Accumbens Tripartite Neuronal Motif Guides Appetitive Memory in Space.pdf
 authors: [Trouche S et al.]
 year: 2019
@@ -33,3 +33,4 @@ year: 2019
 - [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — 인간 dlHPC orexigenic 아구역(인간 대응).
 - [[azevedo-2019-a-role-of-drd2]] — 해마→중격 맥락 섭식(또 다른 해마-섭식 회로).
 - [[concept-lateral-hypothalamus]] — NAc 하류 hedonic eating 출력.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 같은 **feedforward inhibition motif의 중뇌 입력판**: VTA DA-GLU가 SPN·FSI·ChI를 함께 접촉하고 개재뉴런을 경유해 SPN을 순 억제. 본 페이지의 **PV⁺ FSI**가 Mingote가 남긴 '어느 GABA 개재뉴런이 매개하는가' 미해결 질문의 유력 후보.

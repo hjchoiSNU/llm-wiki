@@ -427,6 +427,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]]
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]]
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]]
+- [[concept-striatal-cholinergic-interneuron]] — 선조체·NAc **국소** ChI(1–3%)가 전시냅스 nAChR로 도파민 방출을 쥐고 SPN을 이연접 억제하는 **게이팅 스위치**. burst(AMPA/SK3)–pause(D2/GIRK). [[concept-basal-forebrain-cholinergic|기저전뇌 투사 콜린성]]과 **구분**
 - [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]] · [[concept-npy-nucleus-accumbens]]
 - [[concept-lateral-septum]] · [[concept-zona-incerta]]
 - [[concept-lateral-habenula]] — 혐오·보상누락의 상류 허브(**MRR→LHb→RMTg→VTA DA 억제**). 금단기 무쾌감의 시냅스 좌표(LHb→RMTg GluA1 삽입)이자 negative RPE의 비-도파민 후보
@@ -435,6 +436,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]]
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]] — eCB는 **말초 지방 섭취 + 중추 eCB-LTP 학습 규칙 + NAc 핫스폿 '좋아함'** 3축
 - [[concept-one-shot-learning]] — 단일시행 학습의 비고전적 가소성 규칙(eCB-LTP·BTSP); 짧은 1회 vs 반복 경험의 분업
+- [[concept-neurotransmitter-cotransmission]] — 한 뉴런의 **복수 전달물질 방출**(DA+Glu·DA+GABA·Glu+GABA·TH⁺무DA). 공방출 여부가 **투사 표적과 짝지어져** 교차 유전학(INTRSECT)으로 분리 조작 가능 → "도파민이 하는 일"이 실은 글루타메이트일 수 있다는 축
 - [[concept-drug-evoked-synaptic-plasticity]] — 중독의 가소성 기질 hub: CP-AMPAR 삽입(permissive metaplasticity) → VTA→NAc→DST **dorsalization**(spiraling connectivity) → OFC→DST potentiation. 핵심은 **되돌릴 수 있다는 것**(depotentiation 양방향 인과) → "광유전학에서 착안한 DBS" 3원칙
 - [[concept-glp1-neuroprotection]] — GLP-1RA 신경보호·신경퇴행(AD·PD) repurposing
 - [[concept-astrocyte-neuron-lactate-shuttle]] — 성상교세포→뉴런 젖산 셔틀·H3K9 젖산화(대사-후성유전)
@@ -530,6 +532,11 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 비만·대사 약물 임상 5건(survodutide dual·elecoglipron·aleniglipron 경구 소분자·CagriSema amylin 복합) 기전별 색인. GLP-1 단일을 넘는 다중 수용체·경구화 흐름.
 - [[overview-cea-glp1r-food-safety-alarm]] — ★ **CeA GLP-1R 뉴런 = "음식 안전 경보"** 종합(Woods 1991 + Godschall 2026 + Duran 2026): 생리적 방어(현재 섭취↓·혐오 연합학습으로 미래 섭취↓)를 GLP-1RA 약물이 hijack → 치료(food aversion·섭취↓)와 부작용(혐오정동·우울/anhedonia)이 같은 뉴런의 두 얼굴.
 
+### 기관 활동 — 서울의대 미래발전위원회 교육분과 (사용자 = 분과장)
+연구 주제가 아닌 **기관 리더십 활동**의 의사결정 근거 보존. 원본은 Google Drive(`내 드라이브/서울대학교/미래발전위원회 2026/`).
+- [[overview-snu-med-education-vision-2036]] — 10년 미래 교육 비전 **"Blueprint 2036"** 전체 지도: 거버넌스·타임라인(2026-03-25 1차 → 2026-09-04 공청회 → 2027-04-30 최종보고서)·4대 이슈·설문 근거(n=300/243).
+- [[overview-snu-med-edu-committee-minutes]] — 1~4차 회의록 종합(2026-03~07): 막연한 문제의식 → 4대 이슈 구조화 → 설문 문항으로 수렴한 과정과, 2026 4Q 워크숍 의제가 될 미해결 논점(대학 vs 병원 재원·교육전담교수 소속·Must-know 범위).
+
 ## 🔬 연구계획서 (Research Proposals)
 
 위키 근거에서 도출한 구체적 연구계획서. 파일명 `proposal-*.md`. **전체 비교: [[overview-research-proposals]]** (6과제 축·방법·실현가능성 한눈에). 상위 로드맵은 [[overview-future-research-directions]].
@@ -610,6 +617,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — Heterogeneity / cell types
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA cellular heterogeneity 종합 (NRN 2017).
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ★ 위 표의 **실험적 정밀화이자 부분 반박**. INTRSECT(TH-Flp;VGLUT2-Cre)로 **DA-GLU ~31% / DA-only ~71%** 분리: **내측 VTA(IF·CLi·PN)→NAc medial shell 전용** vs **PBP→lateral shell·core**(dorsal medial shell 회피). medial shell에서 최강 시냅스 표적은 SPN이 아니라 **[[concept-striatal-cholinergic-interneuron|ChI]]**(수 배 EPSC, CNQX 민감) → ChI 동기화 → nAChR → **SPN 순 억제** → 투사영역 탈억제. 행동은 소거·잠재억제 등 **유관성 변화 시의 전환**(*Stay on task* ↔ *Switch task*). 개념 [[concept-neurotransmitter-cotransmission]] (Neurochem Int 2019, Rayport·Chuhma). ⚠️ 핵심 캐스케이드는 저자 명시 **가설**.
 - [[lee-2024-feature-specific-prediction-error]] — DA의 feature-specific prediction error (NN 2024).
 - [[huang-2024-dopamine-mediated-interactions-between-short]] — Drosophila MB voltage-imaging, STM↔LTM gating, paradoxical extinction (Nature 2024).
 - [[grove-2022-dopamine-subsystems-track-internal]] — VTA DA의 자원별 sub-system, LH→VTA water reward (Nature 2022, Knight lab).

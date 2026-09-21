@@ -2,7 +2,7 @@
 title: "Methamphetamine potentiates the use of outcome-specific associations via a hypothalamic-dopamine circuit"
 type: paper
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-09-21
 source: raw/2026 Neuron (Sharpe) Methamphetamine potentiates the use of outcomespecific associations via a hypothalamic-dopamine circuit.pdf
 authors: [Hoang IB, Munier JJ, Verghese A, Taira M, Abiero AR, Leake J, Dawson A, Wilcher M, Ganesan K, Ortega ME, Reyes V, Greer Z, Millard SJ, DiFazio LE, Sercander C, Bagley E, Winters B, Izquierdo A, Sharpe MJ]
 year: 2026
@@ -78,3 +78,4 @@ VTA 도파민 뉴런이 LH로 보내는 **역방향 투사**가 cue–특정결�
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[lee-2024-feature-specific-prediction-error]] — 도파민 RPE 너머 논쟁에 LH 변형 추가.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue 통제력·LH 표적 DTx/electroceutical 논리.
 - [[person-choi-hyung-jin]] — LH·도파민·NMPU 연구 라인(사용자 lab) 접점.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **core 해석 불일치**: 본 페이지는 Taira 2024를 들어 NAc core 도파민이 결과 표상 없는 '일반 흥분 성분'이라 하고, Mingote는 Saddoris 2015을 들어 **Core 투사=예측오차 추적 / Shell 투사=현저·경보 사건 추적**으로 배정한다.

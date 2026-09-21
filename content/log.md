@@ -8,6 +8,51 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-21 — ingest (Mingote 2019 Neurochem Int — DA-GLU → NAc medial shell → behavioral switching)
+
+사용자가 `wiki/`에 잘못 넣은 PDF를 발견해 `raw/`로 복사 후 정리. **[[mingote-2019-dopamine-glutamate-neuron-projections-to]]** (Neurochem Int 129:104482, Rayport·Chuhma lab). 리뷰 + 일부 미발표 원자료.
+
+**핵심 내용**
+- **INTRSECT**(TH-Flp ; VGLUT2-Cre)로 **DA-GLU(Con/Fon, ~31±2.6%)** vs **DA-only(Coff/Fon, ~71±4.6%)** 분리(특이도 87–93%).
+- 지형: **DA-GLU = 내측 VTA(IF·CLi·PN) → NAc medial shell 전용**(+후각결절) / **DA-only = PBP → lateral shell·core**, dorsal medial shell **회피** → **dorsal medial shell 도파민 말단은 사실상 전부 DA-GLU 기원**.
+- 시냅스: medial shell의 **SPN·FSI·ChI 모두** 흥분시키되 **ChI가 압도적 최강**(수 배 EPSC, CNQX 민감). ChI는 **burst(AMPA)–pause(SK3 + D2/GIRK)**.
+- 캐스케이드(**저자 명시 가설**): DA-GLU 버스트 → ChI 동기화 → 전시냅스 nAChR → DA·GABA 방출↑ → GABA_A → **SPN 순 억제** → 투사영역 **탈억제**. shell은 AChE 높아 nAChR 탈감작이 덜해 **양성 되먹임** 가능(Shin 2017).
+- 행동: Shell=**현저·경보** / Core=**예측오차**(Saddoris 2015). 소거(Salinas-Hernández 2018; Luo 2018)·잠재억제(Mingote 2017) → ***Stay on task* ↔ *Switch task*** 2-모드 전환 게이트.
+
+**새 페이지 3**
+- 논문: [[mingote-2019-dopamine-glutamate-neuron-projections-to]]
+- 개념: [[concept-striatal-cholinergic-interneuron]] (선조체 국소 ChI — [[concept-basal-forebrain-cholinergic|기저전뇌 투사 콜린성]]과 구분), [[concept-neurotransmitter-cotransmission]] (공방출 4조합·INTRSECT 함정)
+
+**갱신 18** — 역방향 링크 추가: [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]](+표 아래 ⚠️ 충돌 박스) · [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] · [[jung-2024-dopamine-mediated-formation-of-a]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[concept-medium-spiny-neuron]] · [[concept-basal-forebrain-cholinergic]] · [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] · [[hjort-2026-prefrontal-to-ventral-tegmental-area]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[luscher-2021-consolidating-the-circuit-model-for]] · [[proposal-lh-nac-nmpu-neuron-discovery]] · [[guillaumin-2023-disentangling-the-role-of-nac]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[roh-2021-deep-brain-stimulation-for]] · [[hoang-2026-methamphetamine-potentiates-the-use-of]] · [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] · [[index.md|wiki/index.md]].
+
+**★ 위키 내 충돌 7건 발견 — 덮어쓰지 않고 병기** (새 페이지의 "⚠️ 위키 내 충돌·긴장" 절에 정리)
+1. **[[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] 직접 충돌 3+1**: ① NAc ChI 입력원(표=GABA-only / 본 논문=DA-GLU 최강) ② medial midline 정체·행동(표=Glu-only→PV→**aversion** / 본 논문=DA-GLU→ChI→**전환**) ③ **PBP 귀속 직접 불일치**(표="medial PBP/PN" / 본 논문 PBP=DA-only, PN=DA-GLU). ④ 단, 표 페이지 자신의 **"TH-Cre 위양성"** 경고가 INTRSECT가 겨냥한 바로 그 문제 — 두 집단이 별개 세포군일 가능성도 병기.
+2. **[[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]]**: 'local control(ChI→nAChR)은 VTA 발화 비의존' 전제 약화 — 그 ChI를 VTA DA-GLU가 구동. Mohebi의 optotagging은 medial shell을 회피하는 **외측 VTA DA-only**.
+3. **[[guillaumin-2023-disentangling-the-role-of-nac]]**: 동일 구획 SPN 부호 상반(D2 억제=bout 지속 vs 순 억제=전환).
+4. **[[stuber-2025-the-neurobiology-of-overeating]]**: O'Connor 2015(D1-MSN→LHA 자극=섭식 중단)과 *Stay on task*(SPN 활성=현행 지속)가 섭식 맥락에서 반대 예측.
+5. **[[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]**: '내측 shell=해석 불가' 프레임 vs '전환 모드의 예측된 표현형' — 프레임 긴장(방향 다름).
+6. **[[hoang-2026-methamphetamine-potentiates-the-use-of]]**: NAc core 도파민이 '내용 없는 일반 흥분'(Taira 2024) vs '예측오차 추적'(Saddoris 2015).
+7. **[[roh-2021-deep-brain-stimulation-for]]**: medial shell을 '피할 표적'으로 둔 근거가 구획 전체의 비특이적 전기 동원 결과일 가능성.
+
+**보류한 개념 페이지 5** (재료 부족·가설 의존): `concept-behavioral-switching`(전환을 직접 측정한 논문 1편 더 들어오면 생성 — 최유력 대기) · `concept-intersectional-genetic-targeting` · `concept-nac-medial-shell`(먼저 [[concept-nucleus-accumbens]] 해부 절을 medial/lateral 2열로 개정하는 편이 나음) · `concept-latent-inhibition` · `concept-extinction-learning`.
+
+## 2026-09-21 — ingest 점검 (raw/ 341건 전수 대조 — 미정리 논문 0건)
+
+"ingest" 트리거. `raw/` 341개 파일을 위키 296개 고유 `source:` 값과 전수 대조(따옴표·대시 정규화, ` 1`/`(1)` 사본 접미사 무시, 토큰 Jaccard 유사도 보조).
+
+**결과**: **논문 PDF는 전부 이미 위키에 반영.** 잔여 21건은 전부 비-ingest 대상 — 중복 사본(md5 동일 또는 PDF trailer 74 B만 상이) · Halpern supplement 2건 · 식락학 교재 docx(9장·12장·Ch 18 v1/v2·목차) · README · [[ochan-2026-dopamine-drives-persistent-remodelling-of]] 메타데이터 스텁(해당 PDF·페이지 모두 존재).
+- 확인된 오해 소지 2건: `2025 PNAS Reward prediction…`은 **실제 PNAS 2026**(123(27):e2520677123, 2026-06-29) — 파일명 연도가 오기이고 [[dong-2026-reward-prediction-is-encoded-by]]의 `year: 2026`이 맞음. `2021 Deep brain stimulation for obesity or binge-eating behavior.pdf`는 [[roh-2021-deep-brain-stimulation-for]](JKSFN 2021;17(1):14–23)의 다른 렌디션.
+- Drive `llm-wiki-inbox/` 확인: digest 보고서·메타데이터 스텁만 있고 **대기 중 OA PDF 없음**(최신 2026-08-12).
+
+**위키 건강 스캔**(468 페이지): 빈 페이지 0 · frontmatter 누락 0 · takeaway callout 누락 0.
+
+**lint 3건 — 사용자 승인 후 전부 수정 완료**
+- `source:` 경로가 raw/ 실제 파일명과 **따옴표 문자만** 달라 파일을 못 가리키던 페이지 4 → 곡선 따옴표(’ “ ”)로 교정: [[edison-2026-liraglutide-in-mild-to-moderate]] · [[guo-2023-a-novel-non-invasive-brain]] · [[morales-2020-liking-and-wanting-in-eating]] · [[warlow-2021-incentive-motivation-wanting-roles]]. (2026-09-15부터 대기하던 항목)
+- `wiki/index.md` 미등재 2 → 🌐 종합/리뷰 아래 **"기관 활동 — 서울의대 미래발전위원회 교육분과"** 소절 신설해 등재: [[overview-snu-med-education-vision-2036]] · [[overview-snu-med-edu-committee-minutes]].
+- `wiki/`에 방치돼 있던 PDF 2개(사용자가 raw/ 대신 wiki/에 투입한 본 ingest 원본과 그 사본) → raw/ 사본 보존 확인 후 삭제. wiki/는 다시 `.md` 전용.
+
+**수정 후 전수 재검**: 471 페이지 — 깨진 `source:` 0 · callout 누락 0 · index 미등재 0 · wiki/ 비-md 파일 0.
+
 ## 2026-09-15 — query (논문제출자격시험 연구계획서 검토: NHP wanting/liking 동시 측정 + 간헐 접근)
 
 사용자 제안서(영문) 초안의 과학 용어·논리 약점 검토. 위키 대조: [[concept-liking-wanting]] (Wyvell & Berridge 2000·Peciña 2003은 해리 **긍정** 증거 → 제안서의 인용 맥락 오류), [[robinson-2025-incentive-sensitization-30-years]] (주의 포획=salience; IST는 liking 감소 불요), [[derman-2018-junk-food-enhances-conditioned-food-cup]] (junk-food가 cue approach↑·PR breakpoint↓ → PR을 wanting 수렴 증거로 묶는 예측에 경고), [[kringelbach-2015-the-pleasure-of-food]] (phase 매핑의 적정 출처), [[concept-hedonic-devaluation]] (AL군 liking↓ 경쟁 예측). Kosheleff 2018·Cartoni 2016·Pool 2016·Havermans 2011·MaqFACS 계열은 위키에 없음(원문 검증 불가, 텍스트 내부 정합성만 검토). 위키 페이지 변경 없음.

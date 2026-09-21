@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-09-19
+updated: 2026-09-21
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -249,3 +249,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **맥락 게이팅이 Motivation 크기와 분리 가능**함을 보인 드문 인과 증거: DLS^Pdyn 억제는 총 섭취량을 바꾸지 않고 **보상 맥락 귀속만** 무너뜨렸다 (Neuron 2026). → [[concept-lateral-septum]]
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — **Motivation 축의 지속(engagement)**을 eCB가 매개; 총 섭취량(Need)과 해리된다는 점에서 두 축 분리의 실험적 사례 (Nature 2026).
 - [[davila-2026-agrp-neurons-are-required-for]] — Need 축(AgRP)이 **섭취량과 분리되어 체중 결과를 좌우**한 사례: AgRP 기능 결손 암컷에서 GLP-1RA의 칼로리 섭취 억제는 유지되나 전신 지방 이용 전환과 체중 감량이 약화됨 (PNAS 2026).
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ***Stay on task* ↔ *Switch task***를 Motivation 축의 행동 화폐 후보로 제시. NAc medial shell을 Pleasure 축으로만 배정하면 **같은 구획의 유연성·전환 기능**을 담을 자리가 없다는 점에 주의.

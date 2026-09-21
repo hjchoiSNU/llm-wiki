@@ -2,7 +2,7 @@
 title: "The neurobiology of overeating (Stuber, Schwitzgebel & Lüscher 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-09-02
+updated: 2026-09-21
 source: "raw/2025 Neuron. Luscher. The neurobiology of overeating (1).pdf"
 authors: [Garret D. Stuber, Valerie M. Schwitzgebel, Christian Lüscher]
 year: 2025
@@ -116,3 +116,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 과식의 강박 성분을 회로로 분리(mPFC→rZI^GABA, 처벌-저항 HFD 추구); 일반 식욕(TN^SST)과 해리.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 리뷰가 인용한 최신 두 연구 중 하나. 위키에 원문 페이지로 수록됨 (Nature 2025).
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **본 리뷰가 과식에 적용하는 중독 회로 모델의 원본**(Annu Rev Neurosci 2021, Lüscher 공저). 양성강화+음성강화→dorsalization→[[concept-compulsion|compulsion]] 서열과 처벌-저항 조작화를 여기서 가져온다.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **부호 상반**: 본 페이지가 확정 사실로 기재한 O'Connor & Lüscher 2015(NAc D1R-MSN→LHA 자극=섭식 중단, 억제=섭식 개시)과 달리, Mingote 도식은 **SPN 활성 = Stay on task(현행 행동 지속)**. 진행 중 과제가 섭식이면 medial shell SPN 활성의 결과를 반대로 예측 — 아구역(LH 투사 shell SPN vs dorsal medial shell) 차이로 해소될 여지.

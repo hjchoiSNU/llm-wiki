@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-09-19
+updated: 2026-09-21
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -75,3 +75,4 @@ updated: 2026-09-19
 - [[luscher-2021-consolidating-the-circuit-model-for]] — NAc가 **양성강화(D1R-MSN)와 음성강화(D2R-MSN)의 수렴 허브**이며, 여기서 시작된 가소성이 spiraling connectivity를 타고 등쪽 선조체로 확장(dorsalization)돼 [[concept-compulsion|강박]]에 이른다. mPFC→NAc D1R-MSN depotentiation이 cue 추구를 소거 (Annu Rev Neurosci 2021).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — NAc D2R-Penk MSN이 2-AG를 만들어 aPVT 입력을 역행성으로 깎는 gain control (Nature 2026).
 - [[concept-paraventricular-thalamus]] — NAc로 가는 최대 흥분성 입력원이자 CB1R 최다 공발현 구심.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 'VTA 도파민 입력'을 두 채널로 분해: **DA-GLU→medial shell 전용 / DA-only→lateral shell·core**(dorsal medial shell 회피). medial shell 국소회로(SPN·FSI·ChI)의 첫 기능 연결지도이며, 이후 '**NAc shell** 도파민'이라 쓸 때 medial/lateral 한정어가 필요해짐 (Neurochem Int 2019).

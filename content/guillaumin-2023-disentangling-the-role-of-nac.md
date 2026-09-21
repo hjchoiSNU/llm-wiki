@@ -2,7 +2,7 @@
 title: "NAc D1·D2 세포의 쾌락적 섭식 역할 분리"
 type: paper
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-21
 source: raw/2023 Molecular Psychiatry. Disentangling the role of NAc D1 and D2 cells in hedonic eating.pdf
 authors: [Guillaumin MCC, Viskaitis P, Bracey E, Burdakov D, Peleg-Raibstein D]
 year: 2023
@@ -37,3 +37,4 @@ year: 2023
 - [[person-choi-hyung-jin]] — 집필자 연구 맥락(NMPU 프레임)
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — NAc D1/D2 MSN subtype의 인간 분자·공간 정체.
 - [[concept-medium-spiny-neuron]] — D1/D2 MSN 개념 hub.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **동일 구획 SPN 부호의 상반 해석**: 본 페이지는 D2 세포 억제가 깊을수록 섭취 bout가 길어진다(머무름)고 보고하고, Mingote는 순 SPN 억제를 **과제 전환 신호**로 읽는다. 세포계열(D1/D2)·시간척도(수초 bout vs 버스트 유발 sub-second) 단서 없이는 양립 불가.

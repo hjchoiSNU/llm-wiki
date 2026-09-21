@@ -2,7 +2,7 @@
 title: "Prefrontal to ventral tegmental area dynamics drive contingency degradation (Hjort et al. 2026, Nature)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-21
 source: "raw/2026 Nature (Stuber) Prefrontal to ventral tegmental area dynamics drive contingency degradation.pdf"
 authors: [Hjort MM, "...", Stuber GD]
 year: 2026
@@ -57,3 +57,4 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA GABA/DA 세포 이질성; 본 논문 VTA 기록 해석 근거.
 - [[concept-need-motivation-pleasure-utility]] — Utility(지연 결과 → 알고리즘 reshape) 차원에 mRPE/CD 대응.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC top-down 통제의 병렬 사례: mPFC→VTA(본 논문) vs mPFC→rZI(강박 섭식), rZI 투사 mPFC는 PAG/VTA와 부분 독립 채널.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — **유관성 변화 신호의 하류 출력 팔**. 본 페이지=mPFC→VTA 탐지기(meta-RPE), Mingote=VTA DA-GLU→NAc medial shell 전환 게이트 — 한 루프의 양끝으로 읽을 수 있음.

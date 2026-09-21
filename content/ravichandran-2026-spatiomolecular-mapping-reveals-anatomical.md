@@ -2,7 +2,7 @@
 title: "Ravichandran et al. 2026 — Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens"
 type: paper
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-21
 source: raw/2026 Neuron. Spatiomolecular mapping reveals anatomical  organization of heterogeneous cell types in the  human nucleus accumbens.pdf
 authors: [Ravichandran P, Bach SV, Phillips RA III, et al. (Martinowich K, Hicks SC, Maynard KR)]
 year: 2026
@@ -68,3 +68,4 @@ year: 2026
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1/D2 MSN의 기능 해리; 본 논문은 그 subtype의 인간 분자·공간 정체성 제공.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — NAc 도파민·중독 취약성; 본 논문은 약물반응 MSN subtype을 공간 매핑.
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc D1/D2-MSN 회로 기능; 본 논문은 그 세포타입의 인간 heterogeneity를 규명.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] · [[concept-striatal-cholinergic-interneuron]] — 본 페이지의 **CHAT⁺ Inh_D** 클러스터가 마우스에서 VTA DA-GLU의 최강 시냅스 표적으로 밝혀진 세포군. 인간 NAc에서 medial/lateral shell 구획 대응을 따질 때의 좌표.

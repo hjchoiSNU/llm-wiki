@@ -2,8 +2,8 @@
 title: "Guo et al. 2023 — 시간간섭 전기자극(TI) 종합 리뷰"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
-source: raw/2023 Front. Neurosci. A novel non-invasive brain stimulation technique "Temporally interfering electrical stimulation".pdf
+updated: 2026-09-21
+source: "raw/2023 Front. Neurosci. A novel non-invasive brain stimulation technique “Temporally interfering electrical stimulation”.pdf"
 authors: [Wanting Guo, Yi He, Wenquan Zhang, Yiwen Sun, Jinsheng Wang, Shuang Liu, Dong Ming]
 year: 2023
 ---

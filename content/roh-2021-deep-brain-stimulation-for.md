@@ -2,7 +2,7 @@
 title: "Deep brain stimulation for obesity or binge-eating behavior: an overview (Roh 2021)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-21
 source: "raw/2021 Journal of the Korean Society of Stereotactic and Functional Neurosurgery. Deep brain stimulation for obesity or binge-eating behavior- an overview.pdf"
 authors: [Roh H, Kim JH]
 year: 2021
@@ -33,3 +33,4 @@ year: 2021
 - [[wu-2020-brain-responsive-neurostimulation-for-loss]] · [[whiting-2013-lateral-hypothalamic-area-deep]] · [[harat-2016-nucleus-accumbens-stimulation-in]] · [[mantione-2010-smoking-cessation-and-weight]] — 인용 1차 연구.
 - [[dupre-2015-deep-brain-stimulation-for]] · [[formolo-2019-deep-brain-stimulation-for]] — 인접 리뷰.
 - [[concept-loss-of-control-eating]] — 폭식 표적.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 표적 선정 단서: 본 페이지는 '동물 medial NAc shell 자극=공포/회피 부작용'이라며 내측 shell을 피할 아구역으로 두지만, Mingote는 같은 구획에 **적응적 기능(DA-GLU 매개 전환·소거 촉진)** 을 배정한다. 혐오 표현형이 경로의 생리적 기능이 아니라 **구획 전체(DA-only 지배 이웃·통과섬유)의 비특이적 전기 동원** 결과일 가능성.

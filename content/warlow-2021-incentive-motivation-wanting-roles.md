@@ -2,8 +2,8 @@
 title: "CeA 회로의 'wanting' 역할 (incentive motivation)"
 type: paper
 created: 2026-06-20
-updated: 2026-06-20
-source: raw/2021 (Berridge) Incentive motivation- 'wanting' roles of central amygdala circuitry.pdf
+updated: 2026-09-21
+source: "raw/2021 (Berridge) Incentive motivation- ‘wanting’ roles of central amygdala circuitry.pdf"
 authors: [Warlow SM, Berridge KC]
 year: 2021
 ---

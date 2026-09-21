@@ -2,7 +2,7 @@
 title: "‘좋아함(liking)’과 ‘갈망(wanting)’ — 보상의 이중 해리"
 type: concept
 created: 2026-06-20
-updated: 2026-09-19
+updated: 2026-09-21
 aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, 쾌락적 충격]
 ---
 
@@ -74,3 +74,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[concept-anhedonia]] — anhedonia = anticipatory wanting 결손이라는 재정의 hub.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **반대 방향의 축**: 만성 HFD가 lateral NAc→VTA neurotensin 신호를 낮춰 고칼로리 음식의 **hedonic value 자체를 떨어뜨린다**(무노력 섭취·선호 감소). wanting↑ 프레임과의 긴장점 (Nature 2025).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — eCB가 핫스폿에서 'liking'을, aPVT–NAc에서 'wanting/engagement'를 매개하는 **이중 역할**의 증거 (Nature 2026).
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — Wyvell & Berridge 2000이 **NAc shell 도파민 = 사건의 현저성** 해석의 근거로 인용되는 지점. 단 본 논문의 shell 도파민은 hedonic 가치가 아니라 **유관성 변화·경보 신호**로 읽힌다.

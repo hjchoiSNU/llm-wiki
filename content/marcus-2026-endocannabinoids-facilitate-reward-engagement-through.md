@@ -2,7 +2,7 @@
 title: Endocannabinoids facilitate reward engagement through retrograde gain control (Marcus 2026)
 type: paper
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-21
 source: raw/2026 Nature. Endocannabinoids facilitate reward engagement through retrograde gain control.pdf
 authors: [David J. Marcus, Anthony E. English, Gunn Chun, Emmaline F. Seth, Rachel Oommen, Sabrina Hwang, Bailey A. Wells, Sean C. Piantadosi, Azra Suko, Sayaka J. Kenmochi, Anupritaa A. Parasnis, Ethan Ancell, Yulong Li, Larry S. Zweifel, Benjamin B. Land, Nephi Stella, Michael R. Bruchas]
 year: 2026
@@ -81,3 +81,4 @@ doi: 10.1038/s41586-026-10967-w
 - [[concept-appetitive-consummatory-phases]] — appetitive(seeking) phase의 **지속** 기전으로 직접 대응.
 - [[concept-dopamine-reward-system]] — wanting의 기존 주 통화(도파민)와 나란한 **제2 통화**로서의 eCB.
 - [[concept-liking-wanting]] — eCB는 NAc 핫스폿에서 'liking'을, 여기서는 'wanting/engagement'를 매개 — 같은 분자의 이중 역할.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 같은 NAc medial shell에서 **관여 유지 vs 이탈**의 짝: 본 페이지는 eCB 역행성 gain control로 흥분 입력을 깎아 관여를 **유지**하고, Mingote는 DA-GLU 버스트로 **이탈(전환)** 을 개시한다.
