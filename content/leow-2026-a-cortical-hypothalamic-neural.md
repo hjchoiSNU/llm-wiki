@@ -2,7 +2,7 @@
 title: "강박적 섭식의 피질-시상하부 회로 mPFC→rZI (Leow 2026)"
 type: paper
 created: 2026-07-31
-updated: 2026-09-19
+updated: 2026-09-22
 source: "raw/2026 Neuron. A cortical-hypothalamic neural circuit for compulsive eating in mice.pdf"
 authors: [Yi Ning Leow, Esra Senol, Xing Qian, Xiaoyu Wang, Aditya Nair, Ti-fei Yuan, Juan Helen Zhou, Hasan Mohammad, Yu Fu]
 year: 2026
@@ -75,3 +75,4 @@ rostral zona incerta의 GABA성 뉴런(rZI^GABA)과 이를 구동하는 mPFC→r
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 스트레스가 goal→habit으로 전환; 지속 attractor·강박 자동성과 연결.
 - [[concept-computational-ethology]] — 본 논문의 DeepLabCut 종단 행동 추적이 속한 도구 계열 hub; binge 세션의 미세행동 분해에 label-free 대안 여지.
 - [[concept-compulsion]] · [[luscher-2021-consolidating-the-circuit-model-for]] — 본 연구의 **처벌-저항 섭취**가 중독 연구의 compulsion 조작적 정의를 섭식에 이식한 사례. 양봉분포·표본 요건 등 설계 논리는 저쪽 hub 참조.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — "기본 보상(배고픔) 목표는 포기가 쉬워야 정상"이라는 예측 → 처벌 저항 HFD 추구가 비정상인 이유의 계산적 근거.

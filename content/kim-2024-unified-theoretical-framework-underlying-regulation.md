@@ -2,7 +2,7 @@
 title: "A unified theoretical framework underlying the regulation of motivated behavior"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-09-22
 source: "raw/2024 BioEssays. A unified theoretical framework underlying the regulation of motivated behavior.pdf"
 authors: [Kim YB, Lee YH, Park SJ, Choi HJ]
 year: 2024
@@ -95,3 +95,4 @@ journal: "BioEssays e2400016"
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — framework 임상 응용.
 - [[liu-2026-granular-motivational-interaction-and]] — 자매 framework: NMPU(동기 구성요소)와 직교 보완하는 동기의 시간적 sub-state(seeking→satiation) 분해 (Neuron 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility→Motivation 변환의 알고리즘 후보(추상 가치→구체 목표→기본 보상 신호 비계).

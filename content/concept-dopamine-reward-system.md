@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-09-22
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -193,3 +193,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[cunningham-2026-early-life-experiences-the-neural]] — 초기역경이 중변연계(VTA·NAc·PFC)를 재편하는 후성유전 경로 종합. NAc **Drd2⁺ MSN 특이 H3K79me2·DOT1L/KDM2B**가 취약성을 양방향으로 좌우(Dot1l 넉다운·약리 억제가 취약성을 되돌리고, 과발현이 재현). PFC→VTA 투사 과흥분성이 노출 직후 나타나 중변연계 취약성을 prime (NRN 2026, Maze lab).
 - [[person-maze-ian]] — 도파민의 **후성유전 작용 축**(개월 시간척도)을 연 그룹.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 도파민 채널을 source·target이 아닌 **전달물질 정체**로 가르는 축. VGLUT2⁺ DA 뉴런의 빠른 시냅스 신호는 **CNQX-민감 글루타메이트**이고 표적은 NAc medial shell 한정 → '도파민이 무엇을 부호화하는가' 논쟁에 **일하는 물질이 도파민이 아닐 수 있다**는 항을 추가. 개념 [[concept-neurotransmitter-cotransmission]].
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 도파민 바깥의 동기 원천: 선택된 목표 자체가 만드는 **내재 보상(bonus)**·주의 필터·감시-임계값 알고리즘(인간 행동·계산 리뷰, 회로 자료 거의 없음).

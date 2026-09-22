@@ -2,7 +2,7 @@
 title: 강박 (Compulsion) — 처벌 저항과 양봉분포
 type: concept
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-22
 aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishment, punishment-resistant, perseverer, renouncer, oDASS]
 ---
 
@@ -69,3 +69,4 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[concept-medium-spiny-neuron]] — D1/D2-SPN 양쪽에서 일어나는 OFC→DST 강화.
 - [[concept-deep-brain-stimulation]] — 강박 회로를 되돌리려는 depotentiation 기반 자극 프로토콜.
 - [[person-luscher-christian]] — oDASS·compulsion 패러다임 정립자.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — **처벌 저항의 계산적 분해**: over-persistence가 (a) 대안·처벌 정보 둔감(주의 필터 과잉) (b) 현재 목표 평가절하 둔감(감시 실패) (c) 목표 비계형 내재 보상 중 어느 것인지 나눠야 강박 정의가 좁아짐; "고집"을 적응적 계산으로 재프레임한 원전.

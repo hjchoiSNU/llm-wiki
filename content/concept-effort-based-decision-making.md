@@ -2,7 +2,7 @@
 title: 노력 기반 의사결정 (Effort-based decision-making)
 type: concept
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-09-22
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -38,3 +38,4 @@ updated: 2026-08-05
 - [[concept-anhedonia]] — anhedonia/apathy와 effort 편향 저하.
 - [[concept-metabolic-interoception]] — 대사→동기(effort) shift의 상위 프레임.
 - [[concept-glp-1]] — GLP-1이 effort 동기를 바꾸는지(반례) 검증 대상.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — **apathy = 이탈 실패(over-persistence)로도 나타남**: 특성 apathy가 행동 서열에 과도 지속, apathy↔충동성 상관. effort 과제에 switch/abandon 조건을 넣어 동기 결손과 감시 결손을 분리할 필요.

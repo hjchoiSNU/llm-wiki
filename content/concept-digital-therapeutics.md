@@ -2,7 +2,7 @@
 title: Digital therapeutics (DTx)
 type: concept
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-09-22
 aliases: [DTx, digital therapeutics, 디지털 치료제]
 ---
 
@@ -62,3 +62,4 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[concept-glp1ra-response-variability]] — 약물 반응 이질성의 4층 분해; 미설명 분산 ~75%가 행동 표현형·DTx 층화의 기회 공간.
 - [[concept-peripheral-epigenetic-biomarker]] — 비침습 **반응 예측 바이오마커** 후보로 자주 거론되는 말초 메틸화 표지의 유효 범위와 한계. 현재 DTx 반응 예측을 주도하는 baseline 심리지표에 추가하려면 넘어야 할 조건을 정리.
 - [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 후 비만(HO) 코호트(사용자 lab, n=29): 음식 주의력 저하·포만 저하·억제섭식↑이라는 **또 하나의 DTx 표적 표현형**(약물·수술 저항군).
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 목표 몰입의 세 적응 기능(자원 절약·간섭 차단·동기 비계)을 DTx 설계 원리로: 판단력 높은 시점에 목표 확정, 진행률(momentum) 가시화, 대안 노출 최소화.

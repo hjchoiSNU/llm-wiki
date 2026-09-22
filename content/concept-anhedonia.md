@@ -2,7 +2,7 @@
 title: "Anhedonia (무쾌감증)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-02
+updated: 2026-09-22
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -29,3 +29,4 @@ updated: 2026-09-02
 - [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — apathy/anhedonia = effort acceptance bias↓의 계산표지; T2D도 평행하게 blunt.
 - [[fleming-2026-metabolism-and-the-mind]] — 보상학습 이상과 우울·anhedonia의 대사적 연결(계산정신의학).
 - [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-lateral-habenula]] — **금단기 무쾌감의 두 시냅스 좌표**: ① [[concept-ventral-pallidum|VP]]로 가는 D2R-MSN 투사의 presynaptic depression, ② LHb→RMTg 시냅스의 GluA1 삽입(막 전달 차단 시 우울 유사 행동 차단, Meye 2015). anhedonia를 자기보고가 아니라 **되돌릴 수 있는 시냅스 상태**로 다루는 사례 (Annu Rev Neurosci 2021).
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal disengagement는 일반 인구에서 웰빙↑이지만 **우울 위험군에서는 disengagement가 우울 증상↑와 연관**(과잉 이탈 역설); apathy의 over-persistence형과 함께 동기 결손의 두 반대 failure mode.

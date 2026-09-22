@@ -2,7 +2,7 @@
 title: "Hunger neurons track available food locations during foraging and spatial memory recall (Gruzdeva 2026)"
 type: paper
 created: 2026-08-15
-updated: 2026-09-02
+updated: 2026-09-22
 source: "raw/2026 bioRxiv. Hunger neurons track available food locations during foraging and spatial memory recall.pdf"
 authors: [Anna Gruzdeva, Jamien Shea, Daniel Shi, Antonio Fernandez-Ruiz, Azahara Oliva, Nilay Yapici]
 year: 2026
@@ -86,3 +86,4 @@ year: 2026
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ 본 논문이 제안한 **해마→LS→LH→DMH→AgRP** 가설의 **첫 구간을 실증**: 복측 해마(vCA1·vCA3·ProS)→LS가 실재하며 **cue-outcome 정보**를 나른다(photometry+광억제). ⚠️ 단 이 논문이 매핑한 시상하부 축은 **LHA→LS(상행)** 로 방향이 반대여서, 가설이 성립하려면 **LS↔LH 상호 회로**를 전제해야 한다. 방향성 검증이 후속 실험 1순위 (Nature 2026). → [[concept-lateral-septum]]
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★★ 본 논문의 **해마→LS→LH** 구간이 실증됨: 배측 해마 CA3/2→**DLS^Pdyn**→**LHA GABA(Vgat) 단시냅스 억제**(ex vivo IPSC). 어느 지점을 끊어도 **맥락 조건화 섭식만** 무너지고 총 섭취량은 보존. 남은 미검증 구간은 **LH→DMH→AgRP** (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS→LH 하행의 두 번째 채널(LS^Nts, 능동 도피 스트레스 시 섭식 억제). LS→LH는 단일 경로가 아니다 (eLife 2020).
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — foraging patch-leaving(MVT)형 "현재 옵션 가치 vs 환경 평균" 감시 알고리즘이 인간 목표 포기의 원형; AgRP 거리 ramp가 그 신호의 회로 후보(연결 가설).

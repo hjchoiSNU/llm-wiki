@@ -2,7 +2,7 @@
 title: "Hijacked Brain in Modern Obesity: Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals"
 type: paper
 created: 2026-04-30
-updated: 2026-09-19
+updated: 2026-09-22
 source: "raw/2025 JOMES Hijacked Brain in Modern Obesity Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals.pdf"
 authors: [Lee T, Park S, Lee S, Hwangbo A, Bae H, Lee Y, Choi HJ]
 year: 2025
@@ -123,3 +123,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제의 유전 층 근거 (Nature 2026).
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 5-type 분류가 다루지 않는 축: 만성 HFD가 고칼로리 음식의 **쾌락 가치 자체를 낮추는** 회로 기전(NAcLat→VTA neurotensin). habit·restraint형이 쾌락 보고와 어긋나는 이유의 후보 설명 (Nature 2025).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 5 표현형을 교재 §24.6.1의 개인화 치료 축으로 사용(식락학 Ch 24).
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Restraint 표현형의 **상류 기제**: 사전 목표 선점이 주의 필터·가치 증폭으로 유혹을 애초에 덜 처리하게 함(간섭 차단); DTx 설계에 목표 확정 시점·진행률(momentum) 가시화 근거.

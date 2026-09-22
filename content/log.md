@@ -8,6 +8,32 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-22 — ingest (Holton·Niv·O'Reilly 2026 Trends Cogn Sci — 고집스러운 목표의 적응 가치)
+
+"ingest" 트리거. `raw/` 전수 대조(파일 343건 vs 위키 `source:` 고유값 298) 결과 **미정리 논문 PDF 0건**. 대신 사용자가 `wiki/`에 넣은 `The adaptive value of stubborn goals.pdf`(2026-09-22 10:17 투입)를 발견 → 09-21 선례대로 `raw/`에 같은 이름으로 복사(md5 `a8014c34…` 일치 확인) 후 wiki/ 사본 삭제. wiki/는 다시 `.md` 전용.
+
+**[[holton-2026-the-adaptive-value-of-stubborn]]** (Trends Cogn Sci 30(4):379–390, doi:10.1016/j.tics.2025.10.003; Princeton Niv lab × Oxford O'Reilly lab; OA 리뷰, 인간 행동·계산모델 중심, 설치류 회로 자료 거의 없음).
+
+**핵심 내용**
+- 목표 고집(perseveration·sunk cost)을 결함이 아닌 **세 적응 기능의 부산물**로 재정의: ① 자원 합리성(목표 무관 정보 필터·task construal·표상 전환비용·"선택은 휴리스틱/실행은 집중 계획"·사회적 조정 비용) ② 간섭 차단(hyperbolic discounting 선호 역전 완충, rational non-reconsideration, 목표 프라이밍이 유혹 단어 처리를 늦춤 — Fishbach 2003) ③ 동기 비계(선택 목표가 스스로 보상 신호 생성 — 놀이·Sidgwick의 축구; 추상·원거리 가치→구체 목표→기본 보상 신호). 앞 둘은 filter, 셋째는 bonus.
+- **투자 없이도 몰입 발생**(Chu & Schulz 2022, 성인·아동) → sunk cost 설명 불충분. Holton 2024 NHB: vmPFC 선택적 주의; 포기는 대안 가치 상승보다 **현재 목표 평가절하**로 유도(frustration>temptation), 몰입 개인차 ↔ 대안 지각 정보 보고 실패.
+- 알고리즘: **Rubicon**(goal setting→implementation 분리; 포기 설명 못 함) · **HRL option**(단 인간은 목표 선택=model-free/습관적, 실행=model-based — Cushman & Morris 2015 PNAS) · **현재 목표 vs 임계값 감시**(대안 전부 재평가 대신 장기 평균·기대 진행률과 비교; foraging patch-leaving/MVT·Kolling 2012·momentum=진행×진행률(Aenugu & O'Doherty 2025)·이탈 전용 구조 ACC/Ahmadlou 2025 subcortical switchboard) · 조정 예측(대안 多·유혹 환경·추상 가치 목표일수록 몰입↑; 배고픔형 목표는 몰입 표지 약해야) · autotelic RL(재사용 가능 목표 선호, Davidson 2025).
+- 정신건강: ADHD(필터↓)·특성 불안(위협 억제 실패, Sharp 2022)·**apathy = over-persistence(제때 이탈 못 함)**·apathy↔충동성 상관(같은 개인에 over/under-persistence 공존)·goal disengagement=일반인 웰빙↑이나 **우울 위험군에선 우울↑와 연관**(과잉 이탈 역설).
+
+**새 페이지 2**
+- 논문: [[holton-2026-the-adaptive-value-of-stubborn]]
+- 개념: [[concept-goal-commitment]] — 목표 몰입·포기 hub(정의·측정·세 기능·알고리즘·failure mode·섭식/강박/DTx/NMPU 이식). foraging MVT·momentum도 이 페이지가 수용(별도 concept 생성 안 함 — 원문 비중 작음).
+
+**갱신 20** — 역방향 링크(+`updated:` 갱신): [[weinreb-2026-spontaneous-behavior-is-a]] · [[concept-need-motivation-pleasure-utility]] · [[concept-compulsion]] · [[hjort-2026-prefrontal-to-ventral-tegmental-area]] · [[concept-effort-based-decision-making]] · [[concept-anhedonia]] · [[odoherty-2016-multiple-systems-for-the-motivational]] · [[concept-orbitofrontal-cortex]] · [[berridge-2023-separating-desire-from-prediction-of]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-inhibitory-control-demand]] · [[giovanniello-2025-a-dual-pathway-architecture-for]] · [[concept-dopamine-reward-system]] · [[gruzdeva-2026-hunger-neurons-track-available-food]] · [[concept-digital-therapeutics]] · [[kim-2020-multidimensional-cognitive-behavioral-therapy]] · [[pascoli-2026-conditioned-accumbal-dopamine-transients]] · [[leow-2026-a-cortical-hypothalamic-neural]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[index.md|wiki/index.md]] (🎯 "Multiple decision systems" + 🧩 인지&행동 + 💡 보상·정서 조절에 등재; 총 페이지 473·갱신일).
+
+**연결 가설(원문 주장 아님 — 페이지에 명시 구분)**: ① 강박 판정의 계산적 분해(주의 필터 과잉 / 감시 고장 / 비계형 내재 보상) — [[concept-compulsion]]·[[pascoli-2026-conditioned-accumbal-dopamine-transients]] ② restraint 표현형·DTx의 **상류 기제**(사전 목표 선점) — [[lee-2025-hijacked-brain-modern-obesity-cue]]·[[concept-inhibitory-control-demand]] ③ NMPU Utility→Motivation 변환의 비계 알고리즘 ④ apathy의 이탈 실패형 → [[concept-effort-based-decision-making|effort 과제]]에 switch/abandon 조건 제안 ⑤ MVT형 감시 신호의 회로 후보(AgRP 거리 ramp·mPFC→VTA meta-RPE).
+
+**위키 내 긴장(병기, 덮어쓰지 않음)**: [[berridge-2023-separating-desire-from-prediction-of]](목표 bonus vs incentive salience — 같은 층인지 미해결) · [[odoherty-2016-multiple-systems-for-the-motivational]](goal/habit이 시스템이 아닌 단계 배분일 수 있음).
+
+**person 페이지 검토**: Niv Y·O'Reilly JX — 위키 내 원전 1편뿐(기존 5곳 언급은 참고문헌 문자열) → 보류.
+
+**미반영 잔여분(ingest 대상 아님, 09-21 판정과 동일)**: 중복 사본(` 1.pdf`/`(1)`/`(2)`) · Halpern supplement 2건 · `.mp4` · README · 식락학 교재 docx · ochan 메타데이터 스텁 · 프로젝트 루트의 사용자 저작 docx 11건(24장 목차/본문/그림·그랜드퀘스트·삶의의지 제안서 4종·Ch 20 완성본/보강) — 논문이 아니므로 제외, 별도 지시 시 처리.
+
 ## 2026-09-21 — ingest (Mingote 2019 Neurochem Int — DA-GLU → NAc medial shell → behavioral switching)
 
 사용자가 `wiki/`에 잘못 넣은 PDF를 발견해 `raw/`로 복사 후 정리. **[[mingote-2019-dopamine-glutamate-neuron-projections-to]]** (Neurochem Int 129:104482, Rayport·Chuhma lab). 리뷰 + 일부 미발표 원자료.

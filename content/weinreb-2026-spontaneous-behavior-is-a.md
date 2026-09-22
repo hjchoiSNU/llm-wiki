@@ -2,7 +2,7 @@
 title: Spontaneous behavior is a succession of self-directed tasks (Weinreb 2026)
 type: paper
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-09-22
 source: raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks.pdf
 authors: [Caleb Weinreb, Lakshanyaa Thamarai Kannan, Alia Newman-Boulle, Tim Sainburg, Winthrop F. Gillis, Alex Plotnikoff, Sofia Makowska, Jonah E. Pearl, Mohammed Abdal Monium Osman, Scott W. Linderman, Sandeep Robert Datta]
 year: 2026
@@ -80,3 +80,4 @@ year: 2026
 - [[liu-2025-castle-a-training-free-foundation-model]] — CASTLE: keypoint 없이 시각 파운데이션 모델 잠재특징으로 행동 클래스를 위계 군집. 위계적 분해라는 목표는 공유하되 입력(깊이 pose vs 시각 latent)과 층위(syllable 규모 vs 수 초 state)가 다름.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — foraging 궤적을 toward/away run으로 분해해 AgRP 신호와 정렬; 자유행동을 상태·세그먼트로 나눠 회로에 매핑하는 같은 계열.
 - [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub; shMoSeq의 계보상 위치.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — self-directed task 상태(수 초~분)의 연속 = 인간 "목표 안정성"의 행동학적 대응; dmPFC 상태 부호화가 Rubicon형 "선택 후 실행 단계"에 해당하는지 검증 대상 (Trends Cogn Sci 2026).

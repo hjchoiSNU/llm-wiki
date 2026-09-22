@@ -2,7 +2,7 @@
 title: "O'Doherty 2016 — Multiple Systems for the Motivational Control of Behavior (book chapter)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-22
 source: raw/2016 Book Behavioral Neuroscience of Motivation.pdf
 authors: [John P. O'Doherty]
 year: 2016
@@ -59,3 +59,4 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·addiction형 과식 임상 분류.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 보강(PIT·다중계·effort)에 인용.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal/habit이 시스템이 아니라 **단계**로 배분될 수 있음: 목표 **선택은 model-free(습관적)**, **실행은 model-based**(Cushman & Morris 2015); Rubicon·HRL option 틀로 목표 안정성 설명 (Trends Cogn Sci 2026).

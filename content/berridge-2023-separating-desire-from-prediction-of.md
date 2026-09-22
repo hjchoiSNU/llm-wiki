@@ -2,7 +2,7 @@
 title: "Berridge 2023 — Separating desire from prediction of outcome value"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-22
 source: raw/2023 Separating desire from prediction of outcome value.pdf
 authors: [Kent C. Berridge]
 year: 2023
@@ -67,3 +67,4 @@ journal: Trends in Cognitive Sciences
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(‘갈망’ 절 근거).
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — state-driven vs event-driven reward(예측·상태 framing 호환).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — "선택된 목표에 붙는 bonus"도 결과가치 예측이 아닌 동기 신호라는 점에서 desire≠prediction과 같은 방향; 다만 원천을 incentive salience가 아니라 목표 표상의 알고리즘적 결과로 둠 — 같은 층인지 별개 기제인지 미해결.
