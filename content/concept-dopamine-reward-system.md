@@ -51,7 +51,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - **Greenstreet 2025 Nature**: action prediction → 반복 행동·중독 설명 가능.
 
 ### ANCCR 모델 (**Namboodiri**, UCSF)
-- **Jeong 2022 Science**: RPE 역방향 — 보상이 도파민 burst 일으켜 거꾸로 cue 검색.
+- **[[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022 Science]]** (원전 ingest, 개념 [[concept-anccr-retrospective-causal-learning]]): RPE 역방향 — 보상이 도파민 burst 일으켜 거꾸로 cue 검색.
 - 흡연 cue로 인한 relapse를 RPE보다 잘 설명.
 - 논쟁 진행 중 (Seville Dopamine Society Session 31, 2026 May).
 

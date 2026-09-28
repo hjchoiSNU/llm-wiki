@@ -2,7 +2,7 @@
 title: "What does dopamine actually do?"
 type: paper
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-09-28
 source: "raw/2026 Nature. Dopamine takes a hit- how neuroscience is rethinking the ‘feel-good’ chemical.pdf"
 authors: [Adam D]
 year: 2026
@@ -38,7 +38,7 @@ journal: "Nature 651:572–574 (Feature)"
 
 ## 도전 #3: ANCCR (Namboodiri, UCSF)
 
-- **Jeong 2022 Science**: RPE의 역방향 모델 — 보상이 도파민 burst 일으켜 **거꾸로 cue 검색** (memory search).
+- **[[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022 Science]]** (원전 ingest — 11개 판별 검증): RPE의 역방향 모델 — 보상이 도파민 burst 일으켜 **거꾸로 cue 검색** (memory search).
 - 임상 함의: 흡연 중단 후 다른 사람 흡연 cue로 relapse — RPE는 negative prediction error로 약화 예측, 실제는 강한 association 유지. ANCCR은 "보상 → cue back-search"로 설명.
 - "I haven't spoken to anyone who understands that model" (Humphries) — 논쟁 중.
 

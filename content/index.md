@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 474 (+ index.md, log.md)
+- 총 페이지: 476 (+ index.md, log.md)
 - 마지막 갱신: 2026-09-28
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -653,6 +653,10 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 ### 진영 — Belief-state / hidden-state inference
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — belief-state RPE 종합 (NN 2024).
 - [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] — DA-independent hidden-state inference, outcome-time stim 무영향 (NN 2024).
+
+### 진영 — Retrospective causal inference (ANCCR)
+- [[concept-anccr-retrospective-causal-learning]] — ANCCR 개념 hub: 보상에서 **뒤를 보는** 인과 학습 vs RPE의 전향적 예측. 비교표·근거·반론(Qian 2025, 위키 밖)·meta-RPE 대안·섭식 함의.
+- ★ [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] — **ANCCR 원전**: NAc core 도파민 방출(dLight1.3b)이 **11개 판별 검증 모두에서 TDRL RPE가 아니라 ANCCR과 일치** — 첫 설탕 반응이 경험 따라 **증가**, 직전 IRI와 **양의** 상관, 도파민 cue 반응이 행동 학습보다 **선행**, **소거 후 잔존**, 역전파 없음, 광억제에도 학습 (Science 2022, Namboodiri lab, 제1저자 정희정).
 
 ### 진영 — Cognitive flexibility / meta-learning
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — mPFC↔VTA DA가 contingency degradation을 meta-RPE(RPE의 rolling-gain)로 구동 (Nature 2026, Stuber lab).

@@ -8,6 +8,27 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-28 — ingest (Jeong 2022 Science — ANCCR 원전) + 도파민 이론 요약표 영문화
+
+사용자 지정 ingest. 원문은 Google Drive raw 폴더의 `2022 Science (정희정)_표시 Mesolimbic dopamine release conveys causal associations.pdf`에서 읽음(클라우드 세션에서 로컬 `raw/` 접근 불가 → Drive 경유). 본문·그림 설명·참고문헌 전체 확인.
+
+**[[jeong-2022-mesolimbic-dopamine-release-conveys-causal]]** (Science, doi:10.1126/science.abq6740; Namboodiri lab, UCSF).
+
+**핵심 내용**
+- 후향적 인과 학습 알고리즘 **ANCCR**(eligibility trace → 후향 연합 − 기저율 → 베이즈 변환 → 순 유관성 인과 지도). 고전 RPE 결과(blocking·unblocking·overexpectation·조건 억제 등)를 시뮬레이션으로 재현, 시간척도 불변.
+- NAc core 도파민(dLight1.3b, head-fixed 생쥐, 15% 설탕)으로 **11개 판별 검증 전부 ANCCR 쪽**: 첫 설탕 반응 경험 따라 증가(n=8)·IRI 양의 상관·도파민 cue 학습이 행동보다 선행(n=7)·지연 연장 시 불변·옛 지연 dip 없음·소거 후 잔존·배경 보상 시 소거보다 빠른 감소·시행 없는 과제 양성·역전파 없음·순차 조건화 동시 상승·cue2→보상 광억제에도 cue1 학습.
+- 한계(원문): TDRL 상태공간 무한 유연 → 반증 불가, NAcc만 측정, 후향 정보 출처는 OFC→VTA 추정.
+
+**새 페이지 2**: [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr-retrospective-causal-learning]] (ANCCR이 10여 페이지에 언급되나 hub 부재 → 신설).
+
+**갱신 10**: [[overview-dopamine-function-theories]](§0 요약표 **전면 영문화**·ANCCR 행 원전 인용, §1·§2.2·§5 판별표 2행 추가·§6 공백 갱신) · [[concept-dopamine-reward-system]] · [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[hjort-2026-prefrontal-to-ventral-tegmental-area]] · [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[lee-2024-feature-specific-prediction-error]] · [[index.md|wiki/index.md]](🎯 새 진영 "Retrospective causal inference (ANCCR)"; 총 476).
+
+**비판적 읽기(위키 해석, 페이지에 구분 표기)**: ① Test 1의 경험 의존 증가는 **섭취 후 1차 보상 학습**(Tan 2020·[[weber-2025-interoceptive-origin-reinforcement-learning]]·[[yang-2026-a-sync-state-in-the]])으로도 설명 가능 — 무영양 감미료 반복 실험이 판별 ② Test 3·6·11의 도파민–행동 분리는 [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]]와 같은 방향 ③ 소거 후 잔존 = cue 재발 기제 후보.
+
+**위키 내 긴장(병기)**: [[hjort-2026-prefrontal-to-ventral-tegmental-area]](같은 contingency 영역을 meta-RPE로; 피질→VTA 구조 공통·계산 해석 상반) · [[hamid-2016-mesolimbic-dopamine-signals-value-work]](전향적 V vs 후향적 인과, 같은 NAc core) · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]](반증 불가 비판의 표적). Gershman 페이지의 "Qian 2024"와 비교 페이지의 "Qian 2025"는 같은 연구(bioRxiv 2024 → Nat Neurosci 2025)로 표기 통일.
+
+**person 페이지 검토**: Namboodiri VMK — 위키 원전 1편(+Hjort 감사의 글) → 보류.
+
 ## 2026-09-28 — query (도파민 이론 4열 요약표 추가)
 
 사용자가 제시한 표 형식(이론 · 핵심 가정 · 주요 지지 근거 · 주요 도전/반대 근거)에 맞춰 [[overview-dopamine-function-theories]]에 **§0 핵심 요약표** 추가. 사용자 예시의 4개 이론(RPE/TD · 유인 현저성 · 지각된 현저성 · ANCCR)에 위키 진영 7개(벡터 RPE · 노력 · 가치 방송 · 행위 예측 · sub-system · 내수용 보상 · meta-learning)를 더해 11행. §2.2에 ANCCR 반대 증거(Qian 2025, 위키 밖) 병기, §6 공백 목록 갱신.

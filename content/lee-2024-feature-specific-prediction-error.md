@@ -2,7 +2,7 @@
 title: "A feature-specific prediction error model explains dopaminergic heterogeneity"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-09-28
 source: "raw/2024 Nature Neuroscience. A feature-specific prediction error model explains dopaminergic heterogeneity.pdf"
 authors: [Lee RS, Sagiv Y, Engelhard B, Witten IB, Daw ND]
 year: 2024
@@ -80,7 +80,7 @@ DMS 투사 SNc DA 는 reward 반응 약하고 action 반응 강함 (Parker 2016)
 | **Distributional RL (Dabney 2020)** | **부분 부정** — VTA 데이터의 lateralization 설명 못 함. but 다른 striatal subregion 에서 작동 가능성 인정. |
 | **Hamid 2016, Mohebi 2019 (Berke lab)** | 다른 차원 — Berke 는 timescale, Lee 는 unit-by-unit. 호환 가능. |
 | **Salamone effort** | 직접 비교 안 함 — feature-specific 안에 effort feature 포함 가능. |
-| **ANCCR (Namboodiri)** | **framework 밖** — forward TD 가정. |
+| **ANCCR (Namboodiri; [[jeong-2022-mesolimbic-dopamine-release-conveys-causal\|Jeong 2022 원전]])** | **framework 밖** — forward TD 가정. |
 | **Morales 2017 heterogeneity** | **anatomical 입증** — cortical-striatal-DA topography 가 feature-specific 의 회로 기반. |
 
 ## 본 wiki 적용

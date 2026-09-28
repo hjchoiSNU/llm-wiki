@@ -2,7 +2,7 @@
 title: "Dissociable dopamine dynamics for learning and motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-09-28
 source: "raw/2019 Nature. Dissociable dopamine dynamics for learning and motivation.pdf"
 authors: [Mohebi A, Pettibone JR, Hamid AA, Wong JT, Vinson LT, Patriarchi T, Tian L, Kennedy RT, Berke JD]
 year: 2019
@@ -71,7 +71,7 @@ journal: "Nature 570:65–70"
 | **Niv–Daw–Dayan tonic DA** | **부분 수정** — reward rate ↔ DA release 맞지만, "tonic firing" 에서 안 옴 (firing 변화 없음). 신호는 phasic 이지만 국소 발생. |
 | **Hamid 2016 unified value (Berke lab 자체)** | **자기 수정** — unified는 release 에서만 성립. Firing은 RPE 만. 두 channel 분리 인정. |
 | **Morales 2017 VTA heterogeneity** | **강력 정합** — 부위별 DA 분포 차이. NAc core ≠ NAc shell ≠ dorsal striatum. |
-| **ANCCR (Namboodiri)** | **호환 가능** — 보상 후 backward causal search 도 NAc 국소 메커니즘으로 자연스러움. |
+| **ANCCR (Namboodiri; [[jeong-2022-mesolimbic-dopamine-release-conveys-causal\|Jeong 2022 원전]])** | **호환 가능** — 보상 후 backward causal search 도 NAc 국소 메커니즘으로 자연스러움. |
 | **Calipari modulator (Adam 2026)** | **이론적 토대** — DA 가 단일 함수 아닌 multi-channel modulator. |
 
 ## 이론적 함의

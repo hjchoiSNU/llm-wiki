@@ -2,7 +2,7 @@
 title: "Dopamine-independent effect of rewards on choices through hidden-state inference"
 type: paper
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-09-28
 source: "raw/2024 Nature Neuroscience. Dopamine-independent effect of rewards on choices through hidden-state inference (1).pdf"
 authors: [Blanco-Pozo M, Akam T, Walton ME]
 year: 2024
@@ -105,7 +105,7 @@ VTA cell body GCaMP, NAc·DMS axon GCaMP, NAc·DMS dLight (DA release).
 | **Wang 2018 PFC meta-RL** | **개념적 친척** — PFC recurrent 가 빠른 적응. 단 본 논문은 cortex/BG 를 학습 종류로 분리 (unsupervised vs RL). |
 | **[[lee-2024-feature-specific-prediction-error|Lee 2024 feature-specific RPE]]** | 호환 — VTA DA 가 inferred value 의 feature 별 분해 가능, but 본 논문 task 는 단일 hidden state. |
 | **[[morales-2017-ventral-tegmental-area-cellular-heterogeneity|Morales 2017 heterogeneity]]** | 호환 — 영역별 DA dissociation 재현. |
-| **ANCCR (Namboodiri)** | **간접 호환** — backward causal inference 도 cortical state inference 의 한 형태. ANCCR 은 학습 메커니즘, 본 논문은 그 학습이 DA-독립일 수 있음을 보임. |
+| **ANCCR (Namboodiri; [[jeong-2022-mesolimbic-dopamine-release-conveys-causal\|Jeong 2022 원전]])** | **간접 호환** — backward causal inference 도 cortical state inference 의 한 형태. ANCCR 은 학습 메커니즘, 본 논문은 그 학습이 DA-독립일 수 있음을 보임. |
 | **Pharmacological DA studies (Grogan, Eisenegger)** | 일관 — DA 약리 manipulation 이 학습에 약한 효과 보고. |
 
 ## 이론적 함의

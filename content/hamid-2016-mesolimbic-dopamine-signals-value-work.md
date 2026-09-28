@@ -2,7 +2,7 @@
 title: "Mesolimbic dopamine signals the value of work"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-09-28
 source: "raw/2016 Nature Neuroscience. Mesolimbic dopamine signals the value of work.pdf"
 authors: [Hamid AA, Pettibone JR, Mabrouk OS, Hetrick VL, Schmidt R, Vander Weele CM, Kennedy RT, Aragona BJ, Berke JD]
 year: 2016
@@ -93,7 +93,7 @@ NAc DA는 **temporally discounted future reward (state value V)** 라는 단일 
 1. **DA neuron firing ≠ release**: 본 연구는 NAc release 측정. VTA neuron firing은 ramping이 안 보일 수 있음 (cholinergic interneuron, local control 등 영향).
 2. **Pavlovian vs instrumental**: Schultz 가 본 ramping 부재는 task가 Pavlovian이라 "value of work" 가 낮았을 수 있음. 본 task는 instrumental.
 3. **VTA heterogeneity 미고려**: aggregate signal — Engelhard 2019, Lammel 2011, Greenstreet 2025 등 subpopulation별 다른 변수 인코딩과의 reconciliation 필요.
-4. **ANCCR 도전**: Jeong 2022 (Namboodiri)는 forward 학습 자체를 부정 — 본 논문과 직접 충돌. RPE 모델이 forward인 한 ANCCR과 양립 불가.
+4. **ANCCR 도전**: [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022 원전]] (Namboodiri; 같은 NAc core에서 ramp도 ANCCR로 설명된다고 주장 — 시뮬레이션)는 forward 학습 자체를 부정 — 본 논문과 직접 충돌. RPE 모델이 forward인 한 ANCCR과 양립 불가.
 5. **Cost는 미고려**: V 는 "보상 가용성"만, effort cost는 별개 (Gan 2010 dissociable cost/benefit).
 
 ## Gershman 2014의 RPE 옹호와의 관계

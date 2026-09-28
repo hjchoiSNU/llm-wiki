@@ -2,7 +2,7 @@
 title: "Prefrontal to ventral tegmental area dynamics drive contingency degradation (Hjort et al. 2026, Nature)"
 type: paper
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-09-28
 source: "raw/2026 Nature (Stuber) Prefrontal to ventral tegmental area dynamics drive contingency degradation.pdf"
 authors: [Hjort MM, "...", Stuber GD]
 year: 2026
@@ -57,5 +57,6 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA GABA/DA 세포 이질성; 본 논문 VTA 기록 해석 근거.
 - [[concept-need-motivation-pleasure-utility]] — Utility(지연 결과 → 알고리즘 reshape) 차원에 mRPE/CD 대응.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC top-down 통제의 병렬 사례: mPFC→VTA(본 논문) vs mPFC→rZI(강박 섭식), rZI 투사 mPFC는 PAG/VTA와 부분 독립 채널.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022 원전]] · [[concept-anccr-retrospective-causal-learning]] — 같은 contingency 영역의 **후향적 인과(ANCCR)** 해석. Jeong Test 7(배경 보상 삽입)=CD와 동형; 후향 정보 출처로 OFC→VTA를 제시(본 논문 mPFC→VTA와 병렬). 피질→VTA 구조는 공통, 계산 해석(meta-RPE vs ANCCR)은 상반.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — **유관성 변화 신호의 하류 출력 팔**. 본 페이지=mPFC→VTA 탐지기(meta-RPE), Mingote=VTA DA-GLU→NAc medial shell 전환 게이트 — 한 루프의 양끝으로 읽을 수 있음.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — contingency degradation = "현재 목표의 평가절하" 학습. 인간 목표 포기는 대안 가치 상승보다 현재 목표 평가절하로 유도되며(frustration>temptation), 감시-임계값 알고리즘이 meta-RPE의 rolling-gain과 형식적으로 유사.
