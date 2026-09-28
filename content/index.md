@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 473 (+ index.md, log.md)
-- 마지막 갱신: 2026-09-22
+- 총 페이지: 474 (+ index.md, log.md)
+- 마지막 갱신: 2026-09-28
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -533,6 +533,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[overview-behavioral-neuroscience-of-motivation-2016]] — 동기 신경과학 편저서(Springer, Simpson & Balsam 2016) 색인 hub. cost-benefit arbiter→direction&vigor·다중 의사결정계 arbitration=NMPU와 동형. 추출 3장: Woods(섭식 동기)·O'Doherty(인간 통제계)·Redish(가치 계산).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 2026 차세대 비만·대사 약물 임상 5건(survodutide dual·elecoglipron·aleniglipron 경구 소분자·CagriSema amylin 복합) 기전별 색인. GLP-1 단일을 넘는 다중 수용체·경구화 흐름.
 - [[overview-cea-glp1r-food-safety-alarm]] — ★ **CeA GLP-1R 뉴런 = "음식 안전 경보"** 종합(Woods 1991 + Godschall 2026 + Duran 2026): 생리적 방어(현재 섭취↓·혐오 연합학습으로 미래 섭취↓)를 GLP-1RA 약물이 hijack → 치료(food aversion·섭취↓)와 부작용(혐오정동·우울/anhedonia)이 같은 뉴런의 두 얼굴.
+- [[overview-dopamine-function-theories]] — 도파민 기능 주요 이론(9 진영) 비교 hub: 이론별 부호화 변수·시간척도·근거·반례, NMPU 대응, 섭식·비만 예측, 판별 실험.
 
 ### 기관 활동 — 서울의대 미래발전위원회 교육분과 (사용자 = 분과장)
 연구 주제가 아닌 **기관 리더십 활동**의 의사결정 근거 보존. 원본은 Google Drive(`내 드라이브/서울대학교/미래발전위원회 2026/`).
@@ -571,6 +572,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 종합·메타
+- ★ [[overview-dopamine-function-theories]] — **도파민 기능 9개 진영 비교표**(RPE·벡터 RPE·유인 현저성·노력·가치 방송·ANCCR·현저성/행위예측·sub-system 이질성·내수용 1차 보상·meta-learning/가소성). 학습 vs 동기·전향 vs 후향·‘갈망’ 환원 가능성 3대 쟁점, NMPU 대응, 섭식 예측, 판별 실험표.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 논쟁 Nature Feature (2026).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 전사·행동을 인과 매개. 보상 신호 프레임 밖의 도파민 (Nature 2026, Maze lab). _(DOHaD는 🍽️ 발달 절에도)_
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa).

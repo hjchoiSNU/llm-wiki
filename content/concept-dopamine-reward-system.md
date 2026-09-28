@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-09-22
+updated: 2026-09-28
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -35,6 +35,8 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - Missing reward → downward dip
 
 이후 **TDRL** (Temporal Difference RL)로 확장 — 시간 격차 학습.
+
+> 이론 진영 전체 비교(RPE·유인 현저성·노력·가치 방송·ANCCR 등 9개): [[overview-dopamine-function-theories]]
 
 ## 도전 ([[adam-2026-dopamine-takes-hit-how-neuroscience|Adam 2026 Nature Feature]])
 

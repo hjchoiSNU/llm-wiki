@@ -8,6 +8,16 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-28 — query (도파민 기능 주요 이론 비교)
+
+사용자 질의 "Comparison of Major Dopamine Function Theories"에 대한 synthesis. 새 원자료 ingest 없음 — 위키 내 🎯 진영별 페이지를 비교표로 통합.
+
+**새 페이지 1**: [[overview-dopamine-function-theories]] — 9개 진영(RPE/TDRL · 일반화·벡터 RPE · 유인 현저성 · 노력/활성 · 가치 방송 · ANCCR · 현저성/행위예측 · 자원별 sub-system 이질성 · 내수용 1차 보상 · meta-learning/가소성/후성)을 부호화 변수·시간척도·근거·반례로 비교. 비교 축(학습 vs 동기, 전향 vs 후향, ‘갈망’ 환원 가능성, 쾌락, 단일 vs 다중 채널), NMPU 대응표, 섭식·비만 예측표, 판별 실험표, 종합 판단.
+
+**갱신 2**: [[concept-dopamine-reward-system]](비교 페이지 링크) · [[index.md|wiki/index.md]](🎯 종합·메타 + 🌐 종합/리뷰 등재; 총 페이지 474·갱신일).
+
+**공백 기록**: ANCCR 1차 문헌(Jeong 2022 Science)·Redgrave 현저성 원문·Menegas 2018 꼬리 선조체 원문 미수록 → 5·6번 진영 비교는 [[adam-2026-dopamine-takes-hit-how-neuroscience]] 2차 보도에 의존.
+
 ## 2026-09-22 — ingest (Holton·Niv·O'Reilly 2026 Trends Cogn Sci — 고집스러운 목표의 적응 가치)
 
 "ingest" 트리거. `raw/` 전수 대조(파일 343건 vs 위키 `source:` 고유값 298) 결과 **미정리 논문 PDF 0건**. 대신 사용자가 `wiki/`에 넣은 `The adaptive value of stubborn goals.pdf`(2026-09-22 10:17 투입)를 발견 → 09-21 선례대로 `raw/`에 같은 이름으로 복사(md5 `a8014c34…` 일치 확인) 후 wiki/ 사본 삭제. wiki/는 다시 `.md` 전용.
