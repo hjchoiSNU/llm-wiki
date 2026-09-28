@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-09-28 — query (도파민 이론 4열 요약표 추가)
+
+사용자가 제시한 표 형식(이론 · 핵심 가정 · 주요 지지 근거 · 주요 도전/반대 근거)에 맞춰 [[overview-dopamine-function-theories]]에 **§0 핵심 요약표** 추가. 사용자 예시의 4개 이론(RPE/TD · 유인 현저성 · 지각된 현저성 · ANCCR)에 위키 진영 7개(벡터 RPE · 노력 · 가치 방송 · 행위 예측 · sub-system · 내수용 보상 · meta-learning)를 더해 11행. §2.2에 ANCCR 반대 증거(Qian 2025, 위키 밖) 병기, §6 공백 목록 갱신.
+
 ## 2026-09-28 — query (도파민 기능 주요 이론 비교)
 
 사용자 질의 "Comparison of Major Dopamine Function Theories"에 대한 synthesis. 새 원자료 ingest 없음 — 위키 내 🎯 진영별 페이지를 비교표로 통합.
