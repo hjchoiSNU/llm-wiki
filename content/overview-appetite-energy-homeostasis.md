@@ -68,6 +68,7 @@ updated: 2026-10-03
 - **Appetitive vs consummatory** ([[concept-appetitive-consummatory-phases]]) — 별도 ensemble.
 - LH GABAergic → VTA disinhibition → NAc DA → **pleasure-induced eating**.
 - LH-VTA glutamatergic 강화 → **stress-induced eating**.
+- **섭취 밖의 출력**: LH^Vgat·LH^LepR 화학유전 활성은 체온↑·체중↓를 내고(LH^Vgat는 수평 운동이 **줄어도** 체온↑), LH^Vgat의 "chow 섭취↑"는 상당 부분 갉기 spillage다 — [[de-vrind-2019-effects-of-gaba-and]] (Obesity 2019). LH는 섭식 driver이자 **에너지 소비 축**이기도 하다.
 
 ### 인간 입증 현황 (Steinert 2017 Table 5)
 

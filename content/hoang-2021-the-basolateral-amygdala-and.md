@@ -150,3 +150,5 @@ BLA와 LH는 둘 다 음식(조건에 따라 통증) **근접 예측자**의 학
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-cue-reactivity]] — 원위(환경) 음식 cue vs 근접 cue 학습 아형 가설.
 - [[concept-dopamine-reward-system]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — 원문 [57–60]: 도파민의 model-based·generalized PE 맥락.
 - [[concept-orbitofrontal-cortex]] — 원문 [23](Schoenbaum 1999 OFC·BLA 역전 부호화)과 감각–감각 학습 분업.
+- [[sharpe-2021-past-experience-shapes-the]] — 본 리뷰가 [10••]로 요약한 **Sharpe 2021 Nat Neurosci 원전 페이지**(이제 위키에 있음). ⚠️ 리뷰의 요약은 sensory preconditioning·second-order conditioning **두 결과에 한정**되고, 원전의 나머지 절반 — **naive vs 보상 경험 rat의 공포 학습 모집(실험 1–3)**과 **latent inhibition 소실(실험 6)** — 은 다루지 않는다. 또 리뷰는 BLA를 "원위 cue를 이미 유의할 때만(SOC) 학습"으로 두는데, 원전은 **SOC에서도 LH 억제가 학습을 촉진**했다 → 두 영역이 같은 절차에서 **반대 부호**를 갖는다는 점이 리뷰 본문에서 충분히 강조되지 않는다(병기).
+

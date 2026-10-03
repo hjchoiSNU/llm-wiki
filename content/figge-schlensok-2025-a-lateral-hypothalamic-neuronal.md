@@ -129,3 +129,5 @@ LH의 leptin 수용체 발현 뉴런(LH^LepR)은 불안을 일으키는 자극�
 - [[concept-temporal-interference-stimulation]] · [[concept-transcranial-electrical-stimulation]] — PFC 하향 조절 가설의 비침습 수단.
 - [[person-choi-hyung-jin]] — 사용자 lab hub.
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — LH GABAergic을 marker 없이 전체로 조작·영상한 원전(Cell 2015, Stuber lab, 같은 GRIN microendoscope 플랫폼). ⚠️ **불안 축의 비대칭**: 그쪽 LH^Vgat taCasp3 ablation은 섭취·체중·PR 동기를 깎으면서도 **개방장 운동·불안 표현형은 정상**이었다. 본 논문의 LH^LepR는 반대로 불안 상쇄가 핵심이고 비-anxiogenic 맥락에서는 광유전 활성이 섭식에 무효다 → "Vgat 전체 = 섭식/보상 축, LepR subset = 불안 gate 축"으로 층위를 나눠 병기할 후보(연결 가설). 또 그쪽 Fig 3이 MCH·Orx와 **0% 중첩**을 보고한 것은 본 논문 Lepr⁻ 클러스터 0(Mch/Hcrt)이 별개 계열이라는 scRNA-seq 그림과 방향이 같다.
+- [[sharpe-2021-past-experience-shapes-the]] — LH와 **혐오·불안 정보**의 관계를 rat 전체 GAD1 집단에서 **인과적으로** 본 짝(Nat Neurosci 2021, Sharpe·Schoenbaum). 그쪽 결론은 naive rat에서 LH^GABA가 공포 학습에 **불필요**하고 **cue–보상 수반성 경험 후에 모집**된다는 것이다. ⚠️ 본 논문은 LH^LepR가 anxiogenic 자극에 **이미 반응**함을 보이므로 두 결과는 **활동 vs 필요성**, **분자 하위집단 vs 전체 GABA**, **불안 맥락 vs 전기충격**의 세 축에서 층위가 다르다(병기). 맞물리는 질문: 보상 학습 경험이 LH^LepR의 불안 자극 반응 크기나 PFC→LH 억제의 세기를 바꾸는가(연결 가설).
+
