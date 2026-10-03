@@ -2,7 +2,7 @@
 title: "GLP-1 receptor agonist differentially affects brain activation to visual food cues in lean and obese T2DM (Bae, Choi et al. 2019)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-03
 source: "raw/2019 DMJ. Glucagon-Like Peptide-1 Receptor Agonist Differentially Affects Brain Activation in Response to Visual Food Cues in Lean and Obese Individuals with Type 2 Diabetes Mellitus.pdf"
 authors: [Jae Hyun Bae, Hyung Jin Choi, Kang Ik Kevin Cho, Lee Kyung Kim, Jun Soo Kwon, Young Min Cho]
 year: 2019
@@ -77,3 +77,4 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 - [[koide-2025-association-between-eating-behavior]] — external eating이 GLP-1RA 반응 예측(cue 과반응 조절의 임상 짝).
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 해부 분포.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 임상).
+- [[west-2025-are-glucagon-like-peptide-1]] — ★ **본 연구가 속한 근거 범주를 메타적으로 규정하는 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편): 인간에서 GLP-1RA의 CNS 침투는 직접 측정이 없어 **'뇌 연결성·활성 변화'를 대리지표로 쓴다**는 논리. 본 fMRI가 정확히 그 범주의 데이터다. ⚠️ 동시에 본 연구는 그 논리의 한계 사례이기도 하다 — lixisenatide가 lean과 obese T2DM에서 뇌활성을 **반대 방향**으로 바꾸고 GLP-1R **미발현** 영역(fusiform)도 변했으므로, 단일 대리지표로는 침투를 읽을 수 없다(리뷰 자신의 유보: "표적 engagement의 재현성 미확립"). 본 연구의 인용 여부는 전문 미입수로 미확인.

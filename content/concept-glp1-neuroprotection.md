@@ -2,7 +2,7 @@
 title: GLP-1 신경보호·신경퇴행 repurposing
 type: concept
 created: 2026-07-09
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP-1 알츠하이머, GLP-1 파킨슨]
 ---
 
@@ -103,3 +103,4 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사 응용 지형(대비축).
 - [[dolgin-2026-brain-shuttle-biologics-chart-new]] · [[concept-blood-brain-barrier-shuttle]] — CNS 침투 차세대 GLP-1RA를 위한 BBB shuttle 기술.
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 체중 비의존 GLP-1R 작용의 총론; 신경 GLP-1R–면역 축을 신경보호 가설의 기전 후보로 제시 (Cell Metab 2026).
+- [[west-2025-are-glucagon-like-peptide-1]] — 이 hub의 **'뇌 도달 부족' 가설이 2025-04에 이미 문헌 종합으로 제기되어 있었음**을 보여 주는 서지 노드(Neurol Ther 2025, McIntyre 그룹, 14편): 전임상 BBB 통과 근거는 liraglutide·semaglutide·exenatide에 한정되고, 인간 근거는 **뇌 연결성 변화라는 간접 대리지표**뿐이며 표적 engagement 재현성은 미확립. ⚠️ **시점 주의** — 이 논문은 신경보호를 "예비 근거 있음"으로 낙관적으로 적고 [[cummings-2026-efficacy-and-safety-of-oral|EVOKE]]·[[edison-2026-liraglutide-in-mild-to-moderate|ELAD]] 음성 이전이다. '신경보호의 근거'로 인용하면 시점 오류이며, **침투 경고와 3상 음성의 연대기적 정합**으로만 쓸 것. ⚠️ 전문 미입수 상태로 작성된 페이지.

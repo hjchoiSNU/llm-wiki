@@ -2,7 +2,7 @@
 title: "Blood–brain barrier shuttle (BBB 셔틀)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -28,3 +28,4 @@ receptor-mediated transcytosis(RMT)를 이용해 대형분자 약물을 혈액�
 - [[concept-glp1-neuroprotection]] · [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — CNS 침투 차세대 GLP-1RA.
 - [[liu-2025-gipr-ab-glp-1-peptide]] · [[concept-peptide-drug-conjugate]] — 접합·표적 전달.
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 위키 내 유일한 CNS-침투 GLP-1RA 실물 사례(OHP2, caveolae 수송; 마우스 AD 전임상). RMT 셔틀과 다른 기전.
+- [[west-2025-are-glucagon-like-peptide-1]] — **셔틀 전략의 전제("기존 GLP-1RA는 뇌에 못 간다")를 부분적으로 약화시키는 서지 근거**(Neurol Ther 2025, 14편 종합): 전임상에서 liraglutide·semaglutide·exenatide의 BBB 통과가 보고된다. 단 기준이 다르다 — 이 논문의 근거는 **통과 여부(정성)** 이고 셔틀·OHP2 노선이 요구하는 것은 **피질·해마의 치료적 농도**다. ⚠️ 따라서 "침투를 무엇으로 입증할 것인가"(분자 도달·수용체 점유·회로 engagement·행동의 4층) 문제를 셔틀 종점 설계에 세워 두는 근거로 쓸 것. 전문 미입수 상태로 작성된 페이지.

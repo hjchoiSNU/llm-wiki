@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 509 (+ index.md, log.md)
+- 총 페이지: 510 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -298,6 +298,7 @@ LH 1차 원전·아틀라스·리뷰 27편. 개념 hub는 [[concept-lateral-hypo
 - [[kim-2021-mental-health-of-people]] — 전국 1,000명 왜곡 체중인지·의료적 체중조절의 심리 부담; DTx 표적 인구 정의 (IJCHP 2021, 사용자 lab).
 - [[concept-responsive-neurostimulation]] — 폐루프(responsive) DBS 개념 hub: biomarker 검출 시에만 자극하는 electroceutical.
 - [[concept-loss-of-control-eating]] — LOC eating·BED 표현형 개념 hub. NAc 저주파 biomarker의 임상 표적.
+- [[west-2025-are-glucagon-like-peptide-1]] — "GLP-1RA는 CNS 침투성인가" 14편 narrative review: 전임상은 liraglutide·semaglutide·exenatide의 BBB 통과를 지지하나 **인간 근거는 뇌 연결성 변화라는 간접 대리지표뿐**이고 표적 engagement 재현성은 미확립 (Neurol Ther 2025, McIntyre 그룹). ⚠️ 전문 미입수 상태로 정리 — 정량 침투 비교는 [[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[fang-2025-glucagon-like-peptide-1-medicines]]를 인용할 것.
 
 ### 인간 침습 전기생리·신경조절 (Human iEEG / Closed-loop DBS — Halpern)
 Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 + responsive DBS 클러스터.

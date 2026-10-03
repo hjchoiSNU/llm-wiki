@@ -2,7 +2,7 @@
 title: "GLP-1 의약의 신경·정신질환 전반 리뷰 (Fang·Drucker, 2025)"
 type: paper
 created: 2026-07-10
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2025 Cell Reports Medicine. Glucagon-like peptide-1 medicines in neurological and psychiatric disorders.pdf"
 authors: [Fang S, Cui F, Drucker DJ]
 year: 2025
@@ -62,3 +62,4 @@ GLP-1 수용체 작용제를 신경퇴행(AD·PD)·뇌졸중·발작·편두통�
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-need-motivation-pleasure-utility]] — 사용자 lab 중독·NMPU framework의 약리 검증 축.
 - [[concept-glp-1]] — 상위 호르몬·약리 hub.
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 물질사용장애 등 비대사 적응증이 **체중 감소의 이차 결과가 아님**을 뒷받침하는 기전 정리 (Cell Metab 2026, Drucker).
+- [[west-2025-are-glucagon-like-peptide-1]] — 같은 해 같은 질문의 **정신약리판 소규모 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편): 전임상 BBB 통과(liraglutide·semaglutide·exenatide) 긍정 + 인간은 뇌 연결성 대리지표뿐. ⚠️ **정량 근거는 본 리뷰가 보유** — exenatide CSF ≈ 혈중의 1/100, GLP-1R 미발현 핵의 cFos(미정의 세포간 중계), 인간 fMRI(사용자 lab [[bae-2019-glucagon-like-peptide-1-receptor|Bae 2019]], ref #9). 그쪽은 전문 미입수 상태로 정리됐으므로 수치 인용은 본 리뷰로.

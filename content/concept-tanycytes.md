@@ -2,7 +2,7 @@
 title: Tanycytes
 type: concept
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [tanycyte, hypothalamic tanycytes]
 ---
 
@@ -48,3 +48,4 @@ aliases: [tanycyte, hypothalamic tanycytes]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glia-stress-plasticity]] — 비뉴런 세포가 회로를 조각하는 더 넓은 틀(미세아교세포 가지치기·희소돌기아교세포 수초화·성상교세포 Ca²⁺). tanycyte는 그중 시상하부에서 가장 정교하게 정리된 사례.
 - [[concept-maternal-programming-hypothalamus]] — 모체 비만 tanycyte 손상(단계 의존적 vimentin 방향)을 포함한 상위 hub.
+- [[west-2025-are-glucagon-like-peptide-1]] — "GLP-1RA는 CNS 침투성인가"를 14편으로 종합한 리뷰(Neurol Ther 2025). ⚠️ **tanycyte·정중융기 경유 수송은 "BBB 통과"도 "CVO 노출"도 아닌 제3 범주**인데, 그 리뷰가 이 범주를 다뤘는지는 확인되지 않았다(전문 미입수). 다루지 않았다면 **'CNS penetrant' 이분법 자체가 거친 분류**라는 비판이 성립하고, 그 지점에서 이 페이지가 리뷰보다 정교하다 — liraglutide 시상하부 흡수의 tanycyte GLP-1R 의존(Imbernon 2022)이 그 근거.

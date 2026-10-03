@@ -2,7 +2,7 @@
 title: "뇌투과 경구 GLP-1RA(OHP2)의 성상교세포-뉴런 젖산·지질 셔틀"
 type: paper
 created: 2026-07-10
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2026 Cell Metabolism. Oral GLP-1 receptor agonist promotes astrocyte-neuron lactate and lipid transfer with neuroprotective effects.pdf"
 authors: [Du Y, Sun C, Wu L, Chen S, Gao X, et al.]
 year: 2026
@@ -60,3 +60,4 @@ doi: 10.1016/j.cmet.2026.05.014
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide도 astrocyte 젖산 수송으로 항-AD 작용한다는 선행(본 논문 ref #62)과 연결.
 - [[person-choi-hyung-jin]] — 대사-뇌 인터페이스·GLP-1 뇌작용 연구(사용자 lab) 접점.
 - [[concept-blood-brain-barrier-shuttle]] · [[dolgin-2026-brain-shuttle-biologics-chart-new]] — CNS 침투를 얻는 **다른 경로**(TfR·CD98hc 수용체매개 transcytosis, 항체·효소 cargo). OHP2의 caveolae 수송과 대비해 읽을 것.
+- [[west-2025-are-glucagon-like-peptide-1]] — ⚠️ **본 논문의 전제와 부분 충돌(병기)**: 본 논문은 "기존 GLP-1RA(세마글루타이드)는 뇌에 충분히 못 간다"를 설계 전제로 삼지만, 이 리뷰(Neurol Ther 2025, 14편)는 전임상에서 **liraglutide·semaglutide·exenatide의 BBB 통과 자체는 보고된다**고 적는다. 봉합 후보는 **기준의 차이** — 그쪽은 통과 여부(정성), 본 논문은 피질·해마의 치료적 농도. 다만 그쪽 전문(약물별 표)을 읽지 못한 상태이므로 **어느 쪽도 상대를 반박한다고 쓰지 말 것**. 그쪽의 유보("표적 engagement 재현성 미확립")는 본 논문의 "뇌투과를 높이면 임상 효과가 오르는가는 미검증"과 같은 방향.
