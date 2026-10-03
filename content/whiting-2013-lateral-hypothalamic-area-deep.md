@@ -2,7 +2,7 @@
 title: "Lateral hypothalamic area DBS for refractory obesity: a pilot study (Whiting 2013)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-03
 source: "raw/2013 Lateral hypothalamic area deep brain stimulation for refractory obesity- a pilot study with preliminary data on safety, body weight, and energy metabolism.pdf"
 authors: [Whiting DM, Tomycz ND, Bailes J, Oh MY]
 year: 2013
@@ -38,3 +38,4 @@ year: 2013
 - [[concept-ventromedial-hypothalamus]] — 인접 VMH(전류 확산 시 불안 부작용).
 - [[franco-2018-assessment-of-safety-and]] — 또 다른 LHA DBS(PWS, 비효과 대조).
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — LH 활성화의 동물(NHP) 대응(사용자 lab).
+- [[de-vrind-2019-effects-of-gaba-and]] — 본 pilot의 "식욕보다 대사 출력" 패턴에 대응하는 **세포 후보**: LH^Vgat hM3Dq 활성이 수평 운동이 줄어도 눈 온도를 올리고(AUC t5=4.397, P=0.0070) 3일 반복 시 체중을 낮춘다. 저자들은 인간·쥐 LH DBS의 체중 감소가 **LH GABA 매개**일 가능성을 명시한다(Obesity 2019).
