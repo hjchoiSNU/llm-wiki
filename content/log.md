@@ -19,6 +19,8 @@
 - **투사 기반 분리의 한계가 독립적으로 두 번**: 본 논문 Figure S7(열 처벌 vs 칼로리 보상 뉴런의 투사 패턴 구별 불가)과 Lee 2026 Cal-Light가 같은 결론 → [[proposal-lh-nac-nmpu-neuron-discovery]]에 경고로 기록.
 - 역방향 링크 5 추가: [[concept-appetitive-consummatory-phases]] · [[concept-activity-molecular-registration]] · [[ha-2024-hypothalamic-neuronal-activation-non-human]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[proposal-lh-nac-nmpu-neuron-discovery]]. 총 인바운드 18.
 
+**[[concept-lateral-hypothalamus]] 보강** (별도 hub 대신 기존 페이지 안에서): 새 절 **"기능 정의 ensemble ↔ 분자·투사 정의 집단 — 대응 미해결"** 추가. 2022–2026 세 연구가 같은 LH^Vgat을 서로 다른 기능 축으로 가른 결과를 표로 모으고(Jung 2022 열 vs 칼로리 / Lee 2026 salience vs 섭취 / Gordon 2026 GABA·Glut 비), **투사 기반 표적화 경고가 두 lab에서 독립적으로 나온 사실**과 남은 질문 3개(LH^LepR의 소속, signed vs unsigned salience, 집단 광도측정의 합산 가능성)를 정리했다. Vgat 행의 "식이 ↑" 단일 레이블에도 경고를 달았다.
+
 **미생성 유지**: `concept-lh-gabaergic-neurons` hub. 2026-10-03 (2)와 같은 사유(본문 생성이 safety classifier에 반복 중단)로 재시도하지 않았다. 오탐으로 판단해 신고용 보고서를 별도로 작성했다(위키 외부).
 
 ## 2026-10-03 (2) — ingest (Jeong 2022 보충자료 · Jung 2022 Neuron) + 인물 페이지(김성연)

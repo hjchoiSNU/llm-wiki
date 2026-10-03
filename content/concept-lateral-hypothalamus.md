@@ -23,7 +23,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ## 주요 cell types
 
 ### Neurotransmitter 기반
-- **GABAergic** (Vgat) — 식이 ↑
+- **GABAergic** (Vgat) — 식이 ↑. ⚠️ 단일 레이블로 쓰기 어렵다: 같은 집단이 **행동성 체온조절에도 필수**이고([[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]]) 이득 기능 조작은 섭식이 아니라 **갉기**를 유발한다. 아래 "기능 정의 ensemble" 절 참조
 - **Glutamatergic** (Vglut2) — 식이 ↓ ("brake")
 - **Camk2a** — 대부분 Vglut2
 
@@ -54,6 +54,26 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 | LH^Mch | weak ↑ | **sustained ↑** (Orx과 정반대) |
 
 → **LH GABAergic은 별도의 appetitive vs consummatory subset** 보유 (Jennings 2015 Cell).
+
+## 기능 정의 ensemble ↔ 분자·투사 정의 집단 — 대응 미해결 ★
+
+위 표들은 **분자 마커**로 LH를 가른다. 그런데 2022–2026년 단일세포·앙상블 연구들은 같은 LH^Vgat을 **기능 축**으로 가르고, 두 좌표계의 대응은 아직 풀리지 않았다. 사용자 lab의 분자 정의 집단(LH^LepR)이 어느 기능 ensemble에 속하는지가 직접 걸린 문제다.
+
+| 연구 | 나눈 축 | 결과 | 분자 대응 |
+|---|---|---|---|
+| [[jung-2022-a-forebrain-neural-substrate-for\|Jung 2022]] (김성연) | 열 자극 vs 칼로리 | **thermal P&R 76개** vs 칼로리 보상 86개, 겹침 17개뿐. 집단 벡터가 거의 직교(칼로리–열 처벌 81°) | **실패** — Nts·Tac2·PAG 투사로 정의한 집단이 어느 쪽 반응 프로필과도 안 맞음 |
+| [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles\|Lee 2026]] (김성연) | salience vs 섭취 | **salience ensemble**(혐오 열 + 먹이 cue) vs **ingestion ensemble**(먹이·물·고형식 일반화, 가치 스케일) | **미시도** — 저자가 post hoc 전사체를 다음 단계로 제시 |
+| [[gordon-2026-lateral-hypothalamic-control-of-the\|Gordon 2026]] (Stuber) | GABA vs Glut의 **비** | 가치에 대해 부호가 반대(GABA 양 / Glut 음). 비가 선조체 전후축 DA 지형을 설정 | 해당 없음(전달물질 수준) |
+
+**★ 투사 기반 표적화 경고 — 독립적으로 두 번 나왔다**
+- Jung 2022 Figure S7: 열 처벌 활성 뉴런과 칼로리 보상 활성 뉴런의 **투사 패턴이 구별되지 않았다**.
+- Lee 2026 Cal-Light: salience 태깅 집단과 섭취 태깅 집단의 투사(DBB·VTA·DRN·PAG·periLC)가 **정성적으로 유사**했다.
+- → 서로 다른 lab·다른 태깅 기법·다른 자극 축에서 같은 결론이다. [[proposal-lh-nac-nmpu-neuron-discovery]]의 투사 기반 전략은 두 ensemble을 섞어 잡을 위험이 있고, **분자정체 또는 기능 태깅**이 더 직접적이다([[concept-activity-molecular-registration]]).
+
+**남은 질문**
+1. [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]의 food-specific LH^LepR(LH GABA의 4%)은 Lee 2026의 ingestion ensemble인가, 아니면 먹이에만 반응하는 모달리티 특이 소수 채널인가. 정의 축이 달라 직접 비교가 안 된다(먹이 vs 레고 ≠ 먹이 vs 물).
+2. Jung 2022의 thermal P&R 집단과 Lee 2026의 salience ensemble은 같은 집단으로 보이나(저자들이 그렇게 연결), **열 영역 안에서는 부호가 있는 반응**(열 보상에 억제)이라 "valence 무관 salience"로 전부 읽기는 어렵다.
+3. 집단 광도측정에서 보이는 "양가 salience hub"([[jia-2026-novelty-exploration-activated-ensemble-in|Jia 2026]])가 실은 분리된 두 ensemble의 합일 수 있다 — 단일세포 해상도에서 재검토 필요.
 
 ## 회로
 
