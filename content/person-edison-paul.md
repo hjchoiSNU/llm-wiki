@@ -2,7 +2,7 @@
 title: Paul Edison
 type: person
 created: 2026-07-09
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -40,3 +40,4 @@ updated: 2026-09-19
 - [[cummings-2026-efficacy-and-safety-of-oral]] — ELAD 이후의 pivotal 3상(EVOKE/EVOKE+); ELAD 2차 신호 미재현·조기 중단(Lancet 2026).
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — ELAD를 근거지도에 배치한 종합 리뷰(Nature Aging 2026).
 - [[fang-2025-glucagon-like-peptide-1-medicines]] — 신경퇴행을 넘어 SUD·정신질환까지 확장한 광역 리뷰(Cell Rep Med 2025).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 그가 쓴 약물(liraglutide)이 과연 뇌에 닿는지를 전용으로 검토한 리뷰. **Hölscher(ELAD 공동연구자)의 2012년 liraglutide BBB 통과 실험**이 핵심 전임상 근거로 인용되나, Salameh 2020의 음성 결과와 병기된다 (Neurol Ther 2025).
