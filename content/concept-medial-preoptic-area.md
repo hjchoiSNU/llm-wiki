@@ -52,6 +52,7 @@ aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측
 - 이 위키의 시상하부 노드 지도에서 MPOA는 [[concept-lateral-hypothalamus]]·[[concept-paraventricular-nucleus]]·[[concept-ventromedial-hypothalamus]]와 나란히 놓이되, **섭식 자체보다 섭식과 경쟁하는 동기**를 대표한다는 점에서 성격이 다르다.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **MPOA^CaMKIIα→LH 투사를 받는 하류 라벨의 정체 문제**. LH 투사 MPOA 뉴런의 83.53%가 CaMKIIα⁺이고 MPOA 자극은 사냥만 켜지만(펠릿 P=0.7926), 그 하류 "LH^CaMKIIα"는 세포 유형이 아니라 혼합 집단이며 **LH 중계의 필요성은 역행성 활성화 대조군 부재로 분리되지 않았다**(Tan 자인).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 본 개념의 1차 출처(NRN 2026).
 - [[concept-npy-agrp-neurons]] — AgRP/NPY가 MPOA를 억제해 양육을 끄는 경쟁 회로.
 - [[concept-need-motivation-pleasure-utility]] — 동기 간 arbitration framework; 배고픔↔돌봄이 전형 사례.

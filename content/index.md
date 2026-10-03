@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 511 (+ index.md, log.md)
+- 총 페이지: 514 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -27,6 +27,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-ventromedial-hypothalamus]] — SF1·BDNF·ERα. EE·glucose·thermogenesis·sex dimorphism.
 - [[concept-dorsomedial-hypothalamus]] — GLP-1R cognitive satiation (Park 2025) + circadian Trh→AgRP.
 - [[concept-lateral-hypothalamus]] — Motivation 통합 hub + Korotkova arbitration framework + LH GABAergic→VTA water reward.
+- [[concept-lh-camkii-neurons]] — ⚠️ **"LH^CaMKIIα"는 세포 유형이 아니라 프로모터 농축 표지**. Heiss 2024(각성 7 h·LMA +470%, Vgat 20–33%) vs Tan 2022(포식 섭취, GABA "비중첩"·vGluT2⁻ 36%)의 조성 재현 불가 + 프로모터 AAV 인용·설계 규칙.
 - [[concept-zona-incerta]] — LH 인접 orexigenic 노드. rostral ZI GABA=강박 섭식(처벌-저항)·mPFC top-down·VTA 투사. 인간 rZI-mPFC FC=비만/binge biomarker.
 - [[concept-medial-preoptic-area]] — **MPOA=양육 개시·조직 허브**(Gal·Esr1·Calcr 모자이크). ★ 섭식과 직접 경쟁: MPOA 활성→섭식↓, AgRP/NPY→MPOA 억제→새끼 방치·공격. BNST^Esr1과 상호억제 스위치.
 
@@ -180,7 +181,7 @@ _(섭식·동기 행동은 🍽️로)_
 
 ### 외측 시상하부 (LH) 문헌 클러스터 (2026-10 일괄 수집)
 
-LH 1차 원전·아틀라스·리뷰 27편. 개념 hub는 [[concept-lateral-hypothalamus]]. 연구실 원전: [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-normative-framework-dissociates-need]] · [[cheon-2025-lateral-hypothalamus-and-eating-cell]].
+LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypothalamus]]. 연구실 원전: [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-normative-framework-dissociates-need]] · [[cheon-2025-lateral-hypothalamus-and-eating-cell]].
 
 **종합·리뷰**
 - [[stuber-2016-lateral-hypothalamic-circuits-for]] — LH 전기자극 시대(포만 없는 자기자극·drive–reward paradox·하행 MFB 기질)를 광유전 세포타입으로 재해석: LH^Vgat(섭식·보상↑) vs LH^Vglut2(섭식↓·혐오) 양방향 출력 → VTA DA; vBNST^GABA→LH^Glut, NAc D1R→LH^GABA bout 종료 고리; "ARC=항상성, LHA=hedonic" 이분 (Nat Neurosci 2016 Review, Stuber & Wise).
@@ -194,6 +195,8 @@ LH 1차 원전·아틀라스·리뷰 27편. 개념 hub는 [[concept-lateral-hypo
 - [[rossi-2021-transcriptional-and-functional-divergence]] — ★ LHA^Vglut2 "brake"를 **투사 표적으로 분해**: →LHb(전측 LHA·**Pax6⁺**·고흥분성·포만 시 더 반응·**leptin↓/ghrelin↑**) vs →VTA(후측 LHA·**Pdyn/Hcrt=orexin**·저흥분성·quinine 우세·leptin↑); 금식은 두 경로 차이를 지운다 (Neuron 2021, Stuber lab).
 - [[leinninger-2009-leptin-acts-via-leptin]] — ★ **LH^LepR 라인의 1차 원전**: LHA LepRb = MCH·OX와 비중첩 **GABAergic** 집단, **VTA 조밀 투사**(선조체·NAc 투사 없음); intra-LHA leptin→rat 섭식·체중↓, *Lep^ob/ob*에 **250 pg**로 동측 **VTA *Th* ~2.5배·NAc DA ~40%↑**인데 **intra-VTA leptin은 무효** → "leptin→mesolimbic DA"의 중계는 LHA (Cell Metab 2009, Myers lab).
 - [[leinninger-2011-leptin-action-via-neurotensin]] — ★ **LH^Nts 라인의 1차 원전·`Nts-ires-Cre`의 출처**: LHA LepRb의 **약 60%가 Nts⁺**이고, Nts 뉴런 한정 LepRb 결손 → **조기 비만 + 운동량·VO₂↓**(섭식 거의 불변), **26 h 단식이 orexin c-Fos를 올리지 못함**, AMPH 반응 둔화. ⚠️ [[leinninger-2009-leptin-acts-via-leptin|2009]]의 VTA *Th*·NAc DA 함량 상승은 **재현되지 않고** 종말점이 **NAc DAT 기능(진폭↓·t₁ᐟ₂↑)** 으로 이동 (Cell Metab 2011, Myers·Leinninger lab).
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ★ LH 안에서 **각성과 보행운동을 분리**: AAV-CaMKIIα hM3Dq → dual OXR 길항(almorexant 200 mg/kg)에서도 **7시간 각성**(F(24,72)=17.53)·보행 7.7→36.2 cm/s(+470%); Gad2-Cre;FLEX-DTA로 억제성 **64.6% 절제**(800→285 cells/mm²) 시 **각성 불변·LMA 증가만 둔화(+269%)·Hθ/Hγ 소멸**, 24 h 수면 구조 불변. Hcrt 중첩 9.3%뿐. ⚠️ 라벨 조성 Vglut2 78.7%·Vgat 20–33% (PNAS 2024, Kilduff lab).
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ★ **신규성 추구 → 포식 섭취**: LH^CaMKIIα 활성은 신규 물체 접촉·killing bite에서 최고이고 **섭취 중 하강**인데, 광자극하면 well-fed 마우스가 크리켓 5/5를 사냥·완식하고 **식용/비식용 선호를 상실**(cotton ball 3분 분쇄·무게 불변); 공격적 침입자·발정 암컷은 무시(자극 중 공격 0). **MPOA→LH→vPAG 간접 = 포식+섭취 / MPOA→vPAG 직접 = 포식만**(펠릿 P=0.7926). ⚠️ 기능 주역이 **미확인 vGluT2⁻ 36.13%** (Research 2022, Zhejiang Chen lab).
 
 **시간 동역학 — appetitive vs consummatory·섭식 sequence**
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — LH^Vgat의 appetitive/consummatory 분업을 세운 foundational paper: 광유전·화학유전·ablation + microendoscope 단일세포 칼슘영상(743 뉴런)으로 nose-poke(appetitive)·lick(consummatory) 반응 세포가 비중첩임을 직접 관찰; bulk 활성은 소비만 편향(break point 불변) (Cell 2015, Stuber lab).

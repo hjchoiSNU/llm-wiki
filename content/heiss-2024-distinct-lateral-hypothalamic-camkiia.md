@@ -132,6 +132,8 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 - **CaMKIIα promoter의 특이도 — 외부 쟁점(위키에 아직 1차 페이지 없음)**: Veres 2023(eNeuro)은 CaMKIIα promoter가 **CaMKIIα 단백질이 없는 피질 interneuron에서도** transgene을 구동한다고 보고했다. 이 논문은 LH에서 **mCherry⁺의 95.6%가 *Camk2a* mRNA⁺**임을 보여 **promoter 충실도는 방어**했지만, 동시에 **Camk2a⁺ 자체가 LH에서는 혼합 전달물질 집단**임을 보였다. ⚠️ 두 문제(promoter 누출 vs 마커의 세포타입 비특이성)를 **구분해서** 적어야 한다 — 이 논문이 해결한 것은 전자뿐이다.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **이 논문의 조성 감사(95.6% *Camk2a* / Vglut2 78.7% / Vgat 20–33%)를 "CaMKIIα는 세포 유형이 아니라 프로모터 표지"라는 판정으로 정식화한 개념 hub.** Vglut2 78.7 + Vgat 33 = 111.7% 초과분과 Tan 2022과의 GABA 분율 재현 불가를 병기한다.
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ⚠️ **같은 CaMKIIα 프로모터·거의 같은 좌표(AP −1.3)를 쓰고 GABA 혼입을 반대로 결론한 짝 논문**(Research 2022, Zhejiang Chen lab). 그쪽은 Vgat-cre×Ai47에서 "거의 비중첩"(수치 없음)이라 적고 vGluT2⁻ **36.13%** 미확인 분획에 포식 섭취 기능을 귀속시킨다. 검증은 **CaMKIIα 항체 단독**(97–98.5%)으로 순환적이다. 두 논문의 대조표는 [[concept-lh-camkii-neurons]].
 - [[concept-lateral-hypothalamus]] — LH 개념 hub. 각성·LMA 축의 세포타입 분업 근거.
 - [[concept-orexin-neurons]] — ⚠️ Hcrt 비의존 각성 경로의 1차 근거(ALM 200 mg/kg 하에서도 7시간 각성); Hcrt 세포 중 9.3%만 전달.
 - [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — ⚠️ "orexin은 단식 각성에 필수"와 층위 긴장; 대사 상태 축이 이 논문에는 없다.

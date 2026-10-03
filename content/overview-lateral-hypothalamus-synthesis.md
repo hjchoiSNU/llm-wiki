@@ -172,6 +172,9 @@ LH 연구는 네 번 질문을 바꿨다. "LH가 필요한가"(병변/자극) �
 | ***Oxt*⁺ 대형 뉴런** | *Slc17a6*·*Gal* 공발현(13/13) | **복외측 LHA**(LHAfl-vl), 3,089 µm³ | — | 공간·형태 이상치 추적(iterative refinement)으로 새로 발굴. 기능 미검증 | [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] |
 | **비뉴런** | Astro, MG, Olig, OPC, Endo, Peri, VSM, EOC (뉴런은 전체 세포의 약 55%) | — | — | astrocyte ANLS lactate shuttle이 orexin 활성 유지; HFD 전사체 변화는 Vglut2 뉴런 > oligodendrocyte | [[rossi-2019-obesity-remodels-activity-and]] · [[chen-2025-the-integrated-function-of-the]] · [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] |
 
+> [!warning] 프로모터 표지의 함정 — [[concept-lh-camkii-neurons]] (2026-10 추가)
+> `AAV-CaMKIIα` 프로모터로 정의한 "LH^CaMKIIα"는 세포 유형이 아니다. 같은 프로모터·거의 같은 좌표에서 [[heiss-2024-distinct-lateral-hypothalamic-camkiia]]는 Vgat 20–33%를 세고 [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]]은 "거의 비중첩"이라 적으며(수치 없음), 후자의 기능 주역은 **미확인 vGluT2⁻ 36.13%**다. *Camk2a*는 [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] census의 단일 클러스터에 대응되지 않는다. 본 절의 marker 의존성 논지가 가장 선명하게 드러나는 사례이며, §8-2의 LepR 부호 논쟁과 같은 뿌리(드라이버 라인을 세포 유형으로 취급)로 읽을 수 있다 (연결 가설).
+
 ### 2.3 전달물질 이분법 — 유지되지만 marker에 달려 있다
 
 Tuberal LHA 36,423 뉴런에서 *Slc17a6*⁺ 45% vs *Slc32a1*⁺ 55%로 이분법은 대체로 유지된다([[wang-2021-expansion-assisted-iterative-fish-defines-lateral]]). 따라서 [[concept-lateral-hypothalamus]]의 "단일 세포가 Vgat·Vglut2 동시 발현 → 이분법 약화" 서술은 **원문보다 강하다** — 공발현 클러스터 Ex-12는 대부분 entopeduncular nucleus에 있고 LHA에는 작은 무리뿐이며, *Pmch*의 이중 marker는 ***Gad1***+*Slc17a6*이지 *Slc32a1*이 아니다.

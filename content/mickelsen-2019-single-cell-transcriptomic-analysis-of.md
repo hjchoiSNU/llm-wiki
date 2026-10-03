@@ -116,6 +116,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - **Sst의 전달물질 소속** — [[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]은 Sst를 흥분성 Ex-5 + 억제성 Inh-1/2/5로, 이 논문은 흥분성 1개(cluster 15) + 억제성 3개(6·10·13)로 센다. **"흥분성 1 + 억제성 3"이라는 구조는 두 논문이 일치**하지만 하위 이름·marker 대응표는 없다. 또 이 논문의 perifornical/tuberal 비율(56:44 vs 2:97)은 **영역을 섞어 샘플링하면 Sst의 전달물질 비율이 임의로 바뀜**을 뜻한다 — [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 **TN^SST**(tuberal nucleus Sst)는 이 논문 기준으로 거의 순수 GABA 집단(97.3%)에 해당하므로, perifornical LHA Sst 결과와 직접 비교하면 안 된다(병기).
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **본 census의 15+15 클러스터 중 어느 것도 *Camk2a*로 지정되지 않는다**는 점이 "LH CaMKIIα = 프로모터 농축 표지" 판정의 핵심 근거다. Heiss 2024 저자들도 "최소 15개 GABAergic 집단"을 들어 CaMKIIα보다 특이적인 마커 탐색을 다음 과제로 적는다.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab LH^LepR 원저. 본 논문이 "LH LepR 92% GABA"의 인용 출처다(⚠️ 근거는 sc-qPCR, scRNA-seq에서는 Lepr 저검출 — 병기). cluster 3의 Crh/Tac1 상호배타 분할이 seeking/consummatory subpopulation 후보.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰. 세포타입 표(Nts 80/20·95% Gal, Mch, Crh 82% Vgat 등)의 1차 출처 다수가 본 논문 계열. Trh 전후축 구배가 am/pm 격자와 정렬.
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 본 논문 4,418 cells가 통합돼 LHA consensus 17+17 클러스터가 됐다. 공간 주소·soma 크기·하위구역을 더한 후속.

@@ -53,6 +53,7 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 - [[hyun-2022-tagging-active-neurons-by]] — soma-targeted **Cal-Light**(Ca²⁺ AND 광 → tTA → reporter); tag-then-manipulate.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **이 방법론이 해결하도록 설계된 문제의 교과서 사례**. 같은 프로모터를 쓴 두 논문이 조성을 반대로 보고하는 상황에서, 라벨을 더 좁히는 대신 **GRIN 영상 131세포에 사후 다중 RNA-FISH를 붙여 wake-active 세포의 전달물질 정체를 직접 읽는 것**이 출구로 제시된다.
 - [[xu-2020-behavioral-state-coding-by]] — CaRMA 원전(PVH grouped-ensemble).
 - [[hyun-2022-tagging-active-neurons-by]] — Cal-Light(활성 의존 태깅, 인접 계열).
 - [[wang-2026-multimodal-alignments-of-in]] — TRU-FACT 원전(범용·투사·통계).

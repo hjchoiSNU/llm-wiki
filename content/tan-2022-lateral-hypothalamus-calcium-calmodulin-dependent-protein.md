@@ -109,6 +109,8 @@ LH의 **CaMKIIα 프로모터로 표지되는 뉴런**은 신규 물체 접촉·
 - **저자 자인한 설계 한계(위키에 그대로 남겨야 할 것)**: ① 말단 자극의 **역행성 세포체 활성화 대조군이 없다**(저자 명시). ② MPOA→LH 자극 + LH 화학유전 억제 실험이 실패했으므로 **LH의 필요성은 회로 수준에서 분리되지 않았다**. ③ Vgat/vGluT2 공표지 수치가 **마우스 2마리·수백 세포 규모**이고 GABA 중첩은 수치가 없다. ④ 암컷 데이터가 없다(수컷 전용, 암컷은 성행동 시험의 상대로만 사용).
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **이 논문의 "GABA 거의 비중첩(수치 없음) + vGluT2⁻ 36.13%가 주역"이라는 조성 주장을 Heiss 2024와 나란히 놓고 판정하는 개념 hub.** 프로모터 라벨을 세포 유형으로 읽을 때의 인용·설계 규칙을 정리했다.
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ **같은 CaMKIIα 프로모터·거의 같은 좌표(AP −1.4)로 GABA 혼입을 인정한 짝 논문**(PNAS 2024, Kilduff lab). RNAscope로 프로모터 충실도 **95.6 ± 0.4%**를 방어하면서 같은 라벨이 **Vglut2 78.7% / Vgat 33%(IHC Gad2 20.1%)** 혼합임을 보이고, Gad2-DTA 절제로 **GABA 성분 = 보행운동(LMA), glutamatergic 성분 = 각성**으로 분업시킨다. 본 논문의 "scarcely GABAergic"과 정면 불일치 — 대조표는 [[concept-lh-camkii-neurons]].
 - [[concept-lateral-hypothalamus]] — 개념 hub. LH 세포타입 목록에 "프로모터 정의 CaMKIIα 집단"과 포식/섭취 축을 추가.
 - [[concept-appetitive-consummatory-phases]] — 활동 부호(appetitive)와 인과 효과(consummatory)가 어긋나는 사례. soma 자극(운반·추격) vs vPAG 말단 자극(물기·섭취)으로 phase가 투사별로 분리된다.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰. "분자 정체로 세포를 정의하라"는 요구에 대한 반면교사 사례(프로모터 정의 + 미규명 36%).

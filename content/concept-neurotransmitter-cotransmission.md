@@ -54,6 +54,7 @@ updated: 2026-10-03
 - ⚠️ **Coff/Fon의 구조적 약점**: 재조합효소의 **부재**로 집단을 정의하므로, Cre 라인이 놓친 세포(위음성)가 그대로 "DA-only"로 분류된다. 즉 DA-only 집단의 순도는 VGLUT2-Cre 라인의 민감도에 상한이 걸린다.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **마커 함정의 LH 전용 사례 연구**. 이 페이지의 "드라이버가 무엇을 정의했는지 먼저 확인하라"를 **프로모터 충실도(Heiss: 95.6%) vs 세포 유형 특이성(Vgat 20–33%)** 두 질문으로 분리하고, 같은 프로모터를 쓴 두 논문이 GABA 혼입을 반대로 결론한 재현 불가를 정리했다.
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — 공방출 조합의 원 분류표(단, DA-GLU의 NAc 표적·PBP 귀속은 Mingote 2019와 충돌).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — DA-GLU 집단의 정량·투사 지형·시냅스 표적을 INTRSECT로 확정.
 - [[concept-dopamine-reward-system]] — "도파민이 무엇을 부호화하는가" 논쟁에 **전달물질 정체**라는 축을 추가.

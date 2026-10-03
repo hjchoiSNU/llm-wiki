@@ -28,6 +28,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **GABAergic** (Vgat) — 식이 ↑
 - **Glutamatergic** (Vglut2) — 식이 ↓ ("brake")
 - **Camk2a** — 대부분 Vglut2
+  - ⚠️ **세포 유형이 아니라 프로모터로 정의된 농축 표지다** → [[concept-lh-camkii-neurons]]. `AAV-CaMKIIα` 프로모터는 *Camk2a*에는 충실하나(mCherry⁺의 95.6 ± 0.4%가 *Camk2a* mRNA⁺) 같은 라벨이 **Vglut2⁺ 78.7% / Vgat⁺ 33%(IHC Gad2⁺ 20.1%)** 혼합이고([[heiss-2024-distinct-lateral-hypothalamic-camkiia|Heiss 2024]]), 같은 프로모터·거의 같은 좌표를 쓴 [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein|Tan 2022]]은 GABA와 **"거의 비중첩"(수치 없음)** 이라 적고 vGluT2⁻ **36.13%** 미확인 분획에 기능을 귀속시킨다. **GABA 분율은 보고에 따라 0%(정성)~33%** 로 병기하고, Mickelsen 15+15 census의 어느 클러스터에도 대응되지 않는다.
 
 **1차 census (2026-10 추가)**
 - Tuberal LHA EASI-FISH 36,423 뉴런에서 **Slc32a1⁺ 55% vs Slc17a6⁺ 45%** ([[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]) — 즉 이분법은 수치상 대체로 유지된다.
@@ -267,6 +268,7 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - **GLP-1RA 시대의 접점**: 실사용 코호트에서 반응 개인차가 임상·유전 요인으로 약 25%만 설명된다 — 나머지가 행동 표현형·회로 마커가 들어갈 자리이고, **Ex-4에 의한 LH^Vgat cue·섭취 반응 진폭 감쇠 폭**이 후보 지표다([[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026]]) ⚠️ 인간에 직접 측정된 바 없는 **연결 가설** ([[concept-glp1ra-response-variability]]·[[concept-glp-1]]).
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **"LH^CaMKIIα"는 세포 유형인가 프로모터 표지인가** — 같은 프로모터·같은 부위를 쓴 Heiss 2024(각성 vs LMA)와 Tan 2022(포식 섭취)이 GABA 혼입을 반대로 결론하는 재현 불가 문제, 그리고 프로모터 라벨의 인용·설계 규칙.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — LH를 DA ensemble의 intermediary hub로 위치시키고, NAc D1R^Serpinb2→LH LepR이 leptin anorexia를 override (TEM 2026).
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 1차 reference.
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입(>30 subtype)·기능 종합 리뷰; Vgat("engine")/Vglut2("brake")/orexin 프레임, LHA^Lepr social·LHA^Nts thirst 우선순위 (Cells 2025, 비-사용자 lab 레퍼런스).

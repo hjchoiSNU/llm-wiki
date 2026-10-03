@@ -71,6 +71,7 @@ journal: "Nature Communications 17:4418; doi:10.1038/s41467-026-73205-x"
 4. 설치류 모델 — 인간 LH 검증 아님.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **본 논문 ensemble 조성의 CaMKII(+) 25.15%·GABAergic 48.79%가 "LH novelty 세포 = CaMKIIα 세포" 등치를 깬다**는 대조를 Tan 2022과 나란히 기록한 hub. 교차 검증 경로(Fos-TRAP × `AAV-CaMKIIα-DO-GCaMP6s` Cre-OFF)도 함께 적었다.
 - [[concept-lateral-hypothalamus]] — LH cell-type/projection 분업 hub; 본 논문이 통증·정서 축으로 확장.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 본 논문이 직접 인용(ref46); 사용자 lab LH·eating 리뷰와 salience hub 논리 공유.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH가 불안·배고픔·사회성을 중재하는 arbitration 관점과 직접 맞물림.

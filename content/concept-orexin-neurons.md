@@ -24,6 +24,7 @@ updated: 2026-10-03
 - **병태**: orexin 계 교란은 narcolepsy, addiction, ADHD 등 신경정신 병리와 연관.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **orexin 평행 각성 경로의 담당 집단이 세포 유형이 아니라 프로모터 라벨이라는 한정**. almorexant 200 mg/kg 하 7시간 각성·Hcrt 9.3%만 전달(Heiss 2024)과, Hcrt 공표지를 아예 측정하지 않은 Tan 2022의 novelty 프로필을 함께 배치했다(Harris 2005의 "novelty 무반응 18 ± 2%"와 대비).
 - [[concept-lateral-hypothalamus]] — orexin 뉴런의 주 소재 영역.
 - [[dong-2026-reward-prediction-is-encoded-by]] — orexin 활성의 reward prediction·effort 부호화 인과 증거.
 - [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — LH orexigenic 서브네트워크와의 관계.

@@ -8,6 +8,32 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 — ingest + query (LH CaMKIIα 뉴런 — 세포 유형인가 프로모터 표지인가)
+
+사용자 지시: "lh camkii neuron 의 역할에 대해 wiki page 만들어 주세요". Drive에서 LH CaMKIIα 1차 논문 2편을 수집하고 개념 hub를 작성. **⚠️ Drive `read_file_content`가 Tan 2022 fileId에 Heiss 2024 본문을 반환** — 에이전트가 PDF를 직접 내려받아 `pdftotext`로 확인하고 정정. (Drive 제목과 내용이 어긋나는 사례 → 이후 ingest에서 본문 저자·제목 교차확인 필요.)
+
+**새 페이지 3**
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — PNAS 121(16):e2316150121, doi:10.1073/pnas.2316150121; Kilduff lab(SRI) × Yamanaka. **LH 안에서 각성과 보행운동을 세포타입으로 분리.** AAV-CaMKIIα-hM3Dq + CNO 3 mg/kg → **7시간 각성**(F(24,72)=17.53), **dual OXR 길항 almorexant 200 mg/kg 하에서도 불변**(ALM은 >240분 bout만 제거) + 보행 **7.7→36.2 cm/s(+470%)**; 정규화 wake power Hθ 377%·Hγ 237%. Microendoscopy 131세포에서 **Wake Z 6.45±0.35 vs NREM 1.00±0.09**(NREM 선호 세포 사실상 없음). **Gad2-IRES-Cre;FLEX-DTA로 억제성 64.6% 절제**(800→285 cells/mm²) → **각성·24h 수면 구조 완전 불변**, LMA 증가만 둔화(+269%)·Hθ/Hγ 상승 소멸·자발 활동기 속도 68%↓. Hcrt 중첩 9.3±0.5%(3,949세포), TMN histaminergic 6±3%.
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — Research(AAAS) 2022:9802382, doi:10.34133/2022/9802382; Zhejiang Zhong Chen lab. **신규성 추구 → 포식 섭취.** 활성은 신규 물체 접촉·killing bite에서 최고이고 **섭취 중 하강**(자유 보행 중 변화 없음 = 운동 artifact 아님). 광자극 → well-fed 마우스가 크리켓 **5/5 사냥·완식**, **식용/비식용 선호 상실**, cotton ball 0.5 g을 3분에 분쇄(무게 불변 = 섭취 아님), 공격적 침입자·발정 암컷 무시(자극 중 **공격 0**); hM4Di+CNO 1.0 mg/kg → 금식 포식 차단. 회로: **MPOA^CaMKIIα(LH 투사의 83.53%)→LH^CaMKIIα→vPAG 간접 = 포식+섭취 / MPOA→vPAG 직접 = 포식만**(사체·펠릿 안 먹음, P=0.7926). vPAG 투사 LH 뉴런은 CaMKIIα⁺ 53.85%·GABA⁺ 44.37%로 별개 두 경로.
+- [[concept-lh-camkii-neurons]] — ★ **개념 hub(210행). 판정: LH의 CaMKIIα는 세포 유형이 아니라 `AAV-CaMKIIα` 프로모터가 만든 농축 표지다.**
+
+**★ 핵심 논점 — 같은 프로모터·거의 같은 좌표(AP −1.4 vs −1.3)에서 두 논문이 라벨 조성을 반대로 보고한다**
+- **프로모터 충실도 vs 세포 유형 특이성은 다른 질문**이고, 전자만 답이 있다. Heiss는 RNAscope로 mCherry⁺ 934세포 중 ***Camk2a*⁺ 95.6±0.4%** 확인(Veres 2023 eNeuro의 피질 interneuron 누출 문제에 대한 방어) — 그러나 그 집단이 하나의 유형이라는 뜻은 아니다.
+- **GABA 분율**: Heiss는 RNAscope *Slc32a1*⁺ **33±2.2%**(613세포)·IHC Gad2-EYFP⁺ **20.1±0.7%**(2,486세포), 저자 요약 "약 20–30% GABAergic" → 위키는 **20–33% 범위로만** 적는다(⚠️ Vglut2 78.7 + Vgat 33 = **111.7%**를 원문이 설명하지 않음). Tan은 **"거의 비중첩" 정성 서술뿐·수치 없음**.
+- **분모가 반대**: Heiss는 라벨 기준(Vglut2 78.7±3.7%), Tan은 전달물질 기준(**vGluT2⁺의 96.71%가 CaMKIIα⁺**이지만 **CaMKIIα⁺ 중 vGluT2⁺는 63.87%**) → 두 수치를 직접 비교할 수 없다.
+- **검증의 순환성**: Tan은 **CaMKIIα 항체 단독**으로만 특이도를 보고(97–98.5%) — CaMKIIα 프로모터를 CaMKIIα 항체로 검증. (Heiss는 RNAscope + Gad2 리포터를 썼으므로 이 비판은 Tan에만 적용.)
+- **기능이 서로 다른 분획에 귀속**: Heiss는 glut ~80% = 각성 / GABA ~20% = 보행운동(DTA 분리 입증). Tan은 **미확인 vGluT2⁻ 36.13%** = 포식 섭취(Cre-OFF DO-GCaMP + vGluT2-caspase3 사멸로 논증).
+- ***Camk2a*는 [[mickelsen-2019-single-cell-transcriptomic-analysis-of]]의 15+15 census에 단일 클러스터로 대응되지 않는다.** Heiss 저자들 스스로 "CaMKIIα보다 더 특이적인 분자 표지가 필요"하다고 적었다.
+
+**⚠️ 충돌·긴장 7건 병기**(hub ⚠️ 절) — ① 두 논문 간 GABA 분율 재현 불가(항체·리포터·serotype·좌표 차이 병기) ② **"LH^Vglut2 = brake"**([[jennings-2013-the-inhibitory-circuit-architecture]]·[[rossi-2019-obesity-remodels-activity-and]]·[[stuber-2016-lateral-hypothalamic-circuits-for]]) vs Tan의 섭취 폭증 — ★ **양쪽 증거가 Tan 논문 안에 공존**: vGluT2-caspase3 절제가 well-fed 마우스의 자발 사냥을 풀었다는 결과는 brake 모델을 **지지**한다 ③ 전달물질 기반 carving vs 프로모터 기반 carving ④ orexin 중심 각성 서사 vs Hcrt 9.3%·ALM 무효(Tan은 Hcrt 미측정) ⑤ [[jia-2026-novelty-exploration-activated-ensemble-in]](Vgat⁺·Vglut2⁺ 모두 작동) vs Tan(거의 비-GABA) — 같은 LH×신규성 축 ⑥ Heiss vs **Venner 2016 "wake-promoting ventral LH GABA"** 정면 불일치(저자는 Venner의 각성 증가가 LMA 증가의 2차 결과일 가능성 제시) ⑦ seeking/consumption 분리가 **세 가지 다른 세포 좌표계**에서 각각 보고됨([[lee-2026-distinct-lateral-hypothalamic-gabaergic]]·[[liu-2026-granular-motivational-interaction-and]]·Tan 2022) — 수렴 원리인가 비특이 조작이 같은 행동 축을 당기는 것인가.
+- Tan 자인 한계: 역행성 활성화 대조군 없음, **Fig S6 보상 효과로 LH 중계의 필요성이 분리되지 않음**, 공표지 n=2마리, 수컷만.
+
+**갱신 11** — [[concept-lateral-hypothalamus]](cell types의 Camk2a 항목에 경고 하위불릿) · [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] · [[concept-neurotransmitter-cotransmission]] · [[jia-2026-novelty-exploration-activated-ensemble-in]] · [[concept-medial-preoptic-area]] · [[concept-orexin-neurons]] · [[concept-activity-molecular-registration]] · [[concept-appetitive-consummatory-phases]] · [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] · [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]] 외 · [[index.md|wiki/index.md]](🧠 시상하부 핵에 hub, LH 클러스터 세포 유형·아틀라스에 논문 2편; 총 514).
+
+**도구 규칙(hub에 박스로 정리)**: 프로모터 AAV 결과는 **"이 좌표의 혼합 집단을 조작하니 행동 X"** 만 licence한다. 전달물질 기반 Cre 결과와 한 문장에 합치지 말 것. 말단 자극에는 역행성 활성화 대조군 필요.
+
+**사용자 연구 함의(연결 가설)**: 이 문제는 종합 §8-2의 **[[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]] 부호 논쟁과 같은 뿌리**(드라이버 라인을 세포 유형으로 취급) → 우회로는 종합 **제안 4 INTERSECT**(Lepr-Cre × Vgat-Flp)와 **[[concept-activity-molecular-registration|활성–분자 정합]]**.
+
 ## 2026-10-03 — ingest + query (GLP-1RA 중추 접근 / BBB 침투)
 
 사용자 지시: West 2025 narrative review 추가 ingest + "glp-1 drug bbb penetration 관련 조사". ⚠️ **이 세션의 egress 프록시가 논문 호스트 전부를 차단**(link.springer.com·doi.org·PMC·Europe PMC·jci.org·cell.com·nature.com·Crossref 등 `EGRESS_BLOCKED`). WebSearch만 작동 → **웹 문헌은 모두 검색 요약 기반이며 1차 원문 미열람**. 두 페이지 모두 상단에 근거 수준 고지 박스를 넣고 문장별로 표기했다. **후속: `raw/`에 West 2025(+2025 Correction doi:10.1007/s40120-025-00758-2) · Secher 2014 · Gabery 2020 · Salameh 2020 · Imbernon 2022 · Christensen 2015 PDF 확보 후 (B)·(C) 칸 교체 필요.**

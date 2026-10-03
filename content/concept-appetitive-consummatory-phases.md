@@ -87,6 +87,7 @@ aliases: [appetitive phase, consummatory phase, eating phases]
   - Postprandial satiety 연장 (PYY·long-acting GLP-1RA) → non-prandial 단계.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **phase 표의 "LH^Camk2a" 행이 단일 세포 유형이 아니라는 경고**. 활동 부호(섭취 시 하강) ↔ 인과 효과(섭취 폭증) 비대칭과 출력 경로별 phase 분리를 유지하면서, 그 행의 분모가 논문마다 다르고 GABA 분율이 0%(정성)~33%로 갈린다는 한정을 함께 읽어야 한다.
 - [[lee-2019-food-craving-seeking-and]] — 이 phase 분해를 식이 행동(craving→seeking→consumption)에 적용·측정법 종합한 본 lab 리뷰 원전.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — phase × cell type 매핑.
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — 3 phases + non-prandial 정의.
