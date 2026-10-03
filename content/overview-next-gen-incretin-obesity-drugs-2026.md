@@ -68,3 +68,4 @@ updated: 2026-10-03
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 이 모든 약물 계보의 **출발점**: 1993년 인간 GLP-1R 클로닝·기능발현과 exendin-4(→Byetta, 최초 GLP-1RA) 규정. 여기서 파생된 고처리량 스크린이 **PAM·경구 소분자 작용제·biased agonist**를 낳았다 (Diabetes 2024 Classics).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 차세대 다중작용제의 미해결 질문 제기: **GLP-1R 작용의 추가/생략이 조직 특이 보호를 강화·약화·재편하는가** (Cell Metab 2026, Drucker).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 차세대 약물이 넘어야 할 **현행 표준 기준선**: tirzepatide 72주 −20.2%(≥30% 감량 19.7%), semaglutide −13.7% (NEJM 2025, SURMOUNT-5)

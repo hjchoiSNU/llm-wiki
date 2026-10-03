@@ -2,7 +2,7 @@
 title: "비만 약물치료의 진화하는 지형 (Petersen 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/Petersen et al. - 2026 - The evolving landscape of obesity pharmacotherapy.pdf"
 authors: [Jonas Petersen, Brian Finan, Timo D. Müller, Christoffer Clemmensen]
 year: 2026
@@ -47,3 +47,4 @@ year: 2026
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ 본 리뷰가 제시한 **"부위특이 NMDA 길항으로 rebound hyperphagia 차단"** 전략의 전임상 근거: 체중 감소가 PVH^TRH→AgRP 시냅스를 NMDAR 의존적으로 증폭하며, MK-801이 과식·체중 증가를 모두 차단 (Cell Metab 2023).
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — **LEAP2 유사체·leptin 재감작** 전략이 겨냥하는 set/reset 회로의 원리(ghrelin=set, leptin→POMC 오피오이드=reset) (Cell 2011).
 - [[concept-glp1ra-response-variability]] · [[su-2026-genetic-predictors-of-glp1-receptor]] — 본 리뷰의 "정밀의학·유전체 표적발굴" 절이 실제 데이터로 이어지는 곳(비유전 임상 요인 ~21%, `GLP1R` p.Pro7Leu).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 이 지형도의 head-to-head 기준점(SURMOUNT-5) (NEJM 2025)

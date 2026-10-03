@@ -2,7 +2,7 @@
 title: GIP는 GABAergic 뉴런을 통해 체중과 식이를 조절한다 (Liskiewicz 2023)
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2023 Nature Metabolism. Glucose-dependent insulinotropic polypeptide regulates body weight and food intake via GABAergic neurons in mice.pdf
 authors: [Liskiewicz A et al.]
 year: 2023
@@ -42,3 +42,4 @@ Vgat+ 억제성 GABA 뉴런에서 GIPR을 선택 결손시킨 생쥐(Vgat-Gipr K
 - [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR을 **길항**하는 접합체도 중추 GIPR·GLP-1R을 요구(Syn-Cre·Wnt1-Cre KO) — 작용/길항 양방향 모두 중추 요구성.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — 본 논문을 중추 GABAergic GIPR 근거로 인용한 상위 리뷰(GIPR는 다수가 비뉴런이라는 발현 지도와 대조).
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — 반대 방향(길항) 임상 전략.
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — tirzepatide의 추가 −6.5%p가 어느 GIPR 세포군에서 오는지에 대한 회로 후보(중추 GIPR GABA 뉴런) (NEJM 2025, SURMOUNT-5)

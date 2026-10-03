@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 484 (+ index.md, log.md)
+- 총 페이지: 485 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -227,6 +227,7 @@ _(섭식·동기 행동은 🍽️로)_
 - ★ **반응 이질성·정밀 항비만** — 개념 hub [[concept-glp1ra-response-variability]]. · [[su-2026-genetic-predictors-of-glp1-receptor]]: 23andMe GWAS(n=27,885)로 **`GLP1R` p.Pro7Leu**(사본당 추가 −0.76 kg)·**`GIPR` p.Glu354Gln**(tirzepatide 한정 구토 OR 1.83, 효능 무영향) 동정; **효능 신호와 오심 신호가 co-localize**(H4 96.6%). 단 전체 예측 R²=25%로 **대부분이 비유전 요인**(성별·약물·용량·T2D) (Nature 2026). · 행동 축은 [[koide-2025-association-between-eating-behavior]](external eating).
 - **기전·회로(GIP)** — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]]: GIP→중추 **GABAergic 뉴런** 의존 (Nat Metab). · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]]: GIP→ME **올리고덴드로사이트**·혈관투과성→GLP-1RA 뇌접근↑ (Cell Metab). · [[liu-2025-gipr-ab-glp-1-peptide]]: 중추 GIPR+GLP-1R 요구 (Nat Metab). · [[rupp-2023-suppression-of-food-intake-by]]: DMH **Glp1r·Lepr 수렴** 뉴런 (JCI). · [[crunkhorn-2025-pairing-up-with-glp-1]]: **GLP-1×렙틴 이중작용제**가 바로 이 DMH LepR^Glp1r 뉴런 표적(인과 검증)·NHP 공발현 (하이라이트, Polex-Wolf 2024).
 - **GIPR agonism vs antagonism 역설** — [[veniant-2024-a-gipr-antagonist-conjugated-to]](AMG133/maridebart, GIPR 길항+GLP-1, phase1) · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]](MariTide **월1회** phase2 −16.2%, NEJM).
+- ★ [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — **head-to-head phase 3b(SURMOUNT-5)**: 당뇨 없는 비만 750명, 72주 최대내약 용량에서 **tirzepatide −20.2% vs semaglutide −13.7%**(차 −6.5%p), 허리둘레 −18.4 vs −13.0 cm, ≥30% 감량 19.7% vs 6.9%. 두 군 모두 **여성이 약 6%p 더 감량**. 중단 유발 위장관 이상반응은 semaglutide(5.6% vs 2.7%), 주사부위 반응은 tirzepatide(8.6% vs 0.3%). open-label·Lilly 설계. 저자들은 **treat-to-target** 전환을 주장 (NEJM 2025).
 - **임상 시험** — [[aronne-2023-continued-treatment-with-tirzepatide-for]](tirzepatide SURMOUNT-4 유지/중단 rebound, JAMA) · [[coppin-2022-does-glp-1-receptor-agonist]](liraglutide는 food **liking 불변**=wanting 축, RCT preprint) · [[koide-2025-association-between-eating-behavior]](**external eating**이 GLP-1RA 반응 예측).
 - **리뷰·약리** — [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]](GIP/GLP-1 췌장외 대조, NRE) · [[scheen-2023-dual-gip-glp-1-receptor]](tirzepatide twincretin) · [[muller-2022-gut-hormone-triple-agonists-clinical]](삼중작용 retatrutide) · [[alfaris-2024-glp-1-single-dual-and]](단일/이중/삼중 landscape) · [[jastreboff-2023-new-frontiers-obesity-treatment]](NuSH 종합) · [[tschop-2023-gut-hormone-based-pharmacology-novel]](제형·경구화) · [[wan-2023-glp-1r-signaling-and-functional]](GLP-1R 신호·biased agonism) · [[gupta-2021-glucagon-like-peptide-1-and]](인간 뇌 GLP-1R 분포) · [[cao-2024-hunting-for-heroes-brain]](GLP-1RA 매개 뇌뉴런 DMH/후뇌/LS 비판적 종합).
 - ★ [[petersen-2026-the-evolving-landscape-of]] — 비만 약물치료 지형 2026 종합: 분자 포맷 5분류·GLP-1/GIP/glucagon/amylin 다중작용제·경구화·제지방 보존·조직특이 PDC·**유지생물학(defended adiposity)**·적응증 확장 (NRDD 2026, Clemmensen). [[overview-next-gen-incretin-obesity-drugs-2026]]의 상위 종합. 개념 [[concept-glucagon-receptor-agonism]]·[[concept-amylin-receptor-agonists]]·[[concept-peptide-drug-conjugate]].

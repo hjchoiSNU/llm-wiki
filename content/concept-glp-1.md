@@ -267,3 +267,4 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — ★ **체중 감소로 설명되지 않는 GLP-1 작용** 총정리: SELECT(체중 9.4%에 MACE 20%↓·중심지방이 효과의 1/3만 매개)·ESSENCE(간 종료점 50–70% 비체중)·STRIDE(BMI<30 다수)·hsCRP 매개 20.6–61.8%. **신경 GLP-1R이 말초 염증 억제에 필수** (Cell Metab 2026, Drucker).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ 위 "BBB — 대상을 구분할 것" 주석의 **약물별 정량 근거**: 설치류 뇌 유입속도(Ki)에서 **exendin-4 0.4231·lixisenatide 0.3271 μL/g-min, liraglutide·semaglutide는 측정 불가**; 원인으로 **acylation→albumin 결합**을 지목. 인간 직접 증거는 PD 환자 **exenatide CSF 1–2%** 한 건뿐 (Neurol Ther 2025, McIntyre).
 - [[concept-glp1ra-cns-penetrance]] — GLP-1RA가 뇌에 닿는 **6가지 경로**(CVO·tanycyte·수용체매개·수동확산·저분자·회로중계)와 증거등급·약물별 지도 hub.
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — semaglutide 최대내약(1.7/2.4 mg) 72주 −13.7%; tirzepatide와의 head-to-head 비교군 (NEJM 2025, SURMOUNT-5)

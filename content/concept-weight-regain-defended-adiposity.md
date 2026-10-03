@@ -2,7 +2,7 @@
 title: 체중 재증가와 방어되는 지방량 (Weight regain & defended adiposity)
 type: concept
 created: 2026-09-11
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, weight maintenance, 유지생물학]
 ---
 
@@ -87,3 +87,4 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[concept-digital-therapeutics]] — 유지기 개입 도구.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[walker-2026-a-hypothalamic-circuit-for]] — PVH^Sim2(=PVH^TRH 부분집합) 만성 silencing이 **12주간 섭취·체지방 감소를 유지**; 저자가 '다이어트 후 체중 유지' 표적으로 제시. 증폭기 축의 **상류 세포타입 진입점** (Neuron 2026, Lowell lab).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 72주 −20.2%·≥30% 감량 19.7%로 도달 깊이가 커진 만큼 유지 문제의 규모도 커짐(본 시험은 유지 국면 미검증) (NEJM 2025, SURMOUNT-5)

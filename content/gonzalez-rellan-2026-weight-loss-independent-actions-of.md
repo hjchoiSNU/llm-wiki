@@ -2,7 +2,7 @@
 title: Weight-loss-independent actions of GLP-1 medicines (Gonzalez-Rellan & Drucker 2026)
 type: paper
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-10-03
 source: raw/2026 Cell Metabolism. Weight-loss-independent actions of GLP-1 medicines.pdf
 authors: [Maria J. Gonzalez-Rellan, Daniel J. Drucker]
 year: 2026
@@ -75,3 +75,4 @@ GLP-1 약물의 광범위한 효능은 체중 감소만으로 설명되지 않�
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] · [[concept-glp1-neuroprotection]] — 신경보호 repurposing 축; "관찰 양성 vs RCT 음성" 논쟁의 배경으로 본 글의 체중 독립 기전이 인용될 수 있음.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide의 체중 감소 쪽 기전(후뇌 GLP1R·cAMP). 본 글은 그 **반대편(체중 비의존 축)**을 다룸.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 다중작용제 hub; 본 글의 미해결 질문(GLP-1R 생략 시 조직 보호는?)이 직접 연결.
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — ⚠️ 방향 차이: 본 시험은 심대사 개선이 **감량 구간에 비례**해 커진다고 강조(≥20% 감량군 수축기혈압 −9.1~−17.5 mmHg vs <10%군 −3.4~−6.7). 체중 의존·독립 성분의 공존 가능성으로 병기 (NEJM 2025, SURMOUNT-5)

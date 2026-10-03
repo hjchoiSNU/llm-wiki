@@ -79,3 +79,4 @@ journal: Nature Metabolism
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 유전학에서 **효능 신호와 오심 신호가 co-localize**(H4 96.6%) → 본 논문의 AP(혐오) vs NTS(non-aversive satiety) 분업이 실제로 **분리 가능한지**를 묻는 데이터 (Nature 2026).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 본 논문이 다루는 **체중 감소 기전의 반대편**: 체중과 무관하게 나타나는 장기 보호 작용 (Cell Metab 2026, Drucker).
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문의 **Gs 중심성에 대응하는 인간 유전 층**: GWAS(random glucose, n=476,326)에서 **Gs 공역 강도가 GLP-1R 변이 효과크기를 예측**한다. 마우스 AP의 Gs–cAMP 필수성과 인간 변이 효과가 **같은 변수**를 가리킴 (Diabetes 2024 Classics).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 임상에서 semaglutide 72주 −13.7%(최대내약); 본 논문이 규명한 AP Gs–cAMP 축의 임상 대응치 (NEJM 2025, SURMOUNT-5)

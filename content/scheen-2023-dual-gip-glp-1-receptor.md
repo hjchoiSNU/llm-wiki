@@ -32,3 +32,4 @@ year: 2023
 - [[lee-2017-glp-1-based-combination-therapy]] — 사용자 lab GLP-1 병용 로드맵(GLP-1/GIP co-agonist 선행 개념).
 - [[aronne-2023-continued-treatment-with-tirzepatide-for]] — tirzepatide 유지요법 RCT(SURMOUNT-4).
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — "dual = super GLP-1RA"에 대한 **수용체 수준 반론**: tirzepatide는 **β-arrestin 동원이 적고 GIPR 쪽으로 기운 unbalanced/biased** 작용제이며, cryo-EM에서 GLP-1R 결합형은 GLP-1과 거의 같고 **차이는 GIPR의 ECL1**에서 난다 (Diabetes 2024 Classics).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 본 리뷰가 다룬 이중작용의 임상 우월성을 head-to-head로 확인 (NEJM 2025, SURMOUNT-5)

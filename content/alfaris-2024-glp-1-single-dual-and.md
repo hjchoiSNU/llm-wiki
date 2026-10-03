@@ -36,3 +36,4 @@ year: 2024
 - [[le-roux-2026-survodutide-once-weekly-for]] — GLP-1/glucagon survodutide 임상.
 - [[davies-2026-elecoglipron-an-oral-small]] — 경구 소분자 GLP-1RA 후속.
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 landscape의 **첫 칸(exenatide)이 어디서 왔는가**: 1993년 인간 GLP-1R 클로닝 논문이 exendin-4(1-39)를 full agonist로 규정했고 그것이 Byetta가 됐다 (Diabetes 2024 Classics).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 단일 vs 이중 작용제의 사람 직접비교 자료 (NEJM 2025, SURMOUNT-5)

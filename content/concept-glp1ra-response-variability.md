@@ -94,3 +94,4 @@ GLP-1 수용체 작용제의 체중 감량 효능과 부작용은 개인차가 �
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 2층(유전)을 관통하는 **공통 기전 축**: GLP-1R 변이의 효과는 **세포표면 발현량**과 **Gs 공역 강도**로 예측된다(Gao 2023 Nat Metab 희귀변이 ~60개; Lagou 2023 Nat Genet n=476,326). 즉 반응 이질성의 유전 층은 "리간드 친화도"가 아니라 **수용체 양·공역 효율** 문제로 수렴 (Diabetes 2024 Classics).
 - [[concept-glp1ra-cns-penetrance]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 반응 이질성의 **약물 간 축**: 같은 GLP-1R를 겨냥해도 acylation 여부에 따라 뇌 유입(Ki)이 0에서 0.42 μL/g-min까지 갈린다. 개인차가 아닌 **분자·수송 층**의 분산 (Neurol Ther 2025).
 - [[concept-peripheral-epigenetic-biomarker]] — 예측 바이오마커의 **기여도를 정직하게 보고하는 기준**을 공유하는 인접 개념. 본 페이지가 유전 예측의 상한(전체 R² 약 25%)을 명시한 것처럼, 말초 후성유전 표지도 같은 수준의 보고를 요구해야 한다.
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — **두 약 모두에서 여성이 약 6%p 더 감량**(남성 비율 35%가 전체 감량을 선행 시험보다 낮춘 요인으로 저자 설명); 중단 유발 이상반응도 비대칭(위장관=semaglutide, 주사부위=tirzepatide) (NEJM 2025, SURMOUNT-5)

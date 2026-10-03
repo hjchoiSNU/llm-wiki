@@ -8,6 +8,31 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 (4) — ingest (Aronne 2025 NEJM, SURMOUNT-5 head-to-head)
+
+"ingest" 트리거. `raw/` 대조 결과 **신규 1건**: `2025 NEJM Tirzepatide as Compared with Semaglutide for the Treatment of Obesity.pdf`(22:42 투입). 위키 중복 검사 통과(SURMOUNT-5 관련 서술 없음). 나머지 미참조 파일은 모두 기존 판정대로 중복 사본·보충자료·비논문. `wiki/`와 루트에 잘못 들어간 PDF 없음.
+
+**새 페이지 1**: [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] (N Engl J Med 2025;393:26–36, SURMOUNT-5, Eli Lilly 후원).
+
+**핵심 수치**
+- phase 3b **open-label**, 당뇨 없는 비만 성인 750명(기저 BMI 39.4·체중 113.0 kg·비만 유병 15.6년), 최대내약 용량 주 1회 **72주**.
+- 1차: **tirzepatide −20.2% vs semaglutide −13.7%**, 치료차 −6.5%p(95% CI −8.1 ~ −4.9, P < 0.001). 절대량 −22.8 vs −15.0 kg.
+- 허리둘레 −18.4 vs −13.0 cm(차 −5.4 cm). 수축기혈압 −10.2 vs −7.7 mmHg.
+- 역치별: ≥10% 81.6/60.5 · ≥15% 64.6/40.1 · ≥20% 48.4/27.3 · ≥25% 31.6/16.1 · **≥30% 19.7/6.9**(상대위험 2.8).
+- **성차: 두 군 모두 여성이 약 6%p 더 감량.** 저자들은 이 시험의 남성 비율 35%(STEP 19–26%)가 전체 감량을 선행 시험보다 낮춘 요인이라고 설명.
+- 안전성 비대칭: **중단 유발 위장관 이상반응은 semaglutide**(5.6% vs 2.7%), **주사부위 반응은 tirzepatide**(8.6% vs 0.3%). 확인된 MACE·사망·갑상선수질암·췌장암 없음, 췌장염 1건(sema).
+- 저자 논지: 20–30% 감량이 가능해졌으니 **treat-to-target**으로 목표를 올리자(수면무호흡 18–20% 감량 시 42–50% 경증화·완화 vs 지침 권고 7–11%).
+
+**★ 위키 내 긴장 4건** (새 페이지 ⚠️ 절에 병기)
+1. **[[concept-gip]] GIPR agonism vs antagonism 역설** — 본 시험은 **agonism 쪽 임상 상한선**을 고정하지만 역설을 해소하지 않는다. 길항 전략([[veniant-2024-a-gipr-antagonist-conjugated-to|AMG 133]]·MariTide)도 감량을 강화하고 GWAS는 길항과 정합. 두 전략 직접비교 자료는 위키에 없음.
+2. **[[gonzalez-rellan-2026-weight-loss-independent-actions-of]]와 방향 차이** — 본 시험은 심대사 개선이 **감량 구간에 비례**한다고 강조(≥20% 감량군 SBP −9.1~−17.5 vs <10%군 −3.4~−6.7 mmHg). 체중 의존·독립 성분 공존 가능성으로 병기.
+3. **도달 깊이 ↔ rebound 규모** — [[aronne-2023-continued-treatment-with-tirzepatide-for|SURMOUNT-4]](−20.9% 후 중단 시 +14%)와 같은 약·유사 용량이므로 중단 시 재증가 폭도 커질 수 있다(본 시험 미검증). [[concept-weight-regain-defended-adiposity]]·[[proposal-glp1ra-rebound-nrf-junggyeon]]의 문제의식 확대.
+4. **성차 기전 미해결** — [[concept-glp1ra-response-variability]]의 기존 쟁점(임상 여성 우위 ↔ 마우스 암컷 특이 AgRP 의존)에 더 큰 표본의 관찰이 추가됐을 뿐 기전은 미규명.
+
+**한계**: open-label, 후원사가 설계·모니터링·분석 수행(최종저자 Lilly 소속), "최대내약"의 의미가 두 약에서 비대칭일 수 있음(sema 1.7 mg·tirz 10 mg 유지 허용), 72주로 유지·중단 국면 미포함.
+
+**갱신 18**: 역방향 링크 — [[concept-gip]] · [[concept-glp-1]] · [[concept-incretin-effect]] · [[aronne-2023-continued-treatment-with-tirzepatide-for]] · [[overview-next-gen-incretin-obesity-drugs-2026]] · [[petersen-2026-the-evolving-landscape-of]] · [[concept-glp1ra-response-variability]] · [[concept-weight-regain-defended-adiposity]] · [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] · [[veniant-2024-a-gipr-antagonist-conjugated-to]] · [[scheen-2023-dual-gip-glp-1-receptor]] · [[alfaris-2024-glp-1-single-dual-and]] · [[gao-2026-semaglutide-drives-weight-loss-through]] · [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] · [[le-roux-2026-survodutide-once-weekly-for]] · [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] · [[kim-2021-digital-therapeutics-for-obesity]] · [[lee-2025-hijacked-brain-modern-obesity-cue]]. [[index.md|wiki/index.md]] GLP-1/GIP incretin 절에 ★로 등재, 총 485페이지.
+
 ## 2026-10-03 (3) — ingest 점검 + Jung 2022 마무리 (Garcia 서지 건 해소)
 
 "다시 계속 ingest" 트리거. **`raw/` 전수 대조 결과 미정리 논문 0건.** `source:`·`source_suppl:` 고유값과 대조해 남은 미참조 파일은 모두 중복 사본(` 1`/` 2`/`(1)`/`(2)`)·보충자료·비논문(교재 docx·README·.mp4·stub)으로 기존 판정과 동일. `wiki/`와 프로젝트 루트에 잘못 들어간 PDF도 없다(wiki/는 `.md` 전용 유지).

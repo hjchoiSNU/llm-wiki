@@ -34,3 +34,4 @@ year: 2023
 - [[concept-glp1ra-response-variability]] — 반응 이질성 hub; 중단 후 rebound는 그 시간 축.
 - [[concept-weight-regain-defended-adiposity]] — 본 RCT의 +14% rebound가 앵커로 들어가는 체중 재증가 개념 hub(임상 수치·회로 기전·약물개발 전략 3층).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — 그 rebound의 **회로 후보 기전**: 체중 감소가 PVH^TRH→AgRP 시냅스를 증폭하고 이 증폭이 **체중이 회복될 때까지 유지**되며 NMDAR 차단으로 막힌다 (Cell Metab 2023).
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 같은 제1저자의 SURMOUNT-5 직접비교: 72주 tirzepatide −20.2% vs semaglutide −13.7%. 본 시험(유지·중단)과 상보적이며, 도달 깊이가 클수록 중단 시 재증가 폭도 커질 수 있다는 함의 (NEJM 2025)

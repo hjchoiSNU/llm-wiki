@@ -2,7 +2,7 @@
 title: "Rosenstock 2026 — CagriSema as Add-On to Basal Insulin in T2D (REIMAGINE 3)"
 type: paper
 created: 2026-06-21
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2026 Lancet Cagrilintide–semaglutide (CagriSema) as an add-on to basal insulin in adults with type 2 diabetes (REIMAGINE 3).pdf
 authors: [Julio Rosenstock, Liana K Billings, Francesco Giorgino, John B Buse, Akshay B Jain]
 year: 2026
@@ -42,3 +42,4 @@ journal: "Lancet"
 - [[rosenstock-2026-oral-small-molecule-glp]] — 동일 제1저자 aleniglipron.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 기반 복합요법.
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — amylin 병용이 겨루는 기준선(tirzepatide 72주 −20.2%) (NEJM 2025, SURMOUNT-5)

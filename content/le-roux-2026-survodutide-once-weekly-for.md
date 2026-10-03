@@ -2,7 +2,7 @@
 title: "le Roux 2026 — Survodutide Once Weekly for the Treatment of Adults with Obesity (SYNCHRONIZE-1)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-10-03
 source: raw/2026 NEJM Survodutide Once Weekly for the Treatment of Adults with Obesity.pdf
 authors: [C.W. le Roux, S. Wharton, A.M. Jastreboff, L.M. Kaplan, SYNCHRONIZE-1 Investigators]
 year: 2026
@@ -40,3 +40,4 @@ journal: "New England Journal of Medicine"
 - [[alfaris-2024-glp-1-single-dual-and]] — GLP-1/glucagon dual landscape.
 - [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — 또 다른 차세대 비만 임상(비교).
 - [[overview-appetite-energy-homeostasis]] — 상위 종합.
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 공저자 le Roux가 참여한 SURMOUNT-5 head-to-head. GLP-1/glucagon dual이 비교해야 할 기준선 (NEJM 2025)
