@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 473 (+ index.md, log.md)
-- 마지막 갱신: 2026-09-22
+- 총 페이지: 480 (+ index.md, log.md)
+- 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -127,6 +127,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 시상하부 EE 분야 history × frontier editorial (López·Friedman).
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — Microbiota-시상하부-WAT axis 종합 + 약물 효과.
 - [[johansen-2025-brain-control-of-energy]] — 비만 원인론→회로(시상하부·뇌간·보상)→neuroplasticity→뇌 표적 항비만 약물 field-spanning 종합 (Cell 2025, 사용자 lab 3편 인용).
+- [[bonnefond-2026-the-genetics-of-obesity]] — 비만 유전학 monogenic(>85형, 절반 이상 leptin–melanocortin)·oligogenic(엑솜 burden)·polygenic(GWAS >1,000 loci, PRS) 연속체 + 정밀의학(setmelanotide 상류 결손 80%/53% vs 이형접합 MC4R ~3 kg, PWS diazoxide choline, CTS 유전점수→liraglutide 반응) (Nat Metab 2026, Froguel·Bonnefond).
 - [[stuber-2025-the-neurobiology-of-overeating]] — 과식의 addiction-circuit·시냅스 가소성 모델; homeostatic+hedonic+crosstalk; food addiction 신중론 (Neuron 2025, Lüscher·Stuber; 사용자 Kim 2024 인용).
 - [[liu-2026-granular-motivational-interaction-and]] — 섭식을 "granular motivational states"(seeking→approaching→investigation→sustained eating→satiation→aversion)로 분해; 5 phase별 전용 회로 매핑 + BBQSM/AI 자연주의 패러다임; NMPU의 자매 framework (Neuron 2026, Liu·Wang; 사용자 Lee 2023 인용).
 - [[lee-2019-food-craving-seeking-and]] — 식이를 craving→seeking→consumption phase로 분해, phase×종별 측정법 종합; AgRP=appetitive-only 재정의; lab phase framework 원전 (JOMES 2019, 사용자 lab).
@@ -149,6 +150,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need + LH LepR=Motivation (Sci Adv 2024, 사용자 lab).
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — 자유 foraging에서 **ARC^AgRP 활성이 "먹이까지의 공간 거리"로 최적 설명**(접근↓·이탈↑ 양방향 ramp); 단식 상태 의존·학습으로 획득·기억 회상 중 유지(시각 의존)·냄새/현저성으로 설명 불가. Need의 **공간 예측 축**; 제안 경로 해마→LS→LH→DMH→AgRP (bioRxiv 2026, Yapici·Oliva·Fernandez-Ruiz lab).
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — LH LepR seeking·consummatory subpopulation (Nat Comm 2023, 사용자 lab).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — ★ LH^Vgat 세션 간 2-photon 추적 → **두 ensemble**: 열 처벌·음식 cue 공통 **motivational salience**(중립 tone 무반응) vs 먹이·물·고형식 공통 **value-scaled consumption**(금식·농도·Ex-4 의존) (Cell Rep 2026, SNU 김성연 lab).
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP(macaque) LHA GABAergic chemogenetic 활성화가 palatable food 한정 goal-directed 식이↑; GABA PET·7T MRS·rs-fMRI 검증; rodent→human 번역 다리 (Neuron 2024, 사용자 lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 매개 (bioRxiv 2025, Knight lab).
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH 3 motivational drive arbitration (Korotkova).
@@ -169,9 +171,12 @@ _(섭식·동기 행동은 🍽️로)_
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — AgRP가 칼로리 아닌 **영양소 정체**에 반응(fructose≪glucose 억제); fructose 전용 **PYY→Y2R→미주 구심성** 경로; graded AgRP 억제→food preference (Neuron 2026, Alhadeff·de Lartigue).
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — ARC POMC **PKA→α-MSH→MC4R(DMV)→미주 원심성→장 SGLT1↓** 회로가 식후 혈당↓(인슐린 비의존); 세마글루타이드 혈당강하가 POMC PKA 의존(tirzepatide 비의존) (Nat Commun 2026, Min-Seon Kim).
 - [[walker-2026-a-hypothalamic-circuit-for]] — 전측 PVH **Sim2⁺ 흥분성 뉴런 → ARC^AgRP** 회로가 위장관·호르몬 feedback이 아닌 **미래 에너지 상태 예측 cue**(먹이 부재·탐색 실패, 피질 ACC·복측 해마 입력)로 단식 초기 AgRP 빠른 활성·장기 섭취 유지; AgRP=Need 예측의 상류 회로 (Neuron 2026, Lowell lab).
+- [[wang-2026-a-hypothalamic-circuit-links]] — ★ 만성 HFD가 **ArcAgRP→PVNCRH→LHAGlu** 회로를 질병 맥락에서 재결합해 불안+과식 커플링. 상류(Arc→PVN) 억제는 불안·과식 모두↓, 하류 **LHA-CRHR2**는 과식만 선택 매개; 불안-취약 아형만 표현형, midazolam으로 과식↓ (Nat Commun 2026, Xuesheng Liu lab).
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — **vDMH^LepR/pDYN GABAergic → ARC^AgRP** 선택적 억제 입력(AgRP 100% vs POMC 9%)이 음식 cue 시 빠르게 활성·**음식 가치(초콜릿>chow) 부호화**해 AgRP를 끔(preconsummatory suppression의 시냅스 출처); Walker 2026 흥분성 입력의 거울상 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — **PVH TRH/PACAP → ARC^AgRP** 흥분성 회로가 섭식 구동("PVH=satiety" 통설 반전); AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로; Walker 2026 PVH^Sim2의 모태 (Nature 2014, Lowell lab).
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP가 aBNST·PVH·LHA·PVT로 **축 담보 거의 없이 부분군별 독립 투사**, 각 투사(aBNST·PVH·LHA)가 섭식-충분(one-to-all 기각); 병렬·중복 배선 = 생존행동의 redundancy (Cell 2013, Sternson lab).
+- [[gordon-2026-lateral-hypothalamic-control-of]] — LH^GABA/LH^Glut 비율이 섭취물 가치·valence 추적 + 선조체 DA 전후축 지형 인과 설정; DA는 섭취 개시(bout 수)만 강화 (Neuron 2026, Stuber lab). → 🎯 Value broadcast 참조.
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 세마글루타이드 반응 **NTS Adcyap1⁺→ARC / →DMH** 분업: 공통으로 단식 재급식·초콜릿 폭식만 **비혐오적**(CTA 없음) 억제·AgRP Fos↓; **→ARC = 섭취 무관 ketone↑·체중↓**, **→DMH = EE↓**; 반응 Adcyap1^NTS 절반이 `Slc32a1`⁺ (bioRxiv **preprint** 2026, Engström Ruud lab).
 
 #### 시냅스 가소성 — 배고픔 신호의 gain과 그 유지
 개념 hub: [[concept-agrp-synaptic-plasticity]] · [[concept-circuit-bistability-hysteresis]] · [[concept-weight-regain-defended-adiposity]].
@@ -435,6 +440,8 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]]
+- [[concept-obesity-genetics]] — 비만 유전학 hub: monogenic·oligogenic·polygenic 연속체, 침투도의 환경·PRS 의존, 정밀의학 번역.
+- [[concept-ketogenesis]] — ketone(BHB)·EE·RER을 섭취와 분리해 읽는 설계 원칙과 회로 제어(NTS→ARC vs NTS→DMH) hub.
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]] — eCB는 **말초 지방 섭취 + 중추 eCB-LTP 학습 규칙 + NAc 핫스폿 '좋아함'** 3축
 - [[concept-one-shot-learning]] — 단일시행 학습의 비고전적 가소성 규칙(eCB-LTP·BTSP); 짧은 1회 vs 반복 경험의 분업
 - [[concept-neurotransmitter-cotransmission]] — 한 뉴런의 **복수 전달물질 방출**(DA+Glu·DA+GABA·Glu+GABA·TH⁺무DA). 공방출 여부가 **투사 표적과 짝지어져** 교차 유전학(INTRSECT)으로 분리 조작 가능 → "도파민이 하는 일"이 실은 글루타메이트일 수 있다는 축
@@ -630,6 +637,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 선조체 전역 dSPN/iSPN 칼슘 **× 글루탐산 입력** 병렬 측정으로 신호의 기원을 해리: cue 위치·licking은 **상속**, **pDMS 경로대립 가치(dSPN⁺/iSPN⁻)** 와 **pVLS dSPN ramping**은 **국소 변환**. 학습은 전역 가치를 부과하지 않고 선재 감각 scaffold 위에만 얹힌다 (bioRxiv 2026, Howe lab).
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 도파민의 또 다른 역할: **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). _(본문은 🧩에)_
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — VTA 도파민 뉴런의 **크로마틴 priming**(SETD7·H3K4me1)이 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭; 기저 상태는 정상 (Neuron 2026). _(본문은 🍽️ 발달/DOHaD에)_
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 내 salience vs value-scaled consumption ensemble 분리 (Cell Rep 2026).
 
 ### 진영 — Interoceptive primary reward (RL framework)
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — Primary/proxy/secondary reward + state-driven vs event-driven (Trends Cogn Sci 2025).
@@ -647,6 +655,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — VTA spike vs NAc release dual-channel (Nature 2019).
 - [[rice-2019-closing-in-on-what-motivates]] — Mohebi 2019 News & Views (Nature 2019).
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — **cue-유발 NAc 도파민=주관적 가치**(reward 시점 도파민 아님)가 자연 vs 인공보상 선호·처벌 무릅쓴 compulsion을 예측; 중독 취약성 조기 표지 (Nat Neurosci 2026, Lüscher lab). _(유인-감작·food addiction과 직결)_
+- [[gordon-2026-lateral-hypothalamic-control-of]] — LH^GABA/LH^Glut 균형(LHA^Ratio)이 섭취물 가치·valence를 추적하고 선조체 DA를 전후축 gradient(전측 가치/후측 감각운동/TS 평행 채널)로 **인과 설정**; DA는 섭취 개시(bout 수)를 강화·지속은 비강화; subregion별 국소 제어(spiral cascade 아님) (Neuron 2026, Stuber lab).
 
 ### 진영 — Belief-state / hidden-state inference
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — belief-state RPE 종합 (NN 2024).

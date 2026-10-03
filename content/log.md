@@ -8,6 +8,41 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 — ingest (논문 5편 — LH GABA ensemble·Stuber LH→선조체 DA·비만 유전학·HFD 불안-과식 회로·세마글루타이드 뇌간→시상하부)
+
+"ingest" 트리거(클라우드 세션). 이 세션에는 로컬 `raw/`가 없어, Google Drive **"최형진 추천 _ 저널 발표 후보 논문들(사용중)"** 폴더에서 09-19 이후 추가된 PDF 5건을 위키 `source:`와 대조 → **5건 모두 미정리**. Drive 원문을 직접 읽어 정리. 각 페이지 `source:`는 관례대로 `raw/<Drive 파일명>`으로 기재했으나 **실제 `raw/` 복사는 로컬에서 필요**.
+
+**새 페이지 7** (논문 5 + 개념 2)
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — Cell Rep 45:118049, doi:10.1016/j.celrep.2026.118049; SNU 김성연 lab.
+  - LH^Vgat 세션 간 2-photon 추적 → **motivational salience ensemble**(열 처벌·caged PB 공통, r=0.59; 중립 tone·동공 각성만으론 무반응) vs **value-scaled consumption ensemble**(먹이·물 공통 흥분 90/366, r=0.62; 금식+100% > 25% 희석 ≈ 자유급식). Ex-4는 진폭만↓(class 비율 불변). IO vs IG: 먹이 겹침 30/93, 물은 우연 수준 10/77.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — Neuron (in press), doi:10.1016/j.neuron.2026.09.002; Stuber lab.
+  - LH^GABA(+)/LH^Glut(−) 가치 scaling → **LHA^Ratio**. GRAB-DA 223 fiber/47 mice/7 subregion: GABA→전측 DA↑, Glut→전측↓·**TS↑**. 말단 자극 DA는 국소적(초 단위 spiral cascade 없음). 섭취 DA 후측→전측 gradient. closed-loop DA는 **bout 수(개시)↑**, 지속 비강화(DLS OR 1.32). 상대가치 의존·saccharin > sucrose.
+- [[bonnefond-2026-the-genetics-of-obesity]] — Nat Metab 8:778–794, doi:10.1038/s42255-026-01497-w; Froguel·Bonnefond (리뷰).
+  - 유전율 40–75%; monogenic >85형(절반 이상 leptin–melanocortin)·oligogenic(APBA1·PTPRG·SLTM·GLP1R burden)·polygenic(GWAS >1,000 loci) 연속체. MC4R 침투도 연령·PRS 의존(2.2× vs 9.7×). PRS 최상위 10분위 BMI 30.0 vs 25.2. setmelanotide POMC/PCSK1 80%·LEPR 53% vs 이형접합 MC4R ~3 kg. CTS(140–2,166 kcal) 유전점수 AUC 0.82 → 낮은 CTS = liraglutide 반응↑.
+- [[wang-2026-a-hypothalamic-circuit-links]] — Nat Commun (AiP), doi:10.1038/s41467-026-77749-w; Anhui Med Univ Xuesheng Liu lab.
+  - 12주 HFD → 불안-취약 아형만 과식·체중↑(midazolam으로 과식↓). **ArcAgRP→PVNCRH→LHAGlu** 필요·충분; AgRP→PVNCRH 단일시냅스 oEPSC+oIPSC. LHAGlu 억제 = brake 해제 = 과식. **LHA-CRHR2**는 과식만 매개(불안 무관).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — **bioRxiv preprint**(peer review 전), doi:10.64898/2026.09.04.749561; Gothenburg Engström Ruud lab.
+  - 세마글루타이드가 ghrelin·단식 유발 AgRP 활성을 소거(AgRP^Gq가 약효 역전). **Adcyap1^AP/NTS 필요**(taCasp3 삭제 시 소실). **NTS→ARC = 섭취 무관 ketone↑·체중↓ / NTS→DMH = EE↓**. 둘 다 단식 재급식·초콜릿 폭식만 억제, CTA 없음. 반응 Adcyap1^NTS 절반이 Slc32a1⁺.
+- 개념: [[concept-obesity-genetics]](monogenic·oligogenic·polygenic hub — 기존 concept-mc4r은 분자 수준만) · [[concept-ketogenesis]](ketone·EE·RER을 섭취와 분리해 읽는 설계 원칙 hub).
+
+**갱신 ~65** — 역방향 링크(+`updated:` 2026-10-03). 주요: [[concept-lateral-hypothalamus]](3편) · [[concept-appetitive-consummatory-phases]] · [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] · [[concept-npy-agrp-neurons]] · [[concept-arcuate-nucleus]] · [[concept-paraventricular-nucleus]] · [[concept-dorsomedial-hypothalamus]] · [[concept-dorsal-vagal-complex]] · [[concept-glp-1]] · [[concept-mc4r]] · [[concept-emotional-eating]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[kim-2024-glp-1-increases-preingestive-satiation]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[korotkova-2026-balancing-acts-lateral-hypothalamic]] · [[gao-2026-semaglutide-drives-weight-loss-through]] · [[johansen-2025-brain-control-of-energy]] 외 · [[index.md|wiki/index.md]](🍽️ 종합·이론/회로·세포, 💡 메커니즘·분자, 🎯 Value broadcast·Heterogeneity에 등재; 총 페이지 480·갱신일).
+
+**★ 위키 내 충돌·긴장 — 덮어쓰지 않고 병기** (각 새 페이지의 ⚠️ 절 + 해당 페이지에 메모)
+1. **LH^Vgat = 섭식 engine**([[chen-2025-the-integrated-function-of-the]]·[[concept-lateral-hypothalamus]]) vs Lee 2026: 상당수가 혐오 열에 흥분 — 상관 vs 인과 층위 차이. Jennings 2015 appetitive subset = seeking vs salience 코더.
+2. **사용자 lab [[lee-2023-lateral-hypothalamic-leptin-receptor]] "LH GABA 8% food-specific"** vs Lee 2026 caged PB 흥분 22% — 정의·조건이 달라 직접 비교 불가로 명시.
+3. **Haber spiral**([[concept-nucleus-accumbens]]·[[concept-compulsion]]) vs Gordon 2026 국소 DA 제어 — 시간척도 제한으로 병기. **[[stuber-2025-the-neurobiology-of-overeating]] DA = 섭식 지속** → Gordon: 개시만 강화(부분 수정).
+4. **[[concept-mc4r]]**: "Gq-coupled" vs Bonnefond·Stuber Gαs–cAMP 정준. setmelanotide "MC4R 결손에도 효과" vs 이형접합 ~3 kg. **[[johansen-2025-brain-control-of-energy]]** GWAS 유전자 시상하부 우선 vs Bonnefond insula·SN 우선.
+5. **[[krashes-2014-an-excitatory-paraventricular-nucleus-to]]**: PVH^CRH–AgRP 무연결·PVH→AgRP 방향 vs Wang 2026 AgRP→PVNCRH 단일시냅스(만성 HFD). 정서적 섭식 VTA 중심 모델 vs 순수 시상하부-내 회로.
+6. **[[gao-2026-semaglutide-drives-weight-loss-through]]** NTS^Glp1r Gs 무관 vs Blid Sköldheden NTS Adcyap1 relay. [[davila-2026-agrp-neurons-are-required-for]] AgRP 필수·모집 vs 급성 억제. [[concept-central-amygdala-glp1r]] 전담 구도 vs NTS→ARC/DMH 병렬 palatable 억제. Lee 2018 DMH GLP-1→BAT↑ vs NTS→DMH EE↓.
+
+**연결 가설(원문 주장 아님 — 페이지에 명시 구분)**
+- ① NMPU 매핑: salience ensemble = Motivation, consumption ensemble = Need×Utility. LHA^Ratio = Motivation readout. PVNCRH = 정서 입력을 Need→Motivation 변환에 주입. 세마글루타이드 = Need/Motivation 증폭 단계만 삭감.
+- ② DMH GLP1R 제안의 대조 조건: 국소 수용체 vs 상행 NTS Adcyap1 입력.
+- ③ 비만 유전 층화: monogenic = Need 축, polygenic = Pleasure/Motivation 축. PRS·CTS를 GLP-1RA 반응·rebound 연구의 층화 변수로.
+- ④ CRHR2 = 불안 무관 anti-hyperphagia 표적. NTS→DMH EE↓ = 체중 재증가 방어 회로 후보.
+
+**후속 필요**: 위 Drive PDF 5건을 로컬 `raw/`에 복사(파일명 동일). 인물 페이지(김성연·Engström Ruud)는 위키 내 원전 1편뿐이라 보류.
+
 ## 2026-09-22 — ingest (Holton·Niv·O'Reilly 2026 Trends Cogn Sci — 고집스러운 목표의 적응 가치)
 
 "ingest" 트리거. `raw/` 전수 대조(파일 343건 vs 위키 `source:` 고유값 298) 결과 **미정리 논문 PDF 0건**. 대신 사용자가 `wiki/`에 넣은 `The adaptive value of stubborn goals.pdf`(2026-09-22 10:17 투입)를 발견 → 09-21 선례대로 `raw/`에 같은 이름으로 복사(md5 `a8014c34…` 일치 확인) 후 wiki/ 사본 삭제. wiki/는 다시 `.md` 전용.
