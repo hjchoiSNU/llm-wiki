@@ -2,7 +2,7 @@
 title: "Closing in on what motivates motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-10-03
 source: "raw/2019 Nature. Closing in on what motivates motivation.pdf"
 authors: [Rice ME]
 year: 2019
@@ -72,3 +72,4 @@ note: "Commentary on [[mohebi-2019-dissociable-dopamine-dynamics-learning-motiva
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — motivation 진영.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — 현재 논쟁.
 - [[concept-dopamine-reward-system]] — DA 회로.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ANCCR 원전: NAcc **방출**만 측정(firing–release 해리는 다루지 않음); 회고적 정보 공급원으로 OFC→VTA 제시 — 위 표의 "국소 조절로 통합" 서술은 위키 측 추론.

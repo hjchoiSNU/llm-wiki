@@ -2,7 +2,7 @@
 title: "De novo protein design (신규 단백질 설계)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -23,3 +23,4 @@ updated: 2026-07-28
 - [[person-baker-david]] — 분야 개척자.
 - [[concept-gpcr-drug-discovery]] · [[concept-biased-agonism]] — 창약 응용.
 - [[pun-2026-target-identification-and-assessment-in]] · [[concept-ai-drug-discovery]] — AI 창약 자매 축.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — GLP1R **ECD 표적 길항제 설계의 구조 전제**: 펩타이드 작용제는 **C-말단으로 ectodomain에 결합**하고 그 덕에 리간드 N-말단이 막관통 도메인에 관여한다(1993년 결합친화도 관찰 → cryo-EM 확인) (Diabetes 2024 Classics).

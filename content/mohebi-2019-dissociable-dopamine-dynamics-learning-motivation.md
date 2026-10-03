@@ -2,7 +2,7 @@
 title: "Dissociable dopamine dynamics for learning and motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2019 Nature. Dissociable dopamine dynamics for learning and motivation.pdf"
 authors: [Mohebi A, Pettibone JR, Hamid AA, Wong JT, Vinson LT, Patriarchi T, Tian L, Kennedy RT, Berke JD]
 year: 2019
@@ -129,6 +129,7 @@ journal: "Nature 570:65–70"
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — motivation 진영.
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA heterogeneity.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — multi-channel modulator.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 본 논문을 NAc 방출 RPE 근거로 인용한 뒤 NAcc dLight1.3b로 TDRL RPE를 반박(ANCCR). 음의 RPE 약함을 floor effect 없이 설명. 단 원전은 회고적 정보 공급원으로 OFC→VTA를 제시 — 위 "NAc 국소 메커니즘으로 호환"은 위키 측 추론.
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — DA를 meta 수준 gain 조절(meta-RPE)로 해석; dual-channel dynamics 관점 확장 (Nature 2026).
 - [[concept-dopamine-reward-system]] — DA 회로 (dual-channel 추가).
 - [[concept-need-motivation-pleasure-utility]] — Motivation 성분.

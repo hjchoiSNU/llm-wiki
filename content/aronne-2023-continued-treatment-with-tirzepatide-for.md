@@ -2,7 +2,7 @@
 title: SURMOUNT-4 — 티르제파타이드 지속 vs 중단의 체중 유지 RCT
 type: paper
 created: 2026-07-05
-updated: 2026-09-11
+updated: 2026-10-03
 source: raw/2023 JAMA. Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity.pdf
 authors: [Aronne LJ et al.]
 year: 2023
@@ -23,6 +23,7 @@ year: 2023
 - **Claim**: 비만은 만성·재발성 대사질환 → 유지·심혈관대사 이득 위해 **장기 약물치료 필요**. (위약군도 종료 시 −9.9% 유지 = legacy effect는 추가 연구.)
 
 ## 관련 페이지
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 중단 후 재증가를 **수용체 수준**에서 물을 근거: GLP-1R은 지속 자극 시 β-arrestin 동원→내재화→desensitization을 겪고, **β-arrestin 회피 편향 리간드는 표면 유지로 장기 반응을 개선**한다. 단 이 데이터는 β세포·세포주 기반이고 **뉴런 GLP-1R trafficking은 미검증** (Diabetes 2024 Classics).
 - [[concept-glp-1]] · [[concept-gip]] — 티르제파타이드의 두 작용 축(GLP-1R+GIPR).
 - [[concept-incretin-effect]] — 티르제파타이드가 활용하는 incretin 생리.
 - [[proposal-glp1ra-rebound-microbiota]] — 사용자 lab의 GLP-1RA 중단 후 rebound 기전 연구제안(임상 rebound 앵커).

@@ -2,7 +2,7 @@
 title: "Dopamine-independent effect of rewards on choices through hidden-state inference"
 type: paper
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2024 Nature Neuroscience. Dopamine-independent effect of rewards on choices through hidden-state inference (1).pdf"
 authors: [Blanco-Pozo M, Akam T, Walton ME]
 year: 2024
@@ -165,6 +165,7 @@ VTA cell body GCaMP, NAc·DMS axon GCaMP, NAc·DMS dLight (DA release).
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA·striatum 영역별 dissociation 의 anatomical 기반.
 - [[lee-2024-feature-specific-prediction-error]] — VTA DA 의 feature-별 분해.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전 진영의 종합. 본 논문은 핵심 인과 증거.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ANCCR 원전. 위 "cue-induced relapse" 절의 ANCCR 근거는 원전 Test 6(행동 소거 후 cue 도파민 양성 유지). 원전 Test 11은 CS2→보상 구간 VTA DA 억제에도 CS1 학습이 보존됨을 보여, "학습이 특정 시점 DA에 전적으로 의존하지 않는다"는 본 논문과 같은 방향.
 - [[concept-dopamine-reward-system]] — DA 회로 (cortex-BG framework 추가).
 - [[concept-need-motivation-pleasure-utility]] — NMPU 분해 (cortical vs DA 차원 추가).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.

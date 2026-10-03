@@ -2,7 +2,7 @@
 title: "Ventral tegmental area: cellular heterogeneity, connectivity and behaviour"
 type: paper
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-10-03
 source: "raw/2017 Nature Reviews Neuroscience. Ventral tegmental area cellular heterogeneity, connectivity and behaviour.pdf"
 authors: [Morales M, Margolis EB]
 year: 2017
@@ -148,6 +148,7 @@ Lammel 2012 Nature (본 논문의 frame):
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — multi-function modulator.
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — motivation 진영.
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — unified value (NAc aggregate 측정).
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ANCCR 원전. RPE를 충실히 신호하는 도파민계가 일부일 수 있다는 이질성 논의([23–30])를 의식해 **RPE 지지가 가장 강한 NAc core**를 골라 반박 — 다른 투사의 검증은 미완.
 - [[concept-lateral-hypothalamus]] — LHT → VTA 회로.
 - [[concept-need-motivation-pleasure-utility]] — 분해 framework.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 5 maladaptive types 의 회로 분리.

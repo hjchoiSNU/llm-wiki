@@ -2,7 +2,7 @@
 title: "Blood–brain barrier shuttle (BBB 셔틀)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -28,3 +28,6 @@ receptor-mediated transcytosis(RMT)를 이용해 대형분자 약물을 혈액�
 - [[concept-glp1-neuroprotection]] · [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — CNS 침투 차세대 GLP-1RA.
 - [[liu-2025-gipr-ab-glp-1-peptide]] · [[concept-peptide-drug-conjugate]] — 접합·표적 전달.
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 위키 내 유일한 CNS-침투 GLP-1RA 실물 사례(OHP2, caveolae 수송; 마우스 AD 전임상). RMT 셔틀과 다른 기전.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — ⚠️ **대비 서술**: 형광 리간드 근거로 말초 투여 exendin-4·semaglutide가 **시상하부·뇌간에 "쉽게 접근(readily access)"**한다고 적는다. 셔틀 없이 닿는 구역(뇌실주위기관·tanycyte 경유)과 셔틀이 필요한 심부 구역을 구분해 읽을 것 (Diabetes 2024 Classics).
+- [[concept-glp1ra-cns-penetrance]] — **자연 경로**(CVO·tanycyte·수용체매개·수동확산) 쪽 hub. 본 페이지의 공학적 우회와 짝을 이룬다.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 왜 셔틀이 필요한지의 정량 근거: acylation(albumin 결합)이 혈중 안정성을 얻는 대신 BBB 투과를 희생한다는 설계 trade-off (Neurol Ther 2025).

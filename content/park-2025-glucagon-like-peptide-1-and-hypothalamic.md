@@ -2,7 +2,7 @@
 title: "Glucagon-Like Peptide-1 and Hypothalamic Regulation of Satiation: Cognitive and Neural Insights from Human and Animal Studies"
 type: paper
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-10-03
 source: "raw/2025 DMJ Glucagon-Like Peptide-1 and Hypothalamic Regulation of Satiation- Cognitive and Neural Insights from Human and Animal Studies.pdf"
 authors: [Park JS, Kim KS, Choi HJ]
 year: 2025
@@ -99,5 +99,6 @@ DMH가 GLP-1RA의 핵심 표적, **pre-ingestive cognitive satiation을 매개**
 - [[concept-central-amygdala-glp1r]] — hedonic 축 GLP-1R 노드(CeA^Glp1r→VTA→NAc) 개념 hub.
 - [[concept-dorsal-vagal-complex]] — hindbrain GLP1R 무대 (DMH 시상하부 경로와 대비).
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 말초 large-peptide 5중작용제는 BBB 미투과·hindbrain(AP/NTS) 작용 → 본 review의 중추 cognitive satiation 경로와 대비 (Nature 2026).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-penetrance]] — ⚠️ **해석의 분기점**: 전신 투여 liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않으므로, 본 review의 DMH GLP-1R 효과를 "약물이 DMH 실질에 직접 도달"로 설명하려면 tanycyte·CVO 경유 또는 후뇌발 회로 중계를 전제해야 한다. 위키 자료로는 판정 불가 (Neurol Ther 2025).
 - [[person-choi-hyung-jin]] — 본 lab.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

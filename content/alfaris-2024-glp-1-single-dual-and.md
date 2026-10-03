@@ -2,7 +2,7 @@
 title: "GLP-1 single, dual, and triple receptor agonists for treating type 2 diabetes and obesity: a narrative review"
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2024 eClinicalMedicine. GLP-1 single, dual, and triple receptor agonists for treating type 2 diabetes and obesity.pdf
 authors: [Alfaris N, Waldrop S, Johnson V, Boaventura B, Kendrick K, Stanford FC]
 year: 2024
@@ -35,3 +35,4 @@ year: 2024
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — MariTide(GIPR antagonist-GLP-1) 원저.
 - [[le-roux-2026-survodutide-once-weekly-for]] — GLP-1/glucagon survodutide 임상.
 - [[davies-2026-elecoglipron-an-oral-small]] — 경구 소분자 GLP-1RA 후속.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 landscape의 **첫 칸(exenatide)이 어디서 왔는가**: 1993년 인간 GLP-1R 클로닝 논문이 exendin-4(1-39)를 full agonist로 규정했고 그것이 Byetta가 됐다 (Diabetes 2024 Classics).

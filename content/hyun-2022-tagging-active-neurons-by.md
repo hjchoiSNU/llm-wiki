@@ -2,7 +2,7 @@
 title: "Hyun et al. 2022 — soma-targeted Cal-Light로 활성 뉴런 태깅"
 type: paper
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-03
 source: raw/2020 Nature Communications. Tagging active neurons by soma-targeted Cal-Light.pdf
 authors: [Jung Ho Hyun, Kenichiro Nagahama, Ho Namkung, Hyung-Bae Kwon]
 year: 2022
@@ -38,3 +38,4 @@ Hyun JH … **Kwon H-B** (Johns Hopkins·MPFI; lead Jung Ho Hyun=현 DGIST), *Na
 - [[concept-need-motivation-pleasure-utility]] — tag-then-manipulate가 검증하는 동기 회로.
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-lateral-hypothalamus]] · [[concept-nucleus-accumbens]] — 섭식·보상 적용 후보 회로.
 - [[person-kwon-hyung-bae]] — 교신저자.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Cal-Light 적용 사례: LH 열 처벌·sucrose 섭취 활성 집단 태깅 후 투사 비교(현정호 지도) (Cell Rep 2026)

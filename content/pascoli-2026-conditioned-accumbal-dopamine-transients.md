@@ -2,7 +2,7 @@
 title: "Conditioned accumbal dopamine transients forecast individual preference for drug versus natural rewards and compulsive behavior (Pascoli 2026)"
 type: paper
 created: 2026-06-30
-updated: 2026-09-22
+updated: 2026-10-03
 source: raw/2026 Nature Neuroscience (Luscher) Conditioned accumbal dopamine transients forecast individual preference for drug versus natural rewards and compulsive behavior.pdf
 authors: [Pascoli V, Python L, Hiver A, van Zessen R, "...", Esmaeili V, Lüscher C]
 year: 2026
@@ -51,6 +51,7 @@ year: 2026
 - [[stuber-2025-the-neurobiology-of-overeating]] — Lüscher·Stuber 과식의 중독-회로 모델(같은 lab 계열).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전 종합.
 - [[berridge-2023-separating-desire-from-prediction-of]] — 갈망/가치 ≠ 예측·좋아함.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — NAc cue 도파민의 또 다른 해석: incentive value로 스케일된 **회고적 인과 표적 신호(ANCCR)**. cue 도파민이 행동 학습보다 먼저 생기고 행동 소거 후에도 남는다는 결과는 "cue 도파민 = 조기 취약성 표지"와 같은 방향이나, 비만·중독에서 cue 도파민 과대가 **가치 상승**인지 **인과 연합 강화**인지는 분리 검정이 필요 (Science 2022).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 약물반응 NAc MSN subtype 공간 매핑.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **본 연구의 이론적 모태**(Annu Rev Neurosci 2021, 같은 저자). oDASS·처벌 저항·양봉분포 패러다임과 "cue 도파민이 취약성을 예고하는가"라는 질문이 여기서 나왔다.

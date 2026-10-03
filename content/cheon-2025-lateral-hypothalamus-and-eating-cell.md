@@ -2,7 +2,7 @@
 title: "Lateral hypothalamus and eating: cell types, molecular identity, anatomy, temporal dynamics and functional roles"
 type: paper
 created: 2026-04-30
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2025 EMM Lateral hypothalamus and eating cell types, molecular identity, anatomy, temporal dynamics and functional roles.pdf"
 authors: [Cheon DH, Park S, Park J, Koo M, Kim HH, Han S, Choi HJ]
 year: 2025
@@ -100,3 +100,4 @@ LH의 세포 다양성, 4개 subdivision, 시간 동역학, 기능적 역할을 
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 본 리뷰가 임상 전망으로 언급한 NHP LHA GABA chemogenetic 유전자치료 원저(동일 lab, Neuron 2024).
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 본 리뷰의 LH^Nts 항목에 대응하는 인과 침묵 실험(총 섭취 불변·음수/각성/자발운동 손상, bioRxiv 2026).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat salience vs ingestion ensemble; 위내 먹이 주입 반응이 구강 반응과 겹침(r = 0.40) — "palatability, calorie 아님" 서술과 긴장 (Cell Rep 2026)

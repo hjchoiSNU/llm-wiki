@@ -2,7 +2,7 @@
 title: "A feature-specific prediction error model explains dopaminergic heterogeneity"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-10-03
 source: "raw/2024 Nature Neuroscience. A feature-specific prediction error model explains dopaminergic heterogeneity.pdf"
 authors: [Lee RS, Sagiv Y, Engelhard B, Witten IB, Daw ND]
 year: 2024
@@ -123,3 +123,4 @@ DMS 투사 SNc DA 는 reward 반응 약하고 action 반응 강함 (Parker 2016)
 - [[concept-need-motivation-pleasure-utility]] — NMPU 분해.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 식이 회로.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — "framework 밖" ANCCR의 원전. 주의: ANCCR의 SRC(successor representation contingency)는 위 표에서 부정된 TD형 SR 모델과 이름만 같고, 회고적 PRC에서 Bayes 규칙으로 유도되는 양.

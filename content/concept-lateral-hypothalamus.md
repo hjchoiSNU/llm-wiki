@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-10-03
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -206,3 +206,4 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[concept-lateral-habenula]] — LH→LHb 공격성·서열 상실 투사의 하류 구조 개념 hub(혐오·음성강화 축).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **LH가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나. ARC POMC·AgRP의 주요 시상하부 입력원이자 두 집단 축삭의 조밀한 표적 = 상호 연결. LH를 ARC의 하류로만 그리면 안 된다는 해부 근거 (Front Neuroanat 2015).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — NAc medial shell SPN이 **순 억제**될 때 탈억제되는 하류 표적. O'Connor 2015의 D1-SPN→LHA 섭식 게이팅이 이 모델의 '섭식판'이며, 두 설명은 SPN 활성의 부호에서 반대 예측을 내므로 병기 필요.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 종단 2P: 혐오 열 + 먹이 cue 공유 **salience ensemble** vs 먹이·물·고형식 일반 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 감쇠); 위내 먹이에도 반응("calorie 아님" 서술과 긴장) (Cell Rep 2026, SNU 김성연 lab)

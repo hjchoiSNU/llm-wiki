@@ -2,7 +2,7 @@
 title: GLP-1 신경보호·신경퇴행 repurposing
 type: concept
 created: 2026-07-09
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP-1 알츠하이머, GLP-1 파킨슨]
 ---
 
@@ -102,4 +102,6 @@ aliases: [GLP-1 neuroprotection, GLP-1RA 신경보호, incretin repurposing, GLP
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 신호 종합(사용자 lab).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사 응용 지형(대비축).
 - [[dolgin-2026-brain-shuttle-biologics-chart-new]] · [[concept-blood-brain-barrier-shuttle]] — CNS 침투 차세대 GLP-1RA를 위한 BBB shuttle 기술.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ '뇌 도달 부족' 가설의 **측정 근거**: 약물별 뇌 유입속도(Ki) 비교에서 exendin-4는 통과하나 **liraglutide·semaglutide는 유의한 유입이 측정되지 않으며**, 원인으로 acylation→albumin 결합을 지목 (Neurol Ther 2025).
+- [[concept-glp1ra-cns-penetrance]] — 그 측정을 경로·증거등급·약물별로 정리한 hub(이 페이지의 '뇌 도달' 논점을 전담).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 체중 비의존 GLP-1R 작용의 총론; 신경 GLP-1R–면역 축을 신경보호 가설의 기전 후보로 제시 (Cell Metab 2026).

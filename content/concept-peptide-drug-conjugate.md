@@ -2,7 +2,7 @@
 title: "Peptide–drug conjugate (조직특이 표적 전달)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -26,3 +26,4 @@ updated: 2026-09-19
 - [[liu-2025-gipr-ab-glp-1-peptide]] · [[veniant-2024-a-gipr-antagonist-conjugated-to]] — 펩타이드–항체 접합 사례.
 - [[tschop-2023-gut-hormone-based-pharmacology-novel]] — nuclear hormone 컨쥬게이트(GLP-1/oestradiol·glucagon/T3·GLP-1/dexamethasone)를 전임상으로 정리한 선행 리뷰.
 - [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — 임상 단계에 도달한 peptide–antibody conjugate(월1회 phase 2).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — PDC 논리의 **초기 성공 사례**: GLP-1R의 β세포 특이적 "분자 주소" + 리간드 의존적 내재화를 이용해 **세포막 불투과성 antisense oligonucleotide를 exendin-4를 운반체로 β세포에 전달**(Ämmälä 2018 Sci Adv). 같은 probe 골격이 PET/MRI β세포량 영상으로도 확장 (Diabetes 2024 Classics).

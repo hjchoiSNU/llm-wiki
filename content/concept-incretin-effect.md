@@ -2,7 +2,7 @@
 title: Incretin effect
 type: concept
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [incretin, incretin effect, 인크레틴 효과]
 ---
 
@@ -106,3 +106,4 @@ GLP-1·GIP 둘 다 **혈당이 낮으면 인슐린 분비 자극 안 함** → �
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — GIPR **길항**+GLP-1 작용(AMG 133/MariTide) 전임상·phase 1·phase 2.
 - [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] · [[liu-2025-gipr-ab-glp-1-peptide]] — 중추 GIPR 작용 세포·회로 근거(마우스).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — `GLP1R`·`GIPR` 코딩 변이가 인간 치료반응·부작용을 가르는 유전 층 (Nature 2026).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 페이지가 여러 곳에서 쓰는 차단 시약 **exendin-(9-39)**가 "인간 GLP-1R의 full antagonist"로 규정된 1993년 원 출처와 그 30년 파급 (Diabetes 2024 Classics).

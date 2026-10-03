@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-09-22
+updated: 2026-10-03
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -52,6 +52,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - **Jeong 2022 Science**: RPE 역방향 — 보상이 도파민 burst 일으켜 거꾸로 cue 검색.
 - 흡연 cue로 인한 relapse를 RPE보다 잘 설명.
 - 논쟁 진행 중 (Seville Dopamine Society Session 31, 2026 May).
+- (2026-10-03, 원전 보강) [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|원전]] 기준 정밀화: 회고적 탐색은 **eligibility trace(기억)** 가 수행하고, NAcc 도파민은 "그 사건이 원인을 학습해야 할 **meaningful causal target**인가(ANCCR 값)"를 신호한다. 흡연 cue relapse 예시는 원전이 아닌 Adam 기사 해설이며, 원전의 가장 가까운 근거는 **행동 소거 후에도 cue 도파민이 양성으로 남는 결과**(Test 6). 개념 hub [[concept-anccr]].
 
 ### Calipari의 입장
 - 도파민은 단일 기능 아님 — 신경계 학습 효율 modulator.
@@ -124,6 +125,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도가 중변연계(VTA·NAc)를 동원해 ‘갈망’을 표적에 집중.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 이 hub를 'reward 너머 에너지항상성'으로 확장한 통합 리뷰(DA ensembles, TEM 2026).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전 종합.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — **ANCCR 원전**: NAcc 도파민 방출이 TDRL RPE가 아닌 회고적 인과 연합(meaningful causal target)을 전달; 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·소거 후 cue 반응 잔존 등 11개 검증 (Science 2022).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Motivation·Pleasure 분리.
 - [[concept-need-motivation-pleasure-utility]] — DA의 multi-component 역할.
 - [[concept-lateral-hypothalamus]] — LH→VTA 회로.

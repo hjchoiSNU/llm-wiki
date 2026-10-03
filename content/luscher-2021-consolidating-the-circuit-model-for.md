@@ -2,7 +2,7 @@
 title: "중독의 회로 모델 통합 — 양성강화 × 음성강화 → dorsalization → compulsion (Lüscher & Janak 2021)"
 type: paper
 created: 2026-09-02
-updated: 2026-09-21
+updated: 2026-10-03
 source: raw/2021 Annu. Rev. Neurosci. Consolidating the Circuit Model for Addiction.pdf
 authors: [Lüscher C, Janak PH]
 year: 2021
@@ -115,6 +115,7 @@ doi: 10.1146/annurev-neuro-092920-123905
 - [[concept-medium-spiny-neuron]] — D1/D2-MSN 분업이 양성/음성강화 축에 대응.
 - [[concept-nucleus-accumbens]] · [[concept-ventral-pallidum]] — 두 강화 축의 수렴 허브.
 - [[concept-dopamine-reward-system]] — 약리적 공통분모(mesolimbic DA)와 비정상 RPE 교사신호.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ⚠️ 전제의 적용 범위: "자연 보상 도파민은 예측되면 감쇠"는 **cue로 예측된** 보상에서는 ANCCR도 같은 예측이지만, 맥락 속 **반복 무예측 sucrose**에서는 NAcc 보상 도파민이 오히려 **증가**(n=8, t(7)=4.40). 약물 vs 자연 보상 대비는 cue-예측 조건으로 한정해 읽을 것 (Science 2022).
 - [[concept-anhedonia]] — D2R-MSN→VP presynaptic depression의 행동 대응.
 - [[concept-dynorphin-kappa-opioid]] — 금단기 dysphoria의 D1-MSN dynorphin→KOR 축.
 - [[concept-basolateral-amygdala]] · [[concept-central-amygdala-glp1r]] — 혐오 신호 전달(CCK⁺/Rspo2⁺)과 CRF 금단 불안.

@@ -2,7 +2,7 @@
 title: Orexin (Hypocretin) 뉴런
 type: concept
 created: 2026-07-04
-updated: 2026-09-02
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -32,3 +32,4 @@ updated: 2026-09-02
 - [[concept-nucleus-accumbens]] — NAc↔LH orexin 회로(disinhibition).
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA^OX(arousal·에너지소비·leanness) 세포타입 정리.
 - [[concept-dynorphin-kappa-opioid]] — LH orexin 뉴런이 공발현하는 `Pdyn`의 개념 hub. ⚠️ [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]의 외측중격 DLS^Pdyn→LHA 투사는 **orexin 세포를 표적하지 않는다**(GABA/Vgat 표적).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — pupil-arousal과 결합한 LH^Vgat salience ensemble의 각성 연결 기전 후보로 국소 orexin 뉴런 언급(저자 가설) (Cell Rep 2026)

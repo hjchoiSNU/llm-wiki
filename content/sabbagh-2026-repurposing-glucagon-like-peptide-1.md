@@ -2,7 +2,7 @@
 title: "GLP-1RA 신경퇴행 repurposing 종합 리뷰 (Sabbagh·Drucker 등, 2026)"
 type: paper
 created: 2026-07-10
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2026 Nature Aging. Repurposing glucagon-like peptide-1 receptor agonists for the treatment of neurodegenerative disorders.pdf"
 authors: [Sabbagh MN, Cummings JL, Ballard C, van der Flier WM, Heneka MT, Holst JJ, Knudsen LB, Salloway S, Tansey MG, Drucker DJ]
 year: 2026
@@ -66,3 +66,5 @@ GLP-1 수용체 작용제를 알츠하이머(AD)·파킨슨(PD)·근위축성측
 - [[fang-2025-glucagon-like-peptide-1-medicines]] — 자매 리뷰(Drucker 공저): 신경퇴행을 넘어 **SUD·정신질환·발작·두통**까지 확장한 광역판(Cell Rep Med 2025).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사 응용 지형(신경 응용의 대비축).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 신경보호 논쟁의 배경: GLP-1R의 조직 직접 작용(체중 비의존)이 존재한다는 근거 (Cell Metab 2026).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 본 리뷰가 한 절로 다룬 "뇌 침투의 미묘함"을 **전용 주제로 확장**한 리뷰: 약물별 Ki·%ID/g 수치, exendin-4 우위, acylation 역효과, 인간 CSF 1–2%(exenatide) (Neurol Ther 2025, McIntyre).
+- [[concept-glp1ra-cns-penetrance]] — 그 침투 근거를 경로·증거등급·약물별로 정리한 hub.

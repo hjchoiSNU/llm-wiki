@@ -2,7 +2,7 @@
 title: "Prefrontal to ventral tegmental area dynamics drive contingency degradation (Hjort et al. 2026, Nature)"
 type: paper
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-03
 source: "raw/2026 Nature (Stuber) Prefrontal to ventral tegmental area dynamics drive contingency degradation.pdf"
 authors: [Hjort MM, "...", Stuber GD]
 year: 2026
@@ -51,6 +51,7 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[concept-dopamine-reward-system]] — VTA DA·RPE의 핵심 hub; 본 논문은 mRPE 변형 제시.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — "도파민 ≠ 순수 RPE" 논쟁; mRPE가 구체적 대안.
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — RPE 이론 재정식화 논의와 직접 대비.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — **경쟁 알고리즘**: contingency degradation을 ANCCR는 **회고적 연합 감소**로 설명(원전의 CD 조작은 cue→보상을 유지한 채 ITI에 무예측 보상 추가) — NAcc cue 도파민이 소거보다 빨리 감소(paired t(6)=−3.51, P=0.0126). 측정 부위(mPFC·VTA→mPFC DA vs NAcc DA)와 CD 조작 형태가 달라 직접 비교는 미완.
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — DA의 multiple timescale·motivation; gain 조절 관점과 연결.
 - [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] — DA 신호의 RPE 해석 한계 실증.
 - [[lee-2024-feature-specific-prediction-error]] — feature-specific RPE; CD/CE 분리 표상과 대비.

@@ -2,7 +2,7 @@
 title: "A brain reward circuit inhibited by next-generation weight-loss drugs in mice (Godschall/Güler 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2026 Nature. A brain reward circuit inhibited by next-generation weight-loss drugs in mice.pdf"
 authors: [Elizabeth N. Godschall, Taha Bugra Gungul, Isabelle R. Sajonia, ..., John N. Campbell, Christopher D. Deppmann, Ali D. Güler]
 year: 2026
@@ -91,6 +91,7 @@ Glp1r-Cre 마우스에 부위별 human GLP1R 발현 후 danuglipron:
 - [[concept-dorsomedial-hypothalamus]] — DMH GLP1R = homeostatic 분업.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 같은 NTS/DVC 출발의 homeostatic·세포내(Gs–cAMP) 경로 (Nat Metab 2026).
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제 중추작용은 ARC POMC 활성·DVC FOS로 수렴; 본 논문의 hedonic NTS^Gcg 축과 약리 무대 공유 (Nature 2026).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-penetrance]] — danuglipron의 심부 CeA 직접 활성이 왜 특별한지의 배경: 대형 acylated 펩타이드(liraglutide·semaglutide)는 뇌 유입 자체가 측정되지 않고 exendin 골격만 통과한다. **포맷(저분자 vs acylated 펩타이드)이 도달 깊이를 가른다** (Neurol Ther 2025).
 - [[concept-dorsal-vagal-complex]] — NTS^Gcg 회로의 출발 무대.
 - [[concept-need-motivation-pleasure-utility]] — CeA hedonic gate = Motivation·Pleasure 약리 진입점.
 - [[concept-central-amygdala-glp1r]] — 본 논문이 규명한 노드의 개념 hub(CeA^Glp1r 세포·회로·약리 종합).

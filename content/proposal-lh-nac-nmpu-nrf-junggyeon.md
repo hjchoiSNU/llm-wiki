@@ -2,7 +2,7 @@
 title: "[중견연구 연구계획서·상세] LH·NAc의 NMPU 식욕 담당 신경 발굴 — CaRMA·TRU-FACT·Cal-Light 통합"
 type: proposal
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -176,3 +176,4 @@ flowchart LR
 - [[concept-need-motivation-pleasure-utility]] · [[concept-lateral-hypothalamus]] · [[concept-nucleus-accumbens]] · [[concept-activity-molecular-registration]] — 핵심 개념·표적·방법 hub.
 - [[proposal-nmpu-human-translation]] · [[proposal-nmpu-nrf-junggyeon]] — 자매 NMPU 과제.
 - [[person-choi-hyung-jin]] · [[person-kwon-hyung-bae]] — 연구진·도구 협력.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat salience vs ingestion ensemble 분리; 투사로는 갈리지 않음(예비) — 기능 태깅·분자 교차 필요성 근거 (Cell Rep 2026)

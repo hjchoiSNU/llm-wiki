@@ -2,7 +2,7 @@
 title: "GPCR drug discovery (GPCR 창약)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -28,3 +28,4 @@ G단백질 공역 수용체(GPCR)를 표적으로 하는 약물 발굴 분야. �
 - [[concept-glp-1]] · [[concept-gip]] · [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-free-fatty-acid-receptors]] — 식욕·대사 GPCR 표적.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] · [[petersen-2026-the-evolving-landscape-of]] — 비만약 임상 종합.
 - [[muratspahic-2026-de-novo-design-of-miniproteins]] — de novo GPCR 리간드.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **"수용체 클로닝 → 세포주 과발현 → 고처리량 스크린 → PAM·소분자·biased agonist"** 파이프라인의 교과서 사례(인간 GLP-1R, 1993→2024). GLP-1R이 class B GPCR의 exemplar가 된 경위와 cryo-EM 구조기반 설계까지 (Diabetes 2024 Classics).

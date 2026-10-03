@@ -2,7 +2,7 @@
 title: "Lee, Kim, Kim, Jang et al. 2023 — Lateral hypothalamic leptin receptor neurons drive hunger-gated food-seeking and consummatory behaviours in male mice"
 type: paper
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2023 Nature Communications. Lateral hypothalamic leptin receptor neurons drive hunger-gated food-seeking and consummatory behaviours in male mice.pdf
 authors: [Young Hee Lee, Yu-Been Kim, Kyu Sik Kim, Mirae Jang, Ha Young Song, Sang-Ho Jung, Dong-Soo Ha, Joon Seok Park, Jaegeon Lee, Kyung Min Kim, Deok-Hyeon Cheon, Inhyeok Baek, Min-Gi Shin, Eun Jeong Lee, Sang Jeong Kim, Hyung Jin Choi]
 year: 2023
@@ -110,3 +110,4 @@ journal: Nature Communications
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA^LepR(appetitive learning)을 세포타입 taxonomy에 위치.
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH 안의 Nts 집단과 세포타입 분업 대비: LH^Nts 침묵은 총 섭취를 바꾸지 않는다 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — seeking vs consummatory 분리를 2P 단일세포 종단 추적으로 재현·혐오 영역까지 확장; 단 섭취 ensemble은 물·고형식으로 일반화(food-specific 정의 축과 다름) (Cell Rep 2026)

@@ -2,7 +2,7 @@
 title: "GLP-1 receptor agonist differentially affects brain activation to visual food cues in lean and obese T2DM (Bae, Choi et al. 2019)"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-03
 source: "raw/2019 DMJ. Glucagon-Like Peptide-1 Receptor Agonist Differentially Affects Brain Activation in Response to Visual Food Cues in Lean and Obese Individuals with Type 2 Diabetes Mellitus.pdf"
 authors: [Jae Hyun Bae, Hyung Jin Choi, Kang Ik Kevin Cho, Lee Kyung Kim, Jun Soo Kwon, Young Min Cho]
 year: 2019
@@ -76,4 +76,6 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 - [[coppin-2022-does-glp-1-receptor-agonist]] — 소비/liking 단계 GLP-1RA fMRI(cue/wanting 단계와 대비).
 - [[koide-2025-association-between-eating-behavior]] — external eating이 GLP-1RA 반응 예측(cue 과반응 조절의 임상 짝).
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 해부 분포.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ 본 연구를 **GLP-1RA CNS 침투의 인간 간접 근거(ref #20)**로 인용한 narrative review. 방추이랑·측뇌실 소견이 "뇌 효과 proxy"로 분류된다 (Neurol Ther 2025, McIntyre).
+- [[concept-glp1ra-cns-penetrance]] — fMRI가 증거등급 F(간접 proxy)에 놓이는 이유와, 다음 단계로 지목된 인간 PET.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 임상).

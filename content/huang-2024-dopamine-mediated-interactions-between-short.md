@@ -2,7 +2,7 @@
 title: "Dopamine-mediated interactions between short- and long-term memory dynamics"
 type: paper
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-10-03
 source: "raw/2024 Nature. Dopamine-mediated interactions between short- and long-term memory dynamics.pdf"
 authors: [Huang C, Luo J, Woo SJ, Roitman LA, Li J, Pieribone VA, Kannan M, Vasan G, Schnitzer MJ]
 year: 2024
@@ -159,3 +159,4 @@ Drosophila mushroom body PPL1 dopamine neurons가 voltage-imaging로 측정 시 
 - [[concept-need-motivation-pleasure-utility]] — valence 통합 신경기질.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — habit 끊기 어려움의 분자 단서.
 - [[concept-appetitive-consummatory-phases]] — appetitive cue 학습 매커니즘.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ANCCR 원전(포유류 NAcc). 소거가 원 연합을 지우지 않는다는 축에서 본 논문의 paradoxical extinction과 나란히: 원전에서는 행동 소거 후에도 cue 도파민이 양성 유지, cue 없는 background 보상(contingency degradation)이 소거보다 빨리 cue 도파민을 낮춤.

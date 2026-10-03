@@ -2,7 +2,7 @@
 title: "Liraglutide in mild to moderate Alzheimer's disease: a phase 2b trial (ELAD)"
 type: paper
 created: 2026-07-09
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2026 Nature Medicine. Liraglutide in mild to moderate Alzheimer’s disease a phase 2b clinical trial.pdf"
 authors: [Edison Paul, Femminella GD, Ritchie C, Holscher C, Ballard C, et al.]
 year: 2026
@@ -71,4 +71,6 @@ trial: ELAD (NCT01843075)
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 작용·세포내 신호 종합(사용자 lab); 본 임상의 기전 프레임.
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — lixisenatide 인체 fMRI(사용자 lab); GLP-1RA 중추 작용의 인간 영상 선례.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — GLP-1 계열 약물 지형(비만·대사); 본 논문은 그 밖의 신경 응용.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ⚠️ liraglutide 뇌 도달 근거의 **상충 상태**를 정리: Salameh 2020은 유입 측정 불가, Hunter & Hölscher 2012는 용량의존 뇌 농도 + cAMP↑. 같은 리뷰가 Gejl 2017(AD에서 혈액–뇌 포도당 전달능 0.72→1.1 μmol/g/min)을 **간접 증거로만** 분류한다 (Neurol Ther 2025).
+- [[concept-glp1ra-cns-penetrance]] — 그 상충과 증거등급을 정리한 hub.
 - [[concept-digital-therapeutics]] — 사용자 lab 임상 라인(비교·조합 관점).

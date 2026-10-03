@@ -2,7 +2,7 @@
 title: Dorsal vagal complex (DVC) — AP·NTS·DMX
 type: concept
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus solitarius, DMX]
 ---
 
@@ -68,4 +68,6 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 - [[cao-2024-hunting-for-heroes-brain]] — 후뇌 NTS/AP GLP-1R 기능 분리 종합.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1/GIP 후뇌 무대.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 medulla(NTS/AP) GLP-1R 발현.
+- [[concept-glp1ra-cns-penetrance]] — "말초 large-peptide GLP-1RA는 BBB 투과가 적어 주로 DVC(AP)를 통해 작용한다"는 본 페이지 서술의 증거등급·약물별 근거 hub.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 그 서술을 뒷받침하는 수치: liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않고 exendin-4만 뚜렷이 통과 (Neurol Ther 2025).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **NTS POMC의 배선 실체**: 입력의 ~80%가 뇌교·연수(Su5·IRt 최다 밀도, LC·Gi·RMg·Rn·PnO/PnC)이고 **소뇌핵**까지 포함, 전뇌 입력은 ~10%(CeM·PVN·PSTh)에 불과. 축삭은 뇌간(PCRt·MdD/MdV·SubC·Gi·IRt·Su5·LPB) 중심이되 문측 **Acb까지** 도달. **ARC POMC와는 다른 회로에 사는 세포**임을 확정 (Front Neuroanat 2015).

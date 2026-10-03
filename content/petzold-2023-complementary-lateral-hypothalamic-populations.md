@@ -2,7 +2,7 @@
 title: "Petzold et al. 2023 — 상보적 LH 집단이 배고픔 압력에 저항해 영양·사회 욕구를 균형화"
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2023 Cell Metabolism. Complementary lateral hypothalamic populations resist hunger pressure to balance nutritional and social needs.pdf
 authors: [Petzold A, van den Munkhof HE, Figge-Schlensok R, Korotkova T]
 year: 2023
@@ -35,3 +35,4 @@ year: 2023
 - [[person-korotkova-tatiana]] — 교신저자.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — LH^Nts와 별개인 **NAcLat^Nts→VTA** 축; 같은 펩타이드가 출처에 따라 섭식 촉진/hedonic 매개로 갈린다 (Nature 2025).
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH^Nts 집단의 인과 **침묵**(TeTox) 실험: 음수·체온·각성·자발운동은 손상되나 **24 h 총 섭취는 불변**. 본 연구의 '갈증 우선' 해석에 정량적 제약을 더한다 (bioRxiv 2026, Soden lab).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 먹이·물 공통 consummatory ensemble + LH^Lepr/LH^Nts 같은 모달리티 특이 병렬 채널이 공존한다는 종합 (Cell Rep 2026)

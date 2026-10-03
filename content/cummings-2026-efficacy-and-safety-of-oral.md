@@ -2,7 +2,7 @@
 title: "경구 세마글루타이드 초기 알츠하이머 3상 (EVOKE·EVOKE+)"
 type: paper
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-10-03
 source: "raw/2026 Lancet. Efficacy and safety of oral semaglutide 14 mg (flexible dose) in early-stage symptomatic Alzheimer's disease.pdf"
 authors: [Cummings JL, et al.]
 year: 2026
@@ -62,4 +62,6 @@ doi: 10.1016/S0140-6736(26)00459-9
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 실패라는 본 논문의 반성에 대한 기전적 대안(astrocyte 표적 CNS-침투 GLP-1RA).
 - [[concept-glp-1]] — 상위 호르몬·약리 hub.
 - [[person-edison-paul]] — liraglutide ELAD 총괄(자매 RCT 연구자).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 본 논문의 "BBB 투과 제한" 기전 해석을 뒷받침하는 측정: semaglutide는 설치류에서 **뇌 유입속도(Ki)가 유의하게 측정되지 않으며**, 원인은 acylation→albumin 결합 (Neurol Ther 2025).
+- [[concept-glp1ra-cns-penetrance]] — 뇌 접근 경로·증거등급 hub. 이 리뷰군이 공통으로 지목하는 공백은 **인간 PET 수용체 점유**.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사 응용 지형(체중감소≠인지보호 확인).

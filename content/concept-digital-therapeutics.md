@@ -2,7 +2,7 @@
 title: Digital therapeutics (DTx)
 type: concept
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-03
 aliases: [DTx, digital therapeutics, 디지털 치료제]
 ---
 
@@ -58,6 +58,7 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[concept-responsive-neurostimulation]] — electroceutical 자매 modality: 폐루프 신경자극(인간 NAc rDBS).
 - [[person-halpern-casey]] — neuromodulation 임상의 인간 reward 회로 프로그램.
 - [[concept-inhibitory-control-demand]] — VR craving provocation·dlPFC 자극의 이론 근거(craving-비례 제어부하, trouble resisting).
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — cue 모듈 설계 변수(연결 가설): 마우스에서 **소거는 행동만 끄고 cue 도파민은 남기며**, cue 없이 보상을 주는 contingency degradation이 cue 도파민을 소거보다 빨리 낮춤 (Science 2022).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glp1ra-response-variability]] — 약물 반응 이질성의 4층 분해; 미설명 분산 ~75%가 행동 표현형·DTx 층화의 기회 공간.
 - [[concept-peripheral-epigenetic-biomarker]] — 비침습 **반응 예측 바이오마커** 후보로 자주 거론되는 말초 메틸화 표지의 유효 범위와 한계. 현재 DTx 반응 예측을 주도하는 baseline 심리지표에 추가하려면 넘어야 할 조건을 정리.

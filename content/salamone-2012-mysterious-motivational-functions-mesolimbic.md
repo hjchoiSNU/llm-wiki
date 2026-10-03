@@ -2,7 +2,7 @@
 title: "The Mysterious Motivational Functions of Mesolimbic Dopamine"
 type: paper
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2012 Neuron. The Mysterious Motivational Functions of Mesolimbic Dopamine.pdf"
 authors: [Salamone JD, Correa M]
 year: 2012
@@ -139,6 +139,7 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 - [[concept-incentive-sensitization]] — ‘갈망’ 회로(도파민)의 병적 과활성.
 - [[concept-dopamine-reward-system]] — DA 회로 (effort 측면 보강).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전의 현재 (Calipari 등).
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 위 표의 "RPE 자체에 대한 완전 대안" ANCCR의 원전(Science 2022)과 개념 hub.
 - [[concept-need-motivation-pleasure-utility]] — Motivation 성분 신경기질.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·addiction에서 DA.

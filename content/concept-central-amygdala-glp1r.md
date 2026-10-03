@@ -2,7 +2,7 @@
 title: Central amygdalar GLP-1R neurons (CeA^Glp1r)
 type: concept
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Glp1r^CeA, CeM Glp1r]
 ---
 
@@ -47,6 +47,7 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 ## 약리 — small-molecule·humanized 수용체
 - **Glp1r^S33W humanized 마우스**(CRISPR Ser33→Trp): 경구 small-molecule(danuglipron·orforglipron) 감수성 획득. danuglipron(555.6 Da)이 **BBB 통과 → 심부 CeA 직접 활성** 입증.
 - 말초 large-peptide GLP1RA는 대부분 circumventricular organ([[concept-dorsal-vagal-complex|AP]])에 축적 → CeA는 주로 **indirect(NTS^Gcg 경유)** 동원이나, posterior CeA·저분자 약물은 직접 결합 가능 → 직·간접 혼재.
+  - 이 대조의 정량 배경: 대형 acylated 펩타이드(liraglutide·semaglutide)는 뇌 유입속도 자체가 측정되지 않는 반면 exendin 골격·저분자는 통과한다 → [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-penetrance]].
 - [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]: 세마글루타이드도 CeA를 Fos 동원 — DVC 1차 작용의 downstream으로 CeA 연결.
 
 ## 사용자 lab 관점
@@ -77,5 +78,6 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA **Htr2a⁺ 양성-가치 섭식촉진극**(PKC-δ 억제); hedonic 억제극의 반대.
 - [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
 - [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **CeA GLP-1R를 인간에서 보려면 무엇을 쓸 것인가**: 항체로 내인성 GPCR을 국재화하기 어렵다는 문제(detergent가 에피토프를 가림)와 그 대안인 형광·PET **exendin probe** 계보 (Diabetes 2024 Classics).
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — IM→CeA 억제 출력 배선의 primate 해부 좌표계.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **CeM(중심편도 내측부)이 NTS POMC의 전뇌 최대급 입력원**(CeM·PVN·PSTh 셋이 전뇌 입력 ~10%를 구성). CeA가 hindbrain POMC 포만 회로의 **직접 상류**로 닿는 해부 근거이며, 위키의 CeA^Glp1r→VTA 하행 축과는 별개인 **CeA→NTS 하행 축** (Front Neuroanat 2015).

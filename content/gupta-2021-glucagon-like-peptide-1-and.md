@@ -2,7 +2,7 @@
 title: "Glucagon Like Peptide-1 and Its Receptor in Human Brain: 발현 분포·기능·연령·종특이성 (Gupta 2021)"
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2021 Glucagon Like Peptide-1 and Its Receptor in Human Brain Distribution of Expression, Functional Implications, Age Related Changes & Species Specific Characteristics.pdf"
 authors: [Gupta T, Kaur M, Shekhawat D, Aggarwal R, Nanda N, Sahni D]
 year: 2021
@@ -33,3 +33,4 @@ year: 2021
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 설치류 GLP-1R hedonic 회로; 종특이성 소견은 인간 번역 시 주의점.
 - [[concept-glp1-neuroprotection]] — 본 논문을 인간 CNS 발현 근거로 쓰는 hub(역방향 링크). 근거 등급·한계는 그곳의 근거표 참조.
 - [[concept-orbitofrontal-cortex]] — 인간 OFC에서 GLP-1R가 검출되지 않았다는 소견이 직접 걸리는 부위 hub.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문의 **항체 기반 IHC 반정량 한계에 대한 기술적 설명**: 내인성 GPCR은 폴딩 안정화용 detergent가 에피토프를 가려 항체 제작·면역조직화학이 어렵다. 대안으로 **형광·PET exendin probe**가 뇌·췌장 GLP-1R 결합부위 획정에 쓰여 왔다 (Diabetes 2024 Classics).

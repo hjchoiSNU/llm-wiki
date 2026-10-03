@@ -2,7 +2,7 @@
 title: 외측 고삐핵 (Lateral habenula, LHb) — 혐오·음성강화의 상류 허브
 type: concept
 created: 2026-09-02
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [lateral habenula, LHb, 외측 고삐핵, 고삐핵, habenula, RMTg, rostromedial tegmentum, MRR, median raphe region]
 ---
 
@@ -52,6 +52,7 @@ MRR (median raphe region, vGluT2⁺) → LHb → RMTg (VTA tail, GABA) → VTA D
 - [[concept-drug-evoked-synaptic-plasticity]] — LHb→RMTg GluA1 삽입이 속한 약물 유발 가소성 hub.
 - [[concept-dopamine-reward-system]] — LHb가 억제하는 대상; negative RPE 논쟁의 무대.
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] — 도파민 dip의 약한 효과 → LHb 등 비-DA 회로 가능성.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 경쟁 설명: "음의 RPE가 같은 크기 양의 RPE보다 약한" 비대칭을 floor effect 없이 ANCCR 알고리즘 자체로 재현(시뮬레이션). 약한 dip이 반드시 비-DA 회로의 몫을 뜻하지는 않을 수 있음 (Science 2022).
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — mesohabenular 투사(글루탐산+GABA 공방출).
 - [[concept-lateral-hypothalamus]] — LH→LHb 공격성·서열 회로.
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인간 섭취 시 habenula 활성.

@@ -2,7 +2,7 @@
 title: "Mechanisms of glucagon-like-peptide 1 in the brain beyond metabolic effects (Kim, Park, Choi 2025 — review)"
 type: paper
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2025 APEM Mechanisms of glucagon-like-peptide 1 in the brain beyond metabolic effects.pdf"
 authors: [Kyu Sik Kim, Joon Seok Park, Hyung Jin Choi]
 year: 2025
@@ -90,4 +90,7 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 부위 논쟁 종합.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 약리·뇌기전).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 중추 GLP-1R의 새 역할: **신경(비조혈·비내피) GLP-1R이 말초 TLR 매개 염증 억제에 필수**, α1-아드레날린·κ-오피오이드 경유 신경-면역 crosstalk (Cell Metab 2026).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 리뷰의 **약물 발전사(GLP-1→Ex-4→liraglutide→semaglutide)를 수용체 쪽에서 보완**: 1993년 인간 GLP-1R 클로닝과 exendin-4 agonist/exendin-(9-39) antagonist 규정, 그리고 "형광 liraglutide·semaglutide가 시상하부·뇌간까지" 소견의 출처가 된 **exendin probe 화학생물학** (Diabetes 2024 Classics).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 본 리뷰의 "Ex-4는 변연계까지, lira/sema는 시상하부·뇌간까지"라는 서술과 **수렴하는 정량 근거**: 약물별 뇌 유입속도(Ki)에서 exendin-4 최고(0.54% ID/g), liraglutide·semaglutide는 측정 불가. ⚠️ 단 [Ser8]GLP-1이 저지용성인데도 통과하므로 "친유성이 투과를 설명한다"는 규칙은 분자마다 깨진다 (Neurol Ther 2025).
+- [[concept-glp1ra-cns-penetrance]] — 뇌 접근 경로·증거등급·약물별 지도 hub.
 - [[davila-2026-agrp-neurons-are-required-for]] — 본 리뷰의 "GLP-1이 AgRP를 억제한다"와 **반대 부호**의 만성 결과: 암컷 마우스에서 세마글루타이드 15일 투여가 AgRP를 모집(`Agrp`/`Npy` mRNA↑·c-FOS↑·미토콘드리아↑)하고, AgRP 기능 결손 시 섭취 억제는 남되 체중 감량이 약화된다. 매개축은 corticosterone→AgRP-GR (PNAS 2026, Horvath lab).

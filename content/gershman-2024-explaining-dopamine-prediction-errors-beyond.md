@@ -2,7 +2,7 @@
 title: "Explaining dopamine through prediction errors and beyond"
 type: paper
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2024 Nature Neuroscience Explaining dopamine through prediction errors and beyond.pdf"
 authors: [Gershman SJ, Assad JA, Datta SR, Linderman SW, Sabatini BL, Uchida N, Wilbrecht L]
 year: 2024
@@ -97,6 +97,7 @@ RPE 가설은 원형 그대로는 부족하지만, **suitably generalized** (vec
 - DA 가 "보상 → cue back-search" — RPE 의 forward 인과 역전.
 - Uncued reward 가 반복되면 DA ↑ (RPE 예측: ↓ — context 학습 후 expected).
 - 본 논문은 "Qian 2024 가 일부 ANCCR 주장 도전" 인용 — 논쟁 중.
+- (2026-10-03 원전 대조) [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]] Test 1과 일치(단 **실험 무경험 마우스**, 점근 ≈1×incentive value). 원전은 위 도전 1의 **Kim 2020 Cell ramp도 ANCCR로 설명**한다고 주장(fig. S13, 보충자료) — "RPE 결정 실험" 평가와 긴장. 개념 hub [[concept-anccr]].
 
 ### 3. Adaptive learning rate (Coddington 2023)
 - DA 가 RPE 가 아닌 **adaptive learning rate** 신호 — preparatory + reactive 행동 통합.
@@ -172,6 +173,7 @@ Cortex (state, world model)
 
 ## 관련 페이지
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — Gershman 의 RPE 옹호 입장 인용 source.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — "framework 밖" 도전 ANCCR의 원전(11개 검증)과 개념 hub.
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — value signal RPE 통합.
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — broadcast + local control framework.
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — average reward 통합.

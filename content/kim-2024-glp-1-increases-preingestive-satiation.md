@@ -2,7 +2,7 @@
 title: "Kim, Park, Hwang et al. 2024 — GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans"
 type: paper
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2024 Science. GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans..pdf
 authors: [Kyu Sik Kim, Joon Seok Park, Eunsang Hwang, Min Jung Park, Hwa Yun Shin, Young Hee Lee, Kyung Min Kim, Laurent Gautron, Elizabeth Godschall, Bryan Portillo, Kyle Grose, Sang-Ho Jung, So Lin Baek, Young Hyun Yun, Doyeon Lee, Eunseong Kim, Jason Ajwani, Seong Ho Yoo, Ali D. Güler, Kevin W. Williams, Hyung Jin Choi]
 year: 2024
@@ -123,3 +123,5 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[duran-2026-the-central-amygdala-gates]] — 대비되는 hedonic 축(Glp1r^CeA HFD 전담).
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH Glp1r/Lepr 공발현 뉴런(세포 접점).
 - [[cao-2024-hunting-for-heroes-brain]] — 본 논문(DMH^GLP-1R)을 세 논문 중 하나로 외부 평가.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문이 쓴 **exendin 계열 GLP-1R 길항제**의 분자적 기원(1993년 exendin-(9-39)=full antagonist 규정). 더불어 **형광·PET exendin probe**가 인간 시상하부 GLP-1R 정량의 항체 대안이라는 화학생물학 계보 (Diabetes 2024 Classics).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — exendin-4가 LH^Vgat의 먹이 cue·섭취 반응과 일부 기저 활동을 감쇠; "GLP1R 발현 뉴런 → LH 억제 경로" 후보로 DMH GLP-1R 검토 가능(연결 가설) (Cell Rep 2026)

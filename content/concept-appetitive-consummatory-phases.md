@@ -2,7 +2,7 @@
 title: Appetitive vs consummatory phases of eating
 type: concept
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-10-03
 aliases: [appetitive phase, consummatory phase, eating phases]
 ---
 
@@ -106,3 +106,4 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[concept-computational-ethology]] — 고전 ethology의 이분법을 계산 도구가 얼마나 세분할 수 있는지; [[liu-2025-castle-a-training-free-foundation-model|CASTLE]]이 consummatory 내부에서 "food approaching mouth"·"food releasing at mouth"를 자동 분리한 사례.
 - [[zhang-2026-inherited-input-and-local-transformations]] — pVLS dSPN ramping이 **appetitive→consummatory 전이 임계**의 후보 신호(drift-to-threshold; ramp 기울기 → licking 개시 시점) (bioRxiv 2026).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — appetitive(seeking) phase가 **유지되는** 시냅스 기전: NAc 2-AG → aPVT 말단 CB1R 역행성 억제 (Nature 2026).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 안에서 준비(cue·salience) 단계와 consummatory(섭취) 단계를 맡는 ensemble이 단일세포 수준으로 분리 (Cell Rep 2026)

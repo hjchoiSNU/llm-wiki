@@ -2,7 +2,7 @@
 title: GLP-1R Signaling and Functional Molecules in Incretin Therapy
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2023 Molecules. GLP-1R Signaling and Functional Molecules in Incretin Therapy.pdf
 authors: [Wan et al.]
 year: 2023
@@ -33,3 +33,4 @@ GLP-1R 구조·세포내 신호(Gαs/cAMP, Gαq, β-arrestin)·trafficking을 �
 - [[concept-biased-agonism]] — 본 리뷰가 상세히 다루는 G단백질/β-arrestin 편향의 개념 hub(역방향 링크).
 - [[concept-gpcr-drug-discovery]] · [[lorente-2025-gpcr-drug-discovery-new-agents]] — class B GPCR 창약 지형에서 GLP-1R의 위치.
 - [[concept-blood-brain-barrier-shuttle]] — corrination처럼 **뇌 침투를 의도적으로 조절**하는 설계 축(반대 방향 사례).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 리뷰가 정리한 신호·trafficking 지식의 **역사적 출처**: 1993년 인간 GLP-1R 클로닝·기능발현이 태그(GFP·His/Myc·NanoLuc·self-label) 부착과 고처리량 스크린을 가능하게 했다. GLP-1R은 **구성적 활성이 거의 없고 exendin-4에 빠르게 광범위 내재화**되며, endosome에서 신호하거나 재활용·lysosome 분해된다 (Diabetes 2024 Classics).

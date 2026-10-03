@@ -2,7 +2,7 @@
 title: Area postrema (AP·최후야)
 type: concept
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 ---
 
@@ -37,3 +37,6 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — GLP-1RA 오심·구토가 `GLP1R` 좌위 변이와 연관되고 **효능과 같은 신호일 가능성**(72.6%); AP 혐오 축의 인간 유전 대응 (Nature 2026).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — NTS POMC 입력이 밀집한 연수 계열(Su5·IRt·Gi·RMg·MdD/MdV·PCRt)의 해부 지형. NTS POMC 입력의 ~80%가 뇌교·연수에서 오며, AP 인접 hindbrain이 POMC 포만 회로의 주 상류임을 보임 (Front Neuroanat 2015).
 - [[concept-gdf15-gfral-axis]] — AP/NTS 한정 수용체 GFRAL과 그 리간드 GDF15(지질·metformin 유래)의 개념 hub.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **형광 exendin-4·semaglutide probe로 말초 투여 약물이 시상하부·뇌간에 접근함을 보인** 화학생물학 계보. AP를 포함한 뇌간 접근의 영상 근거이자, 뇌 GLP-1R 결합부위 획정의 1차 도구 (Diabetes 2024 Classics).
+- [[concept-glp1ra-cns-penetrance]] — AP를 포함한 CVO가 **대형 펩타이드 GLP-1RA의 1차 접근 경로**임을 다른 경로(tanycyte·수용체매개·수동확산·저분자)와 비교해 배치한 hub.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — semaglutide가 "광범위한 BBB 투과 없이" CVO·인접부로 CNS에 engage한다는 서술의 출처 리뷰(Gabery 2020 경유) (Neurol Ther 2025).

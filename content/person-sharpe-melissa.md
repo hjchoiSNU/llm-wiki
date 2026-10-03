@@ -2,7 +2,7 @@
 title: "Melissa J. Sharpe"
 type: person
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-03
 aliases: [Melissa Sharpe, Sharpe MJ, M.J. Sharpe]
 ---
 
@@ -37,5 +37,6 @@ aliases: [Melissa Sharpe, Sharpe MJ, M.J. Sharpe]
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — VTADA→LH outcome-specific 회로 + 메스암페타민 (Neuron 2026, 교신).
 - [[concept-lateral-hypothalamus]] — cognitive LH 가설의 본거지.
 - [[concept-dopamine-reward-system]] — 도파민 결과-특이적 학습 신호 진영.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — Sharpe 2017·2020·Seitz 2022의 model-free TDRL 위반 결과를 "도파민이 cue를 meaningful causal target으로 만들어 그 원인 학습을 촉진"으로 설명한 ANCCR 원전(Science 2022).
 - [[concept-need-motivation-pleasure-utility]] — Motivation(target-dependent) 축과 정합.
 - [[person-choi-hyung-jin]] — LH·NMPU·도파민 연구 라인 접점(사용자 lab).

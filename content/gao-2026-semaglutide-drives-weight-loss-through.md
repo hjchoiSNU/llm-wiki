@@ -2,7 +2,7 @@
 title: "Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons (Gao et al. 2026, Nature Metabolism)"
 type: paper
 created: 2026-05-31
-updated: 2026-08-19
+updated: 2026-10-03
 source: "raw/2026 Nat. Metab. (Krashes) Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
 authors: [Gao C, Geneve IC, Rodriguez-Gonzalez S, Li C, McElhern K, Reitman ML, Lutas A, Krashes MJ]
 year: 2026
@@ -59,6 +59,8 @@ journal: Nature Metabolism
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — 사용자 공저; gut→DVC→brain 큰 그림.
 - [[johansen-2025-brain-control-of-energy]] — incretin 약물·NTS satiety/AP aversion 종합 (Cell 2025).
 - [[stuber-2025-the-neurobiology-of-overeating]] — GLP1RA BBB·CVO 기전 논의 (Neuron 2025).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ⚠️ **대비**: 본 논문이 semaglutide 1차 표적을 **AP**로 좁히는 데 비해, 이 리뷰는 Gabery 2020을 들어 semaglutide가 **ARC POMC/CART 활성·NPY/AgRP 억제**를 한다고 정리한다(CVO 인접부 경유). 전신 투여 semaglutide의 뇌 유입 Ki는 양쪽 모두 측정되지 않는다는 점은 공통 (Neurol Ther 2025).
+- [[concept-glp1ra-cns-penetrance]] — "BBB를 거의 통과하지 못하고 CVO에 작용한다"는 본 논문 전제의 약물별·증거등급별 hub.
 - [[concept-basolateral-amygdala]] — CeA(세마글루타이드 Fos 동원) 구분.
 - [[duran-2026-the-central-amygdala-integrates]] — CeA가 말초 GLP-1RA(Ex-4)를 통합; 세포종류별(Prkcd·Glp1r) hypophagia 분업 (bioRxiv 2026).
 - [[concept-central-amygdala-glp1r]] — 세마글루타이드 Fos가 동원하는 CeA^Glp1r 노드 개념 hub.
@@ -76,3 +78,4 @@ journal: Nature Metabolism
 - [[davila-2026-agrp-neurons-are-required-for]] — 본 논문이 정의한 AP·Gs–cAMP **상류 입력**의 하류에서, 시상하부 **AgRP가 적응 대사반응(지방 동원·β₃-교감신경)을 실행**해야 체중 감량이 완성됨을 보임. 입력(AP) vs 실행(AgRP) 분업 (PNAS 2026, Horvath lab).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 유전학에서 **효능 신호와 오심 신호가 co-localize**(H4 96.6%) → 본 논문의 AP(혐오) vs NTS(non-aversive satiety) 분업이 실제로 **분리 가능한지**를 묻는 데이터 (Nature 2026).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 본 논문이 다루는 **체중 감소 기전의 반대편**: 체중과 무관하게 나타나는 장기 보호 작용 (Cell Metab 2026, Drucker).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문의 **Gs 중심성에 대응하는 인간 유전 층**: GWAS(random glucose, n=476,326)에서 **Gs 공역 강도가 GLP-1R 변이 효과크기를 예측**한다. 마우스 AP의 Gs–cAMP 필수성과 인간 변이 효과가 **같은 변수**를 가리킴 (Diabetes 2024 Classics).

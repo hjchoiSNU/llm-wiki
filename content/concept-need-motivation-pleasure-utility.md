@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-09-22
+updated: 2026-10-03
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -193,6 +193,7 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — CeA hedonic gate가 Motivation·Pleasure 축의 GLP1RA 약리 진입점 (Nature 2026).
 - [[duran-2026-the-central-amygdala-integrates]] — Glp1r^CeA가 hedonic feeding 전담 = Pleasure 축의 GLP-1RA 약리 진입점 (bioRxiv 2026).
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — Utility(지연 결과 → 알고리즘 reshape) 축에 meta-RPE·contingency degradation의 mPFC↔VTA substrate (Nature 2026).
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — Pleasure의 "Forward: 다음 motivation에 영향(RPE)" 옆에 놓을 **회고적 교사 신호** 대안: NAc 도파민 = "이 사건의 원인을 학습하라"(meaningful causal target). state 타일링 없는 eligibility-trace 추론이라 지연 Utility 학습의 알고리즘 후보(연결 가설; 원전 검증은 초~분 범위) (Science 2022).
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework 정렬.
 - [[knight-liberles-2025-interoception]] — anticipatory homeostasis frontier.
 - [[grove-2022-dopamine-subsystems-track-internal]] · [[grove-2025-lateralized-pathway-associating-nutrients]] — Utility 회로 분자 정체.
@@ -251,3 +252,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[davila-2026-agrp-neurons-are-required-for]] — Need 축(AgRP)이 **섭취량과 분리되어 체중 결과를 좌우**한 사례: AgRP 기능 결손 암컷에서 GLP-1RA의 칼로리 섭취 억제는 유지되나 전신 지방 이용 전환과 체중 감량이 약화됨 (PNAS 2026).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ***Stay on task* ↔ *Switch task***를 Motivation 축의 행동 화폐 후보로 제시. NAc medial shell을 Pleasure 축으로만 배정하면 **같은 구획의 유연성·전환 기능**을 담을 자리가 없다는 점에 주의.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility(지연 결과)→Motivation(순간 구동) 변환의 알고리즘 후보: 추상 가치→구체 목표→기본 보상 신호라는 **동기 비계(scaffolding)**. "기본 보상(배고픔) 목표는 몰입 표지가 약해야 한다"는 예측 포함.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Motivation 뉴런 판정에 혐오 자극·물 대조가 필요하다는 설계 기준(salience ensemble은 valence 비특이, ingestion ensemble은 가치 스케일 섭취) (Cell Rep 2026)

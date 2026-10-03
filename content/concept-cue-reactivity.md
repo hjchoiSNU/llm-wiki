@@ -2,7 +2,7 @@
 title: "Cue reactivity (큐 반응성)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -27,6 +27,7 @@ updated: 2026-09-19
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[bae-2019-glucagon-like-peptide-1-receptor]] · [[huang-2021-the-insulo-opercular-cortex-encodes]] — 음식 cue reactivity.
 - [[concept-incentive-sensitization]] · [[concept-food-addiction]] · [[concept-liking-wanting]] — 상위 이론.
 - [[concept-digital-therapeutics]] — 임상 응용.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 마우스 NAcc에서 **행동 소거 후에도 cue 도파민이 양성 유지**(회고적 연합은 보상 없이 갱신되지 않음) → 소거 기반 개입 뒤 재발 취약성의 회로 후보; cue 없는 보상으로 회고적 연합을 희석하면 소거보다 빨리 감소 (Science 2022).
 - [[concept-inhibitory-control-demand]] — VR cue provocation으로 올라간 craving에 비례해 dlPFC·ACC 제어부하가 증가하는 trouble-resisting 국면.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 학습된 cue 가치가 **전역 표상으로 부과되지 않고** 선재하는 감각 scaffold(pDMS의 cue 위치 지도) 위에만 얹힘. cue reactivity의 부위·감각 채널 편중에 대한 회로 문법 (bioRxiv 2026).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.2. 단서 반응성을 갈망의 1차 발생원으로 놓고 회로·인체 근거·개입을 정리.

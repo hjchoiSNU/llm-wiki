@@ -2,7 +2,7 @@
 title: "What does dopamine actually do?"
 type: paper
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-10-03
 source: "raw/2026 Nature. Dopamine takes a hit- how neuroscience is rethinking the ‘feel-good’ chemical.pdf"
 authors: [Adam D]
 year: 2026
@@ -41,6 +41,7 @@ journal: "Nature 651:572–574 (Feature)"
 - **Jeong 2022 Science**: RPE의 역방향 모델 — 보상이 도파민 burst 일으켜 **거꾸로 cue 검색** (memory search).
 - 임상 함의: 흡연 중단 후 다른 사람 흡연 cue로 relapse — RPE는 negative prediction error로 약화 예측, 실제는 강한 association 유지. ANCCR은 "보상 → cue back-search"로 설명.
 - "I haven't spoken to anyone who understands that model" (Humphries) — 논쟁 중.
+- (2026-10-03 원전 대조) [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|원전 Jeong 2022]]에서 "거꾸로 검색"은 eligibility trace가 담당하고 도파민은 **사건이 meaningful causal target인지(ANCCR)** 를 신호한다. 흡연 relapse 예시는 원전에 없으며, 원전 근거로는 **행동 소거 후에도 cue 도파민이 양성 유지**(Test 6). 개념 hub [[concept-anccr]].
 
 ## 도전 #4: Calipari의 입장
 
@@ -73,6 +74,7 @@ journal: "Nature 651:572–574 (Feature)"
 ## 관련 페이지
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 'reward chemical' 회의론과 같은 패러다임 전환; DA를 분산 ensemble로 재정의 (TEM 2026).
 - [[concept-dopamine-reward-system]] — DA 회로 (도전적 관점 포함).
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 도전 #3 ANCCR의 원전(Science 2022)과 개념 hub.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Pleasure component.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — addiction·cue.
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]], [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]], [[hamid-2016-mesolimbic-dopamine-signals-value-work]], [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]], [[gershman-2024-explaining-dopamine-prediction-errors-beyond]], [[lee-2024-feature-specific-prediction-error]], [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]], [[huang-2024-dopamine-mediated-interactions-between-short]], [[hjort-2026-prefrontal-to-ventral-tegmental-area]], [[rice-2019-closing-in-on-what-motivates]] — 논쟁의 핵심 1차 자료들 (Hjort 2026은 meta-RPE 대안, Rice 2019는 firing≠release 균열).

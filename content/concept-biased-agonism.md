@@ -2,7 +2,7 @@
 title: "Biased agonism (편향 작용)"
 type: concept
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -24,3 +24,4 @@ GPCR 리간드가 여러 하류 경로(G단백질, β-arrestin) 중 일부를 �
 - [[lorente-2025-gpcr-drug-discovery-new-agents]] · [[concept-gpcr-drug-discovery]] — 창약 맥락.
 - [[petersen-2026-the-evolving-landscape-of]] — tirzepatide·orforglipron 편향.
 - [[concept-glp-1]] · [[concept-gip]] — 표적 수용체.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — ★ **개념의 기원**: 인간 GLP-1R를 CHL·CHO·HEK293에 과발현한 고처리량 스크린(cAMP·Ca²⁺·β-arrestin)에서 biased agonism 개념이 확립됐다는 1차 계보. **β-arrestin에서 멀어지도록 편향된 리간드가 내재화↓·표면 유지↑·desensitization 방지**(Jones 2018)이고, **tirzepatide의 우월성은 β-arrestin 동원 감소 + GIPR 쪽으로 기운 불균형**에 상당 부분 기인(Willard 2020). cryo-EM: biased agonist는 **더 빠른 Gs 구조변화·삼량체 해리·cAMP 생성**을 내며 결합포켓 보존 극성잔기와의 접촉이 더 일시적 (Diabetes 2024).
