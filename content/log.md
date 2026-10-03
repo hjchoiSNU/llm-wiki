@@ -8,6 +8,58 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 — ingest + synthesis (LH 문헌 28편 일괄 + 심화 종합)
+
+사용자 지시: "다른 lateral hypothalamus 관련 여러 논문들, Mark Rossi 논문들, 우리 연구실 논문들 … 등 모두 고려해서 심화 분석해서 내용 정리". 클라우드 세션(로컬 `raw/` 없음) — Google Drive에서 원문을 직접 읽어 정리. **각 페이지 `source:`는 관례대로 `raw/<Drive 파일명>`으로 기재했으나 실제 `raw/` 복사는 로컬에서 필요.**
+
+**새 페이지 30** (논문 28 + 개념 1 + 종합 1)
+
+*종합*
+- [[overview-lateral-hypothalamus-synthesis]] — ★★★ LH 문헌 약 45편을 6렌즈로 통합(892행, 위키 링크 789). 마스터 세포 유형 표·phase×세포 행렬·입출력 표·**검증된 충돌 44건 판정 지도**·통합 모델(연결 가설)·미해결 질문·연구 제안 16건.
+
+*사용자 지정 논문*
+- [[liu-2023-an-iterative-neural-processing]] — Neuron 2023. 섭식은 C-W-n(E-W)-C 조각 과정; 매 조각마다 ARC^AgRP(준비)→LH^GABA(개시, R=0.387)→DR^GABA(유지, R=0.908) 순차 동원.
+- [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — Cell 2015. LH^Vgat appetitive/consummatory 분업의 foundational paper(microendoscope 743 뉴런, 비중첩).
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — Cell Rep 2021. LH^LepR(LH^Vgat의 ~20%)은 섭취·체중 무변, cue 변별 학습·RTPP·CPP만 변화.
+- [[de-vrind-2019-effects-of-gaba-and]] — Obesity 2019. LH^Vgat vs LH^LepR hM3Dq: 둘 다 체온↑·체중↓, Vgat는 운동↓·palatable 선호↓, LepR는 바닥 chow↓·운동↑.
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — Curr Biol 2017. "cognitive LH" 원전: cue 구간 LH^GABA 억제 → cue-음식 학습 차단, VTA 말단 억제는 학습 촉진.
+- [[sharpe-2021-past-experience-shapes-the]] — Nat Neurosci 2021. 과거 경험이 회로 모집을 바꾼다; SPC/SOC 학습은 촉진, latent inhibition 소실 → 학습 배분기.
+- [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — TiCS 2024. "cognitive LH" Opinion(⚠️ 사용자가 Rossi로 적었으나 Melissa Sharpe 저).
+
+*Mark Rossi 라인*
+- [[rossi-2018-overlapping-brain-circuits-for]] — Cell Metab 2018 리뷰. homeostatic/hedonic 섭식 회로는 현 자료로 분리 불가(3층 overlap).
+- [[rossi-2019-obesity-remodels-activity-and]] — Science 2019. LHA scRNA-seq 20,194세포; HFD 전사체 변화·인간 BMI 유전 연관 모두 **LHA^Vglut2(brake)** 최대.
+- [[rossi-2021-transcriptional-and-functional-divergence]] — Neuron 2021. LHA^Vglut2 brake를 투사로 분해: →LHb(전측·*Pax6*⁺·leptin↓/ghrelin↑) vs →VTA(후측·*Pdyn*/*Hcrt*).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — bioRxiv 2024(**preprint**). dLS^GLP-1R→LHA GABA 억제 = 섭식 브레이크; **Ex-4가 이 억제 시냅스를 시냅스 전 기전으로 강화**.
+- `Rossi_et_al_LHA_Obesity.pdf`(Rossi lab 공유)는 Rossi 2019 Science와 동일 논문으로 확인 → 중복 미수집.
+
+*Drive 탐색으로 추가 발견(LH 1차 원전·아틀라스)*
+- 아틀라스/세포 유형: [[mickelsen-2019-single-cell-transcriptomic-analysis-of]](LHA census, GABA 15 + Glut 15) · [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]](EASI-FISH 36,423 뉴런·9 분자 하위구역) · [[bonnavion-2016-hubs-and-spokes-of]]
+- LepR/Nts 계보: [[leinninger-2009-leptin-acts-via-leptin]](LH^LepR 1차 원전) · [[leinninger-2011-leptin-action-via-neurotensin]](`Nts-ires-Cre` 출처, LepRb의 ~60%가 Nts⁺)
+- 입력 회로: [[jennings-2013-the-inhibitory-circuit-architecture]](**brake 해제** = BNST^Vgat→LH^Vglut2 억제) · [[oconnor-2015-accumbal-d1r-neurons-projecting]](NAc D1R→LH 섭식 허가, 93.6% D1R-MSN) · [[thoeni-2020-depression-of-accumbal-to]](eCB-CB1R 의존 시냅스 depression이 과식 허가)
+- 출력/도파민: [[nieh-2016-inhibitory-input-from-the]](LH GABA→VTA disinhibition 원전) · [[linders-2022-stress-driven-potentiation-of-lateral]](사회 패배 → LHA^glut→VTA^DA GluA1 강화)
+- 학습·인지: [[hoang-2021-the-basolateral-amygdala-and]](BLA vs LH 학습 편향 분업)
+- 리뷰: [[stuber-2016-lateral-hypothalamic-circuits-for]](전기자극 시대를 세포타입으로 재해석)
+- Orexin/MCH: [[harris-2005-a-role-for-lateral]](LH orexin=보상/재발 vs PFA/DMH=각성, R=0.72–0.90) · [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]](포도당·leptin 억제/ghrelin 흥분) · [[domingos-2013-hypothalamic-melanin-concentrating-hormone]](MCH가 당의 영양 가치를 선조체 DA로) · [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]]
+- 상태 게이팅: [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]](LH^LepR이 불안을 상쇄 — anxiogenic 맥락에서만 섭식 개시↑)
+
+**갱신 ~120** — 역방향 링크·⚠️ 병기(+`updated:` 갱신). 핵심: [[concept-lateral-hypothalamus]](심화 종합 링크 + 전 절 보강) · [[cheon-2025-lateral-hypothalamus-and-eating-cell]] · [[kim-2024-normative-framework-dissociates-need]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[concept-appetitive-consummatory-phases]] · [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] · [[concept-orexin-neurons]] · [[concept-neurotensin]] · [[rossi-2023-control-of-energy-homeostasis]] · [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] · [[gordon-2026-lateral-hypothalamic-control-of]] · [[index.md|wiki/index.md]](🍽️에 "외측 시상하부 (LH) 문헌 클러스터" 8 테마 신설, 🌐에 종합 등재; 총 509).
+
+**방법**: 논문 1편 = 에이전트 1개(원문 전수 독해 → 페이지 작성 → 백링크) + **원문 대조 fact-check 에이전트**(저자·서지·모든 수치·효과 방향·필요/충분 구분·추론 분리·링크 해소 검증) + 통합 검증. 이후 6 렌즈 분석 → 충돌 적대적 검증 → 종합 작성 → 리뷰.
+
+**★ 검증된 위키 내 충돌 44건** — 전부 병기, 어느 쪽도 덮지 않음. 종합 §8에 판정 지도(genuine / reconcilable). 주요 genuine 쟁점:
+1. **LH^LepR 조작의 섭취 부호** — 우리 연구실(↑, phase-isolated) vs [[siemian-2021-lateral-hypothalamic-lepr-neurons]](무변) vs [[de-vrind-2019-effects-of-gaba-and]]·[[petzold-2023-complementary-lateral-hypothalamic-populations]](↓). 같은 Lepr-Cre에서 세 부호 → 다섯 조건 축(과제 구조·배고픔·좌표 pm/am/alLH·시간척도·맥락 불안도) 중 **어느 것도 검정되지 않았다**.
+2. **학습의 locus** — LH가 보상 예측 저장소인가(Sharpe) 중재자인가.
+3. **LH^Vglut2** — brake인가 기호성 과식 구동자인가.
+4. **MCH 전달물질·LepR 발현** — 리뷰 표(혼합·*Lepr* 공발현) vs 1차 census(*Slc17a6* 100%, *Lepr* 미검출).
+5. **세포 유형 총 개수·구획 체계** — 좌표 격자 4구획 vs *Otp*/*Meis2* 비스듬한 9 하위구역(대응표 문헌에 없음).
+6. **선조체 DA가 섭식을 지속시키는가** — 통념 vs [[gordon-2026-lateral-hypothalamic-control-of]](개시=bout 수만).
+7. **인용 오류 1건 발견**: [[stuber-2025-the-neurobiology-of-overeating]]이 "LHA GABA→VTA disinhibition (Jennings 2013)"로 인용하나 Jennings 2013 Science는 **BNST→LH** 논문 → 병기 메모.
+
+**연구 제안 16건**(종합 §11, 우선순위순). ★★★: ① LH^LepR 분자 주소 확정(EASI-FISH 재탐침) ② 활성–분자 정합으로 seeking 25%/consummatory 39% subset 정체 규명 ③ **조건 좌표계 2×2×2 교차 설계로 LepR 부호 논쟁 종결** ④ Lepr-Cre × Vgat-Flp INTERSECT로 도구 순도 개선 ⑤ Sharpe 3종 세트(SOC·SPC·latent inhibition) 이식으로 학습 vs 수행 판정.
+
+**미수집 잔여분**: Drive 탐색에서 LH 관련 미수집 논문 약 130편 발견(high 18·medium 75·low 39) — fileId 목록을 `handoff/2026-10-03-lh-ingest.md`에 보존(Nieh 2015 Cell·Barbano 2016·Petrovich cue-potentiated feeding·Carus-Cadavieco 2017 gamma·Burdakov orexin 라인·LH GLP-1R·primate LH 등). `handoff/2026-10-03-lens-need-motivation.md`에는 Need/Motivation 렌즈 단독 분석(NMPU 매핑 표 17행·충돌 9건·제안 8건) 보존.
+
 ## 2026-10-03 — ingest (논문 5편 — LH GABA ensemble·Stuber LH→선조체 DA·비만 유전학·HFD 불안-과식 회로·세마글루타이드 뇌간→시상하부)
 
 "ingest" 트리거(클라우드 세션). 이 세션에는 로컬 `raw/`가 없어, Google Drive **"최형진 추천 _ 저널 발표 후보 논문들(사용중)"** 폴더에서 09-19 이후 추가된 PDF 5건을 위키 `source:`와 대조 → **5건 모두 미정리**. Drive 원문을 직접 읽어 정리. 각 페이지 `source:`는 관례대로 `raw/<Drive 파일명>`으로 기재했으나 **실제 `raw/` 복사는 로컬에서 필요**.

@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 507 (+ index.md, log.md)
+- 총 페이지: 509 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -203,6 +203,7 @@ LH 1차 원전·아틀라스·리뷰 27편. 개념 hub는 [[concept-lateral-hypo
 
 **학습·인지 (cognitive LH)**
 - [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — ★ **"cognitive LH"의 원전**: cue 구간만 LH^GABA 광억제 → cue–음식 학습·발현 모두 차단(섭취 정상, 레이저 없는 소거까지 지속), 반대로 **VTA 말단만 억제하면 학습 촉진**(기대값 전달 차단 → RPE 과대 유지); GAD-Cre rat(RRRC#751) 최초 공개 (Curr Biol 2017, Schoenbaum·Sharpe).
+- [[sharpe-2021-past-experience-shapes-the]] — ★ **과거 경험이 회로 모집을 바꾼다**: naive rat에서 LH^GABA 억제는 공포 학습에 무영향(n=4/4)이나 cue–수크로스 수반성 경험 후에는 공포 학습이 유의하게 약화(레이저 없는 시험까지 지속 P=0.033); 반대로 중립 cue 연합(SPC)·원위 cue(SOC) 학습은 **촉진**(P=0.028 / P=0.045)되고 **latent inhibition은 소실**(P=0.022) → LH^GABA = 보상 근접 정보로 학습을 몰아주는 배분기; TD(λ)에서 cue 가중치 업데이트 70% 차단(η=0.3)으로 모형화 (Nat Neurosci 2021, Sharpe·Schoenbaum). ⚠️ 활동 기록 없음·표본 작음.
 - [[hoang-2021-the-basolateral-amygdala-and]] — BLA vs LH 학습 편향 분업: BLA=감각 특이 결과(specific PIT)·원위 cue는 이미 유의할 때만 학습(SOC ○/SPC ×), LH^GABA=근접 예측자 학습 필수·원위 cue에 항상 반대; BLA→LH(관련성·근접도 평가)→VTA(기대값 relay) 회로 가설 (Curr Opin Behav Sci 2021, Sharpe lab).
 
 **입력 회로 — brake 해제·섭식 허가 게이트**
@@ -578,6 +579,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 여러 자료를 합성한 페이지. 파일명 `overview-*.md`.
 
 - [[overview-appetite-energy-homeostasis]] — 3-layer 통합 (이론 NMPU + 회로 gut-brain-hypothalamus + 임상 DTx/약물). 본 wiki의 spine.
+- [[overview-lateral-hypothalamus-synthesis]] — ★★★ **LH 심화 종합(2026-10)**: LH 문헌 약 45편을 6개 렌즈(세포 유형·시간 동역학·Need/Motivation·학습인지·입출력 회로·비만/스트레스 가소성)로 통합. 마스터 세포 유형 표 · phase×세포 행렬 · 입출력 표 · **검증된 위키 내 충돌 44건 판정 지도** · 통합 모델(연결 가설) · 미해결 질문 · 우리 연구실 연구 제안 16건. 개념 hub는 [[concept-lateral-hypothalamus]].
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 저작 식락학 교재 Ch 18 정리: 식욕·포만 호르몬(그렐린·렙틴·인슐린·GLP-1·CCK)을 장기 adiposity vs 단기 식사 신호로 통합한 교육용 synthesis.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 저작 식락학 교재 Ch 20 정리: 오피오이드 ‘좋아함’ vs 도파민 ‘갈망’의 신경화학·유인-감작·인간 약리학·비만 함의.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 저작 식락학 교재 **Ch 24** 정리: 음식 갈망과 중독. 갈망≠배고픔(3국면) → 단서 반응성·유인-감작·스트레스·취약성 3층 → 음식의 화학(당·지방 조합, 맛=대리보상/영양=1차보상, 두 도파민, 향미-영양 학습, 속도) → 회로 재편 5층(단서 도파민·[[concept-hedonic-devaluation|쾌락 가치 저하]]·습관·강박·음성 강화) → 음식 중독 논쟁 → 개입. 박태현 교수님 9·10·11장 포맷을 준용한 **목차·본문(25,053자)·그림(12개) 3분할 docx**. (2026-08-20 집필)
