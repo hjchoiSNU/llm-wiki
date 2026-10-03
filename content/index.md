@@ -157,6 +157,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA ≥30 세포타입·Vgat(engine)/Vglut2(brake)·Orexin/MCH/LepR/Nts/MC3R 회로 종합; coarse DBS 비일관→세포타입 표적 (TiNS 2023).
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 통합하는 general salience hub; opioid 비의존 진통·항불안, cell-type(GABA·Glu)·투사(LPO·LHb·VTA·LPAG)별 분업 (Nat Commun 2026, Zhou lab; 사용자 Cheon 2025 인용).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 종단 2광자 단일세포 추적: 혐오 열자극 + 먹이 cue 공유 **motivational salience ensemble** vs 먹이·물·고형식 일반 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 감쇠); Cal-Light 투사로는 두 집단 미분리 (Cell Rep 2026, SNU 김성연 lab).
 - [[faour-2025-emerging-role-of-agrp]] — AgRP integrator (Luquet lab).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (Quarta·Cota).
 - [[littleton-2025-from-identity-to-function-unveiling]] — HypoMap·인간 atlas (Yeo lab).
@@ -231,6 +232,8 @@ _(섭식·동기 행동은 🍽️로)_
 - [[lorente-2025-gpcr-drug-discovery-new-agents]] — GPCR 창약 전체 지형(승인약 36%·임상 337 agent); GLP-1이 최다 retarget GPCR, incretin dual/triple·MC4R·biased signalling 데이터 매핑 (NRDD 2025, Gloriam). 개념 [[concept-gpcr-drug-discovery]]·[[concept-biased-agonism]].
 - [[mullard-2025-from-gene-hunter-to]] — Amgen CSO 인터뷰; MariTide를 modular therapeutic 사례로 거론, 인간유전학 표적검증 (NRDD 2025, "An audience with…"). _(주변부·산업)_
 - **신경보호·repurposing (대사 밖)** — 개념 hub [[concept-glp1-neuroprotection]] · [[concept-astrocyte-neuron-lactate-shuttle]] · 인물 [[person-edison-paul]]. **★[[sabbagh-2026-repurposing-glucagon-like-peptide-1]]** — 이 분야 종합 리뷰(Drucker·Holst·Cummings·van der Flier·Heneka·Tansey): AD·PD·ALS 근거·기전 총정리, "관찰 양성 vs RCT 음성" 결론·CNS 침투 차세대 필요 (Nature Aging 2026). · **★[[fang-2025-glucagon-like-peptide-1-medicines]]** — Drucker 광역 리뷰: 신경퇴행 + **물질사용장애(알코올·코카인·니코틴·대마)·정신질환·발작·편두통·뇌졸중**; SUD는 중변연계 GLP-1R 매개로 사용자 보상회로 연구 직결 (Cell Rep Med 2025). · **★[[cummings-2026-efficacy-and-safety-of-oral]]** — 경구 sema 초기 AD 3상 EVOKE/EVOKE+(n=3,808): 1차 CDR-SB·모든 2차 **음성→조기 중단**; CSF tau·neurogranin·YKL-40 5–10%↓(바이오마커-임상 해리) (Lancet 2026). · [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, n=204): 1차 뇌 포도당대사 음성, 2차 인지(ADAS-Exec +0.15, P=0.01)·탐색 뇌위축 둔화 유리 (Nat Med 2026, Imperial). · [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 경구 GLP-1RA **OHP2**: 성상교세포 GLP-1R→젖산→뉴런 **H3K9 젖산화**→지질 역수송으로 AD 마우스 치료(sema>OHP2), 효과는 뇌내 GLP-1R·LDHA 의존 (Cell Metab 2026). · [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — sema/tirze 치매 HR 0.63·뇌졸중 0.81·사망 0.70↓ 대규모 코호트(JAMA NO 2025). · [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·**SGLT-2i** 모두 AD↓ vs DPP-4i(Alz Dement 2025). *(RCT 음성 ↔ 관찰 양성 충돌: [[concept-glp1-neuroprotection]] 참조.)*
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 1993년 인간 GLP-1R 클로닝(463 aa)·exendin-4 agonist/exendin-(9-39) antagonist 규정과 그 30년 파급(약리·신호·인간유전·cryo-EM·화학생물학 probe)을 되짚은 "Classics" 해설; 뉴런 GLP-1R trafficking은 미탐색 공백 (Diabetes 2024, Thorens·Hodson).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — GLP-1RA BBB 투과 약물별 분해 narrative review: exendin-4·lixisenatide 유입 측정됨, liraglutide·semaglutide는 유입 측정 불가(acylation·albumin 결합 역효과); 인간 직접 증거는 PD 환자 exenatide CSF ≈ 혈청 1–2% 한 건 (Neurol Ther 2025, McIntyre). 개념 hub [[concept-glp1ra-cns-penetrance]].
 - [[dolgin-2026-brain-shuttle-biologics-chart-new]] — CNS 침투 biologic을 위한 **BBB shuttle**(TfR·CD98hc·IGF-1R receptor-mediated transcytosis) 산업 동향; 첫 승인약(Denali)·trontinemab(AD)·reticulocyte 독성·affinity tuning (NRDD 2026 News). 개념 [[concept-blood-brain-barrier-shuttle]]. GLP-1RA CNS 전달에 직접 함의.
 - [[le-roux-2026-survodutide-once-weekly-for]] — survodutide(글루카곤-R/GLP-1R dual) phase 3 SYNCHRONIZE-1: 당뇨 없는 비만 76주 −13.0% vs −5.4% (NEJM 2026).
 - [[kaplan-2026-survodutide-in-adults-with]] — survodutide phase 3 SYNCHRONIZE-MASLD: 비만+at-risk MASLD 48주 간지방 ≥30%↓ 84.2%·체중 −12.2%, 체중-독립적 간효과 (Nat Med 2026).
@@ -473,6 +476,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-glp1ra-response-variability]] — GLP-1RA 반응 이질성 4층(임상·유전·행동 표현형·회로)과 예측 성능 상한
 - [[concept-glucagon-receptor-agonism]] · [[concept-amylin-receptor-agonists]] — 비-GLP-1 파트너 약물 클래스(EE·포만)
 - [[concept-peptide-drug-conjugate]] · [[concept-blood-brain-barrier-shuttle]] — 조직특이·CNS 표적 전달
+- [[concept-glp1ra-cns-penetrance]] — GLP-1RA가 뇌에 닿는 6경로(CVO·tanycyte·수용체매개·수동확산·저분자·회로중계) × 증거등급 A–F × 약물별 지도 hub
 - [[concept-de-novo-protein-design]] · [[concept-ai-drug-discovery]] — AI 리간드 설계·타깃 발굴
 
 ### 보상·정서 조절
@@ -481,6 +485,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서 고칼로리 음식의 쾌락 가치가 하락하는 현상 hub(sensory-specific satiety·alliesthesia·incentive sensitization과의 구분표 포함). _(🎯 도파민 절에도)_
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지
 - [[concept-goal-commitment]] — 목표 몰입·포기 hub: 정의·측정(선택 전/후·frustration>temptation)·세 적응 기능·Rubicon/HRL/감시-임계값 알고리즘·failure mode(ADHD·불안·apathy·우울)·강박/restraint/NMPU 이식 (Holton 2026).
+- [[concept-anccr]] — 회고적 인과 학습(ANCCR) hub: 용어(eligibility trace·PRC/SRC·net contingency·meaningful causal target)·TDRL RPE 대조표·위키 내 지지/도전 페이지 지도
 - [[concept-metabolic-interoception]] — 대사신호(glucose·insulin)→보상학습·동기·기분(energy allostasis·metabolic-mood); 중추 인슐린→선조체 도파민
 
 ## 👤 인물 (People)
@@ -592,6 +597,10 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — 비도파민 신경조절: eCB retrograde gain control
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — ★ 보상 추구 **'관여(engagement)'의 지속**을 도파민이 아닌 **2-AG**가 매개. NAc D2R-Penk MSN이 활동 의존적으로 2-AG 생산 → 역행성 **CB1R**로 [[concept-paraventricular-thalamus|aPVT]]^NTS 말단 글루타메이트 입력을 실시간 억제(gain control). *Cnr1* 결손은 **총 섭취량 불변, licking 시간 구조만 변화** → 포만(Need)과 추구 지속(Motivation) 해리. GRAB_eCB 바이오센서·SLEAP closed-loop·GRIN 이미징 (Nature 2026, Bruchas lab). 개념 [[concept-endocannabinoid-system]]. _(섭식 맥락은 🍽️와도)_
+
+### 진영 — 회고적 인과 학습 (ANCCR)
+개념 hub: [[concept-anccr]].
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] — ★ **ANCCR 원전**: NAc 도파민(dLight1.3b)은 TDRL RPE가 아니라 회고적 인과 연합("meaningful causal target")을 전달 — 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·행동 소거 후 cue 반응 잔존·trial 내 backprop 없음 (Science 2022, Namboodiri lab).
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012).
