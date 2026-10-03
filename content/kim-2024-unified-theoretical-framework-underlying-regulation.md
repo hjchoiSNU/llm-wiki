@@ -2,7 +2,7 @@
 title: "A unified theoretical framework underlying the regulation of motivated behavior"
 type: paper
 created: 2026-04-30
-updated: 2026-09-22
+updated: 2026-10-03
 source: "raw/2024 BioEssays. A unified theoretical framework underlying the regulation of motivated behavior.pdf"
 authors: [Kim YB, Lee YH, Park SJ, Choi HJ]
 year: 2024
@@ -96,3 +96,5 @@ journal: "BioEssays e2400016"
 - [[liu-2026-granular-motivational-interaction-and]] — 자매 framework: NMPU(동기 구성요소)와 직교 보완하는 동기의 시간적 sub-state(seeking→satiation) 분해 (Neuron 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility→Motivation 변환의 알고리즘 후보(추상 가치→구체 목표→기본 보상 신호 비계).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat의 valence 무관 **salience** ensemble(Motivation 활성화 후보)과 금식×영양 농도에 따라 조절되는 **value-scaled consumption** ensemble(consummatory Utility 후보)의 분리 (Cell Rep 2026; NMPU 매핑은 연결 가설).
+- [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 유전학적 분해(연결 가설): 단일유전자 비만(leptin–melanocortin)=Need 축 결손, 흔한 polygenic 비만(insula·SN 농축)=Pleasure/Motivation 축 개인차 (Nat Metab 2026).

@@ -2,7 +2,7 @@
 title: "Kim, Park, Hwang et al. 2024 — GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans"
 type: paper
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2024 Science. GLP-1 increases preingestive satiation via hypothalamic circuits in mice and humans..pdf
 authors: [Kyu Sik Kim, Joon Seok Park, Eunsang Hwang, Min Jung Park, Hwa Yun Shin, Young Hee Lee, Kyung Min Kim, Laurent Gautron, Elizabeth Godschall, Bryan Portillo, Kyle Grose, Sang-Ho Jung, So Lin Baek, Young Hyun Yun, Doyeon Lee, Eunseong Kim, Jason Ajwani, Seong Ho Yoo, Ali D. Güler, Kevin W. Williams, Hyung Jin Choi]
 year: 2024
@@ -123,3 +123,5 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[duran-2026-the-central-amygdala-gates]] — 대비되는 hedonic 축(Glp1r^CeA HFD 전담).
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH Glp1r/Lepr 공발현 뉴런(세포 접점).
 - [[cao-2024-hunting-for-heroes-brain]] — 본 논문(DMH^GLP-1R)을 세 논문 중 하나로 외부 평가.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — Ex-4(100 μg/kg)가 LH^Vgat의 **음식 cue(식전) 반응과 섭취 반응을 모두 약화**했다(class 비율은 불변, 진폭만 ↓; jaw 통제 후에도 유의). DMH GLP-1R→AgRP 식전 포만과 병렬인 LH 쪽 작용 지점 (Cell Rep 2026).
+- [[bonnefond-2026-the-genetics-of-obesity]] — 인간 **calorie-to-satiation(CTS)** 개인차(140–2,166 kcal; 공복 GLP-1·PYY·CCK·ghrelin과 무관)와 그 유전점수가 GLP-1RA 반응을 예측 — 저 CTS(satiation 경로 온전)가 liraglutide 최적 반응자. 본 논문의 preingestive satiation과의 대응은 연결 가설 (Nat Metab 2026).

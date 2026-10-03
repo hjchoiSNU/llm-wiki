@@ -2,7 +2,7 @@
 title: "Novelty exploration-activated ensemble in the lateral hypothalamus confers analgesic and anxiolytic effects (Jia/Zhou 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2026 Nat. Comm. Novelty exploration-activated ensemble in the lateral hypothalamus confers analgesic and anxiolytic effects  .pdf"
 authors: [Tao Jia, Yi-Ting Peng, Yi-Ling Sun, Cui Yin, Xizhi Gu, Liqun Yang, Song Zhang, Jun-Li Cao, Cheng Xiao, Chunyi Zhou]
 year: 2026
@@ -81,3 +81,4 @@ journal: "Nature Communications 17:4418; doi:10.1038/s41467-026-73205-x"
 - [[concept-lateral-habenula]] — 본 논문에서 진통/통각과민의 부호를 가르는 표적: **LH^GABA→LHb = 진통**, **LH^Glu→LHb = 통각과민**. LHb hub의 '혐오·음성강화' 축에 세포타입 의존 부호 반전 사례를 추가.
 - [[concept-orexin-neurons]] — novelty ensemble의 ~26%가 orexin⁺(MCH ~6%). LH salience ensemble과 orexin 집단의 관계는 미해결.
 - [[concept-activity-molecular-registration]] · [[hyun-2022-tagging-active-neurons-by]] — Fos-TRAP + Cre-OFF(Fos⁻) 대조 설계가 속한 **활성 뉴런 태깅·정합 방법론** 계열. tag-then-manipulate 논리의 같은 가족.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 중 혐오 열자극과 음식 cue에 함께 반응하는 **motivational salience** ensemble(중립 tone엔 무반응)을 2-photon 추적으로 동정. 이 논문의 양가 salience ensemble과 수렴하는 독립 증거이며, 같은 집단인지는 미검증 (Cell Rep 2026).

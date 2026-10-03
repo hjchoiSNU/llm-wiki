@@ -2,7 +2,7 @@
 title: cis-조절요소와 비만 유전학 — OCR/CRE에서 세포아형으로
 type: concept
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-10-03
 aliases: [cis-regulatory element, CRE, OCR, open chromatin region, snATAC-seq, ATAC-seq, enhancer, liftOver, HuGE score, eQTL, GWAS 세포타입 귀속, 조절 변이]
 ---
 
@@ -57,3 +57,4 @@ aliases: [cis-regulatory element, CRE, OCR, open chromatin region, snATAC-seq, A
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — **코딩 변이** 쪽 인간 유전학(GLP1R p.Pro7Leu, GIPR p.Glu354Gln). 본 개념은 비코딩 쪽 짝.
 - [[concept-epigenetic-priming]] · [[concept-h3-dopaminylation]] — 같은 크로마틴을 **경험 의존 변화** 쪽에서 읽는 상보적 축(유전 변이가 아닌 환경).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[bonnefond-2026-the-genetics-of-obesity]] — post-GWAS 기능유전체 종합: FTO→IRX3/IRX5 enhancer, eQTL만으론 effector 유전자 누락(Mostafavi 2023), 시상하부 3D 유전체로 FAIM2 3′UTR rs7132908 인과 변이 지목, MPRA·CRISPRi/a (Nat Metab 2026).

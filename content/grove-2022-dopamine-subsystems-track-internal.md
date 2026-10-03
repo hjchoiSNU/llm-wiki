@@ -2,7 +2,7 @@
 title: "Dopamine subsystems that track internal states"
 type: paper
 created: 2026-05-01
-updated: 2026-05-30
+updated: 2026-10-03
 source: "raw/2022 Nature. (Knight) Dopamine subsystems that track internal states.pptx"
 authors: [Grove JCR, Gray LA, La Santa Medina N, Sivakumar N, Ahn JS, Corpuz TV, Berke JD, Kreitzer AC, Knight ZA]
 year: 2022
@@ -82,3 +82,4 @@ VTA DA의 한 subset이 **systemic osmolarity 변화**에 반응 — water reinf
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — vagal→hindbrain→mesolimbic DA gating; 자원별 DA sub-system과 상보 (Sci Adv 2026).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 본 회로의 **역방향**(VTADA→LH)을 인과로 추가; LH가 reward channel의 source(LH→VTA)이자 outcome-specific 학습의 target(VTA→LH) 양쪽 (Neuron 2026, Sharpe lab).
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 도파민 하위계의 내부 대사상태 추적(상보).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 2-photon에서 위내 물 주입 반응이 Grove와 같은 **지연 kinetics**(주입 후 10–40 min)를 보였다. ⚠️ 다만 구강 음수 흥분 뉴런과 위내 수화 흥분 뉴런의 중첩은 **우연 수준**(77·28·10, n.s.)이다(먹이는 유의하게 중첩). "LH GABA = 수화 추적"은 구강 섭취 ensemble과 다른 하위집단의 속성일 가능성 (Cell Rep 2026).

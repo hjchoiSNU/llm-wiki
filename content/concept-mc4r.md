@@ -2,7 +2,7 @@
 title: Melanocortin-4 receptor (MC4R)
 type: concept
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [MC4R, melanocortin 4 receptor]
 ---
 
@@ -13,6 +13,7 @@ aliases: [MC4R, melanocortin 4 receptor]
 
 ## 개요
 - Gq-coupled G protein-coupled receptor.
+  - ⚠️ 병기: [[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]]·[[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]]는 MC4R을 **Gαs-coupled**(→GNAS–ADCY3–cAMP; MRAP2가 막 이동·감수성↑)로 기술. 정준 경로는 Gs이며 Gq·Kir7.1 등은 추가 신호로 보고됨 — 아래 "cAMP 양방향 조절"과도 Gs 쪽이 정합.
 - 1992 Mountjoy cloning.
 - α-MSH (agonist) vs AgRP (inverse agonist) → cAMP 양방향 조절.
 
@@ -32,6 +33,7 @@ aliases: [MC4R, melanocortin 4 receptor]
 - **인간 단일유전자 비만 ~5%** (Farooqi 2003 NEJM).
 - **Setmelanotide**: MC4R agonist, POMC·LEPR·PCSK1 결핍·BBS 환자 임상 승인. EE 6.4% ↑ (Chen 2015).
 - MC4R-deficient 환자는 basal EE 정상 — 단, agonist 작동 시 효과 (회로 보존).
+  - ⚠️ 병기: [[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]]은 **이형접합 MC4R 결손에서 setmelanotide 감량이 ~3 kg로 미미**(in vitro에선 돌연변이 수용체를 α-MSH보다 잘 활성화했음에도)하다고 정리 — 임상 감량 효과는 상류(POMC·PCSK1·LEPR·BBS) 결손에 한정적. 침투도도 연령·세대(아동 79%/성인 60%/>52세 40%)·PRS(하위 사분위 2.2배 vs 상위 9.7배)에 의존.
 - **Hypertension 매개**: PVN MC4R이 SNS 활성 → BP ↑. 모체 비만 자손 hypertension 핵심 매개 (Samuelsson 2016).
 
 ## MC3R 보완
@@ -57,3 +59,4 @@ aliases: [MC4R, melanocortin 4 receptor]
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — **DMV(미주 운동핵) MC4R**가 α-MSH 입력을 받아 장 SGLT1 포도당 흡수↓; MC4R의 새 말초 대사(혈당) 출력 가지 (Nat Commun 2026).
 - [[concept-maternal-programming-hypothalamus]] — PVN MC4R→hypertension을 포함한 모체 프로그래밍 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 인간 유전학 리뷰(Nat Metab 2026): MC4R 결손=유럽 최다 단일유전자 비만, 침투도 연령·세대·PRS 의존(PRS 하위 2.2배 vs 상위 9.7배), **Gαs** 결합(MRAP2·ASIP·SIM1·GNAS–ADCY3·BDNF), 이형접합 MC4R엔 setmelanotide ~3 kg에 그침.

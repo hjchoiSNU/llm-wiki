@@ -2,7 +2,7 @@
 title: Giles S. H. Yeo
 type: person
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-03
 aliases: [Giles Yeo, GSH Yeo, Giles S. H. Yeo]
 affiliation: MRC Metabolic Disease Unit, University of Cambridge
 ---
@@ -39,3 +39,4 @@ affiliation: MRC Metabolic Disease Unit, University of Cambridge
 - [[littleton-2025-from-identity-to-function-unveiling]] — review.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[bonnefond-2026-the-genetics-of-obesity]] — Bonnefond·Froguel 비만 유전학 리뷰(Nat Metab 2026); Loos & Yeo 2022 Nat Rev Genet를 핵심 인용. 개념 hub [[concept-obesity-genetics]].

@@ -2,7 +2,7 @@
 title: "LH neurotensin 뉴런의 다차원 섭취행동 조율 (Sumarli 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-03
 source: "raw/2026 bioRxiv. Multidimensional control of ingestive behavior by lateral hypothalamic neurotensin neurons.pdf"
 authors: [Dustin Sumarli, Mary C. Loveless, Grace O. Davis, Kyle W. Schroeder, Garret D. Stuber, Gregory J. Morton, Marta E. Soden]
 year: 2026
@@ -54,3 +54,4 @@ LH neurotensin(Nts) 뉴런은 licking 운동량·물 섭취를 부호화하며, 
 - [[person-korotkova-tatiana]] — LH-Nts 상보 arbitration 연구자.
 - [[concept-dopamine-reward-system]] · [[concept-need-motivation-pleasure-utility]] — VTA-DA value coding 대비, NMPU 축 배치.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **출처 대비**: LH^Nts는 음수·운동을 촉진하는 반면, NAcLat^Nts→VTA는 hedonic feeding을 매개하고 비만에서 감소한다. VTA 내 NTS 출처별 통합은 미해결 (Nature 2025).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 다수가 먹이·물 섭취에 **같은 극성으로 공통 반응**(r=0.62)하고, 소수만 modality 특이·반대 극성이다. 저자들은 그 잔여를 LH^Nts 같은 음수 편향 채널과 연결한다 (Cell Rep 2026).

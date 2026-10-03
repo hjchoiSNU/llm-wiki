@@ -2,7 +2,7 @@
 title: Paraventricular nucleus (PVN)
 type: concept
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [PVN, PVH, paraventricular hypothalamus]
 ---
 
@@ -67,3 +67,4 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — PVH를 포함한 ghrelin 민감 흥분성 입력이 단식 상태를 시냅스에 기억한다는 선행 원리(당시 입력 세포 정체는 미규명) (Cell 2011).
 - [[person-fenselau-henning]] — PVH^TRH→AgRP 시냅스 가소성 연구 그룹.
 - [[concept-maternal-programming-hypothalamus]] — PVN OXT↓·CRH↑·MC4R hypertension을 정리한 모체 프로그래밍 hub.
+- [[wang-2026-a-hypothalamic-circuit-links]] — ★ **PVNCRH = 만성 HFD에서 정서·과식을 함께 나르는 통합 노드**. ArcAgRP→PVNCRH 단일시냅스(oEPSC+oIPSC, net 흥분)·PVNCRH→LHAGlu 억제성 투사. 상류(Arc-PVN) 억제는 불안+과식 둘 다, 하류 LHA-CRHR2는 과식만 매개. ⚠️ AgRP→PVNCRH 흥분성은 [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]의 "PVH^CRH는 AgRP와 무연결·방향은 PVH→AgRP" 틀과 긴장 (Nat Commun 2026).

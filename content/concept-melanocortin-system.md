@@ -2,7 +2,7 @@
 title: Melanocortin system
 type: concept
 created: 2026-05-25
-updated: 2026-09-07
+updated: 2026-10-03
 aliases: [melanocortin pathway, POMC-MC4R system]
 ---
 
@@ -73,3 +73,4 @@ aliases: [melanocortin pathway, POMC-MC4R system]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 외측중격 LS^Nts의 20%가 `Mc3r`⁺ — 멜라노코르틴 수용체의 변연계 좌표(인과 미검증) (eLife 2020).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ 멜라노코르틴 **세 갈래 투사 뉴런(ARC POMC·NTS POMC·ARC AgRP)을 하나의 배선 지도**로 정렬한 해부 backbone. **12개 핵(BST·DM·LH·Rch·TC·PVN·ARC·PAG·EW·LPB·RMg·ROb)이 셋 모두에 직접 투사** = 계 전체를 동시에 조율할 수 있는 공통 상류. 세 집단 모두 주요 입력원으로 **역방향 투사**를 되보냄 (Front Neuroanat 2015).
+- [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 단일유전자 비만 >85형 중 절반 이상이 leptin–melanocortin 경로; setmelanotide 3상(POMC/PCSK1 80%·LEPR 53%가 ≥10% 감량), FDA ≥2세 POMC·PCSK1·LEPR·BBS 승인, 이형접합 MC4R·PWS에선 미미 (Nat Metab 2026).

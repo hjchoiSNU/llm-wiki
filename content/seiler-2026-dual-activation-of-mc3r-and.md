@@ -2,7 +2,7 @@
 title: "Seiler, Impastato et al. 2026 — Dual activation of MC3R and MC4R drives weight loss and reduces food intake in male primates with obesity"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-03
 source: raw/seiler-2026-dual-activation-of-mc3r-and.pdf
 authors: [Jillian L. Seiler, Anna C. Impastato, Emma Xiaoyu Zhang, Kade J. Kelley, Thomas L. Bennett, Bradley Studnitzer, Claudia R. Prindle, Benjamin H. Rajewski, Barry A. Badeau, Xinjian Jiang, Russell Potterfield, Jordan Y. Delev, Daniel L. Marks]
 year: 2026
@@ -87,3 +87,4 @@ journal: Nature Communications
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need encoder (NMPU).
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 차세대 약물·정밀의학 임상.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[bonnefond-2026-the-genetics-of-obesity]] — setmelanotide의 현재 위치와 한계(상류 결손 80%/53% 반응 vs 이형접합 MC4R ~3 kg) 정리; MC3R 경로로 MC4R 결손을 부분 보상할 수 있는지가 dual agonist의 열린 질문(연결 가설) (Nat Metab 2026).

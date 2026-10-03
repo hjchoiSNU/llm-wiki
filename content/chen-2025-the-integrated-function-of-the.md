@@ -2,7 +2,7 @@
 title: "The Integrated Function of the Lateral Hypothalamus in Energy Homeostasis (Chen 2025)"
 type: paper
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-10-03
 source: "raw/2025 Cells. The Integrated Function of the Lateral Hypothalamus in Energy Homeostasis.pdf"
 authors: [Xiangtong Chen, Yutong Wang, Su Fu, You Wan, Jian Mao, Kun Cui, Hong Jiang]
 year: 2025
@@ -53,3 +53,4 @@ year: 2025
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LHA^Lepr social·LHA^Nts thirst 우선 근거.
 - [[rossi-2023-control-of-energy-homeostasis]] — 짝 LHA 종합 리뷰(engine/brake).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — ⚠️ LHA^Vgat "engine" 프레임과 긴장: LH^Vgat 상당수가 **혐오 열자극에 흥분**하고 같은 세포가 음식 cue에도 반응한다(valence 무관 salience). 다른 ensemble은 섭취를 value에 따라 조절된 형태로 부호화한다 (Cell Rep 2026; 활동 상관이라 인과 "engine" 결과와는 병기).

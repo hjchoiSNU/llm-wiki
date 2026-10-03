@@ -2,7 +2,7 @@
 title: Appetite & energy homeostasis — synthesis
 type: overview
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -121,6 +121,8 @@ updated: 2026-09-19
 | Pleasure | bupropion-naltrexone | NAc opioid |
 | Anorexia | ghrelin agonist | Need ↑ |
 | Leptin 결핍 | metreleptin | Need 회복 |
+
+- **유전 층화** ([[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]] · [[concept-obesity-genetics]]): setmelanotide는 상류 결손(POMC/PCSK1 80%·LEPR 53%가 1년 ≥10% 감량; FDA ≥2세 POMC·PCSK1·LEPR·BBS)에만 강하고 이형접합 MC4R엔 ~3 kg; PWS엔 diazoxide choline(2025 FDA). 흔한 비만 유전자는 insula·SN(보상) 농축 주장 — 단일유전자=Need 결손 vs polygenic=보상축 개인차(연결 가설).
 
 ### DTx (digital therapeutics)
 - CBT 기반 + EMA 실시간 + AI 코칭 + VR cue exposure.

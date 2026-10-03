@@ -2,7 +2,7 @@
 title: Glucagon-like peptide-1 (GLP-1)
 type: concept
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [GLP-1, glucagon-like peptide-1, GLP1]
 ---
 
@@ -256,3 +256,4 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — ★ **LS^Nts 뉴런의 70%가 `Glp1r`⁺**이고, **LS 국소 exendin-4 투여만으로 섭취가 강하게 감소**. LS를 GLP-1RA 변연계 작용점으로 보는 가장 오래된 직접 약리 증거 (eLife 2020, Friedman lab).
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — LS snRNA-seq에서 `Glp1r`가 **`Pdyn`과 공발현**하며, DLS^Glp1r 자극이 섭식을 줄인다는 선행 보고와 수렴. → `Glp1r`는 LS의 **세 독립 좌표계**(Crhr2·Sst/Pdyn·Nts)에 모두 등장하는 수렴 마커 (Neuron 2026). → [[concept-lateral-septum]]
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — ★ **체중 감소로 설명되지 않는 GLP-1 작용** 총정리: SELECT(체중 9.4%에 MACE 20%↓·중심지방이 효과의 1/3만 매개)·ESSENCE(간 종료점 50–70% 비체중)·STRIDE(BMI<30 다수)·hsCRP 매개 20.6–61.8%. **신경 GLP-1R이 말초 염증 억제에 필수** (Cell Metab 2026, Drucker).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — GLP-1R 작용제 Ex-4가 LH^Vgat의 음식 cue 반응과 섭취 반응 진폭을 모두 낮추고, Cue-Exc·F-Inh 뉴런의 기저 활동을 선택적으로 낮춘다 (2-photon, Cell Rep 2026).

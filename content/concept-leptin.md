@@ -2,7 +2,7 @@
 title: Leptin
 type: concept
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -88,3 +88,4 @@ updated: 2026-09-19
 - [[concept-weight-regain-defended-adiposity]] — 감량 후 leptin 저하가 reset 신호 결핍으로 읽히는 지점(leptin 재감작 전략).
 - [[davila-2026-agrp-neurons-are-required-for]] — GLP-1RA 감량에서 leptin은 매개자가 아니며(WT 감소·KO 상승), **leptin 병용은 오히려 체중 감량을 강화**. 매개축은 glucocorticoid→AgRP-GR (PNAS 2026).
 - [[concept-maternal-programming-hypothalamus]] — postnatal leptin surge blunting을 6 매개 기전 중 하나로 정리한 상위 hub.
+- [[bonnefond-2026-the-genetics-of-obesity]] — LEP/LEPR 결손(열성)과 recombinant leptin 대체요법의 정밀의학 사례, 그러나 고가로 파키스탄 등 다수 결손 환자에겐 접근 불가; LEP/LEPR 결손 아동에도 신경발달 이상↑ (Nat Metab 2026).

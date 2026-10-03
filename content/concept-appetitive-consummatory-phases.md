@@ -2,7 +2,7 @@
 title: Appetitive vs consummatory phases of eating
 type: concept
 created: 2026-04-30
-updated: 2026-08-19
+updated: 2026-10-03
 aliases: [appetitive phase, consummatory phase, eating phases]
 ---
 
@@ -55,6 +55,8 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 | ARC AgRP | sensory cue로 즉시 ↓ (feedforward) | 지속 ↓ |
 | DMH GLP-1R | ↑ pre-ingestive (cognitive satiation) | continued ↑ |
 
+> ⚠️ **LH^Vgat 행 병기** ([[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026 Cell Rep]]): 같은 뉴런을 추적하면, 음식 cue(appetitive)에 반응하는 LH^Vgat 세포가 **혐오 열자극에도 흥분**한다(heat vs caged PB r=0.59). 즉 subset A는 음식 특이 appetitive 세포라기보다 **valence 무관 motivational salience** 코더일 수 있다. Consummatory subset은 먹이·물·고형식에 일반화되고 금식·농도·Ex-4에 따라 value-scaled된다. 단 head-fixed 실험이다.
+
 ## 실험 paradigm
 
 ### 분리 도구
@@ -106,3 +108,4 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[concept-computational-ethology]] — 고전 ethology의 이분법을 계산 도구가 얼마나 세분할 수 있는지; [[liu-2025-castle-a-training-free-foundation-model|CASTLE]]이 consummatory 내부에서 "food approaching mouth"·"food releasing at mouth"를 자동 분리한 사례.
 - [[zhang-2026-inherited-input-and-local-transformations]] — pVLS dSPN ramping이 **appetitive→consummatory 전이 임계**의 후보 신호(drift-to-threshold; ramp 기울기 → licking 개시 시점) (bioRxiv 2026).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — appetitive(seeking) phase가 **유지되는** 시냅스 기전: NAc 2-AG → aPVT 말단 CB1R 역행성 억제 (Nature 2026).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat phase 분업의 단일세포 재해석: cue 반응(appetitive) 세포는 **혐오 열자극에도 반응하는 valence 무관 salience ensemble**이고, consummatory 세포는 먹이·물·고형식에 일반화되며 value에 따라 조절된다 (Cell Rep 2026). ⚠️ 위 표의 "LH^Vgat subset A(appetitive)"가 음식 특이가 아닐 수 있음 — 단 head-fixed 실험이라 자유행동 seeking은 미측정.

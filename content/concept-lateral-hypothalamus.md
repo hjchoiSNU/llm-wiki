@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-09-21
+updated: 2026-10-03
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -54,6 +54,8 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 | LH^Mch | weak ↑ | **sustained ↑** (Orx과 정반대) |
 
 → **LH GABAergic은 별도의 appetitive vs consummatory subset** 보유 (Jennings 2015 Cell).
+
+> ⚠️ **병기** ([[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026 Cell Rep]], SNU 김성연 lab): 같은 LH^Vgat 뉴런을 세션마다 추적한 2-photon 결과, cue 반응 subset은 **혐오 열자극(37°C IR heat)에도 흥분하는 valence 무관 motivational salience** ensemble이었다(중립 tone엔 무반응). Consummatory subset은 먹이·물·고형식에 일반화되고 금식·영양 농도·Ex-4에 따라 value-scaled된다. "LH^Vgat appetitive = 음식 추구" 서술과 긴장하지만, 이는 활동 상관 결과다.
 
 ## 회로
 
@@ -206,3 +208,4 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[concept-lateral-habenula]] — LH→LHb 공격성·서열 상실 투사의 하류 구조 개념 hub(혐오·음성강화 축).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **LH가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나. ARC POMC·AgRP의 주요 시상하부 입력원이자 두 집단 축삭의 조밀한 표적 = 상호 연결. LH를 ARC의 하류로만 그리면 안 된다는 해부 근거 (Front Neuroanat 2015).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — NAc medial shell SPN이 **순 억제**될 때 탈억제되는 하류 표적. O'Connor 2015의 D1-SPN→LHA 섭식 게이팅이 이 모델의 '섭식판'이며, 두 설명은 SPN 활성의 부호에서 반대 예측을 내므로 병기 필요.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — ★ 같은 LH^Vgat 뉴런을 세션 간 2-photon으로 추적해 **두 기능 ensemble**로 분해했다: 혐오 열자극·음식 cue·학습 cue에 함께 반응하는 **motivational salience** ensemble(중립 tone엔 무반응) vs 먹이·물·고형식 섭취에 공통으로 반응하며 금식·농도·Ex-4에 따라 진폭이 조절되는 **value-scaled consumption** ensemble (SNU 김성연 lab, Cell Rep 2026). ⚠️ "GABAergic = 식이 ↑" 단순 서술과 긴장: LH^Vgat 일부는 혐오 자극에 흥분한다(활동 상관 vs 인과 조작 — 층위가 달라 병기).
