@@ -2,7 +2,7 @@
 title: Tatiana Korotkova
 type: person
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-03
 aliases: [Korotkova, Tatiana Korotkova]
 affiliation: Institute for Systems Physiology, University of Cologne / CECAD
 ---
@@ -41,3 +41,4 @@ affiliation: Institute for Systems Physiology, University of Cologne / CECAD
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — single-author review.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab 대응작.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — 본인 lab의 LepR LH 항불안 1차 논문(Nat Neurosci 2025, 공동 1저자 Figge-Schlensok·Petzold). ABA 모델에서 LepR 활성 → 과잉 running 차단, PFC→LH 입력이 고불안 개체에서만 LepR를 억제.

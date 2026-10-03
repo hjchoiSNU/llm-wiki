@@ -2,7 +2,7 @@
 title: 외측중격 (Lateral septum, LS)
 type: concept
 created: 2026-09-02
-updated: 2026-09-07
+updated: 2026-10-03
 aliases: [LS, lateral septum, 외측중격, 중격, septal area, LS Crhr2, LS Nts, DLS Pdyn, septal rage]
 ---
 
@@ -184,3 +184,5 @@ Goode 2026은 DLS^Pdyn이 **LS에서 자극 시 섭취를 줄이는 여러 세�
 - [[concept-activity-molecular-registration]] — 분자×기능 정합 방법론 비교.
 - [[person-friedman-jeffrey]] — Azevedo 2020 교신 lab.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **LS→ARC 축의 해부 확립과 미검증 과제**: LS가 ARC POMC·AgRP 양쪽의 최대급 전뇌 입력원(시상하부 밖 전뇌 입력 POMC ~15%·AgRP ~10%를 subiculum·BST와 분담)이며, POMC·AgRP는 **LS로 역방향 투사를 되보낸다**(상호 연결). 입력 밀도는 POMC 쪽이 유의하게 높음. 저자는 LS 활성이 위 팽창·ghrelin에 반응하고(Gong 2013) 중격 오피오이드·노르아드레날린이 섭취를 늘린다는 점을 들어 **LS→ARC 입력이 POMC/AgRP 생리에 미치는 영향은 미검증**이라고 명시 — 위키의 LS→LHA([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode]])·LS^Nts→LH([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo]]) 축 옆에 **비어 있는 칸** (Front Neuroanat 2015).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — ★ **`Glp1r` 축의 회로 인과 증거**: **dLS^GLP-1R → LHA**가 GABA성 **단시냅스** 억제(oIPSC 5/8, TTX→4-AP 회복, PTX 차단)이고, 억제하면 섭취↑(암기·명기·금식 후 재급식 전부, F(1,120)=14.4–53.9), 투사 특이로 활성화하면 **금식 후에만** 섭취↓(F(1,50)=11.01, p=0.0017), LHA 종말 광자극은 즉각 섭취 억제. **exendin-4가 이 억제 시냅스의 oIPSC를 키우고 PPR을 낮춘다**(p=0.046 / p=0.012) = GLP-1R 작용의 **시냅스 전 좌표**. ⚠️ 세포체 활성화(hM3Dq)는 **무효**였고 저자는 dLS 내 collateral 억제(인접 EYFP⁻ 뉴런 6/11에서 PTX 민감 IPSC)로 설명 — **[[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]의 LS^Nts 세포체 활성화 → 섭취↓와 직접 충돌**(병기). ⚠️ `Glp1r-ires-Cre:Ai14` 표지가 "dLS 전역 고르게 분포"로 서술돼 [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo]]의 전사체 8.4%와 범위가 어긋남 (bioRxiv preprint 2024 → Mol Metab 85:101960; Pang·Rossi lab).
+- [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — **LHA→dLS 상행 섬유의 세포타입 후보**(Nat Neurosci 2019, Jackson lab). dLS에 CTb를 넣고 LHA에서 역행 표지 + FISH: perifornical의 **CTb⁺Sst⁺ 중 75.3%가 Slc17a6⁺**(81 세포/3 마우스), Slc32a1⁺는 16.4%(67 세포). 순행 추적에서도 Sst-Cre·Vglut2-Cre는 dLS에 조밀한 섬유, **Vgat-Cre는 희박**했다. → 위 "상행: LHAsf → LS^Crhr2" 항목에 **perifornical LHA^Glut Sst**라는 분자 정체 후보가 더해진다. 같은 논문에서 LHA Sst⁺ 화학유전 활성화는 비활동기에 **gnawing·digging·rearing**을 끌어냈다(gnawing P=0.011) — dLS→LHA가 섭취와 분리된 food seeking에 관여한다는 결과와 되먹임 고리를 이루는지는 미검증.

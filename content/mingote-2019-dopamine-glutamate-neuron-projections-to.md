@@ -2,7 +2,7 @@
 title: "Mingote et al. 2019 — DA-GLU 뉴런의 NAc medial shell 투사와 행동 전환(behavioral switching)"
 type: paper
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/(2019, neurochemistry) dopamine-glutamate neuron projections to the nucleus accumbens medial shell.pdf"
 authors: [Susana Mingote, Aliza Amsellem, Abigail Kempf, Stephen Rayport, Nao Chuhma]
 year: 2019
@@ -145,3 +145,4 @@ Mingote S, Amsellem A, Kempf A, **Rayport S**, **Chuhma N** (Columbia·NYSPI·AS
 - [[concept-liking-wanting]] — Wyvell & Berridge 2000이 shell 도파민의 현저성 해석에 인용됨.
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc 세포타입·공간 아틀라스(CHAT⁺ Inh_D 위치; 종간 번역 시 shell 아구역 대응 문제).
 - [[proposal-lh-nac-nmpu-neuron-discovery]] — discovery matrix의 ChAT 행에 이미 출판된 예측(최대 EPSC·burst-then-pause)을 공급; INTRSECT Con/Fon은 입력측 대안 도구.
+- [[oconnor-2015-accumbal-d1r-neurons-projecting]] — ⚠️ **부호 상반의 1차 데이터 쪽**(Neuron 2015, Lüscher lab). 본 페이지가 "O'Connor 2015"로 인용한 원전: LH 투사 medial shell 뉴런의 **93.6%가 D1R-MSN**이고, 그 **광억제는 포만 상태에서도 섭취를 개시**시키며(F(1,19)=5.55, p<0.05) **LH 말단 광자극은 24 h 금식에도 섭취를 중단**시킨다. 즉 **SPN 활성 = 섭식 중단(전환)**이다. 본 논문 도식의 **SPN 활성 = Stay on task**와 진행 중 과제가 섭식일 때 정반대를 예측한다. 해소 후보 둘: (i) 아집단 차이 — 원전의 세포는 **LH 투사 shell SPN**(D1R-MSN의 39.7%만 CTB⁺)이고 본 논문 대상은 medial shell SPN 일반, (ii) 시간척도 — 수 초 bout 통제 vs DA-GLU 버스트 유발 sub-second 억제. 원전은 또 ChI 경첩 가설의 **하류 표적을 확정**해 준다: 표적은 orexin·MCH가 아니라 **LH^Vgat**(78% 연결, rabies 입력의 97%가 D1R-MSN)이다.

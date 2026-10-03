@@ -2,7 +2,7 @@
 title: Basolateral amygdala (BLA, 기저외측편도체)
 type: concept
 created: 2026-05-01
-updated: 2026-09-02
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -141,3 +141,4 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **BLA→외측중격 LS^Glp1r·LS^Foxp2 아형에 선택적 입력**(rabies+STPT). 한편 BLA는 CS 제시 중 LS가 수행하는 cue-outcome 계산을 하지 않아, 위협 평가 위계에서 LS와 역할이 갈린다 (Nature 2026).
 - [[concept-lateral-septum]] — BLA 입력을 아형 선택적으로 받는 변연계 평가 노드.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — BLA→NAc가 보상·혐오를 모두 전달하되 **혐오는 CCK⁺ BLA 뉴런이 D2R-MSN으로** 전달(Shen 2019); Ppp1r1b⁺=보상 / Rspo2⁺=혐오(Kim 2016). BLA→D2R-MSN 강화가 **incubation of craving**의 기질 (Annu Rev Neurosci 2021).
+- [[hoang-2021-the-basolateral-amygdala-and]] — BLA vs LH 학습 편향 리뷰(Curr Opin Behav Sci 2021, Sharpe lab). BLA = 감각 특이 결과 표상(specific PIT 담당, general PIT는 BLA 손상 후에도 보존)·cue-onset phasic/unsigned salience. 원위 cue는 **이미 동기적으로 유의할 때만** 학습한다(SOC·위험 맥락 ○, sensory preconditioning ×). BLA→LH 흥분성 투사로 정보를 넘기고, VTA로는 직접 투사하지 않는다(Watabe-Uchida 2012). ⚠️ (1) 그 리뷰는 Reppucci & Petrovich 2016을 들어 **LH→BLA 상호 투사가 없다**고 쓴다. 본 페이지 입력 목록의 'LH (Lutas 2019)' 항목은 출처 확인이 필요하다. (2) 'BLA 억제는 보상 학습을 없애지 않는다'·phasic 신호 서술은 Grove 2025의 aBLA-D1R 분 단위 ramp·flavor–nutrient 학습 차단과 과제가 달라 병기한다.

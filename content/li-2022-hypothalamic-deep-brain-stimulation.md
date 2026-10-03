@@ -2,7 +2,7 @@
 title: "Hypothalamic DBS as a strategy to manage anxiety disorders (Li 2022)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-03
 source: "raw/2022 PNAS Hypothalamic deep brain stimulation as a strategy to manage anxiety disorders.pdf"
 authors: [Li HT, Peleg-Raibstein D, Burdakov D]
 year: 2022
@@ -34,3 +34,4 @@ year: 2022
 - [[concept-dopamine-reward-system]] — orexin→VTA 보상 연결.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH가 hunger×anxiety arbitration; 본 결과와 호응.
 - [[whiting-2013-lateral-hypothalamic-area-deep]] — 인간 LHA DBS(파형·전압 최적화 주제 공유).
+- [[harris-2005-a-role-for-lateral]] — ★ 본 논문이 "끄는" 그 LH orexin 뉴런이 **cue 유발 보상 추구·재발을 구동한다**는 1차 근거(Nature 2005, Aston-Jones lab): LH orexin Fos가 morphine·cocaine·food CPP 선호와 **R=0.72–0.90** 비례, LH 국소 Y4 작용제(rPP)·**VTA orexin A 주입**이 소거된 선호를 복원, **OX1R 길항제 SB-334867**이 복원과 선호 표현을 모두 깎는다(206±23 → 87±30 s, P<0.05). 두 논문을 합치면 **검증 가능한 예측**이 나온다 — 120 Hz 정현파 shhDBS가 항불안·양성 정동을 만든다면 **같은 조작이 음식·약물 cue 유발 추구도 줄여야 한다**. 이는 LHA DBS 임상([[concept-deep-brain-stimulation|DBS]])에서 1차 종결점을 '식욕'이 아니라 **'cue 반응성'**으로 잡아야 할 근거다(연결 가설 — 양쪽 원문 주장 아님). ⚠️ 단 본 논문의 shhDBS는 orexin 억제가 **양성 valence·장소선호**를 만든다고 보고하므로, orexin 억제의 정동 효과와 동기 효과가 같은 방향인지는 미검증이다(병기).

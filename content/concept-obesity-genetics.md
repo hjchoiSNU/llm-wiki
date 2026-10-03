@@ -51,3 +51,4 @@ aliases: [obesity genetics, monogenic obesity, 단일유전자 비만, oligogeni
 - [[johansen-2025-brain-control-of-energy]] · [[stuber-2025-the-neurobiology-of-overeating]] — gene×environment·monogenic vs polygenic 서술.
 - [[person-yeo-giles]] — 인간 비만 유전학 인물.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[rossi-2019-obesity-remodels-activity-and]] — 다유전자 BMI 신호의 **LHA 세포타입 귀속** 사례(Science 2019; UK Biobank·KCL·Karolinska 협업): LHA scRNA-seq 14개 클러스터 중 **glutamatergic LHA^Vglut2가 인간 BMI gene-level 연관에서 가장 유의**(Bonferroni 기준). 같은 클러스터가 마우스 HFD에서 전사체 변화도 최대 — "흔한 변이가 보상·섭식 회로 전반에 퍼진다"는 서술을 LH brake 세포로 구체화(연관 enrichment이지 인과 변이 아님).

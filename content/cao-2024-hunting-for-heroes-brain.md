@@ -2,7 +2,7 @@
 title: 항비만 GLP-1RA를 매개하는 뇌 뉴런을 찾아서 (Cao & Tong, 2024)
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2024 Obesity Medicine. (Qingchun Tong) Hunting for heroes- Brain neurons mediating GLP-1R agonists in obesity treatment.pdf
 authors: [Cao Y, Tong Q]
 year: 2024
@@ -49,3 +49,4 @@ GLP-1RA 항비만을 매개하는 핵심 뇌 뉴런을 각각 DMH·후뇌(NTS/AP
 - [[concept-lateral-septum]] — 세 번째 축 LS^GLP-1R의 세포 좌표 hub(본문 ③).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS 국소 exendin-4만으로 섭취 감소를 보인 가장 오래된 직접 약리 증거.
 - [[concept-dorsomedial-hypothalamus]] — 첫 번째 축 DMH^GLP-1R의 개념 hub.
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 commentary의 세 번째 축(**LS**, Chen 2024 JCI = LS GLP-1R knockdown이 liraglutide 효과를 거의 소실)에 대응하는 **회로 쪽 짝**: dLS^GLP-1R→LHA GABA성 단시냅스 억제가 섭취를 양방향 조절하고 exendin-4가 그 시냅스를 강화. ⚠️ 본 commentary의 비판이 그대로 적용된다 — ① **`Glp1r` 유전자를 삭제하지 않은 뉴런 조작**이며, ② **체중·만성 효과를 측정하지 않은 급성 섭취 실험**(CNO 1 mg/kg 후 0.5–3 h)이고, ③ 세포체 활성화는 **null**이어서 조작 범위에 따라 결론이 뒤집힌다. 수용체 수준(Chen 2024 JCI)과 회로 수준(Lu 2024)을 **같은 동물·같은 지표로 합친 검증은 아직 없다** (bioRxiv preprint 2024 → Mol Metab 85:101960).

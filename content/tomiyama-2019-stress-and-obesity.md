@@ -40,3 +40,4 @@ stress와 비만의 양방향 경로(인지·행동·생리·생화학)와 weigh
 - [[concept-emotional-eating]] — 정서적 섭식 개념 hub.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — ⚠️ 스트레스→**섭식 억제** 쪽 회로(LS^Nts→LH). 갈림길은 스트레스 강도가 아니라 **능동 vs 수동 대처**일 수 있다는 가설 (eLife 2020, Friedman lab). → [[concept-lateral-septum]]
 - [[wang-2026-a-hypothalamic-circuit-links]] — HFD→HPA축 과활성(corticosterone↑)→과식·비만 유지를 **시상하부-내 회로**(ArcAgRP→PVNCRH→LHAGlu)로 구현. 불안-취약 아형만 과식·체중↑; 항불안제(midazolam)로 과식이 줄어 정서→섭식 인과를 지지 (Nat Commun 2026).
+- [[linders-2022-stress-driven-potentiation-of-lateral]] — ★ 이 리뷰의 **"cortisol → 보상 민감화 → palatable food wanting↑"** 경로에 대한 시냅스 수준 인과 증거(Nat Commun 2022, Meye lab): 사회 패배 스트레스가 corticosterone을 올리고, **GR 작용제(dexamethasone)를 VTA에 직접 주입하면** LHA^glut→VTA^DA 시냅스 강화와 지방 과식이 **스트레스 없이 재현**된다(F(1,9)=7.03, p=0.03). ⚠️ 단 층위 차이를 병기할 것 — 이 리뷰는 **만성** 스트레스·복부지방·체중증가를 다루고, 저쪽은 **이틀·체중 불변**의 급성 가소성이다. 급성 시냅스 변화가 만성 비만으로 누적되는지는 미검증.

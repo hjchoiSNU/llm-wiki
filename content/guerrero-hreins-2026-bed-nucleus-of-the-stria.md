@@ -2,7 +2,7 @@
 title: "Guerrero-Hreins et al. 2026 — Bed nucleus of the stria terminalis connectivity during food cue and taste processing under stress"
 type: paper
 created: 2026-06-20
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2026 Nature Communications. Bed nucleus of the stria terminalis connectivity during food cue and taste processing under stress.pdf
 authors: [Eva Guerrero-Hreins, Matthew D. Greaves, Po-Han Kung, Bradford A. Moffat, Rebecca K. Glarin, Stuart B. Murray, Ben J. Harrison, Priya Sumithran, Robyn M. Brown, Trevor Steward]
 year: 2026
@@ -71,3 +71,4 @@ journal: Nature Communications
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[nord-2021-disrupted-dorsal-mid-insula]] — 위키의 dmINS 앵커. ⚠️ **반구 대비**: Nord 2021의 transdiagnostic 내수용 locus는 **좌측** dorsal mid-insula인데, 본 논문의 dmINS 노드는 **우측**(37,5,10)이며 저자는 우반구 우세를 내수용–현저성 계산의 편중으로 해석한다. 인간 dmINS를 표적/관심영역으로 쓸 때 반드시 반구를 명시할 것.
 - [[concept-emotional-eating]] · [[concept-cue-reactivity]] — 본 논문이 다루는 스트레스×food cue 반응의 임상·행동 대응.
+- [[jennings-2013-the-inhibitory-circuit-architecture]] — 인간 BNST stress×food cue 결과가 기대는 **설치류 BNST→LH 기전 원전**(Science 2013, Stuber lab): Vgat^BNST→LH 억제성 투사 광활성이 포만 상태에서도 calorie-dense 섭식을 켜고(광억제는 굶긴 상태 섭식↓·혐오), 하류 표적은 **LH^Vglut2 브레이크**다. 연결 가설: 스트레스가 BNST의 피질 relay(→OFC·NAc·dmINS)를 하향조절할 때 피질하(→시상하부) 출력은 상대적으로 보존·우세해지는가 → DCM에 **BNST→시상하부 노드**를 명시적으로 넣어 검증할 설계 제안.

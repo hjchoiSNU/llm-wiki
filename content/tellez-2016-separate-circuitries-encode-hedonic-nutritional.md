@@ -2,7 +2,7 @@
 title: Separate circuitries encode the hedonic and nutritional values of sugar
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-03
 source: raw/2016 NN Separate circuitries encode the hedonic and nutritional values of sugar.pdf
 authors: [Tellez LA, Han W, Zhang X, Ferreira TL, Perez IO, Shammah-Lagnado SJ, van den Pol AN, de Araujo IE]
 year: 2016
@@ -32,3 +32,4 @@ year: 2016
 - [[grove-2022-dopamine-subsystems-track-internal]] — 도파민 하위계의 내부 대사상태 추적(상보).
 - [[person-friedman-jeffrey]] — de Araujo lab 계열 대사·섭식 보상 연구.
 - [[concept-medium-spiny-neuron]] — D1r MSN(VS/DS) 세포 표적.
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 같은 de Araujo 계열의 3년 앞선 논문(eLife 2013, Friedman lab; Tellez 공저). **LH MCH 뉴런**이 sucrose 섭취 중 "선조체" DA 방출(+118%)에 필요하고, sucralose와 짝지은 MCH 자극은 DA를 +69% 올린다. MCH가 본 논문 영양(DS) DA의 **상류 후보**다. ⚠️ Domingos는 sucralose 단독 섭취 시 선조체 DA 변화가 **+8%로 무의미**하다고 보고했다. 본 논문의 "sucralose → VS DA↑"와 어긋나는데, Domingos가 microdialysis 부위(DS/VS)를 명시하지 않아 판정할 수 없다. 병기한다.

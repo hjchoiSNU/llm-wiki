@@ -2,7 +2,7 @@
 title: 외측 고삐핵 (Lateral habenula, LHb) — 혐오·음성강화의 상류 허브
 type: concept
 created: 2026-09-02
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [lateral habenula, LHb, 외측 고삐핵, 고삐핵, habenula, RMTg, rostromedial tegmentum, MRR, median raphe region]
 ---
 
@@ -61,3 +61,4 @@ MRR (median raphe region, vGluT2⁺) → LHb → RMTg (VTA tail, GABA) → VTA D
 - [[concept-parabrachial-cgrp-alarm]] — 또 다른 상행 혐오·경보 축(비교).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — LHb가 ARC POMC·AgRP로 직접 투사하는 시상 계열 입력원 목록에 포함(소수). 시상 전반이 ARC로 거의 투사하지 않는 가운데 PVT와 함께 잡힌 예외 (Front Neuroanat 2015).
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH novelty ensemble의 **투사 표적별 부호 분기**: LH^GABA→**LHb**가 opioid 비의존 진통을 매개하는 반면, LH^Glu→**LHb**는 통각과민을 낸다. 같은 LHb 입력이라도 상류 세포타입에 따라 통증 부호가 뒤집히는 사례 (Nat Commun 2026).
+- [[rossi-2021-transcriptional-and-functional-divergence]] — ★ **LH→LHb 축에 섭식·대사 층을 추가**(Neuron 2021, Stuber lab). LHA^Vglut2→LHb 뉴런은 **전측 LHA**에 치우치고 **Pax6⁺**이며, 같은 Vglut2의 VTA 투사보다 **더 흥분성**(rheobase↓ p=2e-7, 자발발화↑ p=0.0002)이다. 기능적으로는 **포만 상태에서 sucrose 반응 세포 비율이 더 높고**(X²=12.58, p=1.9e-3), **leptin이 반응을 깎고 ghrelin이 키운다**(leptin×투사 interaction p=1.6e-14) — 즉 이 입력은 "배부른지 굶었는지"를 LHb로 전달한다. ⚠️ 본 페이지의 LH 접점은 **공격성·서열 상실**(Flanigan 2020, Fan 2023)로만 적혀 있는데, 같은 세포인지는 미검증이므로 별개 기능 층으로 병기한다. 또한 [[jia-2026-novelty-exploration-activated-ensemble-in|Jia 2026]]은 LH^Glu→LHb를 **통각과민** 쪽으로 배정하므로, LHb 입력의 부호는 측정 축(통증 vs 섭식)에 따라 달라진다.

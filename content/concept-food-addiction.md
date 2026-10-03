@@ -2,7 +2,7 @@
 title: 음식 중독 (Food Addiction)
 type: concept
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-10-03
 aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 ---
 
@@ -41,3 +41,4 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌-저항 섭취(중독의 정의적 특징)의 시상하부 회로; 인간 rZI-sgACC FC가 food addiction score와 상관.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 본 개념의 논쟁 지형(YFAS의 순환성·동물 3모델 해리·물질 vs 행동 중독·'끊을 수 없다'는 구조적 난점)을 교재 언어로 정리한 챕터.
 - [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **논쟁을 우회할 기준**: "중독인가"를 자기보고 척도(YFAS) 대신 **처벌 저항**이라는 단일 행동 기준으로 판정. 함께 따라오는 것이 개체차 논리(20–30%만 강박·기저는 단봉·처벌 도입 후 양봉)로, "같은 식품환경, 다른 결과"의 설계 요건을 제공한다.
+- [[harris-2005-a-role-for-lateral]] — ★ **음식과 약물이 같은 LH 세포군을 공유한다는 가장 오래된 직접 증거**(Nature 2005, Harris & Aston-Jones). morphine·cocaine·**음식(시리얼)** 장소선호를 표현하는 동안 **LH orexin 뉴런 48–52%가 Fos⁺**(비조건화 17±2%)이고, 그 비율이 세 보상 모두에서 개체 선호와 **R=0.72–0.90** 비례한다. 소거된 morphine 선호는 **LH 국소 활성화(Y4 작용제 rPP)** 만으로 **전신 약물 priming과 동등한 크기**로 복원되고(353±52 vs 424±103 s, P>0.5) **OX1R 길항제로 완전 차단**된다 → cue 유발 재발(relapse)의 시상하부 노드. ⚠️ **중독 framing의 경계도 같은 논문이 긋는다**: 같은 크기의 선호를 만드는 **novel object 보상에서는 LH orexin이 전혀 켜지지 않아**(18±2%), 저자들은 작용 범위를 "**소비성(음식·약물) 보상 cue**"로 한정한다 — 보상 일반이 아니라 소비성 보상에서만 공유 기질이 성립한다는 뜻이다. 음식 CPP는 **금식 없이** 수행됐으므로 이 반응은 결핍이 아니라 학습된 cue에 의한 것이다.

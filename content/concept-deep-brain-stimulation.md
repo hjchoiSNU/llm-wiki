@@ -2,7 +2,7 @@
 title: 뇌심부자극술 (Deep Brain Stimulation, DBS)
 type: concept
 created: 2026-06-01
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 ---
 
@@ -63,3 +63,4 @@ aliases: [DBS, deep brain stimulation, 뇌심부자극, 침습 신경자극]
 - [[wu-2018-closing-the-loop-on]] — 마우스 NAc delta-triggered RNS 원전(폐루프 개념의 전임상 근거).
 - [[parker-2022-appetitive-mapping-of-the-human]] — 수술 중(급성·open-loop) NAc 자극이 용량의존적 기분 상승을 유발한 매핑.
 - [[choi-2025-brain-activity-associated-with-breakthrough]] — 이식 전극으로 약물(tirzepatide) 반응을 읽은 n=1 biomarker 사례.
+- [[de-vrind-2019-effects-of-gaba-and]] — LHA DBS 에너지 소비 축의 세포 후보. 마우스 LH GABA(Vgat)·LepR 활성 → 체온↑·체중↓, Vgat는 운동↓에도 체온↑ (Obesity 2019, Adan lab).

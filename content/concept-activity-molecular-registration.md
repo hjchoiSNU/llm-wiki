@@ -2,7 +2,7 @@
 title: "활성–분자정체 정합 (Activity–Molecular Registration: CaRMA · TRU-FACT)"
 type: concept
 created: 2026-06-02
-updated: 2026-09-07
+updated: 2026-10-03
 aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registration, 활성 분자정체 정합, in vivo imaging spatial transcriptomics alignment]
 ---
 
@@ -64,3 +64,5 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-lateral-hypothalamus]] · [[concept-paraventricular-nucleus]] — 적용 대상 feeding 세포타입.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **사전 유전 접근(prospective genetic access)** 계열의 대안 전략: `Crhr2^Flp × marker^Cre` 교차 유전학으로 **분자 아형별 freely-moving miniscope**를 돌리고, 같은 아형에 rabies+STPT 입력지도를 붙여 분자×공간×기능×입력을 정합. CaRMA/TRU-FACT의 사후 정합(마커 무편향)과 trade-off — 마커를 미리 알아야 하지만 광유전 인과 조작까지 직결된다 (Nature 2026). → [[concept-lateral-septum]]
 - [[concept-monosynaptic-rabies-tracing]] — **직교 축**: 광견병 지도는 '누가 입력을 주는가'를, CaRMA/TRU-FACT는 '이 활성 세포가 누구인가'를 답한다. [[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]가 남긴 숙제(ARC POMC의 이질적 부분집합마다 다른 subcircuit인가)는 배선 지도만으로 풀리지 않고 활성–분자정체 정합이 필요한 문제.
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — CaRMA와 같은 Sternson lab의 **두꺼운 조직 다라운드 FISH(EASI-FISH)**. cytoDAPI 정합, Starfinity 3D 분할, 40일 이상 RNA 안정(93.5%)을 갖췄다. 저자들은 300 µm 두께가 **in vivo 영상 뒤 사후 분자정체 부여**와 결합할 수 있다고 명시한다. LH에 적용하면 기능 ensemble을 46개 분자 클러스터와 9개 하위구역 양쪽에 대조할 수 있다 (bioRxiv 2021).
+- [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — **LH 심부 단일세포 영상의 출발점이자 이 페이지가 메우려는 공백의 원점**(Cell 2015, Stuber lab): 8 mm GRIN microendoscope + GCaMP6m로 LH^Vgat 743 뉴런을 여러 날·과제에 걸쳐 추적(세션 간 5 μm cutoff 등록)해 appetitive·consummatory 반응 세포의 비중첩을 보였다. 그러나 Discussion은 이 Vgat 집단이 **Neurotensin·Galanin 같은 다른 신경펩타이드를 담을 가능성을 배제하지 못한다**고 명시한다 — 기능 subset의 분자 정체가 열린 채 남은 전형적 사례.

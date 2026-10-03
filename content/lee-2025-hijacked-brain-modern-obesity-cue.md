@@ -2,7 +2,7 @@
 title: "Hijacked Brain in Modern Obesity: Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals"
 type: paper
 created: 2026-04-30
-updated: 2026-09-22
+updated: 2026-10-03
 source: "raw/2025 JOMES Hijacked Brain in Modern Obesity Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals.pdf"
 authors: [Lee T, Park S, Lee S, Hwangbo A, Bae H, Lee Y, Choi HJ]
 year: 2025
@@ -124,3 +124,5 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 5-type 분류가 다루지 않는 축: 만성 HFD가 고칼로리 음식의 **쾌락 가치 자체를 낮추는** 회로 기전(NAcLat→VTA neurotensin). habit·restraint형이 쾌락 보고와 어긋나는 이유의 후보 설명 (Nature 2025).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 5 표현형을 교재 §24.6.1의 개인화 치료 축으로 사용(식락학 Ch 24).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Restraint 표현형의 **상류 기제**: 사전 목표 선점이 주의 필터·가치 증폭으로 유혹을 애초에 덜 처리하게 함(간섭 차단); DTx 설계에 목표 확정 시점·진행률(momentum) 가시화 근거.
+- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — **emotion·restraint 표현형의 회로 후보 1차 자료**(Nat Neurosci 2025, Korotkova lab). LH^LepR는 불안 자극에 흥분해 **불안을 상쇄**하고, 그 결과 노출된 공간 탐색·**불안한 환경에서의 섭식 개시**(P=0.0286)·거식 모델의 과잉 running 억제(P=0.004)를 가능하게 한다. ⚠️ 축의 방향 주의: 5-type의 **emotional eating**은 '불안이 섭식을 밀어 올린다'인데 이 회로는 '불안이 섭식을 막고 LepR가 푼다'다 — 같은 세포의 양방향(과활성 = 정서적 과식 / 저활성 = 회피·제한)인지 검증 가능한 대립 가설이다. **restraint** 표현형은 그 논문의 고불안·**PFC 과억제** 프로파일(PFC→LH 자극 → open arm 체류↓ P=0.00039; 억제 크기 × 불안 R=−0.86)에 더 가깝고, DTx·비침습 자극의 종결점을 '식욕 감소'가 아니라 **'불안 맥락에서의 접근 행동 회복'**으로 잡을 근거가 된다.
+- [[liu-2023-an-iterative-neural-processing]] — 섭식의 fragmentation(접촉→이탈→재개)을 신경 수준에서 보인 동물 근거. 인간 bite 미세구조 fragmentation index를 5-type 표현형·mindful eating 매개 지표로 쓰는 가설의 토대(Neuron 2023, 연결 가설).

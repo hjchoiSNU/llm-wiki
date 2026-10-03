@@ -2,7 +2,7 @@
 title: "Changes in neurotensin signalling drive hedonic devaluation in obesity (Gazit Shimoni & Tose 2025)"
 type: paper
 created: 2026-08-20
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2025 Nature. Changes in neurotensin signalling drive hedonic devaluation in obesity.pdf"
 authors: [Neta Gazit Shimoni, Amanda J. Tose, Charlotte Seng, Yihan Jin, Tamás Lukacsovich, Hongbin Yang, Jeroen P. H. Verharen, Christine Liu, Michael Tanios, Eric Hu, Jonathan Read, Lilly W. Tang, Byung Kook Lim, Lin Tian, Csaba Földy, Stephan Lammel]
 year: 2025
@@ -114,3 +114,5 @@ Cre-dependent **NTS 과발현(AAV-NTS-OE)** 을 NAcLat→VTA 투사 뉴런에 �
 - [[concept-lateral-septum]] — 본 논문이 "LH→VTA NTS와 반대 방향(섭식 억제)"으로 지목한 **외측중격**의 분자·기능 지도. [[bhatti-mazo-2026-feature-specific-threat-coding-in]]이 LS^Crhr2를 10 아형으로 분해(NTS 아형은 미분류).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 논문이 "LS의 NTS 뉴런은 섭식 억제"라고 적은 **그 1차 출처**. LS^Nts→LH 화학·광유전 조작으로 섭취·체중↓ (eLife 2020, Friedman lab).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — medial/lateral shell 해리의 **입력원측 근거**: 두 shell을 지배하는 VTA 세포 계열이 다르다(medial=DA-GLU 전용, lateral=DA-only 혼재). 본 페이지가 기록한 '내측 shell 조작=보상/혐오 비특이적 행동 억제라 해석 어려움'에 대해, Mingote는 그 비특이적 억제를 **Stay-on-task 모드를 강제한 예측된 표현형**으로 읽는 대안 해석을 제시(방향은 NAc→VTA vs VTA→NAc로 다름).
+- [[rossi-2019-obesity-remodels-activity-and]] — 만성 HFD가 **LHA^Vglut2 섭식 brake**의 sucrose 반응·내재 흥분성을 둔화시킨다(Science 2019, Stuber lab). ⚠️ 본 논문의 HFD "보상 반응 blunting"(NAcLat→VTA NTS↓ → hedonic 섭식↓)과 단어는 같지만 **행동 부호가 반대**(brake 약화 → 섭식↑) — 비만에서 보상 회로 둔화와 억제 회로 둔화가 병존한다는 병기.
+- [[leinninger-2011-leptin-action-via-neurotensin]] — **NTS의 다른 출처**: LHA Nts 뉴런(LepRb와 60% 중첩)도 **VTA로 직접 투사**하며, 그 세포의 leptin 수신을 지우면 조기 비만·운동량↓·AMPH 반응 둔화가 온다(Cell Metab 2011 — `Nts-ires-Cre`의 출처 논문). 같은 VTA 표적에 **LHA 기원 NTS**와 **NAcLat 기원 NTS**가 수렴하며, 둘의 통합은 미해결이다. ⚠️ 두 계열 모두 Nts-Cre 도구를 쓰므로 **Nts^cre 대립유전자 자체가 체중·지방을 낮춘다**는 보고(Table S1)를 대사 종말점 해석에 병기.

@@ -2,7 +2,7 @@
 title: "쾌락 가치 저하 (Hedonic devaluation)"
 type: concept
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-10-03
 aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward devaluation in obesity]
 ---
 
@@ -30,6 +30,7 @@ aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward de
 - **표준 사료의 상대적 가치 하락**: HFD는 ARC^AgRP/NPY와 mesolimbic 회로를 동시에 재편해 **표준 사료의 보상 가치를 낮추고 energy-dense 음식 선호를 높인다** ([[onimus-2026-dopamine-ensembles-regulating-appetite]]).
 - **인간**: 비만·만성 HFD 섭취는 팔라터블 음식의 보상 효과에 대한 민감도를 낮추며, 선조체·전전두 보상 영역 반응이 blunted ([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]가 정리한 선행 인간 영상 근거). 인체 PET에서 섭취 유발 도파민 방출과 wanting의 관계는 [[thanarajah-2019-food-intake-recruits-orosensory]] 참조.
 - **LH 쪽 대응 현상**: LH^VGLUT2는 섭식 brake이지만 비만에서 보상 반응이 blunted ([[liu-2026-granular-motivational-interaction-and]]).
+  - ⚠️ **병기 — 원전 [[rossi-2019-obesity-remodels-activity-and|Rossi 2019]]의 해석은 방향이 다르다**: LHA^Vglut2의 sucrose 반응은 **포만(prefed)일수록 크다**(먹이 동기↓ → brake↑). 따라서 HFD에서 이 반응이 둔화되면 **brake가 풀려 섭식↑**가 된다. 가치가 떨어진 상태라면 brake 반응은 오히려 **커져야** 하므로, 이 현상은 쾌락가치 저하의 LH판이라기보다 **brake 신호가 포만·가치 상태에서 탈동조화**된 것으로 읽는 편이 원문에 가깝다. 같은 "blunted reward response"가 NAc→VTA NTS 경로(섭식↓)와 LHA^Vglut2(섭식↑)에서 **반대 부호**를 갖는다.
 
 ### 회로 기전 — 현재 가장 강한 인과 사슬
 [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni & Tose 2025, Nature]]:
@@ -74,3 +75,4 @@ aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward de
 - [[concept-anhedonia]] · [[schulz-2026-blunted-anticipation-but-not]] — 우울증에서의 유사하지만 다른 해리(예측 wanting↓ · liking 보존).
 - [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-cue-reactivity]] · [[concept-emotional-eating]] — 쾌락 없이 지속되는 섭취의 대안 동력.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.4.3. 본 개념을 교재 서사에 배치하고 유인-감작과의 긴장을 해소한 논증.
+- [[rossi-2019-obesity-remodels-activity-and]] — LHA^Vglut2 "brake"의 HFD 둔화 원전(Science 2019, Stuber lab). ⚠️ 둔화 = brake 약화 → 섭식↑로, 쾌락가치 저하(섭식↓)와는 부호가 반대인 "blunting"이다(관찰 근거 절 병기).

@@ -2,7 +2,7 @@
 title: "Feature-specific threat coding in lateral septum guides defensive action (Bhatti Mazo 2026, Nature)"
 type: paper
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-03
 source: raw/Bhatti Mazo et al., (2026) Feature-specific threat coding in lateral septum guides defensive action.pdf
 authors: [Dionnet Leandro Bhatti Mazo, Marc Z. C. Berger, Amanda Loren Pasqualini, Sherry Jingjing Wu, Christopher M. Reid, Salvador Ignacio Brito, Shenfeng Qiu, Pat Levitt, Corey C. Harwell, Todd Erryl Anthony, Gord Fishell]
 year: 2026
@@ -144,3 +144,4 @@ LS^Crhr2를 **단일 집단으로 취급한 최근 보고들과 반대로** 10�
 - [[concept-computational-ethology]] — 집단 동역학·GLM·디코딩 분석 계열.
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ 본 논문이 남긴 **LS→LHA 방향 공백을 해소**: 배측 해마 CA3/2→DLS^Pdyn→LHA^Vgat 단시냅스 억제가 **맥락 조건화 섭식**을 게이팅 (Neuron 2026, Sahay lab).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS^Nts→LH가 **능동 도피 스트레스** 시 섭식을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020, Friedman lab).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 논문이 전사체 아형으로 동정한 **LS^Glp1r(LS^Crhr2의 8.4%, 행동 개시 표상 1위)** 에 대응하는 **섭식 쪽 인과·약리 데이터**: dLS^GLP-1R→LHA GABA성 단시냅스 억제, 억제 시 섭취↑, 종말 광자극 시 섭취↓, exendin-4가 그 시냅스의 방출을 강화. ⚠️ 집단 정의가 어긋난다 — Lu는 `Glp1r-ires-Cre:Ai14` 표지가 **"dLS 전역에 고르게 분포"** 한다고 서술해, 본 논문의 **8.4% 독립 아형**보다 훨씬 넓은 범위를 조작했을 가능성이 크다(Cre 계통의 누적·발달기 발현). 역으로 Lu는 위협·회피 과제를 시험하지 않아 본 논문의 **행동 개시 기능**과 섭식 기능이 같은 세포의 것인지도 미검증(병기) (bioRxiv preprint 2024 → Mol Metab 85:101960).

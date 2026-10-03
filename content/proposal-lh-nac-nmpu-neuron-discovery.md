@@ -2,7 +2,7 @@
 title: "[연구계획서] LH·NAc의 NMPU 식욕 담당 신경 발굴 — CaRMA·TRU-FACT·Cal-Light 통합"
 type: proposal
 created: 2026-06-02
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -108,3 +108,4 @@ flowchart LR
 - [[proposal-nmpu-human-translation]] — 자매 과제(인간 번역).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc 쪽 후보 세포타입의 선례**: NAcLat^Nts→VTA를 patch-seq(활성+분자정체)·역행표지(투사)·조건부 KO/과발현(인과)으로 확정한 설계. 본 제안의 CaRMA·TRU-FACT 파이프라인이 목표하는 결과물의 구체적 사례 (Nature 2025).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — discovery matrix **ChAT 행의 선행 근거**: NAc medial shell ChI가 VTA DA-GLU의 최대 EPSC 표적이며 burst-then-pause·전시냅스 nAChR로 작동한다는 출판된 예측. 배경 서술에서 '미발굴'이 아니라 **기존 가설**로 인용할 것. INTRSECT Con/Fon은 CaRMA·TRU-FACT의 **입력측 대안 도구**.
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 사후 분자정체 단계의 또 다른 선택지인 **EASI-FISH**(300 µm 절편, 다라운드 HCR, 오픈소스 파이프라인, 상용 light-sheet로 수행 가능). 마커 패널(24개)에 LepR가 없으니 Lepr·Crh·Penk를 추가로 설계해야 한다. 기록 위치를 LH **9개 분자 하위구역** 기준으로 보고할 수 있다 (bioRxiv 2021, Sternson lab).

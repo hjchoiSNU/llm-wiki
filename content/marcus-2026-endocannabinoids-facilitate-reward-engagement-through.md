@@ -2,7 +2,7 @@
 title: Endocannabinoids facilitate reward engagement through retrograde gain control (Marcus 2026)
 type: paper
 created: 2026-09-03
-updated: 2026-09-21
+updated: 2026-10-03
 source: raw/2026 Nature. Endocannabinoids facilitate reward engagement through retrograde gain control.pdf
 authors: [David J. Marcus, Anthony E. English, Gunn Chun, Emmaline F. Seth, Rachel Oommen, Sabrina Hwang, Bailey A. Wells, Sean C. Piantadosi, Azra Suko, Sayaka J. Kenmochi, Anupritaa A. Parasnis, Ethan Ancell, Yulong Li, Larry S. Zweifel, Benjamin B. Land, Nephi Stella, Michael R. Bruchas]
 year: 2026
@@ -82,3 +82,4 @@ doi: 10.1038/s41586-026-10967-w
 - [[concept-dopamine-reward-system]] — wanting의 기존 주 통화(도파민)와 나란한 **제2 통화**로서의 eCB.
 - [[concept-liking-wanting]] — eCB는 NAc 핫스폿에서 'liking'을, 여기서는 'wanting/engagement'를 매개 — 같은 분자의 이중 역할.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 같은 NAc medial shell에서 **관여 유지 vs 이탈**의 짝: 본 페이지는 eCB 역행성 gain control로 흥분 입력을 깎아 관여를 **유지**하고, Mingote는 DA-GLU 버스트로 **이탈(전환)** 을 개시한다.
+- [[thoeni-2020-depression-of-accumbal-to]] — ⚠️ **같은 CB1R, 반대편 시냅스**(Neuron 2020, Lüscher lab). 본 페이지는 NAc로 **들어오는 흥분성 입력**(aPVT^NTS→NAc)의 CB1R gain control이고, 그쪽은 NAc에서 **나가는 억제성 출력**(D1-MSN→LH)의 CB1R 의존 i-LTD다. 방향(전시냅스 CB1R 억제 → 섭취 행동 촉진)은 수렴하지만 **리드아웃이 갈린다**: 본 논문의 `Cnr1` 결손은 **총 lick 수를 바꾸지 않고 관여의 시간 구조만** 바꿨고, 그쪽의 CB1R 길항(전신 10 mg/kg·LH 국소)은 **총 lick 수와 bout 수를 줄였다**(bout당 lick 수는 불변). → "전신 CB1 차단이 섭취 총량에 영향을 주는가"는 **표적 시냅스에 따라 답이 다르며**, rimonabant류의 행동 효과를 단일 기전으로 환원할 수 없다는 뜻으로 병기. 또한 그쪽은 **상태 의존적**이다(자유급식에서는 tonic CB1R 억제가 없고, 급성 식이제한·고지방식에서만 나타난다) — 본 논문의 tonic eCB 편향과 조건이 다르다.

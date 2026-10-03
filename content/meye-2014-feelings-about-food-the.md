@@ -2,7 +2,7 @@
 title: "Feelings about food: the ventral tegmental area in food reward and emotional eating"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-03
 source: raw/2014 TPS Feelings about food- the ventral tegmental area in food reward and emotional eating.pdf
 authors: [Meye FJ, Adan RAH]
 year: 2014
@@ -34,3 +34,5 @@ year: 2014
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — CRF·스트레스축 negative reinforcement.
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA 세포 이질성(어느 도파민 아형인가).
 - [[concept-need-motivation-pleasure-utility]] — need vs hedonic drive 구분.
+- [[harris-2005-a-role-for-lateral]] — ★ 본 리뷰의 "**LH orexin→VTA 흥분**"·"**NAc 오피오이드→LH orexin→VTA가 고지방 섭식에 필수**" 서술의 핵심 1차 근거(Nature 2005, Aston-Jones lab). **orexin A 140 nM을 VTA에 직접 주입하면 소거된 morphine 장소선호가 복원**되고(F(2,18)=11, P<0.01; VTA 주변부는 무효), LH orexin Fos 비율은 morphine·cocaine·**food** CPP 선호와 **R=0.72–0.90** 비례한다. 즉 본 리뷰가 정서적 과식 축에 배치한 orexin→VTA 경로는 **음식과 약물 cue를 공통으로 처리**한다. ⚠️ 두 가지 한정: (1) 같은 논문에서 **novel object CPP에서는 LH orexin Fos가 무변화**(18±2%)여서 작용 범위는 **소비성 보상 cue**로 제한된다. (2) 'NAc→LH orexin'은 직접 시냅스가 아니다 — [[oconnor-2015-accumbal-d1r-neurons-projecting|O'Connor 2015]]에서 NAcSh D1R→LH 연결 29개 중 **orexin⁺·MCH⁺는 0개**이므로 **다중시냅스 경로**로 읽어야 한다(병기).
+- [[linders-2022-stress-driven-potentiation-of-lateral]] — ★ **같은 교신저자(Meye)·공저자(Adan)가 8년 뒤 이 리뷰의 예고를 회로 수준에서 실행한 원저**(Nat Commun 2022). 본 리뷰가 "corticosterone·CRF·ghrelin·orexin → VTA → 정서적 과식"으로 그린 수렴 지점에, **입력 기원(LHA glutamate)·시냅스 기전(후시냅스 GluA1-AMPAR)·출력 표적(mPFC 투사 VTA^DA)** 을 각각 특정한다. 이틀 사회 패배(총 4회×20 s)로 지방·당 섭취↑(지방 F(1,32)=18.44, p=0.0002), LHA^glut→VTA 뉴런은 싸움·발바닥 충격에 켜지되 이동·사회접촉에는 무반응, VTA 내 **dexamethasone 주입이 potentiation과 과식을 모사** → 리뷰의 "glucocorticoid가 VTA에 직접 작용" 가설을 약리로 확정. 되돌림(1 Hz LFS)도 성립.

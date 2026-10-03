@@ -71,3 +71,4 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[person-luscher-christian]] — oDASS·compulsion 패러다임 정립자.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — **처벌 저항의 계산적 분해**: over-persistence가 (a) 대안·처벌 정보 둔감(주의 필터 과잉) (b) 현재 목표 평가절하 둔감(감시 실패) (c) 목표 비계형 내재 보상 중 어느 것인지 나눠야 강박 정의가 좁아짐; "고집"을 적응적 계산으로 재프레임한 원전.
 - [[gordon-2026-lateral-hypothalamic-control-of]] — ⚠️ **spiraling connectivity 시간척도 제한**: 본 페이지는 배쪽→등쪽 DA 전파(NAc→SNc→DST, Haber 2000)를 dorsalization 기전으로 둔다. Gordon Fig 3은 섭취 중 evoked DA가 subregion 간 거의 전파되지 않음을 보여 **초 단위 방출은 국소 제어**라고 결론 — spiral은 해부·학습(분 단위) 척도에서 작동한다는 상보적 병기 (Neuron 2026).
+- [[nieh-2016-inhibitory-input-from-the]] — GABA성 LH→VTA 과활성 = **배고픔이 아닌 보상 동기로 유도되는 compulsive eating**(자극 대상 간 강박 공존 포함)의 회로 후보 (Neuron 2016, Tye lab).

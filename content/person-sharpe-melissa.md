@@ -2,7 +2,7 @@
 title: "Melissa J. Sharpe"
 type: person
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-03
 aliases: [Melissa Sharpe, Sharpe MJ, M.J. Sharpe]
 ---
 
@@ -39,3 +39,7 @@ aliases: [Melissa Sharpe, Sharpe MJ, M.J. Sharpe]
 - [[concept-dopamine-reward-system]] — 도파민 결과-특이적 학습 신호 진영.
 - [[concept-need-motivation-pleasure-utility]] — Motivation(target-dependent) 축과 정합.
 - [[person-choi-hyung-jin]] — LH·NMPU·도파민 연구 라인 접점(사용자 lab).
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — Sharpe 2017(rat LH^GABA→VTA = 기대 보상 relay) 이론을 마우스 **LH^LepR 부분집합**에서 검증. **LepR→VTA 억제는 Pavlovian 변별 학습을 강화(extinction까지 지속), 활성은 소거**해 "전달 차단 → 도파민 오차 과대 유지 → 학습 asymptote 상승"이라는 예측과 일치한다. M. Sharpe가 행동 과제 설계를 도왔다(Acknowledgments). ⚠️ 차이: rat에서는 LH 체세포 조작의 학습 결손이 extinction까지 지속됐지만, 마우스 체세포 조작은 지속되지 않고 **cue 시기 반응만 교란**했다 — 종·조작 부위 차이로 병기 (Cell Rep 2021, Aponte lab).
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — ★ **"cognitive LH" 가설의 원전**(Curr Biol 2017, 제1저자; NIDA Schoenbaum lab). 본인이 만든 **GAD-Cre rat**(RRRC#751)으로 cue 구간만 LH^GABA를 광억제 → cue–음식 학습·발현 모두 차단(섭취 정상, 소거까지 지속), **VTA 말단만 억제하면 학습 촉진**(기대값 전달 차단 → RPE 과대 유지). 이후 Sharpe lab rat 연구 전부가 이 계통을 쓴다.
+- [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — **"cognitive LH" 가설의 원전 Opinion**(Trends Cogn Sci 2024, 단독 저자). LH^GABA 억제가 cue–food 학습은 ↓, sensory preconditioning·second-order conditioning의 중립·원위 cue 학습은 ↑ → LH = 보상 근접 예측자 쪽 **학습 편향 dial**(과활성 = 중독, 저활성 = 조현병 예측). ⚠️ Box 3의 'LH^GABA–DA 양방향 microcircuit' 가설은 preprint 단계 Hoang에 기댄 것이고, 출판본 [[hoang-2026-methamphetamine-potentiates-the-use-of|Hoang 2026]]은 VTA^DA의 LH 표적이 비-GABA라고 보고한다(병기).
+- [[hoang-2021-the-basolateral-amygdala-and]] — 'cognitive LH' 프로그램의 **BLA 대비 초기 리뷰**(Curr Opin Behav Sci 41:92–97, 2021; Hoang 제1저자, 공동 교신). BLA는 원위 cue를 **이미 동기적으로 유의할 때만** 학습하고(second-order conditioning ○, sensory preconditioning ×), LH^GABA는 원위 cue 학습에 **항상 반대**한다. 이를 근거로 BLA(감각 특이 salience)→LH(현재 동기 상태 관련성·근접도 평가)→VTA(기대값 relay) 회로를 제안. ⚠️ 'LH는 수반성 자체가 아니라 관련성을 평가한다'는 해석은 Sharpe 2017·2024의 'LH가 학습·저장한다'와 서술이 다르다(병기).

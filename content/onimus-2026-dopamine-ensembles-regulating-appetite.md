@@ -2,7 +2,7 @@
 title: "Dopamine ensembles regulating appetite, feeding, and energy homeostasis (Onimus et al. 2026)"
 type: paper
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-10-03
 source: raw/2026 TEM. Dopamine ensembles regulating appetite, feeding, and energy homeostasis.pdf
 authors: [Oriane Onimus, Kate Z. Peters, Fabien Naneix, Giuseppe Gangarossa]
 year: 2026
@@ -84,3 +84,4 @@ Trends in Endocrinology & Metabolism 2026 리뷰. "homeostatic 시상하부 vs h
 ---
 *출처: raw/2026 TEM. Dopamine ensembles regulating appetite, feeding, and energy homeostasis.pdf (Onimus O, Peters KZ, Naneix F, Gangarossa G. Trends Endocrinol Metab 2026; doi:10.1016/j.tem.2026.04.012)*
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — NtsR1+ VTA 아형에 작용하는 **NAc 기원** NTS의 인과 규명 (Nature 2025). 개념 [[concept-hedonic-devaluation]].
+- [[oconnor-2015-accumbal-d1r-neurons-projecting]] — ⚠️ **D1R-SPN→LH 부호 불일치의 축이 되는 1차 원전**(Neuron 2015, Lüscher lab). 본 페이지 §3은 "D1R-SPN 활성화 = 대체로 food intake↓"로 쓰면서 **NAc^Sh D1R^Serpinb2 → LH LepR가 leptin의 anorectic 효과를 override**(Liu 2024 Nat Metab)한다고 병기한다 — 후자는 부호가 반대로 읽힌다. 원전 쪽 수치: LH 투사 medial shell 뉴런의 **93.6%가 D1R-MSN**, 표적은 **LH^Vgat(78% 연결)** 이며 **orexin·MCH는 비표적**, 인과는 말단 자극 → **24 h 금식에도 섭취 중단** / 광억제 → **포만 상태에서 섭취 개시**다. 비교가 성립하지 않는 이유 셋: ① 원전은 D1R-MSN을 **아집단으로 쪼개지 않았다**(Serpinb2⁺ 미구분), ② 표적 세포형이 **Vgat 전체 vs LepR**로 다르다, ③ 시간척도가 **초 단위 광유전 vs 만성 조작**으로 다르다(병기).

@@ -2,7 +2,7 @@
 title: Reward prediction is encoded by orexin neuron activity during motivated behavior
 type: paper
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-10-03
 source: raw/2026 PNAS reward-prediction-is-encoded-by-orexin-neuron-activity-during-motivated-behavior.pdf
 authors: [Dong Y et al.]
 year: 2026
@@ -54,3 +54,6 @@ Orexin-Cre BAC 형질전환 rat에서 세포 특이적 chemogenetic·optogenetic
 - [[concept-appetitive-consummatory-phases]] — reward-seeking(appetitive) 증가·보상 후(consummatory) 감소 패턴과 대응.
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — reward prediction error 이론 관점에서 orexin 지속 활성 해석.
 - [[overview-behavioral-neuroscience-of-motivation-2016]] — 동기의 행동신경과학 종합 맥락.
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — 같은 rat LH에서 **GABAergic** 뉴런이 보상 기대를 저장하고 VTA로 relay해 학습을 조절한다는 원전(Curr Biol 2017). ⚠️ 그 GABA 집단은 **ORX <1%·MCH 1.2%** 로 orexin과 거의 겹치지 않는다 → LH 안에 세포형별로 **분리된 두 개의 "보상 예측" 신호**가 있는 셈이며, 둘이 같은 양(기대값)인지 다른 양(노력 요구 vs 기대값)인지는 미검증(병기).
+- [[harris-2005-a-role-for-lateral]] — ★ **본 논문이 20년 뒤 초 단위·세포타입 특이 도구로 다시 푼 그 질문의 원전**(Nature 2005, Harris & Aston-Jones). LH orexin Fos 비율이 morphine·cocaine·food CPP 선호와 **R=0.72–0.90** 비례, 소거된 선호를 LH 국소 Y4 작용제(rPP)로 복원, **SB-334867이 복원을 완전 차단**, **orexin A를 VTA에 주입해도 복원**. 본 논문의 "보상 직전 상승 → 수령 후 기저 이하 감소·effort 의존" 구조는 그 누적 Fos 지표에 시간 해상도를 부여한다. ⚠️ **두 지점에서 어긋난다**: (1) 본 논문은 **OX1R만 유효·OX2R 무효**이고 **VTA 국소 주입 효과가 미미**한데, Harris 2005는 **VTA orexin A 주입만으로 복원 충분**(F(2,18)=11, P<0.01)이라고 보고한다 — 과제(touchscreen PR vs CPP reinstatement)·측정 시점 차이로 병기. (2) Harris 2005는 LH orexin이 **소비성 보상 cue에만** 반응한다고 하며 novelty CPP에서 음성(18±2%)이었다.
+- [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — orexin 뉴런이 **에너지 결핍(포도당·leptin↓·ghrelin↑)을 감지해 각성·탐색으로 바꾸는** 1차 근거(Neuron 2003). 본 논문의 effort·reward prediction 부호화와 합치면 "대사 상태 → orexin → 동기 활성화"라는 축이 된다. 단식 유발 각성(Yamanaka)과 예측·노력 신호(Dong)는 같은 뉴런의 서로 다른 조건의 출력일 수 있다.

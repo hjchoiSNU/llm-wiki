@@ -2,7 +2,7 @@
 title: Single-nucleus transcriptional and chromatin accessibility profiling of mouse hypothalamic LepRb neurons reveals cell type-specific cis-regulatory elements linked to human obesity
 type: paper
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-10-03
 source: "raw/2025 bioRxiv. Single-nucleus transcriptional and chromatin accessibility profiling of mouse hypothalamic LepRb neurons reveals cell type-specific cis-regulatory elements linked to human obesity.pdf"
 authors: [Heyward FD, Pan H, Dreyfuss JM]
 year: 2025
@@ -107,3 +107,4 @@ NuTRAP^LepR 마우스에서 **LepR 발현 시상하부 핵만 선별(FANS)** 한
 - [[concept-neurotensin]] — LH Nts 클러스터(cluster 3).
 - [[concept-ghost-pomc-neurons]] — POMC 아형 이질성 논의의 인접 개념.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[leinninger-2011-leptin-action-via-neurotensin]] — 이 지도의 **LH Nts 발현 LepR 클러스터가 기능적으로 무엇을 하는지**에 대한 1차 인과 데이터(Cell Metab 2011, Myers lab). 단백 수준에서 **LHA LepRb의 약 60%가 Nts⁺**이고, 그 세포에서만 LepRb를 지우면 **조기 비만 + 운동량·VO₂↓**(섭식 거의 불변) + 단식성 orexin 활성화 소실이 온다. 본 지도의 아형 분해로 "60% 중첩"이 어느 subtype에 해당하는지 되짚을 수 있다(연결 가설).

@@ -2,7 +2,7 @@
 title: "DBS of the hypothalamus leads to increased metabolic rate in refractory obesity (Whiting 2019)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-03
 source: "raw/2019 World Neurosurgery. Deep Brain Stimulation of the Hypothalamus Leads to Increased Metabolic Rate in Refractory Obesity.pdf"
 authors: [Whiting AC, Oh MY, Whiting DM]
 year: 2019
@@ -34,3 +34,4 @@ year: 2019
 - [[person-whiting-donald]] — 주저자 그룹.
 - [[dupre-2015-deep-brain-stimulation-for]] — 같은 그룹 종합 리뷰.
 - [[concept-ventromedial-hypothalamus]] — thermogenesis/SF1 대사 회로(대사 표적의 분자 배경).
+- [[de-vrind-2019-effects-of-gaba-and]] — 마우스 LH^Vgat·LH^LepR 화학유전 활성 → 체온(눈 온도)↑·3일 반복 시 체중↓. Vgat는 운동↓에도 체온↑ → 운동 독립 열생산 (Obesity 2019, Adan lab). 저자들은 LH DBS의 체중 감소가 LH GABA 매개일 가능성을 제시 — 본 논문 RMR↑의 세포 후보(연결 가설).

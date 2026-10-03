@@ -76,6 +76,7 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 - **LHA^Glu "섭식억제" 통설 vs [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]·[[concept-lateral-hypothalamus|LH concept]]**: 위키의 LH 틀은 LH^Vglut2=섭식 "brake", LH^Glu→LHb=aversive로 정리한다(Stamatakis 2016). 본 논문은 그 통설을 **유지하면서도** HFD에서 PVNCRH가 LHA^Glu를 **억제→brake 해제→과식**으로 뒤집어 읽는다(LHA^Glu가 과식을 "하는" 게 아니라 "덜 막는"). [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova]]의 LH=hunger×anxiety×loneliness arbitration 틀과는 **다른 cell type(LepR vs Vglut2)·다른 방향**이라 직접 충돌은 아니나, LH가 불안-섭식 교차의 노드라는 점에서 **같은 무대, 다른 세포**.
 - **[[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] (HFD→시상하부 기능장애)**: Barros는 HFD가 microbiota·염증·대사 재프로그래밍으로 시상하부를 손상시키는 축을 정리. 본 논문의 "HFD priming"은 그 분자 하류일 수 있으나, **본 논문은 염증·gut 축을 전혀 다루지 않고** 순수 회로 재결합으로 설명 → 두 설명이 **같은 HFD 표현형의 다른 층**(염증 vs 회로)인지 병기 필요.
 - **보상계 비경유 vs [[concept-emotional-eating|emotional eating]]·[[tomiyama-2019-stress-and-obesity|Tomiyama 2019]]**: 위키의 스트레스-섭식 축은 **VTA→NAc 도파민 보상 민감화** 중심. 본 논문은 그 축을 언급·검증하지 않고 시상하부-내 회로만 제시 → 정서적 과식의 **보상계 설명과 상보/경쟁** (어느 쪽이 지배적인지, 어디서 수렴하는지 미해결).
+- **brake 상실의 기전 층위 vs [[rossi-2019-obesity-remodels-activity-and|Rossi 2019]]**: Rossi(Stuber lab, Science 2019)도 만성 HFD에서 LHA^Vglut2 brake가 꺼짐을 보였다(같은 뉴런의 sucrose 반응·휴지기 활동 12주 점진 감소). 그러나 기전은 **세포 내재 흥분성 감소 + 활동 관련 유전자(ion homeostasis·synaptic·intracellular signaling) 전사 변화**이고, 불안-취약 아형 구분 없이 HFD 전체에서 관찰됐다. 본 논문의 **PVN^CRH→CRHR2 순억제(외부 시냅스 입력)** 와는 결론(brake 기능 상실)이 수렴하고 기전 층위·표본이 다르다 — 상보 가설로 병기(내재 흥분성↓가 CRHR2 신호의 하류인지 미검증).
 
 ## 관련 페이지
 - [[concept-npy-agrp-neurons]] — 회로 상류. ArcAgRP가 HFD에서 섭식을 넘어 **불안**까지 구동(상태 의존)·PVNCRH로 단일시냅스 투사.
@@ -94,3 +95,4 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 - [[concept-hypothalamic-obesity]] · [[concept-hypothalamic-inflammation]] — HFD priming의 대사·염증 맥락.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 비만 이질성 층화(불안-취약 아형 설계와 호응).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[rossi-2019-obesity-remodels-activity-and]] — HFD가 LHA^Vglut2 brake를 **내재 흥분성↓·전사 변화**로 약화(Stuber lab, Science 2019; scRNA-seq 20,194세포 + 12주 2-photon 종단). 본 논문 PVN^CRH→LHA^Glu 시냅스 억제와 수렴·상보.

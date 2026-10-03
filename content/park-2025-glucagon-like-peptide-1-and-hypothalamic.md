@@ -2,7 +2,7 @@
 title: "Glucagon-Like Peptide-1 and Hypothalamic Regulation of Satiation: Cognitive and Neural Insights from Human and Animal Studies"
 type: paper
 created: 2026-04-30
-updated: 2026-05-30
+updated: 2026-10-03
 source: "raw/2025 DMJ Glucagon-Like Peptide-1 and Hypothalamic Regulation of Satiation- Cognitive and Neural Insights from Human and Animal Studies.pdf"
 authors: [Park JS, Kim KS, Choi HJ]
 year: 2025
@@ -101,3 +101,4 @@ DMH가 GLP-1RA의 핵심 표적, **pre-ingestive cognitive satiation을 매개**
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 말초 large-peptide 5중작용제는 BBB 미투과·hindbrain(AP/NTS) 작용 → 본 review의 중추 cognitive satiation 경로와 대비 (Nature 2026).
 - [[person-choi-hyung-jin]] — 본 lab.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 리뷰 **6절(LS GLP-1R)** 이 중독 축만 다룬 자리에 **섭식 회로**를 채운다: dLS^GLP-1R → LHA GABA성 **단시냅스** 억제(oIPSC 5/8, TTX→4-AP, PTX 차단), 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓, **exendin-4가 그 억제 시냅스의 방출을 강화**(IPSC↑ p=0.046, PPR↓ p=0.012). 본 lab의 **DMH GLP-1R→AgRP 식전 포만**(시상하부 내부 채널)과 병렬인 **변연계→LH 하행 채널**로 배치할 수 있다. ⚠️ 급성 섭취만 측정(체중·만성 없음), 수컷 전용, `Glp1r` 유전자 결손 실험 없음 (bioRxiv preprint 2024 → Mol Metab 85:101960). → [[concept-lateral-septum]]

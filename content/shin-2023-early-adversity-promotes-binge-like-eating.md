@@ -2,7 +2,7 @@
 title: "Early adversity promotes binge-like eating habits by remodeling a leptin-responsive lateral hypothalamus–brainstem pathway (Shin & Lim 2023)"
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2023 Nature Neuroscience. Early adversity promotes binge-like eating habits by remodeling a leptin-responsive lateral hypothalamus–brainstem pathway.pdf"
 authors: [Shin S, You IJ, Jeong M, Bae Y, Wang XY, Cawley ML, Han A, Lim BK]
 year: 2023
@@ -37,3 +37,5 @@ year: 2023
 - [[concept-dorsal-vagal-complex]] — "brainstem" 용어 혼동 방지(회로는 중뇌 vlPAG).
 - [[cunningham-2026-early-life-experiences-the-neural]] — ELS 후성유전 분야 종합(NRN 2026). 본 논문의 시상하부 회로 소견과 같은 방향으로 **ELS에서 시상하부 흥분성 시냅스·자발 EPSC가 증가**한다고 정리하며, 회로 수준 인과 증거가 여전히 희박함(BLA→NAc 사례가 사실상 유일)을 지적한다 — 단 그 집계는 정동장애 표현형 범위이며, 본 논문의 LH Lepr KO·LH^Lepr→vlPAG 투사 특이 조작은 리뷰의 인과 사례 집계에 포함되지 않은 **섭식 표현형의 회로 인과 사례**다.
 - [[concept-glia-stress-plasticity]] — ELS가 회로를 바꾸는 비뉴런 경로(가지치기·수초).
+- [[leinninger-2009-leptin-acts-via-leptin]] — LH^Lepr 회로의 **해부·약리 원전**(Cell Metab 2009, Myers lab): LHA LepRb는 MCH·OX와 비중첩 **GABAergic** 집단(본 논문 "LH^Lepr 80.7% GABAergic"의 선행 근거)이고 **VTA로 조밀 투사**한다(Ad-iZ/EGFPf + VTA fluorogold; 선조체·NAc 투사 없음). intra-LHA leptin은 섭식·체중을 **줄이고**, *Lep^ob/ob*에 250 pg만 주면 동측 **VTA *Th* ~2.5배·NAc DA ~40%↑**. 연결 가설: 본 논문의 **ELT→LH 국소 leptin 저항(Lepr↓)** 을 이 회로에 대입하면 **LHA→VTA *Th*/NAc DA 설정값의 저하**가 예측된다 — 본 논문은 vlPAG^Penk 분지만 측정했으므로 VTA 분지의 DA 종말점은 미검증이다(검증 가능한 예측). ⚠️ 또한 Leinninger에서 leptin은 LHA LepRb의 **34%만 탈분극·일부는 과분극**시키므로, '국소 leptin 저항 → LH^Lepr 활성↑'이라는 단일 부호 서술은 하위집단 혼재를 가린다(병기).
+- [[linders-2022-stress-driven-potentiation-of-lateral]] — **같은 "스트레스가 LH 회로에 저장된다"는 논리의 성체·급성판**(Nat Commun 2022, Meye·Adan lab). 본 논문은 신생기 역경이 **LH^Lepr 흥분성(E/I)** 을 바꿔 두 번째 hit(HFD)에서 폭식으로 발현되는 two-hit 구조다. 저쪽은 **성체의 이틀 사회 패배**가 곧바로 **LHA^glut→VTA^DA 시냅스의 후시냅스 GluA1-AMPAR**에 저장되고, **1 Hz LFS로 되돌리면 과식이 사라진다**. 저장 매체(수용체 trafficking vs 흥분성·전사 변화)·세포형(glut vs Lepr GABA)·시간척도가 달라 **경쟁이 아니라 적층**으로 읽는 것이 안전하다(연결 가설: 초기 역경이 성체 LH-VTA 가소성의 문턱을 낮추는지는 미검증).

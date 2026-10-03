@@ -2,7 +2,7 @@
 title: "A dorsal hippocampus–prodynorphinergic dorsolateral septum–to–lateral hypothalamus circuit mediates contextual gating of feeding (Goode 2026, Neuron)"
 type: paper
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-03
 source: raw/2026 Neuron. A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding.pdf
 authors: [Travis D. Goode, Mollie X. Bernstein, Michael S. Totty, Jason Bondoc Alipio, Cinzia Vicidomini, Devesh Pathak, Antoine Besnard, Delara Chizari, Nina Sachdev, Michael D. Kritzer, Ain Chung, Xin Duan, Evan Macosko, Stephanie C. Hicks, Larry S. Zweifel, Amar Sahay]
 year: 2026
@@ -108,3 +108,5 @@ snRNA-seq(Drop-seq) · RNA-FISH 지형 매핑 · 단시냅스 rabies 입력 매�
 - [[azevedo-2019-a-role-of-drd2]] — 해마 Drd2→중격(MS) 맥락 의존 섭식(같은 문제, 다른 축).
 - [[concept-need-motivation-pleasure-utility]] — 맥락 게이팅과 Motivation의 분리.
 - [[person-soden-marta]] — photometry 기술 지원으로 감사문에 등재(Zweifel lab 계열).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — **같은 dLS→LHA 억제 축을 `Glp1r` 마커로 자른 짝**: oIPSC 5/8 LHA 뉴런, TTX 차단→4-AP 회복(단시냅스), PTX 차단(GABA_A)으로 본 논문과 동일한 전기생리 프로파일이고 부호도 같다(억제→섭취↑, 투사 특이 활성/종말 광자극→섭취↓). ⚠️ 긴장 세 가지: ① 본 논문 snRNA-seq에서 `Glp1r`가 `Pdyn`과 **공발현**하므로 **같은 세포를 다른 마커로 자른 것일 수 있으나 중첩률 미측정**, ② 본 논문은 표적을 **LHA^Vgat로 직접 확정**했지만 Lu는 **추정만** 했다, ③ 본 논문의 DLS^Pdyn 활성화는 **RTPP 회피(음성 정동)** 를 동반하는데 Lu는 불안 지표가 전부 불변이고 장소선호는 미시험이다. 표현형도 **맥락 게이팅(본 논문) vs 총 섭취량(Lu)** 으로 달라, 같은 세포를 가정하려면 추가 설명이 필요하다(병기). 더해 Lu는 **exendin-4가 이 억제 시냅스의 방출을 강화**함을 보여 `Glp1r` 쪽에만 있는 약리 축을 추가한다 (bioRxiv preprint 2024 → Mol Metab 85:101960).
+- [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — 본 회로의 **하류 표적 LHA^Vgat이 무엇을 하는 세포인지의 1차 출처**(Cell 2015, Stuber lab): 양방향 광유전 조작으로 섭식·보상을 켜고 끄며, 단일세포 영상에서 appetitive(nose poke)·consummatory(lick) 반응 세포가 **거의 비중첩**으로 공존한다. → DLS^Pdyn 억제가 그 두 subset 중 어느 쪽에 걸리는지가 "총 섭취량은 불변, 맥락 특이성만 소실"이라는 본 논문 표현형의 세포 수준 설명 후보(연결 가설).
