@@ -39,3 +39,4 @@ Hyun JH … **Kwon H-B** (Johns Hopkins·MPFI; lead Jung Ho Hyun=현 DGIST), *Na
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-lateral-hypothalamus]] · [[concept-nucleus-accumbens]] — 섭식·보상 적용 후보 회로.
 - [[person-kwon-hyung-bae]] — 교신저자.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Cal-Light 적용 사례: LH 열 처벌·sucrose 섭취 활성 집단 태깅 후 투사 비교(현정호 지도) (Cell Rep 2026)
+- [[person-kim-sung-yon]] — 제1저자 현정호가 Cal-Light 실험을 지도한 Lee 2026 Cell Rep의 교신저자

@@ -23,7 +23,7 @@ Vgat-Cre 마우스 LH에 jGCaMP8m을 발현시키고 GRIN 렌즈를 통해 **hea
 
 ### 배경 — 저자가 던진 질문
 - LH^Vgat은 섭식·보상 추구를 강하게 촉진한다는 것이 지배적 견해다. 그러나 일부 부분집합은 혐오·회피·음성 valence에도 관여한다. 분자·투사로 정의된 하위집단(LH^Lepr = 배고픔 의존 food seeking, LH^Nts = 액체 섭취 편향 등)으로 이질성을 나누는 연구가 축적돼 왔다([[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]], [[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]] 인용).
-- 같은 lab의 선행 연구(Jung, Lee … Kim 2022 *Neuron*, ref 15; 위키 원전 없음)는 열 처벌과 열 보상에 **반대 방향으로 반응하는** LH^Vgat 집단을 찾았다. 이 집단은 operant 체온조절 행동 중 동원됐고, 칼로리 보상 섭취 집단과는 겹침이 적었다.
+- 같은 lab의 선행 연구(Jung, Lee … Kim 2022 *Neuron*, ref 15; [[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]])는 열 처벌과 열 보상에 **반대 방향으로 반응하는** LH^Vgat 집단을 찾았다. 이 집단은 operant 체온조절 행동 중 동원됐고, 칼로리 보상 섭취 집단과는 겹침이 적었다.
 - 그래서 저자는 다음을 물었다. LH^Vgat의 조직 원리는 **감각 모달리티·항상성 영역(온도 vs 영양)**인가, 아니면 영역을 가로지르는 **상위 기능(접근·회피를 아우르는 motivational salience vs consummatory 행동)**인가?
 - **용어의 조작적 정의(원문)**: "cue"는 동기적으로 의미 있는 표적·결과에서 나오거나 그것을 예측하는 외부 감각자극이다. "motivational"은 현재 내부 상태에서의 행동적 관련성이다. "motivational salience"는 **valence와 무관하게 우선 처리가 필요한** 식욕성·혐오성 자극의 행동적 중요성이다.
 
@@ -154,3 +154,5 @@ Vgat-Cre 마우스 LH에 jGCaMP8m을 발현시키고 GRIN 렌즈를 통해 **hea
 - [[liu-2026-granular-motivational-interaction-and]] — 섭식 phase 세분화 framework와의 대응
 - [[stuber-2025-the-neurobiology-of-overeating]] — LH GABA 보상 추구 중심 견해(본 논문이 확장)
 - [[xu-2020-behavioral-state-coding-by]] — PVH grouped-ensemble coding; 행동상태 일반 ensemble이라는 유사 조직 원리
+- [[person-kim-sung-yon]] — 교신저자(SNU). 선행작 Jung 2022와 함께 LH^Vgat 단일세포 ensemble 연구 라인
+- [[jung-2022-a-forebrain-neural-substrate-for]] — 같은 lab의 선행 원저(ref 15). 본 논문 "열 처벌 ensemble"의 출처: 열 처벌에 흥분·열 보상에 억제되는 LH^Vgat 하위집단, 칼로리 보상 집단과 분리 (Neuron 2022)

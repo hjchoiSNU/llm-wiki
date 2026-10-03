@@ -54,3 +54,4 @@ University of Washington(Seattle)의 신경과학자. **Center for the Neurobiol
 - [[person-soden-marta]] — 같은 대학(UW)·같은 행동 플랫폼의 인접 lab.
 - [[person-korotkova-tatiana]] · [[person-knight-zachary]] · [[person-sharpe-melissa]] — LH·시상하부-중뇌 동기 회로의 경쟁·보완 라인.
 - [[person-choi-hyung-jin]] — 사용자 lab(인용 관계 성립).
+- [[person-kim-sung-yon]] — LH GABA를 종단 2광자 단일세포 영상으로 연구하는 SNU lab(Jung 2022, Lee 2026)

@@ -2,7 +2,7 @@
 title: Primary reward signals (1차 보상 신호)
 type: concept
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -137,3 +137,4 @@ updated: 2026-05-01
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[proposal-oral-fat-taste-pleasure-desire]] — proxy(구강 지방 맛) vs primary(post-oral 영양) reward 분리를 지방에서 인과 검증하는 연구계획서.
 - [[dong-2026-reward-prediction-is-encoded-by]] — 보상 예측 vs 보상 수령 활성 구분.
+- [[jung-2022-a-forebrain-neural-substrate-for]] — "체온 primary reward?" 질문의 1차 자료: LH^Vgat이 열 보상·열 처벌을 양방향 부호화, LPB 입력이 열 보상 부호화에 필요 (Neuron 2022)

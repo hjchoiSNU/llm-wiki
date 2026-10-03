@@ -82,3 +82,4 @@ journal: "Nature Communications 17:4418; doi:10.1038/s41467-026-73205-x"
 - [[concept-orexin-neurons]] — novelty ensemble의 ~26%가 orexin⁺(MCH ~6%). LH salience ensemble과 orexin 집단의 관계는 미해결.
 - [[concept-activity-molecular-registration]] · [[hyun-2022-tagging-active-neurons-by]] — Fos-TRAP + Cre-OFF(Fos⁻) 대조 설계가 속한 **활성 뉴런 태깅·정합 방법론** 계열. tag-then-manipulate 논리의 같은 가족.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 단일세포 수준에선 salience(혐오 열 + 먹이 cue)와 섭취(먹이·물)가 대체로 다른 LH^Vgat 뉴런 → 집단 광도측정의 양가 hub가 두 ensemble의 합일 가능성 (Cell Rep 2026)
+- [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat의 열 자극 부호화 하위집단은 발 충격에도 전부 흥분 — LH의 혐오 체감각 반응에 대한 단일세포 자료 (Neuron 2022)

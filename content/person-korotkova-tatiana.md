@@ -2,7 +2,7 @@
 title: Tatiana Korotkova
 type: person
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-03
 aliases: [Korotkova, Tatiana Korotkova]
 affiliation: Institute for Systems Physiology, University of Cologne / CECAD
 ---
@@ -41,3 +41,4 @@ affiliation: Institute for Systems Physiology, University of Cologne / CECAD
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — single-author review.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab 대응작.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[person-kim-sung-yon]] — LH GABA를 종단 2광자 단일세포 영상으로 연구하는 SNU lab(Jung 2022, Lee 2026)

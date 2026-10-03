@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 482 (+ index.md, log.md)
+- 총 페이지: 484 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -158,6 +158,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 통합하는 general salience hub; opioid 비의존 진통·항불안, cell-type(GABA·Glu)·투사(LPO·LHb·VTA·LPAG)별 분업 (Nat Commun 2026, Zhou lab; 사용자 Cheon 2025 인용).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 종단 2광자 단일세포 추적: 혐오 열자극 + 먹이 cue 공유 **motivational salience ensemble** vs 먹이·물·고형식 일반 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 감쇠); Cal-Light 투사로는 두 집단 미분리 (Cell Rep 2026, SNU 김성연 lab).
+- [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat이 **행동성 체온조절**(자가가온 operant·온도 선택·둥지 짓기·자세 신전)에 필요, 자율성 체온조절에는 불필요; 열 처벌 흥분·열 보상 억제 하위집단이 칼로리 보상 집단과 분리(76개 중 17개만 겹침); LPB→LH 입력은 체온조절 행동 전용 (Neuron 2022, SNU 김성연 lab). _(결과 1–8까지 정리, Discussion·한계 절 미작성)_
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^GABA(가치 양의 scaling)·LHA^Glut(혐오 용액에서 음의 scaling) 비가 소비 중 선조체 도파민 지형을 설정; DA는 lick bout **개시**를 강화 (Neuron 2026, Stuber lab). _(본 항목은 🎯 Heterogeneity에)_
 - [[faour-2025-emerging-role-of-agrp]] — AgRP integrator (Luquet lab).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (Quarta·Cota).
@@ -506,6 +507,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-grossman-nir]] — 시간간섭자극(TI) 개척자. 비침습 심부 신경조절. Imperial College London / UK DRI.
 - [[person-kwon-hyung-bae]] — 활성 의존 태깅(Cal-Light)·NAc 보상/목표 기억 회로. Johns Hopkins/MPFI. 한국(DGIST·고려대) 연계.
 - [[person-sharpe-melissa]] — "cognitive lateral hypothalamus"·도파민 결과-특이적 학습 신호. UCLA / University of Sydney.
+- [[person-kim-sung-yon]] — 김성연. SNU(Institute of Molecular Biology and Genetics·Chemistry·Neuroscience). LH^Vgat을 종단 2광자 단일세포 영상으로 연구: 행동성 체온조절(Jung 2022) → salience vs ingestion ensemble(Lee 2026). 사용자 lab 논문 인용.
 - [[person-kim-min-seon]] — 시상하부→말초(신장·췌장·장) 자율신경 대사 회로; POMC PKA→DMV→장 SGLT1. Asan Medical Center / Ulsan (한국).
 - [[person-lowell-bradford]] — AgRP/POMC·PVH 섭식 회로 세포타입·인과 분해의 현대 표준(AgRP 광유전 인과·AgRP→PVH·feedforward 예측). BIDMC / Harvard Medical School.
 - [[person-knight-zachary]] — 시상하부 섭식·갈증 회로의 실시간 dynamics·예측 신호·자원별 도파민 보상(AgRP·DMH^LepR·flavor-nutrient). UCSF / HHMI.
@@ -602,7 +604,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — 회고적 인과 학습 (ANCCR)
 개념 hub: [[concept-anccr]].
-- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] — ★ **ANCCR 원전**: NAc 도파민(dLight1.3b)은 TDRL RPE가 아니라 회고적 인과 연합("meaningful causal target")을 전달 — 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·행동 소거 후 cue 반응 잔존·trial 내 backprop 없음 (Science 2022, Namboodiri lab).
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] — ★ **ANCCR 원전**: NAc 도파민(dLight1.3b)은 TDRL RPE가 아니라 회고적 인과 연합("meaningful causal target")을 전달 — 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·행동 소거 후 cue 반응 잔존·trial 내 backprop 없음 (Science 2022, Namboodiri lab). 보충자료 반영(ANCCR 식 7–20·파라미터·Supplementary Notes 1–10).
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012).

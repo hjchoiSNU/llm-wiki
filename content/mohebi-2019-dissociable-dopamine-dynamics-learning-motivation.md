@@ -129,7 +129,7 @@ journal: "Nature 570:65–70"
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — motivation 진영.
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA heterogeneity.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — multi-channel modulator.
-- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 본 논문을 NAc 방출 RPE 근거로 인용한 뒤 NAcc dLight1.3b로 TDRL RPE를 반박(ANCCR). 음의 RPE 약함을 floor effect 없이 설명. 단 원전은 회고적 정보 공급원으로 OFC→VTA를 제시 — 위 "NAc 국소 메커니즘으로 호환"은 위키 측 추론.
+- [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 본 논문을 NAc 방출 RPE 근거로 인용한 뒤 NAcc dLight1.3b로 TDRL RPE를 반박(ANCCR). 음의 RPE 약함을 floor effect 없이 설명. 단 원전은 회고적 정보 공급원으로 OFC→VTA를 제시 — 위 "NAc 국소 메커니즘으로 호환"은 위키 측 추론. (2026-10-03, Jeong 2022 suppl. fig. S14) 원전 회로 가설은 LEC(eligibility trace) → 해마 → OFC(PRC)/PL(SRC) → 중뇌 DA 뉴런(ANCCR) → **NAc = 도파민을 행동으로 통합(임계 교차)** 으로, 회고 계산을 NAc 상류에 둔다.
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — DA를 meta 수준 gain 조절(meta-RPE)로 해석; dual-channel dynamics 관점 확장 (Nature 2026).
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — **"local control"의 공간 버전**: 중뇌 도파민 말단을 한 선조체 아구역에서 자극해도 다른 아구역 DA는 거의 오르지 않는다 → 방출은 아구역마다 **국소 조립**된다. 다만 본 페이지가 "NAc core만 reward rate와 상관, shell·DMS는 무관"이라 한 데 비해 Gordon 2026은 **가치 scaling이 전방 아구역 전반에 퍼진다**고 본다(과제·회귀변수가 다름: reward rate vs 용액 가치) (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].
 - [[concept-dopamine-reward-system]] — DA 회로 (dual-channel 추가).

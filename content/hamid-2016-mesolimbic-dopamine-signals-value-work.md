@@ -95,6 +95,7 @@ NAc DA는 **temporally discounted future reward (state value V)** 라는 단일 
 3. **VTA heterogeneity 미고려**: aggregate signal — Engelhard 2019, Lammel 2011, Greenstreet 2025 등 subpopulation별 다른 변수 인코딩과의 reconciliation 필요.
 4. **ANCCR 도전**: Jeong 2022 (Namboodiri)는 forward 학습 자체를 부정 — 본 논문과 직접 충돌. RPE 모델이 forward인 한 ANCCR과 양립 불가.
    - (2026-10-03 원전 대조) [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|원전]]은 회고적 PRC를 Bayes 규칙으로 **전향적 SRC로 변환**해 쓰며 "prediction error 일반과는 불일치하지 않는다"고 명시 — 부정 대상은 **관습적 state space의 TDRL RPE**. 또 도파민 ramp를 ANCCR로 설명하고 Hamid **2021**(ramp = 행동–보상 인과 연합)과 부합한다고 봄. 본 논문의 instrumental value-ramp 자체는 원전에서 직접 검증되지 않았다. → "양립 불가"는 과장일 수 있음. 개념 hub [[concept-anccr]].
+   - (2026-10-03, Jeong 2022 suppl.) 보충 Methods는 행동을 "cue value = SRC × causal weight − action cost → softmax"로 모델링해 **전향적 value를 행동 선택에 명시적으로 사용**한다(fig. S14 회로 가설에서도 전향 연합을 PL이 계산). 단 원전의 ramp 설명(fig. S13A–D)은 연쇄 cue로 근사한 Pavlovian형 시뮬레이션이며, 본 논문의 instrumental 보상률 ramp는 다루지 않는다.
 5. **Cost는 미고려**: V 는 "보상 가용성"만, effort cost는 별개 (Gan 2010 dissociable cost/benefit).
 
 ## Gershman 2014의 RPE 옹호와의 관계

@@ -2,7 +2,7 @@
 title: 단시냅스 광견병 역행추적 (Monosynaptic rabies tracing)
 type: concept
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-10-03
 aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-TVA, RVdG, starter cell, 단시냅스 역행추적, CVS-N2c, transsynaptic tracing]
 ---
 
@@ -114,3 +114,4 @@ aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-T
 - [[concept-computational-ethology]] — 회로 조작의 행동 판독 층.
 - [[concept-arcuate-nucleus]] · [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] — 이 방법이 가장 많이 적용된 표적.
 - [[concept-enteroendocrine-cells]] — 말초(neuropod) 역행 수송 입증에도 사용; 비특이 발현 통제 경고.
+- [[jung-2022-a-forebrain-neural-substrate-for]] — 적용 사례: LH^Vgat의 단시냅스 입력 지도에서 LPB 외측 하위핵이 온도 입력원으로 확인 (Neuron 2022)

@@ -2,7 +2,7 @@
 title: 결합옆핵 CGRP 일반경보 (Parabrachial CGRP general alarm)
 type: concept
 created: 2026-07-05
-updated: 2026-09-07
+updated: 2026-10-03
 aliases: [CGRP neurons, parabrachial CGRP, PBN CGRP, general alarm, Calca PBN]
 ---
 
@@ -35,3 +35,4 @@ aliases: [CGRP neurons, parabrachial CGRP, PBN CGRP, general alarm, Calca PBN]
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA^Htr2a가 **PBN-투사 PKC-δ 뉴런을 억제**해 경보를 완화(섭식촉진).
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — 소수 AgRP→PBN 투사 = 배고픔↔경보 회로의 접점.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **LPB가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나이자, NTS POMC의 주요 **상호 연결** 상대(NTS POMC 축삭이 LPB로 되돌아감). 경보 hub가 POMC 포만 회로와 양방향으로 묶여 있음 (Front Neuroanat 2015).
+- [[jung-2022-a-forebrain-neural-substrate-for]] — PB의 다른 출력: LPB(주로 Vglut2+)→LH^Vgat 흥분성 입력이 체온조절 행동에 필요하고 섭식에는 불필요; LPB 세포체 억제는 절식 후 섭식을 늘림 (Neuron 2022)

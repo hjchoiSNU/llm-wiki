@@ -102,3 +102,4 @@ LH의 세포 다양성, 4개 subdivision, 시간 동역학, 기능적 역할을 
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 본 리뷰의 LH^Nts 항목에 대응하는 인과 침묵 실험(총 섭취 불변·음수/각성/자발운동 손상, bioRxiv 2026).
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — 본 리뷰의 **"GABAergic=engine / Glutamatergic=brake"** 이분법에 **연속 ratio 변수**를 더한다: 소비 중 두 집단이 함께 켜지되 가치에 대한 **부호가 반대**이고, 그 비가 선조체 전후축 도파민 지형을 인과적으로 세운다 (Neuron 2026, Stuber lab). 개념 [[concept-striatal-dopamine-gradient]].
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat salience vs ingestion ensemble; 위내 먹이 주입 반응이 구강 반응과 겹침(r = 0.40) — "palatability, calorie 아님" 서술과 긴장 (Cell Rep 2026)
+- [[jung-2022-a-forebrain-neural-substrate-for]] — 같은 LH^Vgat의 비섭식 기능: 행동성 체온조절에 필요, 열 자극 집단과 칼로리 집단 분리 (Neuron 2022, SNU 김성연 lab)

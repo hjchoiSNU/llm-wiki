@@ -254,3 +254,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility(지연 결과)→Motivation(순간 구동) 변환의 알고리즘 후보: 추상 가치→구체 목표→기본 보상 신호라는 **동기 비계(scaffolding)**. "기본 보상(배고픔) 목표는 몰입 표지가 약해야 한다"는 예측 포함.
 - ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — **NMPU에 "어디"라는 공간 축을 더한다**: 소비 중 **가치·최근 이력**(Pleasure/Utility의 교사 신호 성격)은 전방·복측 선조체에, **핥기라는 행동 출력과 과제 타이밍**은 후방·배측에 실린다(GLM ΔR²). 상류 변수는 LHA^GABA/Glut의 **비**이고, 신호는 **절대 가치가 아니라 선택지 집합에 대한 상대 가치**를 싣는다. 행동적으로 도파민은 Motivation의 **개시** 성분을 강화한다 (Neuron 2026, Stuber lab).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Motivation 뉴런 판정에 혐오 자극·물 대조가 필요하다는 설계 기준(salience ensemble은 valence 비특이, ingestion ensemble은 가치 스케일 섭취) (Cell Rep 2026)
+- [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat은 체온 동기 행동에도 필요하고 열 자극 집단과 칼로리 집단이 단일세포 수준에서 분리 → LH^Vgat 집단 활성을 Motivation으로 읽을 때의 주의점 (Neuron 2022)

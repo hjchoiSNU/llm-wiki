@@ -2,7 +2,7 @@
 title: Choi Hyung-jin (최형진)
 type: person
 created: 2026-04-30
-updated: 2026-05-25
+updated: 2026-10-03
 aliases: [최형진, Hyung Jin Choi, HJ Choi]
 ---
 
@@ -119,3 +119,4 @@ ORCID: 0000-0003-0593-6978
 - [[johansen-2025-brain-control-of-energy]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[godschall-2026-a-brain-reward-circuit-inhibited]] · [[duran-2026-the-central-amygdala-integrates]] — 본 lab 논문(Kim KS 2024 Science 등)을 인용한 외부 리뷰·연구 (Cell·Neuron·Nature·bioRxiv 2025–26).
 - [[person-nord-camilla]] — Cambridge 계산정신의학; [[concept-metabolic-interoception|대사–정신건강]]·GLP-1·보상 축의 접점.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 교재 Ch 24(음식 갈망과 중독) 집필본 정리 (2026-08-20).
+- [[person-kim-sung-yon]] — 같은 서울대에서 LH^Vgat을 2광자 단일세포 영상으로 연구하는 lab. Lee 2026 Cell Rep이 사용자 lab의 Lee 2023·Kim 2024를 인용

@@ -98,6 +98,7 @@ RPE 가설은 원형 그대로는 부족하지만, **suitably generalized** (vec
 - Uncued reward 가 반복되면 DA ↑ (RPE 예측: ↓ — context 학습 후 expected).
 - 본 논문은 "Qian 2024 가 일부 ANCCR 주장 도전" 인용 — 논쟁 중.
 - (2026-10-03 원전 대조) [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]] Test 1과 일치(단 **실험 무경험 마우스**, 점근 ≈1×incentive value). 원전은 위 도전 1의 **Kim 2020 Cell ramp도 ANCCR로 설명**한다고 주장(fig. S13, 보충자료) — "RPE 결정 실험" 평가와 긴장. 개념 hub [[concept-anccr]].
+- (2026-10-03, Jeong 2022 suppl. 대조) fig. S13A–D 세부: 근거는 Kim 2020 데이터 재분석이 아니라 **ANCCR 시뮬레이션**(1 s cue 8개 계열 + 9 s 보상으로 과제를 이산 근사)으로, teleport 시 표준보다 큰 반응과 속도 변화(빠름↑·느림↓)를 재현하되 속도 조건은 "동물이 상대 속도를 net contingency에 곱한다"는 **추가 가정**에 의존. 따라서 Kim 2020은 위 서술대로 V vs RPE는 가르지만, 원전 주장상 RPE vs ANCCR의 결정 실험은 아니다. 또 suppl. fig. S15는 trial-less 과제에서 TDRL도 **정확한 최소 Markov state space를 a priori로 알면** 연합을 구분할 수 있음을 저자 스스로 인정(반론은 사전지식·state 폭증) — "suitably generalized RPE" 논쟁의 실제 쟁점. suppl. Note 4는 보상률 예측오차가 소거 결과와 맞지 않는다고 봄(본 논문의 average-reward 모델과 동일한지는 원문에 언급 없음).
 
 ### 3. Adaptive learning rate (Coddington 2023)
 - DA 가 RPE 가 아닌 **adaptive learning rate** 신호 — preparatory + reactive 행동 통합.

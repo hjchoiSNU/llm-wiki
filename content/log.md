@@ -8,6 +8,31 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 (2) — ingest (Jeong 2022 보충자료 · Jung 2022 Neuron) + 인물 페이지(김성연)
+
+사용자 요청 3건: ① LH GABA hub 생성 ② 김성연 교수 인물 페이지 ③ `raw/`에 추가된 2개 파일 정리.
+
+**③-a Jeong 2022 보충자료** (`raw/2022 Science (정희정 suppl) …pdf`) — 완료. [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]]에 `source_suppl:` frontmatter를 추가하고 "자료 없음"이던 항목을 채웠다.
+- ANCCR 정식 수식(식 7–20)과 파라미터(T = 1.2×IRI, α = 0.02, w = 0.5, θ = 0.6, αR = 0.2), 조정항, meaningful causal target 판정 규칙. 비교 모델 TDRL(식 1–6)도 정리.
+- Supplementary Notes 1–10 요지와 fig. S1–S15 주요 결과, 방법 세부(좌표·센서·분석창·제외 기준). 보충자료의 Experiment 번호와 본문 Test 번호가 달라 대응표를 넣었다.
+- 긴장 판정 갱신: Kim 2020 ramp에 대한 ANCCR 설명(fig. S13)은 시뮬레이션 재현 + 추가 가정이다. trial-less 과제는 정확한 Markov state space를 미리 알면 TDRL도 구분 가능하다고 저자가 인정한다(간결성 논증). Amo 2022와의 불일치는 후각 vs 청각 cue 차이로 설명한다(미검증).
+- 함께 갱신: [[concept-anccr]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]].
+
+**③-b Jung 2022 Neuron** (`raw/2022 Neuron. A forebrain neural substrate for behavioral thermoregulation.pdf`) — **부분 완료**. [[jung-2022-a-forebrain-neural-substrate-for]]: 배경·방법·결과 1–8과 관련 페이지까지 작성. **Discussion·한계·위키 내 긴장 절은 미작성**(페이지에 작성 상태 note 표기).
+- LH^Vgat 화학유전 억제 → 자가가온 operant·온도 구배 선택·둥지 짓기·자세 신전 손상. BAT 열생산·심부체온·꼬리 혈관수축·열 통각은 정상.
+- 2광자(260 뉴런/12마리): 열 처벌 흥분 ∩ 열 보상 억제 = thermal P&R 뉴런 76개. 칼로리 보상 흥분 86개와의 겹침은 17개뿐.
+- LPB(주로 Vglut2+) → LH 입력은 체온조절 행동과 열 보상 부호화에 필요하고 섭식에는 불필요.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]의 "열 처벌 ensemble" 원전. Lee 2026 본문의 "위키 원전 없음" 표기를 링크로 교체.
+- 역방향 링크 10: [[concept-lateral-hypothalamus]] · [[concept-need-motivation-pleasure-utility]] · [[concept-primary-reward-signals]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-medial-preoptic-area]] · [[jia-2026-novelty-exploration-activated-ensemble-in]] · [[cheon-2025-lateral-hypothalamus-and-eating-cell]] · [[concept-consumption-vigor]] · [[concept-monosynaptic-rabies-tracing]] · Lee 2026.
+
+**② [[person-kim-sung-yon]]** — 생성. 위키 원저 2편(Jung 2022, Lee 2026) 기준. 소속은 논문 인쇄 표기 그대로, 약력은 "자료 없음". [[lim-2026-hypothalamic-pomc-neurons-regulate|Lim 2026]]의 "Kim SY"는 동일인 여부 미확인(교신은 김민선)이라 연결하지 않았다. 역방향 링크 6: Lee 2026 · [[person-choi-hyung-jin]] · [[concept-lateral-hypothalamus]] · [[hyun-2022-tagging-active-neurons-by]] · [[person-stuber-garret]] · [[person-korotkova-tatiana]].
+
+**① `concept-lh-gabaergic-neurons` hub — 미생성.** 본문 작성 응답이 safety classifier에 의해 반복 중단돼(담당 agent 1회, coordinator 여러 회) 재시도하지 않았다. Jung 2022 페이지의 나머지 절도 같은 사유로 중단. 보류한 `concept-behavioral-thermoregulation`도 만들지 않았다.
+
+[[index.md|wiki/index.md]]: 👤에 김성연, 🍽️ 회로·세포에 Jung 2022 등재, Jeong 2022 항목에 보충자료 반영 표기. 총 484페이지.
+
+**후속 후보**: Jeong 2022 Note 7(24 h CTA)을 [[concept-conditioned-taste-aversion]]에, fig. S14(OFC = PRC·임계, PL = SRC)를 [[concept-orbitofrontal-cortex]]에 한 줄씩 추가. 원전 추가 후보: Amo 2022 Nat Neurosci, Kim 2020 Cell, Daw 2006.
+
 ## 2026-10-03 — ingest (5편: Jeong 2022 ANCCR · Thorens 2024 GLP-1R · West 2025 GLP-1RA CNS 투과 · Lee 2026 LH GABA ensemble · Gordon 2026 LHA→선조체 DA)
 
 "ingest" 트리거. `raw/` vs `source:` 대조로 미정리 4편(10-03 19:21 투입: Thorens 2024·West 2025·Lee 2026·Gordon 2026)을 찾았다. `wiki/` 점검에서 PDF 7개도 발견했다. 그중 **Jeong 2022 Science**(`2022 Science (정희정) Mesolimbic dopamine release conveys causal associations.pdf`)는 `raw/`에 없어 같은 이름으로 복사했다(md5 `759ff201…` 일치). 나머지 6개는 위 3편의 중복 사본(` 1`/` 2` 포함)이며 모두 `raw/` 원본과 md5가 일치했다. 7개 모두 wiki/에서 삭제했고, wiki/는 다시 `.md` 전용이다. 다른 미참조 raw 파일(Dong 2025·Gao 2026·Godschall 2026·Walker 2026·Roh 2021 등)은 `source:` 문자열만 달랐고 이미 정리돼 있었다.
