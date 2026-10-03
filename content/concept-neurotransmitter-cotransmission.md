@@ -2,7 +2,7 @@
 title: 신경전달물질 공방출 (Co-transmission / co-release)
 type: concept
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -62,3 +62,4 @@ updated: 2026-09-21
 - [[concept-lateral-habenula]] — Glu+GABA 공방출(mesohabenular)의 표적.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 도파민 ensemble 종합에서 공방출 아형의 섭식 역할이 미해명 과제로 남아 있는 지점.
 - [[concept-medium-spiny-neuron]] — 공방출 입력이 직접 흥분시키면서도 국소회로를 경유해 순 억제하는 출력 세포.
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ **"AAV-CaMKIIα = excitatory"를 LH에서는 쓸 수 없다는 1차 증거**(PNAS 2024, Kilduff lab). CaMKIIα promoter 표지 세포의 **95.6%가 *Camk2a*⁺**인데도 **Vglut2⁺ 78.7% / Vgat⁺ 33%(IHC Gad2⁺ 20.1%)** 혼합이다. 즉 **promoter 누출**(Veres 2023: 피질 interneuron에서 CaMKIIα 단백질 없이 transgene 구동)과 **마커 자체의 세포타입 비특이성**은 다른 문제이며, 이 논문이 해결한 것은 **전자뿐**이다. 더해 인용된 Mickelsen 2017 수치는 Gad 발현 ≠ GABA 방출을 보여 준다: **MCH의 ~98%가 *Gad1*⁺·21%가 *Gad2*⁺지만 *Slc32a1*(Vgat)은 어떤 MCH 뉴런에서도 검출되지 않고**, Hcrt는 56% *Gad1*⁺·16% *Gad2*⁺이나 Vgat은 1.5%뿐이다.

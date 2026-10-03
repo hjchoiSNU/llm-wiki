@@ -135,3 +135,4 @@ orexin 뉴런은 **포도당·leptin에 억제되고 ghrelin에 흥분하는 대
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — T2D effort 편향과 고혈당-orexin 억제 가설.
 - [[concept-weight-regain-defended-adiposity]] — 식이 제한 시 orexin 과보상 가설.
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — ABA(활동 기반 식욕부진) 모델의 단식 유발 과활동; orexin 의존성은 미검증(연결 가설).
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ **"LH 각성의 주역이 orexin인가"의 반대 축**(PNAS 2024, Kilduff lab). LH^CaMKIIα chemogenetic 활성은 **almorexant 200 mg/kg로 OXR을 막아도 7시간 각성**을 만들고(F(24,72)=17.53), 저자들은 서두에서 "Hcrt 뉴런은 24시간 총 수면·각성 시간에 거의 영향이 없다"고 적는다. ⚠️ 층위 차이로 병기 — 이 논문은 **단식 등 대사 상태에 따른 생리적 각성 조절**을, Heiss 2024는 **최대 자극 하 각성 총량**을 측정했다. 반대로 Heiss 2024는 LH^CaMKIIα 활동이 배고픔·혈당에 따라 변하는지 **측정하지 않았다**(이 논문이 orexin에 대해 한 작업의 공백).

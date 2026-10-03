@@ -2,7 +2,7 @@
 title: Medial preoptic area (MPOA, 내측 시각교차전영역)
 type: concept
 created: 2026-08-15
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측 시색전영역, 시각교차전영역]
 ---
 
@@ -63,3 +63,4 @@ aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — mPOA가 생식 경험 **고민감 전사 부위** 5곳(dHF·NAc·mPOA·LC·vHF) 중 하나 (Nature 2026, Maze lab).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — MPO/MPA가 ARC POMC의 **POMC 우세 주요 입력원**(AgRP보다 입력 밀도가 유의하게 높은 영역군: LS·MPO·AH·VTg·NI·VS)이자 POMC·AgRP 축삭의 조밀한 표적 = **상호 연결**. 양육-섭식 경쟁을 배선 수준에서 뒷받침 (Front Neuroanat 2015).
 - [[concept-maternal-programming-hypothalamus]] — 모체 상태→자손 시상하부 프로그래밍 hub; MPOA 재편(모체 자신)과 자손 프로그래밍의 연결은 위키 내 유비 수준.
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ⚠️ MPOA를 **포식(predatory hunting) 동기의 상류 노드**로 세운 1차 데이터(Research 2022, Zhejiang Chen lab). LH에 CT-B를 넣으면 **LH 투사 MPOA 뉴런 340개 중 284개(83.53%)가 CaMKIIα⁺**이고, MPOA^CaMKIIα 자극 시 **LH 내 Fos⁺ 243개 중 88.06%가 CaMKIIα⁺**, MPOA ChrimsonR 자극이 LH CaMKIIα 칼슘을 즉시 올린다. **MPOA^CaMKIIα→LH 자극은 신규 물체 탐색·추격·물기와 크리켓 사냥을 유발하지만 사체·사료를 먹지 않으며**(P=0.7926), ArchT 억제·전기 병소는 **포식만 없애고 정상 사료 섭취는 보존**한다. 이 페이지의 "흥분성 MPOA 활성은 섭식을 억제한다 / MPOA는 섭식 회로와 경쟁한다" 프레임과 **부분 정합·부분 긴장**: 섭식을 유발하지 않는 점은 정합하지만, 결과는 "억제자"보다 **"비섭식 표적 추구의 활성화자"** 에 가깝다(병기).

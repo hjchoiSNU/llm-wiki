@@ -122,3 +122,4 @@ MCH 뉴런 Ca²⁺는 **소리·맥락 음식 cue 둘 다에 반응하고 그 �
 - [[stuber-2016-lateral-hypothalamic-circuits-for]] — MCH·Orx·Vgat 분자 분리와 "각성 상태에서 자연스럽게 나오는 행동 패턴" 가설.
 - [[concept-cue-reactivity]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue 유발 추구 ↑ 성분의 인간 표현형 대응.
 - [[rossi-2018-overlapping-brain-circuits-for]] — MCH 부분집합의 VTA 투사·DA 방출(Domingos 2013) 맥락.
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ **"MCH = GABAergic"에 대한 분자적 제동**(PNAS 2024, Kilduff lab, Discussion 인용). Mickelsen 2017에 따르면 **MCH 세포의 ~98%가 *Gad1*, 21%가 *Gad2*를 발현하지만 *Slc32a1*(Vgat)은 어떤 MCH 뉴런에서도 검출되지 않고**, 거의 전부가 *Slc17a6*(Vglut2)⁺이다(Chee 2015·Schneeberger 2018의 glutamatergic 보고와 정합). Heiss는 자신의 **CaMKIIα⁺ GABAergic 아집단(~20%)** 의 정체 후보로 MCH를 **암시만** 하고 공표지는 측정하지 않았다. ⚠️ 반대 증거도 있다 — Heiss의 CaMKIIα 집단은 **wake-active이고 NREM 선호 세포가 사실상 없는데**(131세포), MCH는 REM·수면 촉진 쪽이다(병기).
