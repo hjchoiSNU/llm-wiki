@@ -111,3 +111,4 @@ journal: Nature Communications
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH 안의 Nts 집단과 세포타입 분업 대비: LH^Nts 침묵은 총 섭취를 바꾸지 않는다 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — seeking vs consummatory 분리를 2P 단일세포 종단 추적으로 재현·혐오 영역까지 확장; 단 섭취 ensemble은 물·고형식으로 일반화(food-specific 정의 축과 다름) (Cell Rep 2026)
+- [[jung-2022-a-forebrain-neural-substrate-for]] — 같은 LH^Vgat의 기능 정의 집단(thermal P&R vs 칼로리 보상). 본 논문의 분자 정의 LH^LepR이 어느 쪽에 속하는지는 미해결 (Neuron 2022, SNU 김성연 lab)

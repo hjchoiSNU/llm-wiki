@@ -73,7 +73,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 | Type | 핵심 LH 회로 |
 |---|---|
 | **Homeostatic** | Lepr·Orx → leptin·ghrelin signaling; ARC AgRP → LH positive reinforcement |
-| **Pleasure-induced** | GABAergic → VTA → NAc DA; palatability 인코딩 (calorie 아님, Garcia 2021) |
+| **Pleasure-induced** | GABAergic → VTA → NAc DA; palatability 인코딩 (calorie 아님, Garcia *Front Neurosci* 14:608047 — [[jung-2022-a-forebrain-neural-substrate-for\|Jung 2022]]는 2021, [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles\|Lee 2026]]은 2020으로 인용). ⚠️ Lee 2026의 위내 먹이 반응(구강과 r = 0.40 겹침)이 "calorie 아님"과 긴장 |
 | **Stress-induced** | LH-VTA glutamatergic 강화 (Linders 2022); LH Penk → predator odor → high-fat 과식 (You 2023) |
 
 ## Korotkova 2026 framework — 3 motivational drive arbitration

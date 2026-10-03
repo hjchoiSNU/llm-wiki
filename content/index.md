@@ -158,7 +158,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 통합하는 general salience hub; opioid 비의존 진통·항불안, cell-type(GABA·Glu)·투사(LPO·LHb·VTA·LPAG)별 분업 (Nat Commun 2026, Zhou lab; 사용자 Cheon 2025 인용).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 종단 2광자 단일세포 추적: 혐오 열자극 + 먹이 cue 공유 **motivational salience ensemble** vs 먹이·물·고형식 일반 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 감쇠); Cal-Light 투사로는 두 집단 미분리 (Cell Rep 2026, SNU 김성연 lab).
-- [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat이 **행동성 체온조절**(자가가온 operant·온도 선택·둥지 짓기·자세 신전)에 필요, 자율성 체온조절에는 불필요; 열 처벌 흥분·열 보상 억제 하위집단이 칼로리 보상 집단과 분리(76개 중 17개만 겹침); LPB→LH 입력은 체온조절 행동 전용 (Neuron 2022, SNU 김성연 lab). _(결과 1–8까지 정리, Discussion·한계 절 미작성)_
+- [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat이 **행동성 체온조절**(자가가온 operant·온도 선택·둥지 짓기·자세 신전)에 필요, 자율성 체온조절에는 불필요; 열 처벌 흥분·열 보상 억제 하위집단이 칼로리 보상 집단과 분리(76개 중 17개만 겹침); LPB→LH 입력은 체온조절 행동 전용 (Neuron 2022, SNU 김성연 lab). [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]] salience ensemble의 원전.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^GABA(가치 양의 scaling)·LHA^Glut(혐오 용액에서 음의 scaling) 비가 소비 중 선조체 도파민 지형을 설정; DA는 lick bout **개시**를 강화 (Neuron 2026, Stuber lab). _(본 항목은 🎯 Heterogeneity에)_
 - [[faour-2025-emerging-role-of-agrp]] — AgRP integrator (Luquet lab).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (Quarta·Cota).

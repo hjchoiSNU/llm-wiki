@@ -96,8 +96,26 @@ Vgat-Cre 마우스에서 LH^Vgat을 화학유전으로 억제하면 서로 다�
 - **hM3Dq 활성화**(CNO 1 mg/kg)는 체온조절 행동을 유발·촉진하지 않고 **갉기(gnawing)**를 일으켰다(Navarro 2016, de Vrind 2019 재현). 저자는 이질적 하위집단을 비특이적으로 동원한 행동 교란일 수 있고, consummatory 하위집단 활성에 따른 소비 행동일 수도 있다고 본다([[concept-consumption-vigor]]).
 - **분자(Nts·Tac2)·투사(PAG 투사 LH^Vgat)로 정의한 집단**은 열·칼로리 어느 쪽에도 선택적이지 않았거나, thermal P&R·칼로리 뉴런의 반응 프로필과 맞지 않았다.
 
-> [!note] 작성 상태 (2026-10-03)
-> 이 페이지는 결과 1–8까지 정리돼 있다. 저자 해석(Discussion)·한계·위키 내 긴장 절은 아직 쓰지 않았다. 해당 내용은 `raw/` 원문을 직접 확인할 것.
+### 저자 해석 (Discussion 요지)
+- **행동성 체온조절의 전뇌 기질을 처음 동정했다는 주장**. POA는 여러 자율성 반응에 필요한 중심으로 확립됐지만, 다양한 체온조절 **행동**에 유사한 중심 역할을 하는 영역은 미동정 상태였다. 선행 연구는 특수 조건의 개별 행동에 국한됐다. POA는 고온에서의 자세 신전에 필요하나 operant 체온조절에는 불필요하고(Roberts & Martin 1977 vs Carlisle 1969), DMH는 전신 염증성 cold-seeking에만 필요했다(Almeida 2006). 또 이들 구조의 병변은 자율성 체온조절을 심하게 손상시키고 **때로는 체온조절 행동을 보상적으로 증가**시켰다. 본 연구는 자율성 반응·온도감각·열 통각을 건드리지 않으면서 네 가지 행동이 모두 LH^Vgat에 의존함을 보였다.
+- **PB 출력의 분기 가설**: 통설은 LPB가 말초 온도 정보를 전뇌로 중계해 행동성·자율성 모두에 쓰인다는 것이고, LPB→POA의 자율성 기여는 충분히 확립됐다. 저자는 LPB가 **LH와 POA라는 갈라진 투사 팔을 동원해 행동성과 자율성을 각각 조율**할 가능성을 "흥미로운 추측(intriguing to speculate)"으로 제시한다. 단 LPB→POA가 행동성에 기여하는지는 **미검증**이며, POA가 대부분의 체온조절 행동에 불필요하다는 문헌을 볼 때 가능성은 낮다고 본다.
+- **thermal P&R 뉴런의 역할 — "가장 단순한 해석"**: 열 처벌(회피 동기↑)은 이 집단의 활성을 올리고, 열 보상(탈출 동기↓)은 내린다. 같은 뉴런이 체온조절 행동 중에도 활성화됐다. 그래서 저자는 이 집단이 **열 처벌을 회피하려는 동기**를 부호화한다고 읽는다. LH를 동기 부여와 연결한 기존 문헌과도 맞는다. 이 해석에 따르면 LH^Vgat 전체 억제로 행동이 망가진 것은 **회피 동기의 상실**로 설명된다. 다만 **충분성은 이 연구에서 직접 시험하지 못했다**고 명시한다.
+- **자극별로 다른 ensemble이 동원된다는 가설**: thermal P&R 집단은 칼로리 보상 집단과, 그리고 쓴맛·발 충격 누락에 반응하는 집단과도 대체로 구별됐다(발 충격 반응 집단과는 겹침). 저자는 다양한 자극이 LH^Vgat 안에서 **서로 다른 앙상블을 동원해 적절한 행동을 동기화**한다고 본다. Jennings 2015(Cell, 위키 원전 없음)가 LH^Vgat 안에서 appetitive/consummatory 분리를 보인 것과 같은 논리다([[concept-appetitive-consummatory-phases]]). 인과 검증에는 각 하위집단에 대한 선택적 접근이 필요하다.
+- **하위집단 접근 전략의 전망과 한계**: 단일세포 RNA-seq로 드러난 LH 분자 다양성에 기능 정의 집단을 대응시키는 길이 있으나, **조합적 마커**가 필요할 수 있고 일부 기능 정의 집단에는 애초에 불가능할 수 있다. 투사 기반 분리(Li 2018)가 대안이지만, 이 연구에서 **열 처벌 활성 뉴런과 칼로리 보상 활성 뉴런의 투사 패턴은 구별되지 않았다**(Figure S7) — 투사 기반 표적화의 난점이다. 저자는 마커·투사와 독립적인 **in vivo 다광자 직접 조작**을 또 하나의 길로 제시한다([[concept-activity-molecular-registration]]).
+
+### 한계
+- **원문 명시**: thermal P&R 뉴런의 **충분성 미검증**(이득 기능 실험은 체온조절 행동이 아니라 갉기를 유발). 영상 결과는 상관 수준이다. thermal P&R 뉴런 **전부가 발 충격에 흥분**했으므로 다른 혐오 체감각 자극도 매개할 수 있어 "열 특이"라고 할 수 없다. LPB→POA의 행동성 기여는 시험하지 않았다.
+- **추가 관찰(위키 정리자)**:
+  - 2광자 영상은 head-fixed 조건이다. 자유행동 체온조절 행동(둥지 짓기·구배 이동)과 영상 조건이 다르다. 영상에서 본 operant는 레버 과제로 대체했다.
+  - LH^Vgat 억제 실험에서 운동 결손 배제는 **선행연구 3편의 인용**에 근거하며, 이 논문 자체의 운동 대조 실험은 photometry의 wheel·open field 상관 분석이다.
+  - Figure 4C의 입력 영역 목록은 수치가 그림에만 제시돼 본문 텍스트로는 정량 비교가 어렵다.
+
+### ⚠️ 위키 내 긴장·서지 메모 (병기, 덮어쓰지 않음)
+1. **Garcia 연도 문제 — 해소**. [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]] 페이지에서 "위키는 Garcia 2021로 적는데 Lee 2026은 Garcia 2020으로 인용한다"고 플래그했던 건이다. **본 논문의 참고문헌이 Garcia et al. (2021), *Front Neurosci* 14, 608047**로 인용한다. Lee 2026은 같은 권·페이지를 **2020**으로 인용한다. 즉 동일 논문의 연도 표기가 두 논문에서 다른 것이고, [[concept-lateral-hypothalamus]]·[[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]]의 "Garcia 2021"은 오류가 아니다(본 논문 관례를 따름). 인용 시 권·페이지(14:608047)를 함께 적으면 혼동이 없다.
+2. **같은 ensemble, 다른 해석 — 본 논문 vs Lee 2026**. 본 논문은 이 집단을 **"열 처벌 회피 동기"**로 읽는다(열 영역 안에서 부호가 있는 반응). Lee 2026은 같은 집단이 **먹이 cue에도 반응**함을 보이고 **valence 무관 motivational salience**로 확장한다. 본 논문 단계에서는 식욕성 cue를 시험하지 않았으므로 두 해석은 모순이 아니라 **증거 범위의 확장**이다. 단 Lee 2026의 "unsigned salience" 주장에는 본 논문의 열 보상 억제 결과가 제약으로 남는다(열 영역 안에서는 signed).
+3. **투사 기반 분리의 한계 — 두 논문이 수렴**. 본 논문 Figure S7(열 처벌 vs 칼로리 보상 활성 뉴런의 투사 패턴 구별 불가)과 Lee 2026의 Cal-Light 결과(salience vs 섭취 태깅 집단의 투사 패턴 구별 불가)가 **같은 방향**이다. [[proposal-lh-nac-nmpu-neuron-discovery]]의 투사 기반 표적 전략에 대한 경고가 독립적으로 두 번 나온 셈이다.
+4. **"LH^Vgat = 식이 ↑" 도식과의 긴장**. [[concept-lateral-hypothalamus]]의 세포타입 표는 LH^Vgat을 "식이 ↑"로 요약한다. 본 논문은 같은 집단이 **체온 동기 행동에도 필수**이고, 이득 기능 조작은 섭식이 아니라 갉기를 유발함을 보인다. 단일 기능 레이블로 쓰기 어렵다.
+5. **갉기 vs NHP 결과**. 본 논문의 hM3Dq 활성화는 갉기를 유발했다(Navarro 2016·de Vrind 2019 재현). 반면 [[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]](사용자 lab)는 macaque LHA GABA 화학유전 활성화가 **palatable food 특이 목표지향 행동**을 증가시켰다고 보고한다. 종(마우스 vs NHP)·조작 범위·행동 측정의 차이로 병기한다.
 
 ## 관련 페이지
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 같은 lab의 직계 후속작(ref 15로 인용). 이 논문의 thermal P&R 집단이 먹이 cue에도 반응함을 보이고 salience ensemble로 재정의
@@ -111,4 +129,9 @@ Vgat-Cre 마우스에서 LH^Vgat을 화학유전으로 억제하면 서로 다�
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰(섭식 관점)와의 대비: 같은 LH^Vgat의 비섭식 기능
 - [[concept-consumption-vigor]] — hM3Dq 활성화가 체온조절 행동이 아니라 갉기를 유발
 - [[concept-monosynaptic-rabies-tracing]] — LH^Vgat 입력 지도(LPB 등)에 쓴 방법
+- [[concept-appetitive-consummatory-phases]] — LH^Vgat 안의 기능 분화라는 같은 논리(Jennings 2015 계보)
+- [[concept-activity-molecular-registration]] — 저자가 제시한 다음 단계: 기능 정의 집단 ↔ 분자 마커·투사 대응, 또는 다광자 직접 조작
+- [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 사용자 lab NHP LHA GABA 활성화(palatable food 특이 goal-directed 증가)와 본 논문 갉기 결과의 대비
+- [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab의 LH^LepR 분자 정의 집단. 본 논문의 기능 정의 집단과 대응 관계가 미해결
+- [[proposal-lh-nac-nmpu-neuron-discovery]] — 투사 기반 표적화의 난점(Figure S7)이 이 계획서에 직접 경고
 - **TRAP + synaptophysin-mRuby**: 열 처벌에 활성화된 LH 뉴런과 칼로리 보상(액상 먹이)에 활성화된 LH 뉴런의 투사 패턴은 **구분되지 않았다**. 투사 기반 표적화가

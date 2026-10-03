@@ -8,6 +8,19 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 (3) — ingest 점검 + Jung 2022 마무리 (Garcia 서지 건 해소)
+
+"다시 계속 ingest" 트리거. **`raw/` 전수 대조 결과 미정리 논문 0건.** `source:`·`source_suppl:` 고유값과 대조해 남은 미참조 파일은 모두 중복 사본(` 1`/` 2`/`(1)`/`(2)`)·보충자료·비논문(교재 docx·README·.mp4·stub)으로 기존 판정과 동일. `wiki/`와 프로젝트 루트에 잘못 들어간 PDF도 없다(wiki/는 `.md` 전용 유지).
+
+**[[jung-2022-a-forebrain-neural-substrate-for]] 완성** — 2026-10-03 (2)에서 중단됐던 절을 원문 Discussion으로 채웠다.
+- **저자 해석**: ① 행동성 체온조절의 전뇌 기질 첫 동정(POA는 자율성 중심이나 행동성엔 불충분, 병변은 오히려 행동을 보상적으로 늘리기도 함) ② **PB 출력 분기 가설** — LPB가 LH(행동성)와 POA(자율성)로 갈라진 투사 팔을 쓸 수 있다는 "추측"(LPB→POA의 행동성 기여는 미검증) ③ thermal P&R 뉴런 = **열 처벌 회피 동기**라는 "가장 단순한 해석"(충분성 미검증) ④ 자극별로 다른 ensemble 동원 가설 ⑤ 하위집단 접근은 조합적 분자 마커 또는 다광자 직접 조작이 필요.
+- **한계**: 상관 수준, 충분성 미검증(이득 기능은 갉기만 유발), thermal P&R 뉴런 **전부가 발 충격에 흥분**해 "열 특이"로 쓸 수 없음, head-fixed 영상 조건.
+- **★ 서지 건 해소**: 2026-10-03 (1)에서 플래그했던 Garcia 연도 불일치는 **같은 논문(*Front Neurosci* 14:608047)의 연도 표기 차이**였다. 본 논문은 2021, [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]은 2020으로 인용한다. 위키의 "Garcia 2021"은 오류가 아니다. [[concept-lateral-hypothalamus]] 표와 Lee 2026 ⚠️ 절에 권·페이지를 병기해 정리했다.
+- **투사 기반 분리의 한계가 독립적으로 두 번**: 본 논문 Figure S7(열 처벌 vs 칼로리 보상 뉴런의 투사 패턴 구별 불가)과 Lee 2026 Cal-Light가 같은 결론 → [[proposal-lh-nac-nmpu-neuron-discovery]]에 경고로 기록.
+- 역방향 링크 5 추가: [[concept-appetitive-consummatory-phases]] · [[concept-activity-molecular-registration]] · [[ha-2024-hypothalamic-neuronal-activation-non-human]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[proposal-lh-nac-nmpu-neuron-discovery]]. 총 인바운드 18.
+
+**미생성 유지**: `concept-lh-gabaergic-neurons` hub. 2026-10-03 (2)와 같은 사유(본문 생성이 safety classifier에 반복 중단)로 재시도하지 않았다. 오탐으로 판단해 신고용 보고서를 별도로 작성했다(위키 외부).
+
 ## 2026-10-03 (2) — ingest (Jeong 2022 보충자료 · Jung 2022 Neuron) + 인물 페이지(김성연)
 
 사용자 요청 3건: ① LH GABA hub 생성 ② 김성연 교수 인물 페이지 ③ `raw/`에 추가된 2개 파일 정리.
@@ -18,7 +31,7 @@
 - 긴장 판정 갱신: Kim 2020 ramp에 대한 ANCCR 설명(fig. S13)은 시뮬레이션 재현 + 추가 가정이다. trial-less 과제는 정확한 Markov state space를 미리 알면 TDRL도 구분 가능하다고 저자가 인정한다(간결성 논증). Amo 2022와의 불일치는 후각 vs 청각 cue 차이로 설명한다(미검증).
 - 함께 갱신: [[concept-anccr]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]].
 
-**③-b Jung 2022 Neuron** (`raw/2022 Neuron. A forebrain neural substrate for behavioral thermoregulation.pdf`) — **부분 완료**. [[jung-2022-a-forebrain-neural-substrate-for]]: 배경·방법·결과 1–8과 관련 페이지까지 작성. **Discussion·한계·위키 내 긴장 절은 미작성**(페이지에 작성 상태 note 표기).
+**③-b Jung 2022 Neuron** (`raw/2022 Neuron. A forebrain neural substrate for behavioral thermoregulation.pdf`) — **완료**(2026-10-03 (3)에서 마무리). [[jung-2022-a-forebrain-neural-substrate-for]]: 배경·방법·결과 1–8·저자 해석·한계·위키 내 긴장·관련 페이지.
 - LH^Vgat 화학유전 억제 → 자가가온 operant·온도 구배 선택·둥지 짓기·자세 신전 손상. BAT 열생산·심부체온·꼬리 혈관수축·열 통각은 정상.
 - 2광자(260 뉴런/12마리): 열 처벌 흥분 ∩ 열 보상 억제 = thermal P&R 뉴런 76개. 칼로리 보상 흥분 86개와의 겹침은 17개뿐.
 - LPB(주로 Vglut2+) → LH 입력은 체온조절 행동과 열 보상 부호화에 필요하고 섭식에는 불필요.

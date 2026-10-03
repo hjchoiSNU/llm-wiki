@@ -2,7 +2,7 @@
 title: "Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior"
 type: paper
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2024 Neuron. Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior.pdf"
 authors: [Ha LJ, Yeo HG, Kim YG, Baek I, Baeg E, Lee YH, Won J, Jung Y, Park J, Jeon CY, Kim K, Min J, Song Y, Park JH, Nam KR, Son S, Yoo SBM, Park S, Choi WS, Lim KS, Choi JY, Cho JH, Lee Y, Choi HJ]
 year: 2024
@@ -137,3 +137,4 @@ journal: "Neuron 112:1–13"
 - [[person-choi-hyung-jin]] — 사용자 lab.
 - [[mueller-2025-privi-towards-general-purpose-video]] — NHP 자유행동 영상 자동 정량화 CV 도구(방법 인프라).
 - [[concept-computational-ethology]] — 본 논문의 DeepLabCut 정량화가 속한 도구 계열 hub; [[liu-2025-castle-a-training-free-foundation-model|CASTLE]] 같은 label-free 대안의 적용 후보.
+- [[jung-2022-a-forebrain-neural-substrate-for]] — 마우스 LH^Vgat hM3Dq 활성화는 체온조절 행동이 아니라 갉기를 유발 — 본 NHP 결과(palatable food 특이 goal-directed 증가)와 병기할 종·조작 차이 (Neuron 2022)
