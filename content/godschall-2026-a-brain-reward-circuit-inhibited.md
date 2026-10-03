@@ -2,7 +2,7 @@
 title: "A brain reward circuit inhibited by next-generation weight-loss drugs in mice (Godschall/Güler 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2026 Nature. A brain reward circuit inhibited by next-generation weight-loss drugs in mice.pdf"
 authors: [Elizabeth N. Godschall, Taha Bugra Gungul, Isabelle R. Sajonia, ..., John N. Campbell, Christopher D. Deppmann, Ali D. Güler]
 year: 2026
@@ -104,3 +104,4 @@ Glp1r-Cre 마우스에 부위별 human GLP1R 발현 후 danuglipron:
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(종특이성 번역 주의).
 - [[concept-computational-ethology]] — 본 논문의 SLEAP+Keypoint-MoSeq 91-syllable 분석이 속한 행동 자동 정량화 도구 계열 hub; 약물 효과를 총 섭취량이 아니라 **행동 표현형 공간**에 투사한 사례.
 - [[duran-2026-the-central-amygdala-gates]] — ★ 위 Duran 프리프린트의 **정식 출판판**(*Mol Metab* 110:102403, 2026). Prkcd/Glp1r/Sst 세포종류별 Ex-4 hypophagia 게이팅 + appetitive/consummatory 분리. **인용은 이 판본으로.**
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ **palatable 섭취 억제의 '주인' 문제(병기)**: 본 논문은 hedonic 섭취 억제를 **NTS^Gcg→CeA^Glp1r→VTA** 축에 두지만, 저 preprint는 **CeA를 거치지 않는 NTS Adcyap1⁺→ARC / →DMH** 투사도 초콜릿 폭식을 비혐오적으로 억제한다고 보고. → 단일 hedonic brake가 아니라 **병렬 회로**이며, 각 경로의 기여 비중은 양쪽 모두 미정 (bioRxiv preprint 2026).

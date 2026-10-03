@@ -2,7 +2,7 @@
 title: "Stress and obesity (Tomiyama 2019)"
 type: paper
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-10-03
 source: "raw/2019 Ann Rev. Psychol. (A. Janet Tomiyama) Stress and Obesity.pdf"
 authors: [Tomiyama AJ]
 year: 2019
@@ -39,3 +39,4 @@ stress와 비만의 양방향 경로(인지·행동·생리·생화학)와 weigh
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기 stress→leptin/HPA→LH 회로 재편(구체 신경기전).
 - [[concept-emotional-eating]] — 정서적 섭식 개념 hub.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — ⚠️ 스트레스→**섭식 억제** 쪽 회로(LS^Nts→LH). 갈림길은 스트레스 강도가 아니라 **능동 vs 수동 대처**일 수 있다는 가설 (eLife 2020, Friedman lab). → [[concept-lateral-septum]]
+- [[wang-2026-a-hypothalamic-circuit-links]] — HFD→HPA축 과활성(corticosterone↑)→과식·비만 유지를 **시상하부-내 회로**(ArcAgRP→PVNCRH→LHAGlu)로 구현. 불안-취약 아형만 과식·체중↑; 항불안제(midazolam)로 과식이 줄어 정서→섭식 인과를 지지 (Nat Commun 2026).

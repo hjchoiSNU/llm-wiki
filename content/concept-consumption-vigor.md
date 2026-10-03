@@ -2,7 +2,7 @@
 title: "Consumption vigor (소비 강도)"
 type: concept
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -26,3 +26,4 @@ updated: 2026-09-19
 - [[concept-appetitive-consummatory-phases]] — consummatory phase.
 - [[zhang-2026-inherited-input-and-local-transformations]] — pVLS **dSPN ramping의 기울기가 예상 licking 개시 잠복을 예측**(가파를수록 이른 lick); vigor·행동 개시의 선조체 accumulator 후보. 글루탐산 입력에는 없는 국소 변환 신호 (bioRxiv 2026).
 - [[wang-2026-ventral-pallidal-gabaergic-neurons]] — 복측 창백핵 GABA 뉴런이 **핥기 bout 길이·palatability를 trial 단위로 추적**하고, **폐루프 광유전**으로 bout를 연장한다. vigor 지표에 회로 인과를 붙인 사례(bioRxiv 2026 preprint, Kravitz·Creed) — 단 해당 페이지는 이를 NMPU **Pleasure 축** 후보로 두므로 Motivation 축과의 구분에 주의.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — 선조체 DA 자극이 lick **bout 수(개시)** 만 늘리고 bout 길이(지속)는 안 늘림(DMS·DLS는 licks/bout↓); trial n DA가 n+1 licking을 예측. vigor의 개시 성분에 선조체 DA 인과 (Neuron 2026, Stuber lab).

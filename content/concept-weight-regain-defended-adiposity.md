@@ -2,7 +2,7 @@
 title: 체중 재증가와 방어되는 지방량 (Weight regain & defended adiposity)
 type: concept
 created: 2026-09-11
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, weight maintenance, 유지생물학]
 ---
 
@@ -87,3 +87,4 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[concept-digital-therapeutics]] — 유지기 개입 도구.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[walker-2026-a-hypothalamic-circuit-for]] — PVH^Sim2(=PVH^TRH 부분집합) 만성 silencing이 **12주간 섭취·체지방 감소를 유지**; 저자가 '다이어트 후 체중 유지' 표적으로 제시. 증폭기 축의 **상류 세포타입 진입점** (Neuron 2026, Lowell lab).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ 가설축: 세마글루타이드 반응 **NTS Adcyap1⁺→DMH** 경로 활성이 **에너지소비를 낮춘다**(자유섭식·무식이 모두) → 약물 자체가 동원하는 **에너지 절약 출력**이 체중 방어·plateau의 회로 후보일 수 있다(원문은 재증가를 다루지 않음) (bioRxiv preprint 2026).

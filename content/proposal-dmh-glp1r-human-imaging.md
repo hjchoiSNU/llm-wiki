@@ -2,7 +2,7 @@
 title: "[연구계획서] DMH GLP-1R cognitive satiation의 인간 영상 검증 — GLP-1RA × 7T 음식 cue fMRI"
 type: proposal
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -70,3 +70,4 @@ updated: 2026-06-02
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — AP 1차 표적(대비).
 - [[person-choi-hyung-jin]] — 연구책임자.
 - [[proposal-nmpu-human-translation]] · [[proposal-glp1ra-rebound-microbiota]] — 자매 과제.
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — DMH GLP-1R 효과의 **상류 교란 요인**: 세마글루타이드 반응 NTS Adcyap1⁺→DMH 투사가 단독으로 motivated feeding 억제·AgRP Fos 억제·EE↓를 만든다. 인간 영상 설계에서 DMH 신호가 **뇌간(DVC) 신호와 공변하는지**를 분리 가설로 둘 근거 (bioRxiv preprint 2026).

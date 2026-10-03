@@ -2,7 +2,7 @@
 title: Dorsal vagal complex (DVC) — AP·NTS·DMX
 type: concept
 created: 2026-05-31
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus solitarius, DMX]
 ---
 
@@ -69,3 +69,5 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1/GIP 후뇌 무대.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 medulla(NTS/AP) GLP-1R 발현.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **NTS POMC의 배선 실체**: 입력의 ~80%가 뇌교·연수(Su5·IRt 최다 밀도, LC·Gi·RMg·Rn·PnO/PnC)이고 **소뇌핵**까지 포함, 전뇌 입력은 ~10%(CeM·PVN·PSTh)에 불과. 축삭은 뇌간(PCRt·MdD/MdV·SubC·Gi·IRt·Su5·LPB) 중심이되 문측 **Acb까지** 도달. **ARC POMC와는 다른 회로에 사는 세포**임을 확정 (Front Neuroanat 2015).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — **NTS Adcyap1⁺(PACAP) 뉴런 → ARC / → DMH** 두 상행 투사가 DVC 출력 목록에 추가. 공통: 단식 재급식·초콜릿 폭식만 비혐오적 억제(CTA 없음)·단식 AgRP 활성 억제. 분업: **→ARC = 섭취 무관 ketone↑·체중↓**, **→DMH = EE↓**. 세마글루타이드 반응 Adcyap1^NTS의 ~절반이 `Slc32a1`⁺(억제성) (bioRxiv preprint 2026, Engström Ruud lab).
+  - ⚠️ **[[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]과의 긴장(병기)**: Gao는 'NTS^Glp1r의 Gs 신호는 세마글루타이드 체중감량에 무상관'을, 본 preprint는 'Adcyap1^NTS와 그 시상하부 투사가 약효 relay'를 말한다. 조작 층위가 다르다(수용체 G단백 vs AP 하류 회로) — "NTS는 약물을 직접 감지하지 않아도 중계는 한다"로 봉합 가능하나 **같은 실험 안에서 검증된 봉합은 아직 없다**.

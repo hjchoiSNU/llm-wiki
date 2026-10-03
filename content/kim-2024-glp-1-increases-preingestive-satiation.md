@@ -125,3 +125,4 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[cao-2024-hunting-for-heroes-brain]] — 본 논문(DMH^GLP-1R)을 세 논문 중 하나로 외부 평가.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — Ex-4(100 μg/kg)가 LH^Vgat의 **음식 cue(식전) 반응과 섭취 반응을 모두 약화**했다(class 비율은 불변, 진폭만 ↓; jaw 통제 후에도 유의). DMH GLP-1R→AgRP 식전 포만과 병렬인 LH 쪽 작용 지점 (Cell Rep 2026).
 - [[bonnefond-2026-the-genetics-of-obesity]] — 인간 **calorie-to-satiation(CTS)** 개인차(140–2,166 kcal; 공복 GLP-1·PYY·CCK·ghrelin과 무관)와 그 유전점수가 GLP-1RA 반응을 예측 — 저 CTS(satiation 경로 온전)가 liraglutide 최적 반응자. 본 논문의 preingestive satiation과의 대응은 연결 가설 (Nat Metab 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 본 논문의 **DMH^GLP-1R→ARC^AgRP GABA 억제와 같은 종착점에 도달하는 '상행 뇌간 입력'**을 보고: 세마글루타이드 반응 **NTS Adcyap1⁺→DMH**(및 →ARC) 광자극이 단식 AgRP Fos를 억제하고 motivated feeding만 비혐오적으로 억제. 즉 AgRP 억제가 **시상하부 국소 GLP-1R만의 산물이 아닐 수 있다** → DMH 조작 실험에서 뇌간 입력을 대조/공변량으로 다룰 근거 (bioRxiv preprint 2026, Engström Ruud lab).

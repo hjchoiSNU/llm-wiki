@@ -2,7 +2,7 @@
 title: "Kim et al. 2024 — A normative framework dissociates need and motivation in hypothalamic neurons"
 type: paper
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2024 Science Advances. A normative framework dissociates need and motivation in hypothalamic neurons.pdf
 authors: [Kyu Sik Kim, Young Hee Lee, Jong Won Yun, Yu-Been Kim, Ha Young Song, Joon Seok Park, Sang-Ho Jung, Jong-Woo Sohn, Ki Woo Kim, HyungGoo R. Kim, Hyung Jin Choi]
 year: 2024
@@ -117,3 +117,4 @@ GCaMP6s kernel 합성곱 후 raw photometry trace와 비교. AIC = N·ln(RSS/N) 
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — Predicted Deficit(Need)의 **공간 축**: 접근=predicted gain→AgRP↓, 이탈=predicted loss→AgRP↑. Need가 시간적 예측뿐 아니라 "먹이까지의 학습된 거리"로도 갱신됨을 시사 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts가 Need도 value도 아닌 **Motivation의 운동·각성 성분**을 표상한다는 대비 사례(VTA-DA의 value coding과 거의 반대 부호) (bioRxiv 2026).
+- [[gordon-2026-lateral-hypothalamic-control-of]] — LH^GABA/LH^Glut **비율(LHA^Ratio)** 이 섭취물 가치·valence를 연속축으로 추적하고 선조체 DA 지형을 인과 설정 → **Motivation 축의 회로 readout** 후보. LH^LepR(GABA 아집단)이 FR:Suc의 value-scaling을 나르는지가 검증 질문 (Neuron 2026, Stuber lab).

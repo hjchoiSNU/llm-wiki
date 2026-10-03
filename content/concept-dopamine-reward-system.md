@@ -194,3 +194,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[person-maze-ian]] — 도파민의 **후성유전 작용 축**(개월 시간척도)을 연 그룹.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 도파민 채널을 source·target이 아닌 **전달물질 정체**로 가르는 축. VGLUT2⁺ DA 뉴런의 빠른 시냅스 신호는 **CNQX-민감 글루타메이트**이고 표적은 NAc medial shell 한정 → '도파민이 무엇을 부호화하는가' 논쟁에 **일하는 물질이 도파민이 아닐 수 있다**는 항을 추가. 개념 [[concept-neurotransmitter-cotransmission]].
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 도파민 바깥의 동기 원천: 선택된 목표 자체가 만드는 **내재 보상(bonus)**·주의 필터·감시-임계값 알고리즘(인간 행동·계산 리뷰, 회로 자료 거의 없음).
+- [[gordon-2026-lateral-hypothalamic-control-of]] — 선조체 DA를 단일 broadcast가 아니라 **전후축 gradient**로 재정의: 전측=가치·이력, 후측=감각운동, TS=평행 채널. 각 subregion이 **국소 제어**되고(한 곳 방출이 다른 곳으로 전파 안 됨) LH^GABA/Glut 균형이 이를 인과 설정. DA는 섭취 **개시(bout 수)** 강화·지속은 비강화 (Neuron 2026, Stuber lab).

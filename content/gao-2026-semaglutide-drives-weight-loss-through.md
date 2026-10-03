@@ -2,7 +2,7 @@
 title: "Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons (Gao et al. 2026, Nature Metabolism)"
 type: paper
 created: 2026-05-31
-updated: 2026-08-19
+updated: 2026-10-03
 source: "raw/2026 Nat. Metab. (Krashes) Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
 authors: [Gao C, Geneve IC, Rodriguez-Gonzalez S, Li C, McElhern K, Reitman ML, Lutas A, Krashes MJ]
 year: 2026
@@ -76,3 +76,4 @@ journal: Nature Metabolism
 - [[davila-2026-agrp-neurons-are-required-for]] — 본 논문이 정의한 AP·Gs–cAMP **상류 입력**의 하류에서, 시상하부 **AgRP가 적응 대사반응(지방 동원·β₃-교감신경)을 실행**해야 체중 감량이 완성됨을 보임. 입력(AP) vs 실행(AgRP) 분업 (PNAS 2026, Horvath lab).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 유전학에서 **효능 신호와 오심 신호가 co-localize**(H4 96.6%) → 본 논문의 AP(혐오) vs NTS(non-aversive satiety) 분업이 실제로 **분리 가능한지**를 묻는 데이터 (Nature 2026).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 본 논문이 다루는 **체중 감소 기전의 반대편**: 체중과 무관하게 나타나는 장기 보호 작용 (Cell Metab 2026, Drucker).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ **NTS 역할 해석의 긴장(병기)**: 본 논문은 'AP에만 Gs를 보존해도 체중감량 회복·NTS Gnas 결손은 체중과 무상관'을 보였고, 저 preprint는 'Adcyap1^NTS 뉴런과 그 ARC/DMH 투사가 세마글루타이드 효과의 relay'라고 주장한다. 두 진술은 **층위가 다르다** — 여기서의 NTS는 **GLP-1R을 받는 세포의 Gs 신호**, 저쪽의 Adcyap1^NTS는 **AP GLP1R 하류의 회로 노드**(수용체 비의존). "NTS가 약물을 직접 감지하지 않아도 중계는 한다"가 현재 가장 단순한 봉합이나 **한 실험 안에서 검증되지 않았다** (bioRxiv preprint 2026).

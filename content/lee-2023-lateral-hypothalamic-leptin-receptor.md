@@ -111,3 +111,4 @@ journal: Nature Communications
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH 안의 Nts 집단과 세포타입 분업 대비: LH^Nts 침묵은 총 섭취를 바꾸지 않는다 (bioRxiv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat를 salience(혐오 열자극+음식 cue) ensemble과 value-scaled consumption(먹이+물) ensemble로 분해했다 (SNU 김성연 lab, Cell Rep 2026). ⚠️ 비교 주의: 이 논문의 caged-PB 흥분 뉴런 22%(70/319) 중 상당수는 heat에도 반응해 **food-specific이 아님** → 본 논문의 "LH GABA의 8%만 food-specific"과 양립 가능(대부분은 비특이 salience)하지만, 정의·대조 자극·자유행동 vs head-fixed가 달라 수치를 직접 비교할 수 없다. LepR seeking/consummatory subset이 두 ensemble의 분자 부분집합인지는 검증 과제(연결 가설).
+- [[gordon-2026-lateral-hypothalamic-control-of]] — LH^GABA가 FR:Suc에서 가치에 강하게 비례 scaling하고 전측 선조체 DA와 양의 결합. **이 value-scaling GABA 집단이 LH^LepR인지**가 직접 후속 질문(LepR-Cre dual-color 재현) (Neuron 2026, Stuber lab).

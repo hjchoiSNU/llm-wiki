@@ -2,7 +2,7 @@
 title: Glp1r/Lepr 공발현 뉴런에 의한 식이 억제와 비만 예방 (Rupp et al., 2023)
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2023 JCI Suppression of food intake by Glp1r Lepr-coexpressing neurons prevents obesity in mouse models.pdf
 authors: [Rupp AC et al. (Myers MG)]
 year: 2023
@@ -43,3 +43,4 @@ snRNA-seq로 발굴한, DMH에 집중된 보존적 GABA성 LepRb^Glp1r(Glp1r·Le
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — leptin×GLP-1 수렴점을 표적 회로 관점에 편입.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — 본 논문의 DMH LepRb^Glp1r 뉴런을 **Bnc2/Nkx2-4/Glp1r의 Ebf1형·Trh형·Tbx19형 3아형**으로 분해; DMH에서는 Ebf1형이 최다·Glp1r 최고 발현 (bioRxiv 2025).
 - [[crunkhorn-2025-pairing-up-with-glp-1]] — 본 논문이 정의한 **DMH LepR^Glp1r 집단을 그대로 표적**으로 삼은 GLP-1×렙틴 단일분자 이중작용제(Polex-Wolf et al. 원문의 2차 하이라이트). db/db에서 섭식 억제 실패·Glp1r 뉴런 특이 Lepr 결손 시 효과 약화로 이 세포집단 의존성을 주장.
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — DMH가 GLP-1 포만의 시상하부 노드라는 본 논문의 결론에 **상류 뇌간 입력**을 추가: 세마글루타이드 반응 NTS Adcyap1⁺→DMH 자극이 motivated feeding↓·AgRP Fos↓·EE↓ (bioRxiv preprint 2026).

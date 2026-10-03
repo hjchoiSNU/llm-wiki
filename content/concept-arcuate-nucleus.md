@@ -2,7 +2,7 @@
 title: Hypothalamic arcuate nucleus
 type: concept
 created: 2026-04-29
-updated: 2026-09-11
+updated: 2026-10-03
 aliases: [ARC, arcuate, arcuate nucleus]
 ---
 
@@ -113,3 +113,5 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — ARC 안에서 단식이 **AgRP 흥분성 입력은 올리고 POMC 입력은 내린다**(세포타입 특이 시냅스 가소성); ghrelin이 AgRP 전시냅스 말단에서 AMPK 양성 되먹임을 켜고, POMC 유래 오피오이드가 그것을 끄는 **ARC 내부 set/reset 회로** (Cell 2011, Sternson lab).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ARC^AgRP가 받는 흥분성 입력의 가소성이 **입력마다 다르다**: PVH^TRH는 전시냅스(방출 부위 수↑), DMH^Vglut2는 후시냅스(진폭↑). 체중 재증가에 필요한 것은 PVH^TRH 쪽뿐 (Cell Metab 2023).
 - [[concept-agrp-synaptic-plasticity]] — ARC 첫 번째 뉴런의 **시냅스 강도 조절** 층 개념 hub(배선·부호화와 구별되는 제3의 축).
+- [[wang-2026-a-hypothalamic-circuit-links]] — 만성 HFD가 ARC^AgRP를 feeding-locked로 모집해 **PVNCRH→LHAGlu** 장거리 회로를 켜고 불안-연합 과식을 구동. ARC가 섭식뿐 아니라 **정서 축의 출발핵**으로 기능하는 질병-맥락 조건 (Nat Commun 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ARC가 받는 **뇌간 입력의 대사 기능**: NTS Adcyap1⁺→ARC 광자극이 섭취 없이 **β-hydroxybutyrate↑·체중↓**(암기 chow 섭취는 억제 못 함, p=0.0741로 오히려 증가 경향)이고 단식 AgRP Fos를 억제. ⚠️ AgRP **활성**이 ketogenesis를 올린다는 Chen 2023과 방향이 어긋나 ARC 내 **AgRP 비의존 기전** 가능성을 남김 (bioRxiv preprint 2026).

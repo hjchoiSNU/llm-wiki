@@ -2,7 +2,7 @@
 title: "단식에 의한 AgRP 활성화는 NMDA 수용체를 필요로 하며 가시형성을 동반한다 (Liu 2012)"
 type: paper
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-10-03
 source: "raw/2012 Neuron. Fasting Activation of AgRP Neurons Requires NMDA Receptors and Involves Spinogenesis and Increased Excitatory Tone.pdf"
 authors: [Tiemin Liu, Dong Kong, Bhavik P. Shah, Chianping Ye, Shuichi Koda, Arpiar Saunders, Jun B. Ding, Zongfang Yang, Bernardo L. Sabatini, Bradford B. Lowell]
 year: 2012
@@ -80,3 +80,4 @@ AgRP 뉴런에서만 `Grin1`(NMDAR NR1 subunit)을 지우면 **체중·지방·�
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — Need 신호의 gain이 구조적으로(시냅스 수) 조절된다는 함의.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-agrp-synaptic-plasticity]] "분자 실행자" 절 — 본 논문이 확립한 **후시냅스 NMDAR 요구**가 하류 후보를 "후시냅스 Ca²⁺ 의존 키나아제"로 좁히는 구조적 제약이 된다. 그 자리에 CaMKII를 놓는 논증과 그 한계를 정리.
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — 본 논문이 확립한 **단식 유발 AgRP 활성**을 약리 판독으로 사용: 세마글루타이드와 NTS Adcyap1⁺→ARC/→DMH 광자극이 단식 AgRP `Fos`를 억제하며, Adcyap1^AP/NTS 삭제 시 그 억제가 사라진다 (bioRxiv preprint 2026).

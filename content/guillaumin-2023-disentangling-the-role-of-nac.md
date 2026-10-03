@@ -2,7 +2,7 @@
 title: "NAc D1·D2 세포의 쾌락적 섭식 역할 분리"
 type: paper
 created: 2026-06-20
-updated: 2026-09-21
+updated: 2026-10-03
 source: raw/2023 Molecular Psychiatry. Disentangling the role of NAc D1 and D2 cells in hedonic eating.pdf
 authors: [Guillaumin MCC, Viskaitis P, Bracey E, Burdakov D, Peleg-Raibstein D]
 year: 2023
@@ -38,3 +38,4 @@ year: 2023
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — NAc D1/D2 MSN subtype의 인간 분자·공간 정체.
 - [[concept-medium-spiny-neuron]] — D1/D2 MSN 개념 hub.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **동일 구획 SPN 부호의 상반 해석**: 본 페이지는 D2 세포 억제가 깊을수록 섭취 bout가 길어진다(머무름)고 보고하고, Mingote는 순 SPN 억제를 **과제 전환 신호**로 읽는다. 세포계열(D1/D2)·시간척도(수초 bout vs 버스트 유발 sub-second) 단서 없이는 양립 불가.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — 선조체 DA 자극은 **bout 수(wanting)** 만 강화, bout 길이(liking)는 안 늘림 → 본 페이지의 "bout 수=wanting, bout 길이=liking" lick microstructure 정의의 선조체 전역 대응. liking/지속은 비도파민(VP·LH^MCH 등) (Neuron 2026, Stuber lab).

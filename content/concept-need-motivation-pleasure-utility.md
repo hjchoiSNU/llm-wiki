@@ -252,3 +252,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ***Stay on task* ↔ *Switch task***를 Motivation 축의 행동 화폐 후보로 제시. NAc medial shell을 Pleasure 축으로만 배정하면 **같은 구획의 유연성·전환 기능**을 담을 자리가 없다는 점에 주의.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility(지연 결과)→Motivation(순간 구동) 변환의 알고리즘 후보: 추상 가치→구체 목표→기본 보상 신호라는 **동기 비계(scaffolding)**. "기본 보상(배고픔) 목표는 몰입 표지가 약해야 한다"는 예측 포함.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 섭취 반응이 Need(금식)와 영양가(농도)에 따라, Ex-4로 함께 감소. NMPU 곱셈 구조의 단일세포 검증 지표 후보(연결 가설; 원문은 3조건이라 상호작용 미판정) (Cell Rep 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — GLP-1RA 약리의 **phase 선택성**: 세마글루타이드 반응 NTS→ARC·→DMH 경로가 **정상 암기 chow 섭취는 보존**하면서 단식 재급식·초콜릿 폭식만 억제하고 AgRP(=Need) 활성을 낮춘다 → "약물이 Need/Motivation 증폭 단계를 깎는다"는 NMPU 좌표 후보(연결 가설; 원문은 NMPU 비언급) (bioRxiv preprint 2026).

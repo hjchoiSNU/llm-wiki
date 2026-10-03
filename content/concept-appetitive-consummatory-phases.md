@@ -109,3 +109,4 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[zhang-2026-inherited-input-and-local-transformations]] — pVLS dSPN ramping이 **appetitive→consummatory 전이 임계**의 후보 신호(drift-to-threshold; ramp 기울기 → licking 개시 시점) (bioRxiv 2026).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — appetitive(seeking) phase가 **유지되는** 시냅스 기전: NAc 2-AG → aPVT 말단 CB1R 역행성 억제 (Nature 2026).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat phase 분업의 단일세포 재해석: cue 반응(appetitive) 세포는 **혐오 열자극에도 반응하는 valence 무관 salience ensemble**이고, consummatory 세포는 먹이·물·고형식에 일반화되며 value에 따라 조절된다 (Cell Rep 2026). ⚠️ 위 표의 "LH^Vgat subset A(appetitive)"가 음식 특이가 아닐 수 있음 — 단 head-fixed 실험이라 자유행동 seeking은 미측정.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — multispout brief-access 과제로 consummatory 운동(licking)과 용액 가치를 분리; 섭취 DA가 후측→전측 시공간 gradient로 퍼지고, 선조체 DA는 **섭취 개시(bout 수)** 를 강화(지속은 비강화) (Neuron 2026, Stuber lab).

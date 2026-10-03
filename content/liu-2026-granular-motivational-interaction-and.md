@@ -110,3 +110,4 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — lateral NAc→VTA neurotensin이 비만 hedonic devaluation을 구동 (Nature 2025). 개념 [[concept-hedonic-devaluation]].
 - [[lee-2019-food-craving-seeking-and]] — 본 리뷰가 세분한 appetitive/consummatory 분해의 위키 내 원전(craving→seeking→consumption, 사용자 lab JOMES 2019); 종별 측정법 표와 human seeking 측정 공백 지적을 함께 볼 것.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — ⚠️ "LH^GABA = initiation만"과 긴장: LH^Vgat consumption ensemble은 섭취 10 s 내내 지속 반응하고 금식·농도·Ex-4에 따라 조절된다. maintenance 단계 표상을 시사한다(상관 관찰 vs 인과 분류 — 병기) (Cell Rep 2026).
+- [[gordon-2026-lateral-hypothalamic-control-of]] — "LH^GABA=feeding initiation hub, LH^Glut=brake"와 수렴: 선조체 DA가 섭취 **개시(bout 수)** 를 강화(지속은 비강화)하고, LH^GABA/Glut 균형이 그 DA 지형을 설정 (Neuron 2026, Stuber lab).

@@ -2,7 +2,7 @@
 title: 음성 강화 · Hyperkatifeia · 중독의 "dark side" (Koob)
 type: concept
 created: 2026-07-04
-updated: 2026-09-02
+updated: 2026-10-03
 aliases: [negative reinforcement, hyperkatifeia, dark side of addiction, hedonic allostasis, opponent process]
 ---
 
@@ -33,3 +33,4 @@ aliases: [negative reinforcement, hyperkatifeia, dark side of addiction, hedonic
 - [[concept-dynorphin-kappa-opioid]] — 본 프레임의 **dynorphin-KOR 축** 개념 hub. ⚠️ 화해 과제: 여기서 dynorphin은 확장편도의 **스트레스·불쾌 매개자**인데, [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]의 외측중격 dynorphin은 **맥락 학습의 매개자**다.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — 본 프레임을 **회로 모델에 흡수**한 리뷰. Koob의 확장편도체 축과 달리 **선조체·중뇌 좌표**(LHb→RMTg→VTA, BLA CCK⁺→D2-MSN, PVT→D2-MSN, D2-MSN→VP=[[concept-anhedonia|anhedonia]])를 제시하며, 음성강화를 양성강화와 **합산해** dorsalization→[[concept-compulsion|compulsion]]으로 잇는다.
 - [[concept-lateral-habenula]] — within-system 적응(보상계 hypofunction)의 회로 허브 개념 hub.
+- [[wang-2026-a-hypothalamic-circuit-links]] — 불안 상태 완화를 향한 과식(음성강화)의 **시상하부 CRH 축** 사례: 만성 HFD-취약군에서 PVNCRH가 불안+과식을 함께 구동하고, 항불안제로 과식이 줄어듦. 단 확장편도(CeA/BNST CRF) 대신 ArcAgRP→PVNCRH→LHAGlu 내부 회로 (Nat Commun 2026).

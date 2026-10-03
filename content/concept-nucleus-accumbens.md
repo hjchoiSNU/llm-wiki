@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -76,3 +76,4 @@ updated: 2026-09-21
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — NAc D2R-Penk MSN이 2-AG를 만들어 aPVT 입력을 역행성으로 깎는 gain control (Nature 2026).
 - [[concept-paraventricular-thalamus]] — NAc로 가는 최대 흥분성 입력원이자 CB1R 최다 공발현 구심.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 'VTA 도파민 입력'을 두 채널로 분해: **DA-GLU→medial shell 전용 / DA-only→lateral shell·core**(dorsal medial shell 회피). medial shell 국소회로(SPN·FSI·ChI)의 첫 기능 연결지도이며, 이후 '**NAc shell** 도파민'이라 쓸 때 medial/lateral 한정어가 필요해짐 (Neurochem Int 2019).
+- [[gordon-2026-lateral-hypothalamic-control-of]] — 전측 NAc(CR·CC·ShL)=섭취 가치·직전 이력 DA 채널; LH^GABA가 양·LH^Glut가 음으로 결합. ⚠️ Fig 3은 evoked DA가 subregion 간 거의 전파되지 않음을 보여 **spiraling connectivity(배쪽→등쪽 cascade)를 초 단위 시간척도에서 제한**(해부·학습 척도는 반박 아님) (Neuron 2026, Stuber lab).

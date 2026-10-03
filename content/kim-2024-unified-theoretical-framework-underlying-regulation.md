@@ -98,3 +98,4 @@ journal: "BioEssays e2400016"
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility→Motivation 변환의 알고리즘 후보(추상 가치→구체 목표→기본 보상 신호 비계).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat의 valence 무관 **salience** ensemble(Motivation 활성화 후보)과 금식×영양 농도에 따라 조절되는 **value-scaled consumption** ensemble(consummatory Utility 후보)의 분리 (Cell Rep 2026; NMPU 매핑은 연결 가설).
 - [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 유전학적 분해(연결 가설): 단일유전자 비만(leptin–melanocortin)=Need 축 결손, 흔한 polygenic 비만(insula·SN 농축)=Pleasure/Motivation 축 개인차 (Nat Metab 2026).
+- [[wang-2026-a-hypothalamic-circuit-links]] — PVNCRH를 **정서/스트레스 입력을 Need-Motivation 변환에 주입하는 modulator**로 읽는 연결 가설: 만성 HFD가 이 modulator를 상시 켜 AgRP(Need)→LHA(Motivation) 축을 불안으로 오염, anxiety-associated hyperphagia를 생성 (Nat Commun 2026).
