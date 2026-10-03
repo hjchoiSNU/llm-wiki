@@ -29,3 +29,4 @@ receptor-mediated transcytosis(RMT)를 이용해 대형분자 약물을 혈액�
 - [[liu-2025-gipr-ab-glp-1-peptide]] · [[concept-peptide-drug-conjugate]] — 접합·표적 전달.
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — 위키 내 유일한 CNS-침투 GLP-1RA 실물 사례(OHP2, caveolae 수송; 마우스 AD 전임상). RMT 셔틀과 다른 기전.
 - [[west-2025-are-glucagon-like-peptide-1]] — **셔틀 전략의 전제("기존 GLP-1RA는 뇌에 못 간다")를 부분적으로 약화시키는 서지 근거**(Neurol Ther 2025, 14편 종합): 전임상에서 liraglutide·semaglutide·exenatide의 BBB 통과가 보고된다. 단 기준이 다르다 — 이 논문의 근거는 **통과 여부(정성)** 이고 셔틀·OHP2 노선이 요구하는 것은 **피질·해마의 치료적 농도**다. ⚠️ 따라서 "침투를 무엇으로 입증할 것인가"(분자 도달·수용체 점유·회로 engagement·행동의 4층) 문제를 셔틀 종점 설계에 세워 두는 근거로 쓸 것. 전문 미입수 상태로 작성된 페이지.
+- [[concept-glp1ra-cns-access]] — RMT 셔틀이 **왜 대안으로 필요한가**를 약동학으로 정리한 hub: 현행 GLP-1RA는 CVO·tanycyte 우회로만 쓰고(Gabery 2020, *JCI Insight* 5:e133429), 아실화 펩타이드는 BBB 본체를 측정 가능하게 통과하지 못한다(Salameh 2020). 접근 요구가 가장 높은 적응증(피질·해마 신경보호)이 임상에서 실패한 구조도 함께.

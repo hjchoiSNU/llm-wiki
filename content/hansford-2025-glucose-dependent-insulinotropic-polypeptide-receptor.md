@@ -2,7 +2,7 @@
 title: 올리고덴드로사이트 GIPR 신호가 GLP-1R 작용의 체중감소 효과를 증강한다 (Hansford et al. 2025)
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2025 Cell Metabolism. Glucose-dependent insulinotropic polypeptide receptor signaling in oligodendrocytes increases the weight-loss action of GLP-1R agonism.pdf
 authors: [Hansford R et al. (Blouet C)]
 year: 2025
@@ -46,3 +46,4 @@ year: 2025
 - [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR **길항** 접합체의 중추 GIPR·GLP-1R 요구성과 CVO 경유 뇌 접근.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — "GIPR는 다수가 비뉴런(oligodendrocyte·pericyte)"이라는 발현 지도 상위 리뷰(본 논문과 정합).
 - [[concept-area-postrema]] — BBB 밖 CVO 직접 노출이라는 또 다른 뇌 접근 경로.
+- [[concept-glp1ra-cns-access]] — 본 논문의 **OL GIPR→VEGF-A→ME 혈관 fenestration**을 tanycyte transcytosis(Imbernon 2022)·CVO 직접 확산과 나란히 놓은 **접근 경로 경쟁 기전** 정리. 함께 묶이는 미해결 질문: "BBB를 통과하지 않는 tirzepatide가 왜 더 강한가 — 접근 증강인가 추가 회로인가".

@@ -8,6 +8,28 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 — ingest + query (GLP-1RA 중추 접근 / BBB 침투)
+
+사용자 지시: West 2025 narrative review 추가 ingest + "glp-1 drug bbb penetration 관련 조사". ⚠️ **이 세션의 egress 프록시가 논문 호스트 전부를 차단**(link.springer.com·doi.org·PMC·Europe PMC·jci.org·cell.com·nature.com·Crossref 등 `EGRESS_BLOCKED`). WebSearch만 작동 → **웹 문헌은 모두 검색 요약 기반이며 1차 원문 미열람**. 두 페이지 모두 상단에 근거 수준 고지 박스를 넣고 문장별로 표기했다. **후속: `raw/`에 West 2025(+2025 Correction doi:10.1007/s40120-025-00758-2) · Secher 2014 · Gabery 2020 · Salameh 2020 · Imbernon 2022 · Christensen 2015 PDF 확보 후 (B)·(C) 칸 교체 필요.**
+
+**새 페이지 2**
+- [[west-2025-are-glucagon-like-peptide-1]] — Neurol Ther 14(4):1157–1166, doi:10.1007/s40120-025-00724-y; McIntyre 그룹. 14편 narrative review. **(A 초록 수준)** 전임상은 liraglutide·semaglutide·exenatide의 BBB 통과를 지지하나, 인간 근거는 **뇌 연결성 변화라는 간접 대리지표**이고 최종 결론은 "select GLP-1RA는 침투하나 **정신병리 차원을 떠받치는 신경 표적을 재현적으로 engage하는지는 미규명**". ⚠️ 전문 미입수 — 정량 침투 비교는 본 논문이 아니라 [[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[fang-2025-glucagon-like-peptide-1-medicines]]를 인용할 것.
+- [[concept-glp1ra-cns-access]] — ★ **GLP-1RA 중추 접근 4층 개념 hub**(232행). 위키 내 55개 페이지의 BBB 언급 + 웹 1차 문헌을 통합.
+
+**핵심 정리 — "BBB를 못 넘는다"와 "중추에서 작동한다"가 둘 다 맞다**
+- **4층 경로**: ① CVO(AP·NTS 일부·SFO·OVLT·ME) ② **tanycyte transcytosis**(ME→MBH) ③ BBB 본체(내피 adsorptive transcytosis) ④ 미주 간접(약물 진입 아님).
+- **BBB 본체를 실제로 통과하는 것은 비아실화 펩타이드뿐**: exendin-4·lixisenatide·Peptide 17·DA3-CH (Salameh/Rhea/Banks 2020, multiple-time regression Ki + capillary depletion). **아실화 장기작용 펩타이드(liraglutide·semaglutide)는 같은 실험에서 측정 가능한 influx 0** — 즉 **임상 비만 약리의 주류는 사실상 "뇌실주위기관 전용 약물"**이고, 그 아래는 회로 중계로 퍼진다.
+- **인간 CSF:plasma는 세 자릿수로 갈린다**: liraglutide 0.02%(Christensen 2015, n=8 — **CSF 농도–체중감소 무상관 P=0.69**) ≪ semaglutide ≈0.4% < exenatide 1.4–2.1%. 비교: 소분자 CNS 약물 >5%. 단 **CSF는 parenchyma 대리지표로 체계적으로 틀린다**(choroid plexus GLP-1R, plasma–CSF 무상관).
+- **"소분자 = 뇌투과"는 측정값과 충돌**: orforglipron rat brain/plasma·CSF/plasma = **0.0078**(펩타이드 동급). danuglipron의 CeA 직접 작용 근거는 humanized `Glp1r^S33W` 대조이고 농도 측정이 아님 → **'penetrant'를 농도로 정의하면 음성, 회로 동원으로 정의하면 양성** (인용 시 기준 명시 필요).
+- **접근성은 상수가 아니다**: 저혈당이 진입을 늘리고(tanycyte VEGF-A), **비만·고지방식이 그 gating을 끊는다**(Bakker/Imbernon 2022). 지질화는 Ex-4의 CNS 접근을 늘린다.
+- **행동 효과의 접근 요구 사다리**: 오심·CTA·체중감량 = CVO만으로 충분 → 혈당·항상성 섭취 = ME/tanycyte → hedonic·동기 = 심부(중계 또는 소분자) → **신경보호(피질·해마) = 설명되는 경로 없음**. 임상 확립 효과는 모두 최하단, 실패 적응증(증상성 AD)은 최상단 (연결 가설 — 병기·용량 등 경쟁 설명 미배제).
+
+**⚠️ 충돌 8건 병기** (개념 hub의 ⚠️ 절) — ① **시상하부 효과: 직접 진입([[concept-tanycytes]] Imbernon 2022 "차단만으로 전부 소실") vs 뇌간 중계([[gao-2026-semaglutide-drives-weight-loss-through]] "AP만으로 체중감량 전량 회복") vs 상행 중계([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]])** — 양쪽 모두 "거의 전부"를 주장하므로 둘 다 100%일 수 없고, 상대 약물에서 재현한 실험이 없다. ② Gao 2026 ↔ Blid Sköldheden 2026(NTS = 접근 부위가 아니라 중계 부위이면 **분포 지도 ≠ 효과 지도**). ③ tanycyte 경로의 크기 vs [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] OL GIPR→VEGF-A 혈관 fenestration. ④ liraglutide/semaglutide 통과 여부 — **방법이 결론을 가른다**(전신 ELISA 양성 / Ki+capillary depletion 음성 / 형광 영상은 CVO 양성·parenchyma 음성). ⑤ 소분자 'penetrant' 정의 충돌. ⑥ dulaglutide(Rhea 2024 측정 가능 ↔ West 2025 미침투; 63 kDa 방사표지 단편 혼입 의심 — 연결 가설). ⑦ 뇌 GLP-1R 세포종류([[du-2026-oral-glp1-receptor-agonist-promotes]] 성상교세포 우세 ↔ [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] 뉴런 우세). ⑧ AP 귀속(혐오 전담 ↔ 효능 본체) → **AP는 BBB 밖이라 분포로 피할 수 없고, "AP 회피 약물"은 신호·세포종류 선택성으로만 가능**.
+
+**갱신 ~20** — [[concept-glp-1]] · [[concept-tanycytes]] · [[concept-blood-brain-barrier-shuttle]] · [[concept-area-postrema]] · [[concept-dorsal-vagal-complex]] · [[concept-glp1-neuroprotection]] · [[concept-dorsomedial-hypothalamus]] · [[concept-central-amygdala-glp1r]] · [[gao-2026-semaglutide-drives-weight-loss-through]] · [[du-2026-oral-glp1-receptor-agonist-promotes]] · [[kim-2025-mechanisms-of-glucagon-like-peptide]] · [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] · [[bae-2019-glucagon-like-peptide-1-receptor]] · [[fang-2025-glucagon-like-peptide-1-medicines]] · [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] · [[dolgin-2026-brain-shuttle-biologics-chart-new]] · [[proposal-dmh-glp1r-human-imaging]] · [[index.md|wiki/index.md]](💡 창약/CNS 전달에 개념 hub, GLP-1/GIP incretin에 서지 노드 등재; 총 511).
+
+**사용자 연구 함의(연결 가설)**: ① [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]]의 DMH GLP-1R 기전은 **말초 투여 약물이 DMH에 닿는지**가 전제 — tanycyte 경유는 ME 인접 MBH까지이고 DMH 도달은 위키 내 근거가 없다 → [[proposal-dmh-glp1r-human-imaging]]에서 "국소 수용체 vs 상행 입력" 분리 설계가 필수. ② 비만이 tanycyte gating을 끊는다면 **약물 반응 변이**의 접근 수준 기전 후보([[concept-glp1ra-response-variability]]). ③ hedonic·동기 효과(CeA·VTA·NAc)는 현 분포 자료로 직접 접근이 설명되지 않으므로 **중계 회로가 기본 가설**이어야 한다.
+
 ## 2026-10-03 — ingest + synthesis (LH 문헌 28편 일괄 + 심화 종합)
 
 사용자 지시: "다른 lateral hypothalamus 관련 여러 논문들, Mark Rossi 논문들, 우리 연구실 논문들 … 등 모두 고려해서 심화 분석해서 내용 정리". 클라우드 세션(로컬 `raw/` 없음) — Google Drive에서 원문을 직접 읽어 정리. **각 페이지 `source:`는 관례대로 `raw/<Drive 파일명>`으로 기재했으나 실제 `raw/` 복사는 로컬에서 필요.**

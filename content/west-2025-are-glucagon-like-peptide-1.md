@@ -98,6 +98,8 @@ GLP-1RA의 CNS 침투 근거를 14편으로 종합한 narrative review로, **전
 - **이 페이지 자체의 신뢰도 한계** — 위 모든 긴장 서술은 **이 논문의 초록 수준 진술**에 대한 것이다. 전문의 표·본문이 더 정교한 구분(예: 약물별 정량 기준, CVO vs BBB 구분)을 이미 담고 있을 가능성이 높으므로, **전문 입수 시 이 절 전체를 재작성**해야 한다.
 
 ## 관련 페이지
+
+- ★ [[concept-glp1ra-cns-access]] — **GLP-1RA 중추 접근 4층 개념 hub**(CVO·tanycyte·BBB 본체·미주 간접). 본 논문의 'CNS penetrant' 이분법을 경로별로 분해하고 약물별 1차 증거(Salameh 2020 Ki·Gabery 2020 영상·Imbernon 2022 tanycyte·인간 CSF:plasma 0.02–2.1%)를 정리한 페이지. **정량 비교는 이 논문보다 그쪽을 인용할 것.**
 - [[concept-glp-1]] — GLP-1/GLP1R 작용 hub. 이 논문은 그 hub의 "BBB — 대상을 구분할 것" 항목에 **서지 노드 하나를 추가**(전임상 통과 긍정 쪽). ⚠️ 정량 서술(CSF 1/100 등)은 이 논문이 아니라 Fang·Sabbagh·Gao를 인용할 것.
 - [[concept-blood-brain-barrier-shuttle]] — RMT 셔틀 개념 hub. 이 논문이 제기한 "침투 입증의 기준" 문제는 셔틀 기술의 종점 설계에 직결.
 - [[concept-tanycytes]] — 정중융기·3V 관문 세포. "BBB 통과"와 "CVO 접근" 사이의 제3 범주(liraglutide tanycyte 수송, Imbernon 2022).

@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 510 (+ index.md, log.md)
+- 총 페이지: 511 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -531,6 +531,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-glucagon-receptor-agonism]] · [[concept-amylin-receptor-agonists]] — 비-GLP-1 파트너 약물 클래스(EE·포만)
 - [[concept-peptide-drug-conjugate]] · [[concept-blood-brain-barrier-shuttle]] — 조직특이·CNS 표적 전달
 - [[concept-de-novo-protein-design]] · [[concept-ai-drug-discovery]] — AI 리간드 설계·타깃 발굴
+- ★ [[concept-glp1ra-cns-access]] — **GLP-1RA 중추 접근 4층 hub**(CVO·tanycyte·BBB 본체·미주 간접): 약물별 접근 증거 표(exendin-4·lixisenatide만 BBB 본체 통과 / liraglutide·semaglutide는 CVO+tanycyte 한정 / tirzepatide 미통과 / 소분자도 농도 기준 0.0078로 펩타이드 동급), 인간 CSF:plasma 0.02–2.1%, "어느 행동 효과가 어떤 접근을 요구하나" 귀속 사다리, 충돌 8건 병기. 서지 노드는 [[west-2025-are-glucagon-like-peptide-1]].
 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]

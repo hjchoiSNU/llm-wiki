@@ -39,3 +39,4 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[concept-gdf15-gfral-axis]] — AP/NTS 한정 수용체 GFRAL과 그 리간드 GDF15(지질·metformin 유래)의 개념 hub.
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — AP GLP1R 하류의 **NTS Adcyap1⁺ 집단**(AP 내 Adcyap1⁺는 소수)이 ARC·DMH로 올려 보내는 상행 축을 기능적으로 해부. AP를 '감지', Adcyap1^NTS를 '중계'로 배치하는 모델 (bioRxiv preprint 2026).
 - [[west-2025-are-glucagon-like-peptide-1]] — AP가 "BBB를 통과하지 않고도 작용하는" 경로인 반면, 이 리뷰(Neurol Ther 2025, 14편)는 **전임상에서 liraglutide·semaglutide·exenatide의 BBB 통과 자체는 보고된다**고 적는다. ⚠️ 두 진술은 종점이 다르다(분자 검출 vs 효과의 필요성) — [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 'AP Gs 보존만으로 체중감량 전량 회복'과 **같은 문장에서 비교하지 말 것**. 봉합: 통과하더라도 체중감량의 지배 경로는 CVO일 수 있다(병기). 전문 미입수 상태로 작성된 페이지.
+- [[concept-glp1ra-cns-access]] — AP를 GLP-1RA 중추 접근 **①층(CVO)** 의 핵심 관문으로 배치. 설계 함의: **AP는 BBB 밖이라 어떤 GLP-1RA든 반드시 닿으므로, 'AP를 피하면서 효능을 유지하는 약물'은 분포가 아니라 biased agonism·세포종류 특이 전달로만 가능**하다.
