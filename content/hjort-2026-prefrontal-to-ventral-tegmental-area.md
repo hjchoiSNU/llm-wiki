@@ -48,6 +48,8 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 
 ## 관련 페이지
 - [[stuber-2025-the-neurobiology-of-overeating]] — 동일 senior author(Stuber); mPFC·VTA·보상 회로 관점 공유.
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — 동일 lab·**공저자 중복**(본 논문 제1저자 M.M. Hjort가 공저, 통계는 같은 D. Witten 그룹, GLM 유의성 검정에 본 논문의 **circular-shift permutation**을 차용). 역할 분담으로 읽으면: Hjort 2026 = 피질이 **언제** 도파민 gain을 바꾸는가(meta-RPE), Gordon 2026 = 시상하부가 **어디에** 도파민을 배치하는가(전후축 지형) (Neuron 2026).
+- [[person-stuber-garret]] — 교신저자 인물 hub.
 - [[concept-dopamine-reward-system]] — VTA DA·RPE의 핵심 hub; 본 논문은 mRPE 변형 제시.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — "도파민 ≠ 순수 RPE" 논쟁; mRPE가 구체적 대안.
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — RPE 이론 재정식화 논의와 직접 대비.

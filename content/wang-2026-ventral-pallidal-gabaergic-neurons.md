@@ -2,7 +2,7 @@
 title: "Ventral pallidal GABAergic neurons control hedonic feeding and obesity (Wang 2026)"
 type: paper
 created: 2026-06-30
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2026 bioRxov (Kravitz) Ventral pallidal GABAergic neurons control hedonic feeding and obesity.pdf
 authors: [Wang "...", Creed M, Kravitz AV]
 year: 2026
@@ -57,3 +57,4 @@ year: 2026
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-consumption-vigor]] — 본 논문이 쓴 **핥기 bout 길이** 지표가 속한 개념. 위키 정의상 vigor는 **Motivation(wanting)의 행동 출력**이며 '좋아함'의 직접 측정이 아니다. 폐루프 광유전으로 bout를 연장한 것은 vigor의 드문 **회로 인과 검증** 사례.
 - [[concept-appetitive-consummatory-phases]] — VP^GABA가 붙는 국면은 소비(consummatory) 쪽.
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **상보·긴장**: 본 논문의 VP^GABA 폐루프 자극은 **bout를 연장**(유지)하는 반면, 선조체 도파민 폐루프 자극은 **bout 수(개시)만 늘리고 bout당 lick은 늘리지 않는다**(DMS·DLS 말단 자극은 오히려 감소). 두 회로가 [[concept-consumption-vigor|소비 vigor]]의 **서로 다른 성분**을 담당한다는 가설이 성립한다 (Neuron 2026, Stuber lab).

@@ -2,7 +2,7 @@
 title: Separate circuitries encode the hedonic and nutritional values of sugar
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-03
 source: raw/2016 NN Separate circuitries encode the hedonic and nutritional values of sugar.pdf
 authors: [Tellez LA, Han W, Zhang X, Ferreira TL, Perez IO, Shammah-Lagnado SJ, van den Pol AN, de Araujo IE]
 year: 2016
@@ -32,3 +32,4 @@ year: 2016
 - [[grove-2022-dopamine-subsystems-track-internal]] — 도파민 하위계의 내부 대사상태 추적(상보).
 - [[person-friedman-jeffrey]] — de Araujo lab 계열 대사·섭식 보상 연구.
 - [[concept-medium-spiny-neuron]] — D1r MSN(VS/DS) 세포 표적.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — **접점(인과 아님)**: 섭취량이 같은 10% sucrose vs 20 mM saccharin 비교에서 **DMS·DLS 도파민이 무칼로리 saccharin에서 더 낮았고**(반대로 NAcCR·NAcCC·NAcShL은 더 높았다) — 본 논문의 "DS=영양 / VS=미각" 방향과 정합적이다. 단 Gordon의 측정은 **섭취 3초 내 구강 단계**라 post-ingestive 기전으로 설명할 수 없다 (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].

@@ -8,6 +8,43 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-03 — ingest (5편: Jeong 2022 ANCCR · Thorens 2024 GLP-1R · West 2025 GLP-1RA CNS 투과 · Lee 2026 LH GABA ensemble · Gordon 2026 LHA→선조체 DA)
+
+"ingest" 트리거. `raw/` vs `source:` 대조로 미정리 4편(10-03 19:21 투입: Thorens 2024·West 2025·Lee 2026·Gordon 2026)을 찾았다. `wiki/` 점검에서 PDF 7개도 발견했다. 그중 **Jeong 2022 Science**(`2022 Science (정희정) Mesolimbic dopamine release conveys causal associations.pdf`)는 `raw/`에 없어 같은 이름으로 복사했다(md5 `759ff201…` 일치). 나머지 6개는 위 3편의 중복 사본(` 1`/` 2` 포함)이며 모두 `raw/` 원본과 md5가 일치했다. 7개 모두 wiki/에서 삭제했고, wiki/는 다시 `.md` 전용이다. 다른 미참조 raw 파일(Dong 2025·Gao 2026·Godschall 2026·Walker 2026·Roh 2021 등)은 `source:` 문자열만 달랐고 이미 정리돼 있었다.
+
+**새 페이지 9**
+- 논문: [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] · [[gordon-2026-lateral-hypothalamic-control-of-the]]
+- 개념: [[concept-anccr]](회고적 인과 학습 hub) · [[concept-glp1ra-cns-penetrance]](GLP-1RA 뇌 도달 6경로 × 증거등급 × 약물) · [[concept-striatal-dopamine-gradient]](선조체 DA 공간 분업·후→전 파동)
+- 인물: [[person-stuber-garret]](위키 내 원저 2 + 리뷰 1 + 공저 1)
+
+**핵심 내용**
+- **Jeong 2022(ANCCR 원전)**: 무예측 sucrose를 반복할수록 NAc 보상 DA가 **증가**했고(t(7)=4.40), 직전 IRI와는 **양의 상관**을 보였다. 둘 다 RPE와 반대 방향이다. cue DA는 행동 학습보다 먼저 생겼다. 행동 소거 후에도 cue DA는 남았지만, contingency degradation에서는 더 빨리 감소했다. trial 내 backprop은 없었다. raw PDF에는 보충자료가 없어 ANCCR 정식 수식은 "자료 없음"으로 표기했다.
+- **Thorens 2024**: 1993년 인간 GLP-1R 클로닝(463 aa; cAMP EC50 GLP-1 93 pM / exendin-4 33 pM; exendin-(9-39) = full antagonist). 이후 30년간 다섯 갈래로 이어졌다:
+  - 약리
+  - 편향 신호: β-arrestin에서 멀어진 리간드 → 표면 유지
+  - 인간유전: Gs 공역 강도가 변이 효과크기를 예측
+  - cryo-EM: tirzepatide-GLP-1R ≈ GLP-1 결합형
+  - exendin 기반 화학 probe
+  - 남은 공백: 뉴런의 GLP-1R trafficking은 사실상 연구되지 않았다.
+  - raw는 5쪽 commentary뿐이고 1993 원논문은 재수록되지 않았다. 1993 수치는 모두 commentary가 인용한 값이다.
+- **West 2025**: 설치류 뇌 유입속도는 exendin-4 0.4231 > lixisenatide 0.3271 μL/g-min이고, **liraglutide·semaglutide는 유의한 측정값이 없었다**. acylation·albumin 결합은 BBB 투과에 불리하다. 인간 직접 증거는 PD 환자 exenatide CSF ≈ 혈청 1–2% 한 건뿐이고, 나머지는 fMRI 등 간접 proxy다. 진입 기전(수동확산 vs 수용체 매개)은 판정되지 않았다. dulaglutide·tirzepatide의 투과 데이터는 없다.
+- **Lee 2026(SNU 김성연 lab)**: LH^Vgat 종단 2P 결과, 혐오 열자극과 먹이 cue에 함께 반응하는 **salience ensemble**(pupil 결합, 중립 tone에는 미동원)과, 먹이·물·고형식에 일반화되는 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 100 μg/kg 감쇠, jaw 통제 후에도 유의)이 분리됐다. Cal-Light(Cre 비의존) 태깅 투사(DBB·VTA·DRN·PAG·periLC)로는 두 집단이 정성적으로 구분되지 않았다. 인과 조작은 없다.
+- **Gordon 2026(Stuber lab)**: 소비 중 LHA^GABA는 가치에 양의 방향으로, LHA^Glut는 혐오 용액에서 음의 방향으로 스케일된다. 두 활동의 비가 선조체 전후축 DA 지형을 인과적으로 설정한다(GABA → 전방 NAc DA↑ / Glut → 전반 DA↓·TS DA↑). DA는 **후→전 파동**으로 전개되며, 아구역 간 전파는 없다(초 단위 spiral 불성립). DA는 핥기의 **개시를 강화하지만 유지는 강화하지 않는다**.
+
+**갱신** — 기존 페이지 약 75개에 역방향 링크를 넣었다(일부는 본문에 원전 대조 문단 추가, `updated:` 갱신). 주요 hub: [[concept-dopamine-reward-system]] · [[concept-lateral-hypothalamus]] · [[concept-glp-1]](§ 수용체 분자 프로필 신설) · [[concept-nucleus-accumbens]] · [[concept-consumption-vigor]] · [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]] · [[concept-blood-brain-barrier-shuttle]] · [[concept-biased-agonism]] · [[concept-glp1-neuroprotection]] · [[proposal-lh-nac-nmpu-neuron-discovery]] · [[index.md|wiki/index.md]](🎯 새 소절 "진영 — 회고적 인과 학습 (ANCCR)", 🎯 Heterogeneity, 🍽️ 회로·세포, GLP-1/GIP incretin, 💡 창약·CNS 전달/보상·정서 조절, 👤에 등재; 총 482페이지).
+
+**★ 위키 내 충돌·긴장 (새 페이지 ⚠️ 절에 병기, 기존 주장 덮어쓰지 않음)**
+- ANCCR 요약의 단순화·과장: [[adam-2026-dopamine-takes-hit-how-neuroscience]]·[[concept-dopamine-reward-system]]의 "보상 burst가 cue를 거꾸로 검색"(실제 역방향 탐색은 eligibility trace의 일) · [[hamid-2016-mesolimbic-dopamine-signals-value-work]]의 "forward 학습 부정"(원전은 PRC→SRC Bayes 변환) · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]]의 ramp 결정실험 · [[luscher-2021-consolidating-the-circuit-model-for]]의 "예측된 자연보상 DA 감쇠"(cue 예측 시에 한정).
+- [[concept-lateral-hypothalamus]]·[[cheon-2025-lateral-hypothalamus-and-eating-cell]]의 "LH GABA = palatability, calorie 아님" vs Lee 2026 위내 먹이 반응(IO와 r = 0.40 겹침). 서지 메모: 위키는 "Garcia 2021", Lee 2026 참고문헌은 Garcia 2020 Front Neurosci 14:608047.
+- [[lee-2023-lateral-hypothalamic-leptin-receptor]](사용자 lab): food-specific 8%는 먹이 vs 레고 축이고 Lee 2026은 모달리티 일반화 축이라 직접 모순은 아니다. seeking/consummatory 분리는 **수렴**한다.
+- [[jia-2026-novelty-exploration-activated-ensemble-in]]: 집단 광도측정의 양가 hub가 단일세포 ensemble 둘의 합일 수 있다.
+- GLP-1RA 뇌 도달: [[thorens-2024-building-the-glucagon-like-peptide-1-receptor|Thorens]]의 "readily access" vs West의 "유입 측정 불가". CVO·tanycyte 우회로 양립 가능하다. semaglutide 작용 부위는 West(ARC) vs [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]](AP) vs [[davila-2026-agrp-neurons-are-required-for|Davila 2026]](AgRP 모집)로 갈린다. liraglutide 뇌 유입은 리뷰 내부에서도 충돌한다(Salameh vs Hunter & Hölscher).
+- 선조체 DA: luscher-2021의 spiral/dorsalization에 시간척도 단서가 필요하다. 물 보상 DA 표적(grove-2022 DS vs Gordon 전방·복측)은 측정창 차이다. consumption vigor는 **개시/유지 2성분**으로 분해해야 한다(Gordon vs [[wang-2026-ventral-pallidal-gabaergic-neurons|Wang 2026]] vs [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through|Marcus 2026]]).
+
+**진행 메모**: Lee 2026 담당 agent가 작성 도중 중단돼 페이지가 "결과 8"에서 잘렸다. coordinator가 원문(Discussion·Figure S7·Methods)을 확인해 나머지 절(Cal-Light·저자 해석·한계·연결 가설·⚠️·관련 페이지)과 역방향 링크 15개를 완성했다. `concept-lh-gabaergic-neurons` hub는 만들지 않았다.
+
+**보류·제안(생성 안 함)**: person-namboodiri-vijay(원저 1편) · person-kim-sung-yon(원저 1편; [[lim-2026-hypothalamic-pomc-neurons-regulate|Lim 2026]] 교신은 김민선) · person-thorens-bernard · person-mcintyre-roger · concept-lh-gabaergic-neurons(LH GABA 서술 약 50쪽에 분산) · concept-tail-of-striatum · concept-ohrbets-brief-access-task · concept-glp1r-chemical-probe. 원전 추가 후보: Jeong 2022 보충자료(ANCCR 수식), Amo 2022, Kim 2020 Cell(ramp), Jung 2022 Neuron(LH 열 처벌/보상 ensemble).
+
 ## 2026-09-22 — ingest (Holton·Niv·O'Reilly 2026 Trends Cogn Sci — 고집스러운 목표의 적응 가치)
 
 "ingest" 트리거. `raw/` 전수 대조(파일 343건 vs 위키 `source:` 고유값 298) 결과 **미정리 논문 PDF 0건**. 대신 사용자가 `wiki/`에 넣은 `The adaptive value of stubborn goals.pdf`(2026-09-22 10:17 투입)를 발견 → 09-21 선례대로 `raw/`에 같은 이름으로 복사(md5 `a8014c34…` 일치 확인) 후 wiki/ 사본 삭제. wiki/는 다시 `.md` 전용.

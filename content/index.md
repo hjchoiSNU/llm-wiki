@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 473 (+ index.md, log.md)
-- 마지막 갱신: 2026-09-22
+- 총 페이지: 482 (+ index.md, log.md)
+- 마지막 갱신: 2026-10-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -158,6 +158,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 통합하는 general salience hub; opioid 비의존 진통·항불안, cell-type(GABA·Glu)·투사(LPO·LHb·VTA·LPAG)별 분업 (Nat Commun 2026, Zhou lab; 사용자 Cheon 2025 인용).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 종단 2광자 단일세포 추적: 혐오 열자극 + 먹이 cue 공유 **motivational salience ensemble** vs 먹이·물·고형식 일반 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 감쇠); Cal-Light 투사로는 두 집단 미분리 (Cell Rep 2026, SNU 김성연 lab).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^GABA(가치 양의 scaling)·LHA^Glut(혐오 용액에서 음의 scaling) 비가 소비 중 선조체 도파민 지형을 설정; DA는 lick bout **개시**를 강화 (Neuron 2026, Stuber lab). _(본 항목은 🎯 Heterogeneity에)_
 - [[faour-2025-emerging-role-of-agrp]] — AgRP integrator (Luquet lab).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (Quarta·Cota).
 - [[littleton-2025-from-identity-to-function-unveiling]] — HypoMap·인간 atlas (Yeo lab).
@@ -514,6 +515,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-edison-paul]] — GLP-1 유사체 신경퇴행 repurposing 임상(ELAD liraglutide-AD) 총괄; FDG-PET·MRI 영상 바이오마커. Imperial College London.
 - [[person-wassum-kate]] — BLA 글루타메이트 생체센서·OFC→BLA 투사로 상태의존 reward value 부호화/인출 분해; liking≠wanting 회로. UCLA.
 - [[person-soden-marta]] — LH·VTA 신경펩타이드(neurotensin) 회로와 섭취·동기 행동. University of Washington.
+- [[person-stuber-garret]] — UW. LHA^GABA→VTA / LHA^Glut→LHb 구도를 세운 그룹; 2026년 **LHA GABA/Glut 비 → 선조체 도파민 지형**으로 확장. OHRBETS 오픈소스 행동 플랫폼. 사용자 lab NMPU를 Neuron 2025 리뷰에서 인용.
 - [[person-lammel-stephan]] — mesolimbic 회로 이질성; **NAc 아구역(lateral shell)→VTA** 투사의 기능 분업과 NAc 기원 neurotensin의 hedonic feeding 매개. UC Berkeley.
 - [[person-kroemer-nils]] — gut-brain(ghrelin·insulin·vagus)×보상×우울증 인간 통합 연구. Bonn / Tübingen.
 - [[person-nord-camilla]] — 계산정신의학·interoception·대사–정신건강(glucose·insulin→보상/동기/기분); effort-DM 표현형. Cambridge MRC CBU.
@@ -630,6 +632,8 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA cellular heterogeneity 종합 (NRN 2017).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ★ 위 표의 **실험적 정밀화이자 부분 반박**. INTRSECT(TH-Flp;VGLUT2-Cre)로 **DA-GLU ~31% / DA-only ~71%** 분리: **내측 VTA(IF·CLi·PN)→NAc medial shell 전용** vs **PBP→lateral shell·core**(dorsal medial shell 회피). medial shell에서 최강 시냅스 표적은 SPN이 아니라 **[[concept-striatal-cholinergic-interneuron|ChI]]**(수 배 EPSC, CNQX 민감) → ChI 동기화 → nAChR → **SPN 순 억제** → 투사영역 탈억제. 행동은 소거·잠재억제 등 **유관성 변화 시의 전환**(*Stay on task* ↔ *Switch task*). 개념 [[concept-neurotransmitter-cotransmission]] (Neurochem Int 2019, Rayport·Chuhma). ⚠️ 핵심 캐스케이드는 저자 명시 **가설**.
 - [[lee-2024-feature-specific-prediction-error]] — DA의 feature-specific prediction error (NN 2024).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **LHA^GABA/Glut 활동의 비(ratio)가 선조체 전후축 도파민 지형을 인과적으로 설정**(GABA=전방 NAc DA↑ / Glut=전반 DA↓·TS DA↑); 소비 중 DA는 **후→전 파동**(전방=가치·이력 / 후방=감각운동), 아구역 간 전파 없음; DA는 핥기의 **유지가 아니라 개시**를 강화 (Neuron 2026, Stuber lab). 개념 hub [[concept-striatal-dopamine-gradient]] · 인물 [[person-stuber-garret]]. _(LH 회로는 🍽️에도)_
+- [[concept-striatal-dopamine-gradient]] — **선조체 도파민은 단일 broadcast가 아니다**: 전후·내외·배복 축별 기능 분업(전방·복측=가치·이력 / 후방·배측=감각운동 / TS=위협 평행채널), 후→전 파동, 국소 조립 vs spiral 전파의 시간척도 쟁점 + 설계·해석 체크리스트.
 - [[huang-2024-dopamine-mediated-interactions-between-short]] — Drosophila MB voltage-imaging, STM↔LTM gating, paradoxical extinction (Nature 2024).
 - [[grove-2022-dopamine-subsystems-track-internal]] — VTA DA의 자원별 sub-system, LH→VTA water reward (Nature 2022, Knight lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 전담 (bioRxiv 2025, Knight lab).

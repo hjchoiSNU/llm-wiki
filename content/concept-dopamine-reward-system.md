@@ -143,6 +143,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — flavor-nutrient는 left aBLA DA 매개.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — primary/proxy/secondary RL framework.
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — mPFC↔VTA DA가 contingency degradation을 meta-RPE(RPE의 rolling-gain)로 표상·구동 (Nature 2026).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — **"단일 보상 broadcast" 가정에 대한 공간적 반례**. 소비 중 선조체 도파민은 전후축을 따라 기능이 갈리고(전방=가치·이력 / 후방=감각운동 / TS=평행 채널), **후→전 파동**으로 전개되며, **한 아구역의 방출이 다른 아구역을 끌어올리지 않는다**(초 단위에서 striato-nigro-striatal spiral 불성립). 상류는 [[concept-lateral-hypothalamus|LHA]] GABA/Glut 비. 행동적으로 도파민은 소비의 **개시**를 강화한다 (Neuron 2026, Stuber lab).
 - [[knight-liberles-2025-interoception]] — interoception × reward frontier.
 - [[concept-interoception]] — primary reward의 토대 개념.
 - [[concept-primary-reward-signals]] — post-oral interoceptive primary.

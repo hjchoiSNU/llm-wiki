@@ -2,7 +2,7 @@
 title: "Marta E. Soden"
 type: person
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -23,3 +23,4 @@ University of Washington(Pharmacology / UW Medicine Diabetes Institute)의 신�
 - [[person-korotkova-tatiana]] — LH-Nts 상보 arbitration 연구자(대응/보완).
 - [[person-knight-zachary]] — 시상하부 섭식·갈증 회로 dynamics(방법·개념 인접).
 - [[person-lammel-stephan]] — 같은 neurotensin 회로를 **NAc 기원**에서 접근([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]).
+- [[person-stuber-garret]] — 같은 UW·[[sumarli-2026-multidimensional-control-of-ingestive-behavior|Sumarli 2026]] 공저자. 동일한 OHRBETS 머리고정 과제 플랫폼을 공유하므로 LH 세포타입 간 변수 분업을 직접 비교할 수 있다([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]).

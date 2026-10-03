@@ -183,4 +183,5 @@ Cortex (state, world model)
 - [[concept-need-motivation-pleasure-utility]] — NMPU 분해.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 5 maladaptive types.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — 본 페이지가 다루는 두 항목의 실측 확장: **wave-like DA**(Hamid 2021)가 소비 행동에서도 나타나며(**후→전** 전파), **tail of striatum = labeled-line**이라는 서술이 소비 맥락에서도 유지된다(TS는 가치·licking scaling이 약하고 다른 아구역과 상관이 낮으며 LHA 조작에 반대 방향으로 반응) (Neuron 2026, Stuber lab).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 본 페이지가 일반화 RPE **밖** 현상으로 인정한 항목(잠재억제·alerting salience)에 **세포형·아구역 정체**를 부여: DA-GLU→NAc medial shell 채널, Shell=현저·경보 / Core=예측오차(Saddoris 2015).

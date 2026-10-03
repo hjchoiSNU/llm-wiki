@@ -161,6 +161,7 @@ LH는 **food cue ↔ reward 연합 학습의 hub**:
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — VTADA→LH가 outcome-specific 학습·결정을 구동; 메스암페타민이 LH-VTA 강화 (Neuron 2026, Sharpe lab).
 - [[person-sharpe-melissa]] — "cognitive LH" framework 원전 인물 hub.
 - [[stuber-2025-the-neurobiology-of-overeating]] — NAc D1R-MSN→LHA GABA "feeding authorization" gate·LHA glutamate 억제 (Neuron 2025).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **LHA의 위상 재정의**: GABA/Glut를 "engine vs brake" 스위치가 아니라 **두 집단의 비(LHA^Ratio)라는 연속 gain 변수**로 보고, 그 비가 선조체 **전후축 도파민 지형**을 인과적으로 세운다(GABA=전방 NAc DA↑, Glut=전반 DA↓·**TS DA↑**). 소비 중 세 조건에서 GABA는 가치와 양으로, Glut는 음으로 scaling. 하류 도파민은 핥기의 **개시**를 강화한다 (Neuron 2026, Stuber lab). 개념 [[concept-striatal-dopamine-gradient]] · 인물 [[person-stuber-garret]].
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework로 LH→VTA 통합.
 - [[concept-primary-reward-signals]] — LH→VTA가 매개하는 state-driven reward.
 - [[concept-interoception]] — LH가 fluid interoception → reward 변환.

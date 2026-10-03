@@ -2,7 +2,7 @@
 title: "The neurobiology of overeating (Stuber, Schwitzgebel & Lüscher 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-09-21
+updated: 2026-10-03
 source: "raw/2025 Neuron. Luscher. The neurobiology of overeating (1).pdf"
 authors: [Garret D. Stuber, Valerie M. Schwitzgebel, Christian Lüscher]
 year: 2025
@@ -104,6 +104,8 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — hedonic →VTA→NAc DA에 GLP1RA(CeA^Glp1r)가 약리적으로 brake; substance-use 적용 (Nature 2026).
 - [[concept-central-amygdala-glp1r]] — hedonic CeA→VTA→NAc 가소성에 GLP1RA가 작용하는 GLP-1R 노드 개념 hub.
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — 같은 lab(Stuber); mPFC↔VTA DA가 contingency degradation을 meta-RPE로 구동 (Nature 2026).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — 같은 lab(제1저자 Gordon, 교신 Stuber)의 2026 원저. 본 리뷰가 서술한 **"LHA GABA → VTA 탈억제 → NAc DA"** 라는 단일 복측 표적 모델을 **선조체 전역 지도**로 확장하고, LHA GABA/Glut를 스위치가 아닌 **연속 비(ratio) 변수**로 재정의. 본 리뷰가 인용한 **Zhu 2025 Science(도파민 vs GLP-1R 포만)** 를 받아, "도파민을 겨냥한 항비만 개입의 효과는 **선조체 어디**에 도파민이 있는지와 상류 시상하부 균형에 달려 있다"는 번역 함의를 제시 (Neuron 2026). 인물 [[person-stuber-garret]].
+- [[person-stuber-garret]] — 제1저자 인물 hub.
 - [[liu-2026-granular-motivational-interaction-and]] — NAc→LH gate·LH^VGLUT2 brake·비만 가소성을 인용(ref166); feeding을 granular phase로 분해 (Neuron 2026).
 - [[concept-food-addiction]] — 본 리뷰의 핵심 논점인 과식의 addiction framing 신중론 hub.
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — NAc D1/D2-SPN excitability·spine 가소성이 미주 tone에 의존; 본 중독/과식 모델과 정합 (Sci Adv 2026).

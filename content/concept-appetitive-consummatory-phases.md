@@ -106,4 +106,5 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[concept-computational-ethology]] — 고전 ethology의 이분법을 계산 도구가 얼마나 세분할 수 있는지; [[liu-2025-castle-a-training-free-foundation-model|CASTLE]]이 consummatory 내부에서 "food approaching mouth"·"food releasing at mouth"를 자동 분리한 사례.
 - [[zhang-2026-inherited-input-and-local-transformations]] — pVLS dSPN ramping이 **appetitive→consummatory 전이 임계**의 후보 신호(drift-to-threshold; ramp 기울기 → licking 개시 시점) (bioRxiv 2026).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — appetitive(seeking) phase가 **유지되는** 시냅스 기전: NAc 2-AG → aPVT 말단 CB1R 역행성 억제 (Nature 2026).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — **consummatory phase 내부의 초 단위 시공간 구조**: 첫 lick 이전(0–0.3 s)·유지(2–3 s)·소비 후(6–8 s) 세 창에서 선조체 도파민의 변수와 공간 분포가 달라지고, 반응이 **후방·외측 → 전방·내측으로 전파**된다. 또 도파민은 phase 내에서 **개시(bout 수)** 만 강화하고 **유지(bout 길이)** 는 강화하지 않는다 (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 안에서 준비(cue·salience) 단계와 consummatory(섭취) 단계를 맡는 ensemble이 단일세포 수준으로 분리 (Cell Rep 2026)

@@ -107,5 +107,6 @@ flowchart LR
 - [[person-choi-hyung-jin]] · [[person-kwon-hyung-bae]] — 연구진·도구 협력.
 - [[proposal-nmpu-human-translation]] — 자매 과제(인간 번역).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc 쪽 후보 세포타입의 선례**: NAcLat^Nts→VTA를 patch-seq(활성+분자정체)·역행표지(투사)·조건부 KO/과발현(인과)으로 확정한 설계. 본 제안의 CaRMA·TRU-FACT 파이프라인이 목표하는 결과물의 구체적 사례 (Nature 2025).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **본 제안의 설계를 세 군데 바꾸게 하는 결과**(Neuron 2026, Stuber lab). (1) **NAc를 한 점으로 두면 안 된다** — 같은 소비 과제에서 NAcCR·NAcCC·NAcShM·NAcShL이 조건에 따라 **반대 부호**로 scaling하므로, Aim 2의 NAc 영상·투사 분석은 **전후축 다점 샘플링**이 필요하다. (2) **LH 쪽 독립변수 후보 추가** — 개별 세포타입 활성뿐 아니라 **LHA^GABA/LHA^Glut 비**라는 집단 수준 gain 변수가 하류 도파민 지형을 예측한다. (3) **행동 종속변수 분해** — Motivation 축 출력을 lick 총량이 아니라 **bout 개시 vs bout 길이**로 나눠야 도파민 의존 성분이 분리된다. 개념 [[concept-striatal-dopamine-gradient]] · [[concept-consumption-vigor]].
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — discovery matrix **ChAT 행의 선행 근거**: NAc medial shell ChI가 VTA DA-GLU의 최대 EPSC 표적이며 burst-then-pause·전시냅스 nAChR로 작동한다는 출판된 예측. 배경 서술에서 '미발굴'이 아니라 **기존 가설**로 인용할 것. INTRSECT Con/Fon은 CaRMA·TRU-FACT의 **입력측 대안 도구**.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Cal-Light 태깅한 salience·섭취 집단의 투사(DBB·VTA·DRN·PAG·periLC)가 정성적으로 구분 안 됨 → 투사 기반 표적이 두 ensemble을 섞을 위험 (Cell Rep 2026)

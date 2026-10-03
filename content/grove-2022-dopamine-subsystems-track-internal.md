@@ -2,7 +2,7 @@
 title: "Dopamine subsystems that track internal states"
 type: paper
 created: 2026-05-01
-updated: 2026-05-30
+updated: 2026-10-03
 source: "raw/2022 Nature. (Knight) Dopamine subsystems that track internal states.pptx"
 authors: [Grove JCR, Gray LA, La Santa Medina N, Sivakumar N, Ahn JS, Corpuz TV, Berke JD, Kreitzer AC, Knight ZA]
 year: 2022
@@ -82,3 +82,4 @@ VTA DA의 한 subset이 **systemic osmolarity 변화**에 반응 — water reinf
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — vagal→hindbrain→mesolimbic DA gating; 자원별 DA sub-system과 상보 (Sci Adv 2026).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 본 회로의 **역방향**(VTADA→LH)을 인과로 추가; LH가 reward channel의 source(LH→VTA)이자 outcome-specific 학습의 target(VTA→LH) 양쪽 (Neuron 2026, Sharpe lab).
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 도파민 하위계의 내부 대사상태 추적(상보).
+- ⚠️ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **같은 LH→도파민 축, 다른 좌표·다른 시간창**. 본 페이지(및 [[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]])는 물(state-driven) primary reward의 도파민 표적을 **배측 선조체(DS)** 로 두는데, Gordon 2026은 물이 최고가치인 조건에서 **가치 scaling이 전방·내측·복측에서 가장 강하다**고 보고한다. 단 측정창이 다르다 — 본 연구=흡수 후 분 단위 sustained, Gordon=**3초 소비창**. 해소 설계는 동일 과제에서 두 창을 함께 보는 것 (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].

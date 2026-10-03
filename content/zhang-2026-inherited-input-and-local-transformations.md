@@ -2,7 +2,7 @@
 title: Inherited input and local transformations shape the spatiotemporal organization of pathway specific striatal signals for motivated behavior
 type: paper
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-10-03
 source: raw/2026.06.04.730000.full.pdf
 authors: [Zhang Z, Ding Y, Vu MA, Mroz L, Tong Y, Howe MW]
 year: 2026
@@ -106,3 +106,4 @@ doi: 10.64898/2026.06.04.730000
 - [[yang-2026-a-sync-state-in-the]] — 보상 **이후** 도파민 sync state의 credit assignment. 본 연구의 보상 **이전** ramping과 시간축 상보.
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — 도파민 ramp = value of work. 본 연구의 pVLS dSPN ramp가 이 도파민 ramp의 하류인지가 명시적 열린 질문.
 - [[concept-need-motivation-pleasure-utility]] — Motivation→행동 개시 전이의 신경 구현.
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **방법·논지의 쌍둥이**(Neuron 2026, Stuber lab). 본 연구가 "SPN 신호는 상속인가 국소 변환인가"를 **글루탐산 입력 대조**로 갈랐다면, Gordon 2026은 같은 질문을 **도파민 층**에서 "아구역 간 전파인가 국소 조립인가"로 묻고 **국소 조립**이라고 답한다. 둘 다 선조체 전역 다중 광섬유 + GLM 설계이며, 공간 분업의 결론도 수렴한다(후방·배측=감각운동, 전방·복측=가치). 개념 [[concept-striatal-dopamine-gradient]].

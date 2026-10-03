@@ -2,7 +2,7 @@
 title: Medium spiny neuron (MSN) — D1/D2, direct/indirect pathway
 type: concept
 created: 2026-07-04
-updated: 2026-09-21
+updated: 2026-10-03
 aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pathway]
 ---
 
@@ -40,4 +40,5 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — D2R-Penk MSN = **2-AG 생산 세포**; D1R⁻ 시냅스에서 DSE·tonic eCB가 흥분성 편향을 형성 (Nature 2026).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — 추적 문헌 일반 원칙의 참조점: 같은 구조 안의 **비중첩 세포타입이 유사한 입력 패턴**을 갖는 사례로 선조체 **D1 vs D2 MSN**이 인용된다. 즉 '입력 지형이 비슷하다'는 결과는 두 집단이 기능적으로 같음을 뜻하지 않는다 (Front Neuroanat 2015 Discussion).
 - [[cunningham-2026-early-life-experiences-the-neural]] — **D1 vs D2 MSN의 스트레스 분업**: D1 MSN 활성화는 만성 스트레스 **회복력**, D2 MSN 활성화는 **취약성**을 촉진. 초기역경에서 NAc **H3K79me2** 변화와 DOT1L·KDM2B 발현 변화가 **Drd2⁺ 세포에 특이적**으로 일어나며, Drd2-MSN에서 Dot1l을 넉다운하면 취약성이 되돌아가고 과발현하면 표현형이 재현된다 (NRN 2026, Maze lab).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — MSN이 받는 **도파민 입력 자체가 공간적으로 조직**돼 있다: 전방·복측은 가치·이력, 후방·배측은 핥기·감각운동 신호를 받고, **아구역 간 도파민 전파는 초 단위에서 일어나지 않는다**(한 부위 말단 자극이 다른 부위 DA를 거의 올리지 않음) → 선조체 아구역별 MSN 가소성 규칙의 차이를 "도파민이 흘러왔다"로 설명하기 어렵다 (Neuron 2026, Stuber lab).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — SPN이 중뇌 글루타메이트 입력에 **직접 흥분되면서도 순 억제**되는 경로(DA-GLU→[[concept-striatal-cholinergic-interneuron|ChI]]→nAChR→GABA 개재뉴런→GABA_A). D1/D2 수용체 논리 **밖**의 SPN 출력 제어 축.
