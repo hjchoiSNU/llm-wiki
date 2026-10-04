@@ -83,6 +83,8 @@ type: paper | concept | person | overview
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 source: raw/<파일명>           # 논문 페이지인 경우
+source_suppl: raw/<파일명>     # (선택) 보충자료 PDF
+source_alias: raw/<파일명>     # (선택) 같은 논문의 사본·다른 이름 파일. 여러 개면 ["raw/a.pdf", "raw/b.pdf"]
 authors: [...]                  # 논문 페이지인 경우
 year: YYYY                      # 논문 페이지인 경우
 ---
@@ -114,7 +116,7 @@ year: YYYY                      # 논문 페이지인 경우
 
 사용자가 `llm-wiki-raw`에 새 PDF를 넣고 "ingest" / "이거 정리해줘" / 파일명을 언급하면:
 
-1. **새 자료 찾기**: `llm-wiki-raw`의 파일 목록을 모든 페이지의 `source:`·`source_suppl:` 값과 비교합니다. 오래된 페이지는 `source:` 문자열이 실제 파일명과 조금 다를 수 있으니, "새 파일"로 판정하기 전에 제목의 특징적인 구절로 `content/`를 검색합니다.
+1. **새 자료 찾기**: `llm-wiki-raw`의 파일 목록을 모든 페이지의 `source:`·`source_suppl:`·`source_alias:` 값과 비교합니다(`source_alias` = 같은 논문의 사본·다른 이름 파일). 오래된 페이지는 `source:` 문자열이 실제 파일명과 조금 다를 수 있으니, "새 파일"로 판정하기 전에 제목의 특징적인 구절로 `content/`를 검색합니다.
 2. **중복 확인**: 같은 논문의 페이지가 이미 있으면(제목, 또는 first-author + 연도 + 제목 주요어 일치) 새로 만들지 않고 기존 페이지를 보강합니다.
 3. PDF **전문**을 읽습니다.
    - 클라우드 세션: Drive 커넥터 `read_file_content`(fileId)로 본문 텍스트를 받습니다. `download_file_content`(base64)는 컨텍스트를 크게 소모하므로 쓰지 않습니다. 받은 텍스트에 Methods·Results(또는 리뷰의 본문 절)와 끝부분(참고문헌 직전)이 모두 있는지 확인하고, 잘렸거나 스캔본이라 텍스트가 거의 없으면 "전문 미확보"로 봅니다. 그림·표의 시각 정보는 클라우드에서 볼 수 없으므로 figure legend 기준으로 정리하고, 그림 해석이 핵심인 논문은 데스크톱 세션에 남깁니다.
@@ -245,7 +247,7 @@ year: YYYY                      # 논문 페이지인 경우
 사용자가 Drive `llm-wiki-raw`에 넣은 PDF를, 데스크톱이 꺼져 있어도 클라우드 예약 작업이 위키에 반영합니다. 실행 프롬프트가 "§5 예약 자동 ingest 실행"이면 이 절을 따릅니다. 사용자가 지켜보지 않으므로 **확인 질문 없이 진행하되, 애매하면 건너뛰고 보고**합니다.
 
 1. **준비**: `git checkout v4 && git pull`. `llm-wiki-raw` 폴더 ID는 `1Q9o3PVjOdFfRinmnmVKgjRwXJJnAGuVt`. Drive 커넥터 `search_files`(`parentId = '<폴더 ID>'`, 페이지 끝까지)로 PDF 목록(제목·fileId·크기·createdTime)을 받습니다.
-2. **새 파일 판정**: §1-1 규칙대로 `content/*.md`의 `source:`·`source_suppl:` 값과 비교합니다. 정확히 일치하지 않으면 파일명의 특징적 제목 구절·제1저자·연도로 `content/`를 grep합니다. 같은 논문으로 보이는 페이지가 있으면 **이미 ingest된 것으로 간주**합니다(중복 생성 방지가 우선). ` 1.pdf`·`(1).pdf` 같은 사본, 책·챕터 전체 PDF는 건너뜁니다.
+2. **새 파일 판정**: §1-1 규칙대로 `content/*.md`의 `source:`·`source_suppl:`·`source_alias:` 값과 비교합니다(유니코드 NFC 정규화 후 비교; YAML 목록 값은 따옴표 안의 쉼표를 구분자로 보지 않습니다). 정확히 일치하지 않으면 파일명의 특징적 제목 구절·제1저자·연도로 `content/`를 grep합니다. 같은 논문으로 보이는 페이지가 있으면 **이미 ingest된 것으로 간주**합니다(중복 생성 방지가 우선). ` 1.pdf`·`(1).pdf` 같은 사본, 책·챕터 전체 PDF는 건너뜁니다.
 3. **건너뛰기 목록**: `handoff/auto-ingest-skipped.md`에 있는 파일은 다시 시도하지 않습니다(사용자가 그 줄을 지우면 재시도). 이번 실행에서 건너뛴 파일은 사유와 함께 이 목록에 추가합니다. 사유 예: 전문 미확보, 30MB 초과로 텍스트 추출 실패, 이미 있는 페이지와 같은지 애매, 그림 해석 필수.
 4. **실행 한도**: createdTime 최신순으로 **한 번에 최대 3편**. 남은 새 파일은 다음 실행으로 넘깁니다.
 5. **논문마다**: §1의 3–9단계를 수행합니다(4단계 사용자 확인은 생략). 기존 페이지는 "관련 페이지" 절, 해당 사실을 직접 다루는 문단, `index.md`, `log.md`만 고치고, 다른 페이지의 구조를 바꾸거나 페이지를 삭제·병합·이름변경하지 않습니다. `log.md` 항목 제목에는 `(자동)`을 붙입니다.
