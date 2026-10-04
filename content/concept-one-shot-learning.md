@@ -2,7 +2,7 @@
 title: One-shot learning (단일시행 학습)과 가소성 규칙
 type: concept
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-10-04
 aliases: [one-shot learning, single-trial learning, one-trial learning, eCB-LTP, BTSP, 단일시행 학습, 일회 학습]
 ---
 
@@ -62,3 +62,4 @@ aliases: [one-shot learning, single-trial learning, one-trial learning, eCB-LTP,
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — goal-directed↔habit 전환(반복 경험 축).
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — 같은 DLS의 dSPN/iSPN 출력 분업.
 - [[huang-2024-dopamine-mediated-interactions-between-short]] — 단기↔장기 기억 gating의 도파민 기전(초파리 MB).
+- [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 후속 질문 5(한 번의 현저한 음식 경험이 장기 패턴을 남기는가)에서 Piette 2026의 짧은 경험 가소성을 가설의 출발점으로 사용(음식·습관 검사는 미검증).

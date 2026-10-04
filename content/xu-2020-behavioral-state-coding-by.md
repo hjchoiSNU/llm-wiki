@@ -2,7 +2,7 @@
 title: "Xu et al. 2020 — PVH 세포타입 ensemble의 행동상태 부호화 (CaRMA imaging)"
 type: paper
 created: 2026-06-02
-updated: 2026-10-03
+updated: 2026-10-04
 source: raw/2020 Science (Sternson) Behavioral state coding by molecularly defined paraventricular hypothalamic cell type ensembles (1).pdf
 authors: [Shengjin Xu, Hui Yang, Vilas Menon, Andrew L. Lemire, Lihua Wang, Fredrick E. Henry, Srinivas C. Turaga, Scott M. Sternson]
 year: 2020
@@ -49,3 +49,4 @@ Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. 시상하부 실방
 - [[concept-circuit-bistability-hysteresis]] — 상태 유지의 회로 논리.
 - [[person-sternson-scott]] — 교신저자 인물 hub.
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 같은 lab의 후속 방법론(EASI-FISH). 본 논문의 **cytoDAPI**(DNase 처리 후 세포질 RNA를 DAPI로 염색)를 정합·분할 채널로 이어받았다. 300 µm 두께를 'in vivo 2-photon 영상(Xu 2020)과 결합 가능'한 근거로 든다. 공저자 Xu·Yang·Lemire·Henry가 겹친다 (bioRxiv 2021).
+- [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 비교하는 상태가 많아지면 특정 상태 전속 세포가 사라진다는 결과를 'habit 세포' 명명에 대한 주의 근거로 인용.

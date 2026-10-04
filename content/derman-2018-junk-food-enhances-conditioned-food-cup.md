@@ -34,3 +34,4 @@ year: 2018
 - [[koide-2025-association-between-eating-behavior]] — external(cue) eating이 GLP-1RA 반응 예측(임상 짝).
 - [[hoang-2021-the-basolateral-amygdala-and]] — cue-potentiated feeding의 기질로 거론되는 **BLA→LH** 회로(Petrovich 2002·2005 인용)를 학습 편향 틀로 정리한 Sharpe lab 리뷰(Curr Opin Behav Sci 2021). BLA = cue의 감각 특이 결과 정보, LH = 현재 동기 상태 관련성·근접도 평가.
 - [[rangel-2008-a-framework-for-studying-the]] — 본 논문의 조건화 접근 강화는 Rangel 틀의 **Pavlovian 가치계** 변화에 해당한다(습관계·목표지향계와 구분). "정크푸드가 먼저 바꾸는 것은 Pavlovian 축"이라는 해석의 계산적 틀 (Nat Rev Neurosci 2008; 위키 해석).
+- [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 정크푸드 노출이 조건화 접근만 키우고 섭취량·체중은 바꾸지 않았다는 결과를, 식이 노출 파일럿에서 추구와 섭취를 따로 재는 근거로 인용(본 논문에 가치 절하 검사는 없음).

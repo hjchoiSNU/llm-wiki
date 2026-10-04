@@ -6,12 +6,12 @@ updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 위키에 축적된 자료에서 도출한 **사용자 lab 연구계획서 6개 과제**를 한눈에 비교하는 hub. 공통 spine은 lab 자체 이론 [[concept-need-motivation-pleasure-utility|NMPU]]이며, 각 과제는 NMPU를 ① 인간으로 번역(NMPU 인간 번역), ② 세포타입으로 분해(LH/NAc 발굴), ③ 특정 축을 표적(tTIS 신경조절·DMH GLP-1R), ④ 환경·약물 맥락으로 확장(식품 불안정·GLP-1RA rebound)한다. 실현가능성·기간·중견 양식 여부로 정렬해 **우선순위 의사결정**을 돕는다.
+> 위키에 축적된 자료에서 도출한 **사용자 lab 연구계획서 10개 과제**를 한눈에 비교하는 hub. 공통 spine은 lab 자체 이론 [[concept-need-motivation-pleasure-utility|NMPU]]이며, 각 과제는 NMPU를 ① 인간으로 번역(NMPU 인간 번역), ② 세포타입으로 분해(LH/NAc 발굴), ③ 특정 축을 표적(tTIS 신경조절·DMH GLP-1R), ④ 환경·약물 맥락으로 확장(식품 불안정·GLP-1RA rebound)한다. #10(습관적 과식 DLS miniscope)은 선조체의 습관 통제를 다루며 NMPU와의 대응은 가설이다. 실현가능성·기간·중견 양식 여부로 정렬해 **우선순위 의사결정**을 돕는다.
 
 # 연구계획서 비교 hub
 
 ## 한 줄 요약
-9개 과제(과학 상세 9 + 중견 양식 6 = 15 페이지)를 축·방법·종·기간·실현가능성·양식으로 비교. 상위 로드맵은 [[overview-future-research-directions]], 후보 풀에서 선택된 것들이다.
+10개 과제(과학 상세 10 + 중견 양식 6 = 16 페이지)를 축·방법·종·기간·실현가능성·양식으로 비교. 상위 로드맵은 [[overview-future-research-directions]], 후보 풀에서 선택된 것들이다.
 
 ## 마스터 비교표
 
@@ -26,6 +26,7 @@ updated: 2026-10-04
 | 7 | [[proposal-pomc-endorphin-food-pleasure\|POMC β-endorphin 쾌락]] | POMC β-endorphin이 음식 쾌락(liking)·만족을 부호화(satiety와 분리) | **Pleasure**(시상하부 기원)·ARC→PVT/NAc | CaRMA·TRU-FACT·Cal-Light·광유전·naltrexone·NHP | 마우스→NHP | 5y | ★★★ | ✗ |
 | 8 | [[proposal-oral-fat-taste-pleasure-desire\|구강 지방 맛 쾌락·욕망]] | 구강 지방 맛(orosensory)이 쾌락·욕망 구동; post-oral 영양(Utility)과 분리 | **Pleasure/Motivation**(구강 proxy) vs **Utility**(post-oral) | sham-feeding·IG bypass·GRAB-DA(insula/aBLA)·CaRMA·Cal-Light·PET/fMRI | 마우스→NHP→인간 | 5y | ★★★ | ✗ |
 | 9 | [[proposal-hunger-need-encoding-human-translation\|배고픔 Need 부호화·인간 번역]] | 배고픔=영양소 정체 기반 미래 결핍 예측(Need); Motivation과 분리·인간 biomarker화 | **Need**(내측시상하부)·영양소 정체 | 확장 normative model·AgRP photometry·CaRMA·7T fMRI·ghrelin·인간 LHA LFP·NHP | 마우스→NHP→인간 | 5y | ★★★ | ✗ |
+| 10 | [[proposal-habitual-overeating-dls-miniscope\|습관적 과식 DLS miniscope]] | 가치가 낮아진 뒤에도 유지되는 DLS 세포군 패턴이 음식 추구의 습관화와 포만 후 실제 섭취를 연결 | Motivation의 자동화(habit-context, 가설)·DLS(후속 DMS) | Miniscope 종단 기록·가치 절하·자유 섭취 bout 분석·시점별 인과 조작 | 마우스 | 미정 | 미평가(행동·영상 파일럿 선행) | ✗ |
 
 > 실현가능성: ★★★=기존 lab 역량 직접 확장 / ★★=플랫폼·협업·고위험 요소.
 
@@ -34,6 +35,7 @@ updated: 2026-10-04
 - **약물(GLP-1)**: #1(cognitive satiation 영상)·#5(rebound) — lab GLP-1 라인 확장.
 - **신경조절(electroceutical)**: #4(tTIS) — 비침습 심부 치료.
 - **사회결정요인**: #6(식품 불안정) — 환경→회로.
+- **습관 통제(선조체)**: #10(습관적 과식 DLS miniscope) — 음식 추구의 습관화와 실제 섭취의 연결. NMPU와의 대응(Motivation의 자동화)은 가설.
 
 ## 과제 관계도
 ```mermaid
@@ -65,9 +67,8 @@ flowchart TB
 3. **#2 NMPU 인간 번역** — lab signature, 다만 인간 iEEG 협업 필요.
 
 ## 관련 페이지
-- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[overview-future-research-directions]] — 상위 로드맵(후보 풀·Tier 1–3).
-- [[concept-need-motivation-pleasure-utility]] — 6과제의 공통 spine.
+- [[concept-need-motivation-pleasure-utility]] — 과제 공통 spine(#10은 NMPU와의 대응이 가설).
 - [[concept-activity-molecular-registration]] — #3의 핵심 방법군.
 - [[person-choi-hyung-jin]] — 연구책임자(전 과제).
-- 개별 과제: [[proposal-dmh-glp1r-human-imaging]] · [[proposal-nmpu-human-translation]] · [[proposal-lh-nac-nmpu-neuron-discovery]] · [[proposal-ttis-feeding-reward-circuits]] · [[proposal-glp1ra-rebound-microbiota]] · [[proposal-food-insecurity-cross-species]] · [[proposal-pomc-endorphin-food-pleasure]] · [[proposal-oral-fat-taste-pleasure-desire]] · [[proposal-hunger-need-encoding-human-translation]].
+- 개별 과제: [[proposal-dmh-glp1r-human-imaging]] · [[proposal-nmpu-human-translation]] · [[proposal-lh-nac-nmpu-neuron-discovery]] · [[proposal-ttis-feeding-reward-circuits]] · [[proposal-glp1ra-rebound-microbiota]] · [[proposal-food-insecurity-cross-species]] · [[proposal-pomc-endorphin-food-pleasure]] · [[proposal-oral-fat-taste-pleasure-desire]] · [[proposal-hunger-need-encoding-human-translation]] · [[proposal-habitual-overeating-dls-miniscope]].

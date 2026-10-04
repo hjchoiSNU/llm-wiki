@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 21:14 — other (Codex 연구 제안 페이지 원문 대조 반영)
+
+사용자 요청으로 [[proposal-habitual-overeating-dls-miniscope]]를 원문 PDF와 대조해 고쳤다. 웹 미사용. ① 사실 보정: Giovanniello 행의 쪽수와 "CeA→DMS 활성화는 단독으로 불충분", Gordon의 지표가 lick 수라는 점, Weinreb의 DLS 기록 조건(open field, 주 대상은 dmPFC), Fallon 행 쪽수. ② 위키 안 선례 보강: DLS miniscope와 D1-Cre·A2a-Cre 구분(Fallon·Weinreb), Fallon의 사전 급식 가치 절하(행동만), DLS 날짜 간 세포 추적 선례 부재, Giovanniello의 생쥐 가치 절하 절차·과훈련 습관·CeA 섬유, lab의 LH miniscope. ③ 위키 밖 문헌 10편은 "위키 밖·미확인"으로 표시하고 맨 아래 목록으로 모았다(`raw/` 투입 후보). ④ 용어를 배외측 선조체로 통일. 역방향 연결 추가 14개: [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[derman-2018-junk-food-enhances-conditioned-food-cup]] · [[leow-2026-a-cortical-hypothalamic-neural]] · [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] · [[xu-2020-behavioral-state-coding-by]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-compulsion]] · [[concept-medium-spiny-neuron]] · [[concept-one-shot-learning]] · [[concept-endocannabinoid-system]] · [[concept-lateral-septum]] · [[person-choi-hyung-jin]]. [[overview-research-proposals]]에 #10으로 등록(과제 수·비교표·그룹·목록). 아래 17:54 항목은 파일 맨 끝에 있던 것을 시간순 위치로 옮기고 제목 형식만 맞췄다(본문 그대로).
+
+## 2026-10-04 17:54 — other (연구 제안 추가; Codex, 사용자 요청)
+
+[[proposal-habitual-overeating-dls-miniscope]] 신규 작성. 독립 검토에서 정리한 DLS·음식 추구 습관·실제 섭취 근거와 Miniscope 중심 Aim 1–3, 대조군·해석 한계·후속 연구를 위키 형식으로 보관. 외부 원저는 링크와 확인 범위를 표시하고, 가설과 검증된 결과를 구분했다. 목차 연구계획서 항목 및 관련 개념·논문 9개 페이지에 연결 추가. 원본 PDF와 기존 과학 본문은 수정하지 않았다.
+
 ## 2026-10-04 14:55 — ingest (Rangel 2008 NRN, 가치 기반 의사결정 틀) + 습관적 과식 강화 정리
 
 "ingest, habit overeating 관련 강화된 정리" 트리거. `raw/` 대조 결과 **신규 1건**: `2008 NRN A framework for studying the neurobiology of value-based decision making.pdf`(14:40 투입, 12쪽 전문 확인). `wiki/`·동결 로컬 폴더·프로젝트 루트에 잘못 들어간 PDF 없음. 웹 미사용.
@@ -2051,8 +2059,3 @@ CLAUDE.md schema 5개 수정 — **§4 일일 자동 ingest 신설**:
 
 위키 초기화. `CLAUDE.md`, `raw/`, `wiki/`, `wiki/index.md`, `wiki/log.md` 생성.
 초기 카테고리 10개 설정 (회로/시스템, 분자세포, 방법론, 인지행동, 질환, AI×NS, 개념, 인물, 종합, 기타).
-
-
-## 2026-10-04 — 연구 제안 추가 (Codex, 사용자 요청)
-
-[[proposal-habitual-overeating-dls-miniscope]] 신규 작성. 독립 검토에서 정리한 DLS·음식 추구 습관·실제 섭취 근거와 Miniscope 중심 Aim 1–3, 대조군·해석 한계·후속 연구를 위키 형식으로 보관. 외부 원저는 링크와 확인 범위를 표시하고, 가설과 검증된 결과를 구분했다. 목차 연구계획서 항목 및 관련 개념·논문 9개 페이지에 연결 추가. 원본 PDF와 기존 과학 본문은 수정하지 않았다.

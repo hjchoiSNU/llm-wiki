@@ -2,7 +2,7 @@
 title: Choi Hyung-jin (최형진)
 type: person
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [최형진, Hyung Jin Choi, HJ Choi]
 ---
 
@@ -111,6 +111,7 @@ ORCID: 0000-0003-0593-6978
 - [[overview-future-research-directions]] — 본 lab 관점 향후 연구 로드맵(wiki gap 종합).
 - [[proposal-pomc-endorphin-food-pleasure]] — POMC β-endorphin·음식 쾌락 연구계획서(식락학 Ch 20 backbone).
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 맛·음식 쾌락/욕망 연구계획서(orosensory vs post-oral; 식락학 Ch 20·24 backbone).
+- [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식과 DLS: miniscope 종단 기록·인과 검증 연구계획서(2026-10-04).
 - [[concept-need-motivation-pleasure-utility]] — 본 lab의 이론 backbone.
 - [[concept-lateral-hypothalamus]] — 본 lab 핵심 표적.
 - [[concept-digital-therapeutics]] — 본 lab DTx 임상 라인 hub.

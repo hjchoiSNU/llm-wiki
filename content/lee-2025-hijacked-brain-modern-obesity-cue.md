@@ -131,3 +131,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **Emotion 유형 ↔ Habit 유형(DLS)의 회로 다리 후보**: 편도(BLA)가 DLS S-R 시냅스를 직접 증폭(섭식 미검증, 위키 가설) (Neuron 2026).
 - [[concept-habit]] — **Habit형의 회로 분해 hub** — 습관적 과식을 스트레스·정서·반복 노출·one-shot 각인·발달기 역경·식이 환경·쾌락 저하의 7경로로 나누고, Habit형을 devaluation으로 검증하는 제안 포함.
 - [[rangel-2008-a-framework-for-studying-the]] — 5 표현형의 **계산적 대응표**(대응은 위키 해석): Cue형 = Pavlovian계(눈앞 음식을 배고픔과 무관하게 소비), Habit형 = 습관계(맥락·시간에 묶인 S-R), Addiction형 = 습관 ↔ 목표지향 충돌, Restraint형 = 목표지향 ↔ 목표지향 충돌(다이어터 예); Emotion형은 이 틀에 대응 항목이 없다. 과식을 "통제권 배정 실패"로 본 원전 (Nat Rev Neurosci 2008).
+- [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 리뷰가 섭식 습관의 가치 절하 연구를 2차 인용한다는 점(원문 인용 56·57)을 식이 노출 모델의 선행 문헌 확인 근거로 인용.

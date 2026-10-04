@@ -2,7 +2,7 @@
 title: "Lee, Kim, Kim, Jang et al. 2023 — Lateral hypothalamic leptin receptor neurons drive hunger-gated food-seeking and consummatory behaviours in male mice"
 type: paper
 created: 2026-05-25
-updated: 2026-10-03
+updated: 2026-10-04
 source: raw/2023 Nature Communications. Lateral hypothalamic leptin receptor neurons drive hunger-gated food-seeking and consummatory behaviours in male mice.pdf
 authors: [Young Hee Lee, Yu-Been Kim, Kyu Sik Kim, Mirae Jang, Ha Young Song, Sang-Ho Jung, Dong-Soo Ha, Joon Seok Park, Jaegeon Lee, Kyung Min Kim, Deok-Hyeon Cheon, Inhyeok Baek, Min-Gi Shin, Eun Jeong Lee, Sang Jeong Kim, Hyung Jin Choi]
 year: 2023
@@ -135,3 +135,4 @@ journal: Nature Communications
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — **"분업형 vs 통합형" 대조군**(Nat Commun 2023, Kanoski lab, rat). 본 논문이 LH^LepR에서 seeking subset과 consummatory subset을 **분리**한 것과 달리, MCH 뉴런은 **한 집단이 cue 단계(CS+>CS−, P=0.0042; CPP 진입 P=0.0001)와 섭취 단계(bout 중 상승, 누적 칼로리 R²=0.9299)를 모두** 담당하고 화학유전 활성이 PIT·CPP·식사량을 함께 키운다. MCH는 LepRb와 **분자적으로 비중첩**([[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]])이므로, 같은 동물에서 두 집단을 동시 기록해 "LH가 분업 모듈과 통합 모듈을 병치한다"는 가설을 검증할 수 있다(연결 가설). ⚠️ 종·측정(bulk 광계측 vs microendoscopy)·조작 방향(활성화만)이 다름.
 - [[linders-2022-stress-driven-potentiation-of-lateral]] — **같은 LH에서 "스트레스 채널"을 담당하는 glutamate 쪽 자료**(Nat Commun 2022, Meye·Adan lab). 이틀 사회 패배가 **LHA^glut→VTA^DA 시냅스를 후시냅스 GluA1-AMPAR로 강화**해 기호성 지방·당만 늘린다(chow 불변, 체중 불변). 본 논문의 축(food-specific LH GABA의 79% = LH^LepR)과 **세포형이 다르다** → 검증 가능한 분업 가설: 사회 스트레스가 LH^LepR(GABA)→VTA 경로에는 가소성을 만들지 않고 glutamate 경로에만 만든다면, "항상성 기반 Motivation(LepR)"과 "스트레스 기반 기호성 편향(glut)"이 같은 LH 안의 **분리된 두 채널**이라는 뜻이 된다. 사용자 lab microendoscopy 설계에 사회 스트레스 블록을 넣으면 직접 측정 가능(연결 가설 — 양쪽 모두 미검증).
 - [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — **LH 조작 해석에서 "각성·보행운동"을 공변량으로 분리해야 하는 이유**(PNAS 2024, Kilduff lab). LH 억제성 뉴런을 64.6% 절제하면 **자발 활동기 보행속도가 68% 감소**(P=0.047)하는데 **24시간 수면 구조는 전혀 바뀌지 않는다** → LH^Vgat 계열 조작은 섭취량과 **독립적으로 LMA(에너지 소비) 축**을 건드릴 수 있다. 또 AAV-CaMKIIα promoter가 LH에서 **20–33% GABAergic을 함께 집는다**는 결과는 LH 드라이버·promoter 선택의 감사 항목이다. 연결 가설: LH^LepR photometry 과제에 EEG/EMG를 붙여 seeking 구간의 **각성 상태와 approach 속도가 해리되는지** 본다(원문 주장 아님).
+- [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 논문의 LH miniscope 단일세포 기록(CNMF-E)과 seeking·consummatory 분리 과제를 lab의 영상·행동 선례로 인용.
