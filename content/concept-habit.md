@@ -323,3 +323,4 @@ flowchart LR
 - [[concept-basolateral-amygdala]] · [[concept-orbitofrontal-cortex]] · [[concept-lateral-hypothalamus]] — 관련 노드 hub.
 - [[concept-need-motivation-pleasure-utility]] · [[concept-digital-therapeutics]] — lab 프레임과 개입.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 갈망→병리의 6축 서사(목표→습관→강박 포함).
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

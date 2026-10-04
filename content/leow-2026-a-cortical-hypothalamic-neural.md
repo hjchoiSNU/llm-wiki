@@ -77,3 +77,4 @@ rostral zona incerta의 GABA성 뉴런(rZI^GABA)과 이를 구동하는 mPFC→r
 - [[concept-compulsion]] · [[luscher-2021-consolidating-the-circuit-model-for]] — 본 연구의 **처벌-저항 섭취**가 중독 연구의 compulsion 조작적 정의를 섭식에 이식한 사례. 양봉분포·표본 요건 등 설계 논리는 저쪽 hub 참조.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — "기본 보상(배고픔) 목표는 포기가 쉬워야 정상"이라는 예측 → 처벌 저항 HFD 추구가 비정상인 이유의 계산적 근거.
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 논문의 자유행동 miniscope 세션 간 추적(같은 시야 유지, 모든 세션에 있는 뉴런만 분석)과 음식 접촉 bout 정의를 영상·행동 설계의 선례로 인용.
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

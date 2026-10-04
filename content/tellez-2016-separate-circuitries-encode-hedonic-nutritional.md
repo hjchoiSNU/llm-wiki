@@ -2,7 +2,7 @@
 title: Separate circuitries encode the hedonic and nutritional values of sugar
 type: paper
 created: 2026-07-05
-updated: 2026-10-03
+updated: 2026-10-04
 source: raw/2016 NN Separate circuitries encode the hedonic and nutritional values of sugar.pdf
 authors: [Tellez LA, Han W, Zhang X, Ferreira TL, Perez IO, Shammah-Lagnado SJ, van den Pol AN, de Araujo IE]
 year: 2016
@@ -34,3 +34,4 @@ year: 2016
 - [[concept-medium-spiny-neuron]] — D1r MSN(VS/DS) 세포 표적.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — **접점(인과 아님)**: 섭취량이 같은 10% sucrose vs 20 mM saccharin 비교에서 **DMS·DLS 도파민이 무칼로리 saccharin에서 더 낮았고**(반대로 NAcCR·NAcCC·NAcShL은 더 높았다) — 본 논문의 "DS=영양 / VS=미각" 방향과 정합적이다. 단 Gordon의 측정은 **섭취 3초 내 구강 단계**라 post-ingestive 기전으로 설명할 수 없다 (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].
 - [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 같은 de Araujo 계열의 3년 앞선 논문(eLife 2013, Friedman lab; Tellez 공저). **LH MCH 뉴런**이 sucrose 섭취 중 "선조체" DA 방출(+118%)에 필요하고, sucralose와 짝지은 MCH 자극은 DA를 +69% 올린다. MCH가 본 논문 영양(DS) DA의 **상류 후보**다. ⚠️ Domingos는 sucralose 단독 섭취 시 선조체 DA 변화가 **+8%로 무의미**하다고 보고했다. 본 논문의 "sucralose → VS DA↑"와 어긋나는데, Domingos가 microdialysis 부위(DS/VS)를 명시하지 않아 판정할 수 없다. 병기한다.
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

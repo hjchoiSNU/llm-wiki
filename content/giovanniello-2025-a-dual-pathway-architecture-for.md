@@ -45,3 +45,4 @@ year: 2025
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA의 또 다른 선조체 출력: **BLA→DLS**(DMS 투사와 별개 집단)는 agency가 아니라 **감각자극-반응 결합을 이종시냅스 가소성으로 증폭** — BLA가 표적별로 목표지향(DMS)·S-R(DLS) 양쪽에 관여 (Neuron 2026).
 - [[concept-habit]] — 습관 개념 hub — 본 논문을 **습관적 과식 경로 A(스트레스: 목표지향 끄기 + 습관 켜기)**의 핵심으로 정리하고, 자유 섭식으로의 일반화는 미검증임을 명시.
 - [[rangel-2008-a-framework-for-studying-the]] — 통제권 배정의 계산 원안(추정 불확실성이 낮은 가치계가 통제, 경험이 쌓이면 습관계가 인계; Daw 2005 인용). 본 논문은 그 배정을 **스트레스가 편도–DMS 두 경로로 앞당긴다**는 회로 수준의 답을 준 셈 (Nat Rev Neurosci 2008).
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

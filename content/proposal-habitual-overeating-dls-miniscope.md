@@ -250,3 +250,4 @@ Miniscope의 calcium event는 직접 측정한 spike가 아닙니다. 정확한 
 - [[xu-2020-behavioral-state-coding-by]] — 비교 조건이 적으면 특정 상태 전속 세포를 과대 추정한다는 주의.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 만성 고지방식 뒤 고칼로리 음식 섭취 감소. 식이 이력이 다른 군에서 절하 효능을 따로 확인하는 근거.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 섭식 습관의 가치 절하 문헌을 2차 인용(원문 인용 56·57).
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

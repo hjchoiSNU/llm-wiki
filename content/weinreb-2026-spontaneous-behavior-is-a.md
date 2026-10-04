@@ -83,3 +83,4 @@ year: 2026
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — foraging 궤적을 toward/away run으로 분해해 AgRP 신호와 정렬; 자유행동을 상태·세그먼트로 나눠 회로에 매핑하는 같은 계열.
 - [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub; shMoSeq의 계보상 위치.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — self-directed task 상태(수 초~분)의 연속 = 인간 "목표 안정성"의 행동학적 대응; dmPFC 상태 부호화가 Rubicon형 "선택 후 실행 단계"에 해당하는지 검증 대상 (Trends Cogn Sci 2026).
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

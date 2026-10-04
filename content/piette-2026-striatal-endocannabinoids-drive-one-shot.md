@@ -87,3 +87,4 @@ doi: 10.1038/s41593-026-02392-z
 - [[thoeni-2020-depression-of-accumbal-to]] — ⚠️ **eCB 가소성 규칙의 부호가 반대인 짝**(Neuron 2020, Lüscher lab). 본 논문의 eCB-LTP는 **흥분성** corticostriatal 시냅스의 **강화**이고 **전시냅스 CB1R + D2R 공동 필요**이며 DLS 한정이다. 그쪽은 NAcSh D1-MSN이 LH에 만드는 **억제성** 시냅스의 **약화(i-LTD)** 이고, 반대 방향(i-LTP)에는 **D1R**이 필요하다(슬라이스에서 SKF38393 없이는 HFS로 유도 실패). 또한 그쪽은 **상태 의존**이다 — 자유급식에서는 tonic CB1R 억제가 없고 **급성 식이제한·3일 고지방식에서만** 시냅스가 눌려 있다. → 같은 리간드·수용체가 **시냅스 종류(흥분성/억제성)·부위·도파민 수용체 짝에 따라 정반대 규칙**을 쓴다는 점에서 본 논문의 "부위별 가소성 규칙 분업" 논지를 섭식 회로로 확장한다.
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — DLS SPN 가소성의 다른 경로: 드문 **BLA 입력이 원위 수상돌기에서 피질·시상 시냅스를 이종시냅스로 강화**(반복 짝 활성, spine↑) (Neuron 2026).
 - [[concept-habit]] — 습관 개념 hub — eCB-LTP를 **경로 D("폭식 한 번이 습관이 되는가")**의 후보 기질로 정리.
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

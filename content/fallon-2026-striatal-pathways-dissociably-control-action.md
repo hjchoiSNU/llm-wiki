@@ -51,3 +51,4 @@ year: 2026
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 같은 DLS의 **입력단**: dSPN/iSPN이 출력을 나눈다면, 그 corticostriatal 입력 시냅스는 eCB-LTP(짧은 1회 경험)/NMDA-LTP(반복 경험)로 가소성 규칙을 나눈다. presynaptic D2R 결손이 두 논문 모두에서 핵심 (Nat Neurosci 2026).
 - [[concept-one-shot-learning]] — DLS 시냅스의 비고전적 가소성 규칙 개념 hub.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 같은 dSPN/iSPN 분업을 **신호의 기원**(상속 vs 국소 변환) 측면에서 물음. 본 논문이 인과 조작으로 출력을 보였다면, 저쪽은 입력 대조로 계산 위치를 특정 (bioRxiv 2026, Howe lab).
+- [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
