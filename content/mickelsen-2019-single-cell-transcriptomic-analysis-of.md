@@ -124,7 +124,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - [[rossi-2021-transcriptional-and-functional-divergence]] — LHA^Vglut2 투사 아형. ⚠️ Lepr mRNA가 glutamatergic 투사뉴런 일부에 있다는 결과로 본 논문의 "Lepr=GABA 대다수" 서술을 보완·긴장.
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 인과 데이터(Aponte lab). 본 논문이 남긴 "Lepr 클러스터의 분자 정체" 공백 쪽.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LepR 시상하부 뉴런 39아형(snRNA+snATAC). 본 논문이 scRNA-seq로 못 잡은 Lepr을 LepR 표지 기반으로 해결한 후속 계열.
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 기능 ensemble(salience vs value-scaled consumption). 그 논문이 미해결로 남긴 **분자 정체(Lepr·Nts·Crh·Gal)** 의 참조 census가 본 논문이다.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 기능 ensemble(salience vs value-scaled consumption). 그 논문이 미해결로 남긴 **분자 정체(Lepr·Nts·Crh·Gal)** 의 참조 census가 본 논문이다.
 - [[concept-neurotensin]] — LH^Nts 분해. ⚠️ 70.8% GABA / 29.2% Glut, Cartpt 공발현 18–19%, Crh형 vs Tac1형 상호배타.
 - [[concept-orexin-neurons]] — Hcrt marker(Rfx4·Nptx2·Pcsk1·Slc2a13)와 ⚠️ "전사체로는 하위집단이 안 보인다"는 음성 결과.
 - [[concept-lateral-septum]] — perifornical LHA^Glut Sst → dLS 투사(CTb⁺Sst⁺의 75.3% Slc17a6⁺). LS↔LHA 상호 회로의 상행 섬유 분자 정체 후보.

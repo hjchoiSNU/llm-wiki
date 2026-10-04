@@ -53,7 +53,7 @@ year: 2025
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LHA^Lepr social·LHA^Nts thirst 우선 근거.
 - [[rossi-2023-control-of-energy-homeostasis]] — 짝 LHA 종합 리뷰(engine/brake).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — ⚠️ LHA^Vgat "engine" 프레임과 긴장: LH^Vgat 상당수가 **혐오 열자극에 흥분**하고 같은 세포가 음식 cue에도 반응한다(valence 무관 salience). 다른 ensemble은 섭취를 value에 따라 조절된 형태로 부호화한다 (Cell Rep 2026; 활동 상관이라 인과 "engine" 결과와는 병기).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — ⚠️ LHA^Vgat "engine" 프레임과 긴장: LH^Vgat 상당수가 **혐오 열자극에 흥분**하고 같은 세포가 음식 cue에도 반응한다(valence 무관 salience). 다른 ensemble은 섭취를 value에 따라 조절된 형태로 부호화한다 (Cell Rep 2026; 활동 상관이라 인과 "engine" 결과와는 병기).
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — 본 리뷰가 "LHA^Vgat은 appetitive vs consummatory를 비중첩 subset이 분담(Jennings microendoscope)"으로 인용한 1차 출처. 광유전·화학유전·ablation + 단일세포 칼슘영상(743 뉴런)으로 LHA^Vgat "engine" 프레임의 세포 수준 mosaic 근거를 세움 (Cell 2015, Stuber lab).
 - [[rossi-2019-obesity-remodels-activity-and]] — 핵심 내용의 "HFD가 brake를 둔화(Rossi; sucrose 응답·흥분성↓)"의 **원전**(Science 2019, Stuber lab): HFD 전사체 변화·인간 BMI 유전 연관이 LHA^Vglut2 클러스터에 최대, 12주 종단 2-photon에서 같은 뉴런의 sucrose 반응 둔화(대조 44 vs HFD 33 tracked cells). ⚠️ 같은 줄의 "ablation→HFD에서 식이↑·체중↑"은 이 원전 본문에 없는 실험이다(출처 분리 필요).
 - [[rossi-2021-transcriptional-and-functional-divergence]] — 본 리뷰의 **LHA^Vglut2 subgroup 목록(Pdyn·Hcrt·Pax6 등)에 기능을 붙인** 원저(Neuron 2021, Stuber lab): **Pax6⁺ 클러스터 = LHb 투사**(전측 LHA·고흥분성·leptin↓/ghrelin↑ 민감·포만 시 반응 세포 비율↑), **Pdyn⁺/Hcrt⁺ 클러스터 = VTA 투사**(후측 LHA·저흥분성 ~2 Hz·quinine 반응 우세). 즉 "Vglut2 = brake" 한 줄은 최소 두 경로의 합이고, **섭식 책임은 LHb 투사 쪽**이다(→VTA 조작은 섭취 불변, Nieh 2015·2016). 전사체 106 DEG + HCR 9유전자 교차검증(logFC r=0.94).

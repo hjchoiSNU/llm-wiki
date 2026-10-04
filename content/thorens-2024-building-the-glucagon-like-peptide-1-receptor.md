@@ -135,7 +135,7 @@ journal: "Diabetes 2024;73:1027–1031; doi:10.2337/dbi24-0025 (Classics in Diab
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] · [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 사용자 lab 리뷰; GLP-1 약물 발전사(Ex-4 1992→Byetta 2005→liraglutide→semaglutide)의 **수용체 쪽 계보**를 본 글이 보완.
 - [[concept-central-amygdala-glp1r]] · [[concept-dorsomedial-hypothalamus]] · [[concept-area-postrema]] — 뇌 GLP-1R 부위별 노드. 본 글의 **형광·PET exendin probe**는 이 부위들의 수용체를 **인간에서 정량**할 도구 후보.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포 IHC. 본 글의 "항체로 GPCR 보기 어렵다"는 지적이 그 반정량 한계의 **기술적 배경**.
-- [[concept-tanycytes]] · [[concept-blood-brain-barrier-shuttle]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-penetrance]] — 말초 exendin4·semaglutide가 시상하부·뇌간에 "접근"한다는 본 글의 서술을 **BBB 경계 안에서 읽는** 좌표.
+- [[concept-tanycytes]] · [[concept-blood-brain-barrier-shuttle]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-access]] — 말초 exendin4·semaglutide가 시상하부·뇌간에 "접근"한다는 본 글의 서술을 **BBB 경계 안에서 읽는** 좌표.
 - [[concept-peptide-drug-conjugate]] — exendin4를 antisense oligo 운반체로 쓴 β세포 유전자치료 = PDC 논리의 **초기 성공 사례**.
 - [[concept-gip]] · [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide의 **GIPR 쪽 불균형**과 ECL1 형태 차이(cryo-EM)가 dual agonist 기전 논쟁에 거는 구조적 근거.
 - [[concept-de-novo-protein-design]] · [[muratspahic-2026-de-novo-design-of-miniproteins]] — GLP1R ECD를 표적하는 de novo 길항제 설계. 본 글의 **"ECD가 리간드 C-말단을 붙잡는다"**는 구조 원리가 그 설계 전제.

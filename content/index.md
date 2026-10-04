@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 526 (+ index.md, log.md)
-- 마지막 갱신: 2026-10-03
+- 총 페이지: 522 (+ index.md, log.md)
+- 마지막 갱신: 2026-10-04
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 
@@ -151,7 +151,6 @@ _(섭식·동기 행동은 🍽️로)_
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need + LH LepR=Motivation (Sci Adv 2024, 사용자 lab).
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — 자유 foraging에서 **ARC^AgRP 활성이 "먹이까지의 공간 거리"로 최적 설명**(접근↓·이탈↑ 양방향 ramp); 단식 상태 의존·학습으로 획득·기억 회상 중 유지(시각 의존)·냄새/현저성으로 설명 불가. Need의 **공간 예측 축**; 제안 경로 해마→LS→LH→DMH→AgRP (bioRxiv 2026, Yapici·Oliva·Fernandez-Ruiz lab).
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — LH LepR seeking·consummatory subpopulation (Nat Comm 2023, 사용자 lab).
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — ★ LH^Vgat 세션 간 2-photon 추적 → **두 ensemble**: 열 처벌·음식 cue 공통 **motivational salience**(중립 tone 무반응) vs 먹이·물·고형식 공통 **value-scaled consumption**(금식·농도·Ex-4 의존) (Cell Rep 2026, SNU 김성연 lab).
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP(macaque) LHA GABAergic chemogenetic 활성화가 palatable food 한정 goal-directed 식이↑; GABA PET·7T MRS·rs-fMRI 검증; rodent→human 번역 다리 (Neuron 2024, 사용자 lab).
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — VTA-DA-CCK → left aBLA가 flavor-nutrient 학습 매개 (bioRxiv 2025, Knight lab).
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH 3 motivational drive arbitration (Korotkova).
@@ -160,9 +159,9 @@ _(섭식·동기 행동은 🍽️로)_
 - [[rossi-2023-control-of-energy-homeostasis]] — LHA ≥30 세포타입·Vgat(engine)/Vglut2(brake)·Orexin/MCH/LepR/Nts/MC3R 회로 종합; coarse DBS 비일관→세포타입 표적 (TiNS 2023).
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 초기역경(모성분리)→LH Lepr 저항→LH^Lepr(GABA)→**vlPAG^Penk** 탈억제→HFD 폭식·비만 (Nat Neurosci 2023, Lim). 개념 [[concept-early-life-adversity]].
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 통합하는 general salience hub; opioid 비의존 진통·항불안, cell-type(GABA·Glu)·투사(LPO·LHb·VTA·LPAG)별 분업 (Nat Commun 2026, Zhou lab; 사용자 Cheon 2025 인용).
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 종단 2광자 단일세포 추적: 혐오 열자극 + 먹이 cue 공유 **motivational salience ensemble** vs 먹이·물·고형식 일반 **ingestion ensemble**(배고픔·농도 스케일, exendin-4 감쇠); Cal-Light 투사로는 두 집단 미분리 (Cell Rep 2026, SNU 김성연 lab).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — ★ LH^Vgat 종단 2광자 단일세포 추적 → **두 ensemble**: 혐오 열자극·먹이 cue 공통 **motivational salience**(중립 tone 무반응) vs 먹이·물·고형식 공통 **value-scaled consumption(ingestion)**(배고픔·농도 스케일, exendin-4 감쇠); Cal-Light 투사로는 두 집단 미분리 (Cell Rep 2026, SNU 김성연 lab).
 - [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat이 **행동성 체온조절**(자가가온 operant·온도 선택·둥지 짓기·자세 신전)에 필요, 자율성 체온조절에는 불필요; 열 처벌 흥분·열 보상 억제 하위집단이 칼로리 보상 집단과 분리(76개 중 17개만 겹침); LPB→LH 입력은 체온조절 행동 전용 (Neuron 2022, SNU 김성연 lab). [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]] salience ensemble의 원전.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^GABA(가치 양의 scaling)·LHA^Glut(혐오 용액에서 음의 scaling) 비가 소비 중 선조체 도파민 지형을 설정; DA는 lick bout **개시**를 강화 (Neuron 2026, Stuber lab). _(본 항목은 🎯 Heterogeneity에)_
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^GABA(가치 양의 scaling)·LHA^Glut(혐오 용액에서 음의 scaling)의 비가 섭취물 가치·valence를 추적하고 소비 중 선조체 DA 전후축 지형을 인과적으로 설정; DA는 lick bout **개시**(bout 수)만 강화 (Neuron 2026, Stuber lab). _(본 항목은 🎯 Heterogeneity에, 🎯 Value broadcast에도)_
 - [[faour-2025-emerging-role-of-agrp]] — AgRP integrator (Luquet lab).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (Quarta·Cota).
 - [[littleton-2025-from-identity-to-function-unveiling]] — HypoMap·인간 atlas (Yeo lab).
@@ -179,7 +178,6 @@ _(섭식·동기 행동은 🍽️로)_
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — **vDMH^LepR/pDYN GABAergic → ARC^AgRP** 선택적 억제 입력(AgRP 100% vs POMC 9%)이 음식 cue 시 빠르게 활성·**음식 가치(초콜릿>chow) 부호화**해 AgRP를 끔(preconsummatory suppression의 시냅스 출처); Walker 2026 흥분성 입력의 거울상 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — **PVH TRH/PACAP → ARC^AgRP** 흥분성 회로가 섭식 구동("PVH=satiety" 통설 반전); AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로; Walker 2026 PVH^Sim2의 모태 (Nature 2014, Lowell lab).
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP가 aBNST·PVH·LHA·PVT로 **축 담보 거의 없이 부분군별 독립 투사**, 각 투사(aBNST·PVH·LHA)가 섭식-충분(one-to-all 기각); 병렬·중복 배선 = 생존행동의 redundancy (Cell 2013, Sternson lab).
-- [[gordon-2026-lateral-hypothalamic-control-of]] — LH^GABA/LH^Glut 비율이 섭취물 가치·valence 추적 + 선조체 DA 전후축 지형 인과 설정; DA는 섭취 개시(bout 수)만 강화 (Neuron 2026, Stuber lab). → 🎯 Value broadcast 참조.
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 세마글루타이드 반응 **NTS Adcyap1⁺→ARC / →DMH** 분업: 공통으로 단식 재급식·초콜릿 폭식만 **비혐오적**(CTA 없음) 억제·AgRP Fos↓; **→ARC = 섭취 무관 ketone↑·체중↓**, **→DMH = EE↓**; 반응 Adcyap1^NTS 절반이 `Slc32a1`⁺ (bioRxiv **preprint** 2026, Engström Ruud lab).
 
 ### 외측 시상하부 (LH) 문헌 클러스터 (2026-10 일괄 수집)
@@ -293,7 +291,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - [[mullard-2025-from-gene-hunter-to]] — Amgen CSO 인터뷰; MariTide를 modular therapeutic 사례로 거론, 인간유전학 표적검증 (NRDD 2025, "An audience with…"). _(주변부·산업)_
 - **신경보호·repurposing (대사 밖)** — 개념 hub [[concept-glp1-neuroprotection]] · [[concept-astrocyte-neuron-lactate-shuttle]] · 인물 [[person-edison-paul]]. **★[[sabbagh-2026-repurposing-glucagon-like-peptide-1]]** — 이 분야 종합 리뷰(Drucker·Holst·Cummings·van der Flier·Heneka·Tansey): AD·PD·ALS 근거·기전 총정리, "관찰 양성 vs RCT 음성" 결론·CNS 침투 차세대 필요 (Nature Aging 2026). · **★[[fang-2025-glucagon-like-peptide-1-medicines]]** — Drucker 광역 리뷰: 신경퇴행 + **물질사용장애(알코올·코카인·니코틴·대마)·정신질환·발작·편두통·뇌졸중**; SUD는 중변연계 GLP-1R 매개로 사용자 보상회로 연구 직결 (Cell Rep Med 2025). · **★[[cummings-2026-efficacy-and-safety-of-oral]]** — 경구 sema 초기 AD 3상 EVOKE/EVOKE+(n=3,808): 1차 CDR-SB·모든 2차 **음성→조기 중단**; CSF tau·neurogranin·YKL-40 5–10%↓(바이오마커-임상 해리) (Lancet 2026). · [[edison-2026-liraglutide-in-mild-to-moderate]] — liraglutide 알츠하이머 phase 2b(ELAD, n=204): 1차 뇌 포도당대사 음성, 2차 인지(ADAS-Exec +0.15, P=0.01)·탐색 뇌위축 둔화 유리 (Nat Med 2026, Imperial). · [[du-2026-oral-glp1-receptor-agonist-promotes]] — 뇌투과 경구 GLP-1RA **OHP2**: 성상교세포 GLP-1R→젖산→뉴런 **H3K9 젖산화**→지질 역수송으로 AD 마우스 치료(sema>OHP2), 효과는 뇌내 GLP-1R·LDHA 의존 (Cell Metab 2026). · [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] — sema/tirze 치매 HR 0.63·뇌졸중 0.81·사망 0.70↓ 대규모 코호트(JAMA NO 2025). · [[zhang-2025-real-world-observations-of-glp1]] — GLP-1RA·**SGLT-2i** 모두 AD↓ vs DPP-4i(Alz Dement 2025). *(RCT 음성 ↔ 관찰 양성 충돌: [[concept-glp1-neuroprotection]] 참조.)*
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 1993년 인간 GLP-1R 클로닝(463 aa)·exendin-4 agonist/exendin-(9-39) antagonist 규정과 그 30년 파급(약리·신호·인간유전·cryo-EM·화학생물학 probe)을 되짚은 "Classics" 해설; 뉴런 GLP-1R trafficking은 미탐색 공백 (Diabetes 2024, Thorens·Hodson).
-- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — GLP-1RA BBB 투과 약물별 분해 narrative review: exendin-4·lixisenatide 유입 측정됨, liraglutide·semaglutide는 유입 측정 불가(acylation·albumin 결합 역효과); 인간 직접 증거는 PD 환자 exenatide CSF ≈ 혈청 1–2% 한 건 (Neurol Ther 2025, McIntyre). 개념 hub [[concept-glp1ra-cns-penetrance]].
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — "GLP-1RA는 CNS 침투성인가" narrative review(14편)를 약물별로 분해: exendin-4·lixisenatide는 뇌 유입 측정됨, liraglutide·semaglutide는 유입 측정 불가(acylation·albumin 결합 역효과). ⚠️ 초록은 liraglutide·semaglutide·exenatide 통과를 말하지만 본문 데이터는 semaglutide 통과를 지지하지 않는다. 인간 근거는 대부분 간접 대리지표(fMRI)이고 직접 증거는 PD 환자 exenatide CSF ≈ 혈청 1–2% 한 건 (Neurol Ther 2025, McIntyre 그룹). 개념 hub [[concept-glp1ra-cns-access]].
 - [[dolgin-2026-brain-shuttle-biologics-chart-new]] — CNS 침투 biologic을 위한 **BBB shuttle**(TfR·CD98hc·IGF-1R receptor-mediated transcytosis) 산업 동향; 첫 승인약(Denali)·trontinemab(AD)·reticulocyte 독성·affinity tuning (NRDD 2026 News). 개념 [[concept-blood-brain-barrier-shuttle]]. GLP-1RA CNS 전달에 직접 함의.
 - [[le-roux-2026-survodutide-once-weekly-for]] — survodutide(글루카곤-R/GLP-1R dual) phase 3 SYNCHRONIZE-1: 당뇨 없는 비만 76주 −13.0% vs −5.4% (NEJM 2026).
 - [[kaplan-2026-survodutide-in-adults-with]] — survodutide phase 3 SYNCHRONIZE-MASLD: 비만+at-risk MASLD 48주 간지방 ≥30%↓ 84.2%·체중 −12.2%, 체중-독립적 간효과 (Nat Med 2026).
@@ -307,7 +305,6 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - [[kim-2021-mental-health-of-people]] — 전국 1,000명 왜곡 체중인지·의료적 체중조절의 심리 부담; DTx 표적 인구 정의 (IJCHP 2021, 사용자 lab).
 - [[concept-responsive-neurostimulation]] — 폐루프(responsive) DBS 개념 hub: biomarker 검출 시에만 자극하는 electroceutical.
 - [[concept-loss-of-control-eating]] — LOC eating·BED 표현형 개념 hub. NAc 저주파 biomarker의 임상 표적.
-- [[west-2025-are-glucagon-like-peptide-1]] — "GLP-1RA는 CNS 침투성인가" 14편 narrative review: 전임상은 liraglutide·semaglutide·exenatide의 BBB 통과를 지지하나 **인간 근거는 뇌 연결성 변화라는 간접 대리지표뿐**이고 표적 engagement 재현성은 미확립 (Neurol Ther 2025, McIntyre 그룹). ⚠️ 전문 미입수 상태로 정리 — 정량 침투 비교는 [[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[fang-2025-glucagon-like-peptide-1-medicines]]를 인용할 것.
 
 ### 인간 침습 전기생리·신경조절 (Human iEEG / Closed-loop DBS — Halpern)
 Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 + responsive DBS 클러스터.
@@ -539,9 +536,8 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-glp1ra-response-variability]] — GLP-1RA 반응 이질성 4층(임상·유전·행동 표현형·회로)과 예측 성능 상한
 - [[concept-glucagon-receptor-agonism]] · [[concept-amylin-receptor-agonists]] — 비-GLP-1 파트너 약물 클래스(EE·포만)
 - [[concept-peptide-drug-conjugate]] · [[concept-blood-brain-barrier-shuttle]] — 조직특이·CNS 표적 전달
-- [[concept-glp1ra-cns-penetrance]] — GLP-1RA가 뇌에 닿는 6경로(CVO·tanycyte·수용체매개·수동확산·저분자·회로중계) × 증거등급 A–F × 약물별 지도 hub
 - [[concept-de-novo-protein-design]] · [[concept-ai-drug-discovery]] — AI 리간드 설계·타깃 발굴
-- ★ [[concept-glp1ra-cns-access]] — **GLP-1RA 중추 접근 4층 hub**(CVO·tanycyte·BBB 본체·미주 간접): 약물별 접근 증거 표(exendin-4·lixisenatide만 BBB 본체 통과 / liraglutide·semaglutide는 CVO+tanycyte 한정 / tirzepatide 미통과 / 소분자도 농도 기준 0.0078로 펩타이드 동급), 인간 CSF:plasma 0.02–2.1%, "어느 행동 효과가 어떤 접근을 요구하나" 귀속 사다리, 충돌 8건 병기. 서지 노드는 [[west-2025-are-glucagon-like-peptide-1]].
+- ★ [[concept-glp1ra-cns-access]] — **GLP-1RA 중추 접근 4층 hub**(CVO·tanycyte·BBB 본체·미주 간접; 6경로 분류와의 대응 포함): 증거등급 A–F 사다리, 약물별 접근 증거 표(exendin-4·lixisenatide만 BBB 본체 통과 / liraglutide·semaglutide는 CVO+tanycyte 한정 / tirzepatide는 출처 간 상충 병기 / 소분자도 농도 기준 0.0078로 펩타이드 동급), 인간 CSF:plasma 0.02–2.1%, "어느 행동 효과가 어떤 접근을 요구하나" 귀속 사다리, 분자 설계 결정인자·lab 실무 규칙, 충돌 10건 병기. 서지 노드는 [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]].
 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
@@ -708,7 +704,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 선조체 전역 dSPN/iSPN 칼슘 **× 글루탐산 입력** 병렬 측정으로 신호의 기원을 해리: cue 위치·licking은 **상속**, **pDMS 경로대립 가치(dSPN⁺/iSPN⁻)** 와 **pVLS dSPN ramping**은 **국소 변환**. 학습은 전역 가치를 부과하지 않고 선재 감각 scaffold 위에만 얹힌다 (bioRxiv 2026, Howe lab).
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 도파민의 또 다른 역할: **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). _(본문은 🧩에)_
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — VTA 도파민 뉴런의 **크로마틴 priming**(SETD7·H3K4me1)이 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭; 기저 상태는 정상 (Neuron 2026). _(본문은 🍽️ 발달/DOHaD에)_
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 내 salience vs value-scaled consumption ensemble 분리 (Cell Rep 2026).
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 내 salience vs value-scaled consumption ensemble 분리 (Cell Rep 2026).
 
 ### 진영 — Interoceptive primary reward (RL framework)
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — Primary/proxy/secondary reward + state-driven vs event-driven (Trends Cogn Sci 2025).
@@ -726,7 +722,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — VTA spike vs NAc release dual-channel (Nature 2019).
 - [[rice-2019-closing-in-on-what-motivates]] — Mohebi 2019 News & Views (Nature 2019).
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — **cue-유발 NAc 도파민=주관적 가치**(reward 시점 도파민 아님)가 자연 vs 인공보상 선호·처벌 무릅쓴 compulsion을 예측; 중독 취약성 조기 표지 (Nat Neurosci 2026, Lüscher lab). _(유인-감작·food addiction과 직결)_
-- [[gordon-2026-lateral-hypothalamic-control-of]] — LH^GABA/LH^Glut 균형(LHA^Ratio)이 섭취물 가치·valence를 추적하고 선조체 DA를 전후축 gradient(전측 가치/후측 감각운동/TS 평행 채널)로 **인과 설정**; DA는 섭취 개시(bout 수)를 강화·지속은 비강화; subregion별 국소 제어(spiral cascade 아님) (Neuron 2026, Stuber lab).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/LH^Glut 균형(LHA^Ratio)이 섭취물 가치·valence를 추적하고 선조체 DA를 전후축 gradient(전측 가치/후측 감각운동/TS 평행 채널)로 **인과 설정**; DA는 섭취 개시(bout 수)를 강화·지속은 비강화; subregion별 국소 제어(spiral cascade 아님) (Neuron 2026, Stuber lab).
 
 ### 진영 — Belief-state / hidden-state inference
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — belief-state RPE 종합 (NN 2024).

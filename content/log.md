@@ -8,6 +8,23 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 — lint (로컬·클라우드 병합, 중복 4쌍 통합) + 운영 구조 변경
+
+- **병합**: 2026-10-03 저녁 로컬 작업(12페이지 + 수정)과 클라우드 세션 커밋 18개를 합침. 충돌 33개 파일은 양쪽 추가분을 모두 유지.
+- **중복 통합 4쌍** (같은 논문·주제를 로컬과 클라우드가 따로 ingest):
+  - [[gordon-2026-lateral-hypothalamic-control-of-the]] ← `gordon-2026-lateral-hypothalamic-control-of`
+  - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] ← `lee-2026-distinct-lateral-hypothalamic-gabaergic`
+  - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] ← `west-2025-are-glucagon-like-peptide-1` (전문 없이 작성됐던 쪽. 아래 2026-10-03 항목의 "전문 미입수" 표기는 이 통합으로 해소됨)
+  - [[concept-glp1ra-cns-access]] ← `concept-glp1ra-cns-penetrance` (4층 틀 유지, 6경로 대응·증거등급 A–F·분자 설계 결정인자·lab 실무 규칙 편입)
+  - 위키 전체 링크 248개를 대표 파일명으로 통일, 다른 페이지의 이중 bullet 37개 병합, 목차 중복 항목 정리(총 522페이지).
+- **PDF 대조로 바로잡은 것**:
+  - West 2025 — 초록은 liraglutide·semaglutide·exenatide 통과를 말하지만 본문 데이터(Salameh)는 exendin-4·lixisenatide만 유입 측정, semaglutide 통과는 미지지 → 층위별 진술 표로 병기. dulaglutide는 West에 데이터 없음(hub의 "not CNS penetrant 분류" 서술 정정). Sabbagh 2026의 "통과 보고"는 West 2025를 인용한 것이라 독립 근거가 아님.
+  - Gordon 2026 — LHA^Glut 음의 scaling은 WR:NaCl에서만(세 조건 모두가 아님), "DA sustains feeding" 인용 위치 정정.
+  - Lee 2026 — Nieh 2015 → Nieh 2016, 가치 순서 F-D 100% > F-D 25% > ad lib 100%.
+- **⚠️ 미해결**: Gordon 2026 PDF 내부 불일치(LHA photometry n=12 vs 17, 억제 광출력 10 mW vs 3 mW) / Lee 2026 Ex-4 일정(Methods vs Fig 6 legend) / tirzepatide BBB 통과 여부 출처 간 상충 / [[concept-tanycytes]] takeaway의 "tanycyte LepR-EGFR shuttle (Imbernon 2022)"은 hub의 "tanycyte GLP-1R" 서술과 어긋남 — Imbernon 원문이 raw에 없어 미확인.
+- **소소한 정정**: [[concept-lateral-hypothalamus]]의 저널 표기 2건(Liu 2023 = Neuron, Subramanian 2023 = Nat Commun), [[lee-2023-lateral-hypothalamic-leptin-receptor]]의 붙어 있던 bullet 분리.
+- **운영 구조**: 저장소에 `CLAUDE.md` 추가. 데스크톱 작업 폴더는 Google Drive `llm-wiki-share`, 원본 PDF는 `llm-wiki-raw`. 데스크톱의 동기화 스크립트가 Drive 폴더와 이 저장소를 양방향으로 맞춤. `index.md`·`log.md`는 union 병합.
+
 ## 2026-10-03 (4) — ingest (Aronne 2025 NEJM, SURMOUNT-5 head-to-head)
 
 "ingest" 트리거. `raw/` 대조 결과 **신규 1건**: `2025 NEJM Tirzepatide as Compared with Semaglutide for the Treatment of Obesity.pdf`(22:42 투입). 위키 중복 검사 통과(SURMOUNT-5 관련 서술 없음). 나머지 미참조 파일은 모두 기존 판정대로 중복 사본·보충자료·비논문. `wiki/`와 루트에 잘못 들어간 PDF 없음.
@@ -79,7 +96,7 @@
 
 **새 페이지 9**
 - 논문: [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] · [[gordon-2026-lateral-hypothalamic-control-of-the]]
-- 개념: [[concept-anccr]](회고적 인과 학습 hub) · [[concept-glp1ra-cns-penetrance]](GLP-1RA 뇌 도달 6경로 × 증거등급 × 약물) · [[concept-striatal-dopamine-gradient]](선조체 DA 공간 분업·후→전 파동)
+- 개념: [[concept-anccr]](회고적 인과 학습 hub) · [[concept-glp1ra-cns-access]](GLP-1RA 뇌 도달 6경로 × 증거등급 × 약물) · [[concept-striatal-dopamine-gradient]](선조체 DA 공간 분업·후→전 파동)
 - 인물: [[person-stuber-garret]](위키 내 원저 2 + 리뷰 1 + 공저 1)
 
 **핵심 내용**
@@ -127,7 +144,7 @@
 - **기능이 서로 다른 분획에 귀속**: Heiss는 glut ~80% = 각성 / GABA ~20% = 보행운동(DTA 분리 입증). Tan은 **미확인 vGluT2⁻ 36.13%** = 포식 섭취(Cre-OFF DO-GCaMP + vGluT2-caspase3 사멸로 논증).
 - ***Camk2a*는 [[mickelsen-2019-single-cell-transcriptomic-analysis-of]]의 15+15 census에 단일 클러스터로 대응되지 않는다.** Heiss 저자들 스스로 "CaMKIIα보다 더 특이적인 분자 표지가 필요"하다고 적었다.
 
-**⚠️ 충돌·긴장 7건 병기**(hub ⚠️ 절) — ① 두 논문 간 GABA 분율 재현 불가(항체·리포터·serotype·좌표 차이 병기) ② **"LH^Vglut2 = brake"**([[jennings-2013-the-inhibitory-circuit-architecture]]·[[rossi-2019-obesity-remodels-activity-and]]·[[stuber-2016-lateral-hypothalamic-circuits-for]]) vs Tan의 섭취 폭증 — ★ **양쪽 증거가 Tan 논문 안에 공존**: vGluT2-caspase3 절제가 well-fed 마우스의 자발 사냥을 풀었다는 결과는 brake 모델을 **지지**한다 ③ 전달물질 기반 carving vs 프로모터 기반 carving ④ orexin 중심 각성 서사 vs Hcrt 9.3%·ALM 무효(Tan은 Hcrt 미측정) ⑤ [[jia-2026-novelty-exploration-activated-ensemble-in]](Vgat⁺·Vglut2⁺ 모두 작동) vs Tan(거의 비-GABA) — 같은 LH×신규성 축 ⑥ Heiss vs **Venner 2016 "wake-promoting ventral LH GABA"** 정면 불일치(저자는 Venner의 각성 증가가 LMA 증가의 2차 결과일 가능성 제시) ⑦ seeking/consumption 분리가 **세 가지 다른 세포 좌표계**에서 각각 보고됨([[lee-2026-distinct-lateral-hypothalamic-gabaergic]]·[[liu-2026-granular-motivational-interaction-and]]·Tan 2022) — 수렴 원리인가 비특이 조작이 같은 행동 축을 당기는 것인가.
+**⚠️ 충돌·긴장 7건 병기**(hub ⚠️ 절) — ① 두 논문 간 GABA 분율 재현 불가(항체·리포터·serotype·좌표 차이 병기) ② **"LH^Vglut2 = brake"**([[jennings-2013-the-inhibitory-circuit-architecture]]·[[rossi-2019-obesity-remodels-activity-and]]·[[stuber-2016-lateral-hypothalamic-circuits-for]]) vs Tan의 섭취 폭증 — ★ **양쪽 증거가 Tan 논문 안에 공존**: vGluT2-caspase3 절제가 well-fed 마우스의 자발 사냥을 풀었다는 결과는 brake 모델을 **지지**한다 ③ 전달물질 기반 carving vs 프로모터 기반 carving ④ orexin 중심 각성 서사 vs Hcrt 9.3%·ALM 무효(Tan은 Hcrt 미측정) ⑤ [[jia-2026-novelty-exploration-activated-ensemble-in]](Vgat⁺·Vglut2⁺ 모두 작동) vs Tan(거의 비-GABA) — 같은 LH×신규성 축 ⑥ Heiss vs **Venner 2016 "wake-promoting ventral LH GABA"** 정면 불일치(저자는 Venner의 각성 증가가 LMA 증가의 2차 결과일 가능성 제시) ⑦ seeking/consumption 분리가 **세 가지 다른 세포 좌표계**에서 각각 보고됨([[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]]·[[liu-2026-granular-motivational-interaction-and]]·Tan 2022) — 수렴 원리인가 비특이 조작이 같은 행동 축을 당기는 것인가.
 - Tan 자인 한계: 역행성 활성화 대조군 없음, **Fig S6 보상 효과로 LH 중계의 필요성이 분리되지 않음**, 공표지 n=2마리, 수컷만.
 
 **갱신 11** — [[concept-lateral-hypothalamus]](cell types의 Camk2a 항목에 경고 하위불릿) · [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] · [[concept-neurotransmitter-cotransmission]] · [[jia-2026-novelty-exploration-activated-ensemble-in]] · [[concept-medial-preoptic-area]] · [[concept-orexin-neurons]] · [[concept-activity-molecular-registration]] · [[concept-appetitive-consummatory-phases]] · [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] · [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]] 외 · [[index.md|wiki/index.md]](🧠 시상하부 핵에 hub, LH 클러스터 세포 유형·아틀라스에 논문 2편; 총 514).
@@ -141,7 +158,7 @@
 사용자 지시: West 2025 narrative review 추가 ingest + "glp-1 drug bbb penetration 관련 조사". ⚠️ **이 세션의 egress 프록시가 논문 호스트 전부를 차단**(link.springer.com·doi.org·PMC·Europe PMC·jci.org·cell.com·nature.com·Crossref 등 `EGRESS_BLOCKED`). WebSearch만 작동 → **웹 문헌은 모두 검색 요약 기반이며 1차 원문 미열람**. 두 페이지 모두 상단에 근거 수준 고지 박스를 넣고 문장별로 표기했다. **후속: `raw/`에 West 2025(+2025 Correction doi:10.1007/s40120-025-00758-2) · Secher 2014 · Gabery 2020 · Salameh 2020 · Imbernon 2022 · Christensen 2015 PDF 확보 후 (B)·(C) 칸 교체 필요.**
 
 **새 페이지 2**
-- [[west-2025-are-glucagon-like-peptide-1]] — Neurol Ther 14(4):1157–1166, doi:10.1007/s40120-025-00724-y; McIntyre 그룹. 14편 narrative review. **(A 초록 수준)** 전임상은 liraglutide·semaglutide·exenatide의 BBB 통과를 지지하나, 인간 근거는 **뇌 연결성 변화라는 간접 대리지표**이고 최종 결론은 "select GLP-1RA는 침투하나 **정신병리 차원을 떠받치는 신경 표적을 재현적으로 engage하는지는 미규명**". ⚠️ 전문 미입수 — 정량 침투 비교는 본 논문이 아니라 [[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[fang-2025-glucagon-like-peptide-1-medicines]]를 인용할 것.
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — Neurol Ther 14(4):1157–1166, doi:10.1007/s40120-025-00724-y; McIntyre 그룹. 14편 narrative review. **(A 초록 수준)** 전임상은 liraglutide·semaglutide·exenatide의 BBB 통과를 지지하나, 인간 근거는 **뇌 연결성 변화라는 간접 대리지표**이고 최종 결론은 "select GLP-1RA는 침투하나 **정신병리 차원을 떠받치는 신경 표적을 재현적으로 engage하는지는 미규명**". ⚠️ 전문 미입수 — 정량 침투 비교는 본 논문이 아니라 [[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[fang-2025-glucagon-like-peptide-1-medicines]]를 인용할 것.
 - [[concept-glp1ra-cns-access]] — ★ **GLP-1RA 중추 접근 4층 개념 hub**(232행). 위키 내 55개 페이지의 BBB 언급 + 웹 1차 문헌을 통합.
 
 **핵심 정리 — "BBB를 못 넘는다"와 "중추에서 작동한다"가 둘 다 맞다**
@@ -193,7 +210,7 @@
 - Orexin/MCH: [[harris-2005-a-role-for-lateral]](LH orexin=보상/재발 vs PFA/DMH=각성, R=0.72–0.90) · [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]](포도당·leptin 억제/ghrelin 흥분) · [[domingos-2013-hypothalamic-melanin-concentrating-hormone]](MCH가 당의 영양 가치를 선조체 DA로) · [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]]
 - 상태 게이팅: [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]](LH^LepR이 불안을 상쇄 — anxiogenic 맥락에서만 섭식 개시↑)
 
-**갱신 ~120** — 역방향 링크·⚠️ 병기(+`updated:` 갱신). 핵심: [[concept-lateral-hypothalamus]](심화 종합 링크 + 전 절 보강) · [[cheon-2025-lateral-hypothalamus-and-eating-cell]] · [[kim-2024-normative-framework-dissociates-need]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[concept-appetitive-consummatory-phases]] · [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] · [[concept-orexin-neurons]] · [[concept-neurotensin]] · [[rossi-2023-control-of-energy-homeostasis]] · [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] · [[gordon-2026-lateral-hypothalamic-control-of]] · [[index.md|wiki/index.md]](🍽️에 "외측 시상하부 (LH) 문헌 클러스터" 8 테마 신설, 🌐에 종합 등재; 총 509).
+**갱신 ~120** — 역방향 링크·⚠️ 병기(+`updated:` 갱신). 핵심: [[concept-lateral-hypothalamus]](심화 종합 링크 + 전 절 보강) · [[cheon-2025-lateral-hypothalamus-and-eating-cell]] · [[kim-2024-normative-framework-dissociates-need]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[concept-appetitive-consummatory-phases]] · [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] · [[concept-orexin-neurons]] · [[concept-neurotensin]] · [[rossi-2023-control-of-energy-homeostasis]] · [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] · [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[index.md|wiki/index.md]](🍽️에 "외측 시상하부 (LH) 문헌 클러스터" 8 테마 신설, 🌐에 종합 등재; 총 509).
 
 **방법**: 논문 1편 = 에이전트 1개(원문 전수 독해 → 페이지 작성 → 백링크) + **원문 대조 fact-check 에이전트**(저자·서지·모든 수치·효과 방향·필요/충분 구분·추론 분리·링크 해소 검증) + 통합 검증. 이후 6 렌즈 분석 → 충돌 적대적 검증 → 종합 작성 → 리뷰.
 
@@ -203,7 +220,7 @@
 3. **LH^Vglut2** — brake인가 기호성 과식 구동자인가.
 4. **MCH 전달물질·LepR 발현** — 리뷰 표(혼합·*Lepr* 공발현) vs 1차 census(*Slc17a6* 100%, *Lepr* 미검출).
 5. **세포 유형 총 개수·구획 체계** — 좌표 격자 4구획 vs *Otp*/*Meis2* 비스듬한 9 하위구역(대응표 문헌에 없음).
-6. **선조체 DA가 섭식을 지속시키는가** — 통념 vs [[gordon-2026-lateral-hypothalamic-control-of]](개시=bout 수만).
+6. **선조체 DA가 섭식을 지속시키는가** — 통념 vs [[gordon-2026-lateral-hypothalamic-control-of-the]](개시=bout 수만).
 7. **인용 오류 1건 발견**: [[stuber-2025-the-neurobiology-of-overeating]]이 "LHA GABA→VTA disinhibition (Jennings 2013)"로 인용하나 Jennings 2013 Science는 **BNST→LH** 논문 → 병기 메모.
 
 **연구 제안 16건**(종합 §11, 우선순위순). ★★★: ① LH^LepR 분자 주소 확정(EASI-FISH 재탐침) ② 활성–분자 정합으로 seeking 25%/consummatory 39% subset 정체 규명 ③ **조건 좌표계 2×2×2 교차 설계로 LepR 부호 논쟁 종결** ④ Lepr-Cre × Vgat-Flp INTERSECT로 도구 순도 개선 ⑤ Sharpe 3종 세트(SOC·SPC·latent inhibition) 이식으로 학습 vs 수행 판정.
@@ -215,9 +232,9 @@
 "ingest" 트리거(클라우드 세션). 이 세션에는 로컬 `raw/`가 없어, Google Drive **"최형진 추천 _ 저널 발표 후보 논문들(사용중)"** 폴더에서 09-19 이후 추가된 PDF 5건을 위키 `source:`와 대조 → **5건 모두 미정리**. Drive 원문을 직접 읽어 정리. 각 페이지 `source:`는 관례대로 `raw/<Drive 파일명>`으로 기재했으나 **실제 `raw/` 복사는 로컬에서 필요**.
 
 **새 페이지 7** (논문 5 + 개념 2)
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — Cell Rep 45:118049, doi:10.1016/j.celrep.2026.118049; SNU 김성연 lab.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Cell Rep 45:118049, doi:10.1016/j.celrep.2026.118049; SNU 김성연 lab.
   - LH^Vgat 세션 간 2-photon 추적 → **motivational salience ensemble**(열 처벌·caged PB 공통, r=0.59; 중립 tone·동공 각성만으론 무반응) vs **value-scaled consumption ensemble**(먹이·물 공통 흥분 90/366, r=0.62; 금식+100% > 25% 희석 ≈ 자유급식). Ex-4는 진폭만↓(class 비율 불변). IO vs IG: 먹이 겹침 30/93, 물은 우연 수준 10/77.
-- [[gordon-2026-lateral-hypothalamic-control-of]] — Neuron (in press), doi:10.1016/j.neuron.2026.09.002; Stuber lab.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — Neuron (in press), doi:10.1016/j.neuron.2026.09.002; Stuber lab.
   - LH^GABA(+)/LH^Glut(−) 가치 scaling → **LHA^Ratio**. GRAB-DA 223 fiber/47 mice/7 subregion: GABA→전측 DA↑, Glut→전측↓·**TS↑**. 말단 자극 DA는 국소적(초 단위 spiral cascade 없음). 섭취 DA 후측→전측 gradient. closed-loop DA는 **bout 수(개시)↑**, 지속 비강화(DLS OR 1.32). 상대가치 의존·saccharin > sucrose.
 - [[bonnefond-2026-the-genetics-of-obesity]] — Nat Metab 8:778–794, doi:10.1038/s42255-026-01497-w; Froguel·Bonnefond (리뷰).
   - 유전율 40–75%; monogenic >85형(절반 이상 leptin–melanocortin)·oligogenic(APBA1·PTPRG·SLTM·GLP1R burden)·polygenic(GWAS >1,000 loci) 연속체. MC4R 침투도 연령·PRS 의존(2.2× vs 9.7×). PRS 최상위 10분위 BMI 30.0 vs 25.2. setmelanotide POMC/PCSK1 80%·LEPR 53% vs 이형접합 MC4R ~3 kg. CTS(140–2,166 kcal) 유전점수 AUC 0.82 → 낮은 CTS = liraglutide 반응↑.

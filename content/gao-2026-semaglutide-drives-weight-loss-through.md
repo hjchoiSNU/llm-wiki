@@ -60,7 +60,7 @@ journal: Nature Metabolism
 - [[johansen-2025-brain-control-of-energy]] — incretin 약물·NTS satiety/AP aversion 종합 (Cell 2025).
 - [[stuber-2025-the-neurobiology-of-overeating]] — GLP1RA BBB·CVO 기전 논의 (Neuron 2025).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ⚠️ **대비**: 본 논문이 semaglutide 1차 표적을 **AP**로 좁히는 데 비해, 이 리뷰는 Gabery 2020을 들어 semaglutide가 **ARC POMC/CART 활성·NPY/AgRP 억제**를 한다고 정리한다(CVO 인접부 경유). 전신 투여 semaglutide의 뇌 유입 Ki는 양쪽 모두 측정되지 않는다는 점은 공통 (Neurol Ther 2025).
-- [[concept-glp1ra-cns-penetrance]] — "BBB를 거의 통과하지 못하고 CVO에 작용한다"는 본 논문 전제의 약물별·증거등급별 hub.
+- [[concept-glp1ra-cns-access]] — "BBB를 거의 통과하지 못하고 CVO에 작용한다"는 본 논문 전제의 약물별·증거등급별 hub. 본 논문의 'AP=1차 작용부위'를 중추 접근 **4층 모델의 ①층**에 배치하고, 세마글루타이드가 애초에 **BBB를 통과하지 않는다**는 1차 근거(Gabery 2020, *JCI Insight* 5:e133429 — LSFM 전뇌 영상; Salameh 2020 — 아실화 약물 Ki 음성)를 붙임. ⚠️ tanycyte 경로(Imbernon 2022)·뇌간 상행 중계([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem|Blid Sköldheden 2026]])와의 **크기(magnitude) 충돌**을 병기.
 - [[concept-basolateral-amygdala]] — CeA(세마글루타이드 Fos 동원) 구분.
 - [[duran-2026-the-central-amygdala-integrates]] — CeA가 말초 GLP-1RA(Ex-4)를 통합; 세포종류별(Prkcd·Glp1r) hypophagia 분업 (bioRxiv 2026).
 - [[concept-central-amygdala-glp1r]] — 세마글루타이드 Fos가 동원하는 CeA^Glp1r 노드 개념 hub.
@@ -81,4 +81,3 @@ journal: Nature Metabolism
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문의 **Gs 중심성에 대응하는 인간 유전 층**: GWAS(random glucose, n=476,326)에서 **Gs 공역 강도가 GLP-1R 변이 효과크기를 예측**한다. 마우스 AP의 Gs–cAMP 필수성과 인간 변이 효과가 **같은 변수**를 가리킴 (Diabetes 2024 Classics).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 임상에서 semaglutide 72주 −13.7%(최대내약); 본 논문이 규명한 AP Gs–cAMP 축의 임상 대응치 (NEJM 2025, SURMOUNT-5)
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ **NTS 역할 해석의 긴장(병기)**: 본 논문은 'AP에만 Gs를 보존해도 체중감량 회복·NTS Gnas 결손은 체중과 무상관'을 보였고, 저 preprint는 'Adcyap1^NTS 뉴런과 그 ARC/DMH 투사가 세마글루타이드 효과의 relay'라고 주장한다. 두 진술은 **층위가 다르다** — 여기서의 NTS는 **GLP-1R을 받는 세포의 Gs 신호**, 저쪽의 Adcyap1^NTS는 **AP GLP1R 하류의 회로 노드**(수용체 비의존). "NTS가 약물을 직접 감지하지 않아도 중계는 한다"가 현재 가장 단순한 봉합이나 **한 실험 안에서 검증되지 않았다** (bioRxiv preprint 2026).
-- [[concept-glp1ra-cns-access]] — 본 논문의 'AP=1차 작용부위'를 중추 접근 **4층 모델의 ①층**에 배치하고, 세마글루타이드가 애초에 **BBB를 통과하지 않는다**는 1차 근거(Gabery 2020, *JCI Insight* 5:e133429 — LSFM 전뇌 영상; Salameh 2020 — 아실화 약물 Ki 음성)를 붙임. ⚠️ tanycyte 경로(Imbernon 2022)·뇌간 상행 중계([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem|Blid Sköldheden 2026]])와의 **크기(magnitude) 충돌**을 병기.

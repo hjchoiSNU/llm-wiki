@@ -1,1 +1,5 @@
 * text=auto eol=lf
+# Both the desktop and cloud sessions add entries to these two files; keep both sides instead of
+# stopping on a conflict (a duplicated page-count line in index.md is fixed at the next ingest).
+content/log.md merge=union
+content/index.md merge=union

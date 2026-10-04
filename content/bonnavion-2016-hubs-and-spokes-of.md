@@ -102,7 +102,7 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
 - **LH^LepR 부호 논쟁의 "leptin 축" 뿌리**: 위키의 LH^LepR 섭식 부호 논쟁([[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]] 섭취↑ · [[siemian-2021-lateral-hypothalamic-lepr-neurons|Siemian 2021]] 무변 · de Vrind 2019·[[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]] 섭취↓)에서, 이 리뷰는 **네 번째 좌표 = "leptin이 켜는 포만·항스트레스 축"**을 제공한다. LepR를 "배고픔 구동 Motivation"으로 보는 사용자 lab 틀과, "leptin 감지 → Hcrt 억제 → HPA 진정"으로 보는 de Lecea 틀은 **같은 marker의 서로 다른 하위집단·방향**일 수 있다. 검증: Lepr-Cre × (Nts/Gal/MC4R) 교차 × phase-isolated paradigm으로 seeking subset(사용자 lab)과 Hcrt-억제 subset(이 리뷰)이 분자적으로 분리되는지.
 - **NMPU에 각성·HPA 축 추가**: [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]는 Need·Motivation·Pleasure·Utility를 다루지만, 이 리뷰는 LHA가 **수면·각성 상태**와 **HPA 스트레스 축**을 동시에 조율함을 보인다. Motivation 출력을 측정·조작할 때 **각성 상태와 corticosterone**을 통제·공변량으로 넣어야 한다는 설계 근거.
 - **섭식과 분리된 스트레스 구제**: ob/ob에서 LH^LepR 활성이 **섭식을 바꾸지 않고 corticosterone만 정상화**한 결과는, 비만·AN의 정서·섭식 분리 표현형을 겨냥한 회로 선택적 중재(DTx·전기약물)의 원리 제공. [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]의 hunger×anxiety arbitration 틀의 10년 전 선구.
-- **co-transmission이 Motivation 신호의 "주파수 코드"**: Barbano 2016(LHA^GABA→VTA, 5–10 Hz=섭식 / 40 Hz=보상)과 Schöne 2012/2014(Hcrt: 저주파 glutamate / 고주파 펩타이드)는 **발화 주파수가 공동방출 성분을 선택**함을 시사. NMPU의 Motivation 스칼라가 발화 주파수로 인코딩된다면, 같은 세포가 주파수에 따라 섭식 vs 보상을 낸다 — [[gordon-2026-lateral-hypothalamic-control-of|Gordon 2026]]의 GABA/Glu 비율 코드와 보완.
+- **co-transmission이 Motivation 신호의 "주파수 코드"**: Barbano 2016(LHA^GABA→VTA, 5–10 Hz=섭식 / 40 Hz=보상)과 Schöne 2012/2014(Hcrt: 저주파 glutamate / 고주파 펩타이드)는 **발화 주파수가 공동방출 성분을 선택**함을 시사. NMPU의 Motivation 스칼라가 발화 주파수로 인코딩된다면, 같은 세포가 주파수에 따라 섭식 vs 보상을 낸다 — [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]의 GABA/Glu 비율 코드와 보완.
 
 ## ⚠️ 위키 내 충돌·긴장 (병기 — 덮어쓰지 않음)
 - **LH^LepR의 "섭식 방향"** — 이 리뷰(그리고 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]·[[leinninger-2011-leptin-action-via-neurotensin|Leinninger 2011]])는 LH^LepR를 **leptin이 켜서 섭식을 줄이고 Hcrt를 억제하는 GABA 노드**로 그린다. [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]·[[kim-2024-normative-framework-dissociates-need|Kim 2024]](사용자 lab)는 LH^LepR를 **배고픔(NPY 탈억제)이 켜서 seeking·섭취를 구동하는 Motivation 노드**로 본다. 모순이 아니라 **하위집단·조작 방식(leptin 약리 vs 세포 광유전)·phase 설계**의 차이로 병기. [[concept-lateral-hypothalamus]] 쟁점 절과 연결.
@@ -126,7 +126,7 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] · [[jennings-2013-the-inhibitory-circuit-architecture]] — 이 리뷰 Fig 3A의 핵심 LHA^GABA/Glu·BNST→LHA 원전.
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — NAc^D1R→LHA^GABA 섭식 중단 회로(Fig 3A).
 - [[nieh-2016-inhibitory-input-from-the]] — LHA^GABA→VTA disinhibition 보상 회로.
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat salience vs consumption ensemble. 이 리뷰의 "LHA^GABA appetitive/consummatory 2군"(Jennings 2015) 서술의 단일세포 후속.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat salience vs consumption ensemble. 이 리뷰의 "LHA^GABA appetitive/consummatory 2군"(Jennings 2015) 서술의 단일세포 후속.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH hunger×anxiety×social arbitration. 이 리뷰의 LepR–불안–섭식 교차점 지목의 현대 확장.
 - [[concept-paraventricular-nucleus]] — LHA^Pdx1/GABA→PVN 섭식(Wu 2015)·HPA 간접 억제.
 - [[concept-lateral-septum]] — MCH→LS glutamate 방출(Chee 2015)·LHA^MCH→MS REM θ 안정.

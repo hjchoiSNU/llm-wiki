@@ -133,7 +133,7 @@ Heiss 2024는 CaMKIIα 라벨의 **20–33%가 GABAergic**이라고 세고 그 �
 
 | 보고 | 좌표계 | 분업 |
 |---|---|---|
-| [[lee-2026-distinct-lateral-hypothalamic-gabaergic\|Lee 2026]] | LH^**Vgat** 내부 ensemble | salience ensemble vs **value-scaled consumption** ensemble (비중첩, Cal-Light 투사로도 구분 안 됨) |
+| [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles\|Lee 2026]] | LH^**Vgat** 내부 ensemble | salience ensemble vs **value-scaled consumption** ensemble (비중첩, Cal-Light 투사로도 구분 안 됨) |
 | [[liu-2026-granular-motivational-interaction-and\|Liu 2026]] | LH^**GABA** 전체 | **initiation hub** (개시 vs 유지) |
 | [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein\|Tan 2022]] | LH^**CaMKIIα**(비GABA 주장) × **출력 경로**(세포체 vs vPAG 말단) | 세포체 = 추격·운반 / vPAG 말단 = 물기·섭취 / 상류 MPOA→LH 말단 = 사냥만 |
 
@@ -200,7 +200,7 @@ Heiss 2024는 CaMKIIα 라벨의 **20–33%가 GABAergic**이라고 세고 그 �
 
 **⚠️ 충돌 상대 — brake 프레임과 분업 좌표계**
 - [[jennings-2013-the-inhibitory-circuit-architecture]] · [[rossi-2019-obesity-remodels-activity-and]] · [[rossi-2021-transcriptional-and-functional-divergence]] · [[stuber-2016-lateral-hypothalamic-circuits-for]] — "LH^Vglut2 = brake" 원전들. Tan의 섭취 폭증과 병기(단, Tan의 caspase3 결과는 brake를 지지).
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] · [[liu-2026-granular-motivational-interaction-and]] · [[liu-2023-an-iterative-neural-processing]] — 같은 seeking/consumption 분업의 다른 좌표계들.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] · [[liu-2026-granular-motivational-interaction-and]] · [[liu-2023-an-iterative-neural-processing]] — 같은 seeking/consumption 분업의 다른 좌표계들.
 
 **사용자 lab · 프레임**
 - [[concept-lateral-hypothalamus]] — LH 개념 hub.

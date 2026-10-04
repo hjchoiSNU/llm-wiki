@@ -98,7 +98,7 @@ dLS의 **GLP-1R 발현 뉴런**은 **LHA로 GABA성 단시냅스 억제**를 보
 - **[[kim-2025-mechanisms-of-glucagon-like-peptide|Kim 2025]] 리뷰의 "LS GLP-1R 활성 → feeding↓" 서술**: 본 논문은 **세포체 활성화로는 그 효과가 재현되지 않고**(ns), **투사 특이 활성화 + 금식 조건**에서만, 또는 **LHA 종말 광자극**에서만 나타난다. 리뷰의 요약 문장은 **조작 범위·상태 조건을 명시해 다시 써야 한다**(병기).
 - **[[cao-2024-hunting-for-heroes-brain|Cao 2024]]의 비판과 정확히 겹침**: "**GLP-1R 뉴런 조작 ≠ GLP-1R 결손**"이라는 지적이 본 논문에 그대로 적용된다 — 본 논문은 `Glp1r`를 **삭제하지 않았다**. Cao가 소개한 **Chen 2024 JCI**(LS GLP-1R knockdown이 liraglutide 효과를 거의 소실시킴)가 **수용체 수준의 짝**이고, 본 논문은 **회로 수준의 짝**이다. 둘을 합치면 "LS GLP-1R = 필요(수용체) + 충분 경로(회로)"가 되지만, **같은 동물·같은 지표에서 함께 검증된 바는 없다**.
 - **[[duran-2026-the-central-amygdala-gates|Duran 2026]]·[[johansen-2025-brain-control-of-energy|Johansen 2025]]가 "LS GLP-1R 역할 불명"으로 남긴 공백**: 본 논문이 그 공백의 **회로 쪽 답**이다. 단 Duran/Johansen이 다루는 **GLP-1RA의 NAc 도파민 억제·혐오 성분**과 본 논문의 LHA 채널이 같은 축인지는 미검증.
-- **하류 LHA 세포형 가정의 취약성**: [[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026]]·[[gordon-2026-lateral-hypothalamic-control-of|Gordon 2026]]은 LHA^Vgat가 **단일 engine이 아니라 기능적으로 분화된 ensemble**임을 보였다. "dLS 억제 → LHA^Vgat 탈억제 → 섭취↑"라는 본 논문의 부호 논리는 **LHA^Vgat를 단일 집단으로 가정**해야 성립한다. 어느 ensemble이 억제를 받는지에 따라 결과 해석이 달라질 수 있다. (참고: Lee 2026은 Ex-4가 LH^Vgat cue·섭취 반응을 모두 약화시킨 기전 후보로 **GLP-1R 뉴런→LH 억제 경로**를 들었는데, 그 인용이 바로 이 계열의 결과다 — **두 논문이 서로의 빈 칸을 메운다**.)
+- **하류 LHA 세포형 가정의 취약성**: [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]·[[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]은 LHA^Vgat가 **단일 engine이 아니라 기능적으로 분화된 ensemble**임을 보였다. "dLS 억제 → LHA^Vgat 탈억제 → 섭취↑"라는 본 논문의 부호 논리는 **LHA^Vgat를 단일 집단으로 가정**해야 성립한다. 어느 ensemble이 억제를 받는지에 따라 결과 해석이 달라질 수 있다. (참고: Lee 2026은 Ex-4가 LH^Vgat cue·섭취 반응을 모두 약화시킨 기전 후보로 **GLP-1R 뉴런→LH 억제 경로**를 들었는데, 그 인용이 바로 이 계열의 결과다 — **두 논문이 서로의 빈 칸을 메운다**.)
 - **preprint 수치 신뢰도**: 정식 출판(Mol Metab 85:101960)에서 통계·그림이 수정됐을 수 있다. 특히 **Fig 6C의 Group 주효과 비유의(p=0.0742)** 와 **Discussion의 PPR 해석 불일치**는 출판판 확인이 필요한 지점이다.
 
 ## 관련 페이지
@@ -110,8 +110,8 @@ dLS의 **GLP-1R 발현 뉴런**은 **LHA로 GABA성 단시냅스 억제**를 보
 - [[cao-2024-hunting-for-heroes-brain]] — "GLP-1R 뉴런 조작 ≠ 수용체 결손" 비판 + Chen 2024 JCI(LS GLP-1R knockdown)의 짝.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] · [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 뇌 GLP-1R 부위별 지도에서 LS 칸을 회로 수준으로 채움.
 - [[rossi-2023-control-of-energy-homeostasis]] — 본 논문이 하류 표적 추정의 근거로 삼은 LHA 세포형 taxonomy(교신저자 본인 리뷰).
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — Ex-4가 LH^Vgat cue·섭취 반응을 약화시킨 기전 후보로 **GLP-1R 뉴런→LH 억제**를 지목. 서로의 빈 칸을 메우는 쌍.
-- [[gordon-2026-lateral-hypothalamic-control-of]] — LHA^Vgat/Vglut 균형이 선조체 DA 지형을 정함. 하행 억제가 어느 ensemble에 걸리는지가 다음 질문.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Ex-4가 LH^Vgat cue·섭취 반응을 약화시킨 기전 후보로 **GLP-1R 뉴런→LH 억제**를 지목. 서로의 빈 칸을 메우는 쌍.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^Vgat/Vglut 균형이 선조체 DA 지형을 정함. 하행 억제가 어느 ensemble에 걸리는지가 다음 질문.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab LH^LepR seeking/consummatory subset. dLS^GLP-1R 억제의 하류 후보(미검증).
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰. LH 입력 지도에 변연계 GLP-1R 채널 추가.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — DMH GLP-1R→AgRP 식전 포만. 같은 약물의 시상하부 내부 채널(병렬 배치).

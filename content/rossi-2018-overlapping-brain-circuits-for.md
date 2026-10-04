@@ -132,7 +132,7 @@ ARC·PVN의 항상성 뉴런은 PBN·확장편도·LHA 같은 중간 노드를 �
 - **"homeostatic/hedonic은 분리 불가" vs [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]]의 2-시스템 모델** — 같은 교신저자(Stuber)가 7년 뒤 쓴 과식 리뷰는 과식을 **homeostatic(ARC/PVH) + hedonic(LHA→VTA→NAc) 두 시스템의 dysregulation + crosstalk**으로 다시 나눈다. 본 리뷰의 "현재 자료로는 분리 불가" 주장과 **표면적으로 긴장**한다. 그러나 2018은 "범주 배정이 무용하다"는 **인식론적** 주장이고, 2025는 임상 번역을 위해 두 축 + crosstalk를 **실용적 축**으로 쓴다 — 모순이 아니라 목적이 다른 서술로 병기한다.
 - **LHA^Vglut2 ablation 출처 — [[rossi-2019-obesity-remodels-activity-and|Rossi 2019]] 페이지의 지적과 정합** — 본 리뷰는 "LHA glutamatergic genetic ablation → 섭식·체중↑"를 명시적으로 **Stamatakis 2016**에 귀속한다. 위키의 Rossi 2019·Stuber 2025·Chen 2025 페이지는 이 ablation 결과를 Rossi 2019와 한 문장에 묶어 인용하는 사례를 "출처 혼동"으로 지적했는데, 본 2018 리뷰가 **정확한 1차 출처(Stamatakis 2016)**를 보여 준다. 인용 시 ablation = Stamatakis 2016, scRNA-seq/2-photon 둔화 = Rossi 2019로 분리할 것.
 - **LHA GABA의 역할 — "섭식·보상 engine" vs "cue–보상 학습 중재자"** — 본 리뷰는 LHA GABA를 섭식↑·보상 집단으로 요약하되 **Sharpe 2017을 "학습에도 필요할 수 있다"로 한 줄 언급**한다. [[sharpe-2024-the-cognitive-lateral-hypothalamus|Sharpe 2024]]는 바로 이런 **항상성·섭식 중심 서술(Stuber & Wise 2016 포함)**을 비판 대상으로 삼아 LH를 학습 편향 dial로 재정의한다. 데이터 모순이 아니라 설명 수준의 경쟁으로 병기.
-- **LHA GABA = valence 무관 salience? — [[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026]]** — 본 리뷰의 "식욕 촉진 세포 활성 = 보상, 식욕 억제 세포 활성 = 혐오" 경험칙은 bulk 조작 기반이다. 사용자 lab SNU 김성연 lab의 Lee 2026은 같은 LHA^Vgat 안에 **혐오 열자극·음식 cue에 함께 반응하는 valence 무관 salience ensemble**이 있음을 단일세포로 보였다 — 세포타입이 아니라 **기능 ensemble** 수준에서 valence 규칙이 깨질 수 있음을 시사(활동 상관 vs 인과 조작, 층위 차이로 병기).
+- **LHA GABA = valence 무관 salience? — [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]** — 본 리뷰의 "식욕 촉진 세포 활성 = 보상, 식욕 억제 세포 활성 = 혐오" 경험칙은 bulk 조작 기반이다. 사용자 lab SNU 김성연 lab의 Lee 2026은 같은 LHA^Vgat 안에 **혐오 열자극·음식 cue에 함께 반응하는 valence 무관 salience ensemble**이 있음을 단일세포로 보였다 — 세포타입이 아니라 **기능 ensemble** 수준에서 valence 규칙이 깨질 수 있음을 시사(활동 상관 vs 인과 조작, 층위 차이로 병기).
 - **AgRP valence — Betley 2015(음성) vs Chen 2016(맥락 의존)** — 본 리뷰는 두 결과를 "먹이 존재에 의존"으로 묶는다. [[concept-npy-agrp-neurons]]·[[liu-2023-an-iterative-neural-processing|Liu 2023]]은 이 논쟁을 "비섭식 행동의 검출·억제"로 통합하려 한다. 본 리뷰의 맥락 의존 해석과 수렴 가능하나 기전 설명이 다르다(병기).
 
 ## 관련 페이지
@@ -156,7 +156,7 @@ ARC·PVN의 항상성 뉴런은 PBN·확장편도·LHA 같은 중간 노드를 �
 - [[concept-orexin-neurons]] · [[concept-zona-incerta]] — LHA Orexin(각성·보상)·인접 ZI GABA(palatable 섭식).
 - [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] · [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — LHA GABA의 학습 기능; 항상성 중심 서술에 대한 비판(병기).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR가 섭식 무변·valence만 변화. 본 리뷰 Table의 '?' 칸·"섭식≠보상" 범주의 후속 증거.
-- [[gordon-2026-lateral-hypothalamic-control-of]] · [[liu-2026-granular-motivational-interaction-and]] — LHA GABA/Glut 균형·phase별 회로로 overlap을 정량 분해한 후속.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[liu-2026-granular-motivational-interaction-and]] — LHA GABA/Glut 균형·phase별 회로로 overlap을 정량 분해한 후속.
 - [[chen-2025-the-integrated-function-of-the]] — LHA Vgat"engine"/Vglut2"brake" 외부 리뷰. 본 리뷰 Vgat/Vglut2 대립의 확장.
 - [[person-sternson-scott]] · [[person-fenselau-henning]] — 본 리뷰가 비중 있게 인용하는 ARC 회로(AgRP·OXTR-Vglut2) 연구자.
 - [[person-sharpe-melissa]] — LHA GABA 학습 가설 주창자.

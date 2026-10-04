@@ -103,7 +103,7 @@ journal: "bioRxiv 2021.03.08.434304 (posted 2021-03-08; preprint, 동료심사 �
 - **좌표 격자 vs 분자 층판**: [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]]의 4 subdivision은 AP −1.5·ML 1.0을 경계로 하는 직교 격자다. 이 논문의 표본(Bregma 약 −1.2 ~ −1.4)은 그중 **amLH/alLH 띠**에 해당한다. 그 안에서 분자 구역은 **약 60°로 기운 띠**로 ML 1.0 경계를 가로지른다. → 같은 "amLH 주입"이라도 fornix·ZI 기준 위치에 따라 LHAs-db(억제성 우세)나 LHAfl(흥분성·Trh 우세)을 다르게 칠 수 있다. 주입 위치를 **fornix·ZI 랜드마크 기준**으로 함께 보고하자는 제안의 근거가 된다.
 - **LH^LepR의 분자 주소 찾기**: [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]의 LH^LepR(GABA 우세, seeking/consummatory 두 아집단)은 이 패널에 없다. 후보는 Cheon 2025의 "LepR–Nts–Gal" 공발현 서술에 비추어 **Inh-14(Nts/Gal/Gpr101, Hcrt 띠와 33% 중첩)**와 LHAfl의 **Inh-11(Gal)**이다. RNA가 40일 이상 안정적이라 **Lepr probe를 한 라운드 추가**하면 검증된다. 단 Lee 2023의 pmLH(AP −1.5 ~ −2.2)는 이 표본보다 뒤쪽이라 직접 매핑할 수 없다.
 - **NMPU × 하위구역 입력 가설**: 하위구역별 입력이 갈린다는 결과(CEA→LHAd-db, MEA→LHAfm, VTA→LHAdl)를 [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]에 겹쳐 볼 수 있다. 예컨대 **LHAd-db = 정서·위협(CEA) 변조를 받는 Motivation 조절 구역**, **LHAfm = 사회·성 신호(MEA)와 Need를 통합하는 구역**이라는 가설이다. [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]의 hunger×anxiety×social arbitration을 해부학적으로 분업하는 후보다. 검증은 하위구역별 표적 주입 + 상태(금식·스트레스·사회) 조작이다.
-- **활성–분자 정합 실험 설계**: [[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026]]의 salience vs consumption ensemble이나 Lee 2023의 seeking vs consummatory LepR 아집단은 **2-photon/GRIN 기록 후 300 µm 절편 EASI-FISH**로 사후 정체를 붙일 수 있다([[xu-2020-behavioral-state-coding-by|CaRMA]] 계보). 이때 "기능 ensemble이 분자 클러스터와 일치하는가, 하위구역과 일치하는가"를 분리해 물을 수 있다. [[proposal-lh-nac-nmpu-neuron-discovery]]의 사후 분자정체 단계에 바로 들어가는 선택지다.
+- **활성–분자 정합 실험 설계**: [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]의 salience vs consumption ensemble이나 Lee 2023의 seeking vs consummatory LepR 아집단은 **2-photon/GRIN 기록 후 300 µm 절편 EASI-FISH**로 사후 정체를 붙일 수 있다([[xu-2020-behavioral-state-coding-by|CaRMA]] 계보). 이때 "기능 ensemble이 분자 클러스터와 일치하는가, 하위구역과 일치하는가"를 분리해 물을 수 있다. [[proposal-lh-nac-nmpu-neuron-discovery]]의 사후 분자정체 단계에 바로 들어가는 선택지다.
 - **MCH 아형과 consummatory 'sustain'**: Cheon 2025의 "Mch = consumption sustain"은 Pmch를 한 집단으로 본 서술이다. 이 논문은 **Cartpt⁺(Gpr83 87%) vs Cartpt–(LHAdl, Gpr83 43%)**의 공간·분자 분리를 보인다. 섭식 중 MCH 반응이 두 아형 중 한쪽에서만 나오는지가 검증 가능한 질문이다.
 - **인간 번역**: 발생 전사인자(Otp·Meis2)로 정의된 구역은 종간 보존 가능성이 높다. [[yang-2026-spatial-transcriptomics-identifies-the-molecular|인간 시상하부 공간전사체]]에서 LH 구획을 정렬할 앵커 유전자 후보다.
 
@@ -120,7 +120,7 @@ journal: "bioRxiv 2021.03.08.434304 (posted 2021-03-08; preprint, 동료심사 �
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰의 4 subdivision·세포타입 표. 좌표 격자 vs 분자 층판, MCH·Nts 서술과 병기.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab LH^LepR. 패널에 Lepr 없음 → 분자 주소는 미해결(Inh-14·Inh-11 후보 가설).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[kim-2024-normative-framework-dissociates-need]] — NMPU 축을 하위구역·입력에 매핑하는 가설.
-- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat 기능 ensemble. 분자 정체(Lepr·Nts·Crh·Gal)는 미해결로 남겼고, EASI-FISH가 그 해결 방법 후보.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 기능 ensemble. 분자 정체(Lepr·Nts·Crh·Gal)는 미해결로 남겼고, EASI-FISH가 그 해결 방법 후보.
 - [[concept-spatial-transcriptomics]] · [[concept-hypomap]] — 공간전사체·단일세포 atlas 방법론 맥락.
 - [[concept-activity-molecular-registration]] · [[xu-2020-behavioral-state-coding-by]] — 같은 Sternson lab의 CaRMA·cytoDAPI 계보. 300 µm 사후 정합.
 - [[proposal-lh-nac-nmpu-neuron-discovery]] — LH 세포 발굴 계획서의 사후 분자정체 단계 대안.

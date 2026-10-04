@@ -97,7 +97,7 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제와 GLP-1–GIP가 ARC FOS는 동일하나 POMC 활성만 차별적 (Nature 2026).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 부위별 활성 리뷰; ARC를 BBB-투과 GLP-1R 1차 표적으로 정리 (APEM 2025, 본 lab).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ARC가 어떻게 약물에 노출되는지의 근거 정리: semaglutide는 **광범위한 BBB 투과 없이** CVO·인접부 경유로 ARC POMC/CART를 켜고 NPY/AgRP를 끄며(Gabery 2020), liraglutide는 ARC·PVN에서 검출되나 경로는 **tanycyte·고혈관밀도 가설**(Secher 2014) (Neurol Ther 2025).
-- [[concept-glp1ra-cns-penetrance]] — 그 접근 경로·증거등급·약물별 지도 hub.
+- [[concept-glp1ra-cns-access]] — 그 접근 경로·증거등급·약물별 지도 hub.
 - [[walker-2026-a-hypothalamic-circuit-for]] — ARC^AgRP가 받는 PVH^Sim2 흥분성 입력(NPY⁻)이 미래 결핍 예측 cue로 단식 초기 빠른 AgRP 활성을 매개 (Neuron 2026, Lowell lab).
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — ARC^AgRP가 받는 **선택적 GABAergic 억제 입력**(vDMH^LepR/pDYN); 음식 cue 시 AgRP를 끄는 식전 회로 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — ARC^AgRP가 받는 **흥분성 입력**(PVH TRH/PACAP·DMH glutamatergic) 동정; PVH 입력이 DMH보다 ~3배 강함 (Nature 2014, Lowell lab).

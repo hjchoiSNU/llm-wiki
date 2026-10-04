@@ -47,7 +47,7 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 ## 약리 — small-molecule·humanized 수용체
 - **Glp1r^S33W humanized 마우스**(CRISPR Ser33→Trp): 경구 small-molecule(danuglipron·orforglipron) 감수성 획득. danuglipron(555.6 Da)이 **BBB 통과 → 심부 CeA 직접 활성** 입증.
 - 말초 large-peptide GLP1RA는 대부분 circumventricular organ([[concept-dorsal-vagal-complex|AP]])에 축적 → CeA는 주로 **indirect(NTS^Gcg 경유)** 동원이나, posterior CeA·저분자 약물은 직접 결합 가능 → 직·간접 혼재.
-  - 이 대조의 정량 배경: 대형 acylated 펩타이드(liraglutide·semaglutide)는 뇌 유입속도 자체가 측정되지 않는 반면 exendin 골격·저분자는 통과한다 → [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-penetrance]].
+  - 이 대조의 정량 배경: 대형 acylated 펩타이드(liraglutide·semaglutide)는 뇌 유입속도 자체가 측정되지 않는 반면 exendin 골격은 유입이 측정된다 → [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]]. 저분자 쪽 "통과"는 농도 측정이 아니라 수용체 대조로 보인 것이다(아래 관련 페이지의 [[concept-glp1ra-cns-access]] 항목).
 - [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]: 세마글루타이드도 CeA를 Fos 동원 — DVC 1차 작용의 downstream으로 CeA 연결.
 
 ## 사용자 lab 관점

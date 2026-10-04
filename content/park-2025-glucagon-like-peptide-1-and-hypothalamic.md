@@ -99,7 +99,7 @@ DMH가 GLP-1RA의 핵심 표적, **pre-ingestive cognitive satiation을 매개**
 - [[concept-central-amygdala-glp1r]] — hedonic 축 GLP-1R 노드(CeA^Glp1r→VTA→NAc) 개념 hub.
 - [[concept-dorsal-vagal-complex]] — hindbrain GLP1R 무대 (DMH 시상하부 경로와 대비).
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 말초 large-peptide 5중작용제는 BBB 미투과·hindbrain(AP/NTS) 작용 → 본 review의 중추 cognitive satiation 경로와 대비 (Nature 2026).
-- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-penetrance]] — ⚠️ **해석의 분기점**: 전신 투여 liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않으므로, 본 review의 DMH GLP-1R 효과를 "약물이 DMH 실질에 직접 도달"로 설명하려면 tanycyte·CVO 경유 또는 후뇌발 회로 중계를 전제해야 한다. 위키 자료로는 판정 불가 (Neurol Ther 2025).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-access]] — ⚠️ **해석의 분기점**: 전신 투여 liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않으므로, 본 review의 DMH GLP-1R 효과를 "약물이 DMH 실질에 직접 도달"로 설명하려면 tanycyte·CVO 경유 또는 후뇌발 회로 중계를 전제해야 한다. 위키 자료로는 판정 불가 (Neurol Ther 2025).
 - [[person-choi-hyung-jin]] — 본 lab.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 리뷰 **6절(LS GLP-1R)** 이 중독 축만 다룬 자리에 **섭식 회로**를 채운다: dLS^GLP-1R → LHA GABA성 **단시냅스** 억제(oIPSC 5/8, TTX→4-AP, PTX 차단), 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓, **exendin-4가 그 억제 시냅스의 방출을 강화**(IPSC↑ p=0.046, PPR↓ p=0.012). 본 lab의 **DMH GLP-1R→AgRP 식전 포만**(시상하부 내부 채널)과 병렬인 **변연계→LH 하행 채널**로 배치할 수 있다. ⚠️ 급성 섭취만 측정(체중·만성 없음), 수컷 전용, `Glp1r` 유전자 결손 실험 없음 (bioRxiv preprint 2024 → Mol Metab 85:101960). → [[concept-lateral-septum]]

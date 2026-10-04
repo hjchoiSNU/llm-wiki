@@ -48,7 +48,7 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 
 ## 관련 페이지
 - [[stuber-2025-the-neurobiology-of-overeating]] — 동일 senior author(Stuber); mPFC·VTA·보상 회로 관점 공유.
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — 동일 lab·**공저자 중복**(본 논문 제1저자 M.M. Hjort가 공저, 통계는 같은 D. Witten 그룹, GLM 유의성 검정에 본 논문의 **circular-shift permutation**을 차용). 역할 분담으로 읽으면: Hjort 2026 = 피질이 **언제** 도파민 gain을 바꾸는가(meta-RPE), Gordon 2026 = 시상하부가 **어디에** 도파민을 배치하는가(전후축 지형) (Neuron 2026).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — 동일 lab·**공저자 중복**(본 논문 제1저자 M.M. Hjort가 공저, 통계는 같은 D. Witten 그룹, GLM 유의성 검정에 본 논문의 **circular-shift permutation**을 차용). 역할 분담으로 읽으면: Hjort 2026 = 피질(mPFC→VTA)이 **언제** 도파민 gain을 바꾸는가(시간적 meta-RPE), Gordon 2026 = 시상하부(LH GABA/Glut 균형)가 섭취 중 **어디에** 도파민을 배치하는가(선조체 전후축 공간 지형) (Neuron 2026).
 - [[person-stuber-garret]] — 교신저자 인물 hub.
 - [[concept-dopamine-reward-system]] — VTA DA·RPE의 핵심 hub; 본 논문은 mRPE 변형 제시.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — "도파민 ≠ 순수 RPE" 논쟁; mRPE가 구체적 대안.
@@ -62,4 +62,3 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC top-down 통제의 병렬 사례: mPFC→VTA(본 논문) vs mPFC→rZI(강박 섭식), rZI 투사 mPFC는 PAG/VTA와 부분 독립 채널.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — **유관성 변화 신호의 하류 출력 팔**. 본 페이지=mPFC→VTA 탐지기(meta-RPE), Mingote=VTA DA-GLU→NAc medial shell 전환 게이트 — 한 루프의 양끝으로 읽을 수 있음.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — contingency degradation = "현재 목표의 평가절하" 학습. 인간 목표 포기는 대안 가치 상승보다 현재 목표 평가절하로 유도되며(frustration>temptation), 감시-임계값 알고리즘이 meta-RPE의 rolling-gain과 형식적으로 유사.
-- [[gordon-2026-lateral-hypothalamic-control-of]] — 같은 Stuber lab·공저자(M.M. Hjort) 인접 DA 작업. 본 논문은 섭취 중 선조체 DA의 **공간 지형**(LH 균형이 설정)을, Hjort는 mPFC→VTA DA의 **시간적 meta-RPE**를 다룬다 (Neuron 2026).
