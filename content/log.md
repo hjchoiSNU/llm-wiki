@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 13:49 — query
+
+"가장 최근 ingest한 논문은?" → [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] (2026-10-04 12:25 ingest, 이 로그 기준).
+
 ## 2026-10-04 12:50 — lint (raw 파일명 ↔ source 정리)
 
 `llm-wiki-raw` PDF 331개를 모든 페이지의 source 값과 대조. 실제로 빠진 논문은 0편. 위키 `source:`와 맞지 않던 PDF 30개를 해당 페이지 frontmatter에 등록: 같은 논문의 사본·다른 이름 파일 28개는 새 키 `source_alias`, 보충자료 2개는 `source_suppl`. 이제 raw의 모든 PDF가 어떤 페이지의 source 계열 값과 일치. `CLAUDE.md` §1-1·§5-2·템플릿에 `source_alias` 추가.
