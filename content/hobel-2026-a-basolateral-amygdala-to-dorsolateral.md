@@ -78,3 +78,4 @@ aliases: [BLA-DLS, BLA→DLS, amygdala-sensorimotor striatum, Hobel 2026, Sapap3
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — Habit·Emotion 유형 회로 표적(사용자 lab).
 - [[concept-one-shot-learning]] — 선조체 가소성 규칙 hub.
 - [[concept-striatal-dopamine-gradient]] — 선조체의 전후·내외측 기능 축(DLS=감각운동 쪽).
+- [[concept-habit]] — 습관 개념 hub — BLA→DLS를 **경로 B(정서 각성이 S-R을 증폭)**로 정리; DMS(agency) vs DLS(S-R) 표적별 BLA 기여.

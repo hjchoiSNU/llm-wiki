@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -260,3 +260,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[liu-2023-an-iterative-neural-processing]] — 조각난 섭식(C-W-n(E-W)-C)을 NMPU 시간 전개로 매핑: AgRP=preparation/Need, LH^GABA=initiation/Motivation 역치, DR^GABA(쾌락 섭식 정점↑)=maintenance/Pleasure(Neuron 2023, 연결 가설 — 원문 주장 아님).
 - [[de-vrind-2019-effects-of-gaba-and]] — Motivation 노드(LH^LepR)를 **비-phase 특이적으로 수 시간** 켠 화학유전 사례: 포만 동물에서 빈 우리 수평 운동↑(t7=−4.820, P=0.002)·체온↑·3일 반복 체중↓인데 cage-top chow 섭취는 불변 → Motivation 산출이 목표 없는 탐색 운동·에너지 지출로 소비되는 상황의 후보. 같은 논문의 LH^Vgat 활성이 "chow 무게↑"를 갉기 spillage로 만든 결과는 Motivation과 **consummatory 운동 프로그램(biting)** 의 분리를 요구한다(Obesity 2019, 연결 가설).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 인과 조작이 **섭취(소비)는 전혀 안 바꾸고 cue 변별 학습·place preference만** 움직임 → Motivation은 소비 집행이 아니라 접근·학습 단계의 변수라는 매핑에 독립 근거. LH^LepR→VTA 억제가 학습 asymptote를 올리는 것은 Utility→Motivation 되먹임 회로 후보(연결 가설).
+- [[concept-habit]] — habit-context(Motivation의 자동화)·devaluation 민감성(Utility→Motivation 재형성)을 회로 근거로 정리한 hub.

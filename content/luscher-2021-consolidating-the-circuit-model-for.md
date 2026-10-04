@@ -2,7 +2,7 @@
 title: "중독의 회로 모델 통합 — 양성강화 × 음성강화 → dorsalization → compulsion (Lüscher & Janak 2021)"
 type: paper
 created: 2026-09-02
-updated: 2026-10-03
+updated: 2026-10-04
 source: raw/2021 Annu. Rev. Neurosci. Consolidating the Circuit Model for Addiction.pdf
 authors: [Lüscher C, Janak PH]
 year: 2021
@@ -126,3 +126,4 @@ doi: 10.1146/annurev-neuro-092920-123905
 - [[concept-need-motivation-pleasure-utility]] — 양성·음성강화 합산의 계산적 대응.
 - ⚠️ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **dorsalization의 전제(spiraling connectivity)에 시간적 경계**. 중뇌 도파민 말단을 한 선조체 아구역에서 자극해도 다른 아구역 DA는 거의 오르지 않았다(유일한 예외는 DLS↔TS 소폭). 저자들은 spiral framework를 **반증한 것이 아니라 경계지었다**고 명시한다 — 나선은 해부와 **분 단위** 신경화학에 근거하며, **초 단위 소비 시간척도에서는 도파민이 아구역마다 국소 설정**된다. 본 페이지의 배쪽→등쪽 확산 서술을 인용할 때 **"학습 시간척도에서"** 라는 단서를 붙일 것 (Neuron 2026, Stuber lab). 개념 [[concept-striatal-dopamine-gradient]].
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 본 페이지의 **NAc ChI D2R–GIRK 억제**가 DA-GLU 유발 ChI **pause** 상의 기전으로 재배치된다(burst=AMPA/SK3). ChI 억제 경향 → 처벌 저항성·행동 전환 실패를 잇는 고리. 개념 [[concept-striatal-cholinergic-interneuron]].
+- [[concept-habit]] — 습관 개념 hub — dorsalization을 습관적 과식 경로 C로 정리하고 학습 시간척도 단서(Gordon 2026)를 병기.

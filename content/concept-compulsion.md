@@ -73,3 +73,4 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — ⚠️ **spiraling connectivity 시간척도 제한**: 본 페이지는 배쪽→등쪽 DA 전파(NAc→SNc→DST, Haber 2000)를 dorsalization 기전으로 둔다. Gordon Fig 3은 섭취 중 evoked DA가 subregion 간 거의 전파되지 않음을 보여 **초 단위 방출은 국소 제어**라고 결론 — spiral은 해부·학습(분 단위) 척도에서 작동한다는 상보적 병기 (Neuron 2026).
 - [[nieh-2016-inhibitory-input-from-the]] — GABA성 LH→VTA 과활성 = **배고픔이 아닌 보상 동기로 유도되는 compulsive eating**(자극 대상 간 강박 공존 포함)의 회로 후보 (Neuron 2016, Tye lab).
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — 반복 행동의 또 다른 선조체 기질: OCD 모델 **Sapap3 null에서 BLA→DLS 입력 강화·자극 후 억제 소실**, BLA 만성 억제가 강박적 grooming 발병 차단 (Neuron 2026).
+- [[concept-habit]] — 습관과의 구분(가치 없어도 계속 vs 해로워도 계속)과 dorsalization 경로를 정리한 이웃 개념 hub.

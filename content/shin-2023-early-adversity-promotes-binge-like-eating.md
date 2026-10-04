@@ -2,7 +2,7 @@
 title: "Early adversity promotes binge-like eating habits by remodeling a leptin-responsive lateral hypothalamus–brainstem pathway (Shin & Lim 2023)"
 type: paper
 created: 2026-07-05
-updated: 2026-10-03
+updated: 2026-10-04
 source: "raw/2023 Nature Neuroscience. Early adversity promotes binge-like eating habits by remodeling a leptin-responsive lateral hypothalamus–brainstem pathway.pdf"
 authors: [Shin S, You IJ, Jeong M, Bae Y, Wang XY, Cawley ML, Han A, Lim BK]
 year: 2023
@@ -41,3 +41,4 @@ year: 2023
 - [[linders-2022-stress-driven-potentiation-of-lateral]] — **같은 "스트레스가 LH 회로에 저장된다"는 논리의 성체·급성판**(Nat Commun 2022, Meye·Adan lab). 본 논문은 신생기 역경이 **LH^Lepr 흥분성(E/I)** 을 바꿔 두 번째 hit(HFD)에서 폭식으로 발현되는 two-hit 구조다. 저쪽은 **성체의 이틀 사회 패배**가 곧바로 **LHA^glut→VTA^DA 시냅스의 후시냅스 GluA1-AMPAR**에 저장되고, **1 Hz LFS로 되돌리면 과식이 사라진다**. 저장 매체(수용체 trafficking vs 흥분성·전사 변화)·세포형(glut vs Lepr GABA)·시간척도가 달라 **경쟁이 아니라 적층**으로 읽는 것이 안전하다(연결 가설: 초기 역경이 성체 LH-VTA 가소성의 문턱을 낮추는지는 미검증).
 - [[de-vrind-2019-effects-of-gaba-and]] — **같은 LH^Lepr→PAG 투사에 다른 출력을 배정한 사례**(Obesity 2019, Adan lab): 본 논문은 LH^Lepr→vlPAG^Penk를 초기역경 후 HFD 폭식 경로로 규명했고, 그쪽은 LH LepR·GABA의 **caudal PAG 투사**를 hM3Dq 활성 시 나타난 체온 상승(열생산)의 경로 후보로 제시한다 — 그쪽 LepR 활성은 lard 섭취를 바꾸지 않았다. 모델(naive vs ELT)·PAG 아영역이 달라 병기.
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — ⚠️ 본 논문은 ELT·leptin 저항에서 LH^Lepr→vlPAG^Penk 탈억제가 **폭식(섭취↑)을 구동**한다고 보지만, Siemian 2021은 정상 동물에서 LH^LepR 세포체·VTA 말단 조작이 섭취 무변이라 본다. 두 결과는 **경로 분업**으로 양립 — Siemian이 조작한 세포체·VTA 축은 Shin에서도 폭식에 무효였고 효과는 vlPAG 한정(병기).
+- [[concept-habit]] — 습관 개념 hub — 발달기 취약성 경로(E)로 정리; 제목의 'habit'이 devaluation으로 검증된 조작적 습관은 아님을 명시.

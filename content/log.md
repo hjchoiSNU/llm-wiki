@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 14:00 — other (개념 hub 신설: 습관)
+
+새 페이지 1: [[concept-habit]] — 습관(목표지향↔습관 통제)과 **습관적 과식의 뇌 기전** 심화 hub. 위키 기존 페이지만 근거로 사용(웹 미사용). 구성: ① 조작적 정의(devaluation·contingency degradation·PIT)와 측정 함정(Fallon 2026 속도 vs 횟수, "habit" 용어의 느슨한 사용), 이웃 개념 구분표(강박·유인-감작·쾌락 저하·목표 몰입·cue 반응성·LOC) ② 회로(DMS↔DLS, BLA/CeA/vmPFC/mPFC 입력, 도파민 dorsalization과 Gordon 2026 시간척도 단서, 가소성 규칙 7종 표) ③ 습관적 과식 7경로(스트레스·정서·반복 노출·one-shot 각인·발달기 역경·식이 환경·쾌락 저하) + mermaid 개요도, 근거마다 `[섭식 직접]`/`[타 행동→섭식 가설]` 표기 ④ 반론 6가지 ⑤ 인간 근거 ⑥ 개입 함의 표 ⑦ lab 연결 ⑧ 연구 제안 7건.
+
+역방향 링크 18: [[giovanniello-2025-a-dual-pathway-architecture-for]] · [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] · [[odoherty-2016-multiple-systems-for-the-motivational]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] · [[concept-compulsion]] · [[concept-hedonic-devaluation]] · [[concept-goal-commitment]] · [[concept-incentive-sensitization]] · [[concept-loss-of-control-eating]] · [[concept-dopamine-reward-system]] · [[concept-striatal-dopamine-gradient]] · [[concept-need-motivation-pleasure-utility]] · [[hoang-2026-methamphetamine-potentiates-the-use-of]] · [[shin-2023-early-adversity-promotes-binge-like-eating]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-emotional-eating]]. `index.md` 💡 일반 개념(본문)·🧩 인지 & 행동(포인터)에 추가, 총 524.
+
+발견한 빈자리: 위키에 음식 추구를 devaluation으로 검증한 '습관적 과식' 동물 모델이 없음; Habit형이 맛(proxy, Weber 2025) 주도인지 칼로리(DS, Tellez 2016) 주도인지 긴장; GLP-1RA의 습관 성분 효과 근거 없음.
+
 ## 2026-10-04 13:49 — query
 
 "가장 최근 ingest한 논문은?" → [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] (2026-10-04 12:25 ingest, 이 로그 기준).

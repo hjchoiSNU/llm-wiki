@@ -2,7 +2,7 @@
 title: "Methamphetamine potentiates the use of outcome-specific associations via a hypothalamic-dopamine circuit"
 type: paper
 created: 2026-06-10
-updated: 2026-10-03
+updated: 2026-10-04
 source: raw/2026 Neuron (Sharpe) Methamphetamine potentiates the use of outcomespecific associations via a hypothalamic-dopamine circuit.pdf
 authors: [Hoang IB, Munier JJ, Verghese A, Taira M, Abiero AR, Leake J, Dawson A, Wilcher M, Ganesan K, Ortega ME, Reyes V, Greer Z, Millard SJ, DiFazio LE, Sercander C, Bagley E, Winters B, Izquierdo A, Sharpe MJ]
 year: 2026
@@ -87,3 +87,4 @@ VTA 도파민 뉴런이 LH로 보내는 **역방향 투사**가 cue–특정결�
 - [[sharpe-2021-past-experience-shapes-the]] — 같은 lab의 **"무엇을 배울지 고르는 LH" 축**(Nat Neurosci 2021). cue 구간 LH^GABA 억제가 중립·원위 cue 학습은 **촉진**하고, **cue–보상 수반성 경험 후에만** 공포 학습에 필요해진다. 본 논문의 "VTA^DA→LH가 outcome-specific PIT에 필요"와 합치면 LH는 **결과 표상의 사용(PIT)과 학습 자원 배분** 양쪽에 걸친 노드가 된다. ⚠️ 단 그쪽은 LH^GABA 세포체 억제, 본 논문은 LH로 들어오는 도파민 입력 차단으로 **조작 대상이 다르다**(병기).
 
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 본 논문의 역방향 VTA^DA→LH와 짝이 되는 정방향 **LH^LepR→VTA**: 그 경로 억제(ArchT)는 sucrose cue 변별 학습을 강화하고 활성(ChR2)은 지운다(기대보상 relay, extinction까지 지속). 두 방향 모두 LH–VTA 축이 동기·연합 학습의 교사 신호임을 지지.
+- [[concept-habit]] — 습관 개념 hub — 본 논문을 **습관 이론의 핵심 반론**(결과 표상을 담은 cue 통제)으로 배치.

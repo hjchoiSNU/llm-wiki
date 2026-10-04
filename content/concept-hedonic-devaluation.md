@@ -2,7 +2,7 @@
 title: "쾌락 가치 저하 (Hedonic devaluation)"
 type: concept
 created: 2026-08-20
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward devaluation in obesity]
 ---
 
@@ -76,3 +76,4 @@ aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward de
 - [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-cue-reactivity]] · [[concept-emotional-eating]] — 쾌락 없이 지속되는 섭취의 대안 동력.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.4.3. 본 개념을 교재 서사에 배치하고 유인-감작과의 긴장을 해소한 논증.
 - [[rossi-2019-obesity-remodels-activity-and]] — LHA^Vglut2 "brake"의 HFD 둔화 원전(Science 2019, Stuber lab). ⚠️ 둔화 = brake 약화 → 섭식↑로, 쾌락가치 저하(섭식↓)와는 부호가 반대인 "blunting"이다(관찰 근거 절 병기).
+- [[concept-habit]] — "좋아지지 않는데 왜 계속 먹나"의 1번 설명(습관)을 회로·측정 수준으로 확장한 hub; 같은 동물에서 두 축을 함께 재는 제안.

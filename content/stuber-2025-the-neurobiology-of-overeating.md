@@ -2,7 +2,7 @@
 title: "The neurobiology of overeating (Stuber, Schwitzgebel & Lüscher 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-10-03
+updated: 2026-10-04
 source: "raw/2025 Neuron. Luscher. The neurobiology of overeating (1).pdf"
 authors: [Garret D. Stuber, Valerie M. Schwitzgebel, Christian Lüscher]
 year: 2025
@@ -130,3 +130,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[nieh-2016-inhibitory-input-from-the]] — 본 리뷰가 쓰는 "LHA GABA→VTA disinhibition→DA→섭식" 통념의 1차 원전; GABA성 과활성 = 보상 동기형 compulsive eating 가설 (Neuron 2016, Tye lab).
 - [[thoeni-2020-depression-of-accumbal-to]] — ★ 본 리뷰가 **"acute restriction → D1R-MSN→LHA GABA 전달 depression → overeating 게이트 개방"(Thoeni 2020)** 으로 한 줄 요약한 **1차 원전**(Neuron 2020, 같은 교신저자 Lüscher). 요약을 정밀화할 네 가지가 더 있다: ⑴ **3일 고지방식도** 결핍 없이 같은 depression을 만든다, ⑵ **체중이 회복되면 1주 내 소실**(가역) — 따라서 "yo-yo dieting의 시냅스 기질" 주장은 **저체중 유지 기간에 한정**된다, ⑶ **in vivo HFS로 이 시냅스를 potentiate하면 24 h 금식 마우스의 섭취가 줄어든다**(역방향 인과), ⑷ 표적이 LH^Vgat만이 아니라 **LH^VGluT2도 포함**(연결 65%, rabies 입력 97%가 D1R-MSN). 기전은 **eCB–CB1R 의존 전시냅스 i-LTD**이고, 과식 증가는 **bout 수에만**(bout당 lick 수 불변) 나타났다. ⚠️ ⑷는 본 리뷰의 "LHA GABA=engine / LHA glutamate=brake" 서술과 긴장 관계(순효과 상쇄 문제 — 원저도 "의외"로 적음).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — addiction circuit model 관점. LH^LepR 억제가 **sucrose CPP는 차단하나 cocaine CPP는 비차단**(단 cocaine 운동 감작은 둔화) → 음식·약물이 공유하는 기질이 조건화가 아니라 **가소성(감작)** 쪽임을 가리킨다.
+- [[concept-habit]] — 습관 개념 hub — 과식의 중독 회로 모델(경로 C)과 food addiction 신중론을 함께 배치.

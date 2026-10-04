@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 523 (+ index.md, log.md)
+- 총 페이지: 524 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-04
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -97,6 +97,7 @@ title: 뇌과학 LLM Wiki
 
 지각, 주의, 기억, 학습, 의사결정, 사회행동.
 
+- [[concept-habit]] — 습관 개념 hub(목표지향↔습관, 습관적 과식 7경로). 본문은 💡 일반 개념 절. · 🔑 habit, 습관, goal-directed
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스가 BLA→DMS(agency)↓·CeA→DMS(habit)↑ "one-two punch"로 goal-directed→habit 전환; stress eating·NMPU Utility 무력화 회로 (Nature 2025, Wassum lab).
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc D1(탈억제)/D2(직접억제) MSN → SI 콜린성 → **BLA ACh가 현저성(salience, valence-free)을 표상**·연합학습을 양방향 제어; salience를 valence와 분리 (Nat Neurosci 2026, Xiao lab). · 🔑 ChAT, D2-MSN, D1-MSN
 - [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — **cue labeling**(cue를 단어로 라벨링 = affect labeling 응용)이 흡연 갈망·precuneus(DMN) 활성↓, 중년·고령에서 baseline까지 회복; 저비용·무부작용 인지 개입 (Neuropsychopharmacology 2026). 개념 [[concept-cue-reactivity]]·[[concept-affect-labeling]]. _(craving 조절은 ⚡ 신경조절·🍽️ DTx와도)_
@@ -545,6 +546,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
 - [[concept-compulsion]] — **강박의 조작적 정의 hub: 처벌 저항(foot-shock·air puff·quinine)**. 집단 평균이 아닌 개체 분류 — 기저는 단봉, 처벌 도입 후 **양봉**(perseverer vs renouncer). oDASS ~50% / 약물 자가투여 20–30% → 표본 50–100 요건. 회로는 OFC→DST 시냅스 강도. 섭식판 이식은 [[leow-2026-a-cortical-hypothalamic-neural|처벌-저항 섭취]] · 🔑 compulsive, resistance to punishment, punishment-resistant, mPFC
+- ★ [[concept-habit]] — **습관 개념 hub: 목표지향↔습관 통제와 습관적 과식의 뇌 기전**. 조작적 정의는 devaluation 둔감 하나(자주·자동·못 멈춤은 습관의 증거 아님). 습관적 과식을 7경로로 분해: 스트레스(BLA→DMS↓·CeA→DMS↑) · 정서(BLA→DLS S-R 증폭) · 반복 노출(dorsalization, 학습 시간척도) · one-shot 각인(DLS eCB-LTP) · 발달기 역경(LH^LepR→vlPAG) · 식이 환경(cue 접근·PIT) · 쾌락 저하(NAcLat→VTA Nts). 반론(Hoang 2026 결과 표상·Stuber 신중론)과 연구 제안 7건. · 🔑 habitual overeating, goal-directed, stimulus-response, outcome devaluation, contingency degradation, PIT(Pavlovian-instrumental transfer), DLS, DMS, CeA→DMS
 - [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서 고칼로리 음식의 쾌락 가치가 하락하는 현상 hub(sensory-specific satiety·alliesthesia·incentive sensitization과의 구분표 포함). _(🎯 도파민 절에도)_ · 🔑 쾌락 가치 저하, 기호성 저하, reward devaluation in obesity, HFD, LHA^Vglut2, NTS
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지 · 🔑 T2D
 - [[concept-goal-commitment]] — 목표 몰입·포기 hub: 정의·측정(선택 전/후·frustration>temptation)·세 적응 기능·Rubicon/HRL/감시-임계값 알고리즘·failure mode(ADHD·불안·apathy·우울)·강박/restraint/NMPU 이식 (Holton 2026).

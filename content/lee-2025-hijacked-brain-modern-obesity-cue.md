@@ -129,3 +129,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[liu-2023-an-iterative-neural-processing]] — 섭식의 fragmentation(접촉→이탈→재개)을 신경 수준에서 보인 동물 근거. 인간 bite 미세구조 fragmentation index를 5-type 표현형·mindful eating 매개 지표로 쓰는 가설의 토대(Neuron 2023, 연결 가설).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — cue-driven 표현형의 회로 근거: LH^LepR는 총 섭취량이 아니라 **Pavlovian 음식 cue 변별 학습·cue 유발 접근**을 조절. "hijacked" cue 과정의 LH 노드 후보이자, 개입 종결점을 섭취량 대신 cue 변별·접근으로 두어야 할 근거.
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **Emotion 유형 ↔ Habit 유형(DLS)의 회로 다리 후보**: 편도(BLA)가 DLS S-R 시냅스를 직접 증폭(섭식 미검증, 위키 가설) (Neuron 2026).
+- [[concept-habit]] — **Habit형의 회로 분해 hub** — 습관적 과식을 스트레스·정서·반복 노출·one-shot 각인·발달기 역경·식이 환경·쾌락 저하의 7경로로 나누고, Habit형을 devaluation으로 검증하는 제안 포함.

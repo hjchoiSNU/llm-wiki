@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -204,3 +204,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[sharpe-2021-past-experience-shapes-the]] — LH^GABA 광억제를 **TD(λ)+Mackintosh 주의 모델에서 "cue에 쌓이는 연합 가중치 업데이트의 70% 차단"(η=0.3)**으로 모형화해, cue 학습 감소와 **맥락으로의 학습 이전**을 동시에 설명했다(Nat Neurosci 2021). RPE 틀 안에서 "무엇에 학습을 배분하는가"가 **값 계산과 별개의 조절 축**임을 보이는 사례. 같은 lab의 [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]](LH^GABA→VTA 기대값 relay)와 짝을 이룬다.
 
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR→VTA를 RPE·기대보상 틀의 교사 신호로 둔 인과 증거: 경로 억제(ArchT)가 Pavlovian 변별 학습을 강화하고 활성(ChR2)이 지운다(extinction까지 지속). VTA 비도파민 뉴런 경유의 간접 scaling 해석(Sharpe 2017 relay를 마우스 LepR subset에서 재현).
+- [[concept-habit]] — DLS 습관 학습(Yin & Knowlton)을 섭식 맥락에서 확장한 hub — 배측 도파민의 다음 섭취 예측, dorsalization 시간척도 단서.

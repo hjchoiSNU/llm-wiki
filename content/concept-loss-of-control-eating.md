@@ -2,7 +2,7 @@
 title: 통제 상실 섭식 / 폭식장애 (Loss-of-Control Eating, BED)
 type: concept
 created: 2026-06-01
-updated: 2026-09-19
+updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -52,3 +52,4 @@ updated: 2026-09-19
 - [[wu-2020-brain-responsive-neurostimulation-for-loss]] — BITES 프로토콜의 LOC 포함기준(주당 ≥4회 LOC, EDE 확인)과 1차 종결점(주당 ≥1회 감소를 피험자 ≥50%에서) 원전.
 - [[parker-2022-appetitive-mapping-of-the-human]] — 'LOC는 pre-meal 음성정동 뒤에 온다 → NAc 자극으로 positive affect를 evoke'라는 치료 가설과 수술 중 매핑.
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — 충동(LOC)–강박(OCD) transdiagnostic 축의 강박편(amOFC gamma).
+- [[concept-habit]] — LOC를 습관·충동·강박 중 어느 기전으로 볼지 가르는 개념 hub(devaluation 기준).

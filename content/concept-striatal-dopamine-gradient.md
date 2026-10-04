@@ -2,7 +2,7 @@
 title: "선조체 도파민 지형 (Striatal dopamine gradient)"
 type: concept
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도파민 구배, anterior-posterior dopamine]
 ---
 
@@ -85,3 +85,4 @@ aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도
 - [[concept-need-motivation-pleasure-utility]] — 가치 교사 vs 행동 출력의 공간 분업.
 - [[concept-striatal-cholinergic-interneuron]] — 도파민 방출의 선조체 내 국소 조절자.
 - [[concept-compulsion]] — dorsalization 서사의 종착점(시간척도 쟁점의 당사자).
+- [[concept-habit]] — 배측(DMS·DLS) = 습관·칼로리, 복측 = 맛·가치라는 지형을 습관적 과식 기전으로 연결한 hub.
