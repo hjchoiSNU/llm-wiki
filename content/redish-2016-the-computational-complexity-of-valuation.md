@@ -2,7 +2,7 @@
 title: "Redish, Schultheiss & Carter 2016 — The Computational Complexity of Valuation and Motivational Forces in Decision-Making (book chapter)"
 type: paper
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-10-04
 source: raw/2016 Book Behavioral Neuroscience of Motivation.pdf
 authors: [A. David Redish, Nathan W. Schultheiss, Evan C. Carter]
 year: 2016
@@ -55,3 +55,4 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[concept-digital-therapeutics]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] — CM·valuation 전환의 DTx 응용.
 - [[concept-incentive-sensitization]] · [[concept-food-addiction]] — craving·약물추구 계산 모델.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[rangel-2008-a-framework-for-studying-the]] — 선행 틀(Nat Rev Neurosci 2008): goal-directed·habitual·Pavlovian 가치계가 본 장의 deliberative·procedural·Pavlovian에 대응한다. 차이: Rangel은 세 계가 서로 경쟁할 수 있는 '가치'를 낸다고 보고 **통제권 배정**을 묻고, 본 장은 공통화폐로서의 가치 자체를 의심한다. Rangel이 인용한 Redish 2004("중독 = 습관 가치계의 질병")가 본 장 제1저자의 선행 연구.

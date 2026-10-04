@@ -2,7 +2,7 @@
 title: "Inhibitory Control Demand — craving에 비례하는 PFC 제어부하 (trouble resisting)"
 type: concept
 created: 2026-07-31
-updated: 2026-09-22
+updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -48,3 +48,4 @@ Craving을 유발하는 환경(VR food cue 등)에서 craving이 상승하면, �
 - [[leow-2026-a-cortical-hypothalamic-neural]] — 반대 방향의 top-down: mPFC→rZI가 제어가 아니라 강박 섭식을 **구동**; 피질이 통제/구동 양방향으로 작용함을 대비.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.5. 갈망 측정에 **저항 비용**을 함께 재야 한다는 논지로 본 개념을 교재에 도입(제어 개입 vs 실패 두 국면 명시).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — trouble resisting(사후 억제 부하)에 앞서는 **사전 목표 선점** 기제: 목표 프라이밍이 유혹 단어 처리를 늦춤(Fishbach 2003) → 억제통제 수요 자체를 줄이는 상류 개입 표적.
+- [[rangel-2008-a-framework-for-studying-the]] — 저항이 필요한 충돌의 유형 분류: "배부른데 한 입 더" = Pavlovian ↔ 목표지향, "다이어터의 아이스크림" = 목표지향 ↔ 목표지향(맛 평가 ↔ 장기 결과 평가). 억제 부하가 어느 충돌에서 오는지에 따라 개입이 달라진다 (Nat Rev Neurosci 2008).

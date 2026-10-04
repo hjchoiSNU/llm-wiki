@@ -74,3 +74,4 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[nieh-2016-inhibitory-input-from-the]] — GABA성 LH→VTA 과활성 = **배고픔이 아닌 보상 동기로 유도되는 compulsive eating**(자극 대상 간 강박 공존 포함)의 회로 후보 (Neuron 2016, Tye lab).
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — 반복 행동의 또 다른 선조체 기질: OCD 모델 **Sapap3 null에서 BLA→DLS 입력 강화·자극 후 억제 소실**, BLA 만성 억제가 강박적 grooming 발병 차단 (Neuron 2026).
 - [[concept-habit]] — 습관과의 구분(가치 없어도 계속 vs 해로워도 계속)과 dorsalization 경로를 정리한 이웃 개념 hub.
+- [[rangel-2008-a-framework-for-studying-the]] — 강박의 초기 계산적 가설(Nat Rev Neurosci 2008): OCD의 행동은 **Pavlovian계가 통제**할 수 있는 행동의 예로, OCD와 과식은 **적절한 가치계에 통제권을 주지 못하는 병리**의 예로 제시된다. 처벌 저항(이 페이지의 기준)과 달리 "어느 계가 행동을 쥐는가"로 정의하는 관점.

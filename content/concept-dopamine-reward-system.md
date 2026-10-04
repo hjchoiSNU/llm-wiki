@@ -205,3 +205,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR→VTA를 RPE·기대보상 틀의 교사 신호로 둔 인과 증거: 경로 억제(ArchT)가 Pavlovian 변별 학습을 강화하고 활성(ChR2)이 지운다(extinction까지 지속). VTA 비도파민 뉴런 경유의 간접 scaling 해석(Sharpe 2017 relay를 마우스 LepR subset에서 재현).
 - [[concept-habit]] — DLS 습관 학습(Yin & Knowlton)을 섭식 맥락에서 확장한 hub — 배측 도파민의 다음 섭취 예측, dorsalization 시간척도 단서.
+- [[rangel-2008-a-framework-for-studying-the]] — 예측 오차 학습을 **습관 가치계의 학습 규칙**(model-free: Q-learning·SARSA·actor–critic)으로 배치한 틀. 2008년의 열린 문제(음의 예측 오차의 부호화, 보상 크기 범위에 따른 발화 조정, fictive learning)와 "Pavlovian·목표지향계의 갱신 알고리즘은 미상"이라는 단서를 기록 (Nat Rev Neurosci 2008, 공저자 Montague).

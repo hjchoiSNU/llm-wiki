@@ -61,3 +61,4 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal/habit이 시스템이 아니라 **단계**로 배분될 수 있음: 목표 **선택은 model-free(습관적)**, **실행은 model-based**(Cushman & Morris 2015); Rubicon·HRL option 틀로 목표 안정성 설명 (Trends Cogn Sci 2026).
 - [[concept-habit]] — 습관 개념 hub — 목표지향·습관·파블로프 3계와 devaluation 기준을 정의의 원전으로 사용, 습관적 과식 경로 A–G로 확장.
+- [[rangel-2008-a-framework-for-studying-the]] — 같은 3계 틀의 **원형**(Nat Rev Neurosci 2008): 5단계 계산(표상·가치평가·행동선택·결과평가·학습) + 세 가치계 + 통제권 배정. 당시 미상으로 남긴 **중재 회로**와 PIT의 인간 근거를 본 장이 채운다. Box 1의 일상 예(접시 비우기 = Pavlovian, 아침 커피 = 습관)는 과식 분류의 출발점.

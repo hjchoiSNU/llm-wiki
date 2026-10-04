@@ -88,3 +88,4 @@ VTA 도파민 뉴런이 LH로 보내는 **역방향 투사**가 cue–특정결�
 
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 본 논문의 역방향 VTA^DA→LH와 짝이 되는 정방향 **LH^LepR→VTA**: 그 경로 억제(ArchT)는 sucrose cue 변별 학습을 강화하고 활성(ChR2)은 지운다(기대보상 relay, extinction까지 지속). 두 방향 모두 LH–VTA 축이 동기·연합 학습의 교사 신호임을 지지.
 - [[concept-habit]] — 습관 개념 hub — 본 논문을 **습관 이론의 핵심 반론**(결과 표상을 담은 cue 통제)으로 배치.
+- [[rangel-2008-a-framework-for-studying-the]] — 고전 틀은 Pavlovian계를 "소수의 준비된 반응에 가치를 주는 계"로 두고 PIT에서 다른 계와의 상호작용을 미해결로 남겼다. 본 논문의 결과 특이 PIT 회로(VTA^DA→LH)는 Pavlovian cue가 **결과 표상을 통해** 도구적 선택을 바꾼다는 점에서 그 구분을 수정한다 (Nat Rev Neurosci 2008).

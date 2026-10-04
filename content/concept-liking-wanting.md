@@ -2,7 +2,7 @@
 title: "‘좋아함(liking)’과 ‘갈망(wanting)’ — 보상의 이중 해리"
 type: concept
 created: 2026-06-20
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, 쾌락적 충격]
 ---
 
@@ -76,3 +76,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — eCB가 핫스폿에서 'liking'을, aPVT–NAc에서 'wanting/engagement'를 매개하는 **이중 역할**의 증거 (Nature 2026).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — Wyvell & Berridge 2000이 **NAc shell 도파민 = 사건의 현저성** 해석의 근거로 인용되는 지점. 단 본 논문의 shell 도파민은 hedonic 가치가 아니라 **유관성 변화·경보 신호**로 읽힌다.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — 선조체 DA=wanting(bout 수) 강화, liking(bout 길이)은 분리. DA 자극이 섭취 개시만 늘리고 진행 중 섭취는 못 바꿈(분산 동시 방출만 변화) — Berridge식 wanting/liking 해리의 선조체 전역 버전 (Neuron 2026, Stuber lab).
+- [[rangel-2008-a-framework-for-studying-the]] — 'liking'을 **결과평가(outcome evaluation)** 단계의 신호로 배치한 신경경제학 틀: NAc·배쪽 창백의 오피오이드 작용제가 liking 표현을 늘리고 그 뒤 짝지어진 보상의 섭취를 늘린다는 자료를, 결과평가 신호가 학습에 쓰인다는 근거로 인용. 뇌가 **선택 시점 가치와 경험 시점 가치를 따로 부호화**해야 한다는 예측은 wanting/liking 해리와 같은 방향(대응은 위키 해석) (Nat Rev Neurosci 2008).

@@ -43,3 +43,4 @@ year: 2025
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal-directed↔habit 전환을 시스템 수준이 아닌 **단계 수준**(습관적 목표 선택 + 목표지향 실행)으로 보는 인간 계산 관점; 스트레스가 어느 단계를 무너뜨리는지 질문 제공.
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA의 또 다른 선조체 출력: **BLA→DLS**(DMS 투사와 별개 집단)는 agency가 아니라 **감각자극-반응 결합을 이종시냅스 가소성으로 증폭** — BLA가 표적별로 목표지향(DMS)·S-R(DLS) 양쪽에 관여 (Neuron 2026).
 - [[concept-habit]] — 습관 개념 hub — 본 논문을 **습관적 과식 경로 A(스트레스: 목표지향 끄기 + 습관 켜기)**의 핵심으로 정리하고, 자유 섭식으로의 일반화는 미검증임을 명시.
+- [[rangel-2008-a-framework-for-studying-the]] — 통제권 배정의 계산 원안(추정 불확실성이 낮은 가치계가 통제, 경험이 쌓이면 습관계가 인계; Daw 2005 인용). 본 논문은 그 배정을 **스트레스가 편도–DMS 두 경로로 앞당긴다**는 회로 수준의 답을 준 셈 (Nat Rev Neurosci 2008).

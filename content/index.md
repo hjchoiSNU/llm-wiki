@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 524 (+ index.md, log.md)
+- 총 페이지: 525 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-04
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -98,6 +98,7 @@ title: 뇌과학 LLM Wiki
 지각, 주의, 기억, 학습, 의사결정, 사회행동.
 
 - [[concept-habit]] — 습관 개념 hub(목표지향↔습관, 습관적 과식 7경로). 본문은 💡 일반 개념 절. · 🔑 habit, 습관, goal-directed
+- [[rangel-2008-a-framework-for-studying-the]] — 가치 기반 의사결정의 5단계 계산 × 세 가치계 틀; 과식을 Pavlovian·습관·목표지향 버전으로 가르는 기준. 본문은 🎯 Multiple decision systems 절. · 🔑 neuroeconomics, control assignment
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스가 BLA→DMS(agency)↓·CeA→DMS(habit)↑ "one-two punch"로 goal-directed→habit 전환; stress eating·NMPU Utility 무력화 회로 (Nature 2025, Wassum lab).
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc D1(탈억제)/D2(직접억제) MSN → SI 콜린성 → **BLA ACh가 현저성(salience, valence-free)을 표상**·연합학습을 양방향 제어; salience를 valence와 분리 (Nat Neurosci 2026, Xiao lab). · 🔑 ChAT, D2-MSN, D1-MSN
 - [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — **cue labeling**(cue를 단어로 라벨링 = affect labeling 응용)이 흡연 갈망·precuneus(DMN) 활성↓, 중년·고령에서 baseline까지 회복; 저비용·무부작용 인지 개입 (Neuropsychopharmacology 2026). 개념 [[concept-cue-reactivity]]·[[concept-affect-labeling]]. _(craving 조절은 ⚡ 신경조절·🍽️ DTx와도)_
@@ -546,7 +547,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 ### 보상·정서 조절
 - [[concept-anhedonia]] · [[concept-cue-reactivity]] · [[concept-affect-labeling]] · [[concept-consumption-vigor]]
 - [[concept-compulsion]] — **강박의 조작적 정의 hub: 처벌 저항(foot-shock·air puff·quinine)**. 집단 평균이 아닌 개체 분류 — 기저는 단봉, 처벌 도입 후 **양봉**(perseverer vs renouncer). oDASS ~50% / 약물 자가투여 20–30% → 표본 50–100 요건. 회로는 OFC→DST 시냅스 강도. 섭식판 이식은 [[leow-2026-a-cortical-hypothalamic-neural|처벌-저항 섭취]] · 🔑 compulsive, resistance to punishment, punishment-resistant, mPFC
-- ★ [[concept-habit]] — **습관 개념 hub: 목표지향↔습관 통제와 습관적 과식의 뇌 기전**. 조작적 정의는 devaluation 둔감 하나(자주·자동·못 멈춤은 습관의 증거 아님). 습관적 과식을 7경로로 분해: 스트레스(BLA→DMS↓·CeA→DMS↑) · 정서(BLA→DLS S-R 증폭) · 반복 노출(dorsalization, 학습 시간척도) · one-shot 각인(DLS eCB-LTP) · 발달기 역경(LH^LepR→vlPAG) · 식이 환경(cue 접근·PIT) · 쾌락 저하(NAcLat→VTA Nts). 반론(Hoang 2026 결과 표상·Stuber 신중론)과 연구 제안 7건. · 🔑 habitual overeating, goal-directed, stimulus-response, outcome devaluation, contingency degradation, PIT(Pavlovian-instrumental transfer), DLS, DMS, CeA→DMS
+- ★ [[concept-habit]] — **습관 개념 hub: 목표지향↔습관 통제와 습관적 과식의 뇌 기전**. 조작적 정의는 devaluation 둔감 하나(자주·자동·못 멈춤은 습관의 증거 아님). 습관적 과식을 7경로로 분해: 스트레스(BLA→DMS↓·CeA→DMS↑) · 정서(BLA→DLS S-R 증폭) · 반복 노출(dorsalization, 학습 시간척도) · one-shot 각인(DLS eCB-LTP) · 발달기 역경(LH^LepR→vlPAG) · 식이 환경(cue 접근·PIT) · 쾌락 저하(NAcLat→VTA Nts). 반론(Hoang 2026 결과 표상·Stuber 신중론)과 연구 제안 9건. 계산 틀([[rangel-2008-a-framework-for-studying-the|Rangel 2008]]): **Pavlovian 과식 vs 습관적 과식 vs 목표지향 과식 판별표**(§1-4), 5단계 계산의 고장 지점(§1-5), 통제권 배정 실패 가설. · 🔑 habitual overeating, goal-directed, stimulus-response, outcome devaluation, contingency degradation, PIT(Pavlovian-instrumental transfer), DLS, DMS, CeA→DMS, control assignment
 - [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서 고칼로리 음식의 쾌락 가치가 하락하는 현상 hub(sensory-specific satiety·alliesthesia·incentive sensitization과의 구분표 포함). _(🎯 도파민 절에도)_ · 🔑 쾌락 가치 저하, 기호성 저하, reward devaluation in obesity, HFD, LHA^Vglut2, NTS
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지 · 🔑 T2D
 - [[concept-goal-commitment]] — 목표 몰입·포기 hub: 정의·측정(선택 전/후·frustration>temptation)·세 적응 기능·Rubicon/HRL/감시-임계값 알고리즘·failure mode(ADHD·불안·apathy·우울)·강박/restraint/NMPU 이식 (Holton 2026).
@@ -718,6 +719,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[yang-2026-a-sync-state-in-the]] — 자발 섭취 ~30초 후 VTA DA 아집단이 **0.8 Hz 동기 버스트("sync state")** 로 전환, orosensory×위장 영양 신호의 시간적 일치를 게이트로 **interoceptive credit assignment**(RPE 아님) 수행·미래 소비 vigor↑; 0.8 Hz 광자극이 영양소 없이 학습 유도(충분조건) (Neuron 2026, Rong Gong). 개념 [[concept-consumption-vigor]]. · 🔑 NF, vshNAc, DAN
 
 ### 진영 — Multiple decision systems (goal/habit/Pavlovian)
+- ★ [[rangel-2008-a-framework-for-studying-the]] — **신경경제학의 원형 틀**: 가치 기반 의사결정을 5단계 계산(표상·가치평가·행동선택·결과평가·학습) × 세 가치계(Pavlovian·습관·목표지향) × 조절변수(위험·지연)로 분해. 눈앞 음식의 과식 = Pavlovian계, 아침 커피·식후 담배 = 습관계; **OCD·과식 = 통제권 배정 실패** 가설, 계산정신의학 예고. 습관적 과식 관점의 강화 정리(세 가치계 판별표·5단계 고장 지점) 포함 (Nat Rev Neurosci 2008, Rangel·Camerer·Montague). 개념 [[concept-habit]]. _(🧩 인지 & 행동에도)_ · 🔑 neuroeconomics, control assignment, valuation systems, model-free RL, Q-learning, 시간 할인, prospect theory
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — 인간 동기를 goal-directed/habitual/Pavlovian 3계 + arbitration(vlPFC·frontopolar)으로 분해; general/specific PIT 회로(NAc·편도)·vmPFC goal-value·choking (book chapter 2016). · 🔑 OFC, RPE
 - [[holton-2026-the-adaptive-value-of-stubborn]] — ★ **목표 고집(perseveration)을 적응적 계산으로 재정의**: 자원 합리성·간섭 차단·동기 비계 3기능; 알고리즘=선택/실행 분리(Rubicon·HRL option, 습관적 선택+model-based 실행)+현재 목표 vs 임계값 감시(foraging MVT·momentum); apathy=over-persistence·우울의 disengagement 역설 (Trends Cogn Sci 2026, Niv·O'Reilly). 개념 [[concept-goal-commitment]]. _(🧩 인지&행동에도)_ · 🔑 ACC
 

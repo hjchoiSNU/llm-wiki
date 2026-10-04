@@ -8,6 +8,18 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 14:55 — ingest (Rangel 2008 NRN, 가치 기반 의사결정 틀) + 습관적 과식 강화 정리
+
+"ingest, habit overeating 관련 강화된 정리" 트리거. `raw/` 대조 결과 **신규 1건**: `2008 NRN A framework for studying the neurobiology of value-based decision making.pdf`(14:40 투입, 12쪽 전문 확인). `wiki/`·동결 로컬 폴더·프로젝트 루트에 잘못 들어간 PDF 없음. 웹 미사용.
+
+새 페이지 1: [[rangel-2008-a-framework-for-studying-the]] — 5단계 계산(표상·가치평가·행동선택·결과평가·학습) × 세 가치계(Pavlovian·습관·목표지향) × 조절변수(위험·지연), 가치계 충돌 6유형(Fig. 2), 통제권 배정(Daw 2005), 결과평가(내측 OFC·오피오이드 liking), 습관계 강화학습(Box 4), 계산정신의학(Box 5). **"습관적 과식 관점의 강화 정리" 절** 추가: A 논문의 섭식·과식 언급 전수 9항목 / B Pavlovian·습관적·목표지향 과식 판별표(Hijacked Brain 5형 대응) / C 5단계 고장 지점 / D 2008년 미해결 질문 ↔ 위키 후속 근거 / E lab 설계 함의. 논문 진술과 위키 해석을 구분 표기.
+
+hub 보강: [[concept-habit]] — takeaway ①에 "눈앞 음식 과식 = Pavlovian" 단서, ④ 통제권 배정 실패 가설 추가; §1-1에 중재 규칙 원안·습관계 네 성질; **§1-4 "과식"의 세 가지 가치계 버전 판별표**·**§1-5 5단계 체크리스트**(+NMPU 대응) 신설; §2-2에 고전 회로 지도(변연하 피질, CeA/BLA Pavlovian 분업 ↔ general/specific PIT); §4 반론 7(눈앞 음식 과식은 Pavlovian일 수 있다)·8("습관계 = 느린 학습" vs Piette 2026 one-shot); §6 "통제권 재배정" 행; §7 5형의 계산적 경계; §8 연구 제안 8(Pavlovian 소비형 vs 도구적 습관형 분리)·9(습관 가치의 상태 간 일반화, GLP-1RA 포함).
+
+역방향 링크 16: [[odoherty-2016-multiple-systems-for-the-motivational]] · [[redish-2016-the-computational-complexity-of-valuation]] · [[concept-compulsion]] · [[concept-orbitofrontal-cortex]] · [[concept-need-motivation-pleasure-utility]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-loss-of-control-eating]] · [[concept-cue-reactivity]] · [[concept-liking-wanting]] · [[concept-dopamine-reward-system]] · [[overview-behavioral-neuroscience-of-motivation-2016]] · [[concept-food-addiction]] · [[concept-inhibitory-control-demand]] · [[giovanniello-2025-a-dual-pathway-architecture-for]] · [[derman-2018-junk-food-enhances-conditioned-food-cup]] · [[hoang-2026-methamphetamine-potentiates-the-use-of]]. `index.md` 🎯 Multiple decision systems(본문)·🧩 인지 & 행동(포인터)에 추가, concept-habit 항목 갱신, 총 525.
+
+발견한 빈자리·긴장: ① Rangel 틀에서 가장 흔한 과식 장면(눈앞 음식)은 습관이 아니라 Pavlovian — lab Habit형 판정 전에 Pavlovian 소비형을 배제해야 함 ② Emotion형은 이 틀에 대응 항목 없음 ③ "습관계 = 느린 학습" 가정과 Piette 2026(DLS one-shot)의 긴장 ④ 변연하 피질(infralimbic)의 섭식 관련 1차 자료가 위키에 없음 ⑤ 정정: [[concept-habit]] 경로 F가 Derman 2018을 "progressive ratio 불변"으로 적었던 것을 원문 초록 대조 후 "음식(US) 자체 동기는 오히려 감소"로 고침([[derman-2018-junk-food-enhances-conditioned-food-cup]] 페이지 기록과 일치).
+
 ## 2026-10-04 14:00 — other (개념 hub 신설: 습관)
 
 새 페이지 1: [[concept-habit]] — 습관(목표지향↔습관 통제)과 **습관적 과식의 뇌 기전** 심화 hub. 위키 기존 페이지만 근거로 사용(웹 미사용). 구성: ① 조작적 정의(devaluation·contingency degradation·PIT)와 측정 함정(Fallon 2026 속도 vs 횟수, "habit" 용어의 느슨한 사용), 이웃 개념 구분표(강박·유인-감작·쾌락 저하·목표 몰입·cue 반응성·LOC) ② 회로(DMS↔DLS, BLA/CeA/vmPFC/mPFC 입력, 도파민 dorsalization과 Gordon 2026 시간척도 단서, 가소성 규칙 7종 표) ③ 습관적 과식 7경로(스트레스·정서·반복 노출·one-shot 각인·발달기 역경·식이 환경·쾌락 저하) + mermaid 개요도, 근거마다 `[섭식 직접]`/`[타 행동→섭식 가설]` 표기 ④ 반론 6가지 ⑤ 인간 근거 ⑥ 개입 함의 표 ⑦ lab 연결 ⑧ 연구 제안 7건.

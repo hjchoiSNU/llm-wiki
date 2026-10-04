@@ -53,3 +53,4 @@ updated: 2026-10-04
 - [[parker-2022-appetitive-mapping-of-the-human]] — 'LOC는 pre-meal 음성정동 뒤에 온다 → NAc 자극으로 positive affect를 evoke'라는 치료 가설과 수술 중 매핑.
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — 충동(LOC)–강박(OCD) transdiagnostic 축의 강박편(amOFC gamma).
 - [[concept-habit]] — LOC를 습관·충동·강박 중 어느 기전으로 볼지 가르는 개념 hub(devaluation 기준).
+- [[rangel-2008-a-framework-for-studying-the]] — LOC의 계산적 번역 후보: 세 가치계(Pavlovian·습관·목표지향)가 충돌할 때 **적절한 계에 통제권을 주지 못하는 것**. "배부른데 한 입 더"는 Pavlovian ↔ 목표지향 충돌의 예 (Nat Rev Neurosci 2008).

@@ -2,7 +2,7 @@
 title: "Junk-food enhances conditioned food cup approach to a previously established food cue, but does not alter cue potentiated feeding"
 type: paper
 created: 2026-07-05
-updated: 2026-10-03
+updated: 2026-10-04
 source: raw/2018 Physiology & Behavior. Junk-food enhances conditioned food cup approach to a previously established food cue, but does not alter cue potentiated feeding.pdf
 authors: [Derman RC, Ferrario CR]
 year: 2018
@@ -33,3 +33,4 @@ year: 2018
 - [[concept-food-addiction]] — cue-triggered craving·wanting/liking 해리.
 - [[koide-2025-association-between-eating-behavior]] — external(cue) eating이 GLP-1RA 반응 예측(임상 짝).
 - [[hoang-2021-the-basolateral-amygdala-and]] — cue-potentiated feeding의 기질로 거론되는 **BLA→LH** 회로(Petrovich 2002·2005 인용)를 학습 편향 틀로 정리한 Sharpe lab 리뷰(Curr Opin Behav Sci 2021). BLA = cue의 감각 특이 결과 정보, LH = 현재 동기 상태 관련성·근접도 평가.
+- [[rangel-2008-a-framework-for-studying-the]] — 본 논문의 조건화 접근 강화는 Rangel 틀의 **Pavlovian 가치계** 변화에 해당한다(습관계·목표지향계와 구분). "정크푸드가 먼저 바꾸는 것은 Pavlovian 축"이라는 해석의 계산적 틀 (Nat Rev Neurosci 2008; 위키 해석).
