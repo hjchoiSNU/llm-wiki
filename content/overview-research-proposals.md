@@ -2,7 +2,7 @@
 title: "연구계획서 비교 hub (Research Proposals Overview)"
 type: overview
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -65,6 +65,7 @@ flowchart TB
 3. **#2 NMPU 인간 번역** — lab signature, 다만 인간 iEEG 협업 필요.
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[overview-future-research-directions]] — 상위 로드맵(후보 풀·Tier 1–3).
 - [[concept-need-motivation-pleasure-utility]] — 6과제의 공통 spine.
 - [[concept-activity-molecular-registration]] — #3의 핵심 방법군.

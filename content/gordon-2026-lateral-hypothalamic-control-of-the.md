@@ -150,6 +150,7 @@ journal: "Neuron 115:1–20 (in press 2026; 호 날짜 2027-03-03; 접수 2025-0
 7. 코드·데이터 공개: GitHub `stuberlab/Gordon-et-al.-2026`, Zenodo `10.5281/zenodo.21809309`. (저자들은 분석 코드 정리·저장소 준비·원고 편집에 생성형 AI인 Claude(Anthropic)를 사용했다고 선언문에 명시.)
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[concept-striatal-dopamine-gradient]] — 본 논문이 만든 개념 hub: 선조체 도파민의 전후축·내외측 공간 조직, 파동, 국소 vs 전파 논쟁.
 - [[concept-lateral-hypothalamus]] — 선조체 DA 지형을 설정하는 상류 hub. LHA^GABA/Glut 비가 설정 변수라는 재정의; LH를 "먹을지 결정(feeding switch)"에서 "도파민 배치 통제(DA landscape controller)"로 확장.
 - [[concept-dopamine-reward-system]] — "단일 보상 broadcast" 가정에 대한 공간적 반례; 선조체 DA를 전후축 gradient·아구역별 국소 통제로 재정의.

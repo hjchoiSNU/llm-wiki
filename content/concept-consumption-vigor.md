@@ -2,7 +2,7 @@
 title: "Consumption vigor (소비 강도)"
 type: concept
 created: 2026-07-28
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -19,6 +19,7 @@ updated: 2026-10-03
 - **NMPU 매핑**: vigor는 Motivation(wanting)의 행동 출력; [[concept-liking-wanting|liking]](hedonic 평정)과 구분. LH-Nts의 licking 운동량 부호화([[sumarli-2026-multidimensional-control-of-ingestive-behavior]])와도 접점.
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[yang-2026-a-sync-state-in-the]] — vigor 학습과 도파민 sync state(근거).
 - [[concept-need-motivation-pleasure-utility]] — Motivation 축 정량화.
 - [[concept-liking-wanting]] · [[concept-dopamine-reward-system]] — wanting 이론·기질.

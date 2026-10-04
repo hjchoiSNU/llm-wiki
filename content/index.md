@@ -617,6 +617,9 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 위키 근거에서 도출한 구체적 연구계획서. 파일명 `proposal-*.md`. **전체 비교: [[overview-research-proposals]]** (6과제 축·방법·실현가능성 한눈에). 상위 로드맵은 [[overview-future-research-directions]].
 
+### 습관·과식 — DLS 종단 기록
+- [[proposal-habitual-overeating-dls-miniscope]] — Miniscope로 같은 DLS 세포를 추적하며 음식 추구의 습관화·포만 후 실제 섭취·bout 종료와 재시작을 분리하고 시점별 인과 조작으로 연결을 검증하는 연구 제안. · 🔑 outcome devaluation, DLS, miniscope, habitual overeating
+
 ### 신경조절 — 비침습 tTIS
 - [[proposal-ttis-feeding-reward-circuits]] — 비침습 tTIS로 인간 NAc·내측시상하부 병적 동기를 폐루프 차단하는 5년 연구안(Aim 1 montage→Aim 2 NHP→Aim 3 인간 pilot). 과학 상세 버전. · 🔑 LOC, PWM-TI, LHA
 - [[proposal-ttis-nrf-junggyeon]] — 위 과제의 **한국연구재단 중견연구** 제출 양식 버전(필요성·독창성·연차별 목표·연구역량·연구비). · 🔑 PWM-TI, LOC, NHP

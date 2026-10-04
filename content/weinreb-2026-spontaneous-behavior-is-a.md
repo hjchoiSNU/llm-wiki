@@ -2,7 +2,7 @@
 title: Spontaneous behavior is a succession of self-directed tasks (Weinreb 2026)
 type: paper
 created: 2026-08-05
-updated: 2026-09-22
+updated: 2026-10-04
 source: raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks.pdf
 source_alias: "raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks 1.pdf"
 authors: [Caleb Weinreb, Lakshanyaa Thamarai Kannan, Alia Newman-Boulle, Tim Sainburg, Winthrop F. Gillis, Alex Plotnikoff, Sofia Makowska, Jonah E. Pearl, Mohammed Abdal Monium Osman, Scott W. Linderman, Sandeep Robert Datta]
@@ -70,6 +70,7 @@ year: 2026
 - dmPFC의 역할은 순간순간 행동 개시(action initiation)라기보다 **맥락 의존적 상태 선택·유지**의 permissive/scaffolding 기능. hunger·thirst 같은 더 긴 내부 상태는 여기서 다룬 수 초 "behavioral state"와 구별됨.
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[xu-2020-behavioral-state-coding-by]] — PVH ensemble의 **behavioral state coding**(Sternson, CaRMA); "행동 상태를 신경 앙상블이 부호화"라는 같은 개념 가족, 여기선 시상하부·항상성 상태 vs Weinreb의 dmPFC·수 초 task 상태.
 - [[concept-need-motivation-pleasure-utility]] — 자발적 행동을 self-directed task(목표)의 연속으로 보는 관점은 NMPU의 goal/utility 프레임과 접점; 섭식을 상태화된 과제로 분해.
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — goal-directed vs habit(BLA→DMS/CeA→DMS) 전환; dmPFC 상태 제어와 상보적인 "행동 제어 시스템 간 arbitration" 축.

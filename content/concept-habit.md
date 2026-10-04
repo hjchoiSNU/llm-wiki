@@ -298,6 +298,7 @@ flowchart LR
 ---
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 만성 스트레스의 BLA→DMS↓ / CeA→DMS↑ 습관 전환(경로 A의 핵심).
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA→DLS 직접 투사, S-R 이종시냅스 증폭, OCD 모델(경로 B).
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — 목표지향·습관·파블로프 3계와 중재(정의의 원전).

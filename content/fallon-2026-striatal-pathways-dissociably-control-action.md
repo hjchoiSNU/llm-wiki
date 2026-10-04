@@ -2,7 +2,7 @@
 title: Striatal pathways dissociably control action counting and goal-directed steering
 type: paper
 created: 2026-07-04
-updated: 2026-08-19
+updated: 2026-10-04
 source: raw/2026 Nature Neuroscience. Striatal pathways dissociably control action counting and goal-directed steering.pdf
 authors: [Fallon IP, Roshchina M, Hong F, Fernandez S, Ruan S, Yin HH]
 year: 2026
@@ -41,6 +41,7 @@ year: 2026
 - BG는 이산 선택에도 연속 kinematics에도 국한되지 않고, **목표 근접도를 나타내는 공통 제어 신호**를 생성. dSPN=accumulator, iSPN=leak/discharge인 **leaky integrator + push–pull controller**로, 학습된 기준(count 5)에 따라 dynamic gating으로 sequence 종료. categorical selection·continuous control 모델을 잇는 통합 관점.
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[concept-medium-spiny-neuron]] — dSPN(D1)/iSPN(D2)가 곧 MSN 두 계열; 본 연구는 그 기능 분업을 counting vs steering으로 확장.
 - [[chen-2026-striatal-control-of-amygdalar]] — 같은 Yin lab 계열 striatal D1/D2 경로 해리 자매 연구.
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — direct/indirect dual-pathway가 행동을 양방향 제어한다는 공통 아키텍처.

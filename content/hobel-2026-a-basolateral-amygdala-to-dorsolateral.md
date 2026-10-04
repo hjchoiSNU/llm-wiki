@@ -68,6 +68,7 @@ aliases: [BLA-DLS, BLA→DLS, amygdala-sensorimotor striatum, Hobel 2026, Sapap3
 - **DMS 대비**: [[giovanniello-2025-a-dual-pathway-architecture-for]]의 BLA→DMS(agency) ↔ 본 논문의 BLA→DLS(S-R 증폭). BLA 안에서도 투사 표적별로 **목표지향 vs 습관 측에 따로 기여**하는 그림.
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[concept-basolateral-amygdala]] — BLA 개념 hub; 본 논문이 **DLS 출력과 BLAm/BLAc vs BLAl 도메인 분업** 추가.
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — BLA→**DMS**(agency)·CeA→DMS(habit); 본 논문은 BLA→**DLS** 직접 경로.
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — DLS SPN의 또 다른 가소성 규칙(eCB-LTP, 1회 경험); 본 논문은 반복 짝 활성에 의한 이종시냅스 가소성.

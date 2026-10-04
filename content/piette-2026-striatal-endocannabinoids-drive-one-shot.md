@@ -70,6 +70,7 @@ doi: 10.1038/s41593-026-02392-z
 - **1회 폭식이 습관이 되는가**: [[giovanniello-2025-a-dual-pathway-architecture-for]]는 만성 스트레스가 goal-directed→habit 전환을 만든다고 본다. 본 논문의 "짧은 경험=eCB-LTP / 반복 경험=NMDA-LTP" 분업은 **habit 고착의 초기 각인 단계**에 별도 규칙이 있음을 시사한다.
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[concept-one-shot-learning]] — 본 논문이 정의하는 단일시행 학습·가소성 규칙 개념 hub.
 - [[concept-endocannabinoid-system]] — 리간드·수용체·대사 경로 hub. 본 논문이 **중추 학습 규칙** 축을 추가.
 - [[concept-medium-spiny-neuron]] — 가소성이 일어나는 선조체 주 뉴런(SPN/MSN); D2R 결손이 학습을 막음.

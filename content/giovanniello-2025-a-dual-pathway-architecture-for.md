@@ -27,6 +27,7 @@ year: 2025
 - **주장**: 만성 스트레스는 편도-선조체 dual-pathway로 BLA→DMS(agency)를 끄고 CeA→DMS(habit)를 켜서 미숙·경직된 습관을 촉진 — 편도의 DMS 입력을 뒤집는 "one-two punch".
 
 ## 관련 페이지
+- [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
 - [[concept-basolateral-amygdala]] — BLA→DMS=action-outcome/agency 경로(스트레스로 약화).
 - [[concept-need-motivation-pleasure-utility]] — 스트레스가 Utility(outcome value) 연산을 무력화, habit 고착.
 - [[concept-loss-of-control-eating]] — habit·통제 상실로서의 stress eating 회로 모델.
