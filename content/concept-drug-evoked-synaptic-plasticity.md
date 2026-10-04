@@ -2,7 +2,7 @@
 title: 약물 유발 시냅스 가소성 (Drug-evoked synaptic plasticity)
 type: concept
 created: 2026-09-02
-updated: 2026-09-11
+updated: 2026-10-03
 aliases: [drug-evoked synaptic plasticity, CP-AMPAR, calcium-permeable AMPAR, metaplasticity, depotentiation, mGluR-LTD, dorsalization, spiraling connectivity, 약물 유발 가소성]
 ---
 
@@ -67,3 +67,6 @@ VTA (수 시간)  →  NAc (수일)  →  DST (더 많은 피질선조체 루프
 - [[concept-incentive-sensitization]] — 감작의 행동 이론; 여기서는 그 시냅스 기질.
 - [[concept-agrp-synaptic-plasticity]] — **섭식 회로판 자매 개념**. 같은 논리 구조(병리·상태가 시냅스 강도에 저장되고, 그 강도를 되돌리면 행동이 되돌아온다)가 시상하부 배고픔 회로에서도 성립한다: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서는 **오피오이드**가 depotentiation 역할을 하고, [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]에서는 **NMDAR 차단**이 증폭 유도를 막아 체중 증가를 없앤다.
 - [[concept-circuit-bistability-hysteresis]] — "되돌릴 수 있는 래치"라는 공통 프레임.
+- [[thoeni-2020-depression-of-accumbal-to]] — **같은 lab이 같은 문법을 섭식에 적용한 사례**(Neuron 2020, Lüscher). 억제성 시냅스(NAcSh D1-MSN→LH)가 급성 식이제한·고지방식에서 **eCB–CB1R 의존적으로 depress**되고, 반대로 **in vivo 광유전 HFS(4 ms × 100 Hz × 100 pulse, 20 s 간격 4회)로 potentiate하면 24 h 금식 마우스의 섭취가 줄어든다** — 자극은 **식사 15분 전에만** 주고 식사 중에는 주지 않았으므로 위 3원칙 중 **③ 지속(lasting) 효과**의 섭식판 실증이다. ⚠️ 그러나 **① ②와는 도파민 보조제의 방향이 반대다**: Creed 2015의 흥분성 시냅스 depotentiation은 **D1R 길항제 병용**이 필수인데, 이 억제성 i-LTP는 **전시냅스 D1R 활성이 필요**해 슬라이스에서는 D1 작용제 SKF38393(10 µM)을 넣어야 유도된다(in vivo에서는 내인성 도파민이 그 역할). → DBS 프로토콜 설계에서 **표적 시냅스의 극성(흥분성 되돌리기 vs 억제성 강화)을 먼저 정해야** 한다는 함의(병기).
+- [[linders-2022-stress-driven-potentiation-of-lateral]] — ★ **이 문법(잘못 강화된 시냅스 → depotentiate → 행동 복귀)이 약물이 아니라 "스트레스 섭식"에서 성립한 사례**(Nat Commun 2022, Meye·Adan lab). 이틀 사회 패배가 LHA^glut→VTA^DA 시냅스를 **후시냅스 GluA1-AMPAR 증가 + rectification↑(= GluA2-결손형 쪽 전환)** 으로 강화하고(PPR 불변), **VTA 내 dexamethasone이 이를 모사**한다. 핵심은 되돌림 — **1 Hz × 30 min in vivo 광유전 LFS**가 opto-유발 AMPAR 진폭을 낮추고(KS D=0.61, p=0.0002) **스트레스성 지방 과식을 소멸**시킨다(interaction stress×virus F(1,96)=7.16, p=0.009), 반대로 20 Hz HFS는 스트레스 없이 과식을 만든다. CP-AMPAR 삽입·depotentiation 축을 **섭식 회로**로 확장하는 자료이며, 저주파 DBS 번역 논의(Creed 2015)와 같은 설계 논리를 공유한다.
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 억제가 cocaine CPP(조건화)는 못 막지만 **cocaine 운동 감작의 발달은 둔화**시킨다(금단 1·7일 후 용량-반응 약화) → 약물 유발 가소성 축에 LH^LepR가 기여할 수 있다는 단서.

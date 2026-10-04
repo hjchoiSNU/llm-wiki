@@ -2,7 +2,7 @@
 title: "Barros et al. 2026 — From diet to hypothalamic dysfunction: Neuroanatomical and hormonal integration of the microbiota-hypothalamus-adipose tissue axis"
 type: paper
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/2026 From diet to hypothalamic dysfunction Neuroanatomical and hormonal integration of the microbiota-hypothalamus-adipose tissue axis.pdf
 authors: [Helena Dias de Freitas Queiroz Barros, Breno Picin Casagrande, Diana Dias Araújo, Thais Antonio Jose Mutran, Monica Marques Telles, Debora Estadella, Luciana Pellegrini Pisani]
 year: 2026
@@ -201,3 +201,4 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 동반 editorial.
 - [[johansen-2025-brain-control-of-energy]] — leptin을 기아 신호로 보는 대조 관점(과식 방어 신호는 leptin-멜라노코르틴 독립·미동정) 및 뇌 표적 항비만 약물 종합.
+- [[wang-2026-a-hypothalamic-circuit-links]] — ⚠️ **상보/긴장**: HFD 시상하부 기능장애를 본 리뷰는 microbiota·염증·대사 재프로그래밍으로 설명하는 반면, Wang은 **순수 회로 재결합**(ArcAgRP→PVNCRH→LHAGlu "priming")으로 불안-과식 커플링을 설명하고 염증·gut 축은 다루지 않음. 같은 HFD 표현형의 다른 층인지 병기 (Nat Commun 2026).

@@ -145,3 +145,4 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·addiction에서 DA.
 - [[concept-vagal-afferent-neurons]] — gut-DA reinforcement (다른 채널).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — NAc 도파민을 'reward'가 아닌 **행동 활성화·전환**으로 읽는 계보의 후속. medial shell 도파민 길항은 섭취량이 아니라 **섭식 미세구조와 다른 행동으로의 전환**을 바꾼다(Baldo 2002).
+- [[nieh-2016-inhibitory-input-from-the]] — DA disinhibition(LH^GABA→VTA)이 feeding·사회·물체 조사를 가로질러 behavioral activation을 일으킴 = DA의 activational·motivational salience 역할의 회로 사례 (Neuron 2016, Tye lab).

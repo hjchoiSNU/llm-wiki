@@ -2,7 +2,7 @@
 title: Charles S. Zuker
 type: person
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-10-03
 aliases: [Charles Zuker, Zuker]
 ---
 
@@ -38,3 +38,4 @@ Columbia University, Zuckerman Mind Brain Behavior Institute · Department of Bi
 - [[wang-2018-coding-of-valence-and-identity]] — 미각 identity/valence 분리·피질→편도 지형(대표작).
 - [[jin-2021-top-down-control-of-sweet]] — 미각피질·CeA→뇌간 top-down 미각 조절.
 - [[concept-taste-valence-coding]] — labeled-line 미각 valence hub.
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본인이 **Trpm5⁻/⁻("sweet-blind") 마우스를 제공**한 연구(eLife 2013, Friedman·de Araujo). 그 계통에서 sucrose의 미각 비의존 post-ingestive 조건화가 **LH MCH 뉴런 제거로 사라진다**(자리 선호 70–79% → 50%, VTA DA cFos↓). 즉 wanting 축(gut/영양)에 **시상하부 노드**가 더해지는 결과다. ⚠️ 본인 lab의 당 선호 회로(SGLT1→미주→cNST, Tan 2020)와 어느 지점에서 만나는지는 미검증이다(병기).

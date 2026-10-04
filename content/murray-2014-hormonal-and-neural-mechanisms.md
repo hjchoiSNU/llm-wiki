@@ -2,7 +2,7 @@
 title: 식욕 보상·섭식·비만의 호르몬 및 신경 기전 (Murray 2014)
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-03
 source: raw/2014 NRE_Hormonal and neural mechanisms of food reward, eating behavior and obesity.pdf
 authors: [Murray S et al.]
 year: 2014
@@ -36,3 +36,4 @@ year: 2014
 - [[morales-2020-liking-and-wanting-in-eating]] — 섭식 liking/wanting 상보 리뷰.
 - [[stuber-2025-the-neurobiology-of-overeating]] — 과식 신경생물학 발전판.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[leinninger-2009-leptin-acts-via-leptin]] — 본 리뷰의 "**Leptin**: VTA·LHA 작용으로 섭식↓; VTA 도파민 발화·TH 조절" 서술의 **1차 원전**(Cell Metab 2009, Myers lab). 실측: LHA LepRb(전부 GABAergic, MCH·OX 비중첩)가 VTA로 투사하고, *Lep^ob/ob*에 **250 pg** intra-LHA leptin만 주면 동측 **VTA *Th* mRNA ~2.5배·NAc DA 함량 ~40%↑**(p<0.05)이면서 섭식·체중↑은 억제된다. ⚠️ 방향을 구분해 인용할 것: 본 리뷰는 leptin을 "VTA DA 발화·보상반응 **억제**"로 요약하지만, 이 원전은 같은 호르몬이 **DA 생산 용량(Th·함량)은 올린다**고 보고한다(저자들은 함량(tonic) vs 방출(phasic)의 구분으로 해소). 또 **intra-VTA leptin은 *Th*를 바꾸지 못했다** → 이 효과의 중계는 VTA가 아니라 LHA다(병기).

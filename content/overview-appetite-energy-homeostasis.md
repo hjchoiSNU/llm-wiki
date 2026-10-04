@@ -2,7 +2,7 @@
 title: Appetite & energy homeostasis — synthesis
 type: overview
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -68,6 +68,7 @@ updated: 2026-09-19
 - **Appetitive vs consummatory** ([[concept-appetitive-consummatory-phases]]) — 별도 ensemble.
 - LH GABAergic → VTA disinhibition → NAc DA → **pleasure-induced eating**.
 - LH-VTA glutamatergic 강화 → **stress-induced eating**.
+- **섭취 밖의 출력**: LH^Vgat·LH^LepR 화학유전 활성은 체온↑·체중↓를 내고(LH^Vgat는 수평 운동이 **줄어도** 체온↑), LH^Vgat의 "chow 섭취↑"는 상당 부분 갉기 spillage다 — [[de-vrind-2019-effects-of-gaba-and]] (Obesity 2019). LH는 섭식 driver이자 **에너지 소비 축**이기도 하다.
 
 ### 인간 입증 현황 (Steinert 2017 Table 5)
 
@@ -121,6 +122,8 @@ updated: 2026-09-19
 | Pleasure | bupropion-naltrexone | NAc opioid |
 | Anorexia | ghrelin agonist | Need ↑ |
 | Leptin 결핍 | metreleptin | Need 회복 |
+
+- **유전 층화** ([[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]] · [[concept-obesity-genetics]]): setmelanotide는 상류 결손(POMC/PCSK1 80%·LEPR 53%가 1년 ≥10% 감량; FDA ≥2세 POMC·PCSK1·LEPR·BBS)에만 강하고 이형접합 MC4R엔 ~3 kg; PWS엔 diazoxide choline(2025 FDA). 흔한 비만 유전자는 insula·SN(보상) 농축 주장 — 단일유전자=Need 결손 vs polygenic=보상축 개인차(연결 가설).
 
 ### DTx (digital therapeutics)
 - CBT 기반 + EMA 실시간 + AI 코칭 + VR cue exposure.

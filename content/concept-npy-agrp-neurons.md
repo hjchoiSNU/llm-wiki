@@ -2,7 +2,7 @@
 title: NPY/AgRP neurons
 type: concept
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
 	
@@ -171,4 +171,9 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[concept-weight-regain-defended-adiposity]] — 그 가소성의 임상 표현형(다이어트·약물 중단 후 재증가).
 - [[person-sternson-scott]] · [[person-fenselau-henning]] — 위 두 논문의 교신 그룹.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **AgRP는 수상돌기 가시가 풍부하고 POMC는 사실상 없다**는 구조적 비대칭을 확립. 24시간 단식이 가시를 **67% 증가**시키고, AgRP에서만 `Grin1`(NMDAR)을 지우면 **단식 반응 전체**(가시형성·EPSC 빈도·탈분극·발화·c-Fos·`Agrp`/`Npy` mRNA)가 사라지며 저체중·저지방·저섭취·RER 감소가 나타난다. POMC에서 지우면 대사 표현형 없음 (Neuron 2012, Lowell lab).
+- [[wang-2026-a-hypothalamic-circuit-links]] — ★ **AgRP의 불안 조절 능력은 만성 HFD 상태에서만 창발**(CD에선 억제=섭취↓·불안 무변, 활성=과식·불안 무변). HFD-취약군에서 ArcAgRP가 feeding-locked로 모집되어 **PVNCRH로 단일시냅스 투사**(oEPSC+oIPSC, net 흥분; AgRP ~30% glutamate 공발현). ⚠️ AgRP→PVNCRH 흥분성은 [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]의 AgRP=GABA성·PVH^CRH 무연결 틀과 긴장 (Nat Commun 2026).
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ★ **AgRP 출력 배선의 1차 자료**: 서로 다른 AgRP 부분군이 축 담보 거의 없이(penetrance 4–27%) aBNST·PVH·LHA·PVT로 독립 투사하고, **aBNST·PVH·LHA는 각각 단독으로 섭식 충분**(PVT 부분적, CEA·PAG 불가). 정량 조직 PVH ~29.7% · aBNST ~18.3% · PBN ~3.3% · PVT ~2.1%. PVH 차단이 AgRP 유발 섭식을 ~50% 억제 (Cell 2013, Sternson lab). 본 페이지 "Projection별 segregation" 절의 수치는 이 논문을 1차로 확인할 것.
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — AgRP 억제의 **상류가 뇌간에도 있다**: 세마글루타이드가 ghrelin(1 mg/kg)·단식으로 켜진 AgRP 활성을 억제하고(DIO·8일 투여에서도 유지), 이 억제는 **Adcyap1^AP/NTS 뉴런이 필요**(taCasp3 삭제 시 소실). AgRP^Gq를 CNO로 켜면 세마글루타이드의 섭취 감소가 **완전 역전·체중은 증가 전환**. NTS→ARC·NTS→DMH 두 투사 모두 단식 AgRP Fos를 억제 (bioRxiv preprint 2026).
+  - ⚠️ [[davila-2026-agrp-neurons-are-required-for|d'Avila 2026]]과 병기: 저쪽은 세마글루타이드가 AgRP를 **모집**하고 AgRP 없으면 체중 감량이 붕괴(암컷). 본 preprint는 **급성 활성 억제**(수컷 DIO) — 시간척도·성별·판독이 다르며 저자들도 '맥락 의존'으로 유보.
+- [[liu-2023-an-iterative-neural-processing]] — ARC^AgRP = 섭식 **준비(preparation)** 단계: 배고플 때만 접촉 사이 비섭식 탐색 중 재활성되어 탐색을 누르고 다음 접근을 준비한다(hM4Di 억제 시 E→Wn 전이↑·섭취↓, 자유급식 ChR2 시 Wa 전이↑·섭취↑). valence 논쟁(Betley 2015 음성 vs Chen 2016 양성)을 "비섭식 행동의 검출·억제"로 통합 시도 (Neuron 2023, Wang lab). ⚠️ "food sight로 즉시 억제된 뒤 유지" 그림과 달리 조각 단위로 진동한다 — 공간 규모·탐색 기회가 조건 변수.
+- [[rossi-2018-overlapping-brain-circuits-for]] — AgRP의 **맥락 의존 valence**(먹이 없으면 회피, 있으면 자기자극; Betley 2015 vs Chen 2016)를 "먹이 존재 의존"으로 묶은 Stuber lab 리뷰. ARC=ventricular 진입점·"식욕 촉진 세포 활성=보상" 경험칙의 대표 예외 (Cell Metab 2018).

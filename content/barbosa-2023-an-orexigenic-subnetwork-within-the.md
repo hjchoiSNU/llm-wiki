@@ -2,7 +2,7 @@
 title: "An orexigenic subnetwork within the human hippocampus (Barbosa et al. 2023)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-03
 source: "raw/2023 Nature. (Halpern) An orexigenic subnetwork within the human hippocampus.pdf"
 authors: [Daniel A.N. Barbosa, Sandra Gattas, Robert C. Malenka, Kai J. Miller, Cara Bohon, Jennifer A. McNab, Casey H. Halpern, et al.]
 year: 2023
@@ -36,3 +36,4 @@ Nature 621:381–388. 인간 해마의 **dorsolateral hippocampus(dlHPC)** 아�
 - [[concept-orexin-neurons]] — orexin 뉴런 hub.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — 마우스 dCA1→NAc 식욕기억(인간 dlHPC 대응).
 - [[azevedo-2019-a-role-of-drd2]] — 해마 내 섭식 조절 하위회로 계보.
+- [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — 본 논문이 인간 dlHPC에서 해부학적으로 확인한 **MCH orexigenic 투사**의 **기능 쪽 설치류 근거**(Nat Commun 2023, Kanoski lab, rat). LH MCH 뉴런은 학습된 음식 cue(CS+>CS−, P=0.0042)와 **음식 맥락 진입**(P=0.0001, 진입 반응↔맥락 선호 R²=0.7448)에 반응하고, 섭취 중에는 **식사 초기에 최대**이며 총 칼로리를 예측한다(R²=0.9299). 화학유전 활성은 맥락 기반 음식 추구(CPP)와 식사량을 함께 키운다 → 본 논문의 "sweet-fat cue 예상 반응" 인간 신호와 **맥락 cue 기반 추구**라는 공통 축을 갖는다(연결 가설; 투사 특이 조작은 양쪽 모두 미실시).

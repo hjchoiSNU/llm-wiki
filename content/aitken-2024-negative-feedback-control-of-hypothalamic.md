@@ -2,7 +2,7 @@
 title: "Negative feedback control of hypothalamic feeding circuits by the taste of food (Aitken 2024)"
 type: paper
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-10-03
 source: "raw/2024 Neuron (Knight). Negative feedback control of hypothalamic feeding circuits by the taste of food.pdf"
 authors: [Tara J. Aitken, Zhengya Liu, Truong Ly, Sarah Shehata, Nilla Sivakumar, Naymalis La Santa Medina, Lindsay A. Gray, Jingkun Zhang, Naz Dundar, Chris Barnes, Zachary A. Knight]
 year: 2024
@@ -52,3 +52,4 @@ year: 2024
 - [[concept-appetitive-consummatory-phases]] — consummatory phase의 bout-by-bout AgRP 억제 기질.
 - [[person-knight-zachary]] — 교신저자 인물 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[liu-2023-an-iterative-neural-processing]] — 넓은 arena 자유섭식에서 AgRP가 매 접근·접촉마다 떨어지고 접촉 사이 탐색에서 다시 오르는 **조각 단위 진동**을 photometry로 보였다(Neuron 2023, Wang lab). 본 논문의 bout 단위 맛 피드백 억제와 같은 시간척도의 AgRP 동역학이다. DMH^LepR이 그 하강을 나르는지는 미검증(연결 가설).

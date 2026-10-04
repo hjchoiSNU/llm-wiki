@@ -2,7 +2,7 @@
 title: Ghrelin
 type: concept
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -101,3 +101,5 @@ updated: 2026-09-19
 - [[concept-agrp-synaptic-plasticity]] — ghrelin–AMPK 축이 속한 가소성 개념 hub.
 - [[concept-weight-regain-defended-adiposity]] — LEAP2 유사체(내인성 ghrelin 수용체 길항)가 유지생물학 전략으로 거론되는 맥락.
 - [[davila-2026-agrp-neurons-are-required-for]] — 세마글루타이드는 **순환 ghrelin을 바꾸지 않으면서** AgRP를 모집한다(ghrelin은 매개자에서 배제) (PNAS 2026).
+- [[rossi-2021-transcriptional-and-functional-divergence]] — ghrelin의 **외측시상하부 작용점을 세포·투사 수준으로** 좁힌 데이터(Neuron 2021, Stuber lab). ghrelin 1.0 mg/kg i.p.는 보상 후 핥기 latency를 줄이고(F(1,389)=6.39, p=0.012), LHA^Vglut2→**LHb** 뉴런의 sucrose 반응을 **키우되**(="굶은 것처럼" 반응) →**VTA** 뉴런에는 거의 효과가 없다(Ghrelin×Projection interaction F(1,313)=14.94, p=0.00013). **Ghsr mRNA 발현 비율은 두 투사 집단에서 차이 없음**(X²=1.80, p=0.18)이라 선택성은 수용체 분포만으로 설명되지 않는다. ⚠️ 원문 Figure 7L 캡션은 방향을 반대로 적어 본문·초록과 어긋난다(위키는 본문 방향 채택, 병기).
+- [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — ghrelin이 **LH orexin 뉴런을 직접 흥분**시킨 1차 근거(Neuron 2003): 시냅스와 분리한 orexin/EGFP 뉴런 **6/9가 ghrelin 10 nM에 탈분극·발화 184 ± 15.5%**, TTX 절편에서도 용량 의존. 같은 논문에서 leptin은 반대로 orexin을 억제(7/9). orexin은 단식 유발 각성·먹이 탐색의 세포 기질이므로, ghrelin→orexin은 식전 ghrelin surge의 각성·행동 활성화 성분 후보.

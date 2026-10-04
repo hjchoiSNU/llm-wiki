@@ -2,7 +2,7 @@
 title: "섭식 항상성 제어의 병렬·중복 회로 조직 (Betley 2013)"
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/etley et al. 2013, Cell — Parallel, redundant circuit organization for homeostatic control of feeding behavior.pdf
 authors: [Betley JN, Cao ZFH, Ritola KD, Sternson SM]
 year: 2013
@@ -46,3 +46,4 @@ ARC AgRP 뉴런은 서로 다른 부분군이 aBNST·PVH·LHA·PVT로 축 담보
 - [[person-sternson-scott]] — 교신저자 인물 hub.
 - [[concept-agrp-synaptic-plasticity]] — AgRP 입력 가소성 개념 hub.
 - [[concept-npy-agrp-neurons]] — 본 논문이 배선을 정의한 세포집단의 개념 hub. 입력 회로 지도([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]·[[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]·[[walker-2026-a-hypothalamic-circuit-for|Walker 2026]])와 시냅스 가소성 축을 함께 읽으면 입력–가소성–출력 3층이 완성된다.
+- [[rossi-2018-overlapping-brain-circuits-for]] — 본 논문의 AgRP 병렬·중복 투사(aBNST·PVH·LHA)를 ventricular→intermediate 배선의 근거로 인용한 Stuber lab 리뷰 (Cell Metab 2018).

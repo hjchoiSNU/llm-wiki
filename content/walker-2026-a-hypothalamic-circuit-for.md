@@ -2,7 +2,7 @@
 title: "A hypothalamic circuit for anticipating future changes in energy balance (Walker 2026)"
 type: paper
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-10-03
 source: "raw/A hypothalamic circuit for anticipating future changes in energy balance.pdf"
 authors: [Samuel J. Walker, Elijah D. Lowenstein, Amelia M. Douglass, Callum M.P. Thomas, Joseph C. Madara, Hakan Kucukdereli, Eunice A. Barbosa-Meillon, Jenkang Tao, Jon M. Resch, Bradford B. Lowell]
 year: 2026
@@ -87,3 +87,4 @@ PVH의 **Sim2 발현 흥분성 뉴런**(Trh⁺/Adcyap1⁺)이 ARC^AgRP hunger �
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(예측적 Need 축).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ **같은 PVH→AgRP 경로의 gain 축**(본 논문 공저자 Samuel J. Walker가 참여). 본 논문이 *무엇이 이 회로를 켜는가*(미래 결핍 예측 cue)를 밝혔다면, Grzelka는 *이 시냅스가 얼마나 세지는가*를 밝힌다 — 체중 감소가 PVH^TRH→AgRP 시냅스만 선택적으로 증폭하고, 그 증폭이 **잃은 체중 회복에 필요·충분**하며 NMDAR 의존적. 본 논문의 "만성 silencing이 섭취·체중을 지속 감소시킨다"는 관찰과 직접 맞물린다 (Cell Metab 2023).
 - [[concept-agrp-synaptic-plasticity]] · [[concept-weight-regain-defended-adiposity]] — 그 gain 축의 개념 hub와 임상 표현형.
+- [[liu-2023-an-iterative-neural-processing]] — 배고픈 쥐에서 먹이를 떠난 탐색 중 AgRP가 재상승하고, 비식용 물체 세션에서는 "먹이를 찾지 못한 탐색" 동안 상승한다 (Neuron 2023, Wang lab). PVH^Sim2의 "탐색 실패·먹이 부재" 예측 입력이 조각 사이 AgRP 재상승을 나르는지 검증할 행동 패러다임이다(연결 가설).

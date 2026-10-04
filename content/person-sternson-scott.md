@@ -2,7 +2,7 @@
 title: Scott M. Sternson
 type: person
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-10-03
 aliases: [Scott Sternson, S.M. Sternson]
 ---
 
@@ -36,3 +36,4 @@ aliases: [Scott Sternson, S.M. Sternson]
 - [[concept-monosynaptic-rabies-tracing]] — Betley 2013의 방법론 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — Lowell lab이 Yang 2011의 **전시냅스 해석을 기각**한 논문. 두 그룹이 같은 현상을 다르게 읽는 위키 내 대표 사례.
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 네 번째 축: **두꺼운 조직 공간전사(EASI-FISH)로 LHA 9개 분자 하위구역을 정의**했다(Tillberg와 공동 교신, bioRxiv 2021 → Cell 2021). 'LHA에는 해부 구획이 없다'는 통념에 맞선 분자 지도다.

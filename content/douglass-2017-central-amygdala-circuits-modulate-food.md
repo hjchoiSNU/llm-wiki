@@ -2,7 +2,7 @@
 title: "중심편도 회로가 양성-가치 기전으로 섭식을 조절한다 (Douglass 2017)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-03
 source: raw/Douglass et al. 2017, Nat Neurosci — Central amygdala circuits modulate food consumption through a positive-valence mechanism.pdf
 authors: [Douglass AM, Kucukdereli H, Ponserre M, Markovic M, et al., Klein R]
 year: 2017
@@ -41,3 +41,4 @@ CeA의 Htr2a⁺ GABAergic 뉴런이 PBN-투사 PKC-δ 혐오 뉴런을 억제해
 - [[concept-insula]] — CeA^Htr2a로의 피질 입력원.
 - [[concept-lateral-hypothalamus]] — 병렬적 hedonic feeding drive 상류.
 - [[overview-cea-glp1r-food-safety-alarm]] — CeA를 접근↔회피 세포경쟁 밸브로 보는 종합.
+- [[rossi-2018-overlapping-brain-circuits-for]] — CeA Htr2a(식욕 촉진·접근극)를 PKCδ 억제극의 반대 사례로 인용한 Stuber lab 리뷰 (Cell Metab 2018).

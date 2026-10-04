@@ -2,7 +2,7 @@
 title: Jeffrey M. Friedman
 type: person
 created: 2026-05-25
-updated: 2026-09-02
+updated: 2026-10-03
 aliases: [Friedman, Jeffrey Friedman, Jeffrey M. Friedman]
 affiliation: Howard Hughes Medical Institute, The Rockefeller University
 ---
@@ -22,7 +22,7 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 - **1996** Cell — *db* gene = **leptin receptor (LEPR)** (with Tartaglia).
 - **1996** Nat Genet — leptin이 시상하부 STAT3 활성.
 - **2024 Nature** (Tan HL et al.) ★ — **BNC2 (basonuclin 2)** ARC leptin-activated 뉴런 — AgRP/POMC 외 leptin의 제3 표적, 식이 cue 반응 + AgRP 직접 억제.
-- 그 외: MCH 뉴런 sugar 가치 (Domingos 2013 eLife), hepatic stellate cell, FGF21.
+- 그 외: MCH 뉴런 sugar 가치 ([[domingos-2013-hypothalamic-melanin-concentrating-hormone|Domingos 2013 eLife]]), hepatic stellate cell, FGF21.
 
 ## 의의
 - Leptin 발견이 **시상하부 식욕 회로 분야 modern era 출발점**.
@@ -44,3 +44,4 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 lab의 외측중격 연구: **LS^Nts가 능동 도피 스트레스에 선택적으로 조율**되고 LH 투사로 섭식·체중을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020).
 - [[concept-lateral-septum]] — 위 논문이 세운 LS 섭식 억제 축의 개념 hub.
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본 lab의 LH **MCH 뉴런 = 설탕 영양 가치 → 선조체 DA** 논문(eLife 2013, de Araujo·Horvath 공동). sucralose+MCH 20 Hz 자극 시 sucrose 선호 82% → 20%로 역전, MCH 제거 시 sucrose DA 방출(+118%) 소실. Alon & Friedman 2006 MCH 제거 → 마름의 후속.

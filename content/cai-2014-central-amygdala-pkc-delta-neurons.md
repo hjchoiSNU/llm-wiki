@@ -2,7 +2,7 @@
 title: "중심편도 PKC-δ⁺ 뉴런이 다중 anorexigenic 신호를 매개한다 (Cai 2014)"
 type: paper
 created: 2026-07-05
-updated: 2026-09-19
+updated: 2026-10-03
 source: raw/Cai et al. 2014, Nat Neurosci — Central amygdala PKC-δ⁺ neurons mediate multiple anorexigenic signals.pdf
 authors: [Cai H, Haubensak W, Anthony TE, Anderson DJ]
 year: 2014
@@ -43,3 +43,4 @@ CeA의 PKC-δ⁺ GABAergic 뉴런이 포만·구역·병증·불쾌한 맛 등 �
 - [[concept-conditioned-taste-aversion]] — CeA가 처리하는 혐오학습(단, 본 세포는 CTA 미유도 = 순수 식욕억제).
 - [[concept-insula]] — PKC-δ⁺로의 피질 입력원(내수용).
 - [[overview-cea-glp1r-food-safety-alarm]] — "먹으면 안 되는 신호"의 CeA 통합 허브로서의 종합.
+- [[rossi-2018-overlapping-brain-circuits-for]] — CeA PKCδ(식욕 억제극)를 intermediate 노드 CeA의 섭식 제어 예로 인용한 Stuber lab 리뷰 (Cell Metab 2018).

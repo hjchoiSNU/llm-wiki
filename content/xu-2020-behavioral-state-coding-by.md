@@ -2,7 +2,7 @@
 title: "Xu et al. 2020 — PVH 세포타입 ensemble의 행동상태 부호화 (CaRMA imaging)"
 type: paper
 created: 2026-06-02
-updated: 2026-09-11
+updated: 2026-10-03
 source: raw/2020 Science (Sternson) Behavioral state coding by molecularly defined paraventricular hypothalamic cell type ensembles (1).pdf
 authors: [Shengjin Xu, Hui Yang, Vilas Menon, Andrew L. Lemire, Lihua Wang, Fredrick E. Henry, Srinivas C. Turaga, Scott M. Sternson]
 year: 2020
@@ -48,3 +48,4 @@ Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. 시상하부 실방
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — 같은 Sternson lab. 본 논문이 행동상태가 **어떻게 표상되는가**(PVH 앙상블 조합 부호)를 다룬다면, Yang 2011은 그 상태가 **어떻게 유지되는가**(AgRP 시냅스의 SR flip-flop·hysteresis)를 다룬다 — 표상과 유지 기전의 짝 (Cell 2011).
 - [[concept-circuit-bistability-hysteresis]] — 상태 유지의 회로 논리.
 - [[person-sternson-scott]] — 교신저자 인물 hub.
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 같은 lab의 후속 방법론(EASI-FISH). 본 논문의 **cytoDAPI**(DNase 처리 후 세포질 RNA를 DAPI로 염색)를 정합·분할 채널로 이어받았다. 300 µm 두께를 'in vivo 2-photon 영상(Xu 2020)과 결합 가능'한 근거로 든다. 공저자 Xu·Yang·Lemire·Henry가 겹친다 (bioRxiv 2021).

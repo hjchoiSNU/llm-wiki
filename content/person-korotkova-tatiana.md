@@ -42,3 +42,4 @@ affiliation: Institute for Systems Physiology, University of Cologne / CECAD
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab 대응작.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-kim-sung-yon]] — LH GABA를 종단 2광자 단일세포 영상으로 연구하는 SNU lab(Jung 2022, Lee 2026)
+- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — 본인 lab의 LepR LH 항불안 1차 논문(Nat Neurosci 2025, 공동 1저자 Figge-Schlensok·Petzold). ABA 모델에서 LepR 활성 → 과잉 running 차단, PFC→LH 입력이 고불안 개체에서만 LepR를 억제.

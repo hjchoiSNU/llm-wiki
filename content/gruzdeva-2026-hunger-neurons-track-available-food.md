@@ -2,7 +2,7 @@
 title: "Hunger neurons track available food locations during foraging and spatial memory recall (Gruzdeva 2026)"
 type: paper
 created: 2026-08-15
-updated: 2026-09-22
+updated: 2026-10-03
 source: "raw/2026 bioRxiv. Hunger neurons track available food locations during foraging and spatial memory recall.pdf"
 authors: [Anna Gruzdeva, Jamien Shea, Daniel Shi, Antonio Fernandez-Ruiz, Azahara Oliva, Nilay Yapici]
 year: 2026
@@ -87,3 +87,4 @@ year: 2026
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★★ 본 논문의 **해마→LS→LH** 구간이 실증됨: 배측 해마 CA3/2→**DLS^Pdyn**→**LHA GABA(Vgat) 단시냅스 억제**(ex vivo IPSC). 어느 지점을 끊어도 **맥락 조건화 섭식만** 무너지고 총 섭취량은 보존. 남은 미검증 구간은 **LH→DMH→AgRP** (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS→LH 하행의 두 번째 채널(LS^Nts, 능동 도피 스트레스 시 섭식 억제). LS→LH는 단일 경로가 아니다 (eLife 2020).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — foraging patch-leaving(MVT)형 "현재 옵션 가치 vs 환경 평균" 감시 알고리즘이 인간 목표 포기의 원형; AgRP 거리 ramp가 그 신호의 회로 후보(연결 가설).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 논문이 제안한 **해마→LS→LH→DMH→AgRP** 가설의 **LS→LH 구간을 보강하는 세 번째 분자 채널**: dLS^GLP-1R → LHA GABA성 단시냅스 억제(oIPSC 5/8, TTX→4-AP 회복, PTX 차단)이고 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓. LS→LH 하행은 이제 `Pdyn`([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode]])·`Nts`([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo]])·`Glp1r`(본 항목) **세 채널**이다. ⚠️ 단 Lu는 해마 입력을 매핑하지 않았고 LHA 하류 세포형도 추정만 했으므로, 가설의 **DMH·AgRP 구간은 여전히 미검증** (bioRxiv preprint 2024 → Mol Metab 85:101960).

@@ -2,7 +2,7 @@
 title: "Methamphetamine potentiates the use of outcome-specific associations via a hypothalamic-dopamine circuit"
 type: paper
 created: 2026-06-10
-updated: 2026-09-21
+updated: 2026-10-03
 source: raw/2026 Neuron (Sharpe) Methamphetamine potentiates the use of outcomespecific associations via a hypothalamic-dopamine circuit.pdf
 authors: [Hoang IB, Munier JJ, Verghese A, Taira M, Abiero AR, Leake J, Dawson A, Wilcher M, Ganesan K, Ortega ME, Reyes V, Greer Z, Millard SJ, DiFazio LE, Sercander C, Bagley E, Winters B, Izquierdo A, Sharpe MJ]
 year: 2026
@@ -79,3 +79,11 @@ VTA 도파민 뉴런이 LH로 보내는 **역방향 투사**가 cue–특정결�
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue 통제력·LH 표적 DTx/electroceutical 논리.
 - [[person-choi-hyung-jin]] — LH·도파민·NMPU 연구 라인(사용자 lab) 접점.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **core 해석 불일치**: 본 페이지는 Taira 2024를 들어 NAc core 도파민이 결과 표상 없는 '일반 흥분 성분'이라 하고, Mingote는 Saddoris 2015을 들어 **Core 투사=예측오차 추적 / Shell 투사=현저·경보 사건 추적**으로 배정한다.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — TS(tail of striatum)를 gradient 위 한 점이 아닌 **평행 채널**(다른 subregion과 상관 낮음·LH 조작에 반대 반응·직접 innervation)로 봄. labeled-line TS DA와 수렴하되, 본 논문은 TS를 위협 PE가 아니라 **modality-dependent** 감각운동으로 둠 (Neuron 2026, Stuber lab).
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — 같은 lab의 **정방향 원전**(Curr Biol 2017, Sharpe 제1저자): LH^GABA가 cue 기대값을 VTA로 relay해 학습률을 조절하고, VTA 말단 억제는 학습을 **촉진**한다. 본 논문이 쓴 **GAD-Cre rat**(RRRC#751)도 그 논문에서 처음 공개됐다. ⚠️ 본 논문의 disconnection 이중 해리(LH^GABA↔VTA 차단 시 specific PIT 정상, LH↔VTA^DA 차단에서만 소실)와 합치면 두 경로는 **하나의 루프가 아니라 평행·분리 스트림**으로 서술해야 한다.
+- [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — 본 논문의 preprint(Hoang 2023 bioRxiv, 원문 [85])를 근거로 'DA 역투사가 LH의 cue–보상 학습을 stamp in', 'LH 투사 DA 뉴런은 외측 VTA에 많음', '메스 후 LH→VTA 강화'를 제시한 Sharpe의 이론 Opinion(Trends Cogn Sci 2024). 본 논문의 보상 근접 LH DA ramp는 Opinion 예측 4(LH 활동에서 결과 근접도 decoding)의 간접 지지다. ⚠️ Opinion Box 3이 '가장 간명한 설명'으로 든 **LH^GABA–DA 양방향 microcircuit**는 본 논문의 disconnection 결과(VTA^DA 입력의 LH 표적 = 비-GABA)와 어긋난다 — 평행 스트림으로 병기.
+- [[nieh-2016-inhibitory-input-from-the]] — LH^GABA→VTA 정방향 disinhibition 원전(Neuron 2016, Tye lab). 본 논문의 역방향 VTA^DA→LH와 평행 스트림.
+- [[hoang-2021-the-basolateral-amygdala-and]] — 같은 제1저자의 **선행 리뷰**(Hoang & Sharpe 2021, Curr Opin Behav Sci). BLA(감각 특이·유의성) vs LH(근접도·현재 동기 관련성) 분업 가설의 원형이고, Nieh 2015의 LH 송신/수신 집단 질문을 처음 던진 곳이다. ⚠️ 그 리뷰는 specific PIT(감각 특이 결과 표상)를 **BLA 고유 기능**으로 두고, Figure 1에 LH→VTA 일방향만 그렸다. 본 논문의 'VTA^DA→LH가 outcome-specific PIT에 필요'는 그 깔끔한 분업을 흐린다(병기).
+- [[sharpe-2021-past-experience-shapes-the]] — 같은 lab의 **"무엇을 배울지 고르는 LH" 축**(Nat Neurosci 2021). cue 구간 LH^GABA 억제가 중립·원위 cue 학습은 **촉진**하고, **cue–보상 수반성 경험 후에만** 공포 학습에 필요해진다. 본 논문의 "VTA^DA→LH가 outcome-specific PIT에 필요"와 합치면 LH는 **결과 표상의 사용(PIT)과 학습 자원 배분** 양쪽에 걸친 노드가 된다. ⚠️ 단 그쪽은 LH^GABA 세포체 억제, 본 논문은 LH로 들어오는 도파민 입력 차단으로 **조작 대상이 다르다**(병기).
+
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 본 논문의 역방향 VTA^DA→LH와 짝이 되는 정방향 **LH^LepR→VTA**: 그 경로 억제(ArchT)는 sucrose cue 변별 학습을 강화하고 활성(ChR2)은 지운다(기대보상 relay, extinction까지 지속). 두 방향 모두 LH–VTA 축이 동기·연합 학습의 교사 신호임을 지지.

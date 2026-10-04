@@ -2,7 +2,7 @@
 title: "Distinct cortical–amygdala projections drive reward value encoding and retrieval (Malvaez 2019)"
 type: paper
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-03
 source: "raw/2019 Nature Neuroscience. Distinct cortical amygdala projections drive reward value encoding and retrieval.pdf"
 authors: [Malvaez M, Shieh C, Murphy MD, Greenfield VY, Wassum KM]
 year: 2019
@@ -46,3 +46,4 @@ doi: 10.1038/s41593-019-0374-7
 - [[person-wassum-kate]] — 교신저자, BLA reward valuation 프로그램.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — dopamine→BLA identity-specific reward(Wassum lab Sias 2024)와 LH 대비.
 - [[soutschek-2021-opioid-antagonism-modulates-wanting]] — 인간에서 opioid가 wanting 조절(liking≠wanting 인간판).
+- [[hoang-2021-the-basolateral-amygdala-and]] — 본 논문을 원문 [20]으로 인용해 'BLA 억제는 보상 학습을 없애지 않고, BLA는 감각 특이 결과 표상을 담당한다'의 근거로 쓴 Sharpe lab 리뷰(Curr Opin Behav Sci 2021). BLA(정체·유의성) vs LH(근접도·현재 동기 관련성)의 학습 편향 분업을 제안.

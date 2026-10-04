@@ -2,7 +2,7 @@
 title: HypoMap — single-cell hypothalamus atlas
 type: concept
 created: 2026-05-25
-updated: 2026-08-19
+updated: 2026-10-03
 aliases: [HypoMap, hypothalamus single-cell atlas, human hypothalamus atlas]
 ---
 
@@ -80,3 +80,4 @@ HypoMap·atlas 시대의 발견:
 - [[person-yeo-giles]] — atlas 책임자.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **상보적 접근**(IHC/LCM-Seq bulk): snRNA-seq의 ~2,000 transcript/cell 대비 14,000–16,000 검출로 희귀 수용체·lncRNA 포착; HypoMap의 POMC-CALCR(C4-374) 제3뇌실 근접 분포를 RNAscope로 독립 검증. 대가는 세포 이질성 분해 불가 (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — atlas에 **크로마틴 접근성 층**을 추가: LepR 뉴런 39아형의 세포타입 특이 OCR → 인간 비만 GWAS/eQTL 교차. 본 atlas를 label transfer reference로 사용(19 클러스터 대응) (bioRxiv 2025).
+- [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — HypoMap 통합에 들어간 **LHA 단독 census**(Nat Neurosci 2019, Jackson lab; GEO **GSE125065**). 7,129 세포 → 비뉴런 + **GABAergic 15 + glutamatergic 15** 클러스터, marker를 RNAscope FISH와 FACS 단일세포 qPCR로 교차검증. ⚠️ 원문 본문은 비뉴런을 13개, Discussion은 11개로 적는다(내부 불일치). 또 2019년형 droplet 방식의 **저검출 한계**를 보여주는 사례다 — LHA^GABA에서 **Lepr·Mc4r이 거의 안 잡혀** Lepr-Cre 정렬세포 qPCR로 우회했다(cf. [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]]의 LepR 표지 기반 39아형).

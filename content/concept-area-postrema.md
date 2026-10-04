@@ -40,3 +40,6 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **형광 exendin-4·semaglutide probe로 말초 투여 약물이 시상하부·뇌간에 접근함을 보인** 화학생물학 계보. AP를 포함한 뇌간 접근의 영상 근거이자, 뇌 GLP-1R 결합부위 획정의 1차 도구 (Diabetes 2024 Classics).
 - [[concept-glp1ra-cns-penetrance]] — AP를 포함한 CVO가 **대형 펩타이드 GLP-1RA의 1차 접근 경로**임을 다른 경로(tanycyte·수용체매개·수동확산·저분자)와 비교해 배치한 hub.
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — semaglutide가 "광범위한 BBB 투과 없이" CVO·인접부로 CNS에 engage한다는 서술의 출처 리뷰(Gabery 2020 경유) (Neurol Ther 2025).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — AP GLP1R 하류의 **NTS Adcyap1⁺ 집단**(AP 내 Adcyap1⁺는 소수)이 ARC·DMH로 올려 보내는 상행 축을 기능적으로 해부. AP를 '감지', Adcyap1^NTS를 '중계'로 배치하는 모델 (bioRxiv preprint 2026).
+- [[west-2025-are-glucagon-like-peptide-1]] — AP가 "BBB를 통과하지 않고도 작용하는" 경로인 반면, 이 리뷰(Neurol Ther 2025, 14편)는 **전임상에서 liraglutide·semaglutide·exenatide의 BBB 통과 자체는 보고된다**고 적는다. ⚠️ 두 진술은 종점이 다르다(분자 검출 vs 효과의 필요성) — [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 'AP Gs 보존만으로 체중감량 전량 회복'과 **같은 문장에서 비교하지 말 것**. 봉합: 통과하더라도 체중감량의 지배 경로는 CVO일 수 있다(병기). 전문 미입수 상태로 작성된 페이지.
+- [[concept-glp1ra-cns-access]] — AP를 GLP-1RA 중추 접근 **①층(CVO)** 의 핵심 관문으로 배치. 설계 함의: **AP는 BBB 밖이라 어떤 GLP-1RA든 반드시 닿으므로, 'AP를 피하면서 효능을 유지하는 약물'은 분포가 아니라 biased agonism·세포종류 특이 전달로만 가능**하다.

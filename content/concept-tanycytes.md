@@ -50,3 +50,5 @@ aliases: [tanycyte, hypothalamic tanycytes]
 - [[concept-maternal-programming-hypothalamus]] — 모체 비만 tanycyte 손상(단계 의존적 vimentin 방향)을 포함한 상위 hub.
 - [[concept-glp1ra-cns-penetrance]] — tanycyte transcytosis를 GLP-1RA 뇌 접근 **6경로 중 ②**로 배치한 hub(CVO·수용체매개·수동확산과 비교).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — tanycyte 수송이 왜 중요한지의 정량 배경: liraglutide·semaglutide는 BBB 유입이 측정되지 않으므로 ARC·PVN 검출(Secher 2014)은 tanycyte·고혈관밀도 같은 **대체 경로**를 요구한다 (Neurol Ther 2025).
+- [[west-2025-are-glucagon-like-peptide-1]] — "GLP-1RA는 CNS 침투성인가"를 14편으로 종합한 리뷰(Neurol Ther 2025). ⚠️ **tanycyte·정중융기 경유 수송은 "BBB 통과"도 "CVO 노출"도 아닌 제3 범주**인데, 그 리뷰가 이 범주를 다뤘는지는 확인되지 않았다(전문 미입수). 다루지 않았다면 **'CNS penetrant' 이분법 자체가 거친 분류**라는 비판이 성립하고, 그 지점에서 이 페이지가 리뷰보다 정교하다 — liraglutide 시상하부 흡수의 tanycyte GLP-1R 의존(Imbernon 2022)이 그 근거.
+- [[concept-glp1ra-cns-access]] — tanycyte 수송을 GLP-1RA 중추 접근 **4층 중 ②층**으로 배치한 hub. Imbernon 2022의 크기 주장(tanycyte GLP-1R KD·iBot 차단만으로 liraglutide 항비만 효과가 **전부** 소실)이 [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 'AP만으로 체중감량 전량 회복'과 충돌하는 지점, 그리고 **혈당이 접근을 gate하고 비만·HFD가 그 gating을 끊는다**는 보고(Bakker/Imbernon 2022, *Cell Rep* 41:111698)를 병기.

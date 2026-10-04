@@ -53,6 +53,7 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 - [[hyun-2022-tagging-active-neurons-by]] — soma-targeted **Cal-Light**(Ca²⁺ AND 광 → tTA → reporter); tag-then-manipulate.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **이 방법론이 해결하도록 설계된 문제의 교과서 사례**. 같은 프로모터를 쓴 두 논문이 조성을 반대로 보고하는 상황에서, 라벨을 더 좁히는 대신 **GRIN 영상 131세포에 사후 다중 RNA-FISH를 붙여 wake-active 세포의 전달물질 정체를 직접 읽는 것**이 출구로 제시된다.
 - [[xu-2020-behavioral-state-coding-by]] — CaRMA 원전(PVH grouped-ensemble).
 - [[hyun-2022-tagging-active-neurons-by]] — Cal-Light(활성 의존 태깅, 인접 계열).
 - [[wang-2026-multimodal-alignments-of-in]] — TRU-FACT 원전(범용·투사·통계).
@@ -66,3 +67,5 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 - [[concept-monosynaptic-rabies-tracing]] — **직교 축**: 광견병 지도는 '누가 입력을 주는가'를, CaRMA/TRU-FACT는 '이 활성 세포가 누구인가'를 답한다. [[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]가 남긴 숙제(ARC POMC의 이질적 부분집합마다 다른 subcircuit인가)는 배선 지도만으로 풀리지 않고 활성–분자정체 정합이 필요한 문제.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 기능 정의 LH^Vgat ensemble의 분자정체 대응이 다음 단계로 제시된 사례(종단 영상 + post hoc 전사체·projectome) (Cell Rep 2026)
 - [[jung-2022-a-forebrain-neural-substrate-for]] — 기능 정의 LH^Vgat 집단을 분자 마커(Nts·Tac2)·투사(PAG)로 포획하려는 시도가 실패; 저자가 조합적 마커 또는 다광자 직접 조작을 대안으로 제시 (Neuron 2022)
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — CaRMA와 같은 Sternson lab의 **두꺼운 조직 다라운드 FISH(EASI-FISH)**. cytoDAPI 정합, Starfinity 3D 분할, 40일 이상 RNA 안정(93.5%)을 갖췄다. 저자들은 300 µm 두께가 **in vivo 영상 뒤 사후 분자정체 부여**와 결합할 수 있다고 명시한다. LH에 적용하면 기능 ensemble을 46개 분자 클러스터와 9개 하위구역 양쪽에 대조할 수 있다 (bioRxiv 2021).
+- [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — **LH 심부 단일세포 영상의 출발점이자 이 페이지가 메우려는 공백의 원점**(Cell 2015, Stuber lab): 8 mm GRIN microendoscope + GCaMP6m로 LH^Vgat 743 뉴런을 여러 날·과제에 걸쳐 추적(세션 간 5 μm cutoff 등록)해 appetitive·consummatory 반응 세포의 비중첩을 보였다. 그러나 Discussion은 이 Vgat 집단이 **Neurotensin·Galanin 같은 다른 신경펩타이드를 담을 가능성을 배제하지 못한다**고 명시한다 — 기능 subset의 분자 정체가 열린 채 남은 전형적 사례.

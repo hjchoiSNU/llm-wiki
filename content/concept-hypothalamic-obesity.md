@@ -2,7 +2,7 @@
 title: 시상하부성 비만 (Hypothalamic Obesity, HO)
 type: concept
 created: 2026-06-01
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic obesity]
 ---
 
@@ -26,6 +26,7 @@ aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic o
 - 15q11–q13 부친 유래 결손. 만족할 줄 모르는 과식(hyperphagia)·orexin↑ 가설.
 - **LHA DBS는 비효과적**: [[franco-2018-assessment-of-safety-and]] (n=4, 6개월 평균 +9.6% 체중·+5.8% BMI, 조증·감염 부작용), [[dassen-2023-could-deep-brain-stimulation]] 종합에서도 PWS 5명 중 감량 0명. craving/reward가 hyperphagia의 주동인이라 homeostatic 표적(LHA)이 듣지 않는다는 해석.
 - LFP 연구: 배고픔=beta/low-gamma, 포만=alpha 리듬; alpha-주파수 LHA DBS가 포만감을 늘렸으나 체중 변화 없음([[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]]).
+- **약물**: **diazoxide choline**(K_ATP 개방제)이 2025년 3월 FDA 승인(≥4세 과식) — 3상+OLE n=125에서 HQ-CT −9.9·공격성·불안·강박 개선, leptin·insulin↓, 제지방↑. 반면 setmelanotide 2상(n=40)은 실망적, PWS는 bariatric 합병증↑ ([[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]]). 유전 hub: [[concept-obesity-genetics]].
 
 ### 회로 함의 — homeostatic vs reward 분업
 ⚠️ **'잔존'의 두 의미를 구분할 것**: (1) *개입 가능한 회로가 남아 있다* — NAc DBS가 LHA DBS보다 반응이 나았다는 임상 관찰이며, 근거 수준은 [[harat-2016-nucleus-accumbens-stimulation-in|n=1 사례]]와 [[dassen-2023-could-deep-brain-stimulation|6명 체계적 고찰]]에 머문다. ≠ (2) *reward 회로가 과활성이라 비만을 추동한다*. 위키에서 (2)는 **PWS(유전성 HO)의 hyperphagia 해석**으로만 제기되고([[franco-2018-assessment-of-safety-and]]), 후천성 두개인두종 HO 인간 코호트 [[lee-2023-obesity-mechanism-after-hypothalamic]]는 오히려 음식 cue에 **좌 미상핵 활성 저하**·**craving 군간 차이 없음**을 보고하며 주동인을 **음식 주의력 저하(mindless eating)**로 지목한다. 즉 질환군(유전성 vs 후천성)에 따라 방향이 갈리므로, HO 전반에 (2)를 일반화할 근거는 현재 위키에 없다.
@@ -43,3 +44,4 @@ aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic o
 - [[concept-nucleus-accumbens]] — HO에서도 잔존하는 reward 표적.
 - [[concept-need-motivation-pleasure-utility]] — Need vs Pleasure 분업의 임상 증거.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[bonnefond-2026-the-genetics-of-obesity]] — Prader–Willi(15q11–q13)의 유전·치료: **diazoxide choline**(K_ATP 개방제) 2025년 3월 FDA 승인(≥4세 과식; 3상+OLE n=125, HQ-CT −9.9), setmelanotide PWS 2상(n=40) 실망적, PWS bariatric 합병증↑ (Nat Metab 2026).

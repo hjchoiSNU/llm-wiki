@@ -64,3 +64,4 @@ GLP-1 수용체 작용제를 신경퇴행(AD·PD)·뇌졸중·발작·편두통�
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 물질사용장애 등 비대사 적응증이 **체중 감소의 이차 결과가 아님**을 뒷받침하는 기전 정리 (Cell Metab 2026, Drucker).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 본 리뷰의 "CSF exenatide = 혈중의 1/100" 한 줄을 전용 주제로 확장: 약물별 뇌 유입속도와 **PD 환자 exenatide CSF 1–2%**. ⚠️ 두 리뷰가 같은 자릿수를 다른 맥락으로 적으므로 인용 시 출처를 구분할 것 (Neurol Ther 2025).
 - [[concept-glp1ra-cns-penetrance]] — CNS 접근 경로·증거등급 hub.
+- [[west-2025-are-glucagon-like-peptide-1]] — 같은 해 같은 질문의 **정신약리판 소규모 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편): 전임상 BBB 통과(liraglutide·semaglutide·exenatide) 긍정 + 인간은 뇌 연결성 대리지표뿐. ⚠️ **정량 근거는 본 리뷰가 보유** — exenatide CSF ≈ 혈중의 1/100, GLP-1R 미발현 핵의 cFos(미정의 세포간 중계), 인간 fMRI(사용자 lab [[bae-2019-glucagon-like-peptide-1-receptor|Bae 2019]], ref #9). 그쪽은 전문 미입수 상태로 정리됐으므로 수치 인용은 본 리뷰로.

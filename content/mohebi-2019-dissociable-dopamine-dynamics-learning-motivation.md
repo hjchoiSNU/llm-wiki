@@ -137,3 +137,4 @@ journal: "Nature 570:65–70"
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·restrained.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **전제 약화**: 본 페이지의 'local control(ChI→nAChR→DA 방출)은 VTA 발화 비의존' 규정에 대해, 그 ChI를 **VTA DA-GLU 버스트가 글루타메이트로 구동**한다고 본다. 본 연구의 optotagging 대상(외측 VTA DA)은 Mingote 지도상 medial shell을 회피하는 **DA-only** 집단. 'NAc shell=reward rate 무상관'도 shell이 추적하는 변수가 **유관성 변화·alerting salience**라면 회귀변수 불일치일 수 있음.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — ⚠️ **공간 해상도 긴장**: 단일 value broadcast(V)와 달리 선조체 DA가 공간 분해된 지형(전측 가치/후측 감각운동/TS 평행)이고 subregion별 국소 제어. 단 Mohebi optotagging은 medial shell 회피 외측 VTA DA라 직접 반박 아님 — 측정 대상 차이로 병기 (Neuron 2026, Stuber lab).

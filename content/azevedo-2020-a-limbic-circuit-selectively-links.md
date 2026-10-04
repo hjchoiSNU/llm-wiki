@@ -2,7 +2,7 @@
 title: "A limbic circuit selectively links active escape to food suppression (Azevedo 2020, eLife)"
 type: paper
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-03
 source: raw/2020 eLife. A limbic circuit selectively links active escape to food suppression.pdf
 authors: [Estefania P Azevedo, Bowen Tan, Lisa E Pomeranz, Violet Ivan, Robert Fetcho, Marc Schneeberger, Katherine R Doerig, Conor Liston, Jeffrey M Friedman, Sarah A Stern]
 year: 2020
@@ -112,3 +112,5 @@ viral-TRAP 농축 유전자: `Nts` · `Sst` · **`Glp1r`** · `Cartpt` · `Mc3r`
 - [[person-friedman-jeffrey]] — 본 논문 교신저자 lab.
 - [[azevedo-2019-a-role-of-drd2]] — 같은 1저자의 해마 Drd2→중격 섭식 연구(전년도).
 - [[concept-bed-nucleus-stria-terminalis]] · [[concept-basolateral-amygdala]] — 같은 급성 스트레스 c-fos 반응 부위.
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — ⚠️ **본 논문과 직접 충돌하는 짝**: `Glp1r-ires-Cre`로 **dLS^GLP-1R 세포체를 화학유전 활성화해도 섭취가 전혀 변하지 않았다**(암기 p=0.068·명기 p=0.80·금식 후 p=0.71). 본 논문은 LS^Nts(그 70%가 `Glp1r`⁺) **세포체 활성화만으로 섭취·체중↓**를 보고했다. Lu는 dLS 내 **collateral 억제**(인접 EYFP⁻ 뉴런 6/11에서 PTX 민감 IPSC)로 null을 설명하고, **투사 특이(dLS→LHA) 활성화**에서는 금식 후 섭취 감소를 얻었다(F(1,50)=11.01, p=0.0017). 화해 후보는 ① `Nts`⁺ 아집단 vs `Glp1r`⁺ 전체의 상호 억제 상쇄, ② dLS vs LS 전체 범위 차이, ③ DREADD 효능 차이 — 모두 미검증(병기). 공유되는 사실은 **LS 내 exendin-4/GLP-1R 작용이 섭취를 줄인다**는 방향이며, Lu는 그 작용점을 **dLS^GLP-1R→LHA 억제 시냅스의 시냅스 전 강화**(oIPSC↑ p=0.046, PPR↓ p=0.012)로 특정했다 (bioRxiv preprint 2024 → Mol Metab 85:101960).
+- [[linders-2022-stress-driven-potentiation-of-lateral]] — ⚠️ **부호가 반대인 짝**(Nat Commun 2022, Meye·Adan lab). 본 논문은 **능동 도피** 스트레스에서 LS^Nts→LH가 섭식을 **억제**한다. 저쪽은 **도피 불가·사회 종속(resident-intruder)** 스트레스가 LHA^glut→VTA^DA 시냅스를 강화해 기호성 지방·당 섭취를 **증가**시킨다(지방 F(1,32)=18.44, p=0.0002; chow 불변·PSD2 감소; 체중 불변). 두 결과를 합치면 **스트레스의 대처 양식(능동 도피 vs 수동 종속)이 섭식 방향을 가른다**는 축이 생긴다 — 본 페이지의 "어떤 스트레스인가" 질문에 대한 반대쪽 극이다(연결 가설, 두 모델을 같은 동물에서 비교한 연구는 없음).

@@ -2,7 +2,7 @@
 title: "Zona Incerta (ZI) — orexigenic 시상하부 노드"
 type: concept
 created: 2026-07-31
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -54,3 +54,6 @@ updated: 2026-09-19
 - [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — 처벌-저항 강박 섭취와 임상 대응.
 - [[concept-deep-brain-stimulation]] · [[concept-transcranial-electrical-stimulation]] · [[concept-digital-therapeutics]] — mPFC-rZI 표적 신경조절.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **ZI가 ARC POMC의 직접 입력원**임을 단시냅스 광견병 추적으로 검출. 저자는 subiculum과 함께 **통상 tract tracing에서 이전에 동정되지 않았던 입력**으로 명시(방법 감도 차이). [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 rZI^GABA 강박 섭식 축에 **ZI→ARC라는 시상하부 직결 경로**를 더하는 오래된 해부 근거 (Front Neuroanat 2015).
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — EASI-FISH로 본 **ZI–LHA 경계의 분자 연속성**. LHA의 억제성 우세 suprafornical diagonal band(LHAs-db)는 Inh-9(Nts/Meis2)·Inh-13·17·19를 ZI와 공유하고, Inh-3·15·21은 ZI 우세 클러스터다. 영상 볼륨 안 Pmch⁺의 17%가 ZI에 있고, 그중 99%가 Cartpt⁺다 (bioRxiv 2021).
+- [[de-vrind-2019-effects-of-gaba-and]] — **ZI 확산이 LH 화학유전 실험의 실제 confound로 등장한 사례**(Obesity 2019): LH^Vgat hM3Dq(AAV5-hSyn-DIO)가 ZI로 상당히 퍼졌고(LH^LepR에서는 적음), 저자들은 ZI GABA 활성이 섭식·palatable 섭취·체중을 늘리고 운동은 바꾸지 않는다는 Zhang & van den Pol 2017과 자신들의 결과(lard↓·운동↓·체중↓)가 패턴상 반대이므로 ZI 기여가 크지 않다고 판단한다. ⚠️ 그 논증의 해상도 한계는 위 [[wang-2021-expansion-assisted-iterative-fish-defines-lateral|EASI-FISH]]의 ZI–LHA 분자 연속성(Inh-9/13/17/19 공유)과 함께 읽어야 한다.
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — **PAG로 수렴하는 포식 경로의 중복 문제**를 보여주는 사례(Research 2022, Zhejiang Chen lab). 이 논문은 ZI^GABA→PAG(먹이 시각·수염 신호 통합형 포식)를 선행 평행 경로로 인용하면서, 자신은 **MPOA^CaMKIIα→LH^CaMKIIα→vPAG 간접 경로가 포식의 "섭취" 단계를 담당**한다고 주장한다. 지금 위키에 PAG 수렴 포식 경로가 **ZI^GABA·LH^GABA·LH^CaMKIIα·CeA·MPOA 직접**으로 최소 5개 있고 각자 필요성을 주장한다. ⚠️ Tan 자신의 Fig S6(LH CaMKIIα를 CNO 1.0 mg/kg로 억제해도 MPOA→LH 말단 자극이 사냥을 유발)은 이들이 **상호 보상적**일 가능성을 시사하므로 "필요성" 주장들을 액면 그대로 합산하면 안 된다.

@@ -64,3 +64,4 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[concept-peripheral-epigenetic-biomarker]] — 비침습 **반응 예측 바이오마커** 후보로 자주 거론되는 말초 메틸화 표지의 유효 범위와 한계. 현재 DTx 반응 예측을 주도하는 baseline 심리지표에 추가하려면 넘어야 할 조건을 정리.
 - [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 후 비만(HO) 코호트(사용자 lab, n=29): 음식 주의력 저하·포만 저하·억제섭식↑이라는 **또 하나의 DTx 표적 표현형**(약물·수술 저항군).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 목표 몰입의 세 적응 기능(자원 절약·간섭 차단·동기 비계)을 DTx 설계 원리로: 판단력 높은 시점에 목표 확정, 진행률(momentum) 가시화, 대안 노출 최소화.
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 조작이 총 섭취량·체중을 전혀 안 바꾸므로, 이 세포를 표적으로 삼는 개입의 종결점은 **섭취 감소가 아니라 cue→접근 학습의 약화**(cue 변별·접근 지표)로 설계해야 한다는 회로 근거.

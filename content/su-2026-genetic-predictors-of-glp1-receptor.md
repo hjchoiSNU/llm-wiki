@@ -105,3 +105,4 @@ doi: 10.1038/s41586-026-10330-z
 - [[concept-cis-regulatory-element-obesity]] — 비코딩 변이를 세포아형에 귀속시키는 방법론 hub.
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문의 **트래피킹·세포표면 밀도 가설을 뒷받침하는 선행 지형**: GLP-1R 희귀변이 ~60개의 효과가 세포표면 발현 변화~경로특이 LoF/GoF에 걸쳐 있고 **표면 발현 감소가 HbA1c·BMI·확장기혈압 상승과 연관**(Gao 2023 Nat Metab), **Gs 공역 강도가 변이 효과크기를 예측**(Lagou 2023 Nat Genet, n=476,326). 이 모든 분석이 1993년 클로닝된 **변이 human GLP-1R construct**에 의존 (Diabetes 2024 Classics).
 - [[overview-cea-glp1r-food-safety-alarm]] — 효능·오심 신호의 co-localization이 "food safety alarm의 치료 출력(섭취 brake) ↔ 혐오 출력"을 분리하려는 차세대 약물 설계 전망에 거는 **인간 유전 수준 제약**.
+- [[bonnefond-2026-the-genetics-of-obesity]] — GLP-1RA 반응의 또 다른 유전 예측자: **calorie-to-satiation(CTS) 유전점수**(저 CTS→liraglutide 반응↑). 또한 기능저하 희귀 GLP1R 변이 burden을 BMI ~+1.1의 oligogenic 비만 요인으로 분류 — 본 논문의 p.Pro7Leu(BMI 무관)와 다른 변이 등급 (Nat Metab 2026).

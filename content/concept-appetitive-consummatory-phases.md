@@ -55,6 +55,8 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 | ARC AgRP | sensory cue로 즉시 ↓ (feedforward) | 지속 ↓ |
 | DMH GLP-1R | ↑ pre-ingestive (cognitive satiation) | continued ↑ |
 
+> ⚠️ **LH^Vgat 행 병기** ([[lee-2026-distinct-lateral-hypothalamic-gabaergic|Lee 2026 Cell Rep]]): 같은 뉴런을 추적하면, 음식 cue(appetitive)에 반응하는 LH^Vgat 세포가 **혐오 열자극에도 흥분**한다(heat vs caged PB r=0.59). 즉 subset A는 음식 특이 appetitive 세포라기보다 **valence 무관 motivational salience** 코더일 수 있다. Consummatory subset은 먹이·물·고형식에 일반화되고 금식·농도·Ex-4에 따라 value-scaled된다. 단 head-fixed 실험이다.
+
 ## 실험 paradigm
 
 ### 분리 도구
@@ -85,6 +87,7 @@ aliases: [appetitive phase, consummatory phase, eating phases]
   - Postprandial satiety 연장 (PYY·long-acting GLP-1RA) → non-prandial 단계.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **phase 표의 "LH^Camk2a" 행이 단일 세포 유형이 아니라는 경고**. 활동 부호(섭취 시 하강) ↔ 인과 효과(섭취 폭증) 비대칭과 출력 경로별 phase 분리를 유지하면서, 그 행의 분모가 논문마다 다르고 GABA 분율이 0%(정성)~33%로 갈린다는 한정을 함께 읽어야 한다.
 - [[lee-2019-food-craving-seeking-and]] — 이 phase 분해를 식이 행동(craving→seeking→consumption)에 적용·측정법 종합한 본 lab 리뷰 원전.
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — phase × cell type 매핑.
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — 3 phases + non-prandial 정의.
@@ -109,3 +112,15 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — **consummatory phase 내부의 초 단위 시공간 구조**: 첫 lick 이전(0–0.3 s)·유지(2–3 s)·소비 후(6–8 s) 세 창에서 선조체 도파민의 변수와 공간 분포가 달라지고, 반응이 **후방·외측 → 전방·내측으로 전파**된다. 또 도파민은 phase 내에서 **개시(bout 수)** 만 강화하고 **유지(bout 길이)** 는 강화하지 않는다 (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 안에서 준비(cue·salience) 단계와 consummatory(섭취) 단계를 맡는 ensemble이 단일세포 수준으로 분리 (Cell Rep 2026)
 - [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat 안의 기능 분화를 체온 영역으로 확장: thermal P&R 집단과 칼로리 보상 집단이 단일세포 수준에서 분리(Jennings 2015 계보) (Neuron 2022)
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — LH^Vgat phase 분업의 단일세포 재해석: cue 반응(appetitive) 세포는 **혐오 열자극에도 반응하는 valence 무관 salience ensemble**이고, consummatory 세포는 먹이·물·고형식에 일반화되며 value에 따라 조절된다 (Cell Rep 2026). ⚠️ 위 표의 "LH^Vgat subset A(appetitive)"가 음식 특이가 아닐 수 있음 — 단 head-fixed 실험이라 자유행동 seeking은 미측정.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — multispout brief-access 과제로 consummatory 운동(licking)과 용액 가치를 분리; 섭취 DA가 후측→전측 시공간 gradient로 퍼지고, 선조체 DA는 **섭취 개시(bout 수)** 를 강화(지속은 비강화) (Neuron 2026, Stuber lab).
+- [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — ★ 위 표 "LH^Vgat subset A/B(appetitive/consummatory 분업)"의 **1차 출처**. microendoscope 단일세포 칼슘영상(743 LH^Vgat 뉴런)으로 nose-poke(appetitive) 반응 세포와 lick(consummatory) 반응 세포가 **거의 겹치지 않음**을 직접 관찰 (Cell 2015, Stuber lab).
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — **appetitive 전용 세포타입의 교과서적 사례**: LH^LepR는 ablation·opto·chemo 어느 조작에도 섭취·체중·lick을 바꾸지 않고(ChR2 섭식 p=0.21, NpHR p=0.32), Pavlovian cue 변별 학습·RTPP·sucrose CPP만 바꾼다. 단일세포에서 **LH^LepR만 CS+/CS− 변별**(centroid 2.00 vs LH^Vgat 1.26) (Cell Rep 2021, Aponte lab). ⚠️ 위 표의 "LH^Lepr subset B: consummatory sustained ↑"는 상관(Lee 2023 영상) 근거이고, 이 논문의 **인과 조작은 consummatory 구동을 지지하지 않는다** — '활동이 있다'와 '구동한다'는 층위가 달라 병기.
+- [[liu-2023-an-iterative-neural-processing]] — 이분법을 **preparation(ARC^AgRP)–initiation(LH^GABA)–maintenance(DR^GABA)** 3단으로 세분하고, 섭식이 매 조각(C-W-n(E-W)-C)마다 이 순서를 반복함을 보였다(Neuron 2023, Wang lab). ⚠️ 위 표의 "ARC AgRP 지속 ↓"와 병기: 넓은 arena의 금식 쥐에서 AgRP는 접촉 사이 탐색마다 재상승한다(자유급식·PB 세션에선 없음). LH^GABA 반응은 긴 접촉이 끝나기 전에 소실된다(bulk, GAD2) — 표의 "LH^Vgat subset B sustained"와는 해상도 차이.
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — **phase 한정 개입 설계의 모범**: rat LH^GABA를 cue(appetitive) 구간에만 광억제하고 보상 전달·섭취 구간은 레이저 없이 두어, cue 학습 결손과 정상 섭취를 같은 동물에서 동시에 얻었다(Curr Biol 2017). 여기에 **레이저 없는 소거 시험**을 더해 "일시적 수행 저하"와 "연합 획득 실패"를 분리한다.
+- [[rossi-2019-obesity-remodels-activity-and]] — 회로 매핑 표의 **LH^Vglut2(brake)** 행에 상태·식이 변조를 보강하는 원저(Science 2019, Stuber lab): consummatory 단계 sucrose 반응이 **포만(prefed) > 금식**이고 lick rate와 무관, 광자극은 licking을 주파수 의존적으로 일시 억제·혐오. 만성 HFD 12주에 같은 뉴런의 반응이 둔화 → "brake"는 고정 속성이 아니라 **상태·식이 의존적**.
+- [[rossi-2021-transcriptional-and-functional-divergence]] — 표의 **LH^Vglut2** 행을 **투사 표적별로 쪼개야 함**을 보인 원저(Neuron 2021, Stuber lab). LHA^Vglut2→LHb(전측·Pax6⁺)와 →VTA(후측·Pdyn/Hcrt)는 둘 다 sucrose·quinine 섭취에 **흥분**하지만, 혐오 증폭은 VTA 투사 쪽이 크고(interaction p=0.047) **포만 상태에서 음식 보상에 반응하는 세포 비율은 LHb 투사 쪽이 높다**(X²=12.58, p=1.9e-3). 금식은 두 경로의 반응을 모두 키우면서 **경로 간 차이 자체를 지운다**(ex vivo SVM도 급식에서만 투사 구분 성공). consummatory phase의 "brake" 서술에 **투사·상태 의존성**을 병기.
+- [[jennings-2013-the-inhibitory-circuit-architecture]] — 위 표 **LH^Vglut2 행("brake"·aversive 반응)** 의 인과 원전(Science 341:1517, 2013, Stuber lab): Vglut2^LH 광활성 → 굶긴 마우스 섭취·food zone 체류↓(F1,36=13.31 / 13.12, P<0.001)·장소 혐오, 광억제 → 포만 중 섭식 유발·기호식 선호(table S1). 상류는 **Vgat^BNST → LH^Vglut2 선택적 억제**이며(rabies F1,20=38.50, P<0.001), BNST 입력이 LH^Vgat에는 거의 닿지 않는다 → appetitive/consummatory 분업(Vgat 쪽)과 **브레이크 해제(Vglut2 쪽)** 는 상류가 다른 두 경로다.
+- [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — ⚠️ 위 표 **LH^Mch 행("appetitive 약 ↑")의 반례**(Nat Commun 2023, Kanoski lab, rat). MCH Ca²⁺는 학습된 소리 cue(CS+>CS−, P=0.0042)와 음식 맥락 진입(P=0.0001)에 또렷이 오르고 cue 반응이 핥기 잠복을 예측하며(R²=0.5039), 화학유전 활성은 PIT·CPP를 키운다 → **MCH는 consummatory 전담이 아니라 두 phase의 integrator**. 섭취 중 반응은 **식사 초기에 최대·종료로 감쇠**(R²=0.2005)하며 총 칼로리를 예측(R²=0.9299) = **appetition**(식사 내 양성 되먹임) 신호로, 위 표가 비워 둔 consummatory 단계의 **양성항** 후보다. ⚠️ 기능 상실 실험 없음·수컷 rat만.
+- [[de-vrind-2019-effects-of-gaba-and]] — 두 phase가 **반대로 갈린 화학유전 사례**(Obesity 2019): LH^LepR 활성은 빈 우리 운동↑(appetitive 쪽)인데 근접 먹이 섭취는 ↓(consummatory 쪽)였고, LH^Vgat 활성은 실제 섭취 없이 **비식용 물체 갉기**(consummatory 구강운동 프로그램)만 늘렸다 → "개시·추구"와 "섭취 실행"을 같은 지표(먹이통 무게)로 읽으면 안 된다는 정량 교훈. 갉기/spillage 분리(chow 가루 칭량·나무 블록 대조)를 consummatory 지표의 표준 통제로 제안.
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — **활동 부호(appetitive)와 인과 효과(consummatory)가 어긋나는 사례**이자 **투사 표적별 phase 분리**(Research 2022, Zhejiang Chen lab). LH CaMKIIα⁺ 광계측은 신규 물체 접촉·크리켓 추격·물기에서 최대이고 **섭취가 시작되면 하강**(자유 보행 중에는 무변화)하는데, 광자극하면 well-fed 마우스가 크리켓 5마리를 전부 **먹어 치운다** — [[concept-npy-agrp-neurons|AgRP]]와 같은 비대칭이므로 표의 활동 열과 인과 열을 분리해야 한다. 또 **세포체 자극 = 추격·운반(전신)**, **vPAG 말단 자극 = 물기·섭취만(제자리, 속도·이동거리 ↓)** 으로 갈려 phase가 세포타입이 아니라 **출력 경로**로도 나뉜다. 상류 **MPOA^CaMKIIα→LH 말단 자극은 사냥은 켜지만 사체·펠릿을 먹지 않는다**(P=0.7926) = appetitive 전용 입력의 깔끔한 예.

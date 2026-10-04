@@ -2,7 +2,7 @@
 title: "The central amygdala gates exogenous glucagon-like peptide 1 signals (Duran et al. 2026, Mol Metab)"
 type: paper
 created: 2026-07-04
-updated: 2026-09-02
+updated: 2026-10-03
 source: raw/2026 Molecular Metabolism. The central amygdala gates exogenous glucagon-like peptide 1 signals.pdf
 authors: [Duran M, Zeng N, Cutts EJ, Polamarasetty A, Rodriguez M, Habegger KM, Hardaway JA]
 year: 2026
@@ -63,3 +63,5 @@ year: 2026
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 부위별 GLP-1R 분업 review (사용자 lab).
 - [[overview-cea-glp1r-food-safety-alarm]] — 본 논문 + Godschall 2026 + Woods 1991을 묶어 CeA^Glp1r을 "food safety alarm"으로 종합.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 본 논문이 "GLP-1R 풍부하나 역할 불명"으로 남긴 **lateral septum**에 세포 좌표를 제공: **LS^Glp1r**(LS^Crhr2의 8.4%)가 행동 개시 표상 1위·SuM 최대 입력. 단 위협 회피 과제이며 섭식·GLP-1RA는 미시험 (Nature 2026). → [[concept-lateral-septum]]
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — CeA 밖의 **병렬 경로**: 세마글루타이드 반응 NTS Adcyap1⁺→ARC / →DMH 투사도 초콜릿 폭식을 억제하되 CTA를 만들지 않는다 → 'GLP-1RA의 palatable 섭취 억제 = CeA^Glp1r 전담'이라는 읽기를 완화 (bioRxiv preprint 2026).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 논문이 "GLP-1R 풍부하나 역할 불명"으로 남긴 **lateral septum**의 **회로 쪽 답**: dLS^GLP-1R → LHA GABA성 단시냅스 억제가 섭취를 양방향 조절하고, **exendin-4가 그 억제 시냅스의 방출을 강화**(oIPSC↑ p=0.046, PPR↓ p=0.012). CeA^Glp1r가 palatable 섭취·CTA 쪽 축이라면 이쪽은 **LH engine에 걸린 하행 brake** 축이다. ⚠️ 두 축이 같은 약물 효과의 어느 성분을 나누어 맡는지는 미검증이며, Lu는 혐오·장소선호를 측정하지 않았다 (bioRxiv preprint 2024 → Mol Metab 85:101960). → [[concept-lateral-septum]]

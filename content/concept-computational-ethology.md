@@ -2,7 +2,7 @@
 title: 계산 동물행동학 (Computational Ethology) — 행동 자동 정량화
 type: concept
 created: 2026-08-15
-updated: 2026-08-19
+updated: 2026-10-03
 aliases: [computational ethology, 행동 정량화, markerless tracking, pose estimation, behavioral syllable]
 ---
 
@@ -72,3 +72,4 @@ aliases: [computational ethology, 행동 정량화, markerless tracking, pose es
 - [[concept-joint-brain-behaviour-modelling]] — **다음 단계 hub**: 여기서 얻은 행동 라벨을 신경 데이터와 한 latent 공간에서 결합 모델링하는 방법론(discriminative/generative/contrastive·identifiability·scorecard).
 - [[mathis-2026-joint-modelling-of-brain-and]] — 결합 모델링 리뷰(NRN 2026); 행동 위계·pose·다중모달 파트가 본 페이지와 직접 겹치고, "라벨 타당성"을 identifiability·consistency 지표로 형식화.
 - [[mathis-2026-leveraging-insights-from-neuroscience-to]] — 같은 저자 Perspective; pose·genomic·neural 인코더를 LLM이 라우팅하는 agentic 파이프라인 제안(본 도구군의 청사진).
+- [[liu-2023-an-iterative-neural-processing]] — 섭식 적용 사례: ResNet50 프레임 라벨 + random forest 교정 + **TICC** 분절(BIC로 8 behavior 선택, 프레임의 >98%) → 섭식이 C-W-n(E-W)-C로 조각나 있음을 발견. ResNet18 실시간 biting/touching 검출(~16 fps, 평균 62.5 ms)로 **행동 촉발 폐쇄회로 광유전**을 구현했다 (Neuron 2023, Wang lab).

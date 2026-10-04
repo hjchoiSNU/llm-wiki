@@ -2,7 +2,7 @@
 title: 분계선조 침상핵 (Bed nucleus of the stria terminalis, BNST)
 type: concept
 created: 2026-06-20
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침상핵, extended amygdala]
 ---
 
@@ -55,3 +55,5 @@ aliases: [BNST, bed nucleus of the stria terminalis, 분계선조 침상핵, 침
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — LS^Crhr2의 분자 10아형·기능·입력 해부 (Nature 2026).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 급성 구속 스트레스 c-fos가 BNST·BLA·섬엽과 함께 **LS**에서 증가; 그 LS 세포형이 `Nts`⁺임을 동정 (eLife 2020).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **BST가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나이며, 동시에 ARC POMC·AgRP 축삭의 주요 전뇌 표적 = 상호 연결. [[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]]의 AgRP→aBNST 섭식-충분 출력에 **BST→ARC 입력 방향**을 채워 넣는다 (Front Neuroanat 2015).
+- [[jennings-2013-the-inhibitory-circuit-architecture]] — ★ 위 "BNST→LH GABAergic 광활성 → 포만 상태에서도 기호식 즉시 과식" 서술의 **1차 출처**(Science 341:1517, 2013, Stuber lab). Vgat^BNST→LH 말단 광활성이 배부른 마우스에서 수 초 내 폭식(섭취·food zone 체류 모두 P<0.001; F2,24=18.61 / 201.6)·고지방식 선호·광자극 자가자극(굶기면 증폭, 포만이면 감쇠 F2,204=40.87)을 유발하고, eArch3.0 광억제는 굶긴 마우스 섭식↓·장소 회피(P=0.004)를 낸다. 하류 기전은 **LH^Vglut2(섭식 브레이크) 선택적 억제**이며(강하게 억제받는 LH 세포의 Vglut2 발현↑, U=169.0, P=0.016; rabies 단시냅스 F1,20=38.50, P<0.001), 같은 BNST의 **→VTA 투사 활성은 섭식을 유발하지 않는다**(경로 특이성, figs. S3–S4). ⚠️ 위키에서 'Jennings 2013'은 이 Science 논문(BNST→LH)과 Nature 496:224(BNST→VTA)를 모두 가리키므로 구분해 인용할 것.
+- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — BNST→LH 축이 **섭식이 아니라 불안 쪽으로 쓰이는 지점**(Nat Neurosci 2025, Korotkova lab). 저자들은 ABA 모델이 **저렙틴 상태인데도** LH^LepR의 anxiogenic 자극 반응·항불안 효과가 유지되는 이유로 leptin 비의존 입력을 들고, 그 1순위 후보로 **BNST**(Giardino 2018: 내측 BNST→LH^LepR = 양성 valence / 외측 BNST→orexin = 음성 valence)와 복측해마(Jimenez 2018), PFC를 지목한다. 같은 논문에서 **PFC→LH 입력은 anxiogenic**이고(자극 → open arm 체류 ↓ P=0.00039) 고불안 개체에서만 LH^LepR를 억제한다 — BNST 입력과의 부호 대비를 병기할 지점.

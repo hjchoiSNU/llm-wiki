@@ -62,3 +62,4 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC top-down 통제의 병렬 사례: mPFC→VTA(본 논문) vs mPFC→rZI(강박 섭식), rZI 투사 mPFC는 PAG/VTA와 부분 독립 채널.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — **유관성 변화 신호의 하류 출력 팔**. 본 페이지=mPFC→VTA 탐지기(meta-RPE), Mingote=VTA DA-GLU→NAc medial shell 전환 게이트 — 한 루프의 양끝으로 읽을 수 있음.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — contingency degradation = "현재 목표의 평가절하" 학습. 인간 목표 포기는 대안 가치 상승보다 현재 목표 평가절하로 유도되며(frustration>temptation), 감시-임계값 알고리즘이 meta-RPE의 rolling-gain과 형식적으로 유사.
+- [[gordon-2026-lateral-hypothalamic-control-of]] — 같은 Stuber lab·공저자(M.M. Hjort) 인접 DA 작업. 본 논문은 섭취 중 선조체 DA의 **공간 지형**(LH 균형이 설정)을, Hjort는 mPFC→VTA DA의 **시간적 meta-RPE**를 다룬다 (Neuron 2026).

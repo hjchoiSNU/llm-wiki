@@ -2,7 +2,7 @@
 title: Dorsomedial hypothalamus (DMH)
 type: concept
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-03
 aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ---
 
@@ -79,3 +79,6 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — **DMH^Vglut2→AgRP 입력의 가소성 서명이 PVH^TRH와 다르다**: 단식 시 양자 **진폭**이 오르고(후시냅스 전도도) 빈도는 불변. 그리고 단식 중 DMH^Vglut2를 침묵시켜도 재급식 식이·체중 재증가는 **영향 없음** — 같은 AgRP 뉴런으로 가는 흥분성 입력이라도 기능이 갈린다 (Cell Metab 2023).
 - [[concept-agrp-synaptic-plasticity]] — 입력별 가소성 서명 비교표가 있는 개념 hub.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — ★ **본 hub의 1차 근거**(사용자 lab, Science 2024). DMH^GLP-1R 뉴런이 섭취 전 음식 cue 단계에 활성화되고 ARC NPY/AgRP를 GABA로 억제해 preingestive satiation을 만든다; 인체 교차설계 임상시험(n=28)·광유전·광계측/microendoscopy·CRACM 통합. 리뷰([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]])가 아니라 이 논문을 1차 인용으로 쓸 것.
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ DMH가 **뇌간 Adcyap1^NTS 입력의 표적**임을 기능적으로 확인: 광자극이 단식 재급식·초콜릿 폭식을 비혐오적으로 억제(chow는 소폭 증가)하고 ARC 단식 AgRP Fos를 낮추며, **에너지소비(EE)를 감소**시킨다(자유섭식·무식이 모두). 세마글루타이드 반응 subset만 자극해도 재현. → 사용자 lab의 **DMH 국소 GLP-1R 경로**([[kim-2024-glp-1-increases-preingestive-satiation]])와 **같은 AgRP 종착점·다른 상류**로, DMH 조작 실험의 대조 조건 설계 근거 (bioRxiv preprint 2026).
+  - ⚠️ 부호 긴장(병기): Lee 2018(Mol Metab)은 DMH GLP-1 신호 **상실**이 BAT thermogenesis↓·지방↑라 보고 — '활성=EE↑'의 단순 도식과 달리 본 결과는 **활성이 EE↓**. DMH가 EE를 양방향 조절하는 이질 집단(Brs3·hibernation-like state)이라는 점에서 **다른 세포**로 보는 해석이 정합적.
+- [[concept-glp1ra-cns-access]] — ★ **"말초 GLP-1RA가 DMH^GLP-1R에 직접 닿는가"를 미해결로 명시**한 hub. tanycyte 수송은 median eminence–MBH 축이고 **DMH 도달 근거는 위키·웹 양쪽에 없다**; 대안은 ME→3V CSF 확산, 뇌간 Adcyap1^NTS→DMH 상행 입력([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem|Blid Sköldheden 2026]]), DMH 국소 혈관 투과성. → [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]] 회로가 **약물 작용점인지 회로 중계점인지**가 여기서 갈리므로, DMH 조작·인간 영상 설계에서 접근 경로를 변수로 다룰 근거.

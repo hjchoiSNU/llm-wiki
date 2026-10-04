@@ -2,7 +2,7 @@
 title: Spatial transcriptomics (공간전사체)
 type: concept
 created: 2026-07-04
-updated: 2026-08-19
+updated: 2026-10-03
 aliases: [SRT, Visium, Xenium, MERFISH, spatial transcriptomics, snRNA-seq atlas]
 ---
 
@@ -31,3 +31,4 @@ aliases: [SRT, Visium, Xenium, MERFISH, spatial transcriptomics, snRNA-seq atlas
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **IHC/LCM-Seq**: RNA 보존 면역염색(PVSA 2%) + 레이저 캡처 + bulk RNA-seq. 침수고정 사람 사후 뇌에 적용, **단백질 기준 세포 정의 + 공간 맥락 보존 + bulk 깊이**의 조합. 항원부활이 RNA를 파괴하는 문제를 RNase 억제제로 해결 (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — Xenium으로 AgRP 2아형·Bnc2/Glp1r 3아형의 ARC/VMH·DMH 공간 분포를 독립 검증 (bioRxiv 2025).
 - [[concept-cis-regulatory-element-obesity]] — 전사체·공간에 이은 **조절 층** 방법론 hub.
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — **EASI-FISH**: 2× 팽창 + 다라운드 HCR-FISH로 **300 µm 두꺼운 절편**에서 24유전자를 3D 단일세포 해상도로 측정한다(비바코드 순차 탐침, 상용 light-sheet, 오픈소스 Nextflow 파이프라인, Starfinity 3D 분할 정확도 95.5%). 마우스 tuberal LHA를 Otp/Meis2 × Vglut2/Vgat 조합으로 **9개 분자 하위구역**으로 나눴다 (bioRxiv 2021 → Cell 2021, Sternson·Tillberg lab).

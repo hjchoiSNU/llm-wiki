@@ -2,7 +2,7 @@
 title: Endocannabinoid system (내인성 카나비노이드 시스템)
 type: concept
 created: 2026-07-04
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -43,4 +43,5 @@ Arachidonic acid에서 요구 시 생성되어 CB1·CB2 G단백질 결합 수용
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC 뉴런이 `CNR1`(CB1)을 풍부히 발현 → CB1이 POMC를 통해 식욕을 조절한다는 마우스 모델의 **인간 분자 대응** (Nat Commun 2026).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — 같은 시스템의 **세 번째 축**: in vivo 역행성 gain control로 보상 추구 '관여(engagement)'를 지속시킴 (Nature 2026, Bruchas lab).
 - [[concept-paraventricular-thalamus]] — 그 gain control이 작동하는 상류 노드(aPVT 말단 CB1R).
+- [[thoeni-2020-depression-of-accumbal-to]] — **네 번째 축 — 억제성 시냅스의 상태 의존 i-LTD**(Neuron 2020, Lüscher lab). NAcSh D1-MSN→LH **억제성** 시냅스에서 CB1R 작용제(WIN55,212-2 2 µM)가 i-LTD를 만들고, **급성 식이제한·3일 고지방식 상태에서는 tonic CB1R 신호가 이 시냅스를 이미 눌러 두고 있어** FSK나 길항제 SR141716A로 i-LTP가 "드러난다". 체중 회복 후 1주면 소실. 전신(10 mg/kg i.p.)·**LH 국소(1.5 µg/side)** CB1R 차단이 보상 과식과 HFD 체중 증가를 함께 막는다. ⚠️ 두 가지 병기: ⑴ 위 [[piette-2026-striatal-endocannabinoids-drive-one-shot|eCB-LTP]]는 **흥분성 시냅스 강화·CB1R+D2R 필요**인데 이쪽은 **억제성 약화**이고 반대 방향(i-LTP)에 **D1R**이 필요하다 — 같은 리간드가 시냅스 종류별로 정반대 규칙을 쓴다. ⑵ 이 논문이 쓴 약물이 곧 **rimonabant(SR141716A)** 이고 효능만 보고한다(행동 부작용 미평가) — 본 페이지의 철회 서술과 함께 읽어야 하며, LH 국소 데이터는 오히려 **말초 한정·국소 접근**의 근거로 읽는 것이 정합적이다.
 - [[concept-oxylipins]] — 같은 PUFA(아라키돈산·EPA) 계열의 **또 다른 지질 messenger**이나 대사 출력은 대조적: gut eCB–CB1은 지방 섭취를 **늘리고**([[dipatrizio-2011-endocannabinoid-signal-in-the-gut]]), 12(S)-HEPE–Or5v1/Olfr110은 간 지방산화를 **켠다**([[ge-2026-identification-of-or5v1-olfr110]]).

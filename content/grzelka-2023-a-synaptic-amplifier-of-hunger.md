@@ -2,7 +2,7 @@
 title: "체중을 되찾기 위한 시상하부의 배고픔 시냅스 증폭기 (Grzelka 2023)"
 type: paper
 created: 2026-09-11
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2023 Cell Mtabolism. A synaptic amplifier of hunger for regaining body weight in the hypothalamus.pdf"
 authors: [Katarzyna Grzelka, Hannah Wilhelms, Stephan Dodt, Marie-Luise Dreisow, Joseph C. Madara, Samuel J. Walker, Chen Wu, Daqing Wang, Bradford B. Lowell, Henning Fenselau]
 year: 2023
@@ -95,3 +95,4 @@ year: 2023
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **본 논문 NMDAR 축의 직접 선행**(같은 Lowell lab, Neuron 2012). AgRP `Grin1` 삭제가 단식 반응 전체(가시형성·EPSC 빈도·발화·`Agrp`/`Npy` mRNA)를 없앤다. 본 논문이 "양자 빈도 증가가 가시 수 증가인지 방출 부위 증가인지 구분 못 한다"고 남긴 한계는, Liu의 **가시 +67%** 관찰과 같은 자리를 가리킨다.
 - [[concept-agrp-synaptic-plasticity]] "분자 실행자" 절 — ★ 본 논문 Discussion의 **CaMKII 후보 논증 4갈래를 분해**하고, 그중 2갈래(CaMKII→AMPK / 유전·약리 대사 표현형)의 인용이 실제로는 **CaMKK2(CaMKKβ)** 논문(Hawley 2005·Anderson 2008)임을 명시. 두 효소를 구별해 읽어야 한다.
 - [[concept-hypothalamic-ampk]] "상류 키나아제" 절 — CaMKK2가 AMPK 상류라는 근거와 AgRP 시냅스에서의 STO-609 증거.
+- [[thoeni-2020-depression-of-accumbal-to]] — **같은 시간 규칙, 다른 회로층·다른 분자 관문**(Neuron 2020, Lüscher lab). 거기서는 급성 식이제한·3일 고지방식이 **NAcSh D1-MSN→LH 억제성 시냅스를 depress**시켜 과식을 허가하고, 본 논문처럼 **체중이 회복되면 꺼진다**(AFR 1주 후 i-LTP 소실). 즉 "결핍이 시냅스에 저장되고 체중 회복이 지운다"는 규칙이 **배고픔 입력(PVH^TRH→AgRP 증폭)과 섭식 허가 게이트(NAc→LH depression) 양쪽에서 독립적으로** 관찰된다. 관문은 **NMDAR vs CB1R**로 갈리므로, 두 가소성이 직렬인지(과식 = gain↑ × 중단↓) 그리고 **병용 차단이 가산적인지**가 검증 가능한 질문이다(연결 가설 — 양쪽 원문 모두 다루지 않음).

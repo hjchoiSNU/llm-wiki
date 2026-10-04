@@ -52,6 +52,7 @@ aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측
 - 이 위키의 시상하부 노드 지도에서 MPOA는 [[concept-lateral-hypothalamus]]·[[concept-paraventricular-nucleus]]·[[concept-ventromedial-hypothalamus]]와 나란히 놓이되, **섭식 자체보다 섭식과 경쟁하는 동기**를 대표한다는 점에서 성격이 다르다.
 
 ## 관련 페이지
+- [[concept-lh-camkii-neurons]] — ⚠️ **MPOA^CaMKIIα→LH 투사를 받는 하류 라벨의 정체 문제**. LH 투사 MPOA 뉴런의 83.53%가 CaMKIIα⁺이고 MPOA 자극은 사냥만 켜지만(펠릿 P=0.7926), 그 하류 "LH^CaMKIIα"는 세포 유형이 아니라 혼합 집단이며 **LH 중계의 필요성은 역행성 활성화 대조군 부재로 분리되지 않았다**(Tan 자인).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 본 개념의 1차 출처(NRN 2026).
 - [[concept-npy-agrp-neurons]] — AgRP/NPY가 MPOA를 억제해 양육을 끄는 경쟁 회로.
 - [[concept-need-motivation-pleasure-utility]] — 동기 간 arbitration framework; 배고픔↔돌봄이 전형 사례.
@@ -64,3 +65,4 @@ aliases: [MPOA, MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, 내측
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — MPO/MPA가 ARC POMC의 **POMC 우세 주요 입력원**(AgRP보다 입력 밀도가 유의하게 높은 영역군: LS·MPO·AH·VTg·NI·VS)이자 POMC·AgRP 축삭의 조밀한 표적 = **상호 연결**. 양육-섭식 경쟁을 배선 수준에서 뒷받침 (Front Neuroanat 2015).
 - [[concept-maternal-programming-hypothalamus]] — 모체 상태→자손 시상하부 프로그래밍 hub; MPOA 재편(모체 자신)과 자손 프로그래밍의 연결은 위키 내 유비 수준.
 - [[jung-2022-a-forebrain-neural-substrate-for]] — 체온 관련 1차 자료: 서론이 POA·DMH 병변은 대부분의 체온조절 **행동**에 불필요했다는 문헌을 요약하고, 행동성 체온조절의 전뇌 기질로 LH^Vgat을 제시 (Neuron 2022)
+- [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ⚠️ MPOA를 **포식(predatory hunting) 동기의 상류 노드**로 세운 1차 데이터(Research 2022, Zhejiang Chen lab). LH에 CT-B를 넣으면 **LH 투사 MPOA 뉴런 340개 중 284개(83.53%)가 CaMKIIα⁺**이고, MPOA^CaMKIIα 자극 시 **LH 내 Fos⁺ 243개 중 88.06%가 CaMKIIα⁺**, MPOA ChrimsonR 자극이 LH CaMKIIα 칼슘을 즉시 올린다. **MPOA^CaMKIIα→LH 자극은 신규 물체 탐색·추격·물기와 크리켓 사냥을 유발하지만 사체·사료를 먹지 않으며**(P=0.7926), ArchT 억제·전기 병소는 **포식만 없애고 정상 사료 섭취는 보존**한다. 이 페이지의 "흥분성 MPOA 활성은 섭식을 억제한다 / MPOA는 섭식 회로와 경쟁한다" 프레임과 **부분 정합·부분 긴장**: 섭식을 유발하지 않는 점은 정합하지만, 결과는 "억제자"보다 **"비섭식 표적 추구의 활성화자"** 에 가깝다(병기).

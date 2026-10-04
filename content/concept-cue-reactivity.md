@@ -31,3 +31,6 @@ updated: 2026-10-03
 - [[concept-inhibitory-control-demand]] — VR cue provocation으로 올라간 craving에 비례해 dlPFC·ACC 제어부하가 증가하는 trouble-resisting 국면.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 학습된 cue 가치가 **전역 표상으로 부과되지 않고** 선재하는 감각 scaffold(pDMS의 cue 위치 지도) 위에만 얹힘. cue reactivity의 부위·감각 채널 편중에 대한 회로 문법 (bioRxiv 2026).
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.2. 단서 반응성을 갈망의 1차 발생원으로 놓고 회로·인체 근거·개입을 정리.
+- [[lee-2026-distinct-lateral-hypothalamic-gabaergic]] — 마우스 LH^Vgat의 음식 cue 반응 ensemble은 혐오 자극과 공유되는 salience 신호다. 동공 각성과 결합하지만 **중립 tone(동공 확장)만으로는 동원되지 않는다** → cue reactivity의 각성 성분과 가치 성분을 분리하는 대조 설계 근거 (Cell Rep 2026).
+- [[sharpe-2021-past-experience-shapes-the]] — **무관한 cue를 걸러내는 능력의 회로 근거**(Nat Neurosci 2021). rat LH^GABA를 cue 사전노출 구간에만 광억제하면 **latent inhibition이 소실**된다(eYFP S1<S2 F(1,17)=8.508 P=0.010 → NpHR S1≈S2 F(1,17)=0.492). 같은 억제는 중립·원위 cue 학습을 **촉진**한다 → "보상 근접 cue 학습 vs 원위·무관 cue 학습의 비"를 cue reactivity·DTx의 종결점 후보로 쓸 수 있다(연결 가설).
+

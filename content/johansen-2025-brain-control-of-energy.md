@@ -2,7 +2,7 @@
 title: "Brain control of energy homeostasis: Implications for anti-obesity pharmacotherapy (Johansen et al. 2025)"
 type: paper
 created: 2026-05-30
-updated: 2026-09-19
+updated: 2026-10-03
 source: "raw/2025 Cell. Brain control of energy homeostasis- Implications for anti-obesity pharmacotherapy.pdf"
 authors: [Valdemar Brimnes Ingemann Johansen, Jonas Petersen, Jens Lund, Cecilie Vad Mathiesen, Henning Fenselau, Christoffer Clemmensen]
 year: 2025
@@ -21,6 +21,7 @@ Cell 2025 Leading Edge 리뷰. **비만의 원인론(gene×environment, push-pul
 
 ### 1. 비만은 복합·만성 질환 (원인론)
 - **Gene×environment**: "Genes load the gun, environment pulls the trigger". BMI 유전율 ~40–80%(쌍둥이). GWAS 500+ loci·~1000 SNP — **뇌(특히 시상하부)에 preferential 발현**, glutamatergic·noradrenaline·serotonin·dopamine·GABA 신호 enrichment → 비만 = **neurobiological disorder**.
+  - ⚠️ 병기: [[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026 Nat Metab]]은 유전율 40–75%, GWAS >1,000 loci(GIANT 941 SNP가 BMI 분산 6.0%)로 제시하고, 흔한 비만 유전자 발현이 **포만 조절 시상하부보다 insula·substantia nigra(보상·중독)** 에 농축된다고 주장(Ndiaye 2020). '뇌 농축'엔 동의, **시상하부 vs 보상 영역 강조**는 다름.
 - "Drifty gene" 가설(Speakman) + dual intervention point: 포식 압력 소멸로 비만 방어 유전자가 drift로 erode.
 - **환경 the "Big Two"**(UPF·energy-dense food + 신체활동↓) 논쟁: 활동량은 1980s 이후 오히려 약간 증가(doubly labeled water), BMR·체온도 하락 → 단순 모델 부족.
 - **push vs pull 모델**: push(과식이 칼로리를 지방으로 밀어넣음, energy balance model) vs pull(지방조직이 순환 연료를 능동적으로 끌어당김, fuel partitioning, Friedman/Ludwig). 둘 다 GWAS의 CNS-편향과 정합 → push-pull 통합 모델이 설명력 최대.
@@ -97,3 +98,6 @@ Cell 2025 Leading Edge 리뷰. **비만의 원인론(gene×environment, push-pul
 ---
 *출처: raw/2025 Cell. Brain control of energy homeostasis- Implications for anti-obesity pharmacotherapy.pdf (Johansen VBI, Petersen J, Lund J, Mathiesen CV, Fenselau H, Clemmensen C. Cell 2025;188:4178–4212; doi:10.1016/j.cell.2025.06.010)*
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 본 리뷰가 GLP-1RA의 NAc 도파민 억제 간접 경유지로 지목한 **lateral septum**의 세포 구성을 해부: LS^Crhr2 10 분자 아형 중 **Glp1r 아형 8.4%**가 행동 개시를 표상하고 SuM·BLA 입력을 받음 (Nature 2026). → [[concept-lateral-septum]]
+- [[bonnefond-2026-the-genetics-of-obesity]] — ⚠️ 발현 부위 강조 차이: 본 리뷰의 'GWAS 유전자 시상하부 preferential' 서술과 달리 Bonnefond 2026은 흔한 비만 유전자가 **insula·substantia nigra(보상·중독)** 에 농축된다고 주장(유전율도 40–75%로 제시). 병기 (Nat Metab 2026).
+- [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — 본 리뷰의 "LH GABAergic 활성 → appetitive·consummatory↑" 서술의 **마우스 1차 출처**(Cell 2015, Stuber lab). 광활성/광억제 양방향 + taCasp3 ablation(체중 증가·섭취·PR break point↓)에 GRIN microendoscope 743 뉴런 영상을 더해, 그 두 성분이 **서로 다른 비중첩 subset에 실린다**는 점까지 보였다. ⚠️ 화학유전 bulk 활성은 lick(소비)만 늘리고 break point(동기)는 올리지 않았으므로, "LH GABA = 섭식 촉진" 한 줄 요약은 **조작 양식(opto/DREADD/ablation)에 따라 다른 축이 움직인다**는 점을 함께 적어야 한다.
+- [[de-vrind-2019-effects-of-gaba-and]] — ⚠️ 본 리뷰 LH 항목의 **"GABAergic 활성 → appetitive·consummatory↑"**(근거 Jennings 2015)에 직접 적용되는 **spillage caveat**(Obesity 2019): LH^Vgat hM3Dq 활성의 chow "무게 변화↑"는 갉기 부스러기였고 chow 가루를 따로 재면 실제 섭취는 불변, lard·palatable 선호는 ↓였다. 같은 논문은 LH GABA·LepR 활성이 **체온↑·체중↓** 라는 에너지 소비 출력을 낸다고 보고해, 리뷰의 "LH = 섭식 추동" 요약에 소비 축을 병기한다.
