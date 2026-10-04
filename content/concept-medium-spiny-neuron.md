@@ -2,7 +2,7 @@
 title: Medium spiny neuron (MSN) — D1/D2, direct/indirect pathway
 type: concept
 created: 2026-07-04
-updated: 2026-10-03
+updated: 2026-10-04
 aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pathway]
 ---
 
@@ -44,3 +44,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — SPN이 중뇌 글루타메이트 입력에 **직접 흥분되면서도 순 억제**되는 경로(DA-GLU→[[concept-striatal-cholinergic-interneuron|ChI]]→nAChR→GABA 개재뉴런→GABA_A). D1/D2 수용체 논리 **밖**의 SPN 출력 제어 축.
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — ⚠️ **NAc에서 D1/D2 = direct/indirect 이분법이 왜 성립하지 않는지**를 보여주는 투사 데이터(Neuron 2015, Lüscher lab). NAc medial shell에서 **LH로 가는 억제성 투사는 D1R-MSN이 93.6%**(CTB⁺ 1,246개 중 1,173개; D2R-MSN은 5.2%)이고, D1R-MSN의 60.3%는 LH로 가지 않는다 → 수용체 표지는 **투사 표적을 하나로 지정하지 않는다**. 저자들은 본문에서 **Kupchik 2015**(Nat Neurosci 18:1230, "accumbens 투사에서 D1/D2의 direct/indirect 부호화는 성립하지 않는다")를 직접 인용한다. 기능도 아집단별로 갈린다: 이 LH 투사 D1R-MSN의 활성은 **섭취를 중단**시키고 억제는 **포만 상태에서 섭취를 개시**시킨다.
 - [[thoeni-2020-depression-of-accumbal-to]] — ⚠️ 위 이분법 비판을 **투사군 분리 + 가소성 규칙**으로 확장(Neuron 2020, 같은 lab). 이중 CTB 역추적에서 **LH 투사 MSN은 VP 투사와 3.6%, VTA 투사와 11.1%만 중복**(세포체는 섞임)이고, D1 비율은 **VP 45.6% < LH 81.3%**, **LH 76.5% < VTA 96.6%** — 표적이 멀어질수록 D1 지배. 더 중요한 것은 **같은 D1-MSN의 말단이 표적별로 다른 가소성 규칙을 쓴다**는 점이다: forskolin이 D1-MSN→VP에서는 억제성 i-LTP를 만들지만 D1-MSN→LH에서는 못 만들고, **급성 식이제한·고지방식 상태에서만**(eCB–CB1R 의존 i-LTD가 선행했기 때문에) 드러난다. 저자들이 인용한 **Pardo-Garcia 2019**는 VP·VTA 투사는 서로 크게 겹친다고 보고하므로, 이 분리는 **LH 투사에 특유**하다. → "D1-MSN"은 전사·투사뿐 아니라 **시냅스 가소성 수준에서도 단일 집단이 아니다**.
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA 입력은 dSPN/iSPN 비특이, **striosome에서 NMDA/AMPA 비↑**, DLS에서 **원위 수상돌기(~100 μm) 편향** → upstate gating으로 수렴 입력 증폭 (Neuron 2026).

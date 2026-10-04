@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 522 (+ index.md, log.md)
+- 총 페이지: 523 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-04
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -104,6 +104,7 @@ title: 뇌과학 LLM Wiki
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_ · 🔑 MI, DLS
 - [[holton-2026-the-adaptive-value-of-stubborn]] — 선택한 목표에 매달리는 인간 경향의 **세 적응 기능(자원 절약·유혹 차단·동기 비계)**과 failure mode(ADHD·불안·apathy over-persistence·우울); [[concept-compulsion|강박]]·restraint DTx·[[concept-effort-based-decision-making|effort]] 해석에 직결 (Trends Cogn Sci 2026). 개념 [[concept-goal-commitment]]. _(🎯 다중 의사결정계에도)_ · 🔑 HRL, ACC, RL
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — ★ **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 DLS의 eCB-LTP**가 담당. 새 행동과제 STA test(끈끈이 테이프 회피, 보상·처벌 없음)·Neuropixels·plasticitymeter 모델·GRAB_eCB2.0·CB1R/D2R 조건부 KO로 인과 규명. **짧은 경험=eCB-LTP / 긴·반복 경험=NMDA-LTP** 분업 (Nat Neurosci 2026, Venance lab). 개념 [[concept-one-shot-learning]]. _(엔도카나비노이드는 💡·🍽️와도)_ · 🔑 eCB-LTD, ChR2-LFP, DMS
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — ★ **편도→감각운동 선조체 직접 경로**: BLA→DLS(배외측 선조체)는 DMS 투사와 다른 BLAl 집단, SPN 원위 수상돌기 표적; 단독으론 행동 무변화, **감각유발 grooming과 짝지으면 S-R 반응을 이종시냅스 가소성으로 증폭**. OCD 모델 Sapap3에서 강화·자극 후 억제 소실, BLA 억제가 강박 grooming 발병 차단 (Neuron 2026, Plotkin lab). · 🔑 dorsolateral striatum, Sapap3, OCD(obsessive-compulsive disorder), striosome, dendritic upstate, stimulus-response
 - [[concept-one-shot-learning]] — 단일시행 학습과 그 비고전적 가소성 규칙(선조체 eCB-LTP·해마 BTSP·STDP 한계) 개념 hub. CTA·flavor-nutrient 같은 one-trial 식이 학습으로의 이식 가설. · 🔑 single-trial learning, one-trial learning, 일회 학습, NMDA-LTP, DLS, CB1R
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ 포유류 **양육 회로** 종합: 다중감각 새끼신호 평가 → MPOA(pro)↔PeFA^Ucn3/BNST^Esr1(anti) → VTA-NAc 강화·PAG 운동. 발달(P14–15 microglia pruning)·감작·관찰학습·임신 호르몬으로 **끊임없이 재구성되는 가소적 시스템**. ★ **배고픔↔돌봄 경쟁**(AgRP/NPY→MPOA 억제) (NRN 2026, Kohl lab). 개념 [[concept-medial-preoptic-area]]. _(🧠 시상하부 핵·🍽️ AgRP와도)_ · 🔑 MPOA^Gal, PVN^OT, MPOA^Esr1, A1, OTR, MeA
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ **외측중격(LS^Crhr2)** 이 위협 cue를 방어 행동으로 바꾸는 계산을 **분자 10아형 × 공간 topography × 기능 동역학 × 입력 구조** 4축으로 해부. CS 1초 이내와 행동 1.5초 전의 **두 시점 표상**, **해마=cue-outcome / 시상하부(LHAsf·SuM)=action** 분업. **LS^Glp1r**·**LS^Calcr** 아형 특정 (Nature 2026, Fishell lab). 개념 [[concept-lateral-septum]]. _(GLP-1R·해마-섭식 축은 🍽️·💡와도)_ · 🔑 LS Crhr2 threat coding, CS-S, Foxp2, vCA1, Lhx2, CS-F

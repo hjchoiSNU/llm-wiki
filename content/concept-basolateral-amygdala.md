@@ -2,7 +2,7 @@
 title: Basolateral amygdala (BLA, 기저외측편도체)
 type: concept
 created: 2026-05-01
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -33,6 +33,7 @@ updated: 2026-10-03
 ### 출력
 - NAc, prefrontal cortex.
 - Hypothalamus, hippocampus.
+- **배측 선조체 — 두 집단 분업** ([[hobel-2026-a-basolateral-amygdala-to-dorsolateral|Hobel 2026]]): DMS 투사 = 배내측·BLAm/BLAc(연합·변연 피질로 측부지), **DLS 투사 = 문측·복외측 BLAl**(운동피질로 측부지); 이중 표지 <2%. DLS 입력은 드물고 원위 수상돌기 표적 → 행동 '구동'이 아닌 S-R '조절'.
 - 본 wiki 맥락에선 nutrient 가치 → 이후 행동 선택 회로로 전달.
 
 ## Anterior vs Posterior BLA 분리 ([[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]])
@@ -143,4 +144,4 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[luscher-2021-consolidating-the-circuit-model-for]] — BLA→NAc가 보상·혐오를 모두 전달하되 **혐오는 CCK⁺ BLA 뉴런이 D2R-MSN으로** 전달(Shen 2019); Ppp1r1b⁺=보상 / Rspo2⁺=혐오(Kim 2016). BLA→D2R-MSN 강화가 **incubation of craving**의 기질 (Annu Rev Neurosci 2021).
 - [[hoang-2021-the-basolateral-amygdala-and]] — BLA vs LH 학습 편향 리뷰(Curr Opin Behav Sci 2021, Sharpe lab). BLA = 감각 특이 결과 표상(specific PIT 담당, general PIT는 BLA 손상 후에도 보존)·cue-onset phasic/unsigned salience. 원위 cue는 **이미 동기적으로 유의할 때만** 학습한다(SOC·위험 맥락 ○, sensory preconditioning ×). BLA→LH 흥분성 투사로 정보를 넘기고, VTA로는 직접 투사하지 않는다(Watabe-Uchida 2012). ⚠️ (1) 그 리뷰는 Reppucci & Petrovich 2016을 들어 **LH→BLA 상호 투사가 없다**고 쓴다. 본 페이지 입력 목록의 'LH (Lutas 2019)' 항목은 출처 확인이 필요하다. (2) 'BLA 억제는 보상 학습을 없애지 않는다'·phasic 신호 서술은 Grove 2025의 aBLA-D1R 분 단위 ramp·flavor–nutrient 학습 차단과 과제가 달라 병기한다.
 - [[sharpe-2021-past-experience-shapes-the]] — rat LH^GABA가 **cue–보상 수반성 경험 후에만** 공포 학습에 필요해진다(Nat Neurosci 2021). 저자들은 공포 **가소성의 자리는 편도체 회로**(Fanselow & LeDoux 1999, Maren 1999)에 두고 LH는 **학습 중재자(arbitrator)**로 남겨 둔다 — BLA와 LH의 분업은 원문이 미해결로 명시한다. ⚠️ 같은 lab 리뷰 [[hoang-2021-the-basolateral-amygdala-and|Hoang & Sharpe 2021]]의 "BLA는 원위 cue를 이미 유의할 때만(SOC) 학습" 도식과 달리, 원전은 **SOC에서도 LH 억제가 학습을 촉진**했다(병기).
-
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **BLA→DLS(배외측 선조체) 직접 투사**: DMS 투사(BLAm·BLAc)와 다른 **BLAl** 집단에서 기원, SPN 원위 수상돌기 표적; 감각유발 행동과 짝지을 때 S-R 반응을 가소적으로 증폭, OCD 모델 Sapap3에서 강화 (Neuron 2026).

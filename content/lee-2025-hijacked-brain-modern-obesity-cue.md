@@ -2,7 +2,7 @@
 title: "Hijacked Brain in Modern Obesity: Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals"
 type: paper
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-04
 source: "raw/2025 JOMES Hijacked Brain in Modern Obesity Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals.pdf"
 authors: [Lee T, Park S, Lee S, Hwangbo A, Bae H, Lee Y, Choi HJ]
 year: 2025
@@ -128,3 +128,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — **emotion·restraint 표현형의 회로 후보 1차 자료**(Nat Neurosci 2025, Korotkova lab). LH^LepR는 불안 자극에 흥분해 **불안을 상쇄**하고, 그 결과 노출된 공간 탐색·**불안한 환경에서의 섭식 개시**(P=0.0286)·거식 모델의 과잉 running 억제(P=0.004)를 가능하게 한다. ⚠️ 축의 방향 주의: 5-type의 **emotional eating**은 '불안이 섭식을 밀어 올린다'인데 이 회로는 '불안이 섭식을 막고 LepR가 푼다'다 — 같은 세포의 양방향(과활성 = 정서적 과식 / 저활성 = 회피·제한)인지 검증 가능한 대립 가설이다. **restraint** 표현형은 그 논문의 고불안·**PFC 과억제** 프로파일(PFC→LH 자극 → open arm 체류↓ P=0.00039; 억제 크기 × 불안 R=−0.86)에 더 가깝고, DTx·비침습 자극의 종결점을 '식욕 감소'가 아니라 **'불안 맥락에서의 접근 행동 회복'**으로 잡을 근거가 된다.
 - [[liu-2023-an-iterative-neural-processing]] — 섭식의 fragmentation(접촉→이탈→재개)을 신경 수준에서 보인 동물 근거. 인간 bite 미세구조 fragmentation index를 5-type 표현형·mindful eating 매개 지표로 쓰는 가설의 토대(Neuron 2023, 연결 가설).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — cue-driven 표현형의 회로 근거: LH^LepR는 총 섭취량이 아니라 **Pavlovian 음식 cue 변별 학습·cue 유발 접근**을 조절. "hijacked" cue 과정의 LH 노드 후보이자, 개입 종결점을 섭취량 대신 cue 변별·접근으로 두어야 할 근거.
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **Emotion 유형 ↔ Habit 유형(DLS)의 회로 다리 후보**: 편도(BLA)가 DLS S-R 시냅스를 직접 증폭(섭식 미검증, 위키 가설) (Neuron 2026).

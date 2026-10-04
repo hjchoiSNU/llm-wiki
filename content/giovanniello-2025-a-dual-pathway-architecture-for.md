@@ -2,7 +2,7 @@
 title: "A dual-pathway architecture for stress to disrupt agency and promote habit (Giovanniello 2025)"
 type: paper
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-10-04
 source: "raw/2025 Nature (표시) A dual-pathway architecture for stress to disrupt agency and promote habit.pdf"
 authors: [Giovanniello JR, Malvaez M, Wassum KM]
 year: 2025
@@ -41,3 +41,4 @@ year: 2025
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — habit의 무대로 알려진 **DLS가 단 1회 짧은 경험의 초기 각인에도 관여**(eCB-LTP); "짧은 1회 = eCB-LTP / 반복 = NMDA-LTP" 분업은 습관 고착의 **초기 단계에 별도 규칙**이 있음을 시사 (Nat Neurosci 2026).
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 본 논문이 만성 스트레스의 **회로 수준** 전환을 다룬다면, 저 논문은 초기 역경이 스트레스 **반응성 자체를 크로마틴에 미리 프로그램**하는 상류 층 (Neuron 2026).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal-directed↔habit 전환을 시스템 수준이 아닌 **단계 수준**(습관적 목표 선택 + 목표지향 실행)으로 보는 인간 계산 관점; 스트레스가 어느 단계를 무너뜨리는지 질문 제공.
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA의 또 다른 선조체 출력: **BLA→DLS**(DMS 투사와 별개 집단)는 agency가 아니라 **감각자극-반응 결합을 이종시냅스 가소성으로 증폭** — BLA가 표적별로 목표지향(DMS)·S-R(DLS) 양쪽에 관여 (Neuron 2026).

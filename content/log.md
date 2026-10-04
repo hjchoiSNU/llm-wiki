@@ -8,6 +8,16 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 12:25 — ingest (Hobel 2026 Neuron, BLA→DLS)
+
+`raw/2026.neuron.A basolateral amygdala to dorsolateral striatum projection modulates stimulus-evoked motor behavior.pdf` 정리.
+
+새 페이지 1: [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA→배외측 선조체 직접 투사(DMS 투사와 별개 BLAl 집단·원위 수상돌기 표적), 감각유발 행동과 짝지은 반복 활성 시 S-R 반응 증폭·이종시냅스 가소성, OCD 모델 Sapap3에서 강화.
+
+역방향 링크 6: [[concept-basolateral-amygdala]](출력 절에 DMS/DLS 두 집단 분업 추가) · [[giovanniello-2025-a-dual-pathway-architecture-for]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] · [[concept-medium-spiny-neuron]] · [[concept-compulsion]] · [[lee-2025-hijacked-brain-modern-obesity-cue]]. `index.md` 🧩 인지 & 행동에 추가(🔑 포함), 총 523.
+
+메모: 위키에서 DLS가 배외측 중격(dorsolateral septum)으로도 쓰여 페이지에 약어 경고를 달았음. 섭식 연결은 가설로 표기.
+
 ## 2026-10-04 11:30 — other (index 검색 키 추가)
 
 `index.md` 항목 440개 끝에 `· 🔑` 검색 키(핵심 용어·약어·별칭, 항목당 최대 6개, 총 1,769개) 추가. 페이지 frontmatter `aliases` + 본문 약어의 빈도×특이도(전체 30% 이상 페이지에 나오는 범용어 제외)로 자동 추출, 요약 줄에 이미 있는 용어는 제외. 목적: 클라우드 세션에서 grep 없이 index만으로 관련 페이지 탐색 범위 확대. index 130KB→149KB. 원본 백업: 로컬 `llm-wiki/backup/index-before-keys-2026-10-04.md`.
