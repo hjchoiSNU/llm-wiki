@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-01
 updated: 2026-06-01
 source: "raw/2021 Nature Communications. (Halpern) The insulo-opercular cortex encodes food-specific content under controlled and naturalistic conditions.pdf"
+source_alias: "raw/2021 Nature Communications. (Halpern) The insulo-opercular cortex encodes food-specific content under controlled and naturalistic conditions 1.pdf"
 authors: [Yuhao Huang, Bina W. Kakusa, Rajat S. Shivacharan, Daniel A.N. Barbosa, Corey J. Keller, Cara Bohon, Casey H. Halpern, et al.]
 year: 2021
 ---

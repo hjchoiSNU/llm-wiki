@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-09-19
 source: raw/2026 bioRxiv. (Stern) Direct interoceptive input to the insular cortex shapes learned feeding behavior.pdf
+source_alias: "raw/2026 bioRxiv. (Stern) Direct interoceptive input to the insular cortex shapes learned feeding behavior 1.pdf"
 authors: [Zhe Zhao, Binbin Xu, Skylar Anthony, Suganya Subramanian, Bryan Granger, Carolyn Von-Walter, Elisa Mizrachi, Dhruvum Bajpai, Paul Tyagi, Matthew Kidd, Abhishikta Srigiriraju, Isaac McKie, Zhiying Li, M. McLean Bolton, Stefano Berto, Sarah A. Stern]
 year: 2026
 ---

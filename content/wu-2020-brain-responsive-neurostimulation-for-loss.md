@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-01
 updated: 2026-09-19
 source: "raw/2020 Neurosurgery. (Halpern) Brain-Responsive Neurostimulation for Loss of Control Eating Early Feasibility Study.pdf"
+source_alias: "raw/2020 Neurosurgery. (Halpern) Brain-Responsive Neurostimulation for Loss of Control Eating Early Feasibility Study 1.pdf"
 authors: [Hemmings Wu, Casey H. Halpern, et al.]
 year: 2020
 ---

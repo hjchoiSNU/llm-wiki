@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-01
 updated: 2026-09-19
 source: "raw/2018 PNAS (Halpern) Closing the loop on impulsivity via nucleus accumbens delta-band activity in mice and man.pdf"
+source_alias: "raw/2018 PNAS (Halpern) Closing the loop on impulsivity via nucleus accumbens delta-band activity in mice and man 1.pdf"
 authors: [Hemmings Wu, Kai J. Miller, Zack Blumenfeld, Nolan R. Williams, Brian Knutson, Robert C. Malenka, Casey H. Halpern]
 year: 2018
 ---

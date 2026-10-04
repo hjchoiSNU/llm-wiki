@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-14
 updated: 2026-06-14
 source: raw/2026 Neuron. Attenuated hypothalamic response to fructose via a dedicated gut-brain pathway.pdf
+source_alias: "raw/2026 Neuron. Attenuated hypothalamic response to fructose via a dedicated gut-brain pathway 1.pdf"
 authors: [McKnight AD, de Araujo A, Hsu FY, Vargas-Elvira AG, Acosta AA, Smith MM, Iwueze W, de Lartigue G, Alhadeff AL]
 year: 2026
 ---

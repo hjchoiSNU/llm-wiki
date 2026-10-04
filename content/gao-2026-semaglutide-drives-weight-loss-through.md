@@ -4,6 +4,7 @@ type: paper
 created: 2026-05-31
 updated: 2026-10-03
 source: "raw/2026 Nat. Metab. (Krashes) Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
+source_alias: "raw/2026 Nature Metabolism. Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
 authors: [Gao C, Geneve IC, Rodriguez-Gonzalez S, Li C, McElhern K, Reitman ML, Lutas A, Krashes MJ]
 year: 2026
 journal: Nature Metabolism

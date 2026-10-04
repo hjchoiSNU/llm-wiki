@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-09-22
 source: raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks.pdf
+source_alias: "raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks 1.pdf"
 authors: [Caleb Weinreb, Lakshanyaa Thamarai Kannan, Alia Newman-Boulle, Tim Sainburg, Winthrop F. Gillis, Alex Plotnikoff, Sofia Makowska, Jonah E. Pearl, Mohammed Abdal Monium Osman, Scott W. Linderman, Sandeep Robert Datta]
 year: 2026
 ---

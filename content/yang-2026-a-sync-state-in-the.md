@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-28
 updated: 2026-09-15
 source: "raw/2026 Neuron. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
+source_alias: "raw/2026 Cell. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
 journal: Neuron
 doi: 10.1016/j.neuron.2026.07.002
 authors: [Xiao Yang, Weijie Yan, Weixuan Lu, Ruijie Wang, Rong Gong]

@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-04 12:50 — lint (raw 파일명 ↔ source 정리)
+
+`llm-wiki-raw` PDF 331개를 모든 페이지의 source 값과 대조. 실제로 빠진 논문은 0편. 위키 `source:`와 맞지 않던 PDF 30개를 해당 페이지 frontmatter에 등록: 같은 논문의 사본·다른 이름 파일 28개는 새 키 `source_alias`, 보충자료 2개는 `source_suppl`. 이제 raw의 모든 PDF가 어떤 페이지의 source 계열 값과 일치. `CLAUDE.md` §1-1·§5-2·템플릿에 `source_alias` 추가.
+
+남은 문제: 페이지 35개(주로 2026-10-03 LH 클러스터)의 `source:`가 가리키는 PDF가 `llm-wiki-raw`에 없음(다른 Drive 폴더에 있음). 원문 재확인·클라우드 재ingest 시 필요하면 해당 PDF를 `llm-wiki-raw`로 복사해야 함.
+
 ## 2026-10-04 12:25 — ingest (Hobel 2026 Neuron, BLA→DLS)
 
 `raw/2026.neuron.A basolateral amygdala to dorsolateral striatum projection modulates stimulus-evoked motor behavior.pdf` 정리.

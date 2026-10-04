@@ -4,6 +4,7 @@ type: overview
 created: 2026-06-21
 updated: 2026-06-21
 source: raw/2016 Book Behavioral Neuroscience of Motivation.pdf
+source_alias: "raw/2016 Book Behavioral Neuroscience of Motivation (1).pdf"
 editors: [Eleanor H. Simpson, Peter D. Balsam]
 year: 2016
 publisher: "Springer — Current Topics in Behavioral Neurosciences vol. 27"

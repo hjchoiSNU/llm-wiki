@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-09-19
 source: raw/nord-et-al-2021-disrupted-dorsal-mid-insula-activation-during-interoception-across-psychiatric-disorders.pdf
+source_alias: "raw/nord-et-al-2021-disrupted-dorsal-mid-insula-activation-during-interoception-across-psychiatric-disorders 1.pdf"
 authors: [Camilla L. Nord, Rebecca P. Lawson, Tim Dalgleish]
 year: 2021
 ---

@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-28
 updated: 2026-10-03
 source: "raw/2026 bioRxiv. Multidimensional control of ingestive behavior by lateral hypothalamic neurotensin neurons.pdf"
+source_alias: "raw/2026 bioRxiv. Multidimensional control of ingestive behavior by lateral hypothalamic neurotensin neurons 1.pdf"
 authors: [Dustin Sumarli, Mary C. Loveless, Grace O. Davis, Kyle W. Schroeder, Garret D. Stuber, Gregory J. Morton, Marta E. Soden]
 year: 2026
 ---

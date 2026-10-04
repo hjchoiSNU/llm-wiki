@@ -4,6 +4,7 @@ type: paper
 created: 2026-05-31
 updated: 2026-10-03
 source: "raw/2026 Nature. A brain reward circuit inhibited by next-generation weight-loss drugs in mice.pdf"
+source_alias: "raw/2026 Nature.A brain reward circuit inhibited by next-generation weight-loss drugs in mice.pdf"
 authors: [Elizabeth N. Godschall, Taha Bugra Gungul, Isabelle R. Sajonia, ..., John N. Campbell, Christopher D. Deppmann, Ali D. Güler]
 year: 2026
 journal: "Nature (2026); doi:10.1038/s41586-026-10444-4"

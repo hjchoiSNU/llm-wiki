@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-08-05
 source: raw/2026 eBioMedicine. Glucose levels are associated with mood, but the association is mediated by ratings of metabolic state.pdf
+source_alias: "raw/2026 eBioMedicine. Glucose levels are associated with mood, but the association is mediated by ratings of metabolic state 1.pdf"
 authors: [Kristin Kaduk, Marie Kaeber, Anne Kühnel, Maria Berjano Torrado, Melina Grahlow, Birgit Derntl, Nils B. Kroemer]
 year: 2026
 ---

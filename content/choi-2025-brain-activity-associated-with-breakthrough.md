@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-01
 updated: 2026-06-01
 source: "raw/2025 Nature Medicine. (Halpern) Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide.pdf"
+source_suppl: "raw/2025 Nature Medicine. (Halpern) (suppl) Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide.pdf"
 authors: [Wonkyung Choi, Young-Hoon Nho, Liming Qiu, Katherine W. Scangos, Thomas A. Wadden, Casey H. Halpern, et al.]
 year: 2025
 ---

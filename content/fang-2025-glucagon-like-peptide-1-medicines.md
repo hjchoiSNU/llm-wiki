@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-10
 updated: 2026-10-03
 source: "raw/2025 Cell Reports Medicine. Glucagon-like peptide-1 medicines in neurological and psychiatric disorders.pdf"
+source_alias: "raw/2025 Cell Reports Medicine. Glucagon-like peptide-1 medicines in neurological and psychiatric disorders 1.pdf"
 authors: [Fang S, Cui F, Drucker DJ]
 year: 2025
 journal: Cell Reports Medicine

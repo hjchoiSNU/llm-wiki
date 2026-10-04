@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-05
 updated: 2026-07-05
 source: raw/2021 Cell. Top-Down Control of Sweet and Bitter Taste in the Mammalian Brain.pdf
+source_alias: "raw/2021 Cell. Top-Down Control of Sweet and Bitter Taste in the Mammalian Brain 1.pdf"
 authors: [Jin H, Fishman ZH, Ye M, Wang L, Zuker CS]
 year: 2021
 ---

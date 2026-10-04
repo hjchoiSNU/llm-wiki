@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-28
 updated: 2026-10-03
 source: "raw/2026 NRDD Brain-shuttle biologics chart new paths across the blood–brain barrier.pdf"
+source_alias: "raw/2026 NRDD Brain-shuttle biologics chart new paths across the blood–brain barrier 1.pdf"
 authors: [Elie Dolgin]
 year: 2026
 ---

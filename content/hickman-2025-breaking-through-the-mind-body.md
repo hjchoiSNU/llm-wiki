@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-08-05
 source: raw/2025 eClinical Medicine. Breaking through the mind-body divide- patient priorities for interoception research.pdf
+source_alias: "raw/2025 eClinical Medicine. Breaking through the mind-body divide- patient priorities for interoception research 1.pdf"
 authors: [Lydia J. Hickman, Gabriel Mackie, Beth F. Longley, Hannah S. Savage, Emily Bagley, Hugo Fleming, Rachel Knight, Isabel Lau, Annalise Whines, Sarah N. Garfinkel, Camilla L. Nord]
 year: 2025
 ---

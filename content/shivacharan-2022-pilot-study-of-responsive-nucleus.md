@@ -4,6 +4,8 @@ type: paper
 created: 2026-06-01
 updated: 2026-09-19
 source: "raw/2022 Nature Medicine. (Halpern) Pilot study of responsive nucleus accumbens deep brain stimulation for loss-of-control eating.pdf"
+source_alias: "raw/2022 Nature Medicine. (Halpern) Pilot study of responsive nucleus accumbens deep brain stimulation for loss-of-control eating 1.pdf"
+source_suppl: "raw/2022 Nature Medicine. (Halpern) (supp) Pilot study of responsive nucleus accumbens deep brain stimulation for loss-of-control eating.pdf"
 authors: [Rajat S. Shivacharan, Cammie E. Rolle, Daniel A.N. Barbosa, Robert C. Malenka, James D. Lock, Casey H. Halpern, et al.]
 year: 2022
 ---

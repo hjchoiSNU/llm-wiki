@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-10
 updated: 2026-10-03
 source: "raw/2026 Lancet. Efficacy and safety of oral semaglutide 14 mg (flexible dose) in early-stage symptomatic Alzheimer's disease.pdf"
+source_alias: "raw/2026 Lancet. Efficacy and safety of oral semaglutide 14 mg (flexible dose) in early-stage symptomatic Alzheimer's disease 1.pdf"
 authors: [Cummings JL, et al.]
 year: 2026
 journal: Lancet

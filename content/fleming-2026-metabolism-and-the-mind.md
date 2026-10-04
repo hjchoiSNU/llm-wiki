@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-08-05
 source: raw/2026 Biological Psychiatry. Metabolism and the Mind- Investigating the Link Between Glucose Control and Reinforcement Learning in Humans.pdf
+source_alias: "raw/2026 Biological Psychiatry. Metabolism and the Mind- Investigating the Link Between Glucose Control and Reinforcement Learning in Humans 1.pdf"
 authors: [Hugo Fleming, Martyna K. Stasiak, Isabel Lau, Annalise Whines, Sara Z. Mehrhof, Camilla L. Nord]
 year: 2026
 ---

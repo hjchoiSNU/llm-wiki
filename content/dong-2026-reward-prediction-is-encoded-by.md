@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-04
 updated: 2026-10-03
 source: raw/2026 PNAS reward-prediction-is-encoded-by-orexin-neuron-activity-during-motivated-behavior.pdf
+source_alias: "raw/2025 PNAS Reward prediction is encoded by orexin neuron activity during motivated behavior.pdf"
 authors: [Dong Y et al.]
 year: 2026
 ---

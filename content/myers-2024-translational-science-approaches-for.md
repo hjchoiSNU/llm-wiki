@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-01
 updated: 2026-06-01
 source: "raw/2024 Appetite. Translational science approaches for food insecurity research.pdf"
+source_alias: "raw/2024 Appetite. Translational science approaches for food insecurity research (2).pdf"
 authors: [Myers KP, Temple JL]
 year: 2024
 ---

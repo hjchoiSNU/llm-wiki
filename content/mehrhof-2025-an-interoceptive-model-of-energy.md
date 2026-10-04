@@ -4,6 +4,7 @@ type: paper
 created: 2026-08-05
 updated: 2026-08-05
 source: raw/2025 Science Advances. An interoceptive model of energy allostasis linking metabolic and mental health.pdf
+source_alias: "raw/2025 Science Advances. An interoceptive model of energy allostasis linking metabolic and mental health 1.pdf"
 authors: [Sara Z. Mehrhof, Hugo Fleming, Camilla L. Nord]
 year: 2025
 ---

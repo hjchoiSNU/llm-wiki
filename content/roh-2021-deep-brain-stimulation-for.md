@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-01
 updated: 2026-09-21
 source: "raw/2021 Journal of the Korean Society of Stereotactic and Functional Neurosurgery. Deep brain stimulation for obesity or binge-eating behavior- an overview.pdf"
+source_alias: "raw/2021 Deep brain stimulation for obesity or binge-eating behavior.pdf"
 authors: [Roh H, Kim JH]
 year: 2021
 ---

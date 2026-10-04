@@ -4,6 +4,7 @@ type: paper
 created: 2026-06-17
 updated: 2026-10-03
 source: "raw/A hypothalamic circuit for anticipating future changes in energy balance.pdf"
+source_alias: "raw/2026 Neuron. A hypothalamic circuit for anticipating future changes in energy balance.pdf"
 authors: [Samuel J. Walker, Elijah D. Lowenstein, Amelia M. Douglass, Callum M.P. Thomas, Joseph C. Madara, Hakan Kucukdereli, Eunice A. Barbosa-Meillon, Jenkang Tao, Jon M. Resch, Bradford B. Lowell]
 year: 2026
 ---
