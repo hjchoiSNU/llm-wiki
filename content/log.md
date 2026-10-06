@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-06 15:30 — query (미래발전위원회 교육분과 내일 할일)
+
+다른 PC의 Claude 세션 조회 요청 → 이 PC에서는 세션 미공유(로컬 저장)임을 확인. 대신 [[overview-snu-med-edu-committee-minutes]] · [[overview-snu-med-education-vision-2036]] 와 Drive(6차 교육분과 회의록, 제6차 운영위원회 회의록, 2026-09-09 교육분과 메모)·캘린더·Gmail로 10/7(수) 12:00 연구관 401호 교육분과 7차 회의 준비 할일을 재구성해 답함. 웹 미사용. 위키 페이지 변경 없음.
+
 ## 2026-10-04 23:08 — query (습관적 과식과 DLS) + 종합 페이지 작성
 
 사용자 질문(습관적 과식에서 DLS의 역할, 단일세포 miniscope 연구 제안)에 대한 답을 사용자 확인 뒤 [[overview-habitual-overeating-dls]]로 보관. 위키와 원문 PDF만 근거(웹 미사용), 인용 문장은 원문 텍스트와 대조. 역방향 연결: [[fallon-2026-striatal-pathways-dissociably-control-action]] · [[weinreb-2026-spontaneous-behavior-is-a]] · [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] · [[giovanniello-2025-a-dual-pathway-architecture-for]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] · [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[leow-2026-a-cortical-hypothalamic-neural]] · [[derman-2018-junk-food-enhances-conditioned-food-cup]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-habit]] · [[proposal-habitual-overeating-dls-miniscope]]. [[index]] 등록.
