@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-07 — query (NPY–NPY수용체 결합 시 신경 활성)
+
+"NPY가 NPY receptor에 붙으면 신경 활성은 어떻게 되는가" 질문에 위키 내용만으로 답변. 근거: [[tanaka-2021-role-of-neuropeptide-y-in]](Y1–Y5 모두 Gi/o→과분극·cAMP↓, Y2=전시냅스 자가수용체) · [[van-den-heuvel-2015-neuropeptide-y-activity-in-nucleus]](in vivo NAc 발화 억제 69% units) · [[smith-2022-neuropeptide-y-modulates-excitatory-synaptic]](예외: Y1r/Y5r→EPSC↑ 세포타입별) · [[lee-2023-lateral-hypothalamic-leptin-receptor]](억제의 억제=탈억제 gate) · [[xu-2020-behavioral-state-coding-by]](PVH Npy1r volume transmission) · [[concept-npy-nucleus-accumbens]]. 미기록 공백으로 **수용체 하류 effector 채널(GIRK·N-type Ca²⁺ 등) 수준 기술이 위키에 없음**을 명시. 페이지 변경 없음.
+
 ## 2026-10-06 17:15 — other (미래발전위원회 교육분과 7차 회의 자료 작성)
 
 사용자 요청으로 교육분과 설문 원자료(Google Sheets 254건)를 내려받아 분석하고 Drive `서울대학교/미래발전위원회 2026/`에 Word 3종을 작성: ① 설문 결과 챕터별 정리·반영 포인트 ② 주관식 247건 원문 모음(12개 주제 분류) ③ 7차 회의(10/7) 논의안 — 다섯 갈림길(대학원 전공단위·평가·조기 임상/Must-know·갭이어·교수 트랙). 근거: [[overview-snu-med-edu-committee-minutes]] · [[overview-snu-med-education-vision-2036]] · 6차 회의록·운영위 6차 회의록·2019 대학원 구조개편 TF 자료(Gmail 첨부). 웹 미사용. 위키 페이지 변경 없음(설문 결과 페이지 [[overview-snu-med-education-survey-2026]]은 링크만 있고 파일이 없음 → 다음 건강검진 때 생성 검토).
