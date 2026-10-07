@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-07 — query (NAc FSI를 억제하는 국소 억제성 개재뉴런)
+
+"NAc fast-spiking interneuron을 억제하는 local inhibitory interneuron 연구가 있나" 질문. **위키·raw 모두 자료 없음**으로 답변. 위키가 가진 것은 FSI를 **입력 받는 쪽**([[mingote-2019-dopamine-glutamate-neuron-projections-to]] VTA DA-GLU→SPN·FSI·ChI; [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] dCA1→PV⁺ FSI soma)과 FSI가 **억제하는 쪽**(PV⁺ FSI→MSN feedforward inhibition)뿐. [[concept-striatal-cholinergic-interneuron]]은 ChI의 SPN 이연접 억제를 매개하는 GABA 개재뉴런 정체를 **미해결**로 기록(PV⁺ FSI가 후보) — 방향이 반대. 후보 세포군 목록은 [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]]의 인간 NAc Inh_A–F(KIT⁺ PV·SST⁺/CORT⁺·VIP⁺·CHAT⁺·GLP1R⁺/TAC3⁺)뿐으로 분자 census 수준. **공백으로 기록: 선조체 개재뉴런 다양성·개재뉴런 간 억제(LTS/SST·NGF·THIN→FSI) 1차 문헌이 raw/에 없음.** 페이지 변경 없음.
+
 ## 2026-10-07 — query (NPY–NPY수용체 결합 시 신경 활성)
 
 "NPY가 NPY receptor에 붙으면 신경 활성은 어떻게 되는가" 질문에 위키 내용만으로 답변. 근거: [[tanaka-2021-role-of-neuropeptide-y-in]](Y1–Y5 모두 Gi/o→과분극·cAMP↓, Y2=전시냅스 자가수용체) · [[van-den-heuvel-2015-neuropeptide-y-activity-in-nucleus]](in vivo NAc 발화 억제 69% units) · [[smith-2022-neuropeptide-y-modulates-excitatory-synaptic]](예외: Y1r/Y5r→EPSC↑ 세포타입별) · [[lee-2023-lateral-hypothalamic-leptin-receptor]](억제의 억제=탈억제 gate) · [[xu-2020-behavioral-state-coding-by]](PVH Npy1r volume transmission) · [[concept-npy-nucleus-accumbens]]. 미기록 공백으로 **수용체 하류 effector 채널(GIRK·N-type Ca²⁺ 등) 수준 기술이 위키에 없음**을 명시. 페이지 변경 없음.
