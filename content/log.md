@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-07 10:17 — query (NAc FSI를 억제하는 국소 억제성 개재뉴런, 재질문)
+
+같은 질문 재확인. 위키 전수 grep(fast-spiking/PV/SST/NPY/LTS/disinhibition) + raw 원문 10편(Trouche 2019·Mingote 2019·Ravichandran 2026·NAc NPY 4편·선조체 Nat Neurosci 3편) pdftotext 재검색 → **결론 동일(자료 없음)**. 추가로 [[yamada-2021-efferent-and-afferent-connections-of]] 원문에서 NAc NPY 뉴런이 **국소 개재뉴런 입력**을 받는다는 rabies 관찰(정체 미확인)을 확인했으나 FSI 표적 여부는 미기술. 페이지 변경 없음.
+
 ## 2026-10-07 — query (NAc FSI를 억제하는 국소 억제성 개재뉴런)
 
 "NAc fast-spiking interneuron을 억제하는 local inhibitory interneuron 연구가 있나" 질문. **위키·raw 모두 자료 없음**으로 답변. 위키가 가진 것은 FSI를 **입력 받는 쪽**([[mingote-2019-dopamine-glutamate-neuron-projections-to]] VTA DA-GLU→SPN·FSI·ChI; [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] dCA1→PV⁺ FSI soma)과 FSI가 **억제하는 쪽**(PV⁺ FSI→MSN feedforward inhibition)뿐. [[concept-striatal-cholinergic-interneuron]]은 ChI의 SPN 이연접 억제를 매개하는 GABA 개재뉴런 정체를 **미해결**로 기록(PV⁺ FSI가 후보) — 방향이 반대. 후보 세포군 목록은 [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]]의 인간 NAc Inh_A–F(KIT⁺ PV·SST⁺/CORT⁺·VIP⁺·CHAT⁺·GLP1R⁺/TAC3⁺)뿐으로 분자 census 수준. **공백으로 기록: 선조체 개재뉴런 다양성·개재뉴런 간 억제(LTS/SST·NGF·THIN→FSI) 1차 문헌이 raw/에 없음.** 페이지 변경 없음.
