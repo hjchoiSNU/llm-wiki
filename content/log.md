@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-10 23:55 — other (식락학 Ch 24 재집필)
+
+사용자 요청으로 Ch 24 "음식 갈망과 중독: 생물학적·화학적 관점"을 박태현 교수님 9·10·11장 형식(목차·본문·그림 3분할 docx, 번호식 인용, Food Chemistry 참고문헌)으로 새로 작성. 갈망·추구·소비 3국면은 사용자 지시로 삭제. 위키 근거 38편의 서지를 원본 PDF로 확인해 2026-08-20 초안의 오류(Hoang 2026·Vendruscolo & Koob 2026 제목, Kim 2024 논문번호, Choi 2025 제1저자)를 바로잡음. 갱신: [[overview-sikrakhak-ch24-food-craving-addiction]] · [[overview-sikrakhak-book-project]] · [[index]].
+
 ## 2026-10-07 10:17 — query (NAc FSI를 억제하는 국소 억제성 개재뉴런, 재질문)
 
 같은 질문 재확인. 위키 전수 grep(fast-spiking/PV/SST/NPY/LTS/disinhibition) + raw 원문 10편(Trouche 2019·Mingote 2019·Ravichandran 2026·NAc NPY 4편·선조체 Nat Neurosci 3편) pdftotext 재검색 → **결론 동일(자료 없음)**. 추가로 [[yamada-2021-efferent-and-afferent-connections-of]] 원문에서 NAc NPY 뉴런이 **국소 개재뉴런 입력**을 받는다는 rabies 관찰(정체 미확인)을 확인했으나 FSI 표적 여부는 미기술. 페이지 변경 없음.
