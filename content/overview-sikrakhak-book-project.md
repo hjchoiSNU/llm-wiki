@@ -2,7 +2,7 @@
 title: "식락학(食樂學, Food Hedonology) 교재 프로젝트 — 전체 목차·집필 구조"
 type: overview
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-11
 source: raw/출판 회의 안건_0406 수정 v2.docx
 ---
 
@@ -49,7 +49,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 ### Part V. 호르몬과 분자 신호 (Hormones and Molecular Signals)
 - **Ch 18. 식욕·포만 호르몬: 그렐린·렙틴·인슐린·(GLP-1)·CCK — 최형진** → [[overview-sikrakhak-ch18-appetite-hormones]] ✅ *(정리 완료)*
 - Ch 19. 엔도칸나비노이드와 음식 즐거움 — 이성준
-- **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "갈망(wanting)" — 최형진** → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ *(정리 완료)* · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]
+- **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "원함(wanting)" — 최형진** → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ *(정리 완료 → 2026-10-11 개정: 박태현 형식 3분할 docx, wanting=원함)* · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]
 - Ch 21. 호르몬 불균형과 쾌락적 섭식(비만으로의 생리·행동 기전) — 이성준
 - Ch 22. 인슐린 저항성과 음식 보상 — 이성준
 
@@ -78,7 +78,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 ## 관련 페이지
 - [[reference-sikrakhak-glossary]] — ★ 교재 표준 용어집·표기 스타일(Neurogastronomy 번역 인덱스); 전 챕터 집필 시 용어·표기 통일 기준.
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 Ch 18 정리본(프로젝트 첫 산출물).
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20 정리본(둘째 산출물: 오피오이드·도파민 / liking·wanting).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20 정리본(둘째 산출물: 오피오이드·도파민 / liking·wanting). 2026-10-11 개정판은 박태현 교수님 9·10·11장 형식(목차·본문·그림 3분할 docx, 번호식 인용 29편, 그림 5개 새로 그림)으로 다시 썼고, 사용자 지시로 wanting을 ‘원함’(craving은 ‘갈망’)으로 옮겼다.
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 Ch 24 정리본(셋째 산출물: 음식 갈망과 중독). 박태현 교수님 9·10·11장 포맷을 준용해 **목차·본문·그림 3분할 docx**로 작성(2026-10-10 재집필: 번호식 인용·5절 18소절·그림 5개).
 - [[person-choi-hyung-jin]] — 사용자(Ch 18·20·24·25 담당).
 - [[overview-appetite-energy-homeostasis]] — 사용자 담당 챕터들의 과학적 backbone(본 wiki spine).

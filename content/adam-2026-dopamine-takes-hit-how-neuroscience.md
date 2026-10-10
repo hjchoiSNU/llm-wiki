@@ -2,7 +2,7 @@
 title: "What does dopamine actually do?"
 type: paper
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2026 Nature. Dopamine takes a hit- how neuroscience is rethinking the ‘feel-good’ chemical.pdf"
 authors: [Adam D]
 year: 2026
@@ -84,3 +84,4 @@ journal: "Nature 651:572–574 (Feature)"
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민 프레임 확장의 구체 사례: 수용체 신호가 아닌 **히스톤 공유결합(H3 dopaminylation)** 이 전사·행동을 인과 매개 (Nature 2026).
 - [[concept-h3-dopaminylation]] — 그 작용 양식의 개념 hub.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.4.3 — 도파민이 무엇을 계산하는지는 아직 논쟁 중(RPE·ANCCR·위협·새로움 신호)이라는 서술의 근거.

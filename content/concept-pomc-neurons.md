@@ -2,7 +2,7 @@
 title: POMC neurons
 type: concept
 created: 2026-04-29
-updated: 2026-10-03
+updated: 2026-10-11
 aliases: [pro-opiomelanocortin neurons, POMC]
 ---
 
@@ -131,3 +131,4 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[concept-agrp-synaptic-plasticity]] — 위 reset 신호가 작동하는 시냅스 가소성 개념 hub.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — **가소성 축에서의 POMC 비대칭**: POMC 수상돌기는 사실상 **가시가 없고**(AgRP는 풍부), POMC에서 `Grin1`(NMDAR)을 삭제해도 체중·지방·섭취에 **아무 변화가 없다**. 단식 시 `Pomc` mRNA 감소도 POMC의 NMDAR과 무관. AgRP/POMC가 길항 짝이라는 통념에 "가소성에서는 대칭이 아니다"를 더한다 (Neuron 2012, Lowell lab).
 - [[bonnefond-2026-the-genetics-of-obesity]] — 인간 유전학이 본 POMC 뉴런 조절자: LEPR–JAK2–STAT3·TRPC5(급성 탈분극)·SH2B1·MAGEL2(LEPR 재순환)·cilia(BBSome·ALMS1)·NCOA1·HTR2C·GHR, POMC→PCSK1/CPE→α-MSH 결손 모두 단일유전자 비만 (Nat Metab 2026).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.3.5 — POMC→PVT β-endorphin의 당 식욕을 원함 쪽 근거로 서술(Jouque 2025·Johansen 2025 2차 인용).

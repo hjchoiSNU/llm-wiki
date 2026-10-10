@@ -2,7 +2,7 @@
 title: "우울증의 음식 보상: 갈망(예측)은 둔화, 좋아함(소비)은 보존 (Schulz 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-11
 source: "raw/Blunted anticipation, but not consummation, of food rewards in depression.pdf"
 authors: [Corinna Schulz, Johannes Klaus, Anne Kühnel, Martin Walter, Nils B. Kroemer]
 year: 2026
@@ -40,3 +40,4 @@ MDD 환자 52명 + 건강대조 51명에서, 음식의 **소비적 즐거움(lik
 - [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 liking 불변=wanting 축 조절(자매 방법).
 - [[neuser-2020-vagus-nerve-stimulation-boosts]] — Kroemer 그룹 taVNS invigoration/wanting↑.
 - [[person-kroemer-nils]] — 교신저자. gut-brain×reward×depression 라인.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.8.4 — 우울증에서 기대 단계 원함은 낮고 좋아함은 보존된다는 근거(제17장과 공유).

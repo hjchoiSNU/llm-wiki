@@ -2,7 +2,7 @@
 title: "복측 창백핵 (Ventral pallidum, VP)"
 type: concept
 created: 2026-06-30
-updated: 2026-09-19
+updated: 2026-10-11
 aliases: [ventral pallidum, VP, 복측 창백핵, ventral pallidal]
 ---
 
@@ -51,3 +51,4 @@ aliases: [ventral pallidum, VP, 복측 창백핵, ventral pallidal]
 - [[concept-incentive-sensitization]] — VP가 incentive salience 부호화.
 - [[concept-basal-forebrain-cholinergic]] — 인접·일부 중첩하는 기저전뇌 콜린성 시스템.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **VP=양성·음성강화 통합 허브**: 만성 코카인 후 D1R-MSN→VP 투사는 강화, D2R-MSN→VP 투사는 억압(Wulff 2019). **D2R-MSN→VP presynaptic depression이 [[concept-anhedonia|anhedonia]]의 시냅스 대응** (Annu Rev Neurosci 2021).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.3.3 — 뒤쪽 복측 창백핵 핫스폿(약 0.8 mm³, 뉴런 약 74% GABA성)이 정상 ‘좋아함’에 필수.

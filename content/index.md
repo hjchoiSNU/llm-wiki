@@ -599,7 +599,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[overview-appetite-energy-homeostasis]] — 3-layer 통합 (이론 NMPU + 회로 gut-brain-hypothalamus + 임상 DTx/약물). 본 wiki의 spine. · 🔑 YES, POMC, CCK, PPAR, GLP-1, NTS
 - [[overview-lateral-hypothalamus-synthesis]] — ★★★ **LH 심화 종합(2026-10)**: LH 문헌 약 45편을 6개 렌즈(세포 유형·시간 동역학·Need/Motivation·학습인지·입출력 회로·비만/스트레스 가소성)로 통합. 마스터 세포 유형 표 · phase×세포 행렬 · 입출력 표 · **검증된 위키 내 충돌 44건 판정 지도** · 통합 모델(연결 가설) · 미해결 질문 · 우리 연구실 연구 제안 16건. 개념 hub는 [[concept-lateral-hypothalamus]]. · 🔑 LH synthesis, LH 종합, LepR, LH^LepR, LHA, Vglut2
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 저작 식락학 교재 Ch 18 정리: 식욕·포만 호르몬(그렐린·렙틴·인슐린·GLP-1·CCK)을 장기 adiposity vs 단기 식사 신호로 통합한 교육용 synthesis. · 🔑 PYY
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 저작 식락학 교재 Ch 20 정리: 오피오이드 ‘좋아함’ vs 도파민 ‘갈망’의 신경화학·유인-감작·인간 약리학·비만 함의. · 🔑 PIT, EEfRT, D2, RL, RPE
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 저작 식락학 교재 Ch 20 정리(2026-10-11 개정판, wanting=원함): 오피오이드 ‘좋아함’ vs 도파민 ‘원함’의 신경화학·유인-감작·인간 약리학(동물 도식과의 불일치)·비만 함의. · 🔑 PIT, EEfRT, D2, RL, RPE
 - [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 저작 식락학 교재 **Ch 24** 정리: 음식 갈망과 중독. 갈망≠배고픔(필요 vs 동기)·단서·통제 상실 → 음식의 화학(당·지방, 초부가, 입안 vs 몸 안 보상, 먹기의 역설) → 회로 재편 4갈래(단서 도파민·[[concept-hedonic-devaluation|쾌락 가치 저하]]·습관/강박·부적 강화) → 물질 중독과의 비교(구성 요소별 근거 지도)·취약성 → 개입. 박태현 교수님 9·10·11장 포맷의 **목차·본문(번호식 인용 38편)·그림(5개) 3분할 docx**. (2026-10-10 재집필, 3국면 삭제)
 - [[overview-sikrakhak-book-project]] — 식락학(Food Hedonology) 교재 프로젝트 전체 목차(6 Part·28 챕터)·집필 구조·현황. 사용자 담당 Ch 18·20·24·25.
 - [[reference-sikrakhak-glossary]] — 식락학 교재 표준 용어집·표기 스타일(Neurogastronomy 번역 인덱스, 용어 192개). 전 챕터 집필 시 영어→한글 표준역·표기 규칙 통일 기준. · 🔑 TRP(Transient Receptor Potential), I7

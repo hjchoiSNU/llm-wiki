@@ -2,7 +2,7 @@
 title: "Kim et al. 2024 — A normative framework dissociates need and motivation in hypothalamic neurons"
 type: paper
 created: 2026-05-25
-updated: 2026-10-03
+updated: 2026-10-11
 source: raw/2024 Science Advances. A normative framework dissociates need and motivation in hypothalamic neurons.pdf
 authors: [Kyu Sik Kim, Young Hee Lee, Jong Won Yun, Yu-Been Kim, Ha Young Song, Joon Seok Park, Sang-Ho Jung, Jong-Woo Sohn, Ki Woo Kim, HyungGoo R. Kim, Hyung Jin Choi]
 year: 2024
@@ -125,3 +125,4 @@ GCaMP6s kernel 합성곱 후 raw photometry trace와 비교. AIC = N·ln(RSS/N) 
 - [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — rat LH^GABA→VTA가 **행동을 구동하지 않고 학습률만 조절**(말단 억제 → cue 학습 촉진)한다는 원전(Curr Biol 2017). 본 논문이 LH^LepR를 **Motivation(accumulated need)** 으로 고정한 것과 층위가 다르다 — NMPU의 **Utility→Motivation 되먹임** 회로 후보로 읽을 수 있고, 본 논문의 normative model을 Pavlovian cue 과제에 적용하면 "학습 asymptote가 억제군에서 더 높아야 한다"는 검증 가능한 예측이 나온다(연결 가설).
 - [[leinninger-2009-leptin-acts-via-leptin]] — LH^LepR라는 세포 집단 자체를 정의한 **해부·약리 원전**(Cell Metab 2009, Myers lab): LHA LepRb = MCH·OX와 비중첩 **GABAergic** 집단, **VTA 조밀 투사**(선조체·NAc 투사 없음), intra-LHA leptin → 섭식·체중↓, *Lep^ob/ob*에 250 pg → 동측 **VTA *Th* ~2.5배·NAc DA ~40%↑**. 연결 가설: 본 논문이 **Motivation(누적 need)** 으로 고정한 노드가 mesolimbic DA의 **장기 생산 용량(설정값)** 까지 정한다면, Motivation 변수는 phasic 출력뿐 아니라 하류 Pleasure/Utility 회로의 **gain 파라미터**도 바꾸는 셈이다(검증: LH^LepR 조작 24 h–수일 후 VTA *Th*·NAc DA 함량 측정). ⚠️ 단 그 논문에서 **36 h 단식은 LHA LepRb c-Fos를 낮췄다**(12%→5%, p=0.05) — 본 논문의 Motivation 누적은 사건 시점 Ca²⁺ 동역학이므로 tonic Fos와 층위가 다르다(병기).
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — 같은 LH^LepR에 **"안전(불안) 축"** 을 더하는 독립 lab 1차 자료(Nat Neurosci 2025, Korotkova lab). 이 세포는 anxiogenic 자극(EPM open arm·밝은 중앙·새 arena의 먹이) 자체에 흥분하고, 활성화하면 불안이 줄며(open arm 체류 P=0.0386 opto / 0.0028 chemo) **anxiogenic 맥락에서만** 섭식 개시를 앞당긴다(P=0.0286; 익숙·어두운 맥락 무효). 연결 가설 — 본 논문의 *accumulated need = Motivation* 산출을 `Behavior ∝ Motivation × g(안전도)`로 확장하고 **g를 LH^LepR 활동으로 읽는다**: naturalistic 과제의 밝기·개방도를 파라메트릭하게 바꾸면 Motivation 축적 기울기는 유지된 채 **행동 임계값만 이동**할 것이라는 예측이 세워진다(원문 주장 아님).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.7.1 — 필요(AgRP)와 동기(LH LepR)가 서로 다른 뉴런에서 계산된다는 근거.

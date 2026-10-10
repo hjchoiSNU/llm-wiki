@@ -2,7 +2,7 @@
 title: "The interoceptive origin of reinforcement learning"
 type: paper
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-10-11
 source: "raw/2025 Trends in Cognitive Sciences. The interoceptive origin of reinforcement learning.pdf"
 authors: [Weber LA, Yee DM, Small DM, Petzschner FH]
 year: 2025
@@ -125,3 +125,4 @@ journal: "Trends Cogn Sci 29(9):840–854"
 - [[redish-2016-the-computational-complexity-of-valuation]] — value/prediction 단일환원 거부의 계산 관점(가치 다중성·다중 의사결정계) — 같은 가족.
 - [[yang-2026-a-sync-state-in-the]] — VTA DA "sync state"가 state-driven interoceptive nutrient learning의 세포 기질 후보 (Neuron 2026).
 - [[pun-2026-target-identification-and-assessment-in]] — 🤖 AI×Neuroscience 자매(AI 신약 타깃 발굴·평가).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.7.3 — 1차·대리·2차 보상 위계와 좋아함·원함의 대응, 그림 20.5.

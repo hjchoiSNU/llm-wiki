@@ -2,7 +2,7 @@
 title: "Mesolimbic dopamine signals the value of work"
 type: paper
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2016 Nature Neuroscience. Mesolimbic dopamine signals the value of work.pdf"
 authors: [Hamid AA, Pettibone JR, Mabrouk OS, Hetrick VL, Schmidt R, Vander Weele CM, Kennedy RT, Aragona BJ, Berke JD]
 year: 2016
@@ -133,3 +133,4 @@ NAc DA는 **temporally discounted future reward (state value V)** 라는 단일 
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·restrained.
 - [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — "일의 가치" 도파민 신호가 effort 수용편향으로 인간에서 정량화; 대사가 이를 조율.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.4.3 — 측좌핵 도파민의 시간 척도별 역할(분 단위 보상률·활력, 초 단위 가치).

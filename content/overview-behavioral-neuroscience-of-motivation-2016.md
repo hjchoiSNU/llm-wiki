@@ -2,7 +2,7 @@
 title: "Behavioral Neuroscience of Motivation (Simpson & Balsam eds. 2016) — 책 hub"
 type: overview
 created: 2026-06-21
-updated: 2026-10-04
+updated: 2026-10-11
 source: raw/2016 Book Behavioral Neuroscience of Motivation.pdf
 source_alias: "raw/2016 Book Behavioral Neuroscience of Motivation (1).pdf"
 editors: [Eleanor H. Simpson, Peter D. Balsam]
@@ -69,6 +69,13 @@ publisher: "Springer — Current Topics in Behavioral Neurosciences vol. 27"
 - **추출 3장**이 사용자 연구에 직결: 섭식 동기(homeostatic↔non-homeostatic crosstalk)·인간 goal/habit/Pavlovian·가치 계산의 다중성.
 - **치료 라인**: contingency management(Walter&Petry)·인지remediation은 사용자 [[concept-digital-therapeutics|DTx]]와 접점.
 
+## 서지 보완 (2026-10-11, 원본 PDF 대조)
+- 편저: Simpson, E. H., & Balsam, P. D. (Eds.) (2016). Behavioral neuroscience of motivation (Current Topics in Behavioral Neurosciences, Vol. 27). Springer. DOI 10.1007/978-3-319-26935-1.
+- Robinson, M. J. F., Fischer, A. M., Ahuja, A., Lesser, E. N., & Maniates, H. — Roles of "wanting" and "liking" in motivating behavior: Gambling, food, and drug addictions. pp. 105–136. DOI 10.1007/7854_2015_387.
+- Salamone, J. D., Pardo, M., Yohn, S. E., López-Cruz, L., SanMiguel, N., & Correa, M. — Mesolimbic dopamine and the regulation of motivated behavior. pp. 231–257. DOI 10.1007/7854_2015_383.
+- O'Doherty, J. P. — Multiple systems for the motivational control of behavior and associated neural substrates in humans. pp. 291–312. DOI 10.1007/7854_2015_386.
+- Treadway, M. T. — The neurobiology of motivational deficits in depression—An update on candidate pathomechanisms. pp. 337–355. DOI 10.1007/7854_2015_400.
+
 ## 관련 페이지
 - [[woods-2016-regulation-of-the-motivation]] · [[odoherty-2016-multiple-systems-for-the-motivational]] · [[redish-2016-the-computational-complexity-of-valuation]] — 본 책에서 추출한 3개 장.
 - [[concept-need-motivation-pleasure-utility]] — 책의 통합 틀과 동형인 사용자 lab framework.
@@ -76,3 +83,4 @@ publisher: "Springer — Current Topics in Behavioral Neurosciences vol. 27"
 - [[concept-dopamine-reward-system]] · [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — 도파민·effort 장의 대응.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[rangel-2008-a-framework-for-studying-the]] — 이 책의 다중 의사결정계 장(O'Doherty·Redish)이 딛고 선 선행 틀: 5단계 계산 + Pavlovian·습관·목표지향 가치계 + 통제권 배정 (Nat Rev Neurosci 2008).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 — O'Doherty(PIT·습관), Treadway(EEfRT), Robinson 외(음식·도박) 장을 인용.

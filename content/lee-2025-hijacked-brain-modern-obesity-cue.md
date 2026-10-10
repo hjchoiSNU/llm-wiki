@@ -2,7 +2,7 @@
 title: "Hijacked Brain in Modern Obesity: Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals"
 type: paper
 created: 2026-04-30
-updated: 2026-10-04
+updated: 2026-10-11
 source: "raw/2025 JOMES Hijacked Brain in Modern Obesity Cue, Habit, Addiction, Emotion, and Restraint as Targets for Personalized Digital Therapy and Electroceuticals.pdf"
 authors: [Lee T, Park S, Lee S, Hwangbo A, Bae H, Lee Y, Choi HJ]
 year: 2025
@@ -133,3 +133,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[rangel-2008-a-framework-for-studying-the]] — 5 표현형의 **계산적 대응표**(대응은 위키 해석): Cue형 = Pavlovian계(눈앞 음식을 배고픔과 무관하게 소비), Habit형 = 습관계(맥락·시간에 묶인 S-R), Addiction형 = 습관 ↔ 목표지향 충돌, Restraint형 = 목표지향 ↔ 목표지향 충돌(다이어터 예); Emotion형은 이 틀에 대응 항목이 없다. 과식을 "통제권 배정 실패"로 본 원전 (Nat Rev Neurosci 2008).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 리뷰가 섭식 습관의 가치 절하 연구를 2차 인용한다는 점(원문 인용 56·57)을 식이 노출 모델의 선행 문헌 확인 근거로 인용.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.5.3·20.8.3 — 제한 섭식의 역설, 표현형별 약물 선택의 임상 근거 부족.
