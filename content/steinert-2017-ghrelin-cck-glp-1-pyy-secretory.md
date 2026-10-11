@@ -2,7 +2,7 @@
 title: "Ghrelin, CCK, GLP-1, and PYY(3–36): Secretory Controls and Physiological Roles in Eating and Glycemia in Health, Obesity, and After RYGB"
 type: paper
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-11
 source: "raw/2018 Physiol Rev. Ghrelin, CCK, GLP-1, and PYY(3–36)- Secretory Controls and Physiological Roles.pdf"
 authors: [Steinert RE, Feinle-Bisset C, Asarian L, Horowitz M, Beglinger C, Geary N]
 year: 2017
@@ -160,3 +160,4 @@ Ghrelin, CCK, GLP-1, PYY(3-36)의 분비 기전과 식사·혈당 조절 기여�
 
 ### 종합
 - [[overview-appetite-energy-homeostasis]] — 본 리뷰가 핵심 reference인 큰 그림.
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 같은 4종 호르몬을 "생리적 신호 자격"으로 평가한 종합 ↔ 본 연구는 그 호르몬들의 **체중 단위 장기 적응**을 잰 인간 자료.

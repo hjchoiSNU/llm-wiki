@@ -2,7 +2,7 @@
 title: 강박 (Compulsion) — 처벌 저항과 양봉분포
 type: concept
 created: 2026-09-02
-updated: 2026-10-04
+updated: 2026-10-11
 aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishment, punishment-resistant, perseverer, renouncer, oDASS]
 ---
 
@@ -76,3 +76,4 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[concept-habit]] — 습관과의 구분(가치 없어도 계속 vs 해로워도 계속)과 dorsalization 경로를 정리한 이웃 개념 hub.
 - [[rangel-2008-a-framework-for-studying-the]] — 강박의 초기 계산적 가설(Nat Rev Neurosci 2008): OCD의 행동은 **Pavlovian계가 통제**할 수 있는 행동의 예로, OCD와 과식은 **적절한 가치계에 통제권을 주지 못하는 병리**의 예로 제시된다. 처벌 저항(이 페이지의 기준)과 달리 "어느 계가 행동을 쥐는가"로 정의하는 관점.
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 강박적 섭식(불리한 결과에도 지속)을 습관성(가치 절하 둔감)·과섭취와 별개 결과로 분리해 측정하는 설계.
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — footshock·quinine 처벌에서 NAc core 도파민이 처벌 강도를 추적 → 처벌 저항 과제의 도파민 해석 시 강도 성분 혼입 주의.

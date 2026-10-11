@@ -140,3 +140,7 @@ year: 2026
 - [[concept-hedonic-devaluation]] — 개정판 20.8.2에서 제24장 24.3.2로 잇는 쾌락 가치 저하.
 - [[reference-sikrakhak-glossary]] — 표기 기준(wanting=원함 결정, 13장과의 미결 표기).
 - [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — Ch 25(비만의 근본적 치료)가 20.8.2(커피 맛의 학습)와 20.9.1(세마글루타이드 후 도파민 회복)을 참조.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 20.9.1의 1차 출처 — 기록의 "Zhu 2025(위키 미등록)" 표기를 위키 링크로 교체.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 20.5.1(두 성분 모형)·20.5.3(시간척도 Box 1)·그림 20.6b의 출처; "두 성분 모형으로 설명" 문장과 '효용' 용어 점검 결과.
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — 20.4.1(SN/VTA 투사)·20.5.1(Kutlu 결과)·20.5.3(시간척도)·그림 20.5b의 출처; "두 성분 모형으로 설명" 문장 점검 결과.
+- [[concept-reward-prediction-error]] — Ch 20 20.5(쾌감이 아니라 현저성 / 예측 오류인가 인과 학습인가 / 시간척도)의 개념 지도와 원문 대조 요점.

@@ -2,7 +2,7 @@
 title: Peptide YY (3-36)
 type: concept
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-10-11
 aliases: [PYY, PYY(3-36), peptide YY]
 ---
 
@@ -97,3 +97,4 @@ PYY: 36-aa peptide. 분비 시 PYY(1-36) 형태, **DPP-4가 N-말단 Tyr-Pro 잔
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1+PYY 병용이 GLP-1R 비의존 경로로 식욕 시너지↓; 병용요법 종합 editorial (JOMES 2017, 사용자 lab).
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — fructose가 PYY를 glucose보다 더·지속 분비 → **말초 Y2R(Npy2r)·미주 구심성**으로 AgRP 억제(fructose 특이) (Neuron 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — ★ PYY는 10주·62주 모두 기저보다 낮고, **62주가 10주보다 더 낮다**(P=0.004). 포만 신호 저하가 시간이 갈수록 심화된 드문 관찰.

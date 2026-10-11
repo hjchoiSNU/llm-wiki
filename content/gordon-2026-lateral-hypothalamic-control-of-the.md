@@ -2,7 +2,7 @@
 title: "Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior (Gordon et al. 2026, Neuron)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-11
 source: "raw/2026 Neuron (Stuber) Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior.pdf"
 authors: [Adam G. Gordon, Barbara M. Benowitz, Joumana M. Barbakh, Isabella Montequin, Anthony Campuzano, Hannah P. Stevenson, Pei-Yun Lu, Madelyn M. Hjort, Ethan Ancell, Madalyn Critz, Daniela Witten, Garret D. Stuber]
 year: 2026
@@ -206,3 +206,4 @@ journal: "Neuron 115:1–20 (in press 2026; 호 날짜 2027-03-03; 접수 2025-0
 - [[de-vrind-2019-effects-of-gaba-and]] — **필요성·충분성이 상보적인 LH^GABA 사례**(Obesity 2019): 본 논문은 섭취 중 LHA^GABA 광억제가 물 섭취를 줄여 **필요성**을 보이고, 그쪽은 LH^Vgat를 수 시간 hM3Dq로 켜도 실제 chow 섭취가 늘지 않고 갉기 spillage만 생긴다며 **충분성의 제한**을 보고한다. 측정 대비도 함께 — head-fixed multispout lick 정량에는 갉기 spillage 혼입이 없다.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — ⚠️ 이미 본문에서 "ref 1: Zhu 2025"로 언급 중 — **위키 내부 링크로 승격**. 선조체 말단 DA 자극은 bout 수만 늘리고 길이는 안 늘린다는 반대 결과.

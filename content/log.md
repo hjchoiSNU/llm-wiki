@@ -8,6 +8,13 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-11 23:57 — ingest (6편 + 개념 1) · other (식락학 Ch 18 v4, Codex 검토 대조)
+- **ingest**: [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]], [[zhu-2025-hedonic-eating-is-controlled-by]], [[schultz-2016-dopamine-reward-prediction-error-signalling]], [[chen-2021-neuromodulation-a-model-for-dopamine]](Dispatch, 2차), [[kang-2011-dopamine-system-and-antipsychotic-drugs]], [[song-2024-case-reports-of-binge-eating]], 개념 hub [[concept-reward-prediction-error]]. 기존 페이지 역링크 108개, index 7줄, `### 진영 — 고전 RPE와 현저성` 절 신설. Sumithran 초안의 "10주 초저열량" 표기는 원문(8주 + 일반식 2주, 완료자 34명)대로 고쳤다.
+- **ingest 중 발견한 원고와 원문의 차이**: 18장 Sumithran(v4에 반영). 20장 Zhu 2025의 semaglutide 억제는 "처음에는", bout 수 불변. 25장 Zhu 실험 설계(일반 사료 생쥐, 5일). 24장 "11가지 기준 가운데 8가지"는 필자의 재분류(Song은 DSM-IV 7가지 중 3가지 이상). 20장 원숭이·주스 서술에 Schultz 2016을 추가할 것을 권고. 상세는 프로젝트 루트 `인용 점검 - 2026.10.11/Codex 검토 대조 - 2026.10.11.md` §8.
+- **식락학 Ch 18 v4**: 신체·뇌 카툰 그림(18.1·18.2·18.4·18.5). 18.5.2 신설과 그림 18.6: [[kim-2024-glp-1-increases-preingestive-satiation]], [[cao-2024-hunting-for-heroes-brain]], [[johansen-2025-brain-control-of-energy]]. 약 성분명 영어. → [[overview-sikrakhak-ch18-appetite-hormones]]
+- **Codex 검토 대조**: Codex의 18·20·24·25장 인용·내용 검토 40건을 raw 원문으로 대조했다(타당 20, 부분 타당 15, 동의하지 않음 1, 확인 불가 4). 제안 문장만 작성했고, 사용자 승인 전이어서 원고에는 반영하지 않았다(18장 그림 C31 제외).
+- **위키 정정**: [[perakakis-2021-leptin-in-leanness-and-obesity]]·[[concept-leptin]]의 metreleptin 승인 범위를 Perakakis p. 754대로 고쳤다(미국 = 전신 지방이영양증의 합병증, 유럽 = 부분 지방이영양증까지).
+
 ## 2026-10-11 22:42 — other (식락학 Ch 18 그림 18.3(b)에 GLP-1 추가, v3)
 사용자 지시로 그림 18.3(b)에 GLP-1을 넣었다. Sumithran 2011 원문(raw)에서 GLP-1은 10주째 변화 없음, 62주째 약간 낮음(P = 0.005)이었다. 본문 18.2.4와 캡션도 원문대로 고쳤다(50명, 완료 34명, 초저열량 식사로 평균 13.5 kg 감량, 그렐린↑, PYY·렙틴·CCK·인슐린↓, 배고픔↑, 62주째까지 지속). 파일은 `[18장-…] - 2026.10.11 v3.docx`와 `[18장 합본] - 2026.10.11 v3.docx`이다. 갱신: [[overview-sikrakhak-ch18-appetite-hormones]].
 

@@ -2,7 +2,7 @@
 title: "Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons (Gao et al. 2026, Nature Metabolism)"
 type: paper
 created: 2026-05-31
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2026 Nat. Metab. (Krashes) Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
 source_alias: "raw/2026 Nature Metabolism. Semaglutide drives weight loss through cAMP-dependent mechanisms in GLP1R-expressing hindbrain neurons.pdf"
 authors: [Gao C, Geneve IC, Rodriguez-Gonzalez S, Li C, McElhern K, Reitman ML, Lutas A, Krashes MJ]
@@ -82,3 +82,4 @@ journal: Nature Metabolism
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문의 **Gs 중심성에 대응하는 인간 유전 층**: GWAS(random glucose, n=476,326)에서 **Gs 공역 강도가 GLP-1R 변이 효과크기를 예측**한다. 마우스 AP의 Gs–cAMP 필수성과 인간 변이 효과가 **같은 변수**를 가리킴 (Diabetes 2024 Classics).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 임상에서 semaglutide 72주 −13.7%(최대내약); 본 논문이 규명한 AP Gs–cAMP 축의 임상 대응치 (NEJM 2025, SURMOUNT-5)
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ **NTS 역할 해석의 긴장(병기)**: 본 논문은 'AP에만 Gs를 보존해도 체중감량 회복·NTS Gnas 결손은 체중과 무상관'을 보였고, 저 preprint는 'Adcyap1^NTS 뉴런과 그 ARC/DMH 투사가 세마글루타이드 효과의 relay'라고 주장한다. 두 진술은 **층위가 다르다** — 여기서의 NTS는 **GLP-1R을 받는 세포의 Gs 신호**, 저쪽의 Adcyap1^NTS는 **AP GLP1R 하류의 회로 노드**(수용체 비의존). "NTS가 약물을 직접 감지하지 않아도 중계는 한다"가 현재 가장 단순한 봉합이나 **한 실험 안에서 검증되지 않았다** (bioRxiv preprint 2026).
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 세마글루타이드 작용 시작점(area postrema) 논의 ↔ 본 논문의 하류 쾌락 회로 효과.

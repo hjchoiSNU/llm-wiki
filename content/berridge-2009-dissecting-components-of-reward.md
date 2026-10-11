@@ -2,7 +2,7 @@
 title: "보상의 구성요소 해부: liking, wanting, learning"
 type: paper
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-11
 source: raw/2009 Dissecting components of reward- 'liking', 'wanting', and learning.pdf
 authors: [Berridge KC, Robinson TE, Aldridge JW]
 year: 2009
@@ -32,3 +32,4 @@ year: 2009
 - [[concept-incentive-sensitization]] — 본 논문이 토대를 제공하는 중독의 incentive-sensitization 이론
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 opioid/dopamine 서술의 1차 근거 문헌
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — mesolimbic dopamine의 동기적 기능에 대한 보완·대비 관점
+- [[concept-reward-prediction-error]] — 보상 3성분 중 learning(예측)과 wanting을 도파민 해석 논쟁 안에 배치.

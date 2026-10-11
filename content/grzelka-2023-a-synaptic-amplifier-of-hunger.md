@@ -97,3 +97,4 @@ year: 2023
 - [[concept-hypothalamic-ampk]] "상류 키나아제" 절 — CaMKK2가 AMPK 상류라는 근거와 AgRP 시냅스에서의 STO-609 증거.
 - [[thoeni-2020-depression-of-accumbal-to]] — **같은 시간 규칙, 다른 회로층·다른 분자 관문**(Neuron 2020, Lüscher lab). 거기서는 급성 식이제한·3일 고지방식이 **NAcSh D1-MSN→LH 억제성 시냅스를 depress**시켜 과식을 허가하고, 본 논문처럼 **체중이 회복되면 꺼진다**(AFR 1주 후 i-LTP 소실). 즉 "결핍이 시냅스에 저장되고 체중 회복이 지운다"는 규칙이 **배고픔 입력(PVH^TRH→AgRP 증폭)과 섭식 허가 게이트(NAc→LH depression) 양쪽에서 독립적으로** 관찰된다. 관문은 **NMDAR vs CB1R**로 갈리므로, 두 가소성이 직렬인지(과식 = gain↑ × 중단↓) 그리고 **병용 차단이 가산적인지**가 검증 가능한 질문이다(연결 가설 — 양쪽 원문 모두 다루지 않음).
 - [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.2.3 — 칼로리 결핍 시 PVH TRH→AgRP 흥분성 시냅스 강화가 체중을 되찾을 때까지 지속, 재증가에 필요·충분: 줄어든 체중을 결핍으로 읽는 항상성 기전.
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — "저체중이 유지되는 한 배고픔 시냅스 증폭이 꺼지지 않는다"는 회로 기전 ↔ 본 연구의 "1년 뒤에도 호르몬이 돌아오지 않는다"는 말초 층. 시간 구조가 맞물린다.

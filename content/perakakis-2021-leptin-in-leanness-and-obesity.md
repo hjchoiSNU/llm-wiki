@@ -2,7 +2,7 @@
 title: "Leptin in Leanness and Obesity"
 type: paper
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-10-11
 source: "raw/2021 JACC Leptin in Leanness and Obesity.pdf"
 authors: [Perakakis N, Farr OM, Mantzoros CS]
 year: 2021
@@ -55,7 +55,7 @@ JACC State-of-the-Art Review. Leptin의 인간/동물 생리, 결핍 상태(CLD,
 **Leptin 효과는 혈중 농도와 역비례**. 결핍 상태에서 강력 → 정상 → 비만(고leptin)에서 무력. 일반 비만은 "leptin tolerance / permissive role 한계" 상태.
 
 ### 임상 응용 & 미래
-- **Metreleptin (Myalept)**: CLD/GL에 미국·유럽 승인. PL은 유럽만.
+- **Metreleptin (Myalept)**: 미국 적응증은 선천성·후천성 전신 지방이영양증(GL)에 동반된 당뇨병·고중성지방혈증 같은 합병증, 유럽은 부분 지방이영양증(PL; 12세 이상, 표준 치료 실패)까지 확대(Perakakis p. 754). 같은 쪽에 "FDA가 완전한 렙틴 결핍 상태로만 사용을 제한"이라는 표현도 있다. (2026-10-11 원문 대조로 수정: 이전 "CLD/GL 미국·유럽 승인"은 원문과 다름)
 - 항체 형성: 대부분 non-neutralizing이지만 일부 neutralizing 보고 → 일반 비만 임상 중단의 한 원인.
 - 차세대 전략:
   1. 저leptin 비만 환자 선별 (lncOb 다형성 등)
@@ -78,3 +78,4 @@ CHD/stroke/CVD/NAFLD에서 leptin의 "독립" 위험인자성은 불확실 — �
 - [[concept-npy-agrp-neurons]] — leptin이 억제.
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — leptin/ghrelin 일주기 동조성을 보인 인간 연구.
 - [[overview-appetite-energy-homeostasis]] — 본 리뷰가 다루는 큰 그림.
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — leptin을 "에너지 결핍 경보"로 읽는 틀 ↔ 감량 1년 뒤에도 −35.5%로 남는 인간 수치.

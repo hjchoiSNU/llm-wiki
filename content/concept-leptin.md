@@ -2,7 +2,7 @@
 title: Leptin
 type: concept
 created: 2026-04-29
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -49,7 +49,7 @@ updated: 2026-10-03
 5. **인간에서는 단순히 "결핍 상태에서만 작동하는 허용적 호르몬"**일 뿐 (가장 가능성 높은 해석).
 
 ## 임상 응용
-- **Metreleptin (Myalept)**: CLD, GL (미국/유럽), PL (유럽만) 승인.
+- **Metreleptin (Myalept)**: 미국 적응증은 선천성·후천성 전신 지방이영양증(GL)에 동반된 당뇨병·고중성지방혈증 같은 합병증, 유럽은 부분 지방이영양증(PL; 12세 이상, 표준 치료 실패)까지 확대(Perakakis p. 754). 같은 쪽에 "FDA가 완전한 렙틴 결핍 상태로만 사용을 제한"이라는 표현도 있다. (2026-10-11 원문 대조로 수정: 이전 "CLD/GL 미국·유럽 승인"은 원문과 다름)
 - 항체 형성 (대부분 non-neutralizing). 일반 비만 임상은 항체 문제·무효성으로 중단.
 
 ## Postnatal leptin surge (★ 발달)
@@ -97,3 +97,4 @@ updated: 2026-10-03
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — LH^LepR 뉴런이 **불안을 상쇄해 적응 행동을 가능하게 한다**는 1차 자료(Nat Neurosci 2025, Korotkova lab). LH에서 **LepR 수용체만 제거해도 불안이 증가**하므로(open arm 체류 ↓ P=0.0027) 수용체 신호 자체의 필요성을 보인 드문 증거다. ⚠️ 그러나 치료 모사 실험은 leptin 투여가 아닌 **세포 활성화**이고, ABA 모델은 **저렙틴 상태**인데도 LepR 세포 반응·항불안 효과가 유지된다 — 저자들은 ① 저렙틴에서의 감수성 증가, ② BNST·복측해마·PFC 등 **leptin 비의존 입력**을 설명 후보로 든다. 즉 "leptin = LH^LepR 활성"으로 등치하지 말 것. 임상 쪽으로는 AN 환자 leptin 치료가 과활동·우울 증상을 줄인다는 관찰(Hebebrand 2022)의 회로 설명을 제공한다.
 - [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — ⚠️ **leptin이 LH orexin 뉴런을 직접 억제**한다는 1차 주장(Neuron 2003): 해리 orexin/EGFP 뉴런 7/9가 leptin 10 nM에 과분극(−47.6→−62.1 mV), i.c.v. leptin 2주가 *prepro-orexin* mRNA↓. 단 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]·[[leinninger-2011-leptin-action-via-neurotensin|2011]]은 OX에 LepRb·pSTAT3가 없고 leptin 효과가 LepRb^Nts GABA를 경유하는 **간접**이라고 본다 — 직접/간접은 미해결(병기). 또 이 논문은 *ob/ob*의 OX 저발현이 leptin 결핍보다 **고혈당** 때문일 수 있음을 보인다(혈당 정상화 시 OX 회복).
 - [[de-vrind-2019-effects-of-gaba-and]] — LH^LepR 세포 **전체**를 hM3Dq로 수 시간 켠 인과 사례(Obesity 2019): 바닥 chow 섭취↓(7 h P=5.3×10⁻⁸)·운동↑·눈 온도↑·3일 반복 체중↓, 단 cage-top chow에서는 섭취 효과가 사라진다. ⚠️ 저자들은 leptin이 LHA LepRb의 일부만 탈분극하고 일부는 과분극한다는 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]] 수치(그 논문 인용으로 33% 탈분극·22% 과분극; 이 위키 Leinninger 항목은 34% 탈분극으로 적는다)를 들어 **모든 LepR 동시 활성이 하위집단 효과를 상쇄할 수 있음**을 스스로 한계로 든다 → "leptin 작용 = LepR 세포 활성"으로 등치하지 말 것.
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 공복 leptin −64.5±3.4%(10주) → −35.5±4.7%(62주), 둘 다 P<0.001. 체지방량 보정 후에도 유의, leptin/지방량 비는 62주에 부분 회복. 감량률과 leptin 감소율 r=0.78.

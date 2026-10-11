@@ -45,3 +45,5 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — "음식·약물이 같은 회로"라는 전제의 반례 후보: LH^LepR 억제가 **sucrose CPP는 막지만 cocaine CPP는 못 막는다**. 단 cocaine 운동 감작은 둔화 → 공유되는 축은 조건화가 아니라 감작(가소성) 쪽일 수 있다.
 - [[rangel-2008-a-framework-for-studying-the]] — "중독인가 아닌가" 대신 **어느 가치계가 행동을 쥐는가**로 묻는 계산정신의학의 출발점: 중독·OCD·비만을 가치계 충돌과 통제권 배정의 문제로 정량 분류하자는 제안(Box 5), Redish 2004의 "중독 = 습관 가치계의 질병" 인용 (Nat Rev Neurosci 2008).
 - [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.3–25.5 — 음식 중독을 비만의 병인으로 보고 원인 치료·사회 재설계의 표적으로 삼음.
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 중독 자극 = 항상성 회복과 무관한 욕구를 만들고 포만이 없는 자극(기호품·인터넷·도박); 갈망 = 작업기억을 점령한 wanting.
+- [[song-2024-case-reports-of-binge-eating]] — 섭식장애(AN) 회복기에 드러난 음식 중독 임상 증례(사용자 lab). CBT-E의 '모든 음식 허용' vs 특정 음식 절제, BED 47%·FA 44%(2차 인용).

@@ -150,3 +150,4 @@ year: 2026
 - [[concept-food-addiction]] · [[concept-incentive-sensitization]] · [[concept-cue-reactivity]] · [[concept-hedonic-devaluation]] · [[concept-habit]] · [[concept-compulsion]] · [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-loss-of-control-eating]] · [[concept-primary-reward-signals]] · [[concept-flavor-nutrient-conditioning]] — 본문 개념 hub.
 - [[overview-appetite-energy-homeostasis]] — 상위 spine overview.
 - [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 다음 사용자 챕터(Ch 25 비만의 근본적 치료): 다섯 동인을 원인 치료의 표적으로 확장, 24.3.1·24.3.2·24.5.5를 참조.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 24.5.3의 1차 출처 — "JKACAP 2024·Zhu 2025 위키 등록 여부" 미결 항목에서 Zhu 2025 해소 표기.

@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-10-04
+updated: 2026-10-11
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -262,3 +262,7 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 인과 조작이 **섭취(소비)는 전혀 안 바꾸고 cue 변별 학습·place preference만** 움직임 → Motivation은 소비 집행이 아니라 접근·학습 단계의 변수라는 매핑에 독립 근거. LH^LepR→VTA 억제가 학습 asymptote를 올리는 것은 Utility→Motivation 되먹임 회로 후보(연결 가설).
 - [[concept-habit]] — habit-context(Motivation의 자동화)·devaluation 민감성(Utility→Motivation 재형성)을 회로 근거로 정리한 hub.
 - [[rangel-2008-a-framework-for-studying-the]] — 신경경제학의 5단계 계산(표상·가치평가·행동선택·결과평가·학습)과 NMPU의 대응(위키 해석): 내부 상태 표상 ≈ Need, 가치평가·행동선택 ≈ Motivation, 결과평가 ≈ Pleasure, 학습 ≈ Pleasure·Utility의 교사 기능. Rangel 틀은 결과평가를 즉각/지연으로 나누지 않으므로 **Utility의 분리가 NMPU의 추가분**이고, 반대로 Rangel의 "세 가치계(Pavlovian·습관·목표지향) 간 통제권 배정"은 NMPU의 Motivation 내부를 나누는 축이다 (Nat Rev Neurosci 2008).
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 소비 국면을 Motivation(개시)과 분리된 독립 축으로 다룰 인과 근거.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — Pleasure "Forward(RPE)" 교사 신호의 고전 후보(utility PE). ⚠️ Schultz의 utility = 즉각 보상의 경제학적 효용으로 NMPU Utility(지연)와 다른 개념.
+- [[concept-reward-prediction-error]] — Pleasure "Forward(RPE)" 교사 신호의 후보들(효용 PE vs ANCCR)과 두 개의 'utility' 용어 충돌.
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — Panksepp 탐색 시스템: 욕구가 추구를 켜고 포만(일종의 쾌감)이 끄며, 항상성과 무관한 욕구를 만드는 자극 = 중독. ⚠️ Kang의 'need'와 '포만 = 쾌감'은 NMPU의 Need·Utility와 용어가 다름.

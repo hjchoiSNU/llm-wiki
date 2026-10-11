@@ -128,3 +128,4 @@ doi: 10.1146/annurev-neuro-092920-123905
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 본 페이지의 **NAc ChI D2R–GIRK 억제**가 DA-GLU 유발 ChI **pause** 상의 기전으로 재배치된다(burst=AMPA/SK3). ChI 억제 경향 → 처벌 저항성·행동 전환 실패를 잇는 고리. 개념 [[concept-striatal-cholinergic-interneuron]].
 - [[concept-habit]] — 습관 개념 hub — dorsalization을 습관적 과식 경로 C로 정리하고 학습 시간척도 단서(Gordon 2026)를 병기.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.4.4 — 약물 사용자 중 강박적 사용으로 진행하는 비율 20–30%.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 약물 도파민의 '비정상 교사 신호'를 성분 수준(초기 성분 연장)으로 쓴 대안 서술; 혐오성 DA 활성의 원인을 물리적 충격으로 봄.

@@ -2,7 +2,7 @@
 title: "Alexxai V. Kravitz (알렉사이 크라비츠)"
 type: person
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-10-11
 aliases: [Alexxai Kravitz, Alexxai V. Kravitz, Kravitz, 크라비츠]
 ---
 
@@ -26,3 +26,4 @@ aliases: [Alexxai Kravitz, Alexxai V. Kravitz, Kravitz, 크라비츠]
 - [[concept-nucleus-accumbens]] — D1/D2 MSN 상류.
 - [[concept-dopamine-reward-system]] — VP^GABA→VTA 탈억제.
 - [[concept-need-motivation-pleasure-utility]] — Pleasure 축.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — Kravitz 2012(D1/D2 MSN 자극 → 선호/비선호 학습)를 도파민 교사 효과의 근거로 인용.

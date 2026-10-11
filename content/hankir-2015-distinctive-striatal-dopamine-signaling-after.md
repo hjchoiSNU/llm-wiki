@@ -2,7 +2,7 @@
 title: Distinctive striatal dopamine signaling after dieting and gastric bypass
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-11
 source: raw/2015 TEM Distinctive striatal dopamine signaling after dieting and gastric bypass.pdf
 authors: [Hankir MK, Ashrafian H, Hesse S, Horstmann A, Fenske WK]
 year: 2015
@@ -31,3 +31,4 @@ year: 2015
 - [[concept-food-addiction]] — 중변연계 도파민 과활성 기반 헤도닉 과식·요요.
 - [[concept-need-motivation-pleasure-utility]] — Motivation(wanting)·Pleasure를 도파민 경로로 매핑.
 - [[aronne-2023-continued-treatment-with-tirzepatide-for]] — 약물 중단 후 rebound(다이어트형 요요와 대비).
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 다이어트 뒤 ghrelin↑가 중변연계 도파민 tone을 올려 요요를 부른다는 가설의 말초 입력 수치.

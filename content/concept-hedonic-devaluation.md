@@ -78,3 +78,5 @@ aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward de
 - [[rossi-2019-obesity-remodels-activity-and]] — LHA^Vglut2 "brake"의 HFD 둔화 원전(Science 2019, Stuber lab). ⚠️ 둔화 = brake 약화 → 섭식↑로, 쾌락가치 저하(섭식↓)와는 부호가 반대인 "blunting"이다(관찰 근거 절 병기).
 - [[concept-habit]] — "좋아지지 않는데 왜 계속 먹나"의 1번 설명(습관)을 회로·측정 수준으로 확장한 hub; 같은 동물에서 두 축을 함께 재는 제안.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.8.2 — 보상 결핍 vs 유인-감작 논쟁에서 쾌락 가치 저하를 함께 고려하도록 제24장 24.3.2로 연결.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 대조 축 — 만성 HFD는 쾌락 가치를 낮추고, 본 논문은 급성 기호성 scaling을 다룬다(시간척도 구분).
+- [[song-2024-case-reports-of-binge-eating]] — 사람 증례: 단 음식이 "달지 않다"는 내성 호소와 섭취 증가의 공존(쾌락 가치 저하로 읽을 수 있는지는 미검증).

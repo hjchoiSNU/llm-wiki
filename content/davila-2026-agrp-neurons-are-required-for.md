@@ -2,7 +2,7 @@
 title: "AgRP neurons are required for the weight-lowering effects of GLP-1 receptor agonists in female mice (d'Ávila et al. 2026, PNAS)"
 type: paper
 created: 2026-08-19
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2026 PNAS Agrp-neurons-are-required-for-the-weight-lowering-effects-of-glp-1-receptor-agonists-in-female-mice.pdf"
 authors: [d'Ávila M, Cavalcanti-de-Albuquerque JP, Collado-Pérez R, Liu ZW, Hunter J, White A, Schlessinger J, D'Agostino G, Horvath TL]
 year: 2026
@@ -86,3 +86,4 @@ journal: PNAS
 - [[concept-weight-regain-defended-adiposity]] — 본 논문의 `AgRP-Sirt1` KO 암컷 rebound 관찰을 포함한 체중 재증가 개념 hub.
 - [[concept-agrp-synaptic-plasticity]] — AgRP 신호 gain의 시냅스 층.
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ **AgRP 방향성 정면 긴장(병기)**: 저 preprint는 세마글루타이드가 ghrelin·단식 유발 AgRP 활성을 **억제**하고, AgRP^Gq 활성화가 약물의 섭취 감소를 **완전 역전**시킨다고 보고(수컷 DIO, 8일). 본 논문은 AgRP가 **모집·필수**(암컷, 지방 동원 실행). 성별·투여기간·판독(급성 c-Fos vs 만성 대사 실행)이 모두 달라 **배타적 모순이라기보다 다른 시간척도의 진술**일 수 있다 — 저 preprint 저자들도 본 논문을 인용해 '맥락 의존'으로 유보한다 (bioRxiv preprint 2026).
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량·재증가 양쪽의 관문인 AgRP — 본 연구의 말초 신호가 수렴하는 중추 표적.

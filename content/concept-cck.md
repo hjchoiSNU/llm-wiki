@@ -2,7 +2,7 @@
 title: Cholecystokinin (CCK)
 type: concept
 created: 2026-04-29
-updated: 2026-09-19
+updated: 2026-10-11
 aliases: [CCK, cholecystokinin]
 ---
 
@@ -100,3 +100,4 @@ aliases: [CCK, cholecystokinin]
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — Cck EEC(I/N/L)가 미주·CCKAR로 풍미 선호 구동.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — CCK 포만이 CGRP^PBel 활성화를 요구.
 - [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지질 감지 → CCK(가장 먼저, ~5–10분) → GLP-1·PYY·GIP → 지연 GDF15의 **시간 계층**과 CCK1R·PKCδ 혈당 축 종합 (Nat Rev Endocrinol 2026).
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 CCK 감소가 62주까지 지속(10주 P<0.001, 62주 P=0.04; 두 시점 간 차이 없음).

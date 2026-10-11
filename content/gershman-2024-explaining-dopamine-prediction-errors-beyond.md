@@ -2,7 +2,7 @@
 title: "Explaining dopamine through prediction errors and beyond"
 type: paper
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2024 Nature Neuroscience Explaining dopamine through prediction errors and beyond.pdf"
 authors: [Gershman SJ, Assad JA, Datta SR, Linderman SW, Sabatini BL, Uchida N, Wilbrecht L]
 year: 2024
@@ -186,3 +186,6 @@ Cortex (state, world model)
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 5 maladaptive types.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — 본 페이지가 다루는 두 항목의 실측 확장: **wave-like DA**(Hamid 2021)가 소비 행동에서도 나타나며(**후→전** 전파), **tail of striatum = labeled-line**이라는 서술이 소비 맥락에서도 유지된다(TS는 가치·licking scaling이 약하고 다른 아구역과 상관이 낮으며 LHA 조작에 반대 방향으로 반응) (Neuron 2026, Stuber lab).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 본 페이지가 일반화 RPE **밖** 현상으로 인정한 항목(잠재억제·alerting salience)에 **세포형·아구역 정체**를 부여: DA-GLU→NAc medial shell 채널, Shell=현저·경보 / Core=예측오차(Saddoris 2015).
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 일반화 RPE 이전 단계의 특정화(utility PE)이자, 현저성·혐오 반응을 RPE의 초기 성분으로 흡수하려는 시도.
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — "Perceived saliency (Kutlu 2021)" 절의 출처급 요약(강도·새로움 → 주의 가치). 이 dispatch에는 omission·latent inhibition 서술이 없다.
+- [[concept-reward-prediction-error]] — 일반화 RPE가 흡수하지 못한 perceived saliency·ANCCR를 같은 판별표에 정리.

@@ -2,7 +2,7 @@
 title: "미각 valence-identity 부호화 (taste valence/identity coding)"
 type: concept
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-11
 aliases: [taste valence, taste identity, bitter taste, sweet taste, labeled-line taste, gustatory cortex amygdala]
 ---
 
@@ -31,3 +31,4 @@ aliases: [taste valence, taste identity, bitter taste, sweet taste, labeled-line
 - [[overview-cea-glp1r-food-safety-alarm]] — 쓴맛 즉시 거부 관문의 통합 framework.
 - [[concept-liking-wanting]] — valence=liking 축.
 - [[person-zuker-charles]] — labeled-line 미각 coding 표준 수립.
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — quinine(음성)·sucrose(양성)의 양 모두에서 NAc core 도파민 증가 → valence가 아닌 강도 부호화 사례(dispatch 요약).

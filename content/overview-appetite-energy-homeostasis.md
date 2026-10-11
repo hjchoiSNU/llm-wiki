@@ -2,7 +2,7 @@
 title: Appetite & energy homeostasis — synthesis
 type: overview
 created: 2026-04-29
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -210,3 +210,6 @@ updated: 2026-10-03
 - 인물: [[person-sternson-scott]] · [[person-fenselau-henning]]
 
 > **핵심 lesson 7**: 항상성 회로는 반드시 set point 비교기가 아니다. 배고픔은 **래치된 상태**일 수 있고, 그렇다면 치료 질문은 "설정점을 어떻게 낮추는가"가 아니라 **"무엇이 이 상태를 reset하는가"** 가 된다.
+
+## 관련 페이지
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 호르몬 적응의 지속이라는 임상 사실을 큰 그림에 연결.

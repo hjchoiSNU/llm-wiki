@@ -2,7 +2,7 @@
 title: "Accumbal D1R neurons projecting to lateral hypothalamus authorize feeding (O'Connor et al. 2015, Neuron)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2015 Neuron. Accumbal D1R Neurons Projecting to Lateral Hypothalamus Authorize Feeding.pdf"
 authors: [Eoin C. O'Connor, Yves Kremer, Sandrine Lefort, Masaya Harada, Vincent Pascoli, Clément Rohner, Christian Lüscher]
 year: 2015
@@ -123,3 +123,4 @@ NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며
 - [[harris-2005-a-role-for-lateral]] — ⚠️ 본 논문이 **비표적으로 배제한 orexin 뉴런이 독립적으로 cue 유발 추구·재발을 구동한다**는 원전(Nature 2005, Aston-Jones lab): LH orexin Fos가 morphine·cocaine·food CPP 선호와 **R=0.72–0.90** 비례하고, LH 국소 Y4 작용제(rPP)·**VTA orexin A 주입**이 소거된 장소선호를 복원하며 **OX1R 길항제가 차단**한다. 본 논문의 결과(biocytin 충전 62개 중 연결 29개에서 **MCH⁺·orexin⁺ 0개**)와 합치면 **두 배선의 역할 분리 가설**이 선다 — **NAcSh D1R→LH^Vgat = 섭취의 순간 단위 허가/중단**, **LH orexin→VTA = 학습된 cue에 의한 추구 개시·재발**. ⚠️ 이는 [[meye-2014-feelings-about-food-the|Meye & Adan 2014]]가 적은 "NAc 오피오이드→LH orexin→VTA가 고지방 섭식에 필수"라는 경로와 긴장하므로, 'NAc→orexin'은 **직접 시냅스가 아닌 다중시냅스 경로**로 한정 인용해야 한다(병기).
 - [[liu-2023-an-iterative-neural-processing]] — 같은 LH^GABA(GAD2)를 자유행동에서 **섭식 조각 개시 노드**로 그린 연구(Neuron 2023, Wang lab). ⚠️ 본 논문의 "NAc D1R→LH^Vgat = 허가·종료 게이트"와 측정 축이 다르다(개시 vs 종료). 그쪽 Liu도 NAc D1R→LH^GABA를 개시 억제 상류 후보로 인용(병기).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — NAcSh D1R-MSN→LH^Vgat 억제가 섭취를 멈추는 하류 게이트. Siemian 2021의 "LH^LepR subset은 섭취 비구동·appetitive 학습 전담"은 그 순간 단위 섭취 게이트의 표적이 LepR 부분집합은 아닐 가능성을 시사(연결 가설).
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — Zhu가 하류 기전으로 인용(NAc → LH^GABA 탈억제 → 소비 운동 유지).

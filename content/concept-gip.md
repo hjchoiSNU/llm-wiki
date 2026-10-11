@@ -2,7 +2,7 @@
 title: GIP / GIPR (포도당 의존성 인슐린분비 자극 폴리펩타이드)
 type: concept
 created: 2026-07-05
-updated: 2026-10-03
+updated: 2026-10-11
 aliases: [GIP, GIPR, glucose-dependent insulinotropic polypeptide, gastric inhibitory polypeptide, GIP receptor]
 ---
 
@@ -60,3 +60,4 @@ GLP-1R 작용과 결합할 때, GIPR을 **작용(agonism)**시키든 **길항(an
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — `GIPR` 미스센스 **p.Glu354Gln**(부분 기능상실)이 **tirzepatide 한정** 구토 위험 1.83배, **효능에는 무영향**. "GIPR 작용이 GLP-1 유발 혐오를 완충한다"는 전임상 가설의 인간 유전 근거 (Nature 2026).
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — tirzepatide 역설에 거는 **수용체 수준 설명 두 가지**: (1) 약리 스크린에서 tirzepatide는 **β-arrestin 동원이 감소**하고 **GLP-1R보다 GIPR 쪽으로 기운 불균형(imbalanced)** 작용제(Willard 2020); (2) cryo-EM에서 **tirzepatide 결합 GLP-1R은 GLP-1 결합형과 거의 구분 불가**한 반면 **tirzepatide 결합 GIPR은 GIP 결합형과 ECL1 형태가 다르다**(Zhao 2022) (Diabetes 2024 Classics).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — ★ **GIPR agonism 쪽 임상 상한선**: 이중작용 tirzepatide가 선택적 GLP-1RA semaglutide보다 −6.5%p 우월(72주, head-to-head). 역설을 해소하지는 않고 한쪽 팔의 수치를 고정 (NEJM 2025, SURMOUNT-5)
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 **오히려 증가**하는 축(식후 60분 이내 분비↑; 10주 P=0.004, 62주 P<0.001). 저자는 GIP를 "에너지 저장 촉진" 쪽으로 해석.

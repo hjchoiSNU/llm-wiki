@@ -2,7 +2,7 @@
 title: "‘좋아함(liking)’과 ‘갈망(wanting)’ — 보상의 이중 해리"
 type: concept
 created: 2026-06-20
-updated: 2026-10-04
+updated: 2026-10-11
 aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, 쾌락적 충격]
 ---
 
@@ -77,3 +77,8 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — Wyvell & Berridge 2000이 **NAc shell 도파민 = 사건의 현저성** 해석의 근거로 인용되는 지점. 단 본 논문의 shell 도파민은 hedonic 가치가 아니라 **유관성 변화·경보 신호**로 읽힌다.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — 선조체 DA=wanting(bout 수) 강화, liking(bout 길이)은 분리. DA 자극이 섭취 개시만 늘리고 진행 중 섭취는 못 바꿈(분산 동시 방출만 변화) — Berridge식 wanting/liking 해리의 선조체 전역 버전 (Neuron 2026, Stuber lab).
 - [[rangel-2008-a-framework-for-studying-the]] — 'liking'을 **결과평가(outcome evaluation)** 단계의 신호로 배치한 신경경제학 틀: NAc·배쪽 창백의 오피오이드 작용제가 liking 표현을 늘리고 그 뒤 짝지어진 보상의 섭취를 늘린다는 자료를, 결과평가 신호가 학습에 쓰인다는 근거로 인용. 뇌가 **선택 시점 가치와 경험 시점 가치를 따로 부호화**해야 한다는 예측은 wanting/liking 해리와 같은 방향(대응은 위키 해석) (Nat Rev Neurosci 2008).
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — bout 길이(liking 지표)를 도파민이 양방향으로 움직인다 — Berridge "DA는 liking에 불필요"와의 층위 차이(주관적 쾌락 vs 소비 운동 출력) 병기.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — '학습' 성분(도파민 RPE)의 정리; 유인 현저성과 PE는 비교가 어렵고 상호배타적이지 않을 수 있다는 RPE 진영의 평가.
+- [[concept-reward-prediction-error]] — '학습' 성분의 도파민 RPE와 '원함'(유인 현저성)의 관계, 위키 원전 속 '현저성'의 여러 뜻.
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 노력 선택 실험(설탕 vs 사료, D2 차단)과 조현병 음성 증상(liking 정상·wanting 감소)으로 '도파민 = wanting'을 정신의학으로 옮긴 종설.
+- [[song-2024-case-reports-of-binge-eating]] — 증례 2의 "달지 않은데 더 원함"(원문 코딩: Tolerance)은 좋아함 저하·원함 증폭 해리의 임상 후보(위키 해석).

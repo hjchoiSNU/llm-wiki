@@ -2,7 +2,7 @@
 title: "Closing in on what motivates motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2019 Nature. Closing in on what motivates motivation.pdf"
 authors: [Rice ME]
 year: 2019
@@ -73,3 +73,4 @@ note: "Commentary on [[mohebi-2019-dissociable-dopamine-dynamics-learning-motiva
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — 현재 논쟁.
 - [[concept-dopamine-reward-system]] — DA 회로.
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ANCCR 원전: NAcc **방출**만 측정(firing–release 해리는 다루지 않음); 회고적 정보 공급원으로 OFC→VTA 제시 — 위 표의 "국소 조절로 통합" 서술은 위키 측 추론.
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — 같은 해리에 대한 다른 해석(미지의 아집단 vs 국소 조절); 체세포–말단 비선형성을 Kutlu 결과 해석의 단서로 강조.

@@ -2,7 +2,7 @@
 title: "GLP-1RA liraglutide는 비만 환자의 food-related sensory pleasure를 바꾸는가? (RCT)"
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-11
 source: raw/2022 Does GLP-1 receptor agonist liraglutide alter foodrelated sensory pleasure in patients with obesity A randomized controlled trial.pdf
 authors: [Coppin G et al.]
 year: 2022
@@ -31,3 +31,4 @@ year: 2022
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 동일 계열 인간 GLP-1RA fMRI(cue/wanting 단계); 본 연구는 소비/liking 단계 대비.
 - [[concept-taste-valence-coding]] — pleasantness의 신경상관(vmPFC·편도)이 미각 valence hub와 연결.
 - [[concept-central-amygdala-glp1r]] — 편도가 sensory pleasure 상관 영역 + CeA^Glp1r hedonic 역할 대비.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 사람에서 GLP-1RA가 liking을 바꾸지 않았다는 null과 같은 방향 — Zhu도 원문에서 "사람에서 단 음식 섭취·기호성은 유의 변화 없음(ref 81, 84)"을 인용.

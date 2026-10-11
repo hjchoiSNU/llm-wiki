@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -80,3 +80,6 @@ updated: 2026-10-03
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 'VTA 도파민 입력'을 두 채널로 분해: **DA-GLU→medial shell 전용 / DA-only→lateral shell·core**(dorsal medial shell 회피). medial shell 국소회로(SPN·FSI·ChI)의 첫 기능 연결지도이며, 이후 '**NAc shell** 도파민'이라 쓸 때 medial/lateral 한정어가 필요해짐 (Neurochem Int 2019).
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — ★ 위 "NAc shell→LH는 hedonic eating 회로(Kelley·O'Connor 등)" 서술의 **1차 원전**(Neuron 2015, Lüscher lab). LH로 가는 medial shell 투사는 **D1R-MSN이 93.6%**(CTB⁺ 1,246개 중 1,173개; D2R 5.2%)이고 D1R-MSN은 **섭취 중 발화가 떨어지고 종료와 함께 오른다**. 말단 광자극은 24 h 금식에도 섭취를 끊고, 광억제는 포만 상태에서 섭취를 늘린다 = **"feeding authorization" 게이트**. ⚠️ 같은 LH 표적을 가진 **BNST에서는 D1R 비율이 15–23%로 뒤집히며**(부호도 반대: BNST→LH는 섭식 촉진), 원문이 인용한 Kupchik 2015에 따라 이 93.6%는 **direct pathway 소속의 증거가 아니다**.
 - [[thoeni-2020-depression-of-accumbal-to]] — 위 게이트의 **출력 특이 가소성**(Neuron 2020, Lüscher lab). ⑴ **표적별 투사군 분리**: 이중 CTB 역추적에서 LH 투사 MSN은 VP 투사와 **3.6% ± 1.0%**, VTA 투사와 **11.1% ± 1.2%** 만 겹친다(세포체는 섞여 있음). D1 비율은 **VP 투사 45.6% ± 6.9% vs LH 투사 81.3% ± 4.3%**, **VTA 투사 96.6% ± 2.0% vs LH 투사 76.5% ± 4.3%** — 표적이 NAcSh에서 멀어질수록 D2 기여가 줄고 D1이 지배. ⑵ **표적별 가소성 규칙 차이**: 같은 동물에서 forskolin이 D1-MSN→**VP** 억제성 i-LTP는 만드는데 D1-MSN→**LH**에서는 못 만든다. 단 급성 식이제한·3일 고지방식 뒤에는 LH 쪽에서도 드러난다 = 그 상태에서 **eCB–CB1R 의존 i-LTD**로 눌려 있었다는 뜻. → 즉 "NAc D1-MSN"은 **가소성 수준에서 단일 집단이 아니다**. ⚠️ 원문 Fig 2D는 LH·VP 투사 세포 **비율 수치가 본문과 범례에서 서로 반대로** 적혀 있어, 중복 비율과 D1 비율만 인용하는 것이 안전하다.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — GRAB-DA2m으로 잰 NAc 도파민이 bout 길이와 선형 비례(일정 기호성 100% E 기울기 1.17 vs 20% E 0.36, n=9); periLC 자극으로 하락.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 혐오 자극: shell의 지연된 자극 후 방출(relief·회피 성공 예측) vs core의 즉각적 변화; risky cue에 core 차별적·shell 비차별적.
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — NAc core 도파민 = 지각된 현저성(Kutlu 2021, dispatch 요약); core·shell이 반대 기능/방출 타이밍을 가질 수 있다는 단서.

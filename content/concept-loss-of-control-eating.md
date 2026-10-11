@@ -2,7 +2,7 @@
 title: 통제 상실 섭식 / 폭식장애 (Loss-of-Control Eating, BED)
 type: concept
 created: 2026-06-01
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -54,3 +54,4 @@ updated: 2026-10-04
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — 충동(LOC)–강박(OCD) transdiagnostic 축의 강박편(amOFC gamma).
 - [[concept-habit]] — LOC를 습관·충동·강박 중 어느 기전으로 볼지 가르는 개념 hub(devaluation 기준).
 - [[rangel-2008-a-framework-for-studying-the]] — LOC의 계산적 번역 후보: 세 가치계(Pavlovian·습관·목표지향)가 충돌할 때 **적절한 계에 통제권을 주지 못하는 것**. "배부른데 한 입 더"는 Pavlovian ↔ 목표지향 충돌의 예 (Nat Rev Neurosci 2008).
+- [[song-2024-case-reports-of-binge-eating]] — AN 회복기 폭식의 두 양상: 체중 공포·통제 중심(증례 1) vs 단맛 갈망·내성·통제 상실 중심(증례 2).

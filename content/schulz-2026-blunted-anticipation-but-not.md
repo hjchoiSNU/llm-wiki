@@ -41,3 +41,4 @@ MDD 환자 52명 + 건강대조 51명에서, 음식의 **소비적 즐거움(lik
 - [[neuser-2020-vagus-nerve-stimulation-boosts]] — Kroemer 그룹 taVNS invigoration/wanting↑.
 - [[person-kroemer-nils]] — 교신저자. gut-brain×reward×depression 라인.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.8.4 — 우울증에서 기대 단계 원함은 낮고 좋아함은 보존된다는 근거(제17장과 공유).
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 같은 구도(예기 wanting 저하·소비 liking 보존)를 조현병 음성 증상에서 제시한 국문 종설(2011).

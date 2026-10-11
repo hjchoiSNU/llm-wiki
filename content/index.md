@@ -184,6 +184,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — **PVH TRH/PACAP → ARC^AgRP** 흥분성 회로가 섭식 구동("PVH=satiety" 통설 반전); AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로; Walker 2026 PVH^Sim2의 모태 (Nature 2014, Lowell lab). · 🔑 TRH^PVH, PACAP^PVH, CRACM, DMH, POMC
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP가 aBNST·PVH·LHA·PVT로 **축 담보 거의 없이 부분군별 독립 투사**, 각 투사(aBNST·PVH·LHA)가 섭식-충분(one-to-all 기각); 병렬·중복 배선 = 생존행동의 redundancy (Cell 2013, Sternson lab). · 🔑 PBN, PAG, CEA
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 세마글루타이드 반응 **NTS Adcyap1⁺→ARC / →DMH** 분업: 공통으로 단식 재급식·초콜릿 폭식만 **비혐오적**(CTA 없음) 억제·AgRP Fos↓; **→ARC = 섭취 무관 ketone↑·체중↓**, **→DMH = EE↓**; 반응 Adcyap1^NTS 절반이 `Slc32a1`⁺ (bioRxiv **preprint** 2026, Engström Ruud lab). · 🔑 RER, GLP1R, TRAP2, DVC, Adcyap1^AP, GLP-1RA
+- ★ [[zhu-2025-hedonic-eating-is-controlled-by]] — **periLC^VGLUT2→VTA^VGAT⊣VTA^DA⊸NAc DA** 회로가 기호성에 비례해 **소비 bout 길이**를 연장(폐루프 조작에서만 유효, bout 수는 불변); 세마글루타이드가 1일째 누른 VTA DA 소비 반응이 **증량·감량 중 회복**되고 폐루프 광억제로 되돌려짐 → GLP-1R 포만에 맞서는 쾌락 축 (Science 2025, Sternson lab). · 🔑 periLC, GRAB-DA, bout duration, hedonic eating, GLP-1R
 
 ### 외측 시상하부 (LH) 문헌 클러스터 (2026-10 일괄 수집)
 
@@ -274,6 +275,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 ### 호르몬
 - [[cummings-2001-preprandial-rise-in-plasma-ghrelin]] — Ghrelin 식전 surge 인간 입증 (Diabetes 2001). · 🔑 NPY
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — Leptin 종합 (JACC 2021). · 🔑 CLD, BBB
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 10주 프로그램(VLCD 8주)으로 완료자 34명이 −13.5 kg 감량한 뒤 ghrelin·GIP·PP↑, leptin·PYY·CCK·insulin·amylin↓, 배고픔↑이 **62주(감량 1년 뒤)까지 지속**(PYY는 10주보다 더 낮음); **GLP-1만 예외**(10주 무변화·62주 약간 낮음 P=0.005). 요요의 생리적 기반 1차 근거 (NEJM 2011, n=50 등록/34 완료). · 🔑 VLCD, 요요, weight regain, VAS, 췌장폴리펩타이드
 
 ### 임상·DTx
 - ★ [[concept-weight-regain-defended-adiposity]] — **체중 재증가·유지 실패 hub**: 임상 수치(SURMOUNT-4 +14%, 세마글루타이드 중단 12주 71%) × 회로 기전(PVH^TRH→AgRP 증폭기·NMDAR, ghrelin/leptin 래치) × 약물개발 전략(leptin 재감작·LEAP2·부위특이 NMDA 길항) 3층 통합. · 🔑 rebound, 요요, weight maintenance, 유지생물학, PVH^Sim2, CB1R
@@ -281,6 +283,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 경구 MC3R/MC4R dual agonist 710GO: 비만 macaque 15주 11.8% 감량·지방 선택적·제지방 보존·무오심·심혈관 안전·semaglutide 시너지; MC3R=rheostat/MC4R=driver division of labor (Nat Commun 2026, Endevica Bio). · 🔑 NHP, MSH, GLP-1
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 lixisenatide fMRI: lean vs obese T2DM의 visual food cue 뇌활성을 GLP-1RA가 차별적 조절; 비만 cue 과반응 영상 근거 (DMJ 2019, 사용자 lab). · 🔑 OFC, CSF
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — ★ 2026 차세대 비만·대사 약물 임상 5건(GLP-1/glucagon dual·경구 소분자 GLP-1RA·amylin+GLP-1 복합) 기전별 hub. · 🔑 CALCR, POMC
+- [[song-2024-case-reports-of-binge-eating]] — 제한형 신경성 식욕부진증 청소년 2명의 회복기 폭식: 음식 중독 없음(체중 공포·통제 행동, 약 2개월 뒤 감소) vs 음식 중독 동반(단맛 갈망·내성·금단 유사, 단 음식 절제 개입·naltrexone) → 섭식장애 치료에 음식 중독 평가(YFAS·FCQ) 제안 (JKACAP 2024, 사용자 lab 교신; 식락학 Ch 24 증례). · 🔑 CBT-E, YFAS, anorexia nervosa, BMI, HP food, naltrexone
 
 #### GLP-1/GIP incretin — 기전·약물 배치 (2021–2025)
 개념 hub: [[concept-glp-1]] · [[concept-gip]] · [[concept-incretin-effect]]. 종합: [[overview-next-gen-incretin-obesity-drugs-2026]].
@@ -552,6 +555,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석과 연구 제안. 습관 상태의 DLS 기록은 위키에 없고 습관 전환의 인과 자료는 DMS에 있음을 정리. 과식을 bout 수 × bout 크기로 나눈 세 가설, miniscope 중심 제안 8개와 설계 점검표. 연구계획서 [[proposal-habitual-overeating-dls-miniscope]]. · 🔑 DLS, DMS, habitual overeating, miniscope, bout structure, outcome devaluation
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지 · 🔑 T2D
 - [[concept-goal-commitment]] — 목표 몰입·포기 hub: 정의·측정(선택 전/후·frustration>temptation)·세 적응 기능·Rubicon/HRL/감시-임계값 알고리즘·failure mode(ADHD·불안·apathy·우울)·강박/restraint/NMPU 이식 (Holton 2026).
+- [[concept-reward-prediction-error]] — **보상 예측 오류와 도파민 신호 해석 hub**: RPE(Schultz 2016 두 성분·효용 예측 오류) vs 현저성(위키 원전 속 6가지 뜻: physical·novelty·surprise·motivational·incentive·perceived) vs 회고적 인과 학습(ANCCR) vs 유인 현저성 vs 가치·활력·노력; 조건별 판별표(valence 대조·반복 무예측 보상·직전 IRI·소거·상태 급변)·측정 수준(체세포/말단, core/shell, 시간창)·식사 단계(Zhu 2025)·NMPU의 두 'utility' · 🔑 RPE, reward prediction error, utility prediction error, two-component, salience, perceived saliency, KCS, ANCCR, TDRL
 - [[concept-anccr]] — 회고적 인과 학습(ANCCR) hub: 용어(eligibility trace·PRC/SRC·net contingency·meaningful causal target)·TDRL RPE 대조표·위키 내 지지/도전 페이지 지도 · 🔑 anchor, retrospective causal learning, predecessor representation, MCT, IRI, CS2
 - [[concept-metabolic-interoception]] — 대사신호(glucose·insulin)→보상학습·동기·기분(energy allostasis·metabolic-mood); 중추 인슐린→선조체 도파민 · 🔑 T2D
 
@@ -655,6 +659,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa). · 🔑 D1R-SPN, D2R, A12, D1R, D1R^Serpinb2, PeVN
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — 중독=쾌락(양성강화) 아닌 **hyperkatifeia 제거(음성강화)**; 확장 편도체(CeA/BNST)·CRF·dynorphin·glucocorticoid; ghrelin·GLP-1 gut-brain 조절 (Neuron 2026, Koob). 개념 hub [[concept-negative-reinforcement-hyperkatifeia]]. 정서적 폭식·food addiction 이식. · 🔑 RMTg
 - [[luscher-2021-consolidating-the-circuit-model-for]] — ★ **중독 3대 프레임의 접합부**: 유인-감작(Berridge)과 음성강화(Koob)를 경쟁 이론이 아닌 **합산 항**으로 두고 **양성강화(D1-MSN) + 음성강화(D2-MSN) → dorsalization → [[concept-compulsion|compulsion]]** 서열로 통합. 중독은 신경퇴행이 아닌 **gain-of-function** → 표적은 시냅스 **depotentiation**. 음성강화 회로 좌표(LHb→RMTg→VTA·BLA CCK⁺/PVT→D2-MSN·D2-MSN→VP=anhedonia) 명시. 유전 동질 개체의 **양봉분포**로 "왜 소수만 망가지는가"를 이론 중심에 놓음 (Annu Rev Neurosci 2021, Lüscher & Janak). 개념 [[concept-drug-evoked-synaptic-plasticity]] · [[concept-lateral-habenula]] · 인물 [[person-luscher-christian]]. · 🔑 DST, OFC, D2R-MSN, oDASS, D1R-MSN, DBS
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 국문 종설: 도파민 = 쾌감(hedonia)이 아니라 **salience + 노력해서 추구하려는 의지**. volume transmission·tonic/phasic·D2H 모델, 노력 선택 실험 도식(그림 4), 작업기억 뒤집힌 U, Panksepp 탐색 시스템·포만·중독 자극, 정신증 = 도파민계 민감화, 항정신병 약물 = 병적 salience 감소 (JKNA 2011, 강웅구; 식락학 Ch 20 20.5 원천). · 🔑 salience, VT(volume transmission), D2H, Koff, SGA, seeking system
 
 #### 보상·food-addiction·정서적 섭식 (2014–2023 배치)
 개념 hub: [[concept-emotional-eating]] · [[concept-food-addiction]] · [[concept-liking-wanting]].
@@ -671,6 +676,11 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — 비도파민 신경조절: eCB retrograde gain control
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — ★ 보상 추구 **'관여(engagement)'의 지속**을 도파민이 아닌 **2-AG**가 매개. NAc D2R-Penk MSN이 활동 의존적으로 2-AG 생산 → 역행성 **CB1R**로 [[concept-paraventricular-thalamus|aPVT]]^NTS 말단 글루타메이트 입력을 실시간 억제(gain control). *Cnr1* 결손은 **총 섭취량 불변, licking 시간 구조만 변화** → 포만(Need)과 추구 지속(Motivation) 해리. GRAB_eCB 바이오센서·SLEAP closed-loop·GRIN 이미징 (Nature 2026, Bruchas lab). 개념 [[concept-endocannabinoid-system]]. _(섭식 맥락은 🍽️와도)_ · 🔑 aPVT^NTS, NAc^Penk, DO34, pPVT, D1R
+
+### 진영 — 고전 RPE와 현저성 (RPE · salience)
+개념 hub: [[concept-reward-prediction-error]].
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — ★ **고전 RPE 진영의 정밀화(Opinion)**: phasic 도파민 RPE = 비선택적 **감지(현저성) 성분**(강도·보상 맥락·일반화·새로움) → 주관적 가치·**경제학적 효용** 주성분("utility prediction error"); 혐오 활성은 혐오성이 아닌 **물리적 충격**, 현저성은 초기 성분일 뿐; Box 1 빠름·느림·긴장성 시간척도, Box 2 코카인의 초기 성분 연장(추측) (Nat Rev Neurosci 2016, Schultz). 식락학 Ch 20 20.5.1·20.5.3 출처. · 🔑 utility prediction error, two-component, physical salience, Pearce–Hall, income utility, NAc core/shell
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — Kutlu 등(2021)의 **NAc core 도파민 = 지각된 현저성(perceived saliency)** 결과를 소개한 **Dispatch(2차)**: sucrose 학습에선 RPE형(예상 밖 보상↑·cue로 이동), footshock 회피 학습에선 충격 반응이 학습 뒤에도 남고 cue로 옮겨 가지 않음, 크기는 valence 무관 자극 강도(충격 세기·quinine/sucrose 양) 추적 → Kutlu–Calipari–Schmajuk(KCS) 모형; 체세포–말단 비선형성·core/shell 이질성 단서 (Curr Biol 2021, Bruchas lab). 식락학 Ch 20 20.5.1·그림 20.5b 출처. · 🔑 KCS model, perceived saliency, footshock, quinine, NAc core, Kutlu 2021, Calipari
 
 ### 진영 — 회고적 인과 학습 (ANCCR)
 개념 hub: [[concept-anccr]].

@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-10-04
+updated: 2026-10-11
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -206,3 +206,8 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR→VTA를 RPE·기대보상 틀의 교사 신호로 둔 인과 증거: 경로 억제(ArchT)가 Pavlovian 변별 학습을 강화하고 활성(ChR2)이 지운다(extinction까지 지속). VTA 비도파민 뉴런 경유의 간접 scaling 해석(Sharpe 2017 relay를 마우스 LepR subset에서 재현).
 - [[concept-habit]] — DLS 습관 학습(Yin & Knowlton)을 섭식 맥락에서 확장한 hub — 배측 도파민의 다음 섭취 예측, dorsalization 시간척도 단서.
 - [[rangel-2008-a-framework-for-studying-the]] — 예측 오차 학습을 **습관 가치계의 학습 규칙**(model-free: Q-learning·SARSA·actor–critic)으로 배치한 틀. 2008년의 열린 문제(음의 예측 오차의 부호화, 보상 크기 범위에 따른 발화 조정, fictive learning)와 "Pavlovian·목표지향계의 갱신 알고리즘은 미상"이라는 단서를 기록 (Nat Rev Neurosci 2008, 공저자 Montague).
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — ★ 소비 국면(1–60초) 도파민이라는 **네 번째 시간척도**. 현재 임상 항목의 "GLP-1RA: hedonic eating 억제 (Zhu 2025 Science)" 한 줄은 **억제가 일시적이고 수일 내 회복된다**는 원문 결과로 보완 필요.
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — "RPE 가설 (classic)"의 2016년 정밀화: phasic 반응 = 비선택적 감지(현저성) 성분 → 주관적 가치·경제학적 효용 주성분, 혐오 활성은 물리적 충격 탓이라는 재해석 (Nat Rev Neurosci 2016).
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — "Foot shock에 DA 분비 (Kutlu 2021)" 항목의 세부(2차): NAc core 방출이 sucrose에선 RPE형, footshock은 학습 뒤에도 남고 cue로 안 옮겨 가며, 크기는 valence 무관 강도 추적 → 지각된 현저성(KCS) 모형 (Curr Biol Dispatch 2021).
+- [[concept-reward-prediction-error]] — "도파민 상승을 무엇으로 읽나" 판별 hub: RPE(효용 예측 오류·두 성분) vs 현저성(6가지 뜻) vs ANCCR vs 유인 현저성 vs 가치·활력, 조건별 판별표·측정 수준 체크리스트.
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 = 쾌감이 아니라 salience: volume transmission·tonic/phasic·D2H 모델, 보상 누락 반응을 salience 에러·참신성으로 재해석한 국문 종설(JKNA 2011).
