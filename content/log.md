@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-12 00:25 — other (식락학 Ch 20·24·25 2026.10.12판: 카툰 그림 · 약 이름 영어)
+사용자 지시("다른 그림에서도 신체 해부 구조들이 나올 때에는 simple illustration cartoon", "약 성분 이름도 영어로")를 20·24·25장에 적용했다. 그림 20.2(생쥐 뇌 카툰으로 다시 그림), 20.3(경로 위치 띠), 20.9(a)(VTA 아이콘), 24.1(두 회로의 뇌 카툰), 25.4(뇌 범례), 25.6(아이콘)이 바뀌었다. 본문은 약 이름만 영어로 바꿨다. → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]], [[overview-sikrakhak-ch24-food-craving-addiction]], [[overview-sikrakhak-ch25-root-cause-obesity-treatment]]
+
 ## 2026-10-11 23:57 — ingest (6편 + 개념 1) · other (식락학 Ch 18 v4, Codex 검토 대조)
 - **ingest**: [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]], [[zhu-2025-hedonic-eating-is-controlled-by]], [[schultz-2016-dopamine-reward-prediction-error-signalling]], [[chen-2021-neuromodulation-a-model-for-dopamine]](Dispatch, 2차), [[kang-2011-dopamine-system-and-antipsychotic-drugs]], [[song-2024-case-reports-of-binge-eating]], 개념 hub [[concept-reward-prediction-error]]. 기존 페이지 역링크 108개, index 7줄, `### 진영 — 고전 RPE와 현저성` 절 신설. Sumithran 초안의 "10주 초저열량" 표기는 원문(8주 + 일반식 2주, 완료자 34명)대로 고쳤다.
 - **ingest 중 발견한 원고와 원문의 차이**: 18장 Sumithran(v4에 반영). 20장 Zhu 2025의 semaglutide 억제는 "처음에는", bout 수 불변. 25장 Zhu 실험 설계(일반 사료 생쥐, 5일). 24장 "11가지 기준 가운데 8가지"는 필자의 재분류(Song은 DSM-IV 7가지 중 3가지 이상). 20장 원숭이·주스 서술에 Schultz 2016을 추가할 것을 권고. 상세는 프로젝트 루트 `인용 점검 - 2026.10.11/Codex 검토 대조 - 2026.10.11.md` §8.
