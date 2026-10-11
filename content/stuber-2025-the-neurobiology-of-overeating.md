@@ -132,3 +132,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — addiction circuit model 관점. LH^LepR 억제가 **sucrose CPP는 차단하나 cocaine CPP는 비차단**(단 cocaine 운동 감작은 둔화) → 음식·약물이 공유하는 기질이 조건화가 아니라 **가소성(감작)** 쪽임을 가리킨다.
 - [[concept-habit]] — 습관 개념 hub — 과식의 중독 회로 모델(경로 C)과 food addiction 신중론을 함께 배치.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.9.4 — 위내 당+지방의 초부가적 nigrostriatal 도파민·과식.
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.2–25.5 — GLP-1RA는 주로 항상성 중추·끊으면 재증가·장기 사용 중 OFC 단서 반응↑; 단일유전자(MC4R +4.8 kg/m²) vs 다유전자(<0.04 kg/m², 1,500개 이상, 보상 회로), FTO 효과 30–40% 감쇠, 초가공식품 +500 kcal, GIPR 역설.

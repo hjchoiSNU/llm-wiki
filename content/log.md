@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-11 20:08 — other (식락학 Ch 25 초고 작성)
+사용자 개요와 추가 지시(사회 환경의 근본적 개선, Google Drive 그랜드퀘스트 문서의 어린 시절 환경 개선 내용 참고)로 Ch 25 「비만의 근본적 치료를 위한 과학적 통찰」 초고를 박태현 교수님 형식(목차·본문·그림 3분할 docx, 번호식 인용 17편, 그림 5개)으로 작성 — `[25장-1/2/3 …] - 2026.10.11.docx`(프로젝트 루트, `내 드라이브\원고\식락학`), 그림 원본 `25장 그림 원본 - 2026.10.11`. 구성: 증상 vs 원인 치료 → GLP-1·다이어트의 요요와 동적 평형 → 선천·후천 원인 → 원인 치료(병인 치료제 AMG 133, 생활 환경, CBT·디지털 치료제) → 환경과 문명의 재설계 → 맺음말. 원문 대조로 두 문장 수정(Lee 2025 3–5년 재발률 80%, Song 2024 인용 범위); 같은 80% 오독이 Ch 24 v2 24.5.5에 남아 있음을 [[overview-sikrakhak-ch24-food-craving-addiction]]에 기록. 새 페이지 [[overview-sikrakhak-ch25-root-cause-obesity-treatment]]; 갱신 [[overview-sikrakhak-book-project]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]·index, 인용 논문·개념 페이지에 역링크.
+
 ## 2026-10-11 18:55 — other (식락학 Ch 20·24 역할 분담 재구성)
 사용자 지시로 Ch 20은 wanting·liking·기전·도파민의 생물학, Ch 24는 음식 중독의 진단·환자·치료 중심으로 나눔(파일명 `… - 2026.10.11 v2.docx`, 10.11 첫 판은 보존). Ch 20: 해부학 용어 영어, 20.5 도파민 신호 절 신설(강웅구 2011 JKNA·Schultz 1997·Schultz 2016·Chen & Bruchas 2021·[[jeong-2022-mesolimbic-dopamine-release-conveys-causal]]·Chen 2021 Biomedicines; 강의 슬라이드 6장), 20.9 식사 중 도파민 절(Ch 24 옛 24.2.3·그림 24.3 이동), 습관·강박·쾌락 가치 저하·부적 강화 기전을 가져오고 약물 표적은 Ch 24로 보냄(참고문헌 47편·그림 9개·A4 약 12.5쪽). Ch 24: 제목 「진단과 치료」(회의 확정 필요), 24.1 임상 양상 → 24.2 진단·평가 → 24.3 경과·다섯 동인([[lee-2025-hijacked-brain-modern-obesity-cue]]) → 24.4 JKACAP 증례 → 24.5 치료([[jeong-2024-efficacy-of-transcranial-direct]]·[[beaumont-2022-modulating-eating-behavior-with]]·[[koide-2025-association-between-eating-behavior]]·[[kim-2021-digital-therapeutics-for-obesity]] 추가), 참고문헌 29편·그림 5개(맞춤 치료 그림 신규)·A4 약 8.5쪽. [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]·[[overview-sikrakhak-ch24-food-craving-addiction]]·[[overview-sikrakhak-book-project]]·index 갱신, 역링크 18곳 추가. 위키 미등록 근거: 강웅구 2011, Schultz 1997·2016, Chen & Bruchas 2021, Chen 2021, Zhu 2025, JKACAP 2024.
 

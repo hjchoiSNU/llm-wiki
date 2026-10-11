@@ -27,7 +27,7 @@ year: 2026
 | `[24장-3 그림] - 2026.10.11 v2.docx` | 그림 24.1–24.5 (원본: `내 드라이브\원고\식락학\24장 그림 원본 - 2026.10.11 v2`) |
 
 - **새 구성**: 도입(JKACAP 증례 2로 여는 임상 질문) / 24.1 진료실에서 만나는 음식 갈망(배고픔 vs 갈망, 단서·음식 몰두·통제 상실과 nucleus accumbens 저주파 표지, “맛있지 않은데 멈출 수 없다”) / 24.2 진단과 평가(DSM-5 11개 기준, YFAS·음식 갈망 질문지·DEBQ, AN·BN·BED 감별과 스펙트럼, 범주 vs 차원) / 24.3 경과(피드포워드 순환, 다섯 동인 [[lee-2025-hijacked-brain-modern-obesity-cue|Lee 2025]], 취약성) / 24.4 증례(JKACAP 두 환자의 경과·치료, 증례 2에 날트렉손) / 24.5 치료(원칙: CBT-E vs 특정 음식 절제, 행동 치료·디지털 치료제, 약물, 뇌 자극, 맞춤 치료) / 24.6 맺음말.
-- **새 근거**: [[jeong-2024-efficacy-of-transcranial-direct|Jeong 2024]](가정용 양측 DLPFC tDCS 10회: 음식 갈망 81.3→59.0, YFAS 29.4→17.3, 체중 불변, 대조군 없음) · [[beaumont-2022-modulating-eating-behavior-with|Beaumont 2022]](tDCS 전체 효과 미미, 갈망·폭식 특성군에서만 작거나 중간) · [[koide-2025-association-between-eating-behavior|Koide 2025]](GLP-1RA 12개월, 외부 단서 섭식이 높을수록 감량↑) · [[kim-2021-digital-therapeutics-for-obesity|Kim & Choi 2021]](디지털 치료제 정의) · [[lee-2025-hijacked-brain-modern-obesity-cue|Lee 2025]](다섯 차원 프로필과 세 예시 유형의 맞춤 치료, 앱 단독 −2.18 kg, rTMS, 제한 섭식 RCT, 3–5년 80% 재증가) · [[johansen-2025-brain-control-of-energy|Johansen 2025]](부프로피온-날트렉손 8–10%·부작용; 제20장에서 옮김).
+- **새 근거**: [[jeong-2024-efficacy-of-transcranial-direct|Jeong 2024]](가정용 양측 DLPFC tDCS 10회: 음식 갈망 81.3→59.0, YFAS 29.4→17.3, 체중 불변, 대조군 없음) · [[beaumont-2022-modulating-eating-behavior-with|Beaumont 2022]](tDCS 전체 효과 미미, 갈망·폭식 특성군에서만 작거나 중간) · [[koide-2025-association-between-eating-behavior|Koide 2025]](GLP-1RA 12개월, 외부 단서 섭식이 높을수록 감량↑) · [[kim-2021-digital-therapeutics-for-obesity|Kim & Choi 2021]](디지털 치료제 정의) · [[lee-2025-hijacked-brain-modern-obesity-cue|Lee 2025]](다섯 차원 프로필과 세 예시 유형의 맞춤 치료, 앱 단독 −2.18 kg, rTMS, 제한 섭식 RCT, 3–5년 재발률 약 80%) · [[johansen-2025-brain-control-of-energy|Johansen 2025]](부프로피온-날트렉손 8–10%·부작용; 제20장에서 옮김).
 - **제20장으로 옮긴 것**: 식사 중 도파민 시간 구조(옛 24.2.3과 그림 24.3), 장-뇌 영양 신호, 회로 변화 네 갈래의 세부(습관·강박, 쾌락 가치 저하, 부적 강화). 먹기의 역설(Woods 1991)·초가공식품과 동물 모델 세부는 축약하거나 뺌(10.11 첫 판에 보존).
 - **그림 5개**: 24.1 배고픔 vs 갈망 / 24.2 DSM-5 기준표(증례 2 표시) / 24.3 섭식장애–음식 중독 스펙트럼 / 24.4 피드포워드 순환 / 24.5 다섯 차원 프로필과 맞춤 치료(신규, Lee 2025 그림 6 바탕). 옛 그림 24.2(자연 식품 vs 가공식품)와 24.4(회로 변화 네 갈래)는 뺌.
 - **남은 일**: 제목 변경 확정, Ch 17(YFAS·섭식장애)과 범위 조율, JKACAP 2024·Zhu 2025 위키 등록 여부.
@@ -116,6 +116,7 @@ year: 2026
 - 위키에 1차 근거가 없어 넣지 않은 주장: 소금의 중독성, 혈당지수, 초기호성 식품 정의, 섭취 속도의 약물동태 유비.
 
 ## 변경 이력
+- **2026-10-11 (Ch 25 작성 중 확인)**: v2 24.5.5의 "비만 치료로 줄인 체중은 3–5년 안에 80% 가까이 되돌아오며"는 Lee 2025 원문("relapse rates approaching 80% within 3 to 5 years")의 재발률을 줄인 체중의 비율로 잘못 옮긴 것 — 다음 판에서 "치료받은 환자 대부분이 줄인 체중을 다시 얻으며 3–5년 재발률은 80%에 가깝다"로 고칠 것.
 - **2026-10-11 v2**: 임상 중심 재구성(제목 「진단과 치료」), 기전과 식사 중 도파민 그림은 제20장으로 이동, 약물 표적은 제20장에서 가져옴, 그림 7 → 5개(맞춤 치료 그림 신규), 참고문헌 41 → 29편(Jeong 2024·Beaumont 2022·Koide 2025·Kim & Choi 2021·Johansen 2025 추가).
 - **2026-10-11 개정**: 음식 중독 강화(DSM-5 11개 기준, 피드포워드 순환, 24.6 섭식장애–음식 중독 스펙트럼·JKACAP 증례), 24.2.3 도파민 시간 구조(Zhu 2025·Weber 2025·Thanarajah 2019), 원함/갈망 통일, 해부학 용어 영어 표기, 그림 5개 → 7개, 참고문헌 38 → 41편(American Psychiatric Association 2013, Song 2024, Zhu 2025 추가). 10.10판 파일은 그대로 보존.
 - **2026-10-10 재집필**: 3국면 삭제(사용자 지시), 인용을 author-year → 번호식으로, 7절·31소절·그림 12개 → 5절·18소절·그림 5개, 그림 파일에 이미지 초안 수록. 2026-08-20 초안의 서지 오류 수정 — Hoang 2026·Vendruscolo & Koob 2026의 제목, Kim 2024 논문번호(eado1820), Choi 2025 제1저자(Wonkyung Choi).
@@ -131,3 +132,4 @@ year: 2026
 - [[concept-need-motivation-pleasure-utility]] — 24.2.3의 즐거움/효용 대응.
 - [[concept-food-addiction]] · [[concept-incentive-sensitization]] · [[concept-cue-reactivity]] · [[concept-hedonic-devaluation]] · [[concept-habit]] · [[concept-compulsion]] · [[concept-negative-reinforcement-hyperkatifeia]] · [[concept-loss-of-control-eating]] · [[concept-primary-reward-signals]] · [[concept-flavor-nutrient-conditioning]] — 본문 개념 hub.
 - [[overview-appetite-energy-homeostasis]] — 상위 spine overview.
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 다음 사용자 챕터(Ch 25 비만의 근본적 치료): 다섯 동인을 원인 치료의 표적으로 확장, 24.3.1·24.3.2·24.5.5를 참조.

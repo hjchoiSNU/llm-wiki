@@ -2,7 +2,7 @@
 title: "Food insecurity and disordered eating behaviors in children and adolescents: a systematic review (Bidopia 2023)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-11
 source: "raw/2023 Eating Behaviors. Food insecurity and disordered eating behaviors in children and adolescents- A systematic review.pdf"
 authors: [Bidopia T, Vivas Carbo A, Ross RA, Burke NL]
 year: 2023
@@ -31,3 +31,4 @@ year: 2023
 - [[loth-2025-food-insecurity-and-disordered]] — 성인 대응(feast-famine).
 - [[concept-food-addiction]] · [[concept-need-motivation-pleasure-utility]] — scarcity→과소비 기전.
 - [[wilbrecht-2024-experimental-biology-can-inform]] — Ross lab의 동물 회로 종합(공통 저자).
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.5.2 — 소아·청소년 식품 불안정과 폭식·통제 상실 섭식; 심한 식품 불안정 청소년은 5년 뒤 폭식 41%↑.

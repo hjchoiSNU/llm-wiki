@@ -2,7 +2,7 @@
 title: "Multidimensional Cognitive Behavioral Therapy for Obesity Applied by Psychologists Using a Digital Platform: Open-Label Randomized Controlled Trial"
 type: paper
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-11
 source: "raw/2020 JMU Multidimensional Cognitive Behavioral Therapy for Obesity Applied by Psychologists Using a Digital Platform- Open-Label Randomized Controlled Trial.pdf"
 authors: [Meelim Kim, "...", Hyung Jin Choi]
 year: 2020
@@ -60,3 +60,4 @@ trial: NCT03465306
 - [[person-kim-meelim]] · [[person-choi-hyung-jin]] — 저자.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — CBT 목표 설정 모듈의 계산적 근거(사전 목표 선점 = 간섭 차단; 진행 신호 = 동기 비계).
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.4.4 — 임상심리 전문가가 디지털 플랫폼으로 제공한 8주 다차원 CBT가 앱 단독 대조군보다 체중을 더 줄임.

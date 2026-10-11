@@ -2,7 +2,7 @@
 title: "Food insecurity: an emerging risk factor for food addiction (Leung 2024, book chapter)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-11
 source: "raw/2024 Food & Addiction (BooK) 55 Food Insecurity- An Emerging Risk Factor for Food Addiction.pdf"
 authors: [Leung CW, Wolfson JA]
 year: 2024
@@ -32,3 +32,4 @@ year: 2024
 - [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] — UPF가 활성하는 reward 회로.
 - [[concept-loss-of-control-eating]] — disordered eating·binge.
 - [[concept-food-environment-access]] — food swamp 환경 증폭기.
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.5.1 — 식품 불안정이 만성 스트레스와 값싼 초가공식품 의존을 통해 음식 중독 위험 요인이 됨.

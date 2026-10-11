@@ -2,7 +2,7 @@
 title: "Experimental biology can inform our understanding of food insecurity (Wilbrecht 2024)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-11
 source: "raw/2024 J. Exp. Biol. (Rachel Ross) Experimental biology can inform our understanding of food insecurity.pdf"
 authors: [Wilbrecht L, Lin WC, Callahan K, Bateson M, Myers K, Ross R]
 year: 2024
@@ -34,3 +34,4 @@ year: 2024
 - [[myers-2022-chronic-experience-with-unpredictable]] · [[myers-2024-translational-science-approaches-for]] — 동물 모델·번역 framework.
 - [[bateson-2023-food-insecurity-as-a-cause]] — insurance hypothesis.
 - [[concept-need-motivation-pleasure-utility]] — reward prediction error 확대.
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.5.2 — 발달 시기별 민감기(hypothalamus: 임신·출생 전후, striatum 도파민: 늦은 아동기–이른 청소년기)와 불규칙 먹이 생쥐의 VTA 시냅스·striatum 도파민 변화.

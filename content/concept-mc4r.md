@@ -2,7 +2,7 @@
 title: Melanocortin-4 receptor (MC4R)
 type: concept
 created: 2026-05-25
-updated: 2026-10-03
+updated: 2026-10-11
 aliases: [MC4R, melanocortin 4 receptor]
 ---
 
@@ -60,3 +60,4 @@ aliases: [MC4R, melanocortin 4 receptor]
 - [[concept-maternal-programming-hypothalamus]] — PVN MC4R→hypertension을 포함한 모체 프로그래밍 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 인간 유전학 리뷰(Nat Metab 2026): MC4R 결손=유럽 최다 단일유전자 비만, 침투도 연령·세대·PRS 의존(PRS 하위 2.2배 vs 상위 9.7배), **Gαs** 결합(MRAP2·ASIP·SIM1·GNAS–ADCY3·BDNF), 이형접합 MC4R엔 setmelanotide ~3 kg에 그침.
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.3.1 — 가장 흔한 단일유전자 비만 변이(+4.8 kg/m², 약 18 kg), 항상성 회로.

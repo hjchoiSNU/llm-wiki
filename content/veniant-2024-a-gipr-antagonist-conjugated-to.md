@@ -2,7 +2,7 @@
 title: "AMG 133 (maridebart cafraglutide): GIPR 길항–GLP-1 작용 이중특이 분자의 체중감소 (전임상 + phase 1)"
 type: paper
 created: 2026-07-05
-updated: 2026-10-03
+updated: 2026-10-11
 source: "raw/2024 Nature Metabolism. A GIPR antagonist conjugated to GLP-1 analogues promotes weight loss with improved metabolic parameters in preclinical and phase 1 settings (2).pdf"
 authors: [Véniant MM, Lu S-C, et al.]
 year: 2024
@@ -50,3 +50,4 @@ year: 2024
 - [[concept-dorsal-vagal-complex]] — AP/NTS 등 BBB 밖 말초 incretin 작용 무대.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — `GIPR` **기능↓ → tirzepatide 구토↑**라는 인간 유전 근거. GIPR **길항** 전략의 내약성 우려와 직접 맞물림 (Nature 2026).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — GIPR **작용** 전략의 임상 수치(72주 −20.2%). 길항 전략이 넘거나 내약성·투여간격으로 경쟁해야 하는 기준선 (NEJM 2025, SURMOUNT-5)
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.4.2·그림 25.2b — AMG 133 1상: 420 mg 4주마다 3회 85일 −14.5%, 마지막 투여 후 150일 −11.2%, 단회 투여 120일 유지, t½ 약 21일; GIPR 둔감화 가설 — 원인 치료제 가능성(필자 해석).

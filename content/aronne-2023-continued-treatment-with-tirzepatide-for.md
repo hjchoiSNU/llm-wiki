@@ -2,7 +2,7 @@
 title: SURMOUNT-4 — 티르제파타이드 지속 vs 중단의 체중 유지 RCT
 type: paper
 created: 2026-07-05
-updated: 2026-10-03
+updated: 2026-10-11
 source: raw/2023 JAMA. Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity.pdf
 authors: [Aronne LJ et al.]
 year: 2023
@@ -35,3 +35,4 @@ year: 2023
 - [[concept-weight-regain-defended-adiposity]] — 본 RCT의 +14% rebound가 앵커로 들어가는 체중 재증가 개념 hub(임상 수치·회로 기전·약물개발 전략 3층).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — 그 rebound의 **회로 후보 기전**: 체중 감소가 PVH^TRH→AgRP 시냅스를 증폭하고 이 증폭이 **체중이 회복될 때까지 유지**되며 NMDAR 차단으로 막힌다 (Cell Metab 2023).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 같은 제1저자의 SURMOUNT-5 직접비교: 72주 tirzepatide −20.2% vs semaglutide −13.7%. 본 시험(유지·중단)과 상보적이며, 도달 깊이가 클수록 중단 시 재증가 폭도 커질 수 있다는 함의 (NEJM 2025)
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.2.1·그림 25.2a — 36주 −20.9% 후 위약 전환 시 52주에 14.0% 재증가(계속 투여 −5.5%): GLP-1 계열 = 증상 치료라는 논지의 핵심 근거.

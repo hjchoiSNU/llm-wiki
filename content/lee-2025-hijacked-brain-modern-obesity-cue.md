@@ -134,3 +134,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 리뷰가 섭식 습관의 가치 절하 연구를 2차 인용한다는 점(원문 인용 56·57)을 식이 노출 모델의 선행 문헌 확인 근거로 인용.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.5.3·20.8.3 — 제한 섭식의 역설, 표현형별 약물 선택의 임상 근거 부족.
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.2–25.5 — 안착점·알로스타시스, 3–5년 재발률 약 80%, 제한 배정 RCT의 통제 상실↑, 다섯 신경행동 원인과 축별 평가, 표현형 맞춤 치료(15.9% vs 9.0%), 사탕 그릇 55%, 코르티솔과 렙틴 민감성 38%↓.

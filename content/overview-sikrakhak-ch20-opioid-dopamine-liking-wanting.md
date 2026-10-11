@@ -126,3 +126,4 @@ year: 2026
 - [[concept-ventral-pallidum]] — 개정판 20.3.3의 ‘좋아함’에 필수인 뒤쪽 핫스폿.
 - [[concept-hedonic-devaluation]] — 개정판 20.8.2에서 제24장 24.3.2로 잇는 쾌락 가치 저하.
 - [[reference-sikrakhak-glossary]] — 표기 기준(wanting=원함 결정, 13장과의 미결 표기).
+- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — Ch 25(비만의 근본적 치료)가 20.8.2(커피 맛의 학습)와 20.9.1(세마글루타이드 후 도파민 회복)을 참조.
