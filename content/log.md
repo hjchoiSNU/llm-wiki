@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-11 21:26 — other (식락학 18·20·24·25장: 재구성, 그림 이동, 합본, 인용 점검)
+사용자 지시 네 가지를 처리했다. ① 그림 24.5(다섯 차원 맞춤 치료)를 25장으로 옮기고 24장은 음식 중독에만 집중(24장 v3, 25장 v2). ② `식락학 최형진 Ch 18_v3.docx`를 박태현 형식 3분할로 재구성(그림 5개 새로 그림, 참고문헌 44편). ③ 18·20·24·25장 합본(그림을 처음 인용한 단락 뒤에 배치) 4개. ④ 네 장의 인용 전체를 위키 raw 원문과 대조(장별 점검 에이전트 + 주요 지적 직접 재확인) — 오인용 다수를 바로잡아 18장 2026.10.11, 20장 v3, 24장 v4, 25장 v3로 저장(프로젝트 루트, `내 드라이브\원고\식락학`). 점검 쪽 지적 1건(Soutschek 2021)은 원문과 맞지 않아 기각. 장별 보고서와 요약은 프로젝트 루트 `인용 점검 - 2026.10.11`. 갱신: [[overview-sikrakhak-ch18-appetite-hormones]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]·[[overview-sikrakhak-ch24-food-craving-addiction]]·[[overview-sikrakhak-ch25-root-cause-obesity-treatment]]·[[overview-sikrakhak-book-project]]·index.
+
 ## 2026-10-11 20:08 — other (식락학 Ch 25 초고 작성)
 사용자 개요와 추가 지시(사회 환경의 근본적 개선, Google Drive 그랜드퀘스트 문서의 어린 시절 환경 개선 내용 참고)로 Ch 25 「비만의 근본적 치료를 위한 과학적 통찰」 초고를 박태현 교수님 형식(목차·본문·그림 3분할 docx, 번호식 인용 17편, 그림 5개)으로 작성 — `[25장-1/2/3 …] - 2026.10.11.docx`(프로젝트 루트, `내 드라이브\원고\식락학`), 그림 원본 `25장 그림 원본 - 2026.10.11`. 구성: 증상 vs 원인 치료 → GLP-1·다이어트의 요요와 동적 평형 → 선천·후천 원인 → 원인 치료(병인 치료제 AMG 133, 생활 환경, CBT·디지털 치료제) → 환경과 문명의 재설계 → 맺음말. 원문 대조로 두 문장 수정(Lee 2025 3–5년 재발률 80%, Song 2024 인용 범위); 같은 80% 오독이 Ch 24 v2 24.5.5에 남아 있음을 [[overview-sikrakhak-ch24-food-craving-addiction]]에 기록. 새 페이지 [[overview-sikrakhak-ch25-root-cause-obesity-treatment]]; 갱신 [[overview-sikrakhak-book-project]]·[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]·index, 인용 논문·개념 페이지에 역링크.
 

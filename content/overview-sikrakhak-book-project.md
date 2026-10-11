@@ -47,7 +47,7 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 - Ch 17. 식품기호와 정신건강: 우울·중독·섭식장애 — 홍재희 → [[concept-loss-of-control-eating]]
 
 ### Part V. 호르몬과 분자 신호 (Hormones and Molecular Signals)
-- **Ch 18. 식욕·포만 호르몬: 그렐린·렙틴·인슐린·(GLP-1)·CCK — 최형진** → [[overview-sikrakhak-ch18-appetite-hormones]] ✅ *(정리 완료)*
+- **Ch 18. 식욕·포만 호르몬: 그렐린·렙틴·인슐린·(GLP-1)·CCK — 최형진** → [[overview-sikrakhak-ch18-appetite-hormones]] ✅ *(정리 완료 · 2026-10-11 박태현 형식 재구성)*
 - Ch 19. 엔도칸나비노이드와 음식 즐거움 — 이성준
 - **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "원함(wanting)" — 최형진** → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ *(정리 완료 → 2026-10-11 개정: 박태현 형식 3분할 docx, wanting=원함 → 같은 날 v2: 생물학 중심 재정리·해부학 용어 영어·도파민 신호 절 추가)* · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]
 - Ch 21. 호르몬 불균형과 쾌락적 섭식(비만으로의 생리·행동 기전) — 이성준
