@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-12 00:45 — other (식락학 Ch 20 그림 20.5(a) 수정, 2026.10.12 v2)
+사용자 지시로 보상 누락("예고되었지만 먹이가 없다") 시점의 도파민 뉴런 발화 감소를 기준선 아래로 뚜렷하게 내려가는 일시적 감소로 다시 그렸다. → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]
+
 ## 2026-10-12 00:25 — other (식락학 Ch 20·24·25 2026.10.12판: 카툰 그림 · 약 이름 영어)
 사용자 지시("다른 그림에서도 신체 해부 구조들이 나올 때에는 simple illustration cartoon", "약 성분 이름도 영어로")를 20·24·25장에 적용했다. 그림 20.2(생쥐 뇌 카툰으로 다시 그림), 20.3(경로 위치 띠), 20.9(a)(VTA 아이콘), 24.1(두 회로의 뇌 카툰), 25.4(뇌 범례), 25.6(아이콘)이 바뀌었다. 본문은 약 이름만 영어로 바꿨다. → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]], [[overview-sikrakhak-ch24-food-craving-addiction]], [[overview-sikrakhak-ch25-root-cause-obesity-treatment]]
 

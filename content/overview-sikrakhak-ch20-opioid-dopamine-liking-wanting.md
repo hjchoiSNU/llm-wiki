@@ -20,6 +20,7 @@ year: 2026
 보상은 단일하지 않다. 음식의 즐거움은 **오피오이드·엔도카나비노이드의 ‘좋아함(liking, 쾌락적 충격)’**과 **중변연계 도파민의 ‘원함(wanting, 유인 현저성)’**으로 분리되며, **도파민은 ‘좋아함’에 필요하지 않다**. 이 해리가 중독·과식의 기전이고 비만 치료의 진단 축이다. 다만 사람에서는 이 동물 도식이 그대로 옮겨지지 않는다.
 
 ## 2026-10-12판 (카툰 그림 · 약 이름 영어)
+- **v2 (같은 날 사용자 지시)**: 그림 20.5(a) "예고되었지만 먹이가 없다"에서 먹이가 올 시점의 발화 감소가 잘 보이지 않아, 기준선 아래로 일시적으로 뚜렷하게 내려갔다가 회복하는 모양으로 다시 그리고 "↓ 발화 감소"를 표시했다. 파일 `[20장-…] - 2026.10.12 v2`.
 사용자 지시 두 가지를 반영했다. ① 신체·뇌 구조가 나오는 그림에 단순한 카툰을 넣었다. ② 약 성분명을 영어로 바꿨다(semaglutide, tirzepatide, naltrexone, naloxone, bupropion). 본문 내용과 인용은 바꾸지 않았다. Codex 검토 대조 결과의 수정 제안은 사용자 승인 전이어서 반영하지 않았다(프로젝트 루트 `인용 점검 - 2026.10.11/Codex 검토 대조 - 2026.10.11.md`). 그림 20.2는 설치류 뇌 타원을 생쥐 뇌 시상단면 카툰으로 바꾸고 핫스폿·콜드스폿을 다시 배치했다. 그림 20.3 위에는 생쥐 뇌의 nigrostriatal·mesolimbic 경로를 보이는 띠를, 그림 20.9(a)에는 VTA → nucleus accumbens 아이콘을 넣었다. 파일 `[20장-…] - 2026.10.12`, 그림 원본 `20장 그림 원본 - 2026.10.12`. 같은 날 위키에 [[schultz-2016-dopamine-reward-prediction-error-signalling]]·[[chen-2021-neuromodulation-a-model-for-dopamine]]·[[kang-2011-dopamine-system-and-antipsychotic-drugs]]·[[zhu-2025-hedonic-eating-is-controlled-by]]·[[concept-reward-prediction-error]]를 ingest했고, 그 과정에서 찾은 원고와 원문의 차이(semaglutide 억제는 "처음에는", bout 수 불변, 원숭이·주스 서술에 Schultz 2016 추가 등)는 위 대조 문서 §8에 제안으로 적었다.
 
 ## 2026-10-11 v3 (인용 점검 반영 · 합본)
