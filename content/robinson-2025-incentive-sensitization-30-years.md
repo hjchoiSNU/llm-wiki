@@ -2,7 +2,7 @@
 title: "유인-감작 이론(IST) 30주년 종합 (2025)"
 type: paper
 created: 2026-06-20
-updated: 2026-09-02
+updated: 2026-10-11
 source: raw/2025 The Incentive-Sensitization Theory of Addiction 30 Years On.pdf
 authors: [Robinson TE, Berridge KC]
 year: 2025
@@ -40,3 +40,4 @@ Robinson & Berridge가 1993년 원전(9,000+ 인용)으로부터 30년의 증거
 - [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 liking/wanting 종합
 - [[person-choi-hyung-jin]] — 시상하부 회로·비만 연구 lab 연관
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **대비 프레임**: 본 논문이 compulsion을 *motivational compulsion*(선택의 왜곡, 부분 저항 가능)으로 재정의하는 반면, Lüscher & Janak은 **처벌 저항이라는 조작적 기준 + OFC→DST 시냅스 강도**로 정의한다. → [[concept-compulsion]]
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 개정판 24.4.4 — 오랜 굶주림과 제한이 음식의 유인 현저성을 키운다는 근거(피드포워드 순환의 제한→갈망 고리, 그림 24.6).

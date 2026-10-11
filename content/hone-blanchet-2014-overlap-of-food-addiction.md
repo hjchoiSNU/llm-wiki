@@ -2,7 +2,7 @@
 title: 음식 중독과 물질사용장애 정의의 중첩 — 동물·인간 연구 분석
 type: paper
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-11
 source: raw/2014 Overlap of food addiction and substance use disorders definitions- Analysis of animal and human studies.pdf
 authors: [Hone-Blanchet A, Fecteau S]
 year: 2014
@@ -30,3 +30,4 @@ year: 2014
 - [[concept-liking-wanting]] — liking/wanting 축이 인간 FA 식욕조절 해석에 인용.
 - [[stuber-2025-the-neurobiology-of-overeating]] — 과식 회로 최신 관점(보상 저민감성 논의 대비).
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — sweet-fat 금단의 CRF·음성강화와 직결.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 개정판 24.4.1·24.4.4 — YFAS(7증상 중 3개 이상 + 고통, 체중 감량 치료 희망자 19%)와 기준을 음식에 옮길 때의 한계(내성·금단·시간 소요), 주기적 식이의 central amygdala CRF 5배와 금단 없는 반례.

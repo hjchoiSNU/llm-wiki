@@ -2,7 +2,7 @@
 title: "Food Intake Recruits Orosensory and Post-ingestive Dopaminergic Circuits to Affect Eating Desire in Humans"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-11
 source: "raw/2019 Cell Metabolism. Food Intake Recruits Orosensory and Post-ingestive Dopaminergic Circuits to Affect Eating Desire in Humans (1).pdf"
 authors: [Edwin Thanarajah S, Backes H, DiFeliceantonio AG, Albus K, Cremer AL, Hanssen R, Lippert RN, Cornely OA, Small DM, Bruning JC, Tittgemeyer M]
 year: 2019
@@ -71,3 +71,4 @@ fMRI와 새로 개발한 연속 [11C]raclopride PET(rDA 기법)를 결합해, �
 - [[proposal-oral-fat-taste-pleasure-desire]] — 본 논문의 orosensory vs post-ingestive DA·wanting 상관을 구강 지방 맛 연구계획서로 전환(쾌락·욕망 인과 분리).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — 마우스 위내-DA 인과판; 본 인체 post-ingestive DA의 vagus 의존 기전 짝 (Sci Adv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 개정판 24.2.3 — 사람 PET의 두 정점(즉각 20–25분, 지연 35–40분)과 원함 상관을 강조한 단락과 그림 24.3c. 참고문헌의 제1저자 표기를 Edwin Thanarajah, S.로 바로잡음.
