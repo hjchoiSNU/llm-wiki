@@ -9,7 +9,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 본인이 집필한 식락학(食樂學) 교재 Ch 20**의 위키 정리본. 음식 보상을 **오피오이드가 작은 [[concept-hedonic-hotspot|쾌락 핫스폿]]에서 증폭하는 ‘[[concept-liking-wanting|좋아함]]’**과 **중변연계 [[concept-dopamine-reward-system|도파민]]이 넓은 회로에서 만드는 ‘원함(wanting)’**으로 분해한다. 2026-10-11 개정판은 박태현 교수 9–11장 형식으로 다시 쓰면서 수치를 원 논문 PDF로 대조했고, **사람 약리 연구는 동물 도식(오피오이드=좋아함, 도파민=원함)과 그대로 맞지 않는다**(날트렉손이 오히려 원함을 낮춤)는 점을 본문에 명시했다. 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU framework]](Pleasure≈좋아함, Motivation≈원함; 저자 해석)·비만 약물 표적화와 직결. wiki ↔ 교재 양방향 hub.
+> **사용자 본인이 집필한 식락학(食樂學) 교재 Ch 20**의 위키 정리본. 음식 보상을 **오피오이드가 작은 [[concept-hedonic-hotspot|쾌락 핫스폿]]에서 증폭하는 ‘[[concept-liking-wanting|좋아함]]’**과 **중변연계 [[concept-dopamine-reward-system|도파민]]이 넓은 회로에서 만드는 ‘원함(wanting)’**으로 분해한다. 2026-10-11 개정판은 박태현 교수 9–11장 형식으로 다시 쓰면서 수치를 원 논문 PDF로 대조했고, **사람 약리 연구는 동물 도식(오피오이드=좋아함, 도파민=원함)과 그대로 맞지 않는다**(날트렉손이 오히려 원함을 낮춤)는 점을 본문에 명시했다. 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU framework]](Pleasure≈좋아함, Motivation≈원함; 저자 해석)와 직결. **2026-10-11 v2**에서 제20장은 wanting·liking·도파민의 생물학을, [[overview-sikrakhak-ch24-food-craving-addiction|제24장]]은 진단·치료를 맡도록 나누어, 도파민이 쾌감이 아니라 현저성·예측·인과·노력을 시간 척도별로 전한다는 절(20.5)과 식사 중 도파민 시간 구조(20.9)를 더했다. wiki ↔ 교재 양방향 hub.
 
 # 식락학 Ch 20 — 오피오이드·도파민 / ‘좋아함’과 ‘원함’
 
@@ -19,7 +19,22 @@ year: 2026
 ## 한 줄 요약
 보상은 단일하지 않다. 음식의 즐거움은 **오피오이드·엔도카나비노이드의 ‘좋아함(liking, 쾌락적 충격)’**과 **중변연계 도파민의 ‘원함(wanting, 유인 현저성)’**으로 분리되며, **도파민은 ‘좋아함’에 필요하지 않다**. 이 해리가 중독·과식의 기전이고 비만 치료의 진단 축이다. 다만 사람에서는 이 동물 도식이 그대로 옮겨지지 않는다.
 
-## 2026-10-11 개정판 (박태현 교수 9–11장 형식)
+## 2026-10-11 v2 재정리 (생물학 중심 · 해부학 용어 영어)
+사용자 지시(2026-10-11 저녁): ① 해부학 용어 영어 ② 제24장의 식사 중 도파민 시간 구조 그림을 제20장으로 이동 ③ 제20장은 wanting·liking·기전·도파민 등 생물학, 제24장은 진단·치료·환자 중심으로 역할 분담 ④ 도파민 강의 슬라이드 6장(현저성, 노력 선택 실험, 뒤집힌 U와 탐색 시스템, Current Biology 2021 현저성 모형, Jeong 2022 ANCCR, Chen 2021 도파민 투사 지도) 추가.
+
+| 파일 | 내용 |
+|---|---|
+| `[20장-1 목차] - 2026.10.11 v2.docx` | 11개 절(맺음말 포함) |
+| `[20장-2 본문] - 2026.10.11 v2.docx` | 본문 약 25,200자(공백 포함), 참고문헌 47편, A4 약 12.5쪽 |
+| `[20장-3 그림] - 2026.10.11 v2.docx` | 그림 20.1–20.9 (원본: `내 드라이브\원고\식락학\20장 그림 원본 - 2026.10.11 v2`) |
+
+- **새 구성**: 20.1 들어가며 / 20.2 보상의 해부 / 20.3 좋아함의 신경화학(nucleus accumbens shell·ventral pallidum 핫스폿) / 20.4 원함의 신경화학(도파민 투사 지도, 좋아함에 불필요, central amygdala·D1/D2, 단서·습관·강박) / **20.5 도파민은 무엇을 신호하는가**(쾌감이 아니라 현저성, 예측 오류 vs 인과 학습, 노력·활력·시간 척도, 탐색 시스템과 뒤집힌 U) / 20.6 유인-감작 / 20.7 사람 약리 / 20.8 NMPU와 강화학습 / **20.9 한 끼 식사 동안의 도파민**(제24장에서 이동: Zhu 2025 네 단계, [[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]] 보상 3층위, [[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]], [[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019]], [[onimus-2026-the-gut-brain-vagal-axis-governs|Onimus 2026]]·[[yang-2026-a-sync-state-in-the|Yang 2026]]·[[mcknight-2026-attenuated-hypothalamic-response-to|McKnight 2026]]·[[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]]·[[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]]) / 20.10 좋아함과 원함이 어긋날 때(보상 결핍 논쟁+[[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|쾌락 가치 저하]], 무동기, 스트레스와 [[vendruscolo-2026-neurobiology-of-negative-reinforcement|부적 강화]]·[[hone-blanchet-2014-overlap-of-food-addiction|CRF]]) / 20.11 맺음말.
+- **제24장과 맞바꾼 내용**: 습관→강박([[giovanniello-2025-a-dual-pathway-architecture-for|Giovanniello 2025]], [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]], [[luscher-2021-consolidating-the-circuit-model-for|Lüscher 2021]]), 쾌락 가치 저하, 부적 강화의 기전을 제20장으로 가져오고, 20.8.3 약물 표적(부프로피온-날트렉손, GLP-1RA)은 제24장 24.5.3으로 보냄.
+- **도파민 슬라이드 내용(원문 대조)**: 강웅구 2011 JKNA 50:251–272(도파민 신호=쾌감이 아닌 salience, 노력 선택 실험 그림 4, 탐색 시스템·포만·중독 자극, 도파민–작업기억 뒤집힌 U) · Schultz 1997 Science(조건화 실험; 서지는 강웅구 2011 참고문헌으로 확인) · Schultz 2016 Nat Rev Neurosci(두 성분 반응, 빠름·느림·긴장성 시간 척도) · Chen & Bruchas 2021 Curr Biol dispatch(Kutlu 2021: nucleus accumbens core 도파민이 자극 강도를 따라 커지고 충격 반응은 단서로 옮겨 가지 않음) · [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]] ANCCR · Chen et al. 2021 Biomedicines(도파민 투사 지도; 슬라이드의 서지를 그대로 사용, PDF 미확인). Jeong 2022를 뺀 다섯 편은 위키 미등록(원본은 `내 드라이브\ref\Dopamine`, FNMR 공유 폴더).
+- **그림 9개**: 20.1 쾌락 주기 / 20.2 핫스폿(영어 라벨) / 20.3 도파민 투사 지도(신규) / 20.4 이중 해리 표(영어) / 20.5 도파민 뉴런은 무엇을 신호하는가(신규) / 20.6 노력·시간 척도·뒤집힌 U(신규) / 20.7 유인-감작 / 20.8 NMPU(보상 3층위 상자는 20.9b로 넘김) / 20.9 식사 중 도파민(옛 그림 24.3).
+- **남은 일**: 분량 A4 약 12.5쪽·그림 9개로 회의 지침(10쪽, 3–5개) 초과. 줄일 후보: 20.2.3, 20.3.4, 20.6.4, 20.7.2 축약 또는 그림 20.3·20.6 통합.
+
+## 2026-10-11 개정판 (박태현 교수 9–11장 형식, 첫 판 — 당시 기록)
 - **파일**: `[20장-1 목차]`·`[20장-2 본문]`·`[20장-3 그림] - 2026.10.11.docx` (프로젝트 루트와 `내 드라이브\원고\식락학`), 그림 원본 `20장 그림 원본 - 2026.10.11\그림 20.1–20.5 .svg/.png`. 바탕 원고는 `(수정 보완 예정) … Ch 20 …_2026_06_25.docx`(원본은 수정하지 않음).
 - **형식**: 번호식 인용(29편, Food Chemistry형), 본문 약 2.2만 자(A4 10쪽 이내), 9개 절·소절 2–5개, 그림 5개. 제목은 ‘“좋아함(liking)”과 “원함(wanting)”의 신경화학’.
 - **구성**: 20.1 들어가며 / 20.2 보상의 해부(세 성분·미각 반응 검사·핵심 과정) / 20.3 좋아함의 신경화학(핫스폿 발견·측좌핵·복측 창백핵·협동·엔도르핀) / 20.4 원함의 신경화학(유인 현저성·도파민 해리·노력·활력·예측 논쟁·중심 편도체와 D1/D2·PIT와 습관 체계) / 20.5 유인-감작(간극·맥락·음식·유인 감각변환) / 20.6 사람 약리(Soutschek·Korb) / 20.7 NMPU와 강화학습(네 성분·학습의 다리·몸 안의 보상) / 20.8 임상(분리·보상 결핍 vs 유인-감작·약물·무동기와 스트레스) / 20.9 맺음말.

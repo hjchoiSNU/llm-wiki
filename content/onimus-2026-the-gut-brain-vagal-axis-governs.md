@@ -2,7 +2,7 @@
 title: "Onimus et al. 2026 — The gut-brain vagal axis governs mesolimbic dopamine dynamics and reward events"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-11
 source: "raw/2026 ScienceAdvances. The gut-brain vagal axis governs mesolimbic dopamine dynamics and reward events.pdf"
 authors: [Oriane Onimus, Faustine Arrivet, Tinaïg Le Borgne, Sylvie Perez, Julien Castel, Anthony Ansoult, Benoit Bertrand, Nejmeh Mashhour, Camille de Almeida, Linh-Chi Bui, Marie Vandecasteele, Serge Luquet, Laurent Venance, Nicolas Heck, Fabio Marti, Giuseppe Gangarossa]
 year: 2026
@@ -78,3 +78,4 @@ journal: "Science Advances 12(5):eadz0828"
 - [[concept-vagus-nerve-stimulation]] — 미주 tone을 인위 조절하는 VNS/taVNS; 본 논문은 그 보상 효과의 회로 근거.
 - [[neuser-2020-vagus-nerve-stimulation-boosts]] — taVNS가 인간 food reward 추동↑(미주→도파민 가설의 인간 짝).
 - [[overview-appetite-energy-homeostasis]] — gut-brain·보상 회로 통합.
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.9.4 — 횡격막 아래 vagus nerve 절단 시 위내 영양에 의한 nucleus accumbens 도파민 상승 소실(문지기).

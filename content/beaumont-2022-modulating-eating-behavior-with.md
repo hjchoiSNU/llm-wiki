@@ -2,7 +2,7 @@
 title: "Modulating eating behavior with tDCS: a systematic review on the impact of eating behavior traits (Beaumont 2022)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-11
 source: "raw/2022 Obes Rev. Modulating eating behavior with transcranial direct current stimulation (tDCS)- A systematic literature review on the impact of eating behavior traits.pdf"
 authors: [Beaumont JD, Barwood MJ]
 year: 2022
@@ -35,3 +35,4 @@ year: 2022
 - [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — trait(binge·craving).
 - [[concept-need-motivation-pleasure-utility]] — reward 과민 stratification.
 - [[concept-digital-therapeutics]] — 개인맞춤 비침습 치료.
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 v2(임상 중심) 24.5.4 — tDCS 전체 효과는 미미하고 갈망·폭식 특성군에서만 효과.

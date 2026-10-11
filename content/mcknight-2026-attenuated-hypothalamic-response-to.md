@@ -2,7 +2,7 @@
 title: "Attenuated hypothalamic response to fructose via a dedicated gut-brain pathway"
 type: paper
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-10-11
 source: raw/2026 Neuron. Attenuated hypothalamic response to fructose via a dedicated gut-brain pathway.pdf
 source_alias: "raw/2026 Neuron. Attenuated hypothalamic response to fructose via a dedicated gut-brain pathway 1.pdf"
 authors: [McKnight AD, de Araujo A, Hsu FY, Vargas-Elvira AG, Acosta AA, Smith MM, Iwueze W, de Lartigue G, Alhadeff AL]
@@ -56,3 +56,4 @@ year: 2026
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — 같은 시기 gut-brain×시상하부 짝(POMC 원심성 vagal-gut, 본 논문은 AgRP 구심성).
 - [[proposal-hunger-need-encoding-human-translation]] — 본 논문의 '영양소 정체' 발견을 Need(배고픔) 정의에 통합해 인간으로 번역하는 연구계획서(Aim 1 핵심 근거).
 - [[walker-2026-a-hypothalamic-circuit-for]] — "AgRP=feedforward 예측기"의 다른 축: 본 논문(영양소 정체) + Walker(외부 맥락·미래 부재 예측 cue→PVH^Sim2→AgRP) (Neuron 2026, Lowell lab).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.9.4 — 같은 열량에서 과당은 포도당보다 AgRP를 약하게 억제(섭취 후 장-뇌 경로 차이).

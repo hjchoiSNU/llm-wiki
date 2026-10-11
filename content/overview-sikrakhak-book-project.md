@@ -49,13 +49,13 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 ### Part V. 호르몬과 분자 신호 (Hormones and Molecular Signals)
 - **Ch 18. 식욕·포만 호르몬: 그렐린·렙틴·인슐린·(GLP-1)·CCK — 최형진** → [[overview-sikrakhak-ch18-appetite-hormones]] ✅ *(정리 완료)*
 - Ch 19. 엔도칸나비노이드와 음식 즐거움 — 이성준
-- **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "원함(wanting)" — 최형진** → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ *(정리 완료 → 2026-10-11 개정: 박태현 형식 3분할 docx, wanting=원함)* · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]
+- **Ch 20. 오피오이드·도파민 시스템: "좋아함(liking)" vs "원함(wanting)" — 최형진** → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] ✅ *(정리 완료 → 2026-10-11 개정: 박태현 형식 3분할 docx, wanting=원함 → 같은 날 v2: 생물학 중심 재정리·해부학 용어 영어·도파민 신호 절 추가)* · [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]
 - Ch 21. 호르몬 불균형과 쾌락적 섭식(비만으로의 생리·행동 기전) — 이성준
 - Ch 22. 인슐린 저항성과 음식 보상 — 이성준
 
 ### Part VI. 미래 전망 (Future Perspectives)
 - Ch 23. 분자에서 마음으로: 식락학의 통합 과학 — 정서진
-- **Ch 24. 음식 갈망과 중독: 생물학적·화학적 관점 — 최형진** → [[overview-sikrakhak-ch24-food-craving-addiction]] ✅ *(초안 2026-08-20 → 재집필 2026-10-10 → 음식 중독 강화 2026-10-11)* · [[concept-food-addiction]]·[[concept-incentive-sensitization]]·[[concept-hedonic-devaluation]]·[[lee-2019-food-craving-seeking-and]]
+- **Ch 24. 음식 갈망과 중독: 생물학적·화학적 관점 — 최형진** (2026-10-11 v2 원고 제목: 「음식 갈망과 중독: 진단과 치료」, 회의 확정 필요) → [[overview-sikrakhak-ch24-food-craving-addiction]] ✅ *(초안 2026-08-20 → 재집필 2026-10-10 → 음식 중독 강화 2026-10-11 → 같은 날 v2: 임상 중심 재구성)* · [[concept-food-addiction]]·[[concept-incentive-sensitization]]·[[concept-hedonic-devaluation]]·[[lee-2019-food-craving-seeking-and]]
 - **Ch 25. 비만의 근본적 치료를 위한 과학적 통찰 — 최형진** → [[lee-2025-hijacked-brain-modern-obesity-cue]]·[[concept-digital-therapeutics]]
 - Ch 26. 인공 감미료·지방 대체제: 미각 만족의 화학 vs 생물학 — 정서진
 - Ch 27. 즐거움을 위한 식품 디자인·정밀영양 — 홍재희
@@ -78,8 +78,8 @@ source: raw/출판 회의 안건_0406 수정 v2.docx
 ## 관련 페이지
 - [[reference-sikrakhak-glossary]] — ★ 교재 표준 용어집·표기 스타일(Neurogastronomy 번역 인덱스); 전 챕터 집필 시 용어·표기 통일 기준.
 - [[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 Ch 18 정리본(프로젝트 첫 산출물).
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20 정리본(둘째 산출물: 오피오이드·도파민 / liking·wanting). 2026-10-11 개정판은 박태현 교수님 9·10·11장 형식(목차·본문·그림 3분할 docx, 번호식 인용 29편, 그림 5개 새로 그림)으로 다시 썼고, 사용자 지시로 wanting을 ‘원함’(craving은 ‘갈망’)으로 옮겼다.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 Ch 24 정리본(셋째 산출물: 음식 갈망과 중독). 박태현 교수님 9·10·11장 포맷을 준용해 **목차·본문·그림 3분할 docx**로 작성(2026-10-10 재집필: 번호식 인용·5절 18소절·그림 5개 → 2026-10-11 개정: DSM-5 물질사용장애 11개 기준·피드포워드 순환·섭식장애–음식 중독 스펙트럼과 JKACAP 2024 증례 추가, 6절 23소절·참고문헌 41편·그림 7개. YFAS·섭식장애를 직접 다루게 되어 Ch 17과 범위 조율 필요).
+- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20 정리본(둘째 산출물: 오피오이드·도파민 / liking·wanting). 2026-10-11 개정판은 박태현 교수님 9·10·11장 형식(목차·본문·그림 3분할 docx, 번호식 인용 29편, 그림 5개 새로 그림)으로 다시 썼고, 사용자 지시로 wanting을 ‘원함’(craving은 ‘갈망’)으로 옮겼다. 같은 날 v2에서 생물학 중심으로 재정리하여 도파민 신호 절(현저성·예측 오류·ANCCR·노력·시간 척도·뒤집힌 U)과 식사 중 도파민 절(제24장에서 이동)을 더하고 약물 표적은 제24장으로 보냄(참고문헌 47편·그림 9개, 해부학 용어 영어).
+- [[overview-sikrakhak-ch24-food-craving-addiction]] — 사용자 Ch 24 정리본(셋째 산출물: 음식 갈망과 중독). 박태현 교수님 9·10·11장 포맷을 준용해 **목차·본문·그림 3분할 docx**로 작성(2026-10-10 재집필: 번호식 인용·5절 18소절·그림 5개 → 2026-10-11 개정: DSM-5 물질사용장애 11개 기준·피드포워드 순환·섭식장애–음식 중독 스펙트럼과 JKACAP 2024 증례 추가, 6절 23소절·참고문헌 41편·그림 7개. YFAS·섭식장애를 직접 다루게 되어 Ch 17과 범위 조율 필요). 같은 날 v2에서 임상 중심(진단·환자·치료)으로 재구성: 6절 18소절·참고문헌 29편·그림 5개, 기전은 Ch 20으로 이동.
 - [[person-choi-hyung-jin]] — 사용자(Ch 18·20·24·25 담당).
 - [[overview-appetite-energy-homeostasis]] — 사용자 담당 챕터들의 과학적 backbone(본 wiki spine).
 - [[concept-need-motivation-pleasure-utility]] — Ch 14·기호 vs 항상성 섭식의 이론 framework.
