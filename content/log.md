@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-12 09:45 — other (식락학 Ch 18·20 표기 정정: 18장 2026.10.12, 20장 2026.10.12 v3)
+Codex 추가 제안 검토 중 발견한 표기 누락을 고쳤다. 20장 본문과 그림 20.4의 약 이름(아미설프라이드 → amisulpride, 암페타민 → amphetamine)을 영어로 바꿨고, 18.5.2의 "먹기 전 단계의 포만감"을 18.1.2의 정의(포만 = satiation, 포만감 = satiety)에 맞춰 "포만"으로 고쳤다. → [[overview-sikrakhak-ch18-appetite-hormones]], [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]
+
 ## 2026-10-12 09:20 — other (식락학 Ch 24 그림 24.3 교체, 2026.10.12 v2)
 사용자 지시로 그림 24.3(스펙트럼)을 지우고 24.2.3에 「폭식을 호소하는 환자의 감별 진단」 흐름도를 새로 그렸다(통제 상실·객관적 양·보상 행동·폭식의 동력 순서, 회복기 폭식과 겹침 자료, 두 증례 표시). 본문에 설명 문단과 참고문헌 2편(Wu 2020, Bidopia 2023)을 더했다. → [[overview-sikrakhak-ch24-food-craving-addiction]]
 
