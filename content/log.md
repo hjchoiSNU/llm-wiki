@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-16 — query (LHA orexin 뉴런의 공발현 유전자, GABA·glutamate 표지)
+위키 내용만으로 답함(원본 재열람 없음). 글루탐산 쪽: Slc17a6 93%. GABA 쪽: Gad1 56% / Gad2 16% / Vgat 1.5–4%, GABA-IR 20%(VGAT⁻). 펩타이드: Pdyn·Penk·Iapp, Nts는 5%뿐. 그 밖의 표지: Nptx2·Rfx4·Pcsk1·Calb2 93%·Lhx9 등. 문헌 간 긴장(Penk, Nts, GABA 방출 여부)은 따로 적어 둠. → [[concept-orexin-neurons]], [[mickelsen-2019-single-cell-transcriptomic-analysis-of]], [[bonnavion-2016-hubs-and-spokes-of]], [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]], [[heiss-2024-distinct-lateral-hypothalamic-camkiia]], [[cheon-2025-lateral-hypothalamus-and-eating-cell]]
+
 ## 2026-10-12 09:45 — other (식락학 Ch 18·20 표기 정정: 18장 2026.10.12, 20장 2026.10.12 v3)
 Codex 추가 제안 검토 중 발견한 표기 누락을 고쳤다. 20장 본문과 그림 20.4의 약 이름(아미설프라이드 → amisulpride, 암페타민 → amphetamine)을 영어로 바꿨고, 18.5.2의 "먹기 전 단계의 포만감"을 18.1.2의 정의(포만 = satiation, 포만감 = satiety)에 맞춰 "포만"으로 고쳤다. → [[overview-sikrakhak-ch18-appetite-hormones]], [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]]
 
