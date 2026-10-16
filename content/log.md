@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-16 — query (LHA orexin 뉴런이 lateral habenula로 투사하는가)
+위키에는 직접 증거가 없다. Hcrt-Cre 추적이나 LHb 내 orexin 섬유를 보인 자료가 없다. 간접 증거는 Rossi 2021뿐이다: LHA^Vglut2→LHb 투사는 전측·Pax6⁺이고, Pdyn⁺/Hcrt⁺ 클러스터는 VTA 투사 쪽에 농축된다. 다만 이것은 농축 결과이지 배제는 아니다. 원본 확인: Rossi 2021 PDF는 llm-wiki-raw에도 동결 raw에도 없어 다시 읽지 못했다. 대신 Rossi 2023(TiNS) 원문을 다시 읽었는데, OX 투사는 VTA로만 서술하고 LHb 투사 집단은 Pax6로 규정한다. → [[rossi-2021-transcriptional-and-functional-divergence]], [[rossi-2023-control-of-energy-homeostasis]], [[concept-orexin-neurons]], [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]]
+
 ## 2026-10-16 — query (LHA orexin 뉴런의 공발현 유전자, GABA·glutamate 표지)
 위키 내용만으로 답함(원본 재열람 없음). 글루탐산 쪽: Slc17a6 93%. GABA 쪽: Gad1 56% / Gad2 16% / Vgat 1.5–4%, GABA-IR 20%(VGAT⁻). 펩타이드: Pdyn·Penk·Iapp, Nts는 5%뿐. 그 밖의 표지: Nptx2·Rfx4·Pcsk1·Calb2 93%·Lhx9 등. 문헌 간 긴장(Penk, Nts, GABA 방출 여부)은 따로 적어 둠. → [[concept-orexin-neurons]], [[mickelsen-2019-single-cell-transcriptomic-analysis-of]], [[bonnavion-2016-hubs-and-spokes-of]], [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]], [[heiss-2024-distinct-lateral-hypothalamic-camkiia]], [[cheon-2025-lateral-hypothalamus-and-eating-cell]]
 
