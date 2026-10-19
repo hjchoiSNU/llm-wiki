@@ -32,7 +32,6 @@ aliases: [emotional eating, stress eating, comfort eating, 정서적 섭식, 스
 - [[concept-loss-of-control-eating]] — 통제상실·binge 표현형.
 - [[concept-food-addiction]] — 정서적 과식·중독 유비.
 - [[concept-need-motivation-pleasure-utility]] — need 무관 hedonic/정서 drive.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.4·§24.4.6. 정서적 섭식을 음성 강화 틀로 재기술.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — ⚠️ **방향이 반대인 축**: 스트레스가 섭식을 **억제**하는 회로(LS^Nts→LH). 다만 **능동 도피(active coping)** 스트레스에만 켜지고 freezing·부동에는 켜지지 않는다 → 스트레스-섭식 연구에서 **대처 양식**을 층화해야 한다는 시사 (eLife 2020).
 - [[wang-2026-a-hypothalamic-circuit-links]] — ★ 정서적 과식의 **보상계 비경유(시상하부-내) 회로 기질**: 만성 HFD가 **ArcAgRP→PVNCRH→LHAGlu** 회로를 재결합해 불안+과식을 커플링. 불안을 midazolam으로 끄면 과식이 줄고(정서→섭식 인과), 하류 **LHA-CRHR2**는 과식만 선택적으로 매개(불안 무관). VTA→NAc 축 중심인 본 페이지 모델과 **상보/경쟁** (Nat Commun 2026).
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — ⚠️ **반대 방향 축의 1차 자료**: 이 페이지의 "스트레스·부정 정서 → 보상계 편향 → 과식" 프레임과 달리, LH^LepR 회로에서는 **불안이 섭식을 막고** 그 세포 활성이 그것을 **푼다**(밝고 새로운 arena에서 섭식 개시 앞당김 P=0.0286, 익숙·어두운 맥락 무효; EPM 불안 감소). 거식 모델(ABA)에서는 활성화가 **강박적 running을 기저로 낮춘다**. 임상 현상(정서적 과식 vs 불안성 회피·제한)이 **같은 LH 안에서 세포타입·맥락에 따라 부호가 갈리는 두 축의 상대 우세**로 설명될 수 있다는 가설로 병기 — glutamatergic 쪽 커플링은 [[wang-2026-a-hypothalamic-circuit-links|Wang 2026]] 참조 (Nat Neurosci 2025, Korotkova lab).

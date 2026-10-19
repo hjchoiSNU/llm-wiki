@@ -122,7 +122,6 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[concept-glp1ra-response-variability]] — 표현형 기반 개인화가 겨냥하는 문제(GLP-1RA 반응 이질성)를 유전·임상·행동·회로 4층으로 정리한 hub.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제의 유전 층 근거 (Nature 2026).
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 5-type 분류가 다루지 않는 축: 만성 HFD가 고칼로리 음식의 **쾌락 가치 자체를 낮추는** 회로 기전(NAcLat→VTA neurotensin). habit·restraint형이 쾌락 보고와 어긋나는 이유의 후보 설명 (Nature 2025).
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 5 표현형을 교재 §24.6.1의 개인화 치료 축으로 사용(식락학 Ch 24).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Restraint 표현형의 **상류 기제**: 사전 목표 선점이 주의 필터·가치 증폭으로 유혹을 애초에 덜 처리하게 함(간섭 차단); DTx 설계에 목표 확정 시점·진행률(momentum) 가시화 근거.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 표현형별 약물 선택에 **이상반응 프로필 비대칭**을 변수로 넣을 재료(위장관 중단=semaglutide 5.6% vs 2.7%, 주사부위=tirzepatide 8.6% vs 0.3%) (NEJM 2025)
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — **emotion·restraint 표현형의 회로 후보 1차 자료**(Nat Neurosci 2025, Korotkova lab). LH^LepR는 불안 자극에 흥분해 **불안을 상쇄**하고, 그 결과 노출된 공간 탐색·**불안한 환경에서의 섭식 개시**(P=0.0286)·거식 모델의 과잉 running 억제(P=0.004)를 가능하게 한다. ⚠️ 축의 방향 주의: 5-type의 **emotional eating**은 '불안이 섭식을 밀어 올린다'인데 이 회로는 '불안이 섭식을 막고 LepR가 푼다'다 — 같은 세포의 양방향(과활성 = 정서적 과식 / 저활성 = 회피·제한)인지 검증 가능한 대립 가설이다. **restraint** 표현형은 그 논문의 고불안·**PFC 과억제** 프로파일(PFC→LH 자극 → open arm 체류↓ P=0.00039; 억제 크기 × 불안 R=−0.86)에 더 가깝고, DTx·비침습 자극의 종결점을 '식욕 감소'가 아니라 **'불안 맥락에서의 접근 행동 회복'**으로 잡을 근거가 된다.
@@ -133,6 +132,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[rangel-2008-a-framework-for-studying-the]] — 5 표현형의 **계산적 대응표**(대응은 위키 해석): Cue형 = Pavlovian계(눈앞 음식을 배고픔과 무관하게 소비), Habit형 = 습관계(맥락·시간에 묶인 S-R), Addiction형 = 습관 ↔ 목표지향 충돌, Restraint형 = 목표지향 ↔ 목표지향 충돌(다이어터 예); Emotion형은 이 틀에 대응 항목이 없다. 과식을 "통제권 배정 실패"로 본 원전 (Nat Rev Neurosci 2008).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 리뷰가 섭식 습관의 가치 절하 연구를 2차 인용한다는 점(원문 인용 56·57)을 식이 노출 모델의 선행 문헌 확인 근거로 인용.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.5.3·20.8.3 — 제한 섭식의 역설, 표현형별 약물 선택의 임상 근거 부족.
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.2–25.5 — 안착점·알로스타시스, 3–5년 재발률 약 80%, 제한 배정 RCT의 통제 상실↑, 다섯 신경행동 원인과 축별 평가, 표현형 맞춤 치료(15.9% vs 9.0%), 사탕 그릇 55%, 코르티솔과 렙틴 민감성 38%↓.
 - [[song-2024-case-reports-of-binge-eating]] — 같은 lab의 임상 증례: restraint형(증례 1)과 addiction·emotion형(증례 2)의 실제 예시 후보.

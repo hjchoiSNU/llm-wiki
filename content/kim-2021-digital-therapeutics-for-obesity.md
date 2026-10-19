@@ -46,5 +46,3 @@ journal: "Endocrinology and Metabolism 36:220–228"
 - [[person-kim-meelim]] · [[person-choi-hyung-jin]] — 저자.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 약물로 20–30% 감량이 가능해지면서 저자들이 **treat-to-target** 전환을 주장 → DTx 역할이 감량 달성에서 유지·관리로 이동(연결 가설) (NEJM 2025, SURMOUNT-5)
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 v2(임상 중심) 24.5.2 — 디지털 치료제의 정의.
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.4.4 — 인지행동치료를 일상에서 전달하는 도구로서의 디지털 치료제.

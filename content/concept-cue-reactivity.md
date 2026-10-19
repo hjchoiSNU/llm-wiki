@@ -30,7 +30,6 @@ updated: 2026-10-04
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 마우스 NAcc에서 **행동 소거 후에도 cue 도파민이 양성 유지**(회고적 연합은 보상 없이 갱신되지 않음) → 소거 기반 개입 뒤 재발 취약성의 회로 후보; cue 없는 보상으로 회고적 연합을 희석하면 소거보다 빨리 감소 (Science 2022).
 - [[concept-inhibitory-control-demand]] — VR cue provocation으로 올라간 craving에 비례해 dlPFC·ACC 제어부하가 증가하는 trouble-resisting 국면.
 - [[zhang-2026-inherited-input-and-local-transformations]] — 학습된 cue 가치가 **전역 표상으로 부과되지 않고** 선재하는 감각 scaffold(pDMS의 cue 위치 지도) 위에만 얹힘. cue reactivity의 부위·감각 채널 편중에 대한 회로 문법 (bioRxiv 2026).
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.2. 단서 반응성을 갈망의 1차 발생원으로 놓고 회로·인체 근거·개입을 정리.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 마우스 LH^Vgat의 음식 cue 반응 ensemble은 혐오 자극과 공유되는 salience 신호다. 동공 각성과 결합하지만 **중립 tone(동공 확장)만으로는 동원되지 않는다** → cue reactivity의 각성 성분과 가치 성분을 분리하는 대조 설계 근거 (Cell Rep 2026).
 - [[sharpe-2021-past-experience-shapes-the]] — **무관한 cue를 걸러내는 능력의 회로 근거**(Nat Neurosci 2021). rat LH^GABA를 cue 사전노출 구간에만 광억제하면 **latent inhibition이 소실**된다(eYFP S1<S2 F(1,17)=8.508 P=0.010 → NpHR S1≈S2 F(1,17)=0.492). 같은 억제는 중립·원위 cue 학습을 **촉진**한다 → "보상 근접 cue 학습 vs 원위·무관 cue 학습의 비"를 cue reactivity·DTx의 종결점 후보로 쓸 수 있다(연결 가설).
 - [[rangel-2008-a-framework-for-studying-the]] — cue 반응성의 계산적 위치는 **Pavlovian 가치계**: 손 닿는 음식의 소비 행동에 배고픔과 무관하게 높은 가치를 준다(예: 접시 비우기). 편도 분업은 CeA = 비특이적 준비 반응, BLA = 특이적 반응. 도구적 습관(S-R)과는 다른 계이므로 cue형과 habit형을 따로 재야 한다 (Nat Rev Neurosci 2008).

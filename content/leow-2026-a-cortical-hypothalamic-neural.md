@@ -78,4 +78,3 @@ rostral zona incerta의 GABA성 뉴런(rZI^GABA)과 이를 구동하는 mPFC→r
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — "기본 보상(배고픔) 목표는 포기가 쉬워야 정상"이라는 예측 → 처벌 저항 HFD 추구가 비정상인 이유의 계산적 근거.
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 논문의 자유행동 miniscope 세션 간 추적(같은 시야 유지, 모든 세션에 있는 뉴런만 분석)과 음식 접촉 bout 정의를 영상·행동 설계의 선례로 인용.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.4.4 — rostral zona incerta GABA 뉴런이 처벌-저항 강박 섭식을 매개(섭취량 회로와 분리).

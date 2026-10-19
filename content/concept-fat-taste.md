@@ -71,7 +71,6 @@ LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) →
 - [[concept-insula]] — 1차 미각피질(구강 지방 신호 상위).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 orosensory vs post-ingestive DA.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 쾌락·욕망 연구계획서.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 맥락.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방→gut endocannabinoid 양성 피드백.
 - [[concept-endocannabinoid-system]] — 2-AG/anandamide–CB1 축 hub.

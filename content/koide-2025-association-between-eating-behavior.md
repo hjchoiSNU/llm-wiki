@@ -33,4 +33,3 @@ year: 2025
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(임상 층).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제(반응 이질성)의 **유전 층**. 본 연구의 행동 표현형 층화와 나란히 놓으면 2축 층화 모델. 단 유전 기여는 작다(전체 R² 25% 중 대부분이 비유전).
 - [[concept-glp1ra-response-variability]] — 두 축을 포함한 4층 hub.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 v2(임상 중심) 24.5.3 — 외부 단서 섭식이 GLP-1RA 반응을 예측.

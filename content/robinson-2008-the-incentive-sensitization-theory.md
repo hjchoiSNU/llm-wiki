@@ -33,5 +33,4 @@ Robinson & Berridge가 1993년 원전 IST를 재정리한 논문으로, 중독�
 - [[concept-dopamine-reward-system]] — 중변연계 도파민 감작이 기전적 기반
 - [[concept-nucleus-accumbens]] — NAc core의 구조적 가소성과 incentive salience
 - [[robinson-2025-incentive-sensitization-30-years]] — 동일 저자의 30주년 종합·갱신판
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 liking/wanting 종합
 - [[concept-reward-prediction-error]] — incentive salience를 다른 '현저성' 개념들(physical·novelty·motivational·perceived)과 구분한 표.

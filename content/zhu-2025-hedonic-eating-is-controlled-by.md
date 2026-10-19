@@ -108,7 +108,4 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — 소비 국면을 Motivation과 분리해 다룰 근거.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 DMH GLP-1R 회로(섭취 **전** 포만)와 대조: 본 논문은 GLP-1R 포만이 **소비 중** 도파민까지 누른다는 쪽.
 - [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 감량 방식에 따른 선조체 도파민 재설정 방향 논의와 연결.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 20.9.1(식사 단계별 도파민 네 단계)의 1차 출처.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — Ch 24 24.5.3(GLP-1RA의 보상 회로 작용)의 1차 출처.
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — Ch 25 25.2.1(세마글루타이드로 눌린 VTA DA 반응의 회복)의 1차 출처.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량이 진행될수록 쾌락 회로 반응이 되살아난다는 생쥐 짝 자료. **두 초안이 함께 게시될 때만** 링크가 유효.

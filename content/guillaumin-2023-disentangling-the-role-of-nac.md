@@ -33,7 +33,6 @@ year: 2023
 - [[concept-hedonic-hotspot]] — NAc shell 내 'liking' 증폭 영역과의 관계
 - [[concept-need-motivation-pleasure-utility]] — NMPU의 세포수준 substrate 제공
 - [[concept-food-addiction]] — D1 짝지음에 의한 선호 장기 전환·과소비와의 연결
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch20 liking/wanting 종합
 - [[person-choi-hyung-jin]] — 집필자 연구 맥락(NMPU 프레임)
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — NAc D1/D2 MSN subtype의 인간 분자·공간 정체.
 - [[concept-medium-spiny-neuron]] — D1/D2 MSN 개념 hub.

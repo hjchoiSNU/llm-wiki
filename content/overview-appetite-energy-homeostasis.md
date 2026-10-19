@@ -191,9 +191,6 @@ updated: 2026-10-11
 ### 인물
 [[person-choi-hyung-jin]]
 
-### 교재
-[[overview-sikrakhak-ch18-appetite-hormones]] — 사용자 저작 식락학 Ch 18(식욕·포만 호르몬)의 교육용 정리; 본 spine overview를 교재 narrative로 직조.
-
 ### 참고 단행본
 [[overview-behavioral-neuroscience-of-motivation-2016]] — 동기 신경과학 편저서(Simpson & Balsam 2016) hub; cost-benefit arbiter·다중 의사결정계가 NMPU와 동형. 추출 장: [[woods-2016-regulation-of-the-motivation]](섭식 동기)·[[odoherty-2016-multiple-systems-for-the-motivational]](인간 통제계)·[[redish-2016-the-computational-complexity-of-valuation]](가치 계산).
 

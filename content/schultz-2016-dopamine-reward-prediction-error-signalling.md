@@ -131,4 +131,3 @@ journal: "Nature Reviews Neuroscience 17:183–195 (Perspectives · Opinion; 온
 - [[concept-need-motivation-pleasure-utility]] — 주성분 = Pleasure 교사 신호 후보; utility 용어 충돌 주의.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 같은 Ch 20 절의 현저성 해석(대립 축).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 식사 단계 모식도에서 음식 접촉 시 "reward utility" 반응.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 20.5.1(두 성분)·20.5.3(시간척도)의 출처.

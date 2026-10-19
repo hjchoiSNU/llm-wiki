@@ -100,4 +100,3 @@ Bruchas lab(University of Washington)의 Chen & Bruchas가 같은 호의 Kutlu �
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — VTA 도파민 섭취 반응의 valence 의존성(quinine 첨가 시 감소).
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 같은 Ch 20 절에서 함께 쓰인 현저성 해석(국내 리뷰).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — 같은 Bruchas lab의 위키 수록 원저.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 20.4.1·20.5.1·20.5.3·그림 20.5b의 출처.

@@ -44,5 +44,4 @@ year: 2015
 - [[concept-orbitofrontal-cortex]] — medial/mid-anterior/lateral OFC 이질성 상세
 - [[concept-hedonic-hotspot]] — 피질하 hotspot이 단일 쾌락 시스템의 일부임
 - [[morales-2020-liking-and-wanting-in-eating]] — 동일 liking/wanting 틀의 설치류 기전 상보
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20의 opioid/dopamine 시간축 서술 보강
 - [[concept-need-motivation-pleasure-utility]] — 쾌락·효용의 개념적 위치

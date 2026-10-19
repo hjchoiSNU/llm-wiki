@@ -45,4 +45,3 @@ year: 2026
 - [[concept-consumption-vigor]] — 측정 구성개념(wanting/Motivation proxy).
 - [[concept-need-motivation-pleasure-utility]] · [[concept-appetitive-consummatory-phases]] — NMPU Motivation↔Utility, consummatory phase 특이 상태.
 - [[zhang-2026-inherited-input-and-local-transformations]] — **시간축 상보**: 본 논문이 섭취 **후** 도파민 sync state의 credit assignment를 다룬다면, 저쪽은 보상 **전** pVLS dSPN ramping이 섭취 개시 시점을 예측함을 보임 (bioRxiv 2026).
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.9.4 — 입안 신호와 장 신호가 시간적으로 겹칠 때에만 영양 학습.

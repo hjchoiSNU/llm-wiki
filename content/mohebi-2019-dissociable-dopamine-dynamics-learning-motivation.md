@@ -137,5 +137,4 @@ journal: "Nature 570:65–70"
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·restrained.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **전제 약화**: 본 페이지의 'local control(ChI→nAChR→DA 방출)은 VTA 발화 비의존' 규정에 대해, 그 ChI를 **VTA DA-GLU 버스트가 글루타메이트로 구동**한다고 본다. 본 연구의 optotagging 대상(외측 VTA DA)은 Mingote 지도상 medial shell을 회피하는 **DA-only** 집단. 'NAc shell=reward rate 무상관'도 shell이 추적하는 변수가 **유관성 변화·alerting salience**라면 회귀변수 불일치일 수 있음.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.4.3 — 학습 신호(VTA 발화)와 동기 신호(측좌핵 국소 방출)의 분리.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 이 논문의 발화–방출 해리를 "non-RPE cue에 대해 방출하는 미지의 도파민 아집단" 가능성으로 해석한 dispatch(본 페이지의 국소 조절 해석과 대비).

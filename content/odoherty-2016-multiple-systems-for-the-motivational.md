@@ -57,7 +57,6 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 스트레스의 goal-directed→habit 전환(설치류 회로).
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — 인간 OFC 강박 arbitration.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·addiction형 과식 임상 분류.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 보강(PIT·다중계·effort)에 인용.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal/habit이 시스템이 아니라 **단계**로 배분될 수 있음: 목표 **선택은 model-free(습관적)**, **실행은 model-based**(Cushman & Morris 2015); Rubicon·HRL option 틀로 목표 안정성 설명 (Trends Cogn Sci 2026).
 - [[concept-habit]] — 습관 개념 hub — 목표지향·습관·파블로프 3계와 devaluation 기준을 정의의 원전으로 사용, 습관적 과식 경로 A–G로 확장.

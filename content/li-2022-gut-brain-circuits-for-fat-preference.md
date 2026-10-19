@@ -64,4 +64,3 @@ year: 2022
 - [[concept-endocannabinoid-system]] — CB1 축 hub.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 상보: 장→뇌 선호/혐오를 EEC 아형으로 해부.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 당 vs 지방의 gut-brain 후-섭취 보상(동일 계열).
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.9.4 — 장 지방산 수용체(GPR40/120)→vagus nerve 경로가 지방 선호를 만듦.

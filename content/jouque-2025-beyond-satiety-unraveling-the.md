@@ -119,4 +119,3 @@ ScRNA-seq (Campbell 2017, Lam 2017, Steuernagel 2022):
 - [[proposal-pomc-endorphin-food-pleasure]] — 본 paper의 β-endorphin paradox(Minère 2025)를 사용자 lab 연구계획서로 전환(쾌락 vs 식욕 인과 분리).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-quarta-carmelo]] · Daniela Cota — 저자.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.3.5 — POMC→PVT β-endorphin에 의한 당 과식(Minère 2025) 인용.

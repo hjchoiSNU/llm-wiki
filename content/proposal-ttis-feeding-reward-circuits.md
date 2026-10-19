@@ -74,7 +74,7 @@ updated: 2026-06-02
 - **세계 최초 비침습 인간 섭식·보상 심부회로 신경조절** — [[person-halpern-casey|Halpern]] 침습 rDBS의 비침습 등가물.
 - [[concept-need-motivation-pleasure-utility|NMPU]]의 Pleasure(NAc)·Need(시상하부) 축을 인간에서 **비침습 조작**하는 도구 → 이론 검증 + 치료 동시.
 - DTx·약물([[concept-glp-1|GLP-1RA]])과 병용 가능한 회로 표적 electroceutical 플랫폼.
-- 식락학 교재 [[overview-sikrakhak-book-project|Ch 25(비만 근본 치료)]]의 직접 연구 기반.
+- 식락학 교재 Ch 25(비만 근본 치료)의 직접 연구 기반.
 
 ## 관련 페이지
 - [[proposal-ttis-nrf-junggyeon]] — 본 과제의 한국연구재단 **중견연구** 제출 양식 버전.

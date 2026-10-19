@@ -47,7 +47,6 @@ updated: 2026-10-11
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — cue가 결과 표상을 통해 의사결정을 통제(habit 자동성 반박); LH 표적이 cue 통제력↓·균형 학습 회복 가능성 (Neuron 2026).
 - [[shin-2023-early-adversity-promotes-binge-like-eating]] — 반복 노출 증폭 binge-like eating의 회로.
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌(quinine·shock)-저항 강박 섭취의 피질-시상하부 회로(mPFC→rZI^GABA); Halpern NAc biomarker와 상보적인 상류 축, 인간 rZI-mPFC FC가 binge·BMI와 상관.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.5.4. 중독 개념 논쟁을 우회하는 임상 표현형으로 LOC eating을 배치.
 - [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 비만에서는 통제 상실감보다 **음식 주의력 저하(mindless eating)**·억제섭식↑이 전면에 온다(대비 표현형, 사용자 lab).
 - [[wu-2020-brain-responsive-neurostimulation-for-loss]] — BITES 프로토콜의 LOC 포함기준(주당 ≥4회 LOC, EDE 확인)과 1차 종결점(주당 ≥1회 감소를 피험자 ≥50%에서) 원전.
 - [[parker-2022-appetitive-mapping-of-the-human]] — 'LOC는 pre-meal 음성정동 뒤에 온다 → NAc 자극으로 positive affect를 evoke'라는 치료 가설과 수술 중 매핑.

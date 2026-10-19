@@ -32,6 +32,5 @@ year: 2021
 - [[concept-basolateral-amygdala]] — 편도 내 BLA vs CeA의 보상·동기 기능 대비
 - [[concept-lateral-hypothalamus]] — CeA의 주요 하류 투사 표적, 섭식 동기 연결
 - [[concept-need-motivation-pleasure-utility]] — NMPU 프레임에서 motivation(=wanting)의 회로 substrate
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch20 liking/wanting 종합
 - [[berridge-2023-separating-desire-from-prediction-of]] — 본 CeA '아픈 것을 원하기'를 'desire≠prediction' 핵심 반례로 인용한 Berridge 리뷰 (TiCS 2023).
 - [[person-choi-hyung-jin]] — 저자/집필자 연구 맥락

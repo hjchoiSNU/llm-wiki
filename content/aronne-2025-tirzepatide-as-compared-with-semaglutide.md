@@ -108,4 +108,3 @@ journal: "N Engl J Med 2025;393:26–36 (online 2025-05-11); doi:10.1056/NEJMoa2
 - [[le-roux-2026-survodutide-once-weekly-for]] — 공저자 le Roux가 참여한 glucagon-R/GLP-1R dual phase 3
 - [[concept-digital-therapeutics]] · [[kim-2021-digital-therapeutics-for-obesity]] — treat-to-target 전환 시 DTx 역할 이동
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 사용자 lab. 표현형별 정밀 치료 프레임
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.2.1 — 72주 직접 비교(751명) 티르제파타이드 −20.2% vs 세마글루타이드 −13.7%: 가장 효과적인 식욕억제제로 소개.

@@ -98,5 +98,3 @@ journal: "N Engl J Med 365:1597–1604 (2011-10-27) — University of Melbourne 
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 감량이 진행될수록 **쾌락 회로 쪽 반응이 되살아난다**는 생쥐 짝 자료. 본 연구의 "말초 호르몬은 돌아오지 않는다"와 합치면 유지 실패의 두 층(말초 신호 + 중뇌 보상)이 된다. <!-- 주의: 같은 날 함께 올리는 초안. Zhu 페이지를 게시하지 않으면 이 줄을 삭제할 것. -->
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 감량 유지 실패를 환경·단서·표현형으로 확장하는 사용자 lab 프레임.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[overview-sikrakhak-ch18-appetite-hormones]] — ★ 식락학 Ch 18 **18.2.4**와 **그림 18.3(b)** 의 1차 출처.
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — Ch 25 25.2(왜 요요가 오는가)가 기대는 다이어트 쪽 근거.

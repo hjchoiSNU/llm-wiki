@@ -102,7 +102,7 @@ flowchart LR
 - [[concept-need-motivation-pleasure-utility|NMPU]]의 **Pleasure(구강 proxy)–Motivation(wanting)–Utility(post-oral)** 분리를 지방 감각에서 실증 — framework 핵심 검증.
 - **구강 지방 = 쾌락·욕망의 초안, 영양 = 강화의 확정**이라는 원리 → 비-칼로리 지방 대체재·초가공식품 supra-additivity 대응의 회로 근거.
 - **GLP-1RA의 구강 vs post-oral 작용점** 판별 → 약물·[[concept-digital-therapeutics|DTx]] 정밀화.
-- 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)·Ch 24(음식 갈망·중독)·Ch 25(비만 근본 치료)** 의 실험적 backbone([[person-choi-hyung-jin]]·[[overview-sikrakhak-book-project]]).
+- 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)·Ch 24(음식 갈망·중독)·Ch 25(비만 근본 치료)** 의 실험적 backbone([[person-choi-hyung-jin]]).
 - **[[proposal-pomc-endorphin-food-pleasure|POMC β-endorphin 쾌락]]** 과제와 **Pleasure 축에서 상보** — 중추(β-endorphin) + 말초/구강(orosensory fat)의 두 쾌락 기원.
 
 ## 관련 페이지
@@ -117,7 +117,6 @@ flowchart LR
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer(sucralose 논리)·fat 평행 경로.
 - [[concept-need-motivation-pleasure-utility]] — Pleasure·Motivation·Utility 축·liking/wanting.
 - [[concept-liking-wanting]] — 구강 지방 맛이 ‘좋아함’·‘갈망’을 분리 구동하는지의 개념 토대(식락학 Ch 20).
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 제안이 backbone인 사용자 식락학 Ch 20.
 - [[concept-insula]] — orosensory(1차 미각) 피질 hub.
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 insula 음식 cue 선제 부호화.
 - [[concept-basolateral-amygdala]] — post-ingestive 영양가치(Utility) hub.

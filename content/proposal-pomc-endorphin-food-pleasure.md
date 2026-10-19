@@ -101,7 +101,7 @@ flowchart LR
 - [[concept-need-motivation-pleasure-utility|NMPU]] **Pleasure 축의 시상하부 분자 기원**을 정박 — framework의 가장 약한 고리(쾌락 회로의 hypothalamic root) 보강.
 - **포만 뉴런이 쾌락 뉴런이기도 하다**는 패러다임 — [[concept-pomc-neurons]]·[[concept-melanocortin-system]] 재해석.
 - **satiety(α-MSH/setmelanotide) vs hedonic(β-endorphin/naltrexone) 분리 표적** 약리 — [[concept-digital-therapeutics|DTx]]·약물 병용 논리의 cell-type 근거.
-- 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)·Ch 24(음식 갈망·중독)·Ch 25(비만 근본 치료)** 의 실험적 backbone([[person-choi-hyung-jin]]·[[overview-sikrakhak-book-project]]).
+- 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)·Ch 24(음식 갈망·중독)·Ch 25(비만 근본 치료)** 의 실험적 backbone([[person-choi-hyung-jin]]).
 - [[proposal-lh-nac-nmpu-neuron-discovery|LH·NAc NMPU 세포 발굴]]·[[proposal-nmpu-human-translation|NMPU 인간 번역]]과 **Pleasure 축에서 상보** — ARC(β-endorphin) → NAc/PVT(Pleasure) 회로 완성.
 
 ## 관련 페이지
@@ -111,7 +111,6 @@ flowchart LR
 - [[concept-need-motivation-pleasure-utility]] — Pleasure 축·liking/wanting·약물 표적 매핑.
 - [[concept-liking-wanting]] — 본 제안의 핵심 개념(오피오이드 ‘좋아함’ vs 도파민 ‘갈망’ 인과 분리).
 - [[concept-hedonic-hotspot]] — β-endorphin/MOR가 작용하는 ‘좋아함’ 증폭 부위.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 제안이 backbone인 사용자 식락학 Ch 20.
 - [[concept-appetitive-consummatory-phases]] — liking(consummatory) vs wanting(appetitive) 행동 분리 framework.
 - [[concept-primary-reward-signals]] — proxy(taste/oral) vs primary(post-oral) reward — Pleasure 정의 보조.
 - [[concept-nucleus-accumbens]] — Pleasure 축 핵심 표적(opioid hedonic).

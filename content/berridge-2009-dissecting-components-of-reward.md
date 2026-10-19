@@ -30,6 +30,5 @@ year: 2009
 - [[concept-hedonic-hotspot]] — 'liking'을 증폭하는 opioid/endocannabinoid/GABA 제한 부위
 - [[concept-dopamine-reward-system]] — 'wanting'을 매개하는 mesolimbic dopamine, liking에는 불필요
 - [[concept-incentive-sensitization]] — 본 논문이 토대를 제공하는 중독의 incentive-sensitization 이론
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 opioid/dopamine 서술의 1차 근거 문헌
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — mesolimbic dopamine의 동기적 기능에 대한 보완·대비 관점
 - [[concept-reward-prediction-error]] — 보상 3성분 중 learning(예측)과 wanting을 도파민 해석 논쟁 안에 배치.

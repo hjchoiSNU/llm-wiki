@@ -30,5 +30,4 @@ N=131 무작위·이중맹검·위약대조 약리 연구에서, 보상에 대�
 - [[concept-dopamine-reward-system]] — amisulpride(D2/D3)가 동기/노력에 작용, 소비 쾌락엔 무효
 - [[concept-hedonic-hotspot]] — opioid 특이적 소비 쾌락(미소 반응)과의 연결
 - [[concept-need-motivation-pleasure-utility]] — 동기·쾌락 구성요소의 약물별 분리
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 인간 번역·암묵 측정 방법론 근거
 - [[person-choi-hyung-jin]] — 집필자 연구 관점(liking/wanting 인간 번역)

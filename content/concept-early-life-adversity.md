@@ -52,4 +52,3 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 - [[concept-peripheral-epigenetic-biomarker]] — 혈액·타액 표지(`NR3C1`·`BDNF`·`SLC6A4`·`GRIN2B`·`PXDN`)의 쓸 수 있는 범위와 한계.
 - [[person-maze-ian]] — 위 종합의 출처 그룹.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 자손 역경의 **상류인 양육 행동** 쪽 리뷰: 스트레스·CRH가 retrieval·grooming·nursing을 낮추고 방치를 늘리며, 감작·경험이 그 억제를 완충한다.
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.5.2 — 어린 시절 환경이 평생의 보상 회로 취약성을 만든다는 논지(근거는 주로 동물·상관).

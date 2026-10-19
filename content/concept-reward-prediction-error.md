@@ -94,7 +94,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - **20.5.3**: 노력 선택 실험(강웅구·Salamone), 시간척도(Schultz Box 1 + dispatch Fig. 1D), Hamid·Mohebi.
 - **20.8.2**: "보상 예측 오류가 음의 값이면 다음 동기는 줄어든다" — Schultz의 학습 기전 서술(음의 PE가 낮은 보상과 연관된 행동을 불리하게 함)과 정합.
 - **20.9.1**: Zhu 2025의 네 단계(cue = 20.5.2의 RPE 신호, 음식 접촉 = 효용).
-- **원문 대조 요점**: 20.5의 사실 서술은 두 논문과 일치한다. 다만 ① "위의 결과도 이 두 성분 모형으로 설명할 수 있다"는 두 원문 어디에도 없는 추론이고 부분적으로만 지지된다, ② 소제목의 '현저성'은 Schultz 2016의 결론(현저성 = 초기·일시 부분)과 긴장한다, ③ '효용'이 Schultz/Zhu의 즉각 효용과 NMPU의 지연 Utility에 함께 쓰인다(그림 20.9의 a와 b 패널), ④ 20.5.1의 "먹는 동안 도파민 농도가 오히려 떨어진다는 보고"(강웅구 2011이 인용한 Ahn & Phillips 2002)와 20.9.1의 "먹는 동안 도파민 뉴런 활동이 유지"(Zhu 2025)는 측정 대상·시간척도가 달라 함께 읽을 때 구분을 적어야 한다. 세부 문장 대조는 [[schultz-2016-dopamine-reward-prediction-error-signalling]]·[[chen-2021-neuromodulation-a-model-for-dopamine]]의 Ch 20 절과 [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]].
+- **원문 대조 요점**: 20.5의 사실 서술은 두 논문과 일치한다. 다만 ① "위의 결과도 이 두 성분 모형으로 설명할 수 있다"는 두 원문 어디에도 없는 추론이고 부분적으로만 지지된다, ② 소제목의 '현저성'은 Schultz 2016의 결론(현저성 = 초기·일시 부분)과 긴장한다, ③ '효용'이 Schultz/Zhu의 즉각 효용과 NMPU의 지연 Utility에 함께 쓰인다(그림 20.9의 a와 b 패널), ④ 20.5.1의 "먹는 동안 도파민 농도가 오히려 떨어진다는 보고"(강웅구 2011이 인용한 Ahn & Phillips 2002)와 20.9.1의 "먹는 동안 도파민 뉴런 활동이 유지"(Zhu 2025)는 측정 대상·시간척도가 달라 함께 읽을 때 구분을 적어야 한다. 세부 문장 대조는 [[schultz-2016-dopamine-reward-prediction-error-signalling]]·[[chen-2021-neuromodulation-a-model-for-dopamine]]의 Ch 20 절.
 
 ### 10. 열린 문제와 자료 없음
 - **Kutlu 2021 원전**과 KCS 모형의 식·파라미터 — 위키에 없음(dispatch 요약만).
@@ -124,4 +124,3 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] · [[concept-primary-reward-signals]] · [[yang-2026-a-sync-state-in-the]] · [[grove-2022-dopamine-subsystems-track-internal]] — 섭취 후 강화.
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Pleasure 교사 신호, 두 개의 utility.
 - [[concept-effort-based-decision-making]] — 노력 기반 의사결정 hub.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20 20.5의 개념 지도.

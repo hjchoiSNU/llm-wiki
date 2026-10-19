@@ -7,7 +7,7 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **‘[[concept-liking-wanting|갈망]]’이 ‘좋아함’을 추월하는 중독·과식의 기전.** 반복적 보상 노출이 중변연계 [[concept-dopamine-reward-system|도파민]] ‘갈망’ 시스템을 **감작**시켜, **즐거움(‘좋아함’)은 평탄/감소해도 단서 유발 갈망은 폭주**한다(Robinson & Berridge 1993–2025). 음식·비만으로 확장되면 ‘음식이 더 즐거워서’가 아니라 **음식 cue에 과도한 유인 현저성**이 부여되는 [[concept-food-addiction|음식 중독]] 서명 → 사용자 식락학 [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting|Ch 20]]·비만 치료 ‘의지의 문제 아님’ 논리의 핵심.
+> **‘[[concept-liking-wanting|갈망]]’이 ‘좋아함’을 추월하는 중독·과식의 기전.** 반복적 보상 노출이 중변연계 [[concept-dopamine-reward-system|도파민]] ‘갈망’ 시스템을 **감작**시켜, **즐거움(‘좋아함’)은 평탄/감소해도 단서 유발 갈망은 폭주**한다(Robinson & Berridge 1993–2025). 음식·비만으로 확장되면 ‘음식이 더 즐거워서’가 아니라 **음식 cue에 과도한 유인 현저성**이 부여되는 [[concept-food-addiction|음식 중독]] 서명 → 사용자 식락학 Ch 20·비만 치료 ‘의지의 문제 아님’ 논리의 핵심.
 
 # 유인-감작 이론 (incentive-sensitization theory, IST)
 
@@ -50,7 +50,6 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 
 ## 관련 페이지
 - [[concept-liking-wanting]] — ‘갈망’이 속한 보상 이중 해리 틀.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 사용자 Ch 20(§20.5 유인-감작).
 - [[concept-dopamine-reward-system]] — 감작되는 중변연계 회로.
 - [[concept-food-addiction]] — 음식으로의 확장 임상 출구.
 - [[concept-need-motivation-pleasure-utility]] — Motivation 축의 병적 과활성.
@@ -64,7 +63,6 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — 당 섭취의 cocaine/amphetamine 교차민감화.
 
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **경쟁 프레임**: 만성 HFD에서 고칼로리 음식의 무노력 섭취·선호가 실제로 감소(hedonic devaluation). 단, 같은 경로 자극의 place preference는 유지돼 두 축이 분리 가능함을 시사 (Nature 2025).
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24. 유인-감작과 [[concept-hedonic-devaluation|쾌락 가치 저하]]의 충돌을 **측정 축의 차이**(cue 유발 접근 행동 vs 자유 소비량)로 화해시킨 논증 수록.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **대비 프레임**: IST는 감작된 '갈망'을 쾌락 이론·음성강화와 **구분되는 독립 동기 과정**으로 두는 반면, Lüscher & Janak은 양성강화와 음성강화를 **합산 항**으로 배치해 dorsalization→[[concept-compulsion|compulsion]]에 이르게 한다. 같은 현상(cue 과대평가)을 IST는 감작으로, 이쪽은 **비정상 RPE 교사신호의 누적**으로 설명 (Annu Rev Neurosci 2021).
 - [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — **경쟁 해석**: Sharpe(Trends Cogn Sci 2024)는 Berridge & Valenstein 1991·Wyvell & Berridge 2001을 인용하면서도, 중독에서 LH의 기여를 incentive salience의 **감작**이 아니라 **학습 편향**(LH 과활성 → 보상 cue 과학습 + 중립 정보 학습↓)으로 설명한다. 근거는 코카인·메스 후 LH→VTA 강화다. IST의 'wanting ≠ 예측 학습' 구분과 기전 수준에서 경쟁하며, 원문은 둘을 구분하지 않는다(병기).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 억제가 sucrose/cocaine **조건화(CPP)** 는 갈라 조절하되(sucrose만 차단) cocaine **운동 감작의 발달**은 둔화시킨다 → 음식·약물이 공유하는 축이 유인-감작(가소성)일 가능성을 가르는 설계 후보.

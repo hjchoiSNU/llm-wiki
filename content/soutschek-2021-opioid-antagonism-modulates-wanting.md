@@ -29,6 +29,5 @@ year: 2021
 - [[concept-dopamine-reward-system]] — D2/D3 길항 amisulpride 무효, dopamine-wanting 단순 대응에 대한 의문
 - [[concept-nucleus-accumbens]] — 선조체 seed PPI로 전두-선조체 결합 변화 측정
 - [[concept-orbitofrontal-cortex]] — liking 평정이 OFC·dorsal PCC와 연관
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 인간 번역 섹션의 핵심 인간 약리-fMRI 근거
 - [[person-choi-hyung-jin]] — 집필자 연구 관점(liking/wanting 인간 번역)
 - [[song-2024-case-reports-of-binge-eating]] — 음식 중독이 동반된 섭식장애에서 naltrexone 고려를 제안(증례 2에 추가했으나 용량·시점 미기재, 효과 분리 불가).

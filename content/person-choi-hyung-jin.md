@@ -85,9 +85,6 @@ ORCID: 0000-0003-0593-6978
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — Gut-brain (NRGH 2026)
 
 ### 식락학(Food Hedonology) 교재 프로젝트
-- [[overview-sikrakhak-book-project]] — 8인 공저 교재(6 Part·28 챕터). 사용자 담당 4개 챕터: **Ch 18**(호르몬)·**Ch 20**(opioid·dopamine liking/wanting)·**Ch 24**(음식 갈망·중독)·**Ch 25**(비만 근본 치료).
-- [[overview-sikrakhak-ch18-appetite-hormones]] — Ch 18 정리본(그렐린·렙틴·인슐린·GLP-1·CCK). [[overview-appetite-energy-homeostasis]] 및 ingest 논문들이 직접 소스.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 정리본(오피오이드 ‘좋아함’ vs 도파민 ‘갈망’; [[concept-liking-wanting]]·[[concept-hedonic-hotspot]]·[[concept-incentive-sensitization]]).
 - Food Hedonology Society(가제) 출범 준비 중; 이화여대 K-MOOC <식락학> 교과목 2027 개발 승인.
 
 ## 임상·지도
@@ -119,6 +116,4 @@ ORCID: 0000-0003-0593-6978
 - [[lee-2019-food-craving-seeking-and]] · [[kim-2020-multidimensional-cognitive-behavioral-therapy]] · [[kim-2021-digital-therapeutics-for-obesity]] · [[kim-2021-mental-health-of-people]]
 - [[johansen-2025-brain-control-of-energy]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[godschall-2026-a-brain-reward-circuit-inhibited]] · [[duran-2026-the-central-amygdala-integrates]] — 본 lab 논문(Kim KS 2024 Science 등)을 인용한 외부 리뷰·연구 (Cell·Neuron·Nature·bioRxiv 2025–26).
 - [[person-nord-camilla]] — Cambridge 계산정신의학; [[concept-metabolic-interoception|대사–정신건강]]·GLP-1·보상 축의 접점.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 교재 Ch 24(음식 갈망과 중독) 집필본 정리 (2026-08-20).
 - [[person-kim-sung-yon]] — 같은 서울대에서 LH^Vgat을 2광자 단일세포 영상으로 연구하는 lab. Lee 2026 Cell Rep이 사용자 lab의 Lee 2023·Kim 2024를 인용
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 사용자 저작 식락학 Ch 25(비만의 근본적 치료) 초고 정리.

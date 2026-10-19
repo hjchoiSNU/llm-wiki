@@ -84,7 +84,6 @@ journal: "Nature 651:572–574 (Feature)"
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민 프레임 확장의 구체 사례: 수용체 신호가 아닌 **히스톤 공유결합(H3 dopaminylation)** 이 전사·행동을 인과 매개 (Nature 2026).
 - [[concept-h3-dopaminylation]] — 그 작용 양식의 개념 hub.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 20.4.3 — 도파민이 무엇을 계산하는지는 아직 논쟁 중(RPE·ANCCR·위협·새로움 신호)이라는 서술의 근거.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — "도파민이 위협·혐오·새로움을 신호한다"는 도전에 대한 RPE 진영의 2016년 답(혐오 = 물리적 충격, 새로움 단독은 불충분).
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 도전 #2 Kutlu 2021의 다른 해설: 기사의 'stressful stimuli' 대신 지각된 현저성(강도·새로움)으로 해석.
 - [[concept-reward-prediction-error]] — 기사 속 진영들(RPE·위협/혐오/새로움·ANCCR)을 원전 기준으로 정리한 hub.

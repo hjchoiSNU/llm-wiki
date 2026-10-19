@@ -83,4 +83,3 @@ publisher: "Springer — Current Topics in Behavioral Neurosciences vol. 27"
 - [[concept-dopamine-reward-system]] · [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — 도파민·effort 장의 대응.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[rangel-2008-a-framework-for-studying-the]] — 이 책의 다중 의사결정계 장(O'Doherty·Redish)이 딛고 선 선행 틀: 5단계 계산 + Pavlovian·습관·목표지향 가치계 + 통제권 배정 (Nat Rev Neurosci 2008).
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 개정판 — O'Doherty(PIT·습관), Treadway(EEfRT), Robinson 외(음식·도박) 장을 인용.

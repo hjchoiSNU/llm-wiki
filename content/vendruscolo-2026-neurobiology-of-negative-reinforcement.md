@@ -58,4 +58,3 @@ year: 2026
 - [[concept-emotional-eating]] — 정서적 섭식 개념 hub.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — 같은 음성강화 축의 **선조체·중뇌 판본**(Annu Rev Neurosci 2021). 본 리뷰가 확장편도체(CeA/BNST)를 상세히 다루는 반면, 저쪽은 LHb→RMTg→VTA·D2-MSN→VP 좌표와 시냅스 인과(GluA1)를 제공 — 상보적으로 읽을 것.
 - [[concept-lateral-habenula]] — 본문에 등장하는 LHb→RMTg→VTA 축의 개념 hub.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 식락학 Ch 20(사용자 집필) 2026-10-11 v2 20.10.4 — 하이퍼카티페이아와 부적 강화.

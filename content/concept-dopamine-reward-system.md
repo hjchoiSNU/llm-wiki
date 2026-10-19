@@ -120,7 +120,6 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[concept-liking-wanting]] — 도파민은 ‘갈망(wanting)’을 매개하되 ‘좋아함(liking)’에는 불필요; 보상 이중 해리 hub(식락학 Ch 20).
 - [[concept-incentive-sensitization]] — 중변연계 도파민 감작이 ‘갈망’을 ‘좋아함’과 무관하게 폭주시키는 중독·과식 기전.
 - [[concept-hedonic-hotspot]] — 도파민 ‘갈망’ 회로와 대조되는 오피오이드 ‘좋아함’ 증폭 부위.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 hub의 ‘갈망’ 축을 교재 narrative로 정리한 사용자 Ch 20.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포의 좋아함–갈망 분리(세포 수준).
 - [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도가 중변연계(VTA·NAc)를 동원해 ‘갈망’을 표적에 집중.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 이 hub를 'reward 너머 에너지항상성'으로 확장한 통합 리뷰(DA ensembles, TEM 2026).

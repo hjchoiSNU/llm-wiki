@@ -42,4 +42,3 @@ year: 2023
 - [[de-vrind-2019-effects-of-gaba-and]] — **같은 LH^Lepr→PAG 투사에 다른 출력을 배정한 사례**(Obesity 2019, Adan lab): 본 논문은 LH^Lepr→vlPAG^Penk를 초기역경 후 HFD 폭식 경로로 규명했고, 그쪽은 LH LepR·GABA의 **caudal PAG 투사**를 hM3Dq 활성 시 나타난 체온 상승(열생산)의 경로 후보로 제시한다 — 그쪽 LepR 활성은 lard 섭취를 바꾸지 않았다. 모델(naive vs ELT)·PAG 아영역이 달라 병기.
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — ⚠️ 본 논문은 ELT·leptin 저항에서 LH^Lepr→vlPAG^Penk 탈억제가 **폭식(섭취↑)을 구동**한다고 보지만, Siemian 2021은 정상 동물에서 LH^LepR 세포체·VTA 말단 조작이 섭취 무변이라 본다. 두 결과는 **경로 분업**으로 양립 — Siemian이 조작한 세포체·VTA 축은 Shin에서도 폭식에 무효였고 효과는 vlPAG 한정(병기).
 - [[concept-habit]] — 습관 개념 hub — 발달기 취약성 경로(E)로 정리; 제목의 'habit'이 devaluation으로 검증된 조작적 습관은 아님을 명시.
-- [[overview-sikrakhak-ch25-root-cause-obesity-treatment]] — 식락학 Ch 25(사용자 집필) 2026-10-11 초고 25.5.2 — 생후 초기 모성 분리 생쥐가 평소엔 정상이나 고지방 먹이 반복 노출 시 폭식·체중 증가(잠재적 취약성).

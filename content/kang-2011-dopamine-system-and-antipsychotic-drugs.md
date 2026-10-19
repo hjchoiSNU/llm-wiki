@@ -9,7 +9,7 @@ year: 2011
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **도파민은 쾌감(hedonia)이 아니라 자극의 salience와, 비용을 치르고라도 더 큰 보상을 추구하려는 동기를 전한다**는 주장을 정신약물학 언어로 정리한 국문 종설이며, [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting|식락학 Ch 20]] 20.5(현저성·노력 선택 실험·탐색 시스템·뒤집힌 U)의 원천이다.
+> **도파민은 쾌감(hedonia)이 아니라 자극의 salience와, 비용을 치르고라도 더 큰 보상을 추구하려는 동기를 전한다**는 주장을 정신약물학 언어로 정리한 국문 종설이며, 식락학 Ch 20 20.5(현저성·노력 선택 실험·탐색 시스템·뒤집힌 U)의 원천이다.
 > Kang의 탐색(seeking) 시스템 서술(욕구가 추구를 켜고 포만이 끄며, 항상성 회복과 무관한 욕구를 만드는 자극이 중독을 일으킨다)은 [[concept-need-motivation-pleasure-utility|NMPU]]의 Need→Motivation 고리와 겹친다. 다만 **Kang은 중독성 욕구도 'need(욕구)'라 부르고 포만을 '일종의 쾌감'으로 묶는다**(NMPU: Need = 예측된 결핍, 포만·영양 = Utility, 식락학 그림 20.8). 둘을 나란히 쓸 때는 용어 대응을 밝혀 둘 것.
 > ⚠️ 동물 실험은 대부분 2차 인용이고 그림 4는 수치 없는 모식도다. 교재 인용은 원 논문을 확인한 뒤가 안전하다.
 
@@ -120,7 +120,7 @@ year: 2011
 - **결론**: 항정신병 약물이 여러 질환에 듣는 것은 **병적으로 커진 salience를 줄여 자신이 겪는 심리적 상황에 관심을 덜 갖게** 하기 때문이다. 그러나 병적 관심과 정상적 관심은 서로 다른 회로에서 처리되지 않으므로 **건강한 심리 체험도 줄일 수 있다** → 증례마다 용량을 낮추려는 노력이 필요하다(p.269).
 
 ### 식락학에서의 사용과 원문 대조 (2026-10-11)
-[[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting|Ch 20]] v3 본문·그림 설명을 원문과 대조했다.
+Ch 20 v3 본문·그림 설명을 원문과 대조했다.
 - ✅ 20.5.1 "강웅구(2011)는 … 현저성(salience)을 매개한다는 근거로 해석", "먹이를 보여 줄 때 올랐던 도파민 농도가 실제로 먹는 동안에는 오히려 떨어진다" — p.254와 일치(후자는 Ahn & Phillips 2002의 2차 인용).
 - ✅ 20.5.3 노력 선택 실험과 그림 20.6(a) — p.255–256·그림 4와 일치(그림 라벨도 "D2 blocking").
 - ✅ 20.5.4 탐색 시스템의 역할·포만·중독 자극(p.258), 뒤집힌 U와 "중독자의 갈망 = 작업기억을 점령한 원함"(p.256), 그림 20.6(c) — 거의 원문 그대로.
@@ -129,7 +129,7 @@ year: 2011
 - ⚠️ 20.5.3 원 실험의 출처: Kang이 인용한 것은 **Salamone & Correa 2002**(Behav Brain Res 137:3–25)이고, 교재는 salamone2012(Neuron)를 함께 단다. 그림 4는 수치 없는 모식도다.
 - ⚠️ 20.5.2 "보상 예측 오류 … {schultz1997, adam2026}": Kang은 에러 가설을 Niv 2005·Bayer & Glimcher 2005에 귀속하고 'salience 회로의 에러'로 서술한다. Kang을 거쳐서는 Schultz 1997 = RPE라는 귀속을 확인할 수 없다.
 - ℹ️ 20.5.4 "야크 판크셉(Jaak Panksepp)": 원문은 "Panksepp"만 쓴다(참고문헌 "Panksepp J."). 원문 맥락은 참신한 환경에서의 각성·탐색 활동이며, 욕구→추구→포만 서술은 Kang 자신의 문장이다(p.258).
-- ℹ️ [[overview-sikrakhak-ch24-food-craving-addiction|Ch 24]] 그림 24.2의 "강웅구, 최정석의 구분"(DSM-5 11개 기준의 네 묶음)은 **이 논문에 없다**. 2011년 논문이라 DSM-IV를 쓰며, 관련 서술은 "중독 진단기준은 사용량이 아니라 추구 행동의 과잉"(p.263)뿐이다. 그림 24.2의 출처로 Kang 2011을 달지 말 것.
+- ℹ️ Ch 24 그림 24.2의 "강웅구, 최정석의 구분"(DSM-5 11개 기준의 네 묶음)은 **이 논문에 없다**. 2011년 논문이라 DSM-IV를 쓰며, 관련 서술은 "중독 진단기준은 사용량이 아니라 추구 행동의 과잉"(p.263)뿐이다. 그림 24.2의 출처로 Kang 2011을 달지 말 것.
 
 ### 한계 ⚠️
 - 원저 데이터가 없는 종설·가설 논문이다. 동물·사람 연구는 대부분 2차 인용이며 실험 세부(종, 약물, 용량, 표본 수)가 거의 없다.
@@ -137,7 +137,6 @@ year: 2011
 - 2011년 시점(DSM-IV, '정신분열병', SGA 확산기)의 정리다. 음식·섭식은 조건화 예시, 포만, 대사증후군 유비, 기호품 정도로만 다루며 섭식 회로를 직접 다룬 논문이 아니다.
 
 ## 관련 페이지
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 20.5.1·20.5.3·20.5.4, 그림 20.5(a)·20.6(a)(c)의 원천. 원문 대조 결과는 위 절 참조.
 - [[concept-dopamine-reward-system]] — 도파민 = 쾌감이 아니라 salience. VT·tonic/phasic·D2H 모델과 보상 누락 반응의 salience 재해석.
 - [[concept-liking-wanting]] — 노력 선택 실험과 음성 증상(liking 정상·wanting 감소)으로 본 '도파민 = wanting' 논지.
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — 노력 선택 실험의 원 진영. Kang은 Salamone & Correa 2002를 인용하며, 위키 페이지는 D1·D2 길항제 모두로 기술.
@@ -158,6 +157,5 @@ year: 2011
 - [[concept-nucleus-accumbens]] — 코카인 자가투여에서 레버 누르기 전 burst, 투여 후 정지(2차 인용).
 - [[concept-basolateral-amygdala]] — 공포 조건화의 VTA–basolateral amygdala D2R 신호(PTSD 모델).
 - [[berridge-2009-dissecting-components-of-reward]] — Kang이 따른 Berridge·Robinson의 liking/wanting 구분을 다룬 위키 원전급 페이지(Kang 자신은 1996·1998 논문을 인용).
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 그림 24.2의 '강웅구·최정석의 네 묶음'은 이 논문이 출처가 아니다.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 대립 축: Kang은 CS 반응·참신성·혐오 자극 방출을 salience의 증거로 읽고, Schultz 2016은 이를 감지 성분 + 가치 주성분의 RPE 안으로 흡수한다.
 - [[song-2024-case-reports-of-binge-eating]] — "갈망 = 작업기억을 점령한 wanting"(p.256)의 임상 예: 증례 2의 단 음식 몰두. 또 Kang p.268은 항정신병 약물의 흔한 부작용으로 식욕 증가를 적는데, Song 증례 1은 olanzapine 2.5 mg 유지 중 회복기 폭식을 겪었다(원문은 미논의).

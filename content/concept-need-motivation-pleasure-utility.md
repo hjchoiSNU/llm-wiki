@@ -165,7 +165,6 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[concept-liking-wanting]] — Pleasure=‘좋아함(liking)’·Motivation=‘갈망(wanting)’ 대응; Berridge 이중 해리가 NMPU 2축의 외부 정렬(식락학 Ch 20).
 - [[concept-hedonic-hotspot]] — Pleasure 축(‘좋아함’)의 오피오이드 분자 substrate.
 - [[concept-incentive-sensitization]] — Motivation 축(‘갈망’)의 병적 과활성 기전.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — NMPU Pleasure·Motivation 축을 교재 narrative로 직조한 사용자 Ch 20.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포 = Pleasure·Motivation 분리의 세포 substrate.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = NMPU의 Motivation·Utility 축에 분산 회로 substrate 제공 (TEM 2026).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — 1차 reference.
@@ -245,7 +244,6 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[concept-joint-brain-behaviour-modelling]] — Need/Motivation/Pleasure가 실제로 분리 가능한 신경 부분공간인지 **contrastive latent 정렬로 검정**하는 방법론 경로.
 - [[zhang-2026-inherited-input-and-local-transformations]] — Motivation→행동 개시 전이를 선조체 **accumulator**(pVLS dSPN ramp)로 읽을 가능성; 가치 신호의 상속 vs 국소 변환 해리 (bioRxiv 2026).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **Pleasure 축의 분자·투사 정의 후보**: NAcLat^Nts→VTA. 만성 HFD에서 Pleasure는 내려가는데 섭취는 유지되는 해리를 회로로 인과 증명 (Nature 2025).
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24 §24.2.1. NMPU 네 성분의 **정렬이 깨진 상태**로 갈망을 정의.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **해마=경험 기반 결과 예측 / 시상하부=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 시상하부, 학습된 Utility는 피질-해마" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **맥락 게이팅이 Motivation 크기와 분리 가능**함을 보인 드문 인과 증거: DLS^Pdyn 억제는 총 섭취량을 바꾸지 않고 **보상 맥락 귀속만** 무너뜨렸다 (Neuron 2026). → [[concept-lateral-septum]]
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — **Motivation 축의 지속(engagement)**을 eCB가 매개; 총 섭취량(Need)과 해리된다는 점에서 두 축 분리의 실험적 사례 (Nature 2026).

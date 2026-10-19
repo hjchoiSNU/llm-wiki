@@ -100,7 +100,6 @@ aliases: [appetitive phase, consummatory phase, eating phases]
 - [[liu-2026-granular-motivational-interaction-and]] — appetitive/consummatory 2분법을 5 phase(preparation·initiation·maintenance·interruption·termination) granular state로 정밀 확장 (Neuron 2026).
 - [[concept-liking-wanting]] — appetitive=‘갈망’(도파민)·consummatory=‘좋아함’(오피오이드)의 신경화학 대응(쾌락 주기).
 - [[kringelbach-2015-the-pleasure-of-food]] — pleasure cycle(appetitive wanting→consummatory liking→satiety) 원전.
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 두 phase의 신경화학을 정리한 사용자 Ch 20.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[woods-1991-the-eating-paradox-how]] — cephalic 반응 = preingestive 대사 조율.
 - [[concept-cephalic-phase-response]] — cephalic 반응 hub.

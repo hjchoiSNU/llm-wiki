@@ -32,4 +32,3 @@ year: 2021
 - [[concept-dopamine-reward-system]] — NAc 전역에서 'wanting'을 키우나 'liking'은 불변시키는 도파민
 - [[concept-incentive-sensitization]] — addiction을 과도한 'wanting'으로 보는 임상 틀
 - [[concept-orbitofrontal-cortex]] — 'liking' 핫스폿이 위치하는 피질 부위
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — Ch 20 opioid/dopamine 서술의 최신 신경기반 근거

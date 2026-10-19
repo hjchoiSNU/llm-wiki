@@ -14,7 +14,7 @@ year: 2020
 # Liking과 Wanting의 분리 — 음식 보상의 뇌 기전 (Morales & Berridge 2020)
 
 ## 한 줄 요약
-음식 보상은 쾌락 반응인 'liking'과 유인 동기인 'wanting'으로 분리되며, 각각 별개의 뇌 hotspot과 신경전달물질(opioid vs dopamine)에 의해 매개된다. → [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]].
+음식 보상은 쾌락 반응인 'liking'과 유인 동기인 'wanting'으로 분리되며, 각각 별개의 뇌 hotspot과 신경전달물질(opioid vs dopamine)에 의해 매개된다.
 
 ## 핵심 내용
 
@@ -51,7 +51,6 @@ year: 2020
 > 이 리뷰는 systemic naltrexone / bupropion-naltrexone(Contrave) **임상약 절을 포함하지 않음** — 해당 임상 주장은 본 논문으로 인용 불가.
 
 ## 관련 페이지
-- [[overview-sikrakhak-ch20-opioid-dopamine-liking-wanting]] — 본 논문이 Ch 20의 가장 중심 소스
 - [[concept-liking-wanting]] — 본 논문이 정의·확립한 핵심 이분법
 - [[concept-hedonic-hotspot]] — NAc shell·VP의 mu-opioid hotspot 상세 출처
 - [[concept-incentive-sensitization]] — 'liking 없는 wanting'으로 비만 설명하는 틀의 근거

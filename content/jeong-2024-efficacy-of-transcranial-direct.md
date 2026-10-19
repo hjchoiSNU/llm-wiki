@@ -34,4 +34,3 @@ year: 2024
 - [[saeki-2022-a-systematic-review-on]] · [[beaumont-2022-modulating-eating-behavior-with]] — tDCS 비만·eating trait 종합(맥락).
 - [[concept-orbitofrontal-cortex]] — 전전두 갈망 통제 회로.
 - [[concept-dopamine-reward-system]] — DLPFC가 조절하는 보상.
-- [[overview-sikrakhak-ch24-food-craving-addiction]] — 식락학 Ch 24(사용자 집필) 2026-10-11 v2(임상 중심) 24.2.2·24.5.4 — 평가 도구(음식 갈망 질문지·YFAS·DEBQ)와 가정용 DLPFC tDCS의 갈망·YFAS 감소(체중 불변, 대조군 없음).

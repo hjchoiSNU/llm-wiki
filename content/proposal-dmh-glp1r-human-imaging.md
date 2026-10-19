@@ -59,7 +59,7 @@ updated: 2026-10-03
 - 사용자 lab 대표작([[kim-2024-glp-1-increases-preingestive-satiation|Science 2024]])의 **인간 회로 검증** — trans-species 완결.
 - GLP-1RA 중추 작용점의 인간 지도 → cognitive satiation 기반 약물·DTx·반응자 예측.
 - [[concept-need-motivation-pleasure-utility|NMPU]] cognitive Need 축의 인간 측정; [[proposal-nmpu-human-translation|NMPU 인간 번역]]과 상보.
-- 식락학 교재 [[overview-sikrakhak-ch18-appetite-hormones|Ch 18(GLP-1)]] 연계.
+- 식락학 교재 Ch 18(GLP-1) 연계.
 
 ## 관련 페이지
 - [[proposal-dmh-glp1r-nrf-junggyeon]] — 본 과제의 한국연구재단 **중견연구** 제출 양식 버전.
