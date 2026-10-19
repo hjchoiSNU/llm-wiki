@@ -11,7 +11,7 @@ journal: "Physiol Rev 97:411–463"
 
 > [!takeaway] 연구 방향 관점의 핵심
 > **위장관 호르몬 4종을 "physiological criteria"라는 엄격한 기준으로 평가한 권위 있는 종합 리뷰.**
-> 결론은 의외로 보수적: 인간에서 endocrine satiation 신호로 완전 입증된 것은 **CCK 뿐**, incretin은 GLP-1 뿐. PYY(3-36)는 효과적 용량이 메스꺼움 유발해 physiological 신호로 자격 미달. → **회로 연구에서 "충분조건 vs 필요조건" 구분의 중요성, paracrine/neuropod 같은 local signaling 검증 방법론 필요성**, RYGB가 만든 "natural experiment"의 의의를 모두 정리. Ch 18 호르몬 챕터의 1차 reference로 격상.
+> 결론은 의외로 보수적: 인간에서 endocrine satiation 신호로 완전 입증된 것은 **CCK 뿐**, incretin은 GLP-1 뿐. PYY(3-36)는 효과적 용량이 메스꺼움 유발해 physiological 신호로 자격 미달. → **회로 연구에서 "충분조건 vs 필요조건" 구분의 중요성, paracrine/neuropod 같은 local signaling 검증 방법론 필요성**, RYGB가 만든 "natural experiment"의 의의를 모두 정리.
 
 # Steinert 2017 — Prandial physiology of 4 gut hormones (Physiol Rev SOTA)
 

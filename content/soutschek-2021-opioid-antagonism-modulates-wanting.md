@@ -9,7 +9,7 @@ year: 2021
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 동물의 opioid-liking / dopamine-wanting 도식이 인간에서 단순 대응되지 않음을 보여주는 핵심 인간 약리-fMRI 증거: naltrexone(opioid 차단)이 오히려 'wanting'을 선택적으로 줄이고 전두-선조체 결합을 바꾼다. 식락학 Ch 20에서 동물 liking/wanting 이분법을 인간으로 번역할 때, 신경화학-행동 매핑이 종 간 어긋날 수 있음을 명시하는 근거로 활용.
+> 동물의 opioid-liking / dopamine-wanting 도식이 인간에서 단순 대응되지 않음을 보여주는 핵심 인간 약리-fMRI 증거: naltrexone(opioid 차단)이 오히려 'wanting'을 선택적으로 줄이고 전두-선조체 결합을 바꾼다. 동물 liking/wanting 이분법을 인간으로 번역할 때, 신경화학-행동 매핑이 종 간 어긋날 수 있음을 명시하는 근거로 활용.
 
 # Opioid 길항이 wanting 관련 전두-선조체 연결성 조절
 
@@ -29,5 +29,5 @@ year: 2021
 - [[concept-dopamine-reward-system]] — D2/D3 길항 amisulpride 무효, dopamine-wanting 단순 대응에 대한 의문
 - [[concept-nucleus-accumbens]] — 선조체 seed PPI로 전두-선조체 결합 변화 측정
 - [[concept-orbitofrontal-cortex]] — liking 평정이 OFC·dorsal PCC와 연관
-- [[person-choi-hyung-jin]] — 집필자 연구 관점(liking/wanting 인간 번역)
+- [[person-choi-hyung-jin]] — 사용자 연구 관점(liking/wanting 인간 번역)
 - [[song-2024-case-reports-of-binge-eating]] — 음식 중독이 동반된 섭식장애에서 naltrexone 고려를 제안(증례 2에 추가했으나 용량·시점 미기재, 효과 분리 불가).

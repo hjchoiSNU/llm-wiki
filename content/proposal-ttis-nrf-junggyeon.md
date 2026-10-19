@@ -83,7 +83,6 @@ GLP-1RA 등 약물 시대에도 **약물 무반응·중단 후 rebound·hedonic 
 - **학술**: 세계 최초 비침습 인간 섭식·보상 심부회로 신경조절; TI 분야 desynchronization-표적 패러다임 정립.
 - **임상·산업**: 약물·DTx 병용 가능한 비침습 electroceutical → 난치성 과식·시상하부성 비만의 새 치료축.
 - **이론**: [[concept-need-motivation-pleasure-utility|NMPU]] 인간 비침습 검증 도구.
-- **교육·확산**: 식락학 교재 Ch 25(비만 근본 치료) 연구 기반.
 
 ## 8. 연구비 (예시 — 작성 시 조정)
 - 규모: 중견연구 가정 **연 ~1.5–2억원 × 5년**.

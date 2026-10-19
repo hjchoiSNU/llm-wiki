@@ -9,7 +9,7 @@ year: 2021
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 식락학 교재 Ch 20('opioid·dopamine / liking·wanting')의 **2021년 최신 신경기반 업데이트**. liking 핫스폿의 분산·fragile한 회로 구조(OFC·insula·NAc·VP·parabrachial)와 posterior VP의 필수성, 그리고 opioid(NAc shell hotspot 한정)/dopamine(NAc 전역)의 비대칭을 정리. avolition·addiction을 'wanting' 장애로 재해석하는 임상 틀 제공.
+> opioid·dopamine / liking·wanting의 **2021년 최신 신경기반 업데이트**. liking 핫스폿의 분산·fragile한 회로 구조(OFC·insula·NAc·VP·parabrachial)와 posterior VP의 필수성, 그리고 opioid(NAc shell hotspot 한정)/dopamine(NAc 전역)의 비대칭을 정리. avolition·addiction을 'wanting' 장애로 재해석하는 임상 틀 제공.
 
 # 긍정 정서: liking과 wanting의 본질과 뇌 기반
 

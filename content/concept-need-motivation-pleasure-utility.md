@@ -162,7 +162,7 @@ REMD 2026 special issue 7편 ingest 이후 NMPU 회로 매핑 갱신:
 eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적용 가능. 마우스 회로 실험 + 인간 fMRI + 임상 phenotyping의 공통 언어.
 
 ## 관련 페이지
-- [[concept-liking-wanting]] — Pleasure=‘좋아함(liking)’·Motivation=‘갈망(wanting)’ 대응; Berridge 이중 해리가 NMPU 2축의 외부 정렬(식락학 Ch 20).
+- [[concept-liking-wanting]] — Pleasure=‘좋아함(liking)’·Motivation=‘갈망(wanting)’ 대응; Berridge 이중 해리가 NMPU 2축의 외부 정렬.
 - [[concept-hedonic-hotspot]] — Pleasure 축(‘좋아함’)의 오피오이드 분자 substrate.
 - [[concept-incentive-sensitization]] — Motivation 축(‘갈망’)의 병적 과활성 기전.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포 = Pleasure·Motivation 분리의 세포 substrate.

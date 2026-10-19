@@ -9,7 +9,7 @@ year: 2020
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 동물 패러다임(노력=wanting, 안면 반응=liking)을 인간에 이식해 국면 특이적 신경화학 해리를 보여줌: 기대·동기(노력)는 dopamine+opioid 공동, 소비 쾌락(zygomaticus 미소)은 opioid 특이적. 식락학 Ch 20에서 liking/wanting을 인간으로 번역할 때 주관 평정은 둔감하고 암묵 측정(EMG·노력)이 필요함을 강조하는 방법론적 근거.
+> 동물 패러다임(노력=wanting, 안면 반응=liking)을 인간에 이식해 국면 특이적 신경화학 해리를 보여줌: 기대·동기(노력)는 dopamine+opioid 공동, 소비 쾌락(zygomaticus 미소)은 opioid 특이적. liking/wanting을 인간으로 번역할 때 주관 평정은 둔감하고 암묵 측정(EMG·노력)이 필요함을 강조하는 방법론적 근거.
 
 # 사회/비사회 보상의 기대·소비기 도파민·오피오이드 조절
 
@@ -30,4 +30,4 @@ N=131 무작위·이중맹검·위약대조 약리 연구에서, 보상에 대�
 - [[concept-dopamine-reward-system]] — amisulpride(D2/D3)가 동기/노력에 작용, 소비 쾌락엔 무효
 - [[concept-hedonic-hotspot]] — opioid 특이적 소비 쾌락(미소 반응)과의 연결
 - [[concept-need-motivation-pleasure-utility]] — 동기·쾌락 구성요소의 약물별 분리
-- [[person-choi-hyung-jin]] — 집필자 연구 관점(liking/wanting 인간 번역)
+- [[person-choi-hyung-jin]] — 사용자 연구 관점(liking/wanting 인간 번역)

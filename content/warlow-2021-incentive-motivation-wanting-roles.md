@@ -9,7 +9,7 @@ year: 2021
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 중심 편도(CeA)는 'liking'은 건드리지 않고 'wanting'(incentive salience)만 특정 표적에 집중시키는 핵심 노드다. 식락학 Ch20의 liking/wanting 이중해리를 회로 수준에서 가장 극적으로 보여주는 사례('wanting what hurts')로, NMPU 프레임의 motivation(=wanting) 전담 substrate 후보로 인용 가능.
+> 중심 편도(CeA)는 'liking'은 건드리지 않고 'wanting'(incentive salience)만 특정 표적에 집중시키는 핵심 노드다. liking/wanting 이중해리를 회로 수준에서 가장 극적으로 보여주는 사례('wanting what hurts')로, NMPU 프레임의 motivation(=wanting) 전담 substrate 후보로 인용 가능.
 
 # CeA 회로의 'wanting' 역할 (incentive motivation)
 
@@ -33,4 +33,4 @@ year: 2021
 - [[concept-lateral-hypothalamus]] — CeA의 주요 하류 투사 표적, 섭식 동기 연결
 - [[concept-need-motivation-pleasure-utility]] — NMPU 프레임에서 motivation(=wanting)의 회로 substrate
 - [[berridge-2023-separating-desire-from-prediction-of]] — 본 CeA '아픈 것을 원하기'를 'desire≠prediction' 핵심 반례로 인용한 Berridge 리뷰 (TiCS 2023).
-- [[person-choi-hyung-jin]] — 저자/집필자 연구 맥락
+- [[person-choi-hyung-jin]] — 사용자 연구 맥락

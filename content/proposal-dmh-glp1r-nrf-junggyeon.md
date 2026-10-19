@@ -70,7 +70,6 @@ GLP-1RA가 인간에서 음식 cue에 대한 시상하부(DMH·ARC) 반응을 �
 - 사용자 lab 대표작의 **인간 회로 검증** → trans-species 완결.
 - GLP-1RA 중추 작용점의 인간 지도 → cognitive satiation 기반 약물·DTx·**반응자 예측**.
 - [[concept-need-motivation-pleasure-utility|NMPU]] cognitive Need 축의 인간 측정([[proposal-nmpu-human-translation]]과 상보).
-- 식락학 교재 Ch 18(GLP-1) 연계.
 
 ## 8. 연구비 (예시 — 작성 시 조정)
 - 규모: 중견연구 가정 **연 ~2억원 × 5년**.

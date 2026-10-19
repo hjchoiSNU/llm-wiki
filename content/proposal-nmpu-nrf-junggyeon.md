@@ -75,7 +75,7 @@ NMPU 4 component(Need·Motivation·Pleasure·Utility)의 **인간 신경 substra
 ## 7. 기대효과 및 활용방안
 - **학술**: 동기의 다요소 분해를 인간에서 검증한 첫 통합 연구 — NMPU의 인간 정착.
 - **임상**: component-특이 biomarker → 비만 **정밀 분류·맞춤 치료** 매칭(tTIS·DTx·약물).
-- **확산**: 자매 과제([[proposal-ttis-feeding-reward-circuits]]·[[proposal-glp1ra-rebound-microbiota]]·[[proposal-food-insecurity-cross-species]])의 공통 이론·측정 기반; 식락학 교재 Ch 13–15 연계.
+- **확산**: 자매 과제([[proposal-ttis-feeding-reward-circuits]]·[[proposal-glp1ra-rebound-microbiota]]·[[proposal-food-insecurity-cross-species]])의 공통 이론·측정 기반.
 
 ## 8. 연구비 (예시 — 작성 시 조정)
 - 규모: 중견연구 가정 **연 ~1.5–2억원 × 5년**.

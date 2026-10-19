@@ -52,5 +52,5 @@ year: 2005
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer; 구강 지방 신호의 위치.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 맛이 쾌락·욕망을 구동하는가 연구계획서(본 논문이 수용체 정체 근거).
 - [[concept-cck]] — CCK 분비 자극원인 LCFA 감지(FFAR1/4·CD36).
-- [[person-choi-hyung-jin]] — 식락학 Ch 20·24 맥락.
+- [[person-choi-hyung-jin]] — 사용자 연구 맥락.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

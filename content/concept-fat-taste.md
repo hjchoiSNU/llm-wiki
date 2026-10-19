@@ -7,7 +7,7 @@ aliases: [fat taste, oleogustus, oral fat sensing, orosensory fat, 지방맛]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 지방은 오래 **질감·후각**으로만 감지된다 여겨졌으나, 혀 미뢰의 지방산(LCFA) 수용체([[concept-cd36|CD36]]·[[concept-free-fatty-acid-receptors|GPR120]]) 발견으로 **"제6의 미각"(oleogustus)** 후보가 됨. 사용자 관점: **구강 지방 신호 = 즉각 쾌락(liking)·욕망(wanting)의 초안**([[concept-need-motivation-pleasure-utility|NMPU]] Pleasure), 그러나 지속 강화는 **post-oral 영양**([[li-2022-gut-brain-circuits-for-fat-preference|장 gut-brain]]·[[concept-flavor-nutrient-conditioning|FNC]])에 의존. 구강↔장 지방 감지의 인과 분리가 [[proposal-oral-fat-taste-pleasure-desire|사용자 연구계획서]]·식락학 Ch 20·24의 핵심.
+> 지방은 오래 **질감·후각**으로만 감지된다 여겨졌으나, 혀 미뢰의 지방산(LCFA) 수용체([[concept-cd36|CD36]]·[[concept-free-fatty-acid-receptors|GPR120]]) 발견으로 **"제6의 미각"(oleogustus)** 후보가 됨. 사용자 관점: **구강 지방 신호 = 즉각 쾌락(liking)·욕망(wanting)의 초안**([[concept-need-motivation-pleasure-utility|NMPU]] Pleasure), 그러나 지속 강화는 **post-oral 영양**([[li-2022-gut-brain-circuits-for-fat-preference|장 gut-brain]]·[[concept-flavor-nutrient-conditioning|FNC]])에 의존. 구강↔장 지방 감지의 인과 분리가 [[proposal-oral-fat-taste-pleasure-desire|사용자 연구계획서]]의 핵심.
 
 # Fat taste / orosensory fat perception (지방맛)
 

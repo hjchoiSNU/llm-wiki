@@ -117,7 +117,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - **Electroceuticals** (tDCS·rTMS·TIS): dlPFC top-down 제어 강화 ([[lee-2025-hijacked-brain-modern-obesity-cue]]).
 
 ## 관련 페이지
-- [[concept-liking-wanting]] — 도파민은 ‘갈망(wanting)’을 매개하되 ‘좋아함(liking)’에는 불필요; 보상 이중 해리 hub(식락학 Ch 20).
+- [[concept-liking-wanting]] — 도파민은 ‘갈망(wanting)’을 매개하되 ‘좋아함(liking)’에는 불필요; 보상 이중 해리 hub.
 - [[concept-incentive-sensitization]] — 중변연계 도파민 감작이 ‘갈망’을 ‘좋아함’과 무관하게 폭주시키는 중독·과식 기전.
 - [[concept-hedonic-hotspot]] — 도파민 ‘갈망’ 회로와 대조되는 오피오이드 ‘좋아함’ 증폭 부위.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포의 좋아함–갈망 분리(세포 수준).

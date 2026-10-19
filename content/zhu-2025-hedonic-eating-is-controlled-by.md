@@ -11,7 +11,6 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 
 > [!takeaway] 연구 방향 관점의 핵심
 > **VTA 도파민 뉴런은 "먹을까 말까"가 아니라 "먹기 시작한 뒤 얼마나 오래 계속할까"를 정한다.** 조작을 **핥기에 시간을 맞춘 폐루프(lick-contingent)** 로 좁히자, 기존의 모순(도파민 자극이 섭취를 *줄인다*는 보고들)이 사라지고 **소비 중 도파민 = bout 길이 연장, bout 수는 불변**이라는 깨끗한 결과가 나왔다. 사용자 lab에 주는 값어치는 셋. (1) [[concept-need-motivation-pleasure-utility|NMPU]]에서 **소비 국면(consumption)** 을 Motivation(개시)과 분리해 독립 축으로 다뤄야 한다는 인과 근거 — [[concept-consumption-vigor|소비 vigor]]의 "유지" 성분에 VTA DA 인과가 붙는다. (2) **GLP-1RA의 식욕 억제가 쾌락 회로에서 되살아난다** — 세마글루타이드가 1일째에 누른 VTA DA 소비 반응이 투여를 이어 가며 **되돌아오고**, 그 회복을 도파민 억제로 되돌릴 수 있다 → [[concept-weight-regain-defended-adiposity|유지 실패]]·약물 내성의 회로 표적. (3) 상류 **periLC^VGLUT2 → VTA^VGAT ⊣ VTA^DA** 탈억제 경로는 [[concept-digital-therapeutics|DTx]]·neuromodulation이 겨냥할 "소비 브레이크"의 후보다.
-> 식락학에서의 쓰임 — **Ch 20 (20.9.1)** 식사 중 도파민 네 단계(⚠️ 네 단계 도식은 선행연구 + 본 논문의 소비 국면 데이터를 묶은 **요약 그림(Fig. 8)**), **Ch 24 (24.5.3)** GLP-1RA의 보상 회로 작용, **Ch 25 (25.2.1)** 세마글루타이드로 눌린 VTA DA 반응이 감량과 함께 회복.
 
 # 쾌락적 섭식은 GLP-1R 포만에 맞서는 도파민 뉴런이 통제한다 (Zhu 2025)
 
@@ -76,7 +75,7 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - 번역 함의: GLP-1RA 치료 중 체중이 빠질수록 **단 음식에 다시 취약해질 수 있고**, 그 과정에 VTA^DA 반응이 **필요**하다.
 
 ## ⚠️ 한계와 읽을 때 주의
-- **네 단계 도식은 본 논문의 새 데이터가 아니다.** 단서 RPE·보상 효용·섭취 후 강화는 선행연구(원문 ref 15, 25–28, 59, 60)이고, 본 논문이 직접 보인 것은 **소비 국면**이다. 교재에서 "Zhu 2025가 네 단계를 밝혔다"로 쓰면 과장이다.
+- **네 단계 도식은 본 논문의 새 데이터가 아니다.** 단서 RPE·보상 효용·섭취 후 강화는 선행연구(원문 ref 15, 25–28, 59, 60)이고, 본 논문이 직접 보인 것은 **소비 국면**이다. "Zhu 2025가 네 단계를 밝혔다"고 쓰면 과장이다.
 - **세마글루타이드 실험은 5–6일**짜리, **마른 chow-fed 생쥐**다. 장기 치료·비만 모델이 아니며, 설계상 **약물 내성(시간)**과 **체중 감소**를 분리하지 못한다.
 - **선행 보고와 충돌**: 20배 높은 세마글루타이드 용량을 쓴 연구는 소비 중 VTA^DA 활성이 **오히려 약간 증가**했다고 보고한다(원문 ref 80). 용량·프로토콜 의존성이 크다.
 - **사람 자료는 엇갈린다.** 저자도 인용하듯 GLP-1RA는 **갈망 감소**를 보고하지만(ref 81–84), **단 음식의 섭취·기호성 자체는 유의하게 변하지 않은** 연구들이 있다(ref 81, 84) — [[coppin-2022-does-glp-1-receptor-agonist|Coppin 2022]]의 null과 같은 방향. 쥐에서는 만성 세마글루타이드 중 **sucrose 섭취가 증가**(ref 85), 사람에서는 감량이 진행되면 음식 단서에 대한 **OFC 반응이 증가**(ref 86).
@@ -104,7 +103,7 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - [[concept-weight-regain-defended-adiposity]] — 유지 실패의 회로 기전 목록에 "소비 국면 도파민 회복"을 추가.
 - [[concept-hedonic-devaluation]] — 만성 HFD가 쾌락 가치를 **낮춘다**는 축과의 대조. 본 논문은 급성 기호성 scaling을 다루므로 시간척도가 다르다.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — NAc^Lat→VTA 뉴로텐신 소실로 쾌락 섭식이 사라지는 기전. 같은 VTA 노드의 반대 방향 조절.
-- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] · [[weber-2025-interoceptive-origin-reinforcement-learning]] · [[thanarajah-2019-food-intake-recruits-orosensory]] · [[grove-2022-dopamine-subsystems-track-internal]] — 식락학 Ch 20 20.9의 나머지 축(입안 보상 vs 몸 안 보상, 사람 PET 두 정점, 자원별 DA 하위계).
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] · [[weber-2025-interoceptive-origin-reinforcement-learning]] · [[thanarajah-2019-food-intake-recruits-orosensory]] · [[grove-2022-dopamine-subsystems-track-internal]] — 식사 중 도파민의 나머지 축(입안 보상 vs 몸 안 보상, 사람 PET 두 정점, 자원별 DA 하위계).
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — 소비 국면을 Motivation과 분리해 다룰 근거.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 DMH GLP-1R 회로(섭취 **전** 포만)와 대조: 본 논문은 GLP-1R 포만이 **소비 중** 도파민까지 누른다는 쪽.
 - [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 감량 방식에 따른 선조체 도파민 재설정 방향 논의와 연결.

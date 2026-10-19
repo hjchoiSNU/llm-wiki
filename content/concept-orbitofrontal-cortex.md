@@ -30,7 +30,7 @@ updated: 2026-10-04
 
 ## 관련 페이지
 - [[kringelbach-2015-the-pleasure-of-food]] — mid-anterior OFC가 음식의 **주관적 쾌락 경험**을 부호화(selective satiety); anteromedial OFC는 ‘좋아함’ [[concept-hedonic-hotspot|쾌락 핫스폿]].
-- [[concept-liking-wanting]] — OFC가 ‘좋아함’ 피질 핫스폿·주관 쾌락 부호화에 관여(식락학 Ch 20).
+- [[concept-liking-wanting]] — OFC가 ‘좋아함’ 피질 핫스폿·주관 쾌락 부호화에 관여.
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — amOFC low-gamma OCD biomarker 원전.
 - [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 환자에서 우 OFC 음식반응↓ ↔ 무질서 섭식태도·억제조절 결손 상관(사용자 lab).
 - [[concept-nucleus-accumbens]] — OFC의 주 투사 대상; 강박 자극 표적(NAc-VeP).

@@ -283,7 +283,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 경구 MC3R/MC4R dual agonist 710GO: 비만 macaque 15주 11.8% 감량·지방 선택적·제지방 보존·무오심·심혈관 안전·semaglutide 시너지; MC3R=rheostat/MC4R=driver division of labor (Nat Commun 2026, Endevica Bio). · 🔑 NHP, MSH, GLP-1
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 lixisenatide fMRI: lean vs obese T2DM의 visual food cue 뇌활성을 GLP-1RA가 차별적 조절; 비만 cue 과반응 영상 근거 (DMJ 2019, 사용자 lab). · 🔑 OFC, CSF
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — ★ 2026 차세대 비만·대사 약물 임상 5건(GLP-1/glucagon dual·경구 소분자 GLP-1RA·amylin+GLP-1 복합) 기전별 hub. · 🔑 CALCR, POMC
-- [[song-2024-case-reports-of-binge-eating]] — 제한형 신경성 식욕부진증 청소년 2명의 회복기 폭식: 음식 중독 없음(체중 공포·통제 행동, 약 2개월 뒤 감소) vs 음식 중독 동반(단맛 갈망·내성·금단 유사, 단 음식 절제 개입·naltrexone) → 섭식장애 치료에 음식 중독 평가(YFAS·FCQ) 제안 (JKACAP 2024, 사용자 lab 교신; 식락학 Ch 24 증례). · 🔑 CBT-E, YFAS, anorexia nervosa, BMI, HP food, naltrexone
+- [[song-2024-case-reports-of-binge-eating]] — 제한형 신경성 식욕부진증 청소년 2명의 회복기 폭식: 음식 중독 없음(체중 공포·통제 행동, 약 2개월 뒤 감소) vs 음식 중독 동반(단맛 갈망·내성·금단 유사, 단 음식 절제 개입·naltrexone) → 섭식장애 치료에 음식 중독 평가(YFAS·FCQ) 제안 (JKACAP 2024, 사용자 lab 교신). · 🔑 CBT-E, YFAS, anorexia nervosa, BMI, HP food, naltrexone
 
 #### GLP-1/GIP incretin — 기전·약물 배치 (2021–2025)
 개념 hub: [[concept-glp-1]] · [[concept-gip]] · [[concept-incretin-effect]]. 종합: [[overview-next-gen-incretin-obesity-drugs-2026]].
@@ -653,7 +653,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — DA ensemble = reward+homeostasis 통합 (mesolimbic+시상하부+말초). 도파민↔섭식 클러스터 bridge (TEM 2026, Gangarossa). · 🔑 D1R-SPN, D2R, A12, D1R, D1R^Serpinb2, PeVN
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — 중독=쾌락(양성강화) 아닌 **hyperkatifeia 제거(음성강화)**; 확장 편도체(CeA/BNST)·CRF·dynorphin·glucocorticoid; ghrelin·GLP-1 gut-brain 조절 (Neuron 2026, Koob). 개념 hub [[concept-negative-reinforcement-hyperkatifeia]]. 정서적 폭식·food addiction 이식. · 🔑 RMTg
 - [[luscher-2021-consolidating-the-circuit-model-for]] — ★ **중독 3대 프레임의 접합부**: 유인-감작(Berridge)과 음성강화(Koob)를 경쟁 이론이 아닌 **합산 항**으로 두고 **양성강화(D1-MSN) + 음성강화(D2-MSN) → dorsalization → [[concept-compulsion|compulsion]]** 서열로 통합. 중독은 신경퇴행이 아닌 **gain-of-function** → 표적은 시냅스 **depotentiation**. 음성강화 회로 좌표(LHb→RMTg→VTA·BLA CCK⁺/PVT→D2-MSN·D2-MSN→VP=anhedonia) 명시. 유전 동질 개체의 **양봉분포**로 "왜 소수만 망가지는가"를 이론 중심에 놓음 (Annu Rev Neurosci 2021, Lüscher & Janak). 개념 [[concept-drug-evoked-synaptic-plasticity]] · [[concept-lateral-habenula]] · 인물 [[person-luscher-christian]]. · 🔑 DST, OFC, D2R-MSN, oDASS, D1R-MSN, DBS
-- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 국문 종설: 도파민 = 쾌감(hedonia)이 아니라 **salience + 노력해서 추구하려는 의지**. volume transmission·tonic/phasic·D2H 모델, 노력 선택 실험 도식(그림 4), 작업기억 뒤집힌 U, Panksepp 탐색 시스템·포만·중독 자극, 정신증 = 도파민계 민감화, 항정신병 약물 = 병적 salience 감소 (JKNA 2011, 강웅구; 식락학 Ch 20 20.5 원천). · 🔑 salience, VT(volume transmission), D2H, Koff, SGA, seeking system
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 국문 종설: 도파민 = 쾌감(hedonia)이 아니라 **salience + 노력해서 추구하려는 의지**. volume transmission·tonic/phasic·D2H 모델, 노력 선택 실험 도식(그림 4), 작업기억 뒤집힌 U, Panksepp 탐색 시스템·포만·중독 자극, 정신증 = 도파민계 민감화, 항정신병 약물 = 병적 salience 감소 (JKNA 2011, 강웅구). · 🔑 salience, VT(volume transmission), D2H, Koff, SGA, seeking system
 
 #### 보상·food-addiction·정서적 섭식 (2014–2023 배치)
 개념 hub: [[concept-emotional-eating]] · [[concept-food-addiction]] · [[concept-liking-wanting]].
@@ -673,8 +673,8 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — 고전 RPE와 현저성 (RPE · salience)
 개념 hub: [[concept-reward-prediction-error]].
-- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — ★ **고전 RPE 진영의 정밀화(Opinion)**: phasic 도파민 RPE = 비선택적 **감지(현저성) 성분**(강도·보상 맥락·일반화·새로움) → 주관적 가치·**경제학적 효용** 주성분("utility prediction error"); 혐오 활성은 혐오성이 아닌 **물리적 충격**, 현저성은 초기 성분일 뿐; Box 1 빠름·느림·긴장성 시간척도, Box 2 코카인의 초기 성분 연장(추측) (Nat Rev Neurosci 2016, Schultz). 식락학 Ch 20 20.5.1·20.5.3 출처. · 🔑 utility prediction error, two-component, physical salience, Pearce–Hall, income utility, NAc core/shell
-- [[chen-2021-neuromodulation-a-model-for-dopamine]] — Kutlu 등(2021)의 **NAc core 도파민 = 지각된 현저성(perceived saliency)** 결과를 소개한 **Dispatch(2차)**: sucrose 학습에선 RPE형(예상 밖 보상↑·cue로 이동), footshock 회피 학습에선 충격 반응이 학습 뒤에도 남고 cue로 옮겨 가지 않음, 크기는 valence 무관 자극 강도(충격 세기·quinine/sucrose 양) 추적 → Kutlu–Calipari–Schmajuk(KCS) 모형; 체세포–말단 비선형성·core/shell 이질성 단서 (Curr Biol 2021, Bruchas lab). 식락학 Ch 20 20.5.1·그림 20.5b 출처. · 🔑 KCS model, perceived saliency, footshock, quinine, NAc core, Kutlu 2021, Calipari
+- [[schultz-2016-dopamine-reward-prediction-error-signalling]] — ★ **고전 RPE 진영의 정밀화(Opinion)**: phasic 도파민 RPE = 비선택적 **감지(현저성) 성분**(강도·보상 맥락·일반화·새로움) → 주관적 가치·**경제학적 효용** 주성분("utility prediction error"); 혐오 활성은 혐오성이 아닌 **물리적 충격**, 현저성은 초기 성분일 뿐; Box 1 빠름·느림·긴장성 시간척도, Box 2 코카인의 초기 성분 연장(추측) (Nat Rev Neurosci 2016, Schultz). · 🔑 utility prediction error, two-component, physical salience, Pearce–Hall, income utility, NAc core/shell
+- [[chen-2021-neuromodulation-a-model-for-dopamine]] — Kutlu 등(2021)의 **NAc core 도파민 = 지각된 현저성(perceived saliency)** 결과를 소개한 **Dispatch(2차)**: sucrose 학습에선 RPE형(예상 밖 보상↑·cue로 이동), footshock 회피 학습에선 충격 반응이 학습 뒤에도 남고 cue로 옮겨 가지 않음, 크기는 valence 무관 자극 강도(충격 세기·quinine/sucrose 양) 추적 → Kutlu–Calipari–Schmajuk(KCS) 모형; 체세포–말단 비선형성·core/shell 이질성 단서 (Curr Biol 2021, Bruchas lab). · 🔑 KCS model, perceived saliency, footshock, quinine, NAc core, Kutlu 2021, Calipari
 
 ### 진영 — 회고적 인과 학습 (ANCCR)
 개념 hub: [[concept-anccr]].
@@ -683,7 +683,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012). · 🔑 YES, RPE(teaching signal), NO, ANCCR, NMPU
 
-### 좋아함(liking) vs 갈망(wanting) — 오피오이드 vs 도파민 (Berridge cluster · 식락학 Ch 20)
+### 좋아함(liking) vs 갈망(wanting) — 오피오이드 vs 도파민 (Berridge cluster)
 - [[concept-liking-wanting]] — 보상 이중 해리 개념 hub: ‘좋아함’(오피오이드 핫스폿) vs ‘갈망’(중변연계 도파민). 도파민은 ‘좋아함’에 불필요. · 🔑 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, D2, D1
 - [[concept-hedonic-hotspot]] — ‘좋아함’ 증폭 부위(NAc shell ~1 mm³·posterior VP) 개념 hub. 뮤-오피오이드·엔도카나비노이드. · 🔑 쾌락 핫스폿, hedonic coldspot, 쾌락 콜드스폿, hedonic hotspots, DAMGO, OFC
 - [[concept-incentive-sensitization]] — ‘갈망’이 ‘좋아함’을 추월하는 중독·과식 기전 개념 hub. · 🔑 incentive-sensitization theory, IST, 유인 감작

@@ -9,7 +9,7 @@ year: 2008
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 중독을 'wanting'(incentive salience)의 병적 과대화로 보는 IST의 핵심 골격. 식락학 Ch 20의 liking/wanting 이분법과 직결되며, 음식 단서가 'liking' 변화 없이도 폭식·재발을 구동하는 회로(중변연계 도파민 감작)를 설명하는 이론적 토대로 활용 가능.
+> 중독을 'wanting'(incentive salience)의 병적 과대화로 보는 IST의 핵심 골격. liking/wanting 이분법과 직결되며, 음식 단서가 'liking' 변화 없이도 폭식·재발을 구동하는 회로(중변연계 도파민 감작)를 설명하는 이론적 토대로 활용 가능.
 
 # 유인-감작 이론(IST) — 현재 쟁점 (2008)
 

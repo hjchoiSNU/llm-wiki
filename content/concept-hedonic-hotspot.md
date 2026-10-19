@@ -7,7 +7,7 @@ aliases: [hedonic hotspot, 쾌락 핫스폿, hedonic coldspot, 쾌락 콜드스�
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **‘[[concept-liking-wanting|좋아함]]’(쾌락적 충격)을 실제로 증폭하는 뇌의 작은 부위들.** 측좌핵 껍질부(~1 mm³)·복측 창백핵 후반부 등에서 **뮤-오피오이드(DAMGO)·엔도카나비노이드·오렉신·GABA**가 단맛 ‘좋아함’을 2–3배↑. 핵심 메시지: ‘좋아함’ 회로는 **작고 깨지기 쉬우며(여러 핫스폿 만장일치 필요)**, 넓고 견고한 ‘갈망’([[concept-dopamine-reward-system|도파민]]) 회로와 해부학적으로 분리된다 — 사용자 식락학 Ch 20의 회로 토대이자 [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure 축의 분자 substrate.
+> **‘[[concept-liking-wanting|좋아함]]’(쾌락적 충격)을 실제로 증폭하는 뇌의 작은 부위들.** 측좌핵 껍질부(~1 mm³)·복측 창백핵 후반부 등에서 **뮤-오피오이드(DAMGO)·엔도카나비노이드·오렉신·GABA**가 단맛 ‘좋아함’을 2–3배↑. 핵심 메시지: ‘좋아함’ 회로는 **작고 깨지기 쉬우며(여러 핫스폿 만장일치 필요)**, 넓고 견고한 ‘갈망’([[concept-dopamine-reward-system|도파민]]) 회로와 해부학적으로 분리된다 — [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure 축의 분자 substrate.
 
 # 쾌락 핫스폿 (hedonic hotspot)
 

@@ -7,7 +7,7 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 식락학 교재 Ch 20의 이론 backbone이자, [[concept-need-motivation-pleasure-utility|NMPU framework]]의 Pleasure(=liking)·Motivation(=wanting) 축에 직접 대응.** 보상은 단일하지 않고 **‘좋아함’(쾌락적 충격, 오피오이드/[[concept-hedonic-hotspot|쾌락 핫스폿]])**과 **‘갈망’(유인 현저성, 중변연계 [[concept-dopamine-reward-system|도파민]])**으로 분리된다. **도파민은 ‘좋아함’에 불필요** — 이 해리가 ‘즐겁지도 않은데 강박적으로 원하는’ [[concept-food-addiction|중독·과식]]([[concept-incentive-sensitization|유인-감작]])의 핵심. 비만 치료를 ‘무엇이 과활성인가(원함 vs 즐거움)’로 진단하는 출발점.
+> **[[concept-need-motivation-pleasure-utility|NMPU framework]]의 Pleasure(=liking)·Motivation(=wanting) 축에 직접 대응하는 이론 backbone.** 보상은 단일하지 않고 **‘좋아함’(쾌락적 충격, 오피오이드/[[concept-hedonic-hotspot|쾌락 핫스폿]])**과 **‘갈망’(유인 현저성, 중변연계 [[concept-dopamine-reward-system|도파민]])**으로 분리된다. **도파민은 ‘좋아함’에 불필요** — 이 해리가 ‘즐겁지도 않은데 강박적으로 원하는’ [[concept-food-addiction|중독·과식]]([[concept-incentive-sensitization|유인-감작]])의 핵심. 비만 치료를 ‘무엇이 과활성인가(원함 vs 즐거움)’로 진단하는 출발점.
 
 # ‘좋아함(liking)’과 ‘갈망(wanting)’
 
@@ -61,7 +61,7 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[berridge-2009-dissecting-components-of-reward]] · [[nguyen-2021-positive-affect-nature-and-brain]] · [[morales-2020-liking-and-wanting-in-eating]] — 1차 소스.
 - [[berridge-2023-separating-desire-from-prediction-of]] — ‘갈망’이 결과가치 예측으로 환원되지 않음(‘혐오/고통을 원하기’ 반례); 예측·RL 이론에 대한 동기-기반 반론 (TiCS 2023).
 - [[concept-food-addiction]] — ‘갈망’ 폭주의 임상 출구.
-- [[person-choi-hyung-jin]] — Ch 20 저자(사용자).
+- [[person-choi-hyung-jin]] — 사용자 연구 맥락.
 - [[wang-2018-coding-of-valence-and-identity]] — 편도가 부여하는 미각 valence(=liking 축).
 - [[concept-taste-valence-coding]] — 미각 valence 부호화 hub.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 liking 불변(인간 RCT, **preprint·n=44·저검정력**); 효과는 wanting 쪽이라는 해석의 간접 근거.

@@ -9,7 +9,7 @@ year: 2015
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 음식·성·사회·고차 보상이 **단일 쾌락 시스템(unitary pleasure system)**을 공유한다는 통합 틀. Ch 20에서 liking(opioid)/wanting(dopamine)을 **pleasure cycle**(appetitive→consummatory→satiety)로 시간축에 배치하고, mid-anterior OFC가 주관적 쾌락 경험을 부호화한다는 점을 인간 영상 근거로 보강하는 핵심 소스.
+> 음식·성·사회·고차 보상이 **단일 쾌락 시스템(unitary pleasure system)**을 공유한다는 통합 틀. liking(opioid)/wanting(dopamine)을 **pleasure cycle**(appetitive→consummatory→satiety)로 시간축에 배치하고, mid-anterior OFC가 주관적 쾌락 경험을 부호화한다는 점을 인간 영상 근거로 보강하는 핵심 소스.
 
 # 음식의 쾌락 — 섭식과 보상의 뇌 기전 (Kringelbach 2015)
 

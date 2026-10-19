@@ -6,7 +6,7 @@ updated: 2026-06-08
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **구강 지방 감지는 쾌락·욕망의 충분한 원인인가, 아니면 영양 확인을 기다리는 "초안"인가?** 위키는 음식 보상을 **proxy reward(구강 맛, 즉각 정동 초안) vs primary reward(post-oral 영양)** 로 분리하고([[concept-primary-reward-signals|Weber 2025]]), 인체에서 **즉시 orosensory DA(insula·해마·ACC)가 "먹고 싶은 욕구(wanting)"와 양의 상관, 지연 post-ingestive DA(putamen)와는 음의 상관**임을 보였다([[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019]]). 지방의 post-oral 영양 회로(GPR40/120/CD36→vagus→VTA-DA-CCK→aBLA)는 규명됐으나([[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]), **구강 지방 맛 자체의 쾌락(liking)·욕망(wanting) 인과 기여는 미정박**. 사용자 lab [[concept-need-motivation-pleasure-utility|NMPU]]의 **Pleasure(구강 proxy) vs Motivation(wanting) vs Utility(post-oral)** 분리에 직접 답하고, 식락학 **Ch 20·24** backbone을 제공한다.
+> **구강 지방 감지는 쾌락·욕망의 충분한 원인인가, 아니면 영양 확인을 기다리는 "초안"인가?** 위키는 음식 보상을 **proxy reward(구강 맛, 즉각 정동 초안) vs primary reward(post-oral 영양)** 로 분리하고([[concept-primary-reward-signals|Weber 2025]]), 인체에서 **즉시 orosensory DA(insula·해마·ACC)가 "먹고 싶은 욕구(wanting)"와 양의 상관, 지연 post-ingestive DA(putamen)와는 음의 상관**임을 보였다([[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019]]). 지방의 post-oral 영양 회로(GPR40/120/CD36→vagus→VTA-DA-CCK→aBLA)는 규명됐으나([[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]), **구강 지방 맛 자체의 쾌락(liking)·욕망(wanting) 인과 기여는 미정박**. 사용자 lab [[concept-need-motivation-pleasure-utility|NMPU]]의 **Pleasure(구강 proxy) vs Motivation(wanting) vs Utility(post-oral)** 분리에 직접 답한다.
 
 # [연구계획서] 입에서 느끼는 지방 맛이 음식 쾌락과 욕망을 구동하는가
 
@@ -102,7 +102,6 @@ flowchart LR
 - [[concept-need-motivation-pleasure-utility|NMPU]]의 **Pleasure(구강 proxy)–Motivation(wanting)–Utility(post-oral)** 분리를 지방 감각에서 실증 — framework 핵심 검증.
 - **구강 지방 = 쾌락·욕망의 초안, 영양 = 강화의 확정**이라는 원리 → 비-칼로리 지방 대체재·초가공식품 supra-additivity 대응의 회로 근거.
 - **GLP-1RA의 구강 vs post-oral 작용점** 판별 → 약물·[[concept-digital-therapeutics|DTx]] 정밀화.
-- 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)·Ch 24(음식 갈망·중독)·Ch 25(비만 근본 치료)** 의 실험적 backbone([[person-choi-hyung-jin]]).
 - **[[proposal-pomc-endorphin-food-pleasure|POMC β-endorphin 쾌락]]** 과제와 **Pleasure 축에서 상보** — 중추(β-endorphin) + 말초/구강(orosensory fat)의 두 쾌락 기원.
 
 ## 관련 페이지
@@ -116,7 +115,7 @@ flowchart LR
 - [[concept-primary-reward-signals]] — proxy(구강 taste) vs primary(post-oral) reward 정의.
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer(sucralose 논리)·fat 평행 경로.
 - [[concept-need-motivation-pleasure-utility]] — Pleasure·Motivation·Utility 축·liking/wanting.
-- [[concept-liking-wanting]] — 구강 지방 맛이 ‘좋아함’·‘갈망’을 분리 구동하는지의 개념 토대(식락학 Ch 20).
+- [[concept-liking-wanting]] — 구강 지방 맛이 ‘좋아함’·‘갈망’을 분리 구동하는지의 개념 토대.
 - [[concept-insula]] — orosensory(1차 미각) 피질 hub.
 - [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 insula 음식 cue 선제 부호화.
 - [[concept-basolateral-amygdala]] — post-ingestive 영양가치(Utility) hub.
@@ -128,7 +127,7 @@ flowchart LR
 - [[bae-2019-glucagon-like-peptide-1-receptor]] · [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — GLP-1RA 인체 라인.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 임상 type 분류.
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP 번역.
-- [[person-choi-hyung-jin]] — 연구책임자·식락학 Ch 20.
+- [[person-choi-hyung-jin]] — 연구책임자.
 - [[proposal-pomc-endorphin-food-pleasure]] — 자매 과제(중추 β-endorphin Pleasure).
 - [[overview-research-proposals]] — 연구계획서 비교 hub(본 과제 = #8).
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방 'wanting'의 gut endocannabinoid 기전 근거.

@@ -10,7 +10,7 @@ journal: "Diabetes & Metabolism Journal 49:333–347"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 lab의 GLP-1 종합 리뷰** + 핵심 발견 강조: **DMH GLP-1R 뉴런이 pre-ingestive cognitive satiation을 매개** (Kim KS et al. 2024 Science). 음식의 시각적 인지만으로 DMH GLP-1R 뉴런이 활성화되어 ARC AgRP를 억제 — "신호등 보고 미리 브레이크" 비유. 이는 [[kim-2024-unified-theoretical-framework-underlying-regulation|Need-Motivation framework]]에서 Need 자체를 sensory cue로 feed-forward 갱신하는 기전. GLP-1RA의 인간 효과를 단순 "식욕 억제"가 아닌 cognitive 차원으로 재정의. Ch 18 보충안의 핵심 update 자료.
+> **사용자 lab의 GLP-1 종합 리뷰** + 핵심 발견 강조: **DMH GLP-1R 뉴런이 pre-ingestive cognitive satiation을 매개** (Kim KS et al. 2024 Science). 음식의 시각적 인지만으로 DMH GLP-1R 뉴런이 활성화되어 ARC AgRP를 억제 — "신호등 보고 미리 브레이크" 비유. 이는 [[kim-2024-unified-theoretical-framework-underlying-regulation|Need-Motivation framework]]에서 Need 자체를 sensory cue로 feed-forward 갱신하는 기전. GLP-1RA의 인간 효과를 단순 "식욕 억제"가 아닌 cognitive 차원으로 재정의.
 
 # Park JS et al. 2025 — GLP-1 hypothalamic cognitive satiation (DMJ review)
 

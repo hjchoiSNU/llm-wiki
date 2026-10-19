@@ -10,7 +10,7 @@ journal: "Current Biology 31:R1426–R1429 (Dispatch; 2021-11-08); doi:10.1016/j
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **Kutlu 등(2021)의 'NAc core 도파민 = 지각된 현저성(perceived saliency)' 결과를 소개한 해설 기사(Dispatch)이며, 1차 연구가 아니다.** 소개된 결과: NAc core 도파민 방출은 sucrose 학습에서는 RPE처럼 움직이지만(예상 밖 보상에 증가, 보상 → cue로 이동), footshock 회피 학습에서는 충격 반응이 학습 뒤에도 남고 cue로 옮겨 가지 않으며, 크기는 **valence와 무관하게 자극 강도**(충격 세기, quinine·sucrose 양)를 따른다. 섭식 도파민 실험에서 "반응 크기 = 가치(Pleasure)"라고 읽으려면 **강도를 맞춘 혐오 대조**와 **NAc core/shell·VTA 체세포/말단의 동시 측정**이 필요하다는 설계 교훈을 준다. 식락학 Ch 20 20.4.1·20.5.1·20.5.3·그림 20.5b의 출처.
+> **Kutlu 등(2021)의 'NAc core 도파민 = 지각된 현저성(perceived saliency)' 결과를 소개한 해설 기사(Dispatch)이며, 1차 연구가 아니다.** 소개된 결과: NAc core 도파민 방출은 sucrose 학습에서는 RPE처럼 움직이지만(예상 밖 보상에 증가, 보상 → cue로 이동), footshock 회피 학습에서는 충격 반응이 학습 뒤에도 남고 cue로 옮겨 가지 않으며, 크기는 **valence와 무관하게 자극 강도**(충격 세기, quinine·sucrose 양)를 따른다. 섭식 도파민 실험에서 "반응 크기 = 가치(Pleasure)"라고 읽으려면 **강도를 맞춘 혐오 대조**와 **NAc core/shell·VTA 체세포/말단의 동시 측정**이 필요하다는 설계 교훈을 준다.
 
 # Neuromodulation: A model for dopamine in salience encoding (Chen & Bruchas 2021)
 
@@ -62,13 +62,6 @@ Bruchas lab(University of Washington)의 Chen & Bruchas가 같은 호의 Kutlu �
 - 그림 1B는 'neural activity'로, 본문은 '방출'로 적는다.
 - **[[gershman-2024-explaining-dopamine-prediction-errors-beyond|Gershman 2024]] 페이지**는 Kutlu 2021·2022의 perceived saliency 요약에 "보상 누락 시 DA 증가", "latent inhibition"을 적지만, **이 dispatch에는 그런 서술이 없다**(2022 논문의 내용일 수 있음 — 확인 불가).
 
-## 식락학 Ch 20에서의 쓰임과 원문 대조 (`ch20v3/body.txt`)
-- **20.4.1 (L42)** "substantia nigra의 도파민 뉴런은 주로 행동과 관련된 striatum 부위로 투사하는 nigrostriatal 경로를, ventral tegmental area(VTA)의 도파민 뉴런은 nucleus accumbens로 투사하는 mesolimbic 경로를 이룬다 {chenbruchas2021}." → **일치**(p.R1427, Fig. 1A). 단 dispatch의 근거는 Castro & Bruchas 2019(참고문헌 4)이므로 2차 인용이다. "midbrain"이라는 장의 표기는 Schultz 2016과 같고, dispatch의 "basal ganglia에 위치" 표현보다 정확하다.
-- **20.5.1 (L58)** Kutlu 등의 세 문장 → **dispatch 요약과 일치**: sucrose 학습 중 예상 밖 보상에 증가·cue로 이동(RPE형), footshock 회피 학습 중 충격 반응이 훈련 뒤에도 남고 cue로 옮겨 가지 않음, 크기가 valence와 무관하게 충격 세기·quinine·sucrose 양을 따름. "생쥐"도 dispatch 다수 서술·Adam 2026과 같다. 생략된 것: dispatch의 "footshock 유발 방출이 **학습 후 증가**". (v3에서 "커틀루(Kutlu) 등"으로 1차 연구자를 밝혀 2차 인용 문제는 정리됨.)
-- **20.5.1 (L58)** "위의 결과도 이 두 성분 모형으로 설명할 수 있다." → ⚠️ **dispatch의 입장과 다르다.** dispatch는 Kutlu 결과를 Schultz의 두 국면 모형으로 설명하지 않고, 현저성을 설명하는 **"대안 모형(alternative model) … RPE에 더하여(in addition to)"**로 KCS 모형을 소개한다. 또 Schultz 모형은 두 국면의 시간 차가 매우 작아 **in vivo 검증이 어렵다**고 평가하고, 도파민이 반대되는 두 cue를 어떻게 RPE 틀에 담는지는 **열린 질문**으로 남긴다. Schultz 원문과의 세부 불일치는 [[schultz-2016-dopamine-reward-prediction-error-signalling]] 해당 절 참조.
-- **그림 20.5b 캡션** "… Kutlu et al. (2021)의 결과를 요약한 Chen & Bruchas (2021)의 그림을 바탕으로 다시 그렸다", "곡선은 개념적" → 출처 표기는 정확. 차이: 원 그림은 y축이 'Neuronal activity'이고 NAc core를 명시하지 않으며 **Omission 패널**이 있는데, 캡션은 "nucleus accumbens core의 도파민 방출"로 쓴다(본문 서술과는 일치).
-- **20.5.3 (L64)** 시간척도 문장 {schultz2016,chenbruchas2021} → **일치**. 다만 dispatch Fig. 1D는 Schultz 2016에서 각색한 그림이므로 두 출처가 사실상 같은 원천이다. 장이 든 질환 가운데 조현병은 Schultz 쪽, dispatch의 tonic 칸은 ADHD·PD·Cognition·Addiction이다.
-
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **valence 대조 설계**: sucrose 농도·양에 따라 NAc 도파민이 커지는 것을 '가치'나 [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure의 증거로 쓰려면, **같은 강도 축의 혐오 자극**(quinine 양, 쓴맛 농도)을 함께 측정해야 한다. 같은 방향으로 커지면 강도·현저성 성분을 배제할 수 없다(→ [[concept-taste-valence-coding]]).
 - **측정 수준을 기록하라**: [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]는 **VTA 도파민 체세포 칼슘**이 quinine을 섞은 Ensure 섭취 중 **줄어든다**고 보고한다(가치 방향). Kutlu(dispatch)의 NAc core **방출**이 quinine 양을 따라 커지는 것과는 측정 수준(체세포 vs 말단)·과제(섞은 먹이 vs 단독 자극)가 다르다 — 둘을 직접 비교하려면 같은 동물에서 체세포와 core/shell 방출을 함께 재야 한다.
@@ -98,5 +91,5 @@ Bruchas lab(University of Washington)의 Chen & Bruchas가 같은 호의 Kutlu �
 - [[concept-taste-valence-coding]] — quinine(음성)·sucrose(양성)의 valence 부호화와 강도 부호화의 구분.
 - [[concept-compulsion]] — footshock·quinine 처벌 패러다임 해석 시 강도 성분 혼입 주의.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — VTA 도파민 섭취 반응의 valence 의존성(quinine 첨가 시 감소).
-- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 같은 Ch 20 절에서 함께 쓰인 현저성 해석(국내 리뷰).
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 현저성 해석을 다룬 국내 리뷰.
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — 같은 Bruchas lab의 위키 수록 원저.

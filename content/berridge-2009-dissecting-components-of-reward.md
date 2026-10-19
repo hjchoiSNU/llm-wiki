@@ -9,7 +9,7 @@ year: 2009
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 식락학 교재 Ch 20('opioid·dopamine / liking·wanting') 집필의 **원전급 개념틀**. 보상을 'liking'(opioid 기반 쾌락)·'wanting'(dopamine 기반 유인 현저성)·learning 세 성분으로 분리하고, 도파민이 'liking'에 불필요함을 핵심 증거로 정리한다. Ch 20의 opioid/dopamine 이분법 서술의 1차 근거로 직접 인용 가능.
+> opioid·dopamine / liking·wanting 논의의 **원전급 개념틀**. 보상을 'liking'(opioid 기반 쾌락)·'wanting'(dopamine 기반 유인 현저성)·learning 세 성분으로 분리하고, 도파민이 'liking'에 불필요함을 핵심 증거로 정리한다. opioid/dopamine 이분법의 1차 근거로 직접 인용 가능.
 
 # 보상의 구성요소 해부: liking, wanting, learning
 

@@ -10,7 +10,7 @@ journal: Trends in Cognitive Sciences
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **‘갈망(wanting, incentive salience)’은 ‘결과가치 예측’으로 환원되지 않는 독립 동기 과정**이라는 Berridge의 정면 논증. 예측처리(PP)·시간차(TD) 강화학습이 욕망을 "이득 예측"으로 치환하는 데 반대하며, 두 결정적 반례 — **‘혐오스러운 줄 알면서 원하기’**(소금욕구 상태에서 CS+짠맛을 첫 재노출에 즉시 원함)와 **‘아플 줄 알면서 원하기’**(CeA 광자극+전기충격봉)— 로 **‘갈망’이 기억·예측·실제 ‘좋아함’을 모두 초과**할 수 있음을 보인다. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Motivation 축**이 Pleasure(liking)·예측가치와 분리됨을 뒷받침하고, [[concept-incentive-sensitization|중독·과식]]·[[adam-2026-dopamine-takes-hit-how-neuroscience|도파민 RPE 논쟁]]에 직접 개입. 식락학 Ch 20의 ‘wanting’ 절 1차 근거.
+> **‘갈망(wanting, incentive salience)’은 ‘결과가치 예측’으로 환원되지 않는 독립 동기 과정**이라는 Berridge의 정면 논증. 예측처리(PP)·시간차(TD) 강화학습이 욕망을 "이득 예측"으로 치환하는 데 반대하며, 두 결정적 반례 — **‘혐오스러운 줄 알면서 원하기’**(소금욕구 상태에서 CS+짠맛을 첫 재노출에 즉시 원함)와 **‘아플 줄 알면서 원하기’**(CeA 광자극+전기충격봉)— 로 **‘갈망’이 기억·예측·실제 ‘좋아함’을 모두 초과**할 수 있음을 보인다. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Motivation 축**이 Pleasure(liking)·예측가치와 분리됨을 뒷받침하고, [[concept-incentive-sensitization|중독·과식]]·[[adam-2026-dopamine-takes-hit-how-neuroscience|도파민 RPE 논쟁]]에 직접 개입.
 
 # Separating desire from prediction of outcome value (Berridge 2023)
 
@@ -50,7 +50,6 @@ journal: Trends in Cognitive Sciences
 ## 사용자 lab 관점
 - **NMPU 직격**: ‘갈망’=Motivation 축이 Pleasure(liking)·결과가치 예측과 분리됨을 가장 강하게 입증 → [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU framework]]의 4성분 분리 논거. ‘Need=예측된 결핍’과도 호환되나, ‘wanting’은 예측조차 초과 가능.
 - **RPE 논쟁 진입**: TD/예측 도파민론에 대한 동기-기반 반론([[adam-2026-dopamine-takes-hit-how-neuroscience]], [[gershman-2024-explaining-dopamine-prediction-errors-beyond]], [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]])과 정렬 — 도파민=‘원함’ 분자(≠쾌락·≠순수 예측).
-- **Ch 20 근거**: 식락학 Ch 20의 ‘갈망’·‘아픈 것을 원하기’·CeA 절의 1차 출처(Warlow 2020/2021).
 - **비만·중독 치료**: incentive alliesthesia(스트레스·기아가 cue ‘wanting’ 증폭) → [[concept-food-addiction|음식 중독]]·stress eating·요요의 동기기전. ‘좋아함’ 아닌 ‘갈망’ 표적화.
 
 ## 관련 페이지

@@ -134,7 +134,7 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 3. NMPU framework 같은 분해 모델 부재 — "motivation" 성분 자체의 내부 분해가 모호.
 
 ## 관련 페이지
-- [[concept-liking-wanting]] — DA=동기/노력(‘갈망’), 쾌락(‘좋아함’) 아님; 본 논문이 Berridge wanting/liking 해리와 수렴(식락학 Ch 20).
+- [[concept-liking-wanting]] — DA=동기/노력(‘갈망’), 쾌락(‘좋아함’) 아님; 본 논문이 Berridge wanting/liking 해리와 수렴.
 - [[concept-incentive-sensitization]] — ‘갈망’ 회로(도파민)의 병적 과활성.
 - [[concept-dopamine-reward-system]] — DA 회로 (effort 측면 보강).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전의 현재 (Calipari 등).
@@ -146,4 +146,4 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — NAc 도파민을 'reward'가 아닌 **행동 활성화·전환**으로 읽는 계보의 후속. medial shell 도파민 길항은 섭취량이 아니라 **섭식 미세구조와 다른 행동으로의 전환**을 바꾼다(Baldo 2002).
 - [[nieh-2016-inhibitory-input-from-the]] — DA disinhibition(LH^GABA→VTA)이 feeding·사회·물체 조사를 가로질러 behavioral activation을 일으킴 = DA의 activational·motivational salience 역할의 회로 사례 (Neuron 2016, Tye lab).
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — Box 1: 초–분 단위의 느린 도파민 변화는 RPE와 무관할 수 있다 — "다른 시간척도로 양립" 해석의 RPE 쪽 근거.
-- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 식락학 20.5.3 노력 선택 실험 도식의 국문 출처. Kang은 Salamone & Correa 2002를 인용하며, 그림 4는 'D2 blocking' 라벨의 모식도.
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 노력 선택 실험 도식을 소개한 국문 종설. Kang은 Salamone & Correa 2002를 인용하며, 그림 4는 'D2 blocking' 라벨의 모식도.

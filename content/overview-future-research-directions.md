@@ -26,7 +26,7 @@ updated: 2026-06-02
 > 📋 구체화된 연구계획서: [[proposal-dmh-glp1r-human-imaging]] (7T 음식 cue fMRI × GLP-1RA RCT, 3–5년).
 - **근거**: [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]] — 마우스 DMH GLP-1R→ARC AgRP 회로가 GLP-1RA preingestive satiation 매개 + 인간 RCT satiation index↑. 회로의 **인간 직접 영상 증거는 아직 간접**.
 - **제언**: GLP-1RA 투여 전후 **음식 cue fMRI**([[bae-2019-glucagon-like-peptide-1-receptor]] 패러다임 확장)로 시상하부(DMH/ARC) 반응·cognitive satiation 상관을 인간에서 매핑.
-- **lab 적합성**: 인간 fMRI + GLP-1 약물 라인 보유. 식락학 Ch 18·25의 직접 소스.
+- **lab 적합성**: 인간 fMRI + GLP-1 약물 라인 보유.
 
 ### 3. GLP-1RA rebound을 막는 microbiota 공동중재
 > 📋 구체화된 연구계획서: [[proposal-glp1ra-rebound-microbiota]] (Aim 1 기전분해→Aim 2 공동중재→Aim 3 NHP/인간, 5년).
@@ -78,7 +78,7 @@ updated: 2026-06-02
 ---
 
 ## 횡단 방법론·이론 과제 (cross-cutting)
-- **인슐린 통합 신호**: Ch 18·다수 페이지가 인슐린을 다루나 **전용 `concept-insulin` 페이지 부재** → adiposity signal·중추 식욕억제·보상 감쇠를 통합한 hub 신설 필요(leptin과 짝).
+- **인슐린 통합 신호**: 다수 페이지가 인슐린을 다루나 **전용 `concept-insulin` 페이지 부재** → adiposity signal·중추 식욕억제·보상 감쇠를 통합한 hub 신설 필요(leptin과 짝).
 - **도파민 RPE 논쟁의 섭식 적용**: belief-state/hidden-state([[gershman-2024-explaining-dopamine-prediction-errors-beyond]]·[[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]])를 **음식 보상·cue 학습**에 적용한 인간 연구.
 - **사회결정요인↔회로 다리**: [[concept-food-insecurity]]·[[wilbrecht-2024-experimental-biology-can-inform]](FI가 ARC melanocortin·VTA→NAc 재프로그램)를 인간 신경영상으로 연결. → 📋 구체화: [[proposal-food-insecurity-cross-species]] (쥐·원숭이·사람 교차종).
 

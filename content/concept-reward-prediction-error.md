@@ -7,7 +7,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 음식 cue·섭취에서 "도파민이 올랐다"를 **무엇으로 읽을지** 정하는 판별 hub. 위키 원전 기준으로 해석은 ① **RPE = 효용 예측 오류**(Schultz 2016: 감지 성분 → 가치 성분), ② **현저성**(강웅구 2011의 심리적 중요성, Kutlu 2021의 강도·새로움), ③ **회고적 인과 학습**(Jeong 2022 ANCCR), ④ **유인 현저성 = 원함**(Berridge: 예측과 분리), ⑤ **가치·활력·노력**(Hamid·Mohebi·Salamone)으로 갈린다. 이들은 cue 학습 전후·보상 누락처럼 **같은 예측을 하는 조건이 많고**, **valence 대조·무예측 보상 반복·소거·측정 수준(체세포/말단, core/shell)·시간창**에서 갈린다. [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure의 교사 신호를 RPE 하나로 고정하지 않는 근거이며, 식락학 Ch 20 20.5의 개념 지도다.
+> 음식 cue·섭취에서 "도파민이 올랐다"를 **무엇으로 읽을지** 정하는 판별 hub. 위키 원전 기준으로 해석은 ① **RPE = 효용 예측 오류**(Schultz 2016: 감지 성분 → 가치 성분), ② **현저성**(강웅구 2011의 심리적 중요성, Kutlu 2021의 강도·새로움), ③ **회고적 인과 학습**(Jeong 2022 ANCCR), ④ **유인 현저성 = 원함**(Berridge: 예측과 분리), ⑤ **가치·활력·노력**(Hamid·Mohebi·Salamone)으로 갈린다. 이들은 cue 학습 전후·보상 누락처럼 **같은 예측을 하는 조건이 많고**, **valence 대조·무예측 보상 반복·소거·측정 수준(체세포/말단, core/shell)·시간창**에서 갈린다. [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure의 교사 신호를 RPE 하나로 고정하지 않는 근거다.
 
 # 보상 예측 오류와 도파민 신호의 해석: RPE vs 현저성 vs 인과 학습
 
@@ -18,7 +18,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 
 ### 1. 정의와 고전 RPE
 - **정의** ([[schultz-2016-dopamine-reward-prediction-error-signalling|Schultz 2016]] p.187): 예측보다 큰 보상 → 짧은 활성(양의 PE), 예측보다 작은 보상 → 활동 감소(depression, 음의 PE), 정확히 예측된 보상 → 무변화. 이는 **Rescorla–Wagner**(결과 − 현재 예측에 학습 계수를 곱해 예측을 갱신)와 **TD 강화학습**(trial에 기반하지 않는 행동 계열에서 state의 기대값과 실제값의 차이를 교사 신호로 쓰는, RW의 실시간·고차 강화물 확장) 모형 오차항의 생물학적 구현이다(Glossary).
-- **고전 실험** (Schultz, Dayan & Montague 1997): 예고 없는 보상 → burst; CS와 반복해 짝지으면 발화가 CS로 이동하고 보상 자체에는 반응하지 않음; 예측된 보상이 오지 않으면 그 시점에 발화 감소. ⚠️ **원전은 위키 raw에 없다** — [[kang-2011-dopamine-system-and-antipsychotic-drugs|강웅구 2011]]·[[adam-2026-dopamine-takes-hit-how-neuroscience|Adam 2026]]을 거친 2차 서술이며, 식락학 Ch 20 20.5.1·그림 20.5a도 같다.
+- **고전 실험** (Schultz, Dayan & Montague 1997): 예고 없는 보상 → burst; CS와 반복해 짝지으면 발화가 CS로 이동하고 보상 자체에는 반응하지 않음; 예측된 보상이 오지 않으면 그 시점에 발화 감소. ⚠️ **원전은 위키 raw에 없다** — [[kang-2011-dopamine-system-and-antipsychotic-drugs|강웅구 2011]]·[[adam-2026-dopamine-takes-hit-how-neuroscience|Adam 2026]]을 거친 2차 서술이다.
 - **Schultz 2016의 정밀화**: phasic 반응은 ① 비선택적 **감지 성분**(물리적 강도·보상 맥락·일반화·새로움이 키움)에서 ② 주관적 가치를 재는 **주성분**으로 곧바로 진화하고(단순 자극에서는 두 성분이 잘 분간되지 않음), 주성분은 위험 gamble로 추정한 **경제학적 효용 함수의 비선형성**을 따른다 → **"utility prediction error"**(위험·지연·노력을 고정했으므로 income utility). 학습 기전은 input·output·도파민의 three-factor Hebbian, striatum의 D1 수용체 매개 LTP·LTD.
 - **RPE 진영의 확장** ([[gershman-2024-explaining-dopamine-prediction-errors-beyond|Gershman 2024]]): vector-valued PE·successor representation·average reward 등 "suitably generalized RPE"로 ramp·특징 부호화·행동 선택을 흡수하되, **ANCCR와 perceived saliency는 framework 밖**으로 인정. 단일 VTA 뉴런의 다중 변수 부호화를 vector RPE로 푸는 [[lee-2024-feature-specific-prediction-error|Lee 2024]]도 같은 진영.
 - **RPE 틀 안의 균열**: 음의 RPE에 대한 도파민 dip이 예상보다 약하다(→ 비도파민 후보 [[concept-lateral-habenula|LHb]]); two-step task에서 도파민은 RPE 모양이지만 결과 시점 광유전 자극·억제가 다음 선택을 바꾸지 않았다([[blanco-pozo-2024-dopamine-independent-effect-rewards-choices|Blanco-Pozo 2024]]).
@@ -88,15 +88,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - ⚠️ **용어 충돌 — 두 개의 'utility'**: Schultz의 utility는 **즉각 보상량의 경제학적 효용**(할인 실험도 2–16 s)이고, NMPU의 **Utility는 시간–일 지연된 최종 결과의 교사**다. Schultz의 "utility prediction error"를 NMPU Utility의 근거로 쓰면 안 된다.
 - NMPU 원 논문([[kim-2024-unified-theoretical-framework-underlying-regulation|Kim 2024 BioEssays]])은 "Schultz RPE"를 네 성분을 명확히 구분하지 못한 기존 이론의 하나로 든다.
 
-### 9. 식락학 Ch 20에서의 쓰임 (`ch20v3/body.txt`)
-- **20.5.1 "쾌감이 아니라 현저성"**: 강웅구 2011의 현저성 해석(CS 반응 = 쾌감이 아닌 salience) → Kutlu 등(dispatch 경유)의 NAc core 결과 → Schultz 2016의 두 성분 모형 순서.
-- **20.5.2 "예측 오류인가, 인과 학습인가"**: 고전 RPE와 전향적 TD 강화학습 → Jeong 2022 ANCCR → Berridge 2023의 유인 현저성 → Adam 2026(의견 엇갈림).
-- **20.5.3**: 노력 선택 실험(강웅구·Salamone), 시간척도(Schultz Box 1 + dispatch Fig. 1D), Hamid·Mohebi.
-- **20.8.2**: "보상 예측 오류가 음의 값이면 다음 동기는 줄어든다" — Schultz의 학습 기전 서술(음의 PE가 낮은 보상과 연관된 행동을 불리하게 함)과 정합.
-- **20.9.1**: Zhu 2025의 네 단계(cue = 20.5.2의 RPE 신호, 음식 접촉 = 효용).
-- **원문 대조 요점**: 20.5의 사실 서술은 두 논문과 일치한다. 다만 ① "위의 결과도 이 두 성분 모형으로 설명할 수 있다"는 두 원문 어디에도 없는 추론이고 부분적으로만 지지된다, ② 소제목의 '현저성'은 Schultz 2016의 결론(현저성 = 초기·일시 부분)과 긴장한다, ③ '효용'이 Schultz/Zhu의 즉각 효용과 NMPU의 지연 Utility에 함께 쓰인다(그림 20.9의 a와 b 패널), ④ 20.5.1의 "먹는 동안 도파민 농도가 오히려 떨어진다는 보고"(강웅구 2011이 인용한 Ahn & Phillips 2002)와 20.9.1의 "먹는 동안 도파민 뉴런 활동이 유지"(Zhu 2025)는 측정 대상·시간척도가 달라 함께 읽을 때 구분을 적어야 한다. 세부 문장 대조는 [[schultz-2016-dopamine-reward-prediction-error-signalling]]·[[chen-2021-neuromodulation-a-model-for-dopamine]]의 Ch 20 절.
-
-### 10. 열린 문제와 자료 없음
+### 9. 열린 문제와 자료 없음
 - **Kutlu 2021 원전**과 KCS 모형의 식·파라미터 — 위키에 없음(dispatch 요약만).
 - **Schultz, Dayan & Montague 1997 원전** — raw에 없음(2차 서술만).
 - Schultz 2016의 **Supplementary S1(table)·S2(box)**, 혐오 재해석의 핵심 근거인 **Fiorillo 2013** — 위키에 없음.

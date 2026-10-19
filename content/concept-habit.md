@@ -221,7 +221,7 @@ flowchart LR
 ### 경로 E. 발달기 각인 — 초기 역경이 성체 폭식을 준비시킨다
 - **회로** ([[shin-2023-early-adversity-promotes-binge-like-eating|Shin & Lim 2023]]): 생후 P3–4 23 h 모성분리 → 성체 LH에서 **Lepr mRNA 선택 감소**(국소 leptin 저항) → LH^Lepr 흥분성↑ → **LH^Lepr→vlPAG^Penk 탈억제** → HFD 재노출 4번째 주기에 폭식·비만(에너지 소비 무차이). LH Lepr 넉다운만으로 ELT 없이 재현, LH leptin 과량으로 완화; VTA·MPA 투사는 무효 `[섭식 직접]`.
 - **분자 저장** ([[kim-2026-early-life-stress-alters-h3k4me1|Kim 2026]]): 초기 스트레스가 성체 VTA 크로마틴을 SETD7·H3K4me1로 "허용적" 상태로 바꿔, **기저는 정상이고 두 번째 hit에서만** 스트레스 반응을 증폭 ([[concept-epigenetic-priming]], [[concept-early-life-adversity]]).
-- **습관과의 관계**: 이 경로는 "**취약성(어떤 개체가 습관·폭식으로 넘어가는가)**"을 설명한다 — 경로 C의 확률적 진행(20–30%)을 개체차로 채우는 후보다(식락학 Ch 24의 취약성 3층: 학습 양식·발달기 각인·유전). 단, Shin & Lim의 "habit"은 devaluation으로 검증된 조작적 습관이 아니다(§1-2).
+- **습관과의 관계**: 이 경로는 "**취약성(어떤 개체가 습관·폭식으로 넘어가는가)**"을 설명한다 — 경로 C의 확률적 진행(20–30%)을 개체차로 채우는 후보다. 단, Shin & Lim의 "habit"은 devaluation으로 검증된 조작적 습관이 아니다(§1-2).
 
 ### 경로 F. 식이 환경이 cue를 키운다 — cue 경로와 습관의 경계
 - **정크푸드는 '먹는 양'이 아니라 '접근'을 키운다** ([[derman-2018-junk-food-enhances-conditioned-food-cup|Derman 2018]]): 14/45일 정크푸드 노출이 **이미 양성 예측(contingency +0.5·+1.0)으로 학습된 cue에 대한 조건화 접근만** 강화하고, cue-potentiated feeding은 바꾸지 않고 음식(US) 자체에 대한 동기는 오히려 낮추며(progressive ratio), **체중 차이 없이** 나타난다 `[섭식 직접]` → 비만 이전에 cue 통제가 먼저 바뀐다.

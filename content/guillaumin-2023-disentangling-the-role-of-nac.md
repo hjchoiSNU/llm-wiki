@@ -9,7 +9,7 @@ year: 2023
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> NAc 내측 shell의 D1 세포와 D2 세포가 'liking'과 'wanting'을 세포 수준에서 상반되게 부호화함을 lick microstructure + 광유전학으로 인과 입증. NMPU(Pleasure=liking, Motivation=wanting)의 세포수준 substrate이자, 식락학 Ch20 이중해리를 단일 핵 내부에서 보여주는 핵심 자료.
+> NAc 내측 shell의 D1 세포와 D2 세포가 'liking'과 'wanting'을 세포 수준에서 상반되게 부호화함을 lick microstructure + 광유전학으로 인과 입증. NMPU(Pleasure=liking, Motivation=wanting)의 세포수준 substrate이자, liking/wanting 이중해리를 단일 핵 내부에서 보여주는 핵심 자료.
 
 # NAc D1·D2 세포의 쾌락적 섭식 역할 분리
 
@@ -33,7 +33,7 @@ year: 2023
 - [[concept-hedonic-hotspot]] — NAc shell 내 'liking' 증폭 영역과의 관계
 - [[concept-need-motivation-pleasure-utility]] — NMPU의 세포수준 substrate 제공
 - [[concept-food-addiction]] — D1 짝지음에 의한 선호 장기 전환·과소비와의 연결
-- [[person-choi-hyung-jin]] — 집필자 연구 맥락(NMPU 프레임)
+- [[person-choi-hyung-jin]] — 사용자 연구 맥락(NMPU 프레임)
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — NAc D1/D2 MSN subtype의 인간 분자·공간 정체.
 - [[concept-medium-spiny-neuron]] — D1/D2 MSN 개념 hub.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **동일 구획 SPN 부호의 상반 해석**: 본 페이지는 D2 세포 억제가 깊을수록 섭취 bout가 길어진다(머무름)고 보고하고, Mingote는 순 SPN 억제를 **과제 전환 신호**로 읽는다. 세포계열(D1/D2)·시간척도(수초 bout vs 버스트 유발 sub-second) 단서 없이는 양립 불가.

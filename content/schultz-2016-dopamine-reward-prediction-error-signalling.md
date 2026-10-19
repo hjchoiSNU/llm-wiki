@@ -86,16 +86,6 @@ journal: "Nature Reviews Neuroscience 17:183–195 (Perspectives · Opinion; 온
 - 측정 수준: 근거 대부분이 **체세포 발화(impulse)**다. 말단 방출(photometry)과의 대응은 다루지 않는다 — [[chen-2021-neuromodulation-a-model-for-dopamine|Chen & Bruchas 2021]]은 두 국면의 시간 차가 매우 작아 in vivo 검증이 어렵다고 지적한다.
 - **Supplementary S1(table)·S2(box)는 온라인 전용**이라 위키 PDF에 없다(자료 없음).
 
-## 식락학 Ch 20에서의 쓰임과 원문 대조 (`ch20v3/body.txt`)
-- **20.5.1 (L58)** "이보다 앞서 볼프람 슐츠(Wolfram Schultz)는 도파민 뉴런이 혐오 자극이나 새로운 자극에도 반응한다는 기존 결과들을 하나의 틀로 묶어 … 제안하였다 {schultz2016}." → **원문과 일치**(초록 p.183, 결론 p.193). 시간 순서(Schultz 2016 → Kutlu 2021)도 v3에서 바로잡혀 있다. 다만 원문에서 새로움은 초기 성분을 **키우는 요인**이고 "새로움만으로는 활성이 생기지 않는다"(p.185).
-- **20.5.1 (L58)** "위의 결과도 이 두 성분 모형으로 설명할 수 있다." → ⚠️ **두 원문 어디에도 이 주장은 없고, 부분적으로만 지지된다.** 지지: 초기 성분은 강도에 따라 **가치와 무관하게 등급적**이고(p.185), NAc core의 즉각적 혐오 반응은 물리적 충격을 반영할 수 있다(p.191). 불일치: ① 초기 성분은 **짧고 일시적**(10 ms 단위)인데 Kutlu 결과는 footshock 반응이 **학습 뒤에도 남고 오히려 증가**(dispatch p.R1428) — 학습 후 증가를 예측하는 요인은 원문에 명시돼 있지 않다; ② 주스에서 초기 성분은 **양과 무관**했고 양에 따른 증가는 **주성분(가치)**에서 나타났으므로(p.189), quinine '양'을 따라 커지는 반응을 초기 성분으로 설명할 근거가 없다; ③ 음의 가치는 주성분에서 **depression**을 예상한다(p.192); ④ [[chen-2021-neuromodulation-a-model-for-dopamine|Chen & Bruchas]]는 Kutlu 결과를 Schultz 모형으로 설명하지 않고 RPE에 **더해지는** 별도 현저성 모형(KCS)의 근거로 소개한다. → 표현을 "두 성분 모형의 초기 성분으로 **일부** 설명하려는 해석도 가능하다(필자 해석)" 정도로 낮추기를 권함.
-- **20.5.1 소제목 "쾌감이 아니라 현저성"** — Schultz 2016의 결론은 "현저성은 반응의 **초기·일시적 부분**일 뿐이고(p.193) 기능을 정의하는 것은 **후기 가치 성분**(p.187)"이며 motivational salience 이론은 불완전하다는 것이다. 장 전체로는 20.5.2가 RPE를 대안 해석으로 제시해 균형이 맞지만, 이 소절에 Schultz를 인용할 때는 그가 현저성 쪽 지지자가 아니라는 점을 덧붙이면 좋다.
-- **20.5.2 (L61)** "도파민이 위협, 혐오 자극, 새로움까지 신호한다는 결과도 더해지면서 의견은 여전히 엇갈린다 {adam2026}." → 사실 충돌 아님. Schultz 2016은 바로 그 반대 입장(혐오 = 물리적 충격, 새로움 단독 불충분)이므로 "엇갈리는 의견"의 한쪽 근거로 함께 달 수 있다. 또 20.5.2 첫 문단의 RPE 정의(양의 오류·무오류·음의 오류)는 Schultz 2016 p.187에도 그대로 있어, 위키에 원문이 없는 {schultz1997} 옆에 **원문 확인이 가능한 출처**로 병기할 수 있다.
-- **20.5.3 (L64)** 시간척도 문장 {schultz2016,chenbruchas2021} → **Box 1과 일치**(초 이하 = 현저성·예측 오류, 초–분 = 행동 활성화·스트레스·주의·보상과 처벌·움직임, tonic = 움직임·인지·주의·동기, 결함 = PD·ADHD·조현병).
-- **20.4.1 (L42)** "도파민 뉴런의 반응은 위치에 따라 기울기를 보여서 … {chenbio2021}" → 모순 아님. Schultz도 위치별 **등급적(graded)** 차이를 인정하되, 혐오·현저성 쪽 기울기를 초기 성분 민감도 차이로 해석할 수 있다고 본다(p.192).
-- **용어 '효용'**: 20.5.1의 "보상의 주관적 가치와 효용"은 이 논문의 **경제학적 효용**(즉각 보상, 수 초 이내)인데, 20.8.1·그림 20.8·그림 20.9b의 "효용(utility)"은 **NMPU의 지연 결과 교사**(수 분–수 시간)다. 그림 20.9a의 "보상 효용"([[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]의 reward utility)은 전자에 가깝다. 같은 낱말이 두 개념에 쓰이므로 첫 등장 때 구분을 적어 두기를 권함.
-- **20.9.1 (L102)** "음식이 입에 닿는 순간에는 단서로 다 예측하지 못한 보상의 효용에 대한 반응" → Schultz의 주스 데이터와 정합한다. 다만 Schultz는 그 순간의 반응을 **감지 성분(흐름 시작, 양과 무관) + 효용 주성분**의 두 부분으로 본다. Zhu 2025는 이 단계의 근거로 Cohen 2012와 Fiorillo, Newsome & Schultz 2008을 인용한다.
-
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **분석 프로토콜**: 음식 cue·섭취에 대한 도파민 trace를 **초기 감지 창과 후기 가치 창으로 나누고**, 물리적 강도(용량·농도·소리 크기)와 가치(선호·포만·결핍 상태)를 동시에 넣은 회귀로 두 성분을 분리한다(Fig. 2c 방식). 세션 간 보상 반응 변화는 [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]]의 직전 보상 간격·맥락 노출 공변량과 함께 본다.
 - **설계 통제**: sucrose 세션 안의 중립 cue도 **보상 맥락** 때문에 도파민을 낼 수 있고, 같은 감각 양식의 혐오 cue는 **일반화**로 반응이 커진다(16% → 65%) → 맥락 분리 세션과 양식이 다른 cue를 대조로 둔다.
@@ -129,5 +119,5 @@ journal: "Nature Reviews Neuroscience 17:183–195 (Perspectives · Opinion; 온
 - [[concept-medium-spiny-neuron]] · [[person-kravitz-alexxai]] — D1/D2 경로의 학습·즉각 행동 효과(Kravitz 2012 인용).
 - [[concept-striatal-cholinergic-interneuron]] — 방출을 불균질하게 만드는 acetylcholine 입력.
 - [[concept-need-motivation-pleasure-utility]] — 주성분 = Pleasure 교사 신호 후보; utility 용어 충돌 주의.
-- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 같은 Ch 20 절의 현저성 해석(대립 축).
+- [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 현저성 해석(대립 축).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 식사 단계 모식도에서 음식 접촉 시 "reward utility" 반응.

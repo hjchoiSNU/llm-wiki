@@ -57,4 +57,4 @@ journal: "Diabetes 50:1714–1719"
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — 20년 후 시점에서 leptin의 인간/동물 차이를 정리한 리뷰.
 - [[overview-appetite-energy-homeostasis]] — 본 논문이 식사-단위 시간척도를 담당하는 부분.
 - [[proposal-hunger-need-encoding-human-translation]] — 본 ghrelin 식전 surge를 배고픔(Need)의 예측적 내분비 readout으로 쓰는 연구계획서(Aim 2).
-- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — ghrelin의 **식사 단위** 역할(식전 상승) ↔ 본 연구의 **체중 단위** 적응. 식락학 그림 18.3(a)/(b)의 짝.
+- [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — ghrelin의 **식사 단위** 역할(식전 상승) ↔ 본 연구의 **체중 단위** 적응.

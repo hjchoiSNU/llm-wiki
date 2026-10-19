@@ -6,7 +6,7 @@ updated: 2026-06-08
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **포만 뉴런이 동시에 쾌락 뉴런인가?** ARC [[concept-pomc-neurons|POMC 뉴런]]은 α-MSH(satiety)뿐 아니라 **β-endorphin(μ-opioid)** 을 분비해 paradoxically 단 음식 식욕을 켠다([[jouque-2025-beyond-satiety-unraveling-the|Jouque 2025]]; Minère 2025 *Science*). 사용자 lab 이론 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure(즉각 결과 교사)** 축의 분자 회로 substrate가 아직 시상하부에 정박하지 않았는데, β-endorphin이 그 후보다. 핵심 미해결: β-endorphin이 음식의 **"좋다(liking·쾌락)"** 를 부호화하는가, **"더 원한다(wanting·식욕)"** 를 부호화하는가 — Berridge liking/wanting 및 NMPU의 **Pleasure vs Motivation** 분리에 직접 답한다. 임상 출구는 **naltrexone(μ-opioid 길항, bupropion–naltrexone)** 으로 명확. 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)** 의 실험적 backbone.
+> **포만 뉴런이 동시에 쾌락 뉴런인가?** ARC [[concept-pomc-neurons|POMC 뉴런]]은 α-MSH(satiety)뿐 아니라 **β-endorphin(μ-opioid)** 을 분비해 paradoxically 단 음식 식욕을 켠다([[jouque-2025-beyond-satiety-unraveling-the|Jouque 2025]]; Minère 2025 *Science*). 사용자 lab 이론 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure(즉각 결과 교사)** 축의 분자 회로 substrate가 아직 시상하부에 정박하지 않았는데, β-endorphin이 그 후보다. 핵심 미해결: β-endorphin이 음식의 **"좋다(liking·쾌락)"** 를 부호화하는가, **"더 원한다(wanting·식욕)"** 를 부호화하는가 — Berridge liking/wanting 및 NMPU의 **Pleasure vs Motivation** 분리에 직접 답한다. 임상 출구는 **naltrexone(μ-opioid 길항, bupropion–naltrexone)** 으로 명확.
 
 # [연구계획서] POMC β-endorphin이 음식 쾌락·만족을 부호화하는가
 
@@ -101,7 +101,6 @@ flowchart LR
 - [[concept-need-motivation-pleasure-utility|NMPU]] **Pleasure 축의 시상하부 분자 기원**을 정박 — framework의 가장 약한 고리(쾌락 회로의 hypothalamic root) 보강.
 - **포만 뉴런이 쾌락 뉴런이기도 하다**는 패러다임 — [[concept-pomc-neurons]]·[[concept-melanocortin-system]] 재해석.
 - **satiety(α-MSH/setmelanotide) vs hedonic(β-endorphin/naltrexone) 분리 표적** 약리 — [[concept-digital-therapeutics|DTx]]·약물 병용 논리의 cell-type 근거.
-- 사용자 식락학 교재 **Ch 20(opioid·dopamine liking/wanting)·Ch 24(음식 갈망·중독)·Ch 25(비만 근본 치료)** 의 실험적 backbone([[person-choi-hyung-jin]]).
 - [[proposal-lh-nac-nmpu-neuron-discovery|LH·NAc NMPU 세포 발굴]]·[[proposal-nmpu-human-translation|NMPU 인간 번역]]과 **Pleasure 축에서 상보** — ARC(β-endorphin) → NAc/PVT(Pleasure) 회로 완성.
 
 ## 관련 페이지
@@ -120,6 +119,6 @@ flowchart LR
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP 번역.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 임상 type·Pleasure 둔감화/폭주 출구.
 - [[concept-ghost-pomc-neurons]] — POMC 정체성 가소성(위험·해석).
-- [[person-choi-hyung-jin]] — 연구책임자·식락학 Ch 20.
+- [[person-choi-hyung-jin]] — 연구책임자.
 - [[overview-research-proposals]] — 연구계획서 비교 hub(본 과제 = #7).
 - [[overview-future-research-directions]] — 상위 로드맵.

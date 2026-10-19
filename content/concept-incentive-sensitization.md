@@ -7,7 +7,7 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **‘[[concept-liking-wanting|갈망]]’이 ‘좋아함’을 추월하는 중독·과식의 기전.** 반복적 보상 노출이 중변연계 [[concept-dopamine-reward-system|도파민]] ‘갈망’ 시스템을 **감작**시켜, **즐거움(‘좋아함’)은 평탄/감소해도 단서 유발 갈망은 폭주**한다(Robinson & Berridge 1993–2025). 음식·비만으로 확장되면 ‘음식이 더 즐거워서’가 아니라 **음식 cue에 과도한 유인 현저성**이 부여되는 [[concept-food-addiction|음식 중독]] 서명 → 사용자 식락학 Ch 20·비만 치료 ‘의지의 문제 아님’ 논리의 핵심.
+> **‘[[concept-liking-wanting|갈망]]’이 ‘좋아함’을 추월하는 중독·과식의 기전.** 반복적 보상 노출이 중변연계 [[concept-dopamine-reward-system|도파민]] ‘갈망’ 시스템을 **감작**시켜, **즐거움(‘좋아함’)은 평탄/감소해도 단서 유발 갈망은 폭주**한다(Robinson & Berridge 1993–2025). 음식·비만으로 확장되면 ‘음식이 더 즐거워서’가 아니라 **음식 cue에 과도한 유인 현저성**이 부여되는 [[concept-food-addiction|음식 중독]] 서명 → 비만 치료에서 ‘의지의 문제 아님’ 논리의 핵심.
 
 # 유인-감작 이론 (incentive-sensitization theory, IST)
 

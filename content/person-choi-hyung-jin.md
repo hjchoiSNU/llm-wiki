@@ -84,14 +84,6 @@ ORCID: 0000-0003-0593-6978
 ### 공저 (1)
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — Gut-brain (NRGH 2026)
 
-### 식락학(Food Hedonology) 교재 프로젝트
-- Food Hedonology Society(가제) 출범 준비 중; 이화여대 K-MOOC <식락학> 교과목 2027 개발 승인.
-
-## 임상·지도
-
-- 서울대 식락학 교재 Ch 18 (호르몬: ghrelin, leptin, insulin, CCK) 작성 책임.
-- 사회 봉사: 식락학 (Food Hedonology) Society 가제 출범 준비 중.
-
 ## 관련 페이지
 - [[namkoong-2017-central-administration-of-glp-1]] — 초기 GLP-1/GIP 중추 병용 paper (BBRC 2017, 교신).
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 GLP-1RA fMRI food cue paper (DMJ 2019, 공동 1저자).
@@ -106,8 +98,8 @@ ORCID: 0000-0003-0593-6978
 - [[lee-2025-hijacked-brain-modern-obesity-cue]]
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]]
 - [[overview-future-research-directions]] — 본 lab 관점 향후 연구 로드맵(wiki gap 종합).
-- [[proposal-pomc-endorphin-food-pleasure]] — POMC β-endorphin·음식 쾌락 연구계획서(식락학 Ch 20 backbone).
-- [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 맛·음식 쾌락/욕망 연구계획서(orosensory vs post-oral; 식락학 Ch 20·24 backbone).
+- [[proposal-pomc-endorphin-food-pleasure]] — POMC β-endorphin·음식 쾌락 연구계획서.
+- [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 맛·음식 쾌락/욕망 연구계획서(orosensory vs post-oral).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식과 DLS: miniscope 종단 기록·인과 검증 연구계획서(2026-10-04).
 - [[concept-need-motivation-pleasure-utility]] — 본 lab의 이론 backbone.
 - [[concept-lateral-hypothalamus]] — 본 lab 핵심 표적.

@@ -9,7 +9,7 @@ year: 2020
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 식락학 Ch 20의 중심 소스. 'liking'(쾌락적 충격)과 'wanting'(유인 동기)이 **해부학적·신경화학적으로 분리된 시스템**임을 보여주는 결정판 리뷰. liking은 mu-opioid 의존의 작은 hedonic hotspot(NAc shell·VP)에, wanting은 더 큰 mesolimbic dopamine 회로에 매핑됨. 비만·과식은 'liking 없이 자라는 wanting'(incentive-sensitization)으로 설명되며, 이는 Ch 20의 opioid/dopamine 이중 구조 서술의 골격이 됨.
+> liking/wanting 해리의 중심 소스. 'liking'(쾌락적 충격)과 'wanting'(유인 동기)이 **해부학적·신경화학적으로 분리된 시스템**임을 보여주는 결정판 리뷰. liking은 mu-opioid 의존의 작은 hedonic hotspot(NAc shell·VP)에, wanting은 더 큰 mesolimbic dopamine 회로에 매핑됨. 비만·과식은 'liking 없이 자라는 wanting'(incentive-sensitization)으로 설명됨.
 
 # Liking과 Wanting의 분리 — 음식 보상의 뇌 기전 (Morales & Berridge 2020)
 

@@ -161,7 +161,6 @@ flowchart LR
 - **학술**: LH·NAc의 **NMPU 성분별 식욕 세포타입 카탈로그**(분자·투사·인과) — 이론을 분자·회로 지도로 전환.
 - **임상**: 성분 표적 치료(약물·[[proposal-ttis-feeding-reward-circuits|tTIS]]·DTx)의 cell-type 근거; LOC eating biomarker 세포 기원.
 - **번역**: [[proposal-nmpu-human-translation|NMPU 인간 번역]]의 동물 ground truth; [[concept-hypomap|atlas]] cross-reference.
-- **확산**: 식락학 교재 Ch 13–15 연계.
 
 ## 8. 연구비 (예시 — 작성 시 조정)
 - 규모: 중견연구 가정 **연 ~2억원 × 5년**.
