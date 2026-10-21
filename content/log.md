@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-21 — query (정현철 의사과학자 커리어패스)
+자료 없음. 위키 전수 grep(정현철·Hyun-Chul·의사과학자·physician-scientist·MD-PhD·커리어), llm-wiki-raw PDF 369편 앞 3쪽 pdftotext 검색, 내 드라이브 파일명 검색 모두 일치 없음. 인접 자료는 서울의대 교육분과의 커리어패스 다각화 논의뿐([[overview-snu-med-education-vision-2036]], [[overview-snu-med-edu-committee-minutes]]). 그 페이지가 거는 [[concept-physician-x-career-track]]은 파일이 없는 깨진 링크. 페이지 변경 없음.
+
 ## 2026-10-19 — other (사용자 원고 관련 내용 삭제)
 사용자 요청으로 사용자 원고 정리 페이지와, 다른 페이지·이 로그에 있던 원고 관련 서술을 지웠다. [[index]] 총 페이지 수를 실제 파일 수(529)로 맞췄다.
 
