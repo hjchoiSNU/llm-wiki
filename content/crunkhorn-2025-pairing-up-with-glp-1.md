@@ -2,7 +2,7 @@
 title: "GLP-1과 렙틴을 짝지어 비만 치료 (Crunkhorn 2025 highlight)"
 type: paper
 created: 2026-07-28
-updated: 2026-09-19
+updated: 2026-10-25
 source: "raw/Crunkhorn - 2024 - Pairing up with GLP-1 to combat obesity.pdf"
 authors: [Sarah Crunkhorn]
 year: 2025
@@ -34,3 +34,4 @@ GLP-1을 렙틴 수용체 작용제와 공유결합한 단일분자 이중작용
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 골격 병용(렙틴 포함) 종합 (사용자 lab).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] · [[petersen-2026-the-evolving-landscape-of]] — 차세대 비만약 hub.
 - [[concept-glp-1]] · [[concept-leptin]] · [[perakakis-2021-leptin-in-leanness-and-obesity]] — 호르몬 축.
+- [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — 이중작용제의 표적 세포가 **DIO에서 왜 아직 렙틴에 반응하는지**를 설명(그 집단만 LepR 신호가 증가). 다만 '렙틴 저항 우회'라는 프레임과는 긴장 (EMBO J 2026).

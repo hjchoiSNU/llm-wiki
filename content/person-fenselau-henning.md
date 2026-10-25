@@ -2,7 +2,7 @@
 title: Henning Fenselau
 type: person
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-10-25
 aliases: [Henning Fenselau, H. Fenselau]
 ---
 
@@ -32,3 +32,4 @@ aliases: [Henning Fenselau, H. Fenselau]
 - [[concept-npy-agrp-neurons]] · [[concept-paraventricular-nucleus]] — 무대.
 - [[proposal-glp1ra-rebound-microbiota]] — 방법·가설 이식 대상.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — Fenselau 공저: DIO에서 leptin 민감성을 유지하는 ventral DMH–caudal ARC Lepr/Glp1r 집단이 AgRP를 억제해 과식·체중 증가를 제한 (EMBO J 2026).

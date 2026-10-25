@@ -2,7 +2,7 @@
 title: NPY/AgRP neurons
 type: concept
 created: 2026-04-29
-updated: 2026-10-03
+updated: 2026-10-25
 aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 ---
 	
@@ -177,3 +177,4 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
   - ⚠️ [[davila-2026-agrp-neurons-are-required-for|d'Avila 2026]]과 병기: 저쪽은 세마글루타이드가 AgRP를 **모집**하고 AgRP 없으면 체중 감량이 붕괴(암컷). 본 preprint는 **급성 활성 억제**(수컷 DIO) — 시간척도·성별·판독이 다르며 저자들도 '맥락 의존'으로 유보.
 - [[liu-2023-an-iterative-neural-processing]] — ARC^AgRP = 섭식 **준비(preparation)** 단계: 배고플 때만 접촉 사이 비섭식 탐색 중 재활성되어 탐색을 누르고 다음 접근을 준비한다(hM4Di 억제 시 E→Wn 전이↑·섭취↓, 자유급식 ChR2 시 Wa 전이↑·섭취↑). valence 논쟁(Betley 2015 음성 vs Chen 2016 양성)을 "비섭식 행동의 검출·억제"로 통합 시도 (Neuron 2023, Wang lab). ⚠️ "food sight로 즉시 억제된 뒤 유지" 그림과 달리 조각 단위로 진동한다 — 공간 규모·탐색 기회가 조건 변수.
 - [[rossi-2018-overlapping-brain-circuits-for]] — AgRP의 **맥락 의존 valence**(먹이 없으면 회피, 있으면 자기자극; Betley 2015 vs Chen 2016)를 "먹이 존재 의존"으로 묶은 Stuber lab 리뷰. ARC=ventricular 진입점·"식욕 촉진 세포 활성=보상" 경험칙의 대표 예외 (Cell Metab 2018).
+- [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — AgRP로 가는 Lepr⁺ GABA성 입력의 ~80%가 Lepr/Glp1r이며, 비만의 AgRP 탈감작·ghrelin 저항은 세포 내재적 결함이 아니라 **이 상류 집단의 leptin 의존적 억제** 때문(KO에서 단식·ghrelin 과식 복원) (EMBO J 2026).

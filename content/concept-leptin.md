@@ -2,7 +2,7 @@
 title: Leptin
 type: concept
 created: 2026-04-29
-updated: 2026-10-11
+updated: 2026-10-25
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -98,3 +98,4 @@ updated: 2026-10-11
 - [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — ⚠️ **leptin이 LH orexin 뉴런을 직접 억제**한다는 1차 주장(Neuron 2003): 해리 orexin/EGFP 뉴런 7/9가 leptin 10 nM에 과분극(−47.6→−62.1 mV), i.c.v. leptin 2주가 *prepro-orexin* mRNA↓. 단 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]·[[leinninger-2011-leptin-action-via-neurotensin|2011]]은 OX에 LepRb·pSTAT3가 없고 leptin 효과가 LepRb^Nts GABA를 경유하는 **간접**이라고 본다 — 직접/간접은 미해결(병기). 또 이 논문은 *ob/ob*의 OX 저발현이 leptin 결핍보다 **고혈당** 때문일 수 있음을 보인다(혈당 정상화 시 OX 회복).
 - [[de-vrind-2019-effects-of-gaba-and]] — LH^LepR 세포 **전체**를 hM3Dq로 수 시간 켠 인과 사례(Obesity 2019): 바닥 chow 섭취↓(7 h P=5.3×10⁻⁸)·운동↑·눈 온도↑·3일 반복 체중↓, 단 cage-top chow에서는 섭취 효과가 사라진다. ⚠️ 저자들은 leptin이 LHA LepRb의 일부만 탈분극하고 일부는 과분극한다는 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]] 수치(그 논문 인용으로 33% 탈분극·22% 과분극; 이 위키 Leinninger 항목은 34% 탈분극으로 적는다)를 들어 **모든 LepR 동시 활성이 하위집단 효과를 상쇄할 수 있음**을 스스로 한계로 든다 → "leptin 작용 = LepR 세포 활성"으로 등치하지 말 것.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 공복 leptin −64.5±3.4%(10주) → −35.5±4.7%(62주), 둘 다 P<0.001. 체지방량 보정 후에도 유의, leptin/지방량 비는 62주에 부분 회복. 감량률과 leptin 감소율 r=0.78.
+- [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — '렙틴 저항'의 재정의: 대부분 Lepr 세포형은 hyperleptinemia에도 LepR 신호를 **늘리지 못할 뿐**이고, Lepr/Glp1r 집단 하나만 민감성을 유지해 DIO pSTAT3⁺ 뉴런의 60% 초과를 차지 (EMBO J 2026).
