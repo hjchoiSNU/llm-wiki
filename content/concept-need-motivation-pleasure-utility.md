@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -264,3 +264,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — Pleasure "Forward(RPE)" 교사 신호의 고전 후보(utility PE). ⚠️ Schultz의 utility = 즉각 보상의 경제학적 효용으로 NMPU Utility(지연)와 다른 개념.
 - [[concept-reward-prediction-error]] — Pleasure "Forward(RPE)" 교사 신호의 후보들(효용 PE vs ANCCR)과 두 개의 'utility' 용어 충돌.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — Panksepp 탐색 시스템: 욕구가 추구를 켜고 포만(일종의 쾌감)이 끄며, 항상성과 무관한 욕구를 만드는 자극 = 중독. ⚠️ Kang의 'need'와 '포만 = 쾌감'은 NMPU의 Need·Utility와 용어가 다름.
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — craving이 칼로리 결핍이 아니라 쾌락 박탈로 유발된다는 리뷰 정리 → craving을 Need와 분리해 Motivation 편향으로 보는 근거(연결 가설).

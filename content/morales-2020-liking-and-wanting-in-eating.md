@@ -2,7 +2,7 @@
 title: "Liking과 Wanting의 분리 — 음식 보상의 뇌 기전 (Morales & Berridge 2020)"
 type: paper
 created: 2026-06-20
-updated: 2026-09-21
+updated: 2026-10-25
 source: "raw/2020 (Kent Berridge) ‘Liking’ and ‘wanting’ in eating and food reward- Brain mechanisms and clinical implications.pdf"
 authors: [Morales I, Berridge KC]
 year: 2020
@@ -61,3 +61,4 @@ year: 2020
 - [[person-choi-hyung-jin]] — 시상하부 회로·NMPU 연구 맥락 연결
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 현대 비만의 cue 기반 incentive-sensitization 후속
 - [[murray-2014-hormonal-and-neural-mechanisms]] — 섭식 보상 호르몬-도파민 crosstalk 상보 리뷰.
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — "도파민 저하 → 보상적 과식" 제안과 체중 증가에 따른 선조체 반응 저하(Stice 2010)를 함께 소개. D2 원인/결과 논쟁의 2012년 시점.

@@ -2,7 +2,7 @@
 title: 체중 재증가와 방어되는 지방량 (Weight regain & defended adiposity)
 type: concept
 created: 2026-09-11
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, weight maintenance, 유지생물학]
 ---
 
@@ -92,3 +92,5 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[thoeni-2020-depression-of-accumbal-to]] — ★ **두 번째 시냅스 기질 — 배고픔 입력이 아니라 "섭식 허가 게이트" 쪽**(Neuron 2020, Lüscher lab). 하룻밤 급성 식이제한 또는 3일 고지방식이 **NAcSh D1-MSN→LH 억제성 시냅스를 eCB–CB1R 의존적으로 depress**시켜 과식을 허가한다. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]과 **같은 시간 규칙**을 공유한다 — **체중이 회복되면 꺼진다**(AFR 1주 후 i-LTP 소실). 그러나 분자 관문은 다르다: **NMDAR(PVH^TRH→AgRP 증폭) vs CB1R(게이트 depression)**. 연결 가설: 두 가소성이 직렬이면 다이어트 후 과식 = **배고픔 gain↑ × 중단 신호↓**이고, 관문이 달라 **병용 차단의 가산성**을 검증할 수 있다. 치료 쪽 단서도 둘 — CB1R 길항(전신 10 mg/kg 또는 **LH 국소 1.5 µg/side**)이 결핍 유발 과식과 HFD 체중 증가를 함께 막고, **in vivo HFS로 시냅스를 potentiate하면 금식 상태에서도 섭취가 줄어든다**. ⚠️ 단 고지방식 **만성** 노출에서 이 depression이 유지되는지, 식단 철회 후 회복 동역학이 어떤지는 원문이 미해결로 남겼다.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — ★ **임상 호르몬 층의 1차 앵커**. 10주 프로그램(VLCD 8주) 뒤 완료자 34명 −13.5 kg 감량 후 ghrelin↑·leptin/PYY/CCK/insulin↓·배고픔↑이 **62주(감량 1년 뒤)까지 지속**. 층위 1 표에 "다이어트" 행으로 추가하고, 62주 시점 체중은 **기저 대비 −7.9 kg(10주 대비 +5.5 kg)** 임을 함께 적을 것.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 유지 실패의 기전 목록에 **"치료 중 소비 국면 도파민 반응의 회복"** 추가(약을 끊기 전에도 보상 반응이 먼저 돌아올 수 있다).
+- [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — "중단 시 체중이 빠진 속도와 대략 같게 재증가"라는 리뷰 진술(STEP 4·STEP 10·SURMOUNT-4 인용). SURMOUNT-4 수치와는 속도 해석에 긴장이 있다.
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — "기호 음식 제한은 재발을 '기계적으로' 늦출 뿐"이라는 hedonic 측 설명(2012 리뷰). 항상성 증폭기(PVH^TRH→AgRP) 기전과 짝을 이루는 두 번째 재발 성분.

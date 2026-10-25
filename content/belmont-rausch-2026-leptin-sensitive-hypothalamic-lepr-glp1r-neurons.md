@@ -7,7 +7,7 @@ source: "raw/2026 EMBO J. Leptin-sensitive hypothalamic Lepr-Glp1r neurons limit
 authors: [Dylan M Belmont-Rausch, Benedicte Schultz Kapel, Abigail J Tomlinson, Chao Ding, Allison M Duensing, Bernd Coester, Cecilie Vad Mathiesen, Leonie Cabot, Jenny M Brown, Charlotte Høy Kruse, Shad Hassan, Elizabeth Heaton, Christoffer Clemmensen, Michael W Schwartz, Henning Fenselau, Martin G Myers Jr, Tune H Pers]
 year: 2026
 journal: "The EMBO Journal (2026). DOI 10.1038/s44318-026-00914-w · Received 6 May 2026 / Revised 18 Aug 2026 / Accepted 4 Sep 2026 · Open Access (CC BY 4.0)"
-lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune H Pers) × Molecular & Integrative Physiology/Internal Medicine, University of Michigan (공동 교신 [[person-fenselau-henning|—]] 아님: Martin G Myers Jr) × MPI for Metabolism Research, Cologne ([[person-fenselau-henning|Henning Fenselau]]) × UW Seattle (Michael W Schwartz). Belmont-Rausch/Kapel/Tomlinson 공동 1저자(Kapel·Tomlinson 동등)"
+lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune H Pers) × Molecular & Integrative Physiology / Internal Medicine, University of Michigan (공동 교신 Martin G Myers Jr) × MPI for Metabolism Research, Cologne (Henning Fenselau) × Diabetes and Obesity Center of Excellence, University of Washington, Seattle (Michael W Schwartz). Kapel·Tomlinson 동등 기여, Myers·Pers 공동 senior author"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -95,10 +95,8 @@ lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune
 - **저자가 예상한 천장**: Lepr/Glp1r도 결국 최대 LepR 신호에 도달할 수 있고 Agrp(및 하류)도 완전히 억제될 수 있다(활성은 0 아래로 못 간다).
 - **한계**(일부는 저자 명시, 일부는 본 페이지 정리):
   - 발달 효과 배제 불가(저자 명시). Agrp·Npy 발현 자체는 KO에서 정상이고, Agrp 특이 Lepr 결손(van de Wall 2008)보다 LeprGlp1rKO 표현형이 크다.
-  - DREADD 행동은 **수컷만**, 다른 행동은 혼성 성별이며 성별 분리 통계는 EV 그림에만 일부 제시 → 성차 결론 유보.
-  - 조작의 분자 좌표가 서로 다르다: 전사체·KO는 **Glp1r-Cre**(Glp1r 발현 세포 전체), DREADD는 **Glp1r × Trh 교차**. 따라서 Trh 음성 Lepr/Glp1r 세포는 활성화 실험에서 빠졌을 수 있다(본 페이지 해석).
-  - microglia는 **IBA1 양성 세포 수**만 — 형태·활성화 상태·기능은 측정되지 않았다.
-  - DIO 코호트와 chow 코호트가 독립 동물군이고 HFD 조성이 코호트별로 다르다(58% vs 60% kcal fat).
+  - DREADD 행동은 **수컷만**, 나머지 행동은 혼성 성별(성별 분리 통계는 EV 그림에 일부) → 성차 결론 유보. 조작의 분자 좌표도 다르다: 전사체·KO는 **Glp1r-Cre**(Glp1r 세포 전체), DREADD는 **Glp1r × Trh 교차** → Trh 음성 Lepr/Glp1r 세포는 활성화 실험에서 빠졌을 수 있다(본 페이지 해석).
+  - microglia는 **IBA1 양성 세포 수**만(형태·활성화 상태·기능 미측정). DIO·chow 코호트는 독립 동물군이고 HFD 조성이 코호트별로 다르다(58% vs 60% kcal fat).
   - Lepr/Glp1r → Agrp 억제가 표현형에 기여한다는 것은 "presumably"로 서술되며, 저자들은 이 집단이 **다른 orexigenic 회로**도 억제할 가능성을 열어 둔다.
 
 ## ⚠️ 위키 내 충돌·긴장 (양쪽 병기, 상대 페이지는 수정하지 않음)

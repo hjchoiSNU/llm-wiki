@@ -2,7 +2,7 @@
 title: 음식 중독과 물질사용장애 정의의 중첩 — 동물·인간 연구 분석
 type: paper
 created: 2026-07-05
-updated: 2026-10-11
+updated: 2026-10-25
 source: raw/2014 Overlap of food addiction and substance use disorders definitions- Analysis of animal and human studies.pdf
 authors: [Hone-Blanchet A, Fecteau S]
 year: 2014
@@ -31,3 +31,4 @@ year: 2014
 - [[stuber-2025-the-neurobiology-of-overeating]] — 과식 회로 최신 관점(보상 저민감성 논의 대비).
 - [[vendruscolo-2026-neurobiology-of-negative-reinforcement]] — sweet-fat 금단의 CRF·음성강화와 직결.
 - [[song-2024-case-reports-of-binge-eating]] — YFAS(3/7 + 고통) 정의를 섭식장애 임상에 적용한 사용자 lab 증례. '극단적 제한이 음식 중독을 촉발'한다는 가설은 이 리뷰의 '갈망은 조건화에 더 민감' 견해와 대비.
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — 2년 앞선 동물 근거 종합. ad lib HF 4주 후 전환한 마우스의 정서성↑·처벌 저항·amygdala CRH↑(Teegarden & Bale 2007 인용)를 들어, 본 리뷰의 "fat-bingeing 금단 부재"와 긴장(패러다임 차이).

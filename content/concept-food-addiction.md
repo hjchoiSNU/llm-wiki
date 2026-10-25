@@ -46,3 +46,4 @@ aliases: [food addiction, 음식중독, YFAS, ultra-processed food addiction]
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 중독 자극 = 항상성 회복과 무관한 욕구를 만들고 포만이 없는 자극(기호품·인터넷·도박); 갈망 = 작업기억을 점령한 wanting.
 - [[song-2024-case-reports-of-binge-eating]] — 섭식장애(AN) 회복기에 드러난 음식 중독 임상 증례(사용자 lab). CBT-E의 '모든 음식 허용' vs 특정 음식 절제, BED 47%·FA 44%(2차 인용).
 - [[hutelin-2026-metabolic-and-neural-responses-to]] — ⚠️ 영양·ED를 맞추면 UPF의 WTP·liking·wanting이 non-UPF와 같고 UPF>non-UPF value 대비 무유의 → "UPF가 보상을 더 활성"은 가공 자체보다 조성(fat+sugar·ED)에 기댈 가능성 (Nat Metab 2026).
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — 2012 리뷰: 반복 음식 보상이 보상계(MOR·D1/D2·CB1·ΔFosB)와 항상성계(NPY·oxytocin·중추 leptin/insulin 감수성)를 함께 바꾸는 "feed-forward" 고리; craving은 칼로리 제한이 아닌 쾌락 박탈로 유발되고, 중독 유사 행동은 강제 절제 중 더 뚜렷하다고 정리.

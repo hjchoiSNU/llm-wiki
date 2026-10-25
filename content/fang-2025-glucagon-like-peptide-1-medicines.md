@@ -2,7 +2,7 @@
 title: "GLP-1 의약의 신경·정신질환 전반 리뷰 (Fang·Drucker, 2025)"
 type: paper
 created: 2026-07-10
-updated: 2026-10-03
+updated: 2026-10-25
 source: "raw/2025 Cell Reports Medicine. Glucagon-like peptide-1 medicines in neurological and psychiatric disorders.pdf"
 source_alias: "raw/2025 Cell Reports Medicine. Glucagon-like peptide-1 medicines in neurological and psychiatric disorders 1.pdf"
 authors: [Fang S, Cui F, Drucker DJ]
@@ -65,3 +65,4 @@ GLP-1 수용체 작용제를 신경퇴행(AD·PD)·뇌졸중·발작·편두통�
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 물질사용장애 등 비대사 적응증이 **체중 감소의 이차 결과가 아님**을 뒷받침하는 기전 정리 (Cell Metab 2026, Drucker).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 같은 해 같은 질문의 **정신약리판 소규모 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편)로, 본 리뷰의 "CSF exenatide = 혈중의 1/100" 한 줄을 전용 주제로 확장한다: 설치류 약물별 뇌 유입속도(exendin-4·lixisenatide는 측정됨, liraglutide·semaglutide는 측정 불가)와 **PD 환자 exenatide CSF 약 1–2%**. ⚠️ 두 리뷰의 CSF 수치는 **같은 1차 출처**다 — 본 리뷰 ref #8과 그쪽 ref #29가 모두 Vijiaratnam 2025(exenatide-PD3). 독립된 두 측정으로 세지 말 것. 분업: 약물별 유입속도 수치는 그쪽에, CVO 국재·GLP-1R 미발현 핵의 cFos(미정의 세포간 중계)·exenatide-PD3의 임상 결과(음성)는 본 리뷰에 있다. 두 리뷰 모두 사용자 lab [[bae-2019-glucagon-like-peptide-1-receptor|Bae 2019]] fMRI를 인용한다(본 리뷰 ref #9, 그쪽 ref #20). 그쪽 초록은 "전임상에서 liraglutide·semaglutide·exenatide가 BBB 통과"라고 요약하나 본문 데이터와 엇갈리므로 본문 수치로 인용할 것.
 - [[concept-glp1ra-cns-access]] — CNS 접근 경로·증거등급 hub.
+- [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — ⚠️ semaglutide 1 mg AUD RCT를 "자가투여·최고 호흡 알코올↓, 음주량·음주일수·주간 갈망 불변"으로 정리해 이 페이지의 '갈망↓'와 긴장.

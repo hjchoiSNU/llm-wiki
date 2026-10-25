@@ -2,7 +2,7 @@
 title: GLP-1RA 반응 이질성 (Response variability & precision anti-obesity)
 type: concept
 created: 2026-08-19
-updated: 2026-10-03
+updated: 2026-10-25
 aliases: [GLP-1RA 반응 이질성, response variability, 정밀 항비만, pharmacogenomics, precision obesity medicine, responder stratification]
 ---
 
@@ -96,3 +96,4 @@ GLP-1 수용체 작용제의 체중 감량 효능과 부작용은 개인차가 �
 - [[concept-peripheral-epigenetic-biomarker]] — 예측 바이오마커의 **기여도를 정직하게 보고하는 기준**을 공유하는 인접 개념. 본 페이지가 유전 예측의 상한(전체 R² 약 25%)을 명시한 것처럼, 말초 후성유전 표지도 같은 수준의 보고를 요구해야 한다.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — **두 약 모두에서 여성이 약 6%p 더 감량**(남성 비율 35%가 전체 감량을 선행 시험보다 낮춘 요인으로 저자 설명); 중단 유발 이상반응도 비대칭(위장관=semaglutide, 주사부위=tirzepatide) (NEJM 2025, SURMOUNT-5)
 - [[bonnefond-2026-the-genetics-of-obesity]] — 유전 층 추가: CTS 유전점수(Cifuentes 2025; ML AUC 0.82, 저 CTS→liraglutide 반응↑·고 CTS→phentermine–topiramate 반응↑), 고 PRS는 생활습관 중재 첫해 감량↑·재증가↑ (Nat Metab 2026).
+- [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — 감량의 개인차가 크고, 일부는 tirzepatide 최고 용량에서도 체중이 늘었다(SURMOUNT-1 인용).
