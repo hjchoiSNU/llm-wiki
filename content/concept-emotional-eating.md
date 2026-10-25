@@ -2,7 +2,7 @@
 title: Emotional eating (정서적 섭식) / 스트레스-섭식
 type: concept
 created: 2026-07-05
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [emotional eating, stress eating, comfort eating, 정서적 섭식, 스트레스 섭식]
 ---
 
@@ -38,3 +38,4 @@ aliases: [emotional eating, stress eating, comfort eating, 정서적 섭식, 스
 - [[linders-2022-stress-driven-potentiation-of-lateral]] — ★ 이 페이지 프레임("스트레스 → 보상계 편향 → 기호성 과식")의 **설치류 인과 모델**(Nat Commun 2022, Meye lab). 이틀 사회 패배가 **LHA glutamate→VTA 도파민 시냅스를 후시냅스 GluA1-AMPAR 증가로 강화**하고, 그 강화가 **mPFC 도파민 출력**을 키워 지방 섭취를 늘린다. 세 방향 증거가 닫힌다 — 20 Hz HFS 또는 VTA 내 dexamethasone으로 **인공 강화 → 스트레스 없이도 과식**, **1 Hz LFS로 되돌리면 스트레스성 과식 소멸**. 주의: **chow 섭취·체중은 불변**(PSD2에는 chow 감소)이므로 "에너지 요구 증가"가 아니라 **기호성 쪽 선택 편향**이다. 저자들은 인간 anchor로 Martín-Pérez 2019(과체중 청소년 LH–중뇌 rs-FC ↔ 스트레스·emotional eating 성향)을 든다.
 - [[concept-habit]] — 스트레스성 과식을 갈망 증폭·습관 전환·시상하부 불안-과식 회로로 쪼개는 hub(경로 A·B).
 - [[song-2024-case-reports-of-binge-eating]] — 증례 2: 연이은 부정적 사건 뒤 폭식 재증가(그림 2, 2022.8–9).
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — 스트레스 이력이 이후 스트레스 반응을 키우는 시상하부 회로. 섭식은 미시험이나 two-stressor 설계와 앙상블 크기/이득 분해법을 스트레스-섭식 연구에 이식 가능(연결 가설) (Nature 2026).

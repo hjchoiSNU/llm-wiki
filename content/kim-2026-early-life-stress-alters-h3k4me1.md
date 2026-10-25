@@ -2,7 +2,7 @@
 title: Early-life stress alters H3K4me1 in VTA to prime stress sensitivity (Kim 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-09-19
+updated: 2026-10-25
 source: raw/2026 Neuron. Early-life stress alters H3K4me1 in VTA to prime stress sensitivity.pdf
 authors: [Hye Ji J. Kim, Luke T. Geiger, Julie-Anne Balouek, Lisa Z. Fang, Mason R. Barrett, Ian Maze, Meaghan C. Creed, Catherine Jensen Peña]
 year: 2026
@@ -90,3 +90,4 @@ doi: 10.1016/j.neuron.2026.07.018
 - [[concept-h3-dopaminylation]] — 자매 변형의 개념 hub. 여기서는 H3K4me1/SETD7, 저쪽은 TG2 매개 H3Q5 모노아민화.
 - [[cunningham-2026-early-life-experiences-the-neural]] — 본 논문을 포함한 ELS 후성유전 분야의 **상위 종합**(NRN 2026). 공저자 Ian Maze가 교신. 본 논문의 H3K4me1/SETD7 축을 H3K79me2·DOT1L, H3K27me1, 모노아민화와 나란히 배치하고, 글리아·말초 표지·bulk 프로파일링 한계를 추가.
 - [[person-maze-ian]] — 본 논문 공저자의 인물 hub.
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — 같은 stress sensitivity priming을 성체·회로 앙상블 층위에서 보인 사례(AHN^GAD 동원 확대, 편도체→AHN 입력 필요) (Nature 2026).

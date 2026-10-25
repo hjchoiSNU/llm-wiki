@@ -2,7 +2,7 @@
 title: "Food Intake Recruits Orosensory and Post-ingestive Dopaminergic Circuits to Affect Eating Desire in Humans"
 type: paper
 created: 2026-05-31
-updated: 2026-10-11
+updated: 2026-10-25
 source: "raw/2019 Cell Metabolism. Food Intake Recruits Orosensory and Post-ingestive Dopaminergic Circuits to Affect Eating Desire in Humans (1).pdf"
 authors: [Edwin Thanarajah S, Backes H, DiFeliceantonio AG, Albus K, Cremer AL, Hanssen R, Lippert RN, Cornely OA, Small DM, Bruning JC, Tittgemeyer M]
 year: 2019
@@ -72,3 +72,4 @@ fMRI와 새로 개발한 연속 [11C]raclopride PET(rDA 기법)를 결합해, �
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — 마우스 위내-DA 인과판; 본 인체 post-ingestive DA의 vagus 의존 기전 짝 (Sci Adv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — ⚠️ Kang 2011이 2차 인용한 '먹이 섭취 때 도파민 농도 저하'(Ahn & Phillips 2002)와 이 논문의 섭취 중 도파민 정점은 긴장 관계(측정 방법·시간척도 차이 확인 필요).
+- [[hutelin-2026-metabolic-and-neural-responses-to]] — 같은 DiFeliceantonio 계열; 식후 carbohydrate oxidation ↔ 음식 사진 caudate·VS BOLD 연관(PET DA 아닌 fMRI, 방향 음(−)).

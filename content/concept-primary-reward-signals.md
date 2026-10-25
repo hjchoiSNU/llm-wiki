@@ -2,7 +2,7 @@
 title: Primary reward signals (1차 보상 신호)
 type: concept
 created: 2026-05-01
-updated: 2026-10-03
+updated: 2026-10-25
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -140,3 +140,4 @@ updated: 2026-10-03
 - [[jung-2022-a-forebrain-neural-substrate-for]] — "체온 primary reward?" 질문의 1차 자료: LH^Vgat이 열 보상·열 처벌을 양방향 부호화, LPB 입력이 열 보상 부호화에 필요 (Neuron 2022)
 - [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — **sugar primary reward의 LH(MCH) 경유 후보**(eLife 2013, Friedman lab). MCH 제거 시 sucrose 섭취 중 선조체 DA(+118%)와 Trpm5⁻/⁻ 영양 조건화(70–79% → 50%)가 사라진다. 단맛(proxy) 선호는 남는다. 즉 proxy reward와 primary reward를 **MCH 의존성으로 분리**한 사례다. 그러나 MCH 자극만으로는 보상이 아니고(물+광 무선호), 미각 proxy와 함께일 때만 가치를 더한다. 위 회로 정체 표에서 water만 "LH input"인데, sugar에도 LH 경로 후보가 있음을 병기한다(vagal-hindbrain 경로와의 관계는 미검증).
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — **appetition(event-driven primary reward)의 중추 증폭기 후보**(Nat Commun 2023, Kanoski lab, rat). LH MCH 뉴런 활동이 섭취 중 올라가 **식사 초기에 최대·종료로 감쇠**하고(R²=0.2005) 그 식사의 **총 칼로리를 예측**하며(bout 내 ΔCa vs 누적 chow R²=0.9299), 화학유전 활성이 식사량(P=0.0277)과 **IG glucose 짝 비칼로리 향미 선호**(P=0.0028)를 키운다. 위키의 appetition 서술(결핍 없이도 작동하는 sugar/fat 신호)에 **"식사 내 시간 구조"** 를 추가한다 — 양성 되먹임은 초기에 몰려 있다.
+- [[hutelin-2026-metabolic-and-neural-responses-to]] — 3대영양소·ED를 맞춘 UPF는 insulin↑·carbohydrate oxidation 둔화; 인간에서 carbohydrate oxidation이 post-ingestive 가치 신호 후보라는 상관 근거.

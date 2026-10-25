@@ -2,7 +2,7 @@
 title: Early-life adversity (초기 역경) / 발달기 stress programming
 type: concept
 created: 2026-07-05
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분리, developmental programming]
 ---
 
@@ -52,3 +52,4 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 - [[concept-peripheral-epigenetic-biomarker]] — 혈액·타액 표지(`NR3C1`·`BDNF`·`SLC6A4`·`GRIN2B`·`PXDN`)의 쓸 수 있는 범위와 한계.
 - [[person-maze-ian]] — 위 종합의 출처 그룹.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 자손 역경의 **상류인 양육 행동** 쪽 리뷰: 스트레스·CRH가 retrieval·grooming·nursing을 낮추고 방치를 늘리며, 감작·경험이 그 억제를 완충한다.
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — two-hit 민감화의 성체판(발달기 창 아님): 성체 족부충격 10일 뒤 약한 청각 스트레스에 freezing↑, 저장 단위는 AHN^GAD 반응 앙상블 크기 (Nature 2026).

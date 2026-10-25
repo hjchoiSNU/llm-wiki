@@ -2,7 +2,7 @@
 title: "GLP-1 receptor agonist differentially affects brain activation to visual food cues in lean and obese T2DM (Bae, Choi et al. 2019)"
 type: paper
 created: 2026-05-31
-updated: 2026-10-03
+updated: 2026-10-25
 source: "raw/2019 DMJ. Glucagon-Like Peptide-1 Receptor Agonist Differentially Affects Brain Activation in Response to Visual Food Cues in Lean and Obese Individuals with Type 2 Diabetes Mellitus.pdf"
 authors: [Jae Hyun Bae, Hyung Jin Choi, Kang Ik Kevin Cho, Lee Kyung Kim, Jun Soo Kwon, Young Min Cho]
 year: 2019
@@ -79,3 +79,4 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ 본 연구를 **GLP-1RA CNS 침투의 인간 간접 근거(ref #20)**로 인용한 narrative review이자, **본 연구가 속한 근거 범주를 메타적으로 규정하는 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편). 인간에서는 CNS 침투의 직접 측정이 없어 **뇌 영상 변화(연결성·활성)를 대리지표로 쓴다**는 논리이고, 본 fMRI의 방추이랑·측뇌실 소견이 그 "뇌 효과 proxy"로 분류된다. ⚠️ 동시에 본 연구는 그 논리의 한계 사례다 — 리뷰는 "비만 T2DM에서 활성 감소"만 옮기고, lean과 obese에서 조절 방향이 **반대**라는 점과 방추이랑이 GLP-1R **미발현** 영역이라는 점은 다루지 않는다. 같은 약물이 집단에 따라 부호를 바꾸고 수용체 없는 영역도 변하므로 단일 대리지표로는 침투를 읽을 수 없다(리뷰 자신의 유보: 표적 engagement의 재현성은 불완전하게 규명).
 - [[concept-glp1ra-cns-access]] — fMRI가 증거등급 F(간접 proxy)에 놓이는 이유와, 다음 단계로 지목된 인간 PET.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 임상).
+- [[hutelin-2026-metabolic-and-neural-responses-to]] — food-cue fusiform이 가공도에 따라 value를 반대 부호로 부호화(non-UPF 양/UPF 음) → lixisenatide fusiform 효과와 이어지는 후속 질문.

@@ -2,7 +2,7 @@
 title: 대사 내수용감각 (Metabolic interoception / energy allostasis)
 type: concept
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-10-25
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -43,3 +43,4 @@ updated: 2026-08-05
 - [[concept-need-motivation-pleasure-utility]] — Need(에너지 상태)–Motivation 축과의 연결.
 - [[concept-leptin]] · [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin의 보상계 조율(대사호르몬→VTA).
 - [[person-nord-camilla]] · [[person-kroemer-nils]] — 대사–기분–보상 연구자.
+- [[hutelin-2026-metabolic-and-neural-responses-to]] — 급성 식후 insulin 차이(UPF↑)는 food-cue 뇌 반응과 무관하고 carbohydrate oxidation·RER만 연관 (Nat Metab 2026).
