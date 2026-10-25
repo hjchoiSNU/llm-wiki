@@ -210,4 +210,4 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 - [[leow-2026-a-cortical-hypothalamic-neural]] — 자유행동 miniscope의 세션 간 추적 선례와 강박적 섭취 패러다임.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — 정크푸드 노출은 조건화 접근만 키움. 가치 절하 검사 없음.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — Habit형 정의와 2차 인용의 출처.
-- [[overview-dopamine-roles-by-striatal-region]] — 선조체 전체 부위별 도파민 역할 지도; DLS 칸(과제 시간·개시 예측·D2R gating, 습관은 2차)이 이 페이지의 결론과 같은 근거 수준.
+- [[overview-dopamine-roles-by-striatal-region]] — striatum 전체의 subregion별 도파민 역할 지도; DLS 칸(과제 시간·개시 예측·D2R gating, 습관은 2차)이 이 페이지의 결론과 같은 근거 수준.

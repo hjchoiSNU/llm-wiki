@@ -32,4 +32,4 @@ updated: 2026-10-25
 - [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat hM3Dq 활성화는 체온조절 행동이 아니라 갉기(gnawing)를 유발 (Neuron 2022)
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — vigor를 **식사 내 시간 함수**로 확장할 근거(Nat Commun 2023, Kanoski lab, rat). LH MCH의 bout 내 Ca²⁺ 상승 폭이 **bout 지속시간**(R²=0.2085, P=0.0024)과 **누적 칼로리**(R²=0.9299, P=0.0005)를 예측하고, **식사 초기 bout에서 가장 크다**(R²=0.2005). [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]이 선조체 DA를 **bout 개시(수)** 쪽으로 못 박았다면 MCH는 **지속·초기 가속** 성분의 후보다(연결 가설 — 두 신호를 같은 과제에서 동시에 잰 자료는 없음).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — vigor의 **유지(bout 길이)** 성분에 VTA DA 인과를 붙인 자료. 같은 페이지의 "DA=개시" 서술(Gordon 2026)과 충돌하므로 나란히 둘 것.
-- [[overview-dopamine-roles-by-striatal-region]] — vigor 개시(bout 수: NAcCR·DMS·DLS 도파민이 예측)와 유지(bout 길이: VTA, Zhu 2025)를 부위별로 나눈 표.
+- [[overview-dopamine-roles-by-striatal-region]] — vigor 개시(bout 수: NAcCR·DMS·DLS 도파민이 예측)와 유지(bout 길이: VTA, Zhu 2025)를 subregion별로 나눈 표.
