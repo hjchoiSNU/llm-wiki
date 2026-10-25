@@ -2,7 +2,7 @@
 title: ANCCR — 회고적 인과 학습 (Adjusted Net Contingency for Causal Relations)
 type: concept
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습, predecessor representation, meaningful causal target]
 ---
 
@@ -112,3 +112,4 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — "TDRL RPE와의 대조" 표의 RPE 쪽 원전급 리뷰(두 성분·utility PE).
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — "처벌·아구역" 열린 문제(suppl. Note 8: 부호 있는 value vs 절댓값 = salience)와 같은 질문 — NAc core 도파민이 valence 무관 강도를 싣는다는 Kutlu 결과.
 - [[concept-reward-prediction-error]] — ANCCR를 RPE·현저성·유인 현저성과 한 표에 놓은 상위 판별 hub.
+- [[overview-dopamine-roles-by-striatal-region]] — ANCCR이 NAc core에서만 검증됐고 DMS·DLS·TS는 자료가 없다는 점을 부위별 표에 정리.

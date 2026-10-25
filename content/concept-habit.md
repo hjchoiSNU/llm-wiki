@@ -2,7 +2,7 @@
 title: "습관 (Habit) — 목표지향↔습관 통제와 습관적 과식의 뇌 기전"
 type: concept
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-25
 aliases: [habit, habitual control, 습관, 습관적 섭식, 습관적 과식, habitual overeating, habitual-context eating, goal-directed vs habit, 목표지향 vs 습관, stimulus-response, S-R 학습, outcome devaluation, contingency degradation, dorsalization]
 ---
 
@@ -323,3 +323,4 @@ flowchart LR
 - [[concept-basolateral-amygdala]] · [[concept-orbitofrontal-cortex]] · [[concept-lateral-hypothalamus]] — 관련 노드 hub.
 - [[concept-need-motivation-pleasure-utility]] · [[concept-digital-therapeutics]] — lab 프레임과 개입.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[overview-dopamine-roles-by-striatal-region]] — DMS(목표지향·칼로리)·DLS(습관·가소성 gating)의 도파민 근거 수준을 다른 아구역과 비교한 표.

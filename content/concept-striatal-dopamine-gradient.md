@@ -2,7 +2,7 @@
 title: "선조체 도파민 지형 (Striatal dopamine gradient)"
 type: concept
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도파민 구배, anterior-posterior dopamine]
 ---
 
@@ -87,3 +87,4 @@ aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도
 - [[concept-compulsion]] — dorsalization 서사의 종착점(시간척도 쟁점의 당사자).
 - [[concept-habit]] — 배측(DMS·DLS) = 습관·칼로리, 복측 = 맛·가치라는 지형을 습관적 과식 기전으로 연결한 hub.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — core 집중 측정의 한계와 "더 넓은 striatum 해상도" 요구(2021 시점의 같은 문제의식).
+- [[overview-dopamine-roles-by-striatal-region]] — 이 지형을 역할별로 읽은 종합: VTA·NAc core·NAc shell·DMS·DLS·TS가 싣는 변수(RPE·ANCCR·cue value·V·vigor 개시/유지·영양·위협)와 근거 강도 표 (2026-10-25 질의 보관).

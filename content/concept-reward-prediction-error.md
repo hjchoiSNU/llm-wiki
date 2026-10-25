@@ -2,7 +2,7 @@
 title: "보상 예측 오류와 도파민 신호의 해석: RPE vs 현저성 vs 인과 학습"
 type: concept
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 효용 예측 오류, two-component dopamine response, 도파민 두 성분 반응, perceived saliency, 지각된 현저성]
 ---
 
@@ -116,3 +116,4 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] · [[concept-primary-reward-signals]] · [[yang-2026-a-sync-state-in-the]] · [[grove-2022-dopamine-subsystems-track-internal]] — 섭취 후 강화.
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Pleasure 교사 신호, 두 개의 utility.
 - [[concept-effort-based-decision-making]] — 노력 기반 의사결정 hub.
+- [[overview-dopamine-roles-by-striatal-region]] — RPE 신호의 부위별 근거 강도(VTA 발화 직접, NAc는 모양만, NAc>VTA>DMS)와 ANCCR 판별 조건을 한 표에 정리.

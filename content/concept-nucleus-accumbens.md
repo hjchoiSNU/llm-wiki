@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-10-11
+updated: 2026-10-25
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -83,3 +83,4 @@ updated: 2026-10-11
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — GRAB-DA2m으로 잰 NAc 도파민이 bout 길이와 선형 비례(일정 기호성 100% E 기울기 1.17 vs 20% E 0.36, n=9); periLC 자극으로 하락.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 혐오 자극: shell의 지연된 자극 후 방출(relief·회피 성공 예측) vs core의 즉각적 변화; risky cue에 core 차별적·shell 비차별적.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — NAc core 도파민 = 지각된 현저성(Kutlu 2021, dispatch 요약); core·shell이 반대 기능/방출 타이밍을 가질 수 있다는 단서.
+- [[overview-dopamine-roles-by-striatal-region]] — NAc core(ANCCR·V·주관적 cue 가치)와 shell(원함·hedonic 섭식, medial≠lateral)의 도파민 역할을 배측·TS와 나란히 비교.
