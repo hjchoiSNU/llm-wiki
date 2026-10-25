@@ -25,7 +25,7 @@ journal: "Frontiers in Neuroendocrinology 33 (2012) 127–139 (Review; online 20
 
 ### 배경 — 약물 중독과 과식의 평행
 - 약물 중독 = 간헐적 사용 → 반복 사용 → 통제 상실·강박적 섭취로 진행하는 만성 재발성 장애이며, 신체 금단이 사라진 뒤에도 craving이 재발을 부른다. 저자들은 보상 주도 과식도 **절제와 craving의 반복 주기**를 보인다고 본다.
-- 자연 강화물과 중독 약물은 모두 mesocorticolimbic 도파민계를 활성화한다(효과 크기는 **한 자릿수(order of magnitude)** 차이). 선호 음식과 psychostimulant의 쾌감 모두 선조체 도파민 방출량과 상관. 선조체 D2 결합 감소가 cocaine·methamphetamine·heroin 중독자와 비만인 모두에서 보고됐고(인용: Wang 2001 [225] 등), DRD2 TaqI A A1 allele이 양쪽과 연관 — 단 **인과관계는 불명**이라고 저자가 명시.
+- 자연 강화물과 중독 약물은 모두 mesocorticolimbic 도파민계를 활성화한다(단 효과 크기는 **한 차수(order of magnitude), 즉 약 10배** 차이). 선호 음식과 psychostimulant의 쾌감 모두 선조체 도파민 방출량과 상관. 선조체 D2 결합 감소가 cocaine·methamphetamine·heroin 중독자와 비만인 모두에서 보고됐고(인용: Wang 2001 [225] 등), DRD2 TaqI A A1 allele이 양쪽과 연관 — 단 **인과관계는 불명**이라고 저자가 명시.
 - 동물 교차 근거: 설탕 선호 ↔ 알코올 반응성·cocaine/amphetamine 자가투여↑. ghrelin은 VTA 수용체를 통해 도파민계를 활성화하고 chow보다 palatable food 섭취를 늘리며(인용: Egecioglu 2010 [63]), 알코올 섭취·cocaine CPP도 촉진. 식이 제한은 약물 자가투여를 늘리고 leptin은 줄인다.
 - 음식은 약물처럼 분자 표적에 직접 작용하지 않고 감각계·미주 구심·대사 반응(예기·구강·구강후)을 거치지만, 각 경로가 보상계와 소통하며 단독으로도 강화 효과를 낸다: 비칼로리 감미료 lever press, 위 fistula를 연 sham-feeding 쥐의 간헐 설탕 섭취 escalation, 위 내 직접 주입한 탄수화물·지방의 조건화 선호([[concept-flavor-nutrient-conditioning]]). 음식과 짝지어진 cue는 incentive salience를 획득한다.
 - **feed-forward의 정의(저자 제안)**: 적응이 ① 섭취를 자극하는 신호를 증폭하는 **양성 되먹임 고리**를 돌리고 ② **음성 되먹임을 차단**하는 하류 사건을 촉발하는 방식. ⚠️ 용어 주의: 위키의 [[concept-arcuate-nucleus]]·[[walker-2026-a-hypothalamic-circuit-for]]에서 "feed-forward"는 영양 feedback보다 *먼저* 오는 감각·인지 예측 신호(초~시간 단위)다. 본 논문의 feed-forward는 수일~수주 이상 쌓이는 **자기증폭 가소성**으로, 뜻이 다르다.
