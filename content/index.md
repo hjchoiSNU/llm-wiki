@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 529 (+ index.md, log.md)
-- 마지막 갱신: 2026-10-19
+- 총 페이지: 535 (+ index.md, log.md)
+- 마지막 갱신: 2026-10-25
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -110,6 +110,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-one-shot-learning]] — 단일시행 학습과 그 비고전적 가소성 규칙(선조체 eCB-LTP·해마 BTSP·STDP 한계) 개념 hub. CTA·flavor-nutrient 같은 one-trial 식이 학습으로의 이식 가설. · 🔑 single-trial learning, one-trial learning, 일회 학습, NMDA-LTP, DLS, CB1R
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ 포유류 **양육 회로** 종합: 다중감각 새끼신호 평가 → MPOA(pro)↔PeFA^Ucn3/BNST^Esr1(anti) → VTA-NAc 강화·PAG 운동. 발달(P14–15 microglia pruning)·감작·관찰학습·임신 호르몬으로 **끊임없이 재구성되는 가소적 시스템**. ★ **배고픔↔돌봄 경쟁**(AgRP/NPY→MPOA 억제) (NRN 2026, Kohl lab). 개념 [[concept-medial-preoptic-area]]. _(🧠 시상하부 핵·🍽️ AgRP와도)_ · 🔑 MPOA^Gal, PVN^OT, MPOA^Esr1, A1, OTR, MeA
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ **외측중격(LS^Crhr2)** 이 위협 cue를 방어 행동으로 바꾸는 계산을 **분자 10아형 × 공간 topography × 기능 동역학 × 입력 구조** 4축으로 해부. CS 1초 이내와 행동 1.5초 전의 **두 시점 표상**, **해마=cue-outcome / 시상하부(LHAsf·SuM)=action** 분업. **LS^Glp1r**·**LS^Calcr** 아형 특정 (Nature 2026, Fishell lab). 개념 [[concept-lateral-septum]]. _(GLP-1R·해마-섭식 축은 🍽️·💡와도)_ · 🔑 LS Crhr2 threat coding, CS-S, Foxp2, vCA1, Lhx2, CS-F
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — 과거 족부충격이 이후 약한 청각 스트레스에 대한 **AHN^GAD 반응 앙상블을 키워**(24.2%→36.1%) freezing을 민감화; AHN^GAD=음성 valence 비례(보상엔 억제), 억제는 민감화 유도·발현 차단, 편도체(주로 BLA)→AHN 말단 억제가 민감화 freezing 감소 (Nature 2026, Cai lab). _(시상하부 핵은 🧠에도)_ · 🔑 anterior hypothalamic nucleus, stress sensitization, BLA^AHN, iDISCO+ c-Fos, stGtACR1, eOPN3
 
 **대사–인지 계산정신의학 (Nord 랩, Cambridge · metabolic interoception cluster)**
 - [[mehrhof-2025-an-interoceptive-model-of-energy]] — **이론 spine**: 대사–우울 공존을 뇌의 예측적 에너지 조절(**interoceptive energy allostasis**) 교란으로 재개념화; 대사↔인지↔행동 vicious cycle·개인별 개입 진입점 (Sci Adv 2025 리뷰). → [[concept-metabolic-interoception]]. · 🔑 GLP-1
@@ -144,6 +145,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[davila-2026-agrp-neurons-are-required-for]] — ★ **GLP-1RA 통념 역전**: 세마글루타이드가 ARC AgRP를 억제·우회하는 게 아니라 **모집**; AgRP 회로 파괴 시 식이 억제는 남되 **체중 감량 붕괴**(지방 동원·β₃-교감신경·미토콘드리아 실패). 매개축 **glucocorticoid→AgRP-GR**, **암컷 특이**(난소절제로 부분 회복)·식이·조작시점 의존 (PNAS 2026, Horvath lab). · 🔑 AgRP-Sirt1, GLP-140, GC, sIPSC, HFD
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — ★ **인간** AgRP·POMC·kisspeptin 뉴런 전사체(세포당 14,000–16,000 transcript, IHC/LCM-Seq). 인간 POMC=`GLP1R`·`CALCR`·`RAMP1/3`·`CNR1`·`HTR2C`·`OPRM1`, 인간 AgRP=`ACVR1C`·`GHSR`·`INSR`·`GHR`·`NR3C1`·사이토카인 수용체·후각수용체 3종. **CART 발현이 rodent와 정반대**·POMC DM/VL 공간 분업 (Nat Commun 2026, Hrabovszky lab). _(방법론은 🧪에도)_ · 🔑 KP, IL6ST, RIN, IL13RA1, OR52N5, IL18R1
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ★ 마우스 **LepR 시상하부 뉴런 39아형** 지도(snRNA+snATAC multiome). AgRP=**Sst형/Acvr1c형**, POMC=**Glipr1형/Prdm12형**, Lepr×Glp1r=**Bnc2/Nkx2-4/Glp1r의 Ebf1(DMH)·Trh·Tbx19(ARC) 3형제**. 아형별 cis-조절요소를 인간 비만 GWAS/eQTL/HuGE와 교차 (bioRxiv 2025). _(방법론은 🧪에도)_ · 🔑 OCR, BETA, LD, Lepr^Glp1r, T2D, LepRb
+- [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — ★ **DIO에서 LepR 신호가 증가하는 시상하부 뉴런은 ventral DMH–caudal ARC의 Lepr/Glp1r 집단 하나뿐**(pSTAT3⁺의 60%↑); 이 집단만 Lepr 삭제 시 HFD 초기 과식 미정상화·체중↑, 단식·ghrelin 과식 반응 복원, ARC microglia 감소 → '렙틴 저항' = 천장 효과 + 단일 회로 동원 (EMBO J 2026, Pers·Myers lab). · 🔑 pSTAT3, LGS, Xenium, LeprGlp1rKO, IBA1, Socs3
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP)의 전뇌 입력·출력 지도**. POMC 입력 **52영역**·수렴비 ~49 vs AgRP **35영역**(POMC의 부분집합)·~21 → **AgRP 전용 입력원 없음**, 유일한 AgRP 우세는 **SO**. NTS POMC는 입력 ~80%가 뇌교·연수+소뇌로 **ARC POMC와 별개 회로**. 주요 입력원은 거의 모두 **상호 연결**이고, **12개 핵이 세 갈래 공통 상류**. 통상 추적이 놓친 subiculum·ZI 검출 vs SCN 미표지 (Front Neuroanat 2015, Luo·Zhan lab). _(방법론은 🧪에도)_ · 🔑 MPO, AAV-DIO, DM, PSTh, EGFP-TVA, PVN
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH 종합 (EMM 2025, 사용자 lab). · 🔑 GABAergic, amLH, Vglut2, alLH, pmLH, MCH
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입(>30 subtype)·에너지 항상성 종합 리뷰: Vgat("engine")/Vglut2("brake")/orexin·MCH·LHA^Lepr(social)·LHA^Nts(thirst) 프레임 (Cells 2025, Peking U. 레퍼런스). · 🔑 LHA^Vgat, LHA^Vglut2, HFD, Pax6, Slc17a6, BAT
@@ -185,6 +187,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC^AgRP가 aBNST·PVH·LHA·PVT로 **축 담보 거의 없이 부분군별 독립 투사**, 각 투사(aBNST·PVH·LHA)가 섭식-충분(one-to-all 기각); 병렬·중복 배선 = 생존행동의 redundancy (Cell 2013, Sternson lab). · 🔑 PBN, PAG, CEA
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 세마글루타이드 반응 **NTS Adcyap1⁺→ARC / →DMH** 분업: 공통으로 단식 재급식·초콜릿 폭식만 **비혐오적**(CTA 없음) 억제·AgRP Fos↓; **→ARC = 섭취 무관 ketone↑·체중↓**, **→DMH = EE↓**; 반응 Adcyap1^NTS 절반이 `Slc32a1`⁺ (bioRxiv **preprint** 2026, Engström Ruud lab). · 🔑 RER, GLP1R, TRAP2, DVC, Adcyap1^AP, GLP-1RA
 - ★ [[zhu-2025-hedonic-eating-is-controlled-by]] — **periLC^VGLUT2→VTA^VGAT⊣VTA^DA⊸NAc DA** 회로가 기호성에 비례해 **소비 bout 길이**를 연장(폐루프 조작에서만 유효, bout 수는 불변); 세마글루타이드가 1일째 누른 VTA DA 소비 반응이 **증량·감량 중 회복**되고 폐루프 광억제로 되돌려짐 → GLP-1R 포만에 맞서는 쾌락 축 (Science 2025, Sternson lab). · 🔑 periLC, GRAB-DA, bout duration, hedonic eating, GLP-1R
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 임신이 5-HT^DRN 뉴런의 **SK3(`Kcnn3`) 전류를 키워 발화를 낮추고** 기호식(HPD·HFD·HSD) 추구를 켬; SK3 조건부 결손은 chow-only 섭취는 그대로 둔 채 기호식 추구만 감소, 과발현은 처녀에서 표현형 모방; **5-HT^DRN→VTA**(글루타메이트성 단일시냅스) 활성화는 임신 개체에서만 craving↓(처녀·NAc·LH 말단은 무효) (Nat Neurosci 2026, Yanlin He lab). · 🔑 SK3/Kcnn3, 5-HT^DRN, DRN→VTA, apamin, TPH2-CreER, BioDAQ
 
 ### 외측 시상하부 (LH) 문헌 클러스터 (2026-10 일괄 수집)
 
@@ -282,6 +285,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — Hijacked brain framework + DTx + electroceutical (JOMES 2025, 사용자 lab). · 🔑 TIS, dlPFC, VR, tFUS, tDCS, OFC
 - [[seiler-2026-dual-activation-of-mc3r-and]] — 경구 MC3R/MC4R dual agonist 710GO: 비만 macaque 15주 11.8% 감량·지방 선택적·제지방 보존·무오심·심혈관 안전·semaglutide 시너지; MC3R=rheostat/MC4R=driver division of labor (Nat Commun 2026, Endevica Bio). · 🔑 NHP, MSH, GLP-1
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 lixisenatide fMRI: lean vs obese T2DM의 visual food cue 뇌활성을 GLP-1RA가 차별적 조절; 비만 cue 과반응 영상 근거 (DMJ 2019, 사용자 lab). · 🔑 OFC, CSF
+- [[hutelin-2026-metabolic-and-neural-responses-to]] — 영양 일치(≤1.6%) UPF vs non-UPF 무작위 교차 급식: UPF는 혈당 AUC 같고 insulin·metabolic rate↑·carbohydrate oxidation 둔화, 그 차이가 food-cue caudate·VS 반응과 연관; WTP(1차 결과)는 같으나 fusiform·striatum value 부호 반대 (Nat Metab 2026, DiFeliceantonio lab). · 🔑 UPF, NOVA, WRIC, RER, BDM, WTP
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — ★ 2026 차세대 비만·대사 약물 임상 5건(GLP-1/glucagon dual·경구 소분자 GLP-1RA·amylin+GLP-1 복합) 기전별 hub. · 🔑 CALCR, POMC
 - [[song-2024-case-reports-of-binge-eating]] — 제한형 신경성 식욕부진증 청소년 2명의 회복기 폭식: 음식 중독 없음(체중 공포·통제 행동, 약 2개월 뒤 감소) vs 음식 중독 동반(단맛 갈망·내성·금단 유사, 단 음식 절제 개입·naltrexone) → 섭식장애 치료에 음식 중독 평가(YFAS·FCQ) 제안 (JKACAP 2024, 사용자 lab 교신). · 🔑 CBT-E, YFAS, anorexia nervosa, BMI, HP food, naltrexone
 
@@ -294,6 +298,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - **임상 시험** — [[aronne-2023-continued-treatment-with-tirzepatide-for]](tirzepatide SURMOUNT-4 유지/중단 rebound, JAMA) · [[coppin-2022-does-glp-1-receptor-agonist]](liraglutide는 food **liking 불변**=wanting 축, RCT preprint) · [[koide-2025-association-between-eating-behavior]](**external eating**이 GLP-1RA 반응 예측). · 🔑 GIP
 - **리뷰·약리** — [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]](GIP/GLP-1 췌장외 대조, NRE) · [[scheen-2023-dual-gip-glp-1-receptor]](tirzepatide twincretin) · [[muller-2022-gut-hormone-triple-agonists-clinical]](삼중작용 retatrutide) · [[alfaris-2024-glp-1-single-dual-and]](단일/이중/삼중 landscape) · [[jastreboff-2023-new-frontiers-obesity-treatment]](NuSH 종합) · [[tschop-2023-gut-hormone-based-pharmacology-novel]](제형·경구화) · [[wan-2023-glp-1r-signaling-and-functional]](GLP-1R 신호·biased agonism) · [[gupta-2021-glucagon-like-peptide-1-and]](인간 뇌 GLP-1R 분포) · [[cao-2024-hunting-for-heroes-brain]](GLP-1RA 매개 뇌뉴런 DMH/후뇌/LS 비판적 종합). · 🔑 GIPR
 - ★ [[petersen-2026-the-evolving-landscape-of]] — 비만 약물치료 지형 2026 종합: 분자 포맷 5분류·GLP-1/GIP/glucagon/amylin 다중작용제·경구화·제지방 보존·조직특이 PDC·**유지생물학(defended adiposity)**·적응증 확장 (NRDD 2026, Clemmensen). [[overview-next-gen-incretin-obesity-drugs-2026]]의 상위 종합. 개념 [[concept-glucagon-receptor-agonism]]·[[concept-amylin-receptor-agonists]]·[[concept-peptide-drug-conjugate]]. · 🔑 MASH, GCGR, GIPR, NMDA, GLP-1R
+- [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — GLP-1RA·tirzepatide의 혈당·체중·MACE(SELECT HR 0.80)·신장(FLOW HR 0.76)·비만 동반질환·안전성(시신경·근육)과 차세대 dual/triple·경구·GIPR 길항 Table을 묶은 Lancet 2026 종합 리뷰 · 🔑 CVOT, FLOW, SELECT, GABAergic GIPR, orforglipron, retatrutide
 - ★ [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — **GLP-1 효과 = 체중 감소의 결과**라는 등식 해체. SELECT(체중 9.4%에 MACE 20%↓, 중심지방이 효과의 1/3만 매개)·ESSENCE(간 종료점 50–70% 비체중)·STRIDE(BMI<30 다수)·hsCRP 매개 20.6–61.8%. VSMC GLP-1R=혈압 전담(섭식·체중 무관), 간 LSEC GLP-1R=국소 간보호, **신경 GLP-1R=말초 염증 억제 필수**(α1-adrenergic·κ-opioid 경유). 체중을 1차 지표로만 쓰면 유효 치료를 조기 중단하게 된다는 경고 (Cell Metab 2026, Drucker).
 - [[lorente-2025-gpcr-drug-discovery-new-agents]] — GPCR 창약 전체 지형(승인약 36%·임상 337 agent); GLP-1이 최다 retarget GPCR, incretin dual/triple·MC4R·biased signalling 데이터 매핑 (NRDD 2025, Gloriam). 개념 [[concept-gpcr-drug-discovery]]·[[concept-biased-agonism]]. · 🔑 GCGR, GIPR, GLP-1R
 - [[mullard-2025-from-gene-hunter-to]] — Amgen CSO 인터뷰; MariTide를 modular therapeutic 사례로 거론, 인간유전학 표적검증 (NRDD 2025, "An audience with…"). _(주변부·산업)_ · 🔑 GLP-1
@@ -657,6 +662,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 #### 보상·food-addiction·정서적 섭식 (2014–2023 배치)
 개념 hub: [[concept-emotional-eating]] · [[concept-food-addiction]] · [[concept-liking-wanting]].
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — 반복 기호 음식 보상이 보상계·항상성계를 함께 바꾸는 "feed-forward" 과식 모형; craving은 칼로리 제한이 아닌 쾌락 박탈로, 중독 유사 행동은 강제 절제 중 더 뚜렷, 적응 다수는 비만 비의존 (Front Neuroendocrinol 2012, Alsiö·Schiöth). · 🔑 HFHS, ΔFosB, MOR, D2R, ICSS, CB1
 - [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin이 VTA→NAc 보상계 조율·food addiction 종합 (NRE 2014). · 🔑 LHA, D2
 - [[meye-2014-feelings-about-food-the]] — VTA로 수렴하는 팔라터블·스트레스·큐 3축; 정서적 섭식 회로 (TiPS 2014). · 🔑 CRF, CeA, GLP-1
 - [[hone-blanchet-2014-overlap-of-food-addiction]] — FA↔SUD 정의 중첩; sugar/fat/sweet-fat 동물모델 해리 (2014). · 🔑 DSM-5, YFAS, D2

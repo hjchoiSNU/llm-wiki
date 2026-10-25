@@ -133,3 +133,4 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[concept-habit]] — 습관 개념 hub — 과식의 중독 회로 모델(경로 C)과 food addiction 신중론을 함께 배치.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 이미 본문에서 "Zhu 2025 Science(peri-LC glutamate→VTA GABA …)"로 서술 — **링크로 승격**.
 - [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — 과식의 addiction-like 가소성 모델 선행 리뷰(2012). 비만 비의존 적응·강제 절제 중 행동 근거를 정리했으며, 본 리뷰의 food addiction 신중론과 강조점이 대비됨.
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 같은 SK3 채널이 ARC(GLP-1R→SK3)가 아니라 DRN 5-HT 뉴런에서 상태 의존적 brake로 작동하는 대비 사례.

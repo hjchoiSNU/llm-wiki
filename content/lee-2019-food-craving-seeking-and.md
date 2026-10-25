@@ -2,7 +2,7 @@
 title: "Food Craving, Seeking, and Consumption Behaviors: Conceptual Phases and Assessment Methods Used in Animal and Human Studies"
 type: paper
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-25
 source: "raw/2019 JOMES Food Craving, Seeking, and Consumption Behaviors- Conceptual Phases and Assessment Methods Used in Animal and Human Studies.pdf"
 authors: [Young Hee Lee, Meelim Kim, Miwoo Lee, Dongju Shin, Dong-Soo Ha, Joon Seok Park, You Bin Kim, Hyung Jin Choi]
 year: 2019
@@ -74,3 +74,4 @@ journal: "Journal of Obesity & Metabolic Syndrome 28:148–157"
 - [[person-choi-hyung-jin]] · [[person-kim-meelim]] — 저자(교신·공저).
 - [[concept-inhibitory-control-demand]] — craving(내적 state)에 저항하는 Go/NoGo·stop-signal 억제통제를 craving-비례 PFC 제어부하로 확장.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — "food-craving-like behavior"를 마우스에서 조작화한 사례; 주 지표는 consumption(2.5 h kcal)이고 seeking은 BioDAQ 접근차단 지표뿐이라 phase 구분의 실전 예시.

@@ -2,7 +2,7 @@
 title: Neural circuits for mammalian parental behaviour (Jamieson & Kohl 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-09-19
+updated: 2026-10-25
 source: raw/2026 NRN Neural circuits for mammalian parental behaviour.pdf
 authors: [Bradley B. Jamieson, Johannes Kohl]
 year: 2026
@@ -100,3 +100,4 @@ doi: 10.1038/s41583-026-01073-x
 - [[concept-h3-dopaminylation]] — 그 재편의 실행 단위 개념 hub.
 - [[concept-lateral-septum]] — PeFA^Ucn3→LS repulsion 경로의 표적 구조. [[bhatti-mazo-2026-feature-specific-threat-coding-in]]이 LS^Crhr2를 10개 분자 아형으로 분해하고 해마(top-down)·시상하부(bottom-up) 수렴 원리를 제시 — 양육 회로의 LS 축을 세포 수준에서 재해석할 근거.
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 본 리뷰가 다루는 양육 질 저하(스트레스→nursing·retrieval↓)의 **자손 쪽 결과**: P10–17 LBN이 VTA 크로마틴을 priming.
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 임신에 따른 모체 회로 재편의 섭식 쪽 짝; 배측 봉선핵이 양육(Y1/NPY)과 기호식 추구 양쪽에 걸친 노드임을 시사.

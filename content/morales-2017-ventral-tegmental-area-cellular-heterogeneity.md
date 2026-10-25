@@ -2,7 +2,7 @@
 title: "Ventral tegmental area: cellular heterogeneity, connectivity and behaviour"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-10-25
 source: "raw/2017 Nature Reviews Neuroscience. Ventral tegmental area cellular heterogeneity, connectivity and behaviour.pdf"
 authors: [Morales M, Margolis EB]
 year: 2017
@@ -161,3 +161,4 @@ Lammel 2012 Nature (본 논문의 frame):
 - [[concept-striatal-cholinergic-interneuron]] — 표가 GABA-only의 표적으로 둔 NAc 콜린성 개재뉴런의 전용 페이지.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — ⚠️ 이질성 비판에 대한 반론: phasic 신호는 등급적·균질하고 다양한 것은 형태·연결·투사 등 다른 층위라는 주장.
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — ⚠️ 표의 "DRN VGLUT3→VTA DA=보상"과 부호가 엇갈리는 1차 원전(TPH2⁺ 5-HT^DRN→VTA 활성화가 임신기 섭취↓). 세포 정체·하류 표적·행동 지표 차이를 병기할 것.

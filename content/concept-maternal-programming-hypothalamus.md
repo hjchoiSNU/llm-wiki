@@ -2,7 +2,7 @@
 title: Maternal programming of hypothalamic circuits
 type: concept
 created: 2026-05-25
-updated: 2026-09-19
+updated: 2026-10-25
 aliases: [maternal obesity programming, developmental programming hypothalamus, DoHAD hypothalamus]
 ---
 
@@ -99,3 +99,4 @@ aliases: [maternal obesity programming, developmental programming hypothalamus, 
 - [[concept-h3-dopaminylation]] — 모체 자신의 뇌에서 작동하는 후성유전 축(dHF H3Q5dop); 자손 프로그래밍과 짝을 이루는 반대 방향.
 - [[cunningham-2026-early-life-experiences-the-neural]] — 산후 ELS 후성유전 종합; 본 hub의 6번 기전(epigenetics)을 산후 스트레스 쪽에서 확장(DNA 메틸화·히스톤 PTM·글리아·말초 표지).
 - [[concept-glia-stress-plasticity]] — 본 축의 non-neuronal 소견(astrocyte↑; [[freire-agulleiro-2026-early-life-programming-of]]의 microglia 제거 보호)과 반대 방향의 ELS 글리아 근거를 대조.
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 모체 과잉 섭취의 상류 기전 후보(임신기 5-HT^DRN SK3↑→발화↓→기호식 추구↑)를 회로로 제시 (Nat Neurosci 2026).

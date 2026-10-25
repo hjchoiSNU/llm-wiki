@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-10-25
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -210,3 +210,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — "Foot shock에 DA 분비 (Kutlu 2021)" 항목의 세부(2차): NAc core 방출이 sucrose에선 RPE형, footshock은 학습 뒤에도 남고 cue로 안 옮겨 가며, 크기는 valence 무관 강도 추적 → 지각된 현저성(KCS) 모형 (Curr Biol Dispatch 2021).
 - [[concept-reward-prediction-error]] — "도파민 상승을 무엇으로 읽나" 판별 hub: RPE(효용 예측 오류·두 성분) vs 현저성(6가지 뜻) vs ANCCR vs 유인 현저성 vs 가치·활력, 조건별 판별표·측정 수준 체크리스트.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 = 쾌감이 아니라 salience: volume transmission·tonic/phasic·D2H 모델, 보상 누락 반응을 salience 에러·참신성으로 재해석한 국문 종설(JKNA 2011).
+- [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 5-HT^DRN→VTA 글루타메이트성 단일시냅스 입력; 이 축을 켜면 임신기 기호식 추구가 줄어 도파민 보상축의 세로토닌 상류 brake를 제공 (Nat Neurosci 2026).
