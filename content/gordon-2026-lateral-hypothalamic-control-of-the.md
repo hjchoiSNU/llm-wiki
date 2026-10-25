@@ -2,8 +2,9 @@
 title: "Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior (Gordon et al. 2026, Neuron)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-10-25
 source: "raw/2026 Neuron (Stuber) Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior.pdf"
+source_alt: "raw/2026 Neuron. Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior.pdf"  # 같은 논문(같은 DOI)의 30쪽 판, 2026-10-25 추가. 본문은 48쪽 판 기준
 authors: [Adam G. Gordon, Barbara M. Benowitz, Joumana M. Barbakh, Isabella Montequin, Anthony Campuzano, Hannah P. Stevenson, Pei-Yun Lu, Madelyn M. Hjort, Ethan Ancell, Madalyn Critz, Daniela Witten, Garret D. Stuber]
 year: 2026
 journal: "Neuron 115:1–20 (in press 2026; 호 날짜 2027-03-03; 접수 2025-04-09 · 수정 2026-06-23 · 채택 2026-09-01), doi:10.1016/j.neuron.2026.09.002 — Stuber lab, University of Washington"
