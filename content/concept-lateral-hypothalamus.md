@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-10-28
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -403,3 +403,4 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc의 섭취 지표 분해(bout 수 vs bout당 lick) — liking/wanting 지표 수준 수렴의 참조점.
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 초기 스트레스의 후성유전 저장 층위 — Shin 2023의 LH *Lepr* 하향조절과 짝.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 식전 포만(DMH GLP-1R)과 LH^Vgat Ex-4 반응 감쇠의 병렬 작용점.
+- [[concept-prefrontal-cortex-feeding]] — **PFC 쪽 hub**(신설). 이 페이지의 상류 목록이 PFC를 "식이 억제"로 분류하는 근거([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|PFC→LH^LepR 억제]], 고불안 개체 한정)와 ⚠️ 상충하는 두 서술([[sharpe-2024-the-cognitive-lateral-hypothalamus|PL·NAc가 LH에 "언제 먹을지" 지시]], Kita & Oomura 1981의 부호 미정)을 한곳에 병기했다. 역방향 **LH^GABA→IL/PL mPFC 분지는 기능 자료가 없다**는 공백도 거기 기록.

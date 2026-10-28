@@ -2,7 +2,7 @@
 title: "Stress-driven potentiation of lateral hypothalamic synapses onto ventral tegmental area dopamine neurons causes increased consumption of palatable food (Linders 2022, Nat Commun)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-28
 source: "raw/2023 Nature Communications. Stress-driven potentiation of lateral hypothalamic synapses onto ventral tegmental area dopamine neurons causes increased consumption of palatable food.pdf"
 authors: [Louisa E. Linders, Lefkothea Patrikiou, Mariano Soiza-Reilly, Evelien H. S. Schut, Bram F. van Schaffelaar, Leonard Böger, Inge G. Wolterink-Donselaar, Mieneke C. M. Luijendijk, Roger A. H. Adan, Frank J. Meye]
 year: 2022
@@ -119,3 +119,4 @@ journal: "Nature Communications 13:6898 (2022-11-15); doi:10.1038/s41467-022-346
 - [[concept-deep-brain-stimulation]] · [[whiting-2019-deep-brain-stimulation-of]] — 저주파 depotentiation 프로토콜의 임상 번역 축.
 - [[concept-loss-of-control-eating]] — 2 h limited access binge 모델의 임상 대응(폭식).
 - [[harris-2005-a-role-for-lateral]] — LH orexin과 보상 cue. 본 논문이 미해결로 남긴 "orexin 공방출 하위집단" 질문의 배경.
+- [[concept-prefrontal-cortex-feeding]] — PFC hub(신설). 본 페이지가 세운 **"mPFC = 스트레스·강박·유연성이 동시에 통과하는 병목이고 출력 방향에 따라 부호가 갈린다"** 는 정리가 그 hub의 출발 명제가 됐고, 거기에 →LH(brake)·→NAc shell(brake)·→DST(drive)가 더해져 출력 경로별 부호 표로 확장됐다. 본 논문의 **mPFC 투사 VTA^DA 한정 가소성**과 1 Hz LFS 가역성은 주파수 의존 개입의 선례로 인용.

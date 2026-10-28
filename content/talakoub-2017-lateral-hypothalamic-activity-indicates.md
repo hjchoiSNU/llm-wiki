@@ -2,7 +2,7 @@
 title: "Lateral hypothalamic activity indicates hunger and satiety states in humans (Talakoub 2017)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-28
 source: "raw/2017 Lateral hypothalamic activity indicates hunger and satiety states in humans.pdf"
 authors: [Talakoub O, Hamani C]
 year: 2017
@@ -38,3 +38,4 @@ year: 2017
 - [[concept-loss-of-control-eating]] — homeostatic fullness vs non-homeostatic craving 분리.
 - [[concept-nucleus-accumbens]] — craving/reward 축(LHA 자극으로 미조절).
 - [[proposal-hunger-need-encoding-human-translation]] — 본 hunger=beta/gamma 진동을 인간 Need biomarker로 정식화하는 연구계획서(Aim 3).
+- [[concept-prefrontal-cortex-feeding]] — PFC hub(신설). 본 논문의 인간 LHA **hunger=beta/low-gamma**가 [[liu-2026-granular-motivational-interaction-and|mPFC→LH beta(15–30 Hz) behavioral switch]]와 대역이 겹친다는 점을 **연결 가설**(두 논문 모두 이렇게 쓰지 않음)로 적어 두었다 — 피질–시상하부 beta 동기화가 공통 화폐라면 자극의 종결점은 활성 증감이 아니라 **동기화의 파괴**여야 한다. 본 논문의 "8 Hz는 fullness만, craving 불변"이 그 종결점 선택의 경고로 인용.

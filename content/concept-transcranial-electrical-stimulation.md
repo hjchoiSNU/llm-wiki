@@ -2,7 +2,7 @@
 title: 경두개 전기자극 (tES — tDCS / tACS)
 type: concept
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-28
 aliases: [tES, tDCS, tACS, tRNS, 경두개 전기자극, transcranial electrical stimulation, transcranial direct current stimulation, transcranial alternating current stimulation]
 ---
 
@@ -38,3 +38,4 @@ aliases: [tES, tDCS, tACS, tRNS, 경두개 전기자극, transcranial electrical
 - [[concept-digital-therapeutics]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] — 비침습 electroceutical을 비만 치료에 두는 사용자 lab 관점.
 - [[concept-dopamine-reward-system]] — DLPFC가 top-down 조절하는 VTA-NAc.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(신경조절 축).
+- [[concept-prefrontal-cortex-feeding]] — **자극 표적 쪽 hub**(신설). 본 페이지의 기전 서술("비만=DLPFC 저활성 → anodal로 executive 억제 복원")이 제어 **실패** 국면에만 맞고 Restraint 표현형은 dlPFC가 이미 과동원이라는 문제, PFC 과활성군에는 **하향** 조절이 맞을 수 있다는 가설, tES가 닿지 않는 심부 drive 회로(rZI·VTA·LH)와 그 예외(mPFC 쪽 입구)를 정리.

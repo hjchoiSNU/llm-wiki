@@ -2,7 +2,7 @@
 title: "Prefrontal to ventral tegmental area dynamics drive contingency degradation (Hjort et al. 2026, Nature)"
 type: paper
 created: 2026-05-31
-updated: 2026-10-03
+updated: 2026-10-28
 source: "raw/2026 Nature (Stuber) Prefrontal to ventral tegmental area dynamics drive contingency degradation.pdf"
 authors: [Hjort MM, "...", Stuber GD]
 year: 2026
@@ -62,3 +62,4 @@ Pavlovian reversal 과제에서 cue–결과 contingency가 무너질 때(CD), m
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC top-down 통제의 병렬 사례: mPFC→VTA(본 논문) vs mPFC→rZI(강박 섭식), rZI 투사 mPFC는 PAG/VTA와 부분 독립 채널.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — **유관성 변화 신호의 하류 출력 팔**. 본 페이지=mPFC→VTA 탐지기(meta-RPE), Mingote=VTA DA-GLU→NAc medial shell 전환 게이트 — 한 루프의 양끝으로 읽을 수 있음.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — contingency degradation = "현재 목표의 평가절하" 학습. 인간 목표 포기는 대안 가치 상승보다 현재 목표 평가절하로 유도되며(frustration>temptation), 감시-임계값 알고리즘이 meta-RPE의 rolling-gain과 형식적으로 유사.
+- [[concept-prefrontal-cortex-feeding]] — PFC hub(신설). 본 논문의 mPFC→VTA가 **drive 축**(피질이 도파민 gain을 언제 바꾸는가)으로 들어가며, 투사 특이 농축(mPFC의 ~10%가 VTA 투사, 그중 **61.5%가 CD 인코딩**)이 "PFC 전체 활성이 아니라 출력 경로가 부호를 정한다"는 그 hub의 명제를 지지하는 사례로 쓰인다. ⚠️ [[weinreb-2026-spontaneous-behavior-is-a|Weinreb 2026]]의 "dmPFC는 행동에 후행"과의 긴장도 거기 병기.

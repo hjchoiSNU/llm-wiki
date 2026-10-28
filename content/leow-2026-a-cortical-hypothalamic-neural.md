@@ -2,7 +2,7 @@
 title: "강박적 섭식의 피질-시상하부 회로 mPFC→rZI (Leow 2026)"
 type: paper
 created: 2026-07-31
-updated: 2026-10-11
+updated: 2026-10-28
 source: "raw/2026 Neuron. A cortical-hypothalamic neural circuit for compulsive eating in mice.pdf"
 authors: [Yi Ning Leow, Esra Senol, Xing Qian, Xiaoyu Wang, Aditya Nair, Ti-fei Yuan, Juan Helen Zhou, Hasan Mohammad, Yu Fu]
 year: 2026
@@ -78,3 +78,4 @@ rostral zona incerta의 GABA성 뉴런(rZI^GABA)과 이를 구동하는 mPFC→r
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — "기본 보상(배고픔) 목표는 포기가 쉬워야 정상"이라는 예측 → 처벌 저항 HFD 추구가 비정상인 이유의 계산적 근거.
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 논문의 자유행동 miniscope 세션 간 추적(같은 시야 유지, 모든 세션에 있는 뉴런만 분석)과 음식 접촉 bout 정의를 영상·행동 설계의 선례로 인용.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[concept-prefrontal-cortex-feeding]] — 본문이 "mPFC — 위키에 전용 hub 없음"이라 적어 둔 그 **hub가 신설**됐다. 본 논문의 mPFC→rZI가 drive 축의 대표 사례로 들어가며, PFC→LH(brake)·mPFC→VTA·vmPFC→NAc shell과 **출력 경로별 부호 표**로 대비된다. 본 논문의 표적이 **피질 쪽 입구(PL·ORBm·ACAd)** 라 비침습 자극 사정권 안이라는 점도 거기 정리.

@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 536 (+ index.md, log.md)
-- 마지막 갱신: 2026-10-25
+- 총 페이지: 537 (+ index.md, log.md)
+- 마지막 갱신: 2026-10-28
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -103,6 +103,7 @@ title: 뇌과학 LLM Wiki
 - [[chen-2026-striatal-control-of-amygdalar]] — NAc D1(탈억제)/D2(직접억제) MSN → SI 콜린성 → **BLA ACh가 현저성(salience, valence-free)을 표상**·연합학습을 양방향 제어; salience를 valence와 분리 (Nat Neurosci 2026, Xiao lab). · 🔑 ChAT, D2-MSN, D1-MSN
 - [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — **cue labeling**(cue를 단어로 라벨링 = affect labeling 응용)이 흡연 갈망·precuneus(DMN) 활성↓, 중년·고령에서 baseline까지 회복; 저비용·무부작용 인지 개입 (Neuropsychopharmacology 2026). 개념 [[concept-cue-reactivity]]·[[concept-affect-labeling]]. _(craving 조절은 ⚡ 신경조절·🍽️ DTx와도)_
 - [[concept-inhibitory-control-demand]] — **trouble resisting**: VR 등으로 craving↑ → 저항에 필요한 억제통제 부하↑ → 제어 개입 시 dlPFC·ACC 활성이 craving에 비례해↑(제어 실패 시 dlPFC↓). Hijacked Brain Restraint 축의 정식화·VR/dlPFC DTx 근거 (사용자 lab). _(DTx는 🍽️·⚡와도)_
+- [[concept-prefrontal-cortex-feeding]] — 위 억제통제(brake)를 PFC의 **한쪽 면**으로 두고 구동(drive) 축과 함께 정리한 PFC hub; dmPFC 상태 부호화가 행동에 **후행**한다는 [[weinreb-2026-spontaneous-behavior-is-a|Weinreb 2026]]과 "mPFC가 인과 구동"이라는 [[leow-2026-a-cortical-hypothalamic-neural|Leow]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort]]의 긴장도 병기. 본문은 💡 일반 개념 절. _(⚡ 신경조절과도)_
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_ · 🔑 MI, DLS
 - [[holton-2026-the-adaptive-value-of-stubborn]] — 선택한 목표에 매달리는 인간 경향의 **세 적응 기능(자원 절약·유혹 차단·동기 비계)**과 failure mode(ADHD·불안·apathy over-persistence·우울); [[concept-compulsion|강박]]·restraint DTx·[[concept-effort-based-decision-making|effort]] 해석에 직결 (Trends Cogn Sci 2026). 개념 [[concept-goal-commitment]]. _(🎯 다중 의사결정계에도)_ · 🔑 HRL, ACC, RL
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — ★ **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 DLS의 eCB-LTP**가 담당. 새 행동과제 STA test(끈끈이 테이프 회피, 보상·처벌 없음)·Neuropixels·plasticitymeter 모델·GRAB_eCB2.0·CB1R/D2R 조건부 KO로 인과 규명. **짧은 경험=eCB-LTP / 긴·반복 경험=NMDA-LTP** 분업 (Nat Neurosci 2026, Venance lab). 개념 [[concept-one-shot-learning]]. _(엔도카나비노이드는 💡·🍽️와도)_ · 🔑 eCB-LTD, ChR2-LFP, DMS
@@ -403,6 +404,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 ### 비침습 경두개 전기자극 (tDCS / tACS)
 피질 흥분성·진동을 두피 약전류로 조절. 사용자 접점=DLPFC tDCS로 음식 갈망 top-down 억제(체중은 잘 안 바뀜·trait 의존).
 - [[concept-transcranial-electrical-stimulation]] — tES(tDCS/tACS/tRNS) 개념 hub. · 🔑 경두개 전기자극, DLPFC
+- [[concept-prefrontal-cortex-feeding]] — **자극 표적 쪽 hub**: dlPFC 일변도 프로토콜의 구조적 문제 4가지(Restraint는 dlPFC 과동원·PFC 과활성군엔 하향 조절·국면 판별이 자극보다 먼저·심부 drive 회로 미접근과 그 예외 mPFC 입구)와 LHA beta 주파수 접점. ⚠️ **섭식 tRNS·rTMS 1차 논문은 위키에 없음**(2차 인용뿐). 본문은 💡 일반 개념 절. _(🍽️·🧩와도)_
 - [[jeong-2024-efficacy-of-transcranial-direct]] — 과체중 양측 DLPFC tDCS 10세션: 음식갈망·YFAS↓·체중 불변 (Psychiatry Investig 2024, 가톨릭). · 🔑 qEEG
 - [[saeki-2022-a-systematic-review-on]] — 비만 tDCS 체계적 고찰 (2022). · 🔑 DLPFC
 - [[beaumont-2022-modulating-eating-behavior-with]] — eating-behavior trait별 tDCS 효과 메타(frequent craver·binge에서만) (Obes Rev 2022). · 🔑 DLPFC, PWS
@@ -500,6 +502,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-vagal-afferent-neurons]] · [[concept-dorsal-vagal-complex]] · [[concept-enteroendocrine-cells]] · [[concept-tanycytes]] · 🔑 VAN, taVNS, CCK, EEC, TRPA1, NTS
 - [[concept-dopamine-reward-system]] · [[concept-basolateral-amygdala]] · [[concept-central-amygdala-glp1r]] · [[concept-bed-nucleus-stria-terminalis]] · 🔑 VTA, NAc, nucleus accumbens, ventral tegmental area, RPE(Reward Prediction Error), LH^GABA
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]] · 🔑 D1, NAcCR, DBS, D2, D1-MSN, D1R-MSN
+- [[concept-prefrontal-cortex-feeding]] — ★ **PFC는 섭식에서 brake와 drive 양방향**이고 부호를 정하는 것은 활성 수준이 아니라 **출력 경로**다: mPFC→rZI(강박 구동)·mPFC→VTA(학습 gain) vs PFC→LH^LepR(불안 brake)·vmPFC→NAc shell(충동 brake)·OFC→DST(강박). 출력 경로별 부호 표 + LHA 연결성(하행·상행·beta 주파수) + tES 접점("비만=dlPFC 저활성" 모델이 제어 실패 국면에만 맞는 문제, 하향 조절 필요군). [[concept-orbitofrontal-cortex|OFC]]와는 ORBm만 겹침 · 🔑 mPFC, dlPFC, DLPFC, vmPFC, dmPFC, prelimbic, infralimbic, ACC, top-down · _(⚡ 신경조절·🧩 인지행동과도)_
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]] · 🔑 VP, 복측 창백핵, ventral pallidal, VP^GABA, taCasp3
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]] · 🔑 OX, MCH, pSTAT3, OX1R, LepRb, LHA
 - [[concept-striatal-cholinergic-interneuron]] — 선조체·NAc **국소** ChI(1–3%)가 전시냅스 nAChR로 도파민 방출을 쥐고 SPN을 이연접 억제하는 **게이팅 스위치**. burst(AMPA/SK3)–pause(D2/GIRK). [[concept-basal-forebrain-cholinergic|기저전뇌 투사 콜린성]]과 **구분** · 🔑 DA-GLU, D2R, CHAT, FSI, D1

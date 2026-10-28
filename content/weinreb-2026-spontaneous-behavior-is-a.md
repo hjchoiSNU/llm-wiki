@@ -2,7 +2,7 @@
 title: Spontaneous behavior is a succession of self-directed tasks (Weinreb 2026)
 type: paper
 created: 2026-08-05
-updated: 2026-10-04
+updated: 2026-10-28
 source: raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks.pdf
 source_alias: "raw/2026 Neuron. Spontaneous behavior is a succession of self directed tasks 1.pdf"
 authors: [Caleb Weinreb, Lakshanyaa Thamarai Kannan, Alia Newman-Boulle, Tim Sainburg, Winthrop F. Gillis, Alex Plotnikoff, Sofia Makowska, Jonah E. Pearl, Mohammed Abdal Monium Osman, Scott W. Linderman, Sandeep Robert Datta]
@@ -84,3 +84,4 @@ year: 2026
 - [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub; shMoSeq의 계보상 위치.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — self-directed task 상태(수 초~분)의 연속 = 인간 "목표 안정성"의 행동학적 대응; dmPFC 상태 부호화가 Rubicon형 "선택 후 실행 단계"에 해당하는지 검증 대상 (Trends Cogn Sci 2026).
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[concept-prefrontal-cortex-feeding]] — PFC hub(신설). ⚠️ 본 논문의 **"dmPFC는 상태를 부호화하되 행동에 후행하는 permissive/scaffolding"** 결론이 그 hub에서 [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort 2026]]의 "mPFC가 인과적으로 구동한다"와 **긴장 관계**로 병기됐다. 직접 비교가 안 되는 이유로 영역 범위(본 논문 병변에 prelimbic·infralimbic·ACC·medial orbital 포함, Leow의 입력도 PL·ORBm·ACAd)·시간척도(수 초 상태 vs 세션 단위 강박)·측정 축(자발 행동 vs 처벌-저항 섭취)을 적어 두었다.

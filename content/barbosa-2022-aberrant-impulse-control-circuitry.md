@@ -2,7 +2,7 @@
 title: "Aberrant impulse control circuitry in obesity (Barbosa 2022)"
 type: paper
 created: 2026-06-01
-updated: 2026-09-19
+updated: 2026-10-28
 source: "raw/2022 Molecular Psychiatry. (Halpern) Aberrant impulse control circuitry in obesity.pdf"
 authors: [Barbosa DAN, Kuijper FM, Williams NR, Malenka RC, Halpern CH]
 year: 2022
@@ -38,3 +38,4 @@ year: 2022
 - [[shivacharan-2022-pilot-study-of-responsive-nucleus]] · [[choi-2025-brain-activity-associated-with-breakthrough]] — 같은 NCT03868670 라인.
 - [[concept-deep-brain-stimulation]] — 방법론 hub.
 - [[concept-need-motivation-pleasure-utility]] — 충동조절/Utility 축.
+- [[concept-prefrontal-cortex-feeding]] — PFC hub(신설). 본 논문의 vmPFC→NAc shell이 **brake 축의 인간 구조·기능 연결성 근거**로 들어간다(rsFC rho=−0.36, 구조연결 −0.50, vmPFC 두께 −0.42, 우울 독립).

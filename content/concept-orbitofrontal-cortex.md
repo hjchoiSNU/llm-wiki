@@ -2,7 +2,7 @@
 title: 안와전두피질 (Orbitofrontal Cortex, OFC)
 type: concept
 created: 2026-06-01
-updated: 2026-10-04
+updated: 2026-10-28
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -47,3 +47,4 @@ updated: 2026-10-04
 - [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **OFC→등쪽 선조체(DST) 시냅스 강도가 강박을 결정**: 인공 depotentiation은 처벌-저항 추구를 줄이고, 인공 potentiation은 비강박 개체에 강박을 만든다(Pascoli 2018, 양방향 인과). mPFC=주의·반응억제, **OFC=가치 갱신**(lateral=목표지향 유지, medial=정보 통합)이라는 기능 분업도 여기서 정리됨 (Annu Rev Neurosci 2021).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — vmPFC가 **선택적 주의**로 목표 몰입을 지지(Holton 2024 Nat Hum Behav): 목표 무관 정보 억제·현재 목표 평가절하 민감성 유지; goal-value 부호화의 "안정화" 측면.
 - [[rangel-2008-a-framework-for-studying-the]] — OFC의 두 가치 신호를 구분한 틀(Nat Rev Neurosci 2008): **선택 시점의 goal value**(원숭이·인간 OFC·DLPFC; 내측 OFC 손상 시 일관된 선호 선택 장애)와 **경험 시점의 outcome value**(내측 OFC가 주관적 쾌와 상관, 포만 후 감소, 가격·상표 같은 신념에 따라 변함). 목표지향계 안에서 OFC = 결과–가치 연합, DMS = 행동–결과 연합.
+- [[concept-prefrontal-cortex-feeding]] — **자매 hub**(신설). dlPFC·vmPFC·mPFC(PL·ILA·ACC)·dmPFC의 섭식 역할을 brake/drive 양방향으로 정리하고 LHA 연결성·tES 접점을 모은다. 이 페이지와는 **medial orbital(ORBm)에서만 겹친다** — ORBm은 [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 rZI 주요 입력.
