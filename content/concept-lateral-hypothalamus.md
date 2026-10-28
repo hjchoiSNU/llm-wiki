@@ -135,7 +135,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 
 ### Upstream
 - ARC AgRP → amLH/alLH (식이 ↑, positive reinforcement, Betley 2013 Cell)
-- mPFC, IC, PBN, LS → 다양한 subregion (식이 억제)
+- mPFC, IC, PBN, LS → 다양한 subregion (식이 억제) — ⚠️ **mPFC는 "억제"로 단정할 수 없다**: 같은 경로가 **5 Hz 자극에서는 기호식 섭취를 늘리고** 20 Hz·연속 화학유전에서는 chow를 줄인다([[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]). **자극 방식·주파수에 따라 양방향**으로 읽을 것.
 - BNST Vglut2 → pmLH (식이 ↑)
 - MPOA CaMKII → amLH (식이 ↑)
 
@@ -145,6 +145,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **그 게이트는 상태 의존 가소성을 갖는다**: 급성 식이제한 또는 3일 고지방식이 D1-MSN→LH 억제 시냅스를 **eCB–CB1R 의존적으로 depress**시켜 과식 게이트를 열고, 체중 회복 1주 후 사라진다. CB1R 차단(전신·LH 국소)은 결핍 유발 과식을 막고, in vivo HFS로 그 시냅스를 potentiate하면 금식 마우스가 **덜 먹는다** ([[thoeni-2020-depression-of-accumbal-to|Thoeni 2020]]; [[concept-endocannabinoid-system]]).
 - **PVN^CRH → LHA^Glu**: 해부학적으로는 흥분성 단시냅스지만 회로 **순효과는 LHA^Glu 억제**이고, 만성 HFD 불안-취약군에서 이 disinhibition이 과식을 만든다. LHA의 **CRHR2(CRHR1 아님)** 차단은 **과식만** 없애고 불안은 건드리지 않는다 ([[wang-2026-a-hypothalamic-circuit-links|Wang 2026]]; [[concept-paraventricular-nucleus]]).
 - **mPFC → LH는 LH^LepR를 억제하는 anxiogenic 경로**이고 그 억제는 **고불안 개체에서만** 나타난다(억제 크기 ↔ 불안 점수 R=−0.86) ([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]). ⚠️ 저자들도 다시냅스 가능성을 명시.
+- ★ **그러나 mPFC→LHA의 다른 분기는 과식을 구동한다**: mPFC는 **LHA^VGAT·VGLUT2·OREX·MCH 네 집단 모두에 단시냅스 흥분성** 입력을 주고(glutamatergic LHA의 ~80%), 사회 패배는 **LHA^VGLUT2 시냅스에서만** 전시냅스 가소성을 만든다(EPSC↓ U=342 p=0.0152, PPR↑). 그 변화는 **투사 표적별로 부호가 갈린다** — 섭식을 끄는 **peri-PVN 투사는 약화**, 과식을 매개하는 **VTA 투사는 강화**. 경로 억제는 **스트레스 과잉분만** 지우고 평상 섭식은 건드리지 않는다(조건부 경로). TRAP2 스트레스 앙상블은 **glutamatergic LHA에 선택적**이고 **LHA^VGAT에는 거의 입력이 없다** ([[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]). ⚠️ 수컷 only. 두 논문의 부호 충돌과 해소안은 [[concept-prefrontal-cortex-feeding]]에 병기.
 - **LS → LH 하행 억제는 최소 세 개의 평행 분자 채널**: LS^Nts([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]), DLS^Pdyn([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]), dLS^GLP-1R([[lu-2024-dorsolateral-septum-glp-1r-neurons|Lu 2024]]) — 모두 LH를 눌러 섭취를 줄인다. 상행 짝(LHAsf→LS)과 합쳐 **LS↔LHA 상호 회로** ([[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]).
 - **LH 내부 micro-circuit**: LH^LepR는 국소 orexin 뉴런과 연결되어 단식 시 orexin 활성화를 gating한다(trans-synaptic WGA가 OX-IR⁺ 뉴런에서 관찰·MCH에서는 전무; Nts-LepRbKO에서 26 h 단식이 OX c-Fos를 올리지 못함) ([[leinninger-2011-leptin-action-via-neurotensin|Leinninger 2011]]). ⚠️ 단시냅스 확정은 아니고, 같은 원문에 자기 반증(KO 자유급식 상태에서도 OX가 켜져 있지 않다)이 있다.
 
@@ -404,3 +405,4 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 초기 스트레스의 후성유전 저장 층위 — Shin 2023의 LH *Lepr* 하향조절과 짝.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 식전 포만(DMH GLP-1R)과 LH^Vgat Ex-4 반응 감쇠의 병렬 작용점.
 - [[concept-prefrontal-cortex-feeding]] — **PFC 쪽 hub**(신설). 이 페이지의 상류 목록이 PFC를 "식이 억제"로 분류하는 근거([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|PFC→LH^LepR 억제]], 고불안 개체 한정)와 ⚠️ 상충하는 두 서술([[sharpe-2024-the-cognitive-lateral-hypothalamus|PL·NAc가 LH에 "언제 먹을지" 지시]], Kita & Oomura 1981의 부호 미정)을 한곳에 병기했다. 역방향 **LH^GABA→IL/PL mPFC 분지는 기능 자료가 없다**는 공백도 거기 기록.
+- ★ [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]] — **mPFC→LHA 전용 1차 원전**(Nat Commun 2026). 네 LHA 세포타입 연결 지도 + 스트레스 전시냅스 가소성(LHA^VGLUT2 한정) + 투사별 부호 분기(VTA 강화 / peri-PVN 약화) + LHA^VGLUT2의 하류 필요조건. [[linders-2022-stress-driven-potentiation-of-lateral|Linders 2022]]의 상류 짝.

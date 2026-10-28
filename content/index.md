@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 537 (+ index.md, log.md)
+- 총 페이지: 538 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-28
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -192,7 +192,7 @@ _(섭식·동기 행동은 🍽️로)_
 
 ### 외측 시상하부 (LH) 문헌 클러스터 (2026-10 일괄 수집)
 
-LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypothalamus]]. 연구실 원전: [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-normative-framework-dissociates-need]] · [[cheon-2025-lateral-hypothalamus-and-eating-cell]].
+LH 1차 원전·아틀라스·리뷰 30편. 개념 hub는 [[concept-lateral-hypothalamus]]. 연구실 원전: [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-normative-framework-dissociates-need]] · [[cheon-2025-lateral-hypothalamus-and-eating-cell]].
 
 **종합·리뷰**
 - [[stuber-2016-lateral-hypothalamic-circuits-for]] — LH 전기자극 시대(포만 없는 자기자극·drive–reward paradox·하행 MFB 기질)를 광유전 세포타입으로 재해석: LH^Vgat(섭식·보상↑) vs LH^Vglut2(섭식↓·혐오) 양방향 출력 → VTA DA; vBNST^GABA→LH^Glut, NAc D1R→LH^GABA bout 종료 고리; "ARC=항상성, LHA=hedonic" 이분 (Nat Neurosci 2016 Review, Stuber & Wise). · 🔑 BSR, MCH, LHb, LHA^GABA, NIDA, LHA^Glut
@@ -221,6 +221,7 @@ LH 1차 원전·아틀라스·리뷰 29편. 개념 hub는 [[concept-lateral-hypo
 - [[hoang-2021-the-basolateral-amygdala-and]] — BLA vs LH 학습 편향 분업: BLA=감각 특이 결과(specific PIT)·원위 cue는 이미 유의할 때만 학습(SOC ○/SPC ×), LH^GABA=근접 예측자 학습 필수·원위 cue에 항상 반대; BLA→LH(관련성·근접도 평가)→VTA(기대값 relay) 회로 가설 (Curr Opin Behav Sci 2021, Sharpe lab). · 🔑 LH^LepR, aBLA-D1R, ICSS, VTA^DA, LH^Vgat, GLP-1RA
 
 **입력 회로 — brake 해제·섭식 허가 게이트**
+- ★ [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]] — **위키 유일의 mPFC→LHA 전용 1차 원전**: 평상 섭식엔 불필요하고 **스트레스 과식에만 필수인 조건부 경로**(hM4Di → 스트레스 과잉분만 소거, F(1,50)=4.69 p=0.035; chow·운동·불안 불변). **5 Hz만** 지방 섭취↑(1·10 Hz 무효; 선행 20 Hz·연속 화학유전은 chow↓), 효과는 **관심이 꺼지는 세션 후반**에. mPFC는 **LHA^VGAT·VGLUT2·OREX·MCH 네 집단 모두에 단시냅스 흥분성**(glut의 ~80%)이나 스트레스 가소성은 **LHA^VGLUT2에만**(EPSC↓ U=342 p=0.0152·PPR↑), 그 안에서 **VTA 투사 강화 / peri-PVN 투사 약화**로 갈린다. TRAP2 mPFC^STRESS 앙상블은 **glutamatergic LHA 선택적**(χ² Z=21 p=0.0007, VGAT 거의 없음). 스트레스 중 LHA^VGLUT2 억제 → 이후 폭식 예방. ⚠️ **수컷 only**; [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]와 부호 반대(세포타입 분기로 해소안 병기) (Nat Commun 2026, Utrecht Adan·Meye lab). [[linders-2022-stress-driven-potentiation-of-lateral|Linders 2022]]의 상류 짝 · 개념 [[concept-prefrontal-cortex-feeding]] · 🔑 mPFC-LHA, TRAP2, PPR, peri-PVN, Cav2-Cre, CoChR
 - [[jennings-2013-the-inhibitory-circuit-architecture]] — ★ **LH 섭식 스위치 = engine 활성이 아니라 brake 해제**: Vgat^BNST→LH 광활성이 포만 중에도 폭식·고지방식 선호·자가자극(굶기면 증폭)을 유발하고 광억제는 섭식↓·혐오. 그 입력은 **LH^Vglut2를 선택적으로 억제**(강하게 innervated 세포의 Vglut2↑ U=169.0; rabies F1,20=38.50)하며, Vglut2^LH 활성 → 섭취↓·혐오 / 억제 → 포만 중 섭식. BNST→VTA는 섭식 무유발(경로 특이성) (Science 2013, Stuber lab). ⚠️ 'Jennings 2013 Nature(BNST→VTA)'와 구분. · 🔑 LH^Vgat, S1, LHA^Ratio, GABAergic, F2, eArch3
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — ★ 위키 전반의 **"NAc D1R-MSN→LHA GABA feeding authorization" 게이트 1차 원전**. LH 투사 accumbens shell 뉴런의 **93.6%가 D1R-MSN**(BNST는 15–23%로 반전), 표적은 orexin·MCH가 아닌 **LH^Vgat(78% 연결, rabies 입력 97%가 D1R)**; D1R 광억제 → 포만 상태에서도 섭취↑, LH 말단 광자극 → **24 h 금식에도 한 lick 단위 중단** (Neuron 2015, Lüscher lab). · 🔑 NAcSh, CTB, SPN, Drd1a-tdTomato, VP, LH^GABA
 - [[thoeni-2020-depression-of-accumbal-to]] — ★ [[oconnor-2015-accumbal-d1r-neurons-projecting|O'Connor 2015]] "섭식 허가 게이트"의 **가소성 후속**: 급성 식이제한·3일 고지방식이 **NAcSh D1-MSN→LH 억제성 시냅스를 eCB–CB1R 의존적으로 depress**시켜 과식을 허가(체중 회복 후 1주면 소실); CB1R 길항(전신·LH 국소)이 과식·HFD 체중 증가 차단, 역으로 **in vivo HFS potentiation은 24 h 금식 섭취를 억제**. LH^Vgat·LH^VGluT2 양쪽이 표적 (Neuron 2020, Lüscher lab). → 🎯 시냅스 가소성 참조. · 🔑 AFR, LTP, VP, SR141716A, pLH, LTD
@@ -502,7 +503,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-vagal-afferent-neurons]] · [[concept-dorsal-vagal-complex]] · [[concept-enteroendocrine-cells]] · [[concept-tanycytes]] · 🔑 VAN, taVNS, CCK, EEC, TRPA1, NTS
 - [[concept-dopamine-reward-system]] · [[concept-basolateral-amygdala]] · [[concept-central-amygdala-glp1r]] · [[concept-bed-nucleus-stria-terminalis]] · 🔑 VTA, NAc, nucleus accumbens, ventral tegmental area, RPE(Reward Prediction Error), LH^GABA
 - [[concept-nucleus-accumbens]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] · [[concept-hippocampus-feeding]] · 🔑 D1, NAcCR, DBS, D2, D1-MSN, D1R-MSN
-- [[concept-prefrontal-cortex-feeding]] — ★ **PFC는 섭식에서 brake와 drive 양방향**이고 부호를 정하는 것은 활성 수준이 아니라 **출력 경로**다: mPFC→rZI(강박 구동)·mPFC→VTA(학습 gain) vs PFC→LH^LepR(불안 brake)·vmPFC→NAc shell(충동 brake)·OFC→DST(강박). 출력 경로별 부호 표 + LHA 연결성(하행·상행·beta 주파수) + tES 접점("비만=dlPFC 저활성" 모델이 제어 실패 국면에만 맞는 문제, 하향 조절 필요군). [[concept-orbitofrontal-cortex|OFC]]와는 ORBm만 겹침 · 🔑 mPFC, dlPFC, DLPFC, vmPFC, dmPFC, prelimbic, infralimbic, ACC, top-down · _(⚡ 신경조절·🧩 인지행동과도)_
+- [[concept-prefrontal-cortex-feeding]] — ★ **PFC는 섭식에서 brake와 drive 양방향**이고 부호를 정하는 것은 활성 수준이 아니라 **출력 경로**다: mPFC→rZI(강박 구동)·mPFC→VTA(학습 gain)·mPFC→LHA^VGLUT2(스트레스 과식) vs PFC→LH^LepR(불안 brake)·vmPFC→NAc shell(충동 brake)·OFC→DST(강박). 출력 경로별 부호 표 + LHA 연결성(하행·상행·beta 주파수) + tES 접점("비만=dlPFC 저활성" 모델이 제어 실패 국면에만 맞는 문제, 하향 조절 필요군). [[concept-orbitofrontal-cortex|OFC]]와는 ORBm만 겹침 · 🔑 mPFC, dlPFC, DLPFC, vmPFC, dmPFC, prelimbic, infralimbic, ACC, top-down · _(⚡ 신경조절·🧩 인지행동과도)_
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]] · 🔑 VP, 복측 창백핵, ventral pallidal, VP^GABA, taCasp3
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]] · 🔑 OX, MCH, pSTAT3, OX1R, LepRb, LHA
 - [[concept-striatal-cholinergic-interneuron]] — 선조체·NAc **국소** ChI(1–3%)가 전시냅스 nAChR로 도파민 방출을 쥐고 SPN을 이연접 억제하는 **게이팅 스위치**. burst(AMPA/SK3)–pause(D2/GIRK). [[concept-basal-forebrain-cholinergic|기저전뇌 투사 콜린성]]과 **구분** · 🔑 DA-GLU, D2R, CHAT, FSI, D1

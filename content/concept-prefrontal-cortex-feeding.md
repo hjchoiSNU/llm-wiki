@@ -8,7 +8,7 @@ aliases: [PFC, mPFC, dmPFC, dlPFC, DLPFC, vmPFC, prefrontal cortex, 전전두피
 
 > [!takeaway] 연구 방향 관점의 핵심
 > 이 위키에서 PFC는 가장 자주 언급되면서 **hub가 없던 노드**였다([[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]] 본문도 "mPFC — 위키에 전용 hub 없음"이라 적어 두었다). 그 공백이 실제로 해석을 왜곡한다 — **"비만 = dlPFC 저활성 → anodal tDCS로 executive 통제 복원"** 이라는 단일 서술이 [[concept-transcranial-electrical-stimulation|tES]] 자료 전반([[saeki-2022-a-systematic-review-on|Saeki 2022]]·[[beaumont-2022-modulating-eating-behavior-with|Beaumont 2022]]) 의 기전 절을 지배하는데, 같은 위키의 회로 자료는 PFC가 섭식을 **구동**하기도 한다고 말한다.
-> 그래서 이 hub의 명제는 하나다: **PFC는 섭식에서 brake와 drive 양방향으로 작동하고, 부호를 결정하는 것은 "PFC 전체의 활성 수준"이 아니라 출력 경로다.** mPFC→rZI는 처벌-저항 강박을 **켜고**([[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]), mPFC→VTA는 유관성 학습을 **가속**하고([[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort 2026]]), PFC→LH^LepR은 불안 맥락의 섭식 개시를 **막고**([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]), vmPFC→NAc shell은 충동을 **누른다**([[barbosa-2022-aberrant-impulse-control-circuitry|Barbosa 2022]]).
+> 그래서 이 hub의 명제는 하나다: **PFC는 섭식에서 brake와 drive 양방향으로 작동하고, 부호를 결정하는 것은 "PFC 전체의 활성 수준"이 아니라 출력 경로다.** mPFC→rZI는 처벌-저항 강박을 **켜고**([[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]), mPFC→VTA는 유관성 학습을 **가속**하고([[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort 2026]]), PFC→LH^LepR은 불안 맥락의 섭식 개시를 **막는**데([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]) 같은 LHA 안의 **mPFC→LHA^VGLUT2는 거꾸로 스트레스 과식을 구동**하고([[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]), vmPFC→NAc shell은 충동을 **누른다**([[barbosa-2022-aberrant-impulse-control-circuitry|Barbosa 2022]]).
 > 사용자 연구에 닿는 세 지점. (1) **자극 방향이 환자군에 따라 뒤집힐 수 있다** — anodal dlPFC 일변도 프로토콜은 brake 결손군을 전제하지만, PFC 과활성 → LH^LepR 억제 프로파일(restraint·AN 쪽)에는 **하향** 조절이 맞을 수 있다. (2) **주파수가 피질–시상하부 공통 화폐일 수 있다** — mPFC→LH 동기화가 beta 15–30 Hz이고 인간 LHA의 배고픔 서명도 beta/low-gamma다([[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]]). (3) **[[concept-inhibitory-control-demand|제어 부하]] 측정이 국면 판별의 선행 조건** — 제어가 개입된 국면과 붕괴한 국면에서 dlPFC 부호가 반대이므로, 국면을 모르고 자극하면 효과가 상쇄된다. [[concept-need-motivation-pleasure-utility|NMPU]]의 Utility 축 좌표.
 
 # 전전두피질과 섭식 (Prefrontal Cortex in Feeding)
@@ -104,6 +104,8 @@ PFC는 섭식에서 **억제(brake)와 구동(drive) 두 방향으로 동시에 
 | mPFC(PL·ORBm·ACAd) → **rZI^GABA** | Npr3+, 흥분성 | 억제→quinine-HFD↓ / 활성→shock 건너기↑ | **drive** (처벌-저항 강박) | [[leow-2026-a-cortical-hypothalamic-neural]] |
 | mPFC → **VTA** | mPFC의 ~10%, 61.5% CD 인코딩 | 자극→CD 가속 / 억제→지연 | **drive** (학습 gain) | [[hjort-2026-prefrontal-to-ventral-tegmental-area]] |
 | **VTA^DA → mPFC** (역방향) | mPFC 투사 DA 한정 | 사회 패배→GluA1 강화, 1 Hz LFS 역전 | **drive** (지방 과식, 인과 미검증) | [[linders-2022-stress-driven-potentiation-of-lateral]] |
+| mPFC → **LHA^VGLUT2** | 단시냅스 흥분성, glutamatergic LHA의 ~80% | 5 Hz 자극→지방↑ / hM4Di→스트레스 과식만 소거 | **drive** (스트레스 과식, 조건부) | [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]] |
+| ↳ **-VTA 분기** / **-peri-PVN 분기** | 스트레스 후 PPR↓ / PPR↑ | — | **drive** / **brake** (한 세포군 안에서 갈림) | [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]] |
 | PFC → **LH^LepR** | 62% 억제(n=73 cells, p=0.02), 다시냅스 추정 | 자극→open arm 체류↓(p=0.00039) | **brake** (anxiogenic, 고불안 한정) | [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] |
 | vmPFC → **NAc shell** | streamline shell 밀집(p<0.001) | 비만에서 연결성·두께↓ | **brake** (충동조절) | [[barbosa-2022-aberrant-impulse-control-circuitry]] |
 | OFC → **DST** | D1/D2-SPN 양쪽 강화 | depotentiation→perseverance↓ (양방향) | **drive** (강박) | [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] |
@@ -115,12 +117,15 @@ graph LR
   RZI["rZI^GABA"]
   VTA["VTA^DA"]
   LH["LH^LepR"]
+  LHG["LHA^VGLUT2"]
   NAC["NAc shell"]
   DST["dorsal striatum"]
   PFC -->|drive: 처벌-저항 강박| RZI
   PFC -->|drive: meta-RPE gain| VTA
   VTA -->|스트레스 가소성| PFC
   PFC -->|brake: anxiogenic, 고불안 한정| LH
+  PFC -->|"drive: 스트레스 과식 (5 Hz)"| LHG
+  LHG -->|VTA 분기 강화| VTA
   PFC -->|brake: 충동조절| NAC
   PFC -->|drive: 강박 시냅스| DST
   LH -->|기능 미지| PFC
@@ -128,7 +133,17 @@ graph LR
 
 ### LHA 연결성
 
-**하행 PFC → LHA** — 위키에서 가장 단단한 축은 [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] (Nat Neurosci 2025, Korotkova lab)
+**하행 PFC → LHA ①: 스트레스 과식 drive** ([[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]], Nat Commun 2026, Utrecht Adan·Meye lab) — **위키의 유일한 mPFC→LHA 전용 1차 원전**
+- **조건부 경로**: hM4Di로 mPFC-LHA를 억제하면 **스트레스성 과잉 지방 섭취만 완전히 사라지고**(상호작용 F(1,50)=4.69, p=0.035; hM4Di-control vs hM4Di-Stress p>0.99) 비스트레스군 섭식·chow·운동량·불안은 불변 → **평상시 섭식에는 불필요, 스트레스에서만 필수**.
+- **5 Hz 특이**: 경로 광자극은 **5 Hz에서만** 지방 섭취를 늘리고(F(2,72)=3.37, p=0.04) **1 Hz·10 Hz는 무효**, chow는 불변. 효과는 **세션 초반이 아니라 후반**(관심이 꺼질 때 계속 먹게 함). 선행 연구의 20 Hz·연속 화학유전은 반대로 chow를 **줄인다**.
+- **세포타입 지도**: mPFC는 LHA^VGAT·VGLUT2·OREX·MCH **네 집단 모두에 단시냅스 흥분성** 입력(4-AP+TTX, χ²=3.166 p=0.367 — 단 1–2마리씩 소표본). glutamatergic LHA의 **약 80%**가 mPFC 입력을 받는다.
+- **스트레스 가소성은 LHA^VGLUT2에만**: EPSC↓(U=342, p=0.0152)·PPR↑(전시냅스 방출확률↓); VGAT·OREX 무변. restraint stress로도 재현.
+- ★ **한 세포군 안에서 부호가 갈린다**: 섭식을 끄는 **peri-PVN 투사**로 가는 mPFC 시냅스는 **약화**, 스트레스 과식을 매개하는 **VTA 투사**로 가는 시냅스는 **강화**(LHb 분기는 무변).
+- **스트레스 앙상블의 선택성**(TRAP2): mPFC^SOCIAL-STRESS 앙상블은 **glutamatergic LHA에 선택적으로** 연결되고(χ² Z=21, p=0.0007) **LHA^VGAT에는 거의 입력을 주지 않는다**. 그 앙상블→LHA 5 Hz 자극만으로 지방 섭취↑.
+- **하류 필요조건**: 스트레스 **중** LHA^VGLUT2를 억제하면 이후 폭식이 예방된다(F(1,21)=4.408, p=0.048).
+- ⚠️ **수컷 only**.
+
+**하행 PFC → LHA ②: 불안 brake** — [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] (Nat Neurosci 2025, Korotkova lab)
 - PFC에 ChRmine + LH^LepR에 GCaMP6m 동시 조작: PFC→LH 자극 중 LH^LepR 집단 활동 **감소**(p=0.02, n=73 cells). 세포 분류 **억제 23 / 흥분 8 / 무반응 6**(62%/22%/16%).
 - **고불안 개체 한정**: 억제 크기 × EPM 불안 점수 **R=−0.86, p=0.014**. 포만 저불안 n=18 NS / 고불안 n=19 **p=0.034**; 공복(4일 제한) 저불안 n=14 NS / 고불안 n=22 **p=0.005** → **배고픔이 이 비대칭을 지우지 못한다.** 기저 활동은 저·고불안 차이 없음.
 - 시간 순서: PFC→LH 활동은 open arm **접근 중 상승**(p=0.039)·**진입 직후 급감**(p=0.0078)인데 LH^LepR는 **진입 후 상승 유지**(p=0.0017) → PFC가 먼저, LepR가 나중.
@@ -152,6 +167,7 @@ graph LR
 - 살아있는 인간 LHA LFP에서 **배고픔 = beta/low-gamma, 포만 = alpha**. 선행 NHP와 수렴(배고픈 영장류 LHA ~20 Hz beta, glucose 후 ~5 Hz).
 - 포만 리듬을 모사한 **8 Hz DBS가 fullness를 인공 유발했으나 craving은 못 줄였다** → homeostatic 포만(LHA로 조절 가능)과 non-homeostatic craving(불변)의 분리.
 - 이 대역이 위 mPFC→LH beta(15–30 Hz)와 겹친다 — **연결 가설**(두 논문 모두 이렇게 쓰지 않았다): 피질–시상하부 beta 동기화가 공통 화폐라면, 자극의 종결점은 "활성 증감"이 아니라 **동기화의 파괴**여야 한다. [[concept-temporal-interference-stimulation|TI]]가 주로 기존 리듬을 **desynchronize**하고 entrain은 약하다는 [[vieira-2024-temporal-interference-stimulation-disrupts|Vieira 2024]]의 한계가 여기서는 오히려 쓸모 있는 niche가 된다. 설계는 [[proposal-ttis-feeding-reward-circuits]]의 LHA beta biomarker closed-loop tTIS.
+- ⚠️ **단, "beta를 때리면 된다"로 번역되지 않는다**(2026-10-28 수정): [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]에서 섭식을 **구동하는 자극 주파수는 5 Hz**이고 **10 Hz는 이미 무효**, 20 Hz·연속 화학유전은 chow를 **줄인다**. 모순은 아니다 — beta는 **관찰된 내재 동기화 대역**이고 5 Hz는 **외부 자극의 유효 대역**이다. 두 층을 구분해 쓸 것.
 
 **인간 연결성 자료의 공백** — [[barbosa-2023-an-orexigenic-subnetwork-within-the]]는 LH–dlHPC rsFC·구조연결이 비만군에서 감소함을 보이지만(rsFC p=0.018, 좌 구조 CI p=0.042) **전두 대조는 없다**. [[overview-lateral-hypothalamus-synthesis]]가 "DTx 코호트에서 LH–VTA/LH–mPFC resting FC를 치료 반응 biomarker로" 제안하는 것은 위키의 **설계 제안이고 실측이 아니다**.
 
@@ -176,13 +192,14 @@ graph LR
 ### ⚠️ 위키 내 긴장·미해결
 - **brake vs drive를 같은 영역이 맡는다.** [[linders-2022-stress-driven-potentiation-of-lateral]] 페이지가 이미 이렇게 정리했다 — "mPFC는 스트레스·강박·유연성이 동시에 통과하는 **병목**이고, 그 출력 방향(→VTA / →ZI / ←VTA DA)에 따라 효과 부호가 갈린다". 이 hub는 거기에 →LH(brake)·→NAc shell(brake)·→DST(drive)를 더한다.
 - **인과 구동(Leow·Hjort) vs 후행 추상화(Weinreb).** 위 §축 2 마지막 항 참조. 병기.
-- **PFC→LH의 부호**: 억제([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]]·LH 상류 표) vs "언제 먹을지 지시"([[sharpe-2024-the-cognitive-lateral-hypothalamus]]가 정리한 PL·NAc 상위구조 이론) vs 부호 미정(Kita & Oomura 1981). 세 서술이 공존한다.
+- **PFC→LH의 부호**: brake([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]]·LH 상류 표) vs **drive**([[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]]) vs "언제 먹을지 지시"([[sharpe-2024-the-cognitive-lateral-hypothalamus]]가 정리한 PL·NAc 상위구조 이론) vs 부호 미정(Kita & Oomura 1981). 네 서술이 공존한다.
+- ★ **brake vs drive의 해소안(연결 해석 — 두 논문 모두 이렇게 쓰지 않았다)**: Figge-Schlensok의 표적은 **LH^LepR(대부분 GABAergic)** 이고 저자들도 억제를 **다시냅스**로 추정한다. Supiot의 표적은 **LHA^VGLUT2**이고 **단시냅스 흥분성**으로 확인됐다. 결정적 교차 증거는 Supiot의 스트레스 앙상블이 **LHA^VGAT에 거의 입력을 주지 않는다**는 것 — 즉 **같은 해부학적 투사 안의 서로 다른 분기**일 수 있다. 검증: LepR-Cre에서 Supiot과 **같은 프로토콜**(4-AP+TTX 단시냅스성 + 스트레스 PPR)로 측정하면 "LepR 분기 = 다시냅스·가소성 없음 / VGLUT2 분기 = 단시냅스·가소성 있음" 예측을 바로 검정할 수 있다. ⚠️ 교란: **성별이 반대**(Supiot 수컷 only vs Figge 암컷 중심).
 - **anodal 일변도 vs 하향 조절 필요군**: 위 §tES 접점 2항.
 
 ### 자료 없음 (명시)
 - **섭식·craving에 대한 tRNS 1차 연구 없음.** tRNS는 [[concept-transcranial-electrical-stimulation]]의 modality 목록, [[antal-2022-non-invasive-brain-stimulation-and]]의 NIBS 일반론, [[lee-2025-hijacked-brain-modern-obesity-cue]] 표의 "보완적" 한 칸에만 등장한다.
 - **섭식 rTMS 1차 논문 없음** — "BMI −1.14 ± 0.74"는 [[lee-2025-hijacked-brain-modern-obesity-cue]] 표의 2차 인용이다.
-- **mPFC→LH 전용 1차 원전 없음** — Chen·Korotkova 2024(beta behavioral switch)는 2차 인용만이고, Figge-Schlensok 2025의 PFC→LH는 그 논문 Fig 2 한 축이다.
+- ~~**mPFC→LH 전용 1차 원전 없음**~~ → **2026-10-28 해소**: [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]](Nat Commun)이 raw에 미처리 상태로 있던 것을 찾아 ingest했다. **남은 공백은 Chen 2024 하나** — 정확한 서지는 **Chen C. et al., "The dynamic state of a prefrontal–hypothalamic–midbrain circuit commands behavioral transitions", Nat Neurosci 2024, doi:10.1038/s41593-024-01598-3**(Supiot 2026의 ref 44로 확인). beta(15–30 Hz) behavioral switch 축의 1차 자료이며 위키에는 아직 2차 인용만 있다.
 - **LH^GABA→IL/PL mPFC 분지의 기능 자료 없음** — 해부학적 존재만 기록돼 있다.
 - **인간 LH–전두 연결성 실측 없음** — [[barbosa-2023-an-orexigenic-subnetwork-within-the]]는 LH–dlHPC뿐.
 - **dlPFC·mPFC 단독 1차 해부/생리 원전 없음** — 이 hub의 PFC 자료는 전부 다른 표적(rZI·VTA·LH·NAc·DST)을 보는 논문에서 PFC 쪽을 모은 것이다.
@@ -195,7 +212,8 @@ graph LR
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — drive 축의 대표 사례(mPFC→rZI 강박 섭식 gate, 지속 attractor, 인간 3코호트 FC).
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — mPFC↔VTA meta-RPE 루프(양방향 인과).
 - [[linders-2022-stress-driven-potentiation-of-lateral]] — mPFC 투사 VTA^DA 한정 가소성; "mPFC = 병목" 정리의 출처.
-- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — PFC→LH^LepR 억제(고불안 개체 한정, R=−0.86); 하향 조절 가설의 근거.
+- ★ [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]] — **위키의 유일한 mPFC→LHA 전용 1차 원전**(Nat Commun 2026). 조건부 drive·5 Hz 특이성·LHA^VGLUT2 전시냅스 가소성·투사별 부호 분기(VTA 강화 / peri-PVN 약화)·TRAP2 스트레스 앙상블.
+- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — PFC→LH^LepR 억제(고불안 개체 한정, R=−0.86); 하향 조절 가설의 근거. ⚠️ Supiot 2026과 부호가 반대 — 세포타입 분기로 해소 가능(위 긴장 절).
 - [[concept-lateral-hypothalamus]] · [[overview-lateral-hypothalamus-synthesis]] — LH 상류·하류 지도에서 PFC의 위치.
 - [[liu-2026-granular-motivational-interaction-and]] · [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — mPFC→LH beta(15–30 Hz) behavioral switch(Chen 2024 2차 인용).
 - [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — ⚠️ 대안 이론(PL·NAc가 학습하고 LH에 지시); PL=주의·맥락.

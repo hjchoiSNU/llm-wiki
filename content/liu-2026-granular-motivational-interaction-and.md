@@ -2,7 +2,7 @@
 title: "Granular motivational interaction and behavioral choice during feeding (Liu & Wang 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-10-03
+updated: 2026-10-28
 source: "raw/2026 Neuron (marked. Qingqing Liu, Liping Wang) Granular motivational interaction and behavioral choice during feeding (1).pdf"
 authors: [Qingqing Liu, Liping Wang]
 year: 2026
@@ -57,7 +57,7 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 ### Interruption — 다중 동기 경쟁·행동전환
 - 위협 cue → LH^VGLUT2 활성 → VTA^VGLUT2·lPAG·PPN → 방어상태 전환.
 - 무자극 interruption: DR^GABA 억제(sustained eating 동기 약화), ARC^AgRP 재활성(새 cycle).
-- **Top-down**: mPFC→LH beta oscillation이 LH "behavioral switch cells" 동기화 → VTA DA firing↑ 행동전환 매개(Chen·Korotkova 2024).
+- **Top-down**: mPFC→LH beta oscillation이 LH "behavioral switch cells" 동기화 → VTA DA firing↑ 행동전환 매개(Chen·Korotkova 2024 = **Chen C. et al., Nat Neurosci 2024, doi:10.1038/s41593-024-01598-3**; 위키에 1차 페이지 없음). ⚠️ 이 beta는 **관찰된 내재 동기화 대역**이고, mPFC→LHA 경로를 **외부에서 자극해** 섭취를 늘리는 유효 대역은 **5 Hz**(10 Hz 무효, 20 Hz는 chow 감소)다 — [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]. 두 층을 구분할 것.
 - 망 수준: neural landscape diffusion — 각 need가 attractor, whole-brain state가 attractor 간 전환(Richman·Luo 2023).
 
 ## 환경 stressor·내부 상태의 조절

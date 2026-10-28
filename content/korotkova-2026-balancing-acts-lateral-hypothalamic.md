@@ -2,7 +2,7 @@
 title: "Korotkova 2026 — Balancing acts: lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions"
 type: paper
 created: 2026-05-25
-updated: 2026-10-03
+updated: 2026-10-28
 source: raw/2026 (Korotkova) Balancing acts lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions.pdf
 authors: [Tatiana Korotkova]
 year: 2026
@@ -31,6 +31,7 @@ LH는 hunger·anxiety·loneliness의 3개 경쟁 motivational drive 사이의 **
 | **Orexin/hypocretin** | arousal, vigilance, panic, BAT 열생성, narcolepsy. |
 
 ## 행동 전환 메커니즘 (Chen 2024 Nat Neurosci)
+> 📌 **정확한 서지**(2026-10-28 확인, [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]의 ref 44): **Chen C. et al., "The dynamic state of a prefrontal–hypothalamic–midbrain circuit commands behavioral transitions", Nat Neurosci 2024, doi:10.1038/s41593-024-01598-3**. 위키에 **1차 페이지 없음**(본 리뷰와 [[liu-2026-granular-motivational-interaction-and]]의 2차 인용뿐) — `raw/`에도 없다.
 - **Beta oscillation (15–30 Hz)** + "transition cells" 가 행동 전환 ~2초 전에 LH에서 시작.
 - 비교: 인간 SMA preparatory potential은 ~0.8 sec (Libet 1983).
 - Gamma (30–90 Hz)는 food approach 시 (Carus-Cadavieco 2017 Nature).
