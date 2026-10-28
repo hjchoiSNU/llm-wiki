@@ -2,7 +2,7 @@
 title: "A hypothalamic circuit links high-fat diet exposure to anxiety-like behavior and anxiety-associated hyperphagia (Wang 2026)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-28
 source: "raw/2026 Nat. Comm. A hypothalamic circuit links high-fat diet exposure to anxiety-like behavior and anxiety-associated hyperphagia.pdf"
 authors: [Peng Wang, Jun Li, Xin Cheng, Wei Chen, Zhengyu Li, Zheng Fang, Dijia Wang, Bin Mei, Hu Liu, Shaohua Hu, Zhilai Yang, Jiqian Zhang, Gaolin Qiu, Xin Qing, Xuesheng Liu]
 year: 2026
@@ -96,3 +96,4 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 비만 이질성 층화(불안-취약 아형 설계와 호응).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[rossi-2019-obesity-remodels-activity-and]] — HFD가 LHA^Vglut2 brake를 **내재 흥분성↓·전사 변화**로 약화(Stuber lab, Science 2019; scRNA-seq 20,194세포 + 12주 2-photon 종단). 본 논문 PVN^CRH→LHA^Glu 시냅스 억제와 수렴·상보.
+- ⚠️ ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **같은 PVN^CRH 노드, 반대 부호**: 본 논문은 **ArcAgRP**→PVN^CRH가 불안과 **과식**을 묶는데, 그쪽은 **ArcPOMC**→PVN^CRH가 학습된 위협에서 **섭식을 끊는다**(Crh⁺의 90%가 c-fos, 비조건화 30%; CORT↑). 즉 ARC의 **길항 짝이 같은 노드에 반대 부호로** 들어간다 — 그쪽 저자들도 AgRP의 공동 작용을 예상한다(미측정). 조건·시간척도도 다르다(만성 HFD vs 급성 학습 위협, 수 일 vs 수 분). 검증 지점: 그쪽 패러다임에서 **AgRP를 동시에 활성화하면 POMC 유발 섭식 억제가 상쇄되는가** (Adv Sci 2026).

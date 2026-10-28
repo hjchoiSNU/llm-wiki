@@ -44,4 +44,5 @@ ARC POMC 뉴런의 cAMP-PKA 신호(식후·GLP-1/GIP 작용제로 활성)가 **�
 - [[concept-arcuate-nucleus]] — ARC POMC 대사 hub.
 - [[concept-incretin-effect]] · [[concept-glp-1]] — 세마글루타이드/tirzepatide·incretin 맥락(단 본 효과는 incretin-비의존).
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — 같은 시기 gut-brain×시상하부 짝(AgRP 구심성, 본 논문은 POMC 원심성).
+- [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — POMC의 **또 다른 출력**(α-MSH→PVN CRH→HPA, 학습된 위협 맥락). **방법론 교훈 공유**: 본 논문의 Prkar1a 모델 고코르티솔혈증이 **뇌하수체 corticotroph off-target**이었듯, POMC-Cre 계열로 HPA 지표를 읽을 때는 뇌하수체 POMC 세포 교란을 배제해야 한다(그쪽은 뇌하수체 *Cnr1* 불변으로 확인).
 - [[overview-appetite-energy-homeostasis]] — gut-brain 큰 그림.

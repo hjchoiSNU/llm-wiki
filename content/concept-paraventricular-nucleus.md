@@ -2,7 +2,7 @@
 title: Paraventricular nucleus (PVN)
 type: concept
 created: 2026-05-25
-updated: 2026-10-25
+updated: 2026-10-28
 aliases: [PVN, PVH, paraventricular hypothalamus]
 ---
 
@@ -69,3 +69,4 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[concept-maternal-programming-hypothalamus]] — PVN OXT↓·CRH↑·MC4R hypertension을 정리한 모체 프로그래밍 hub.
 - [[wang-2026-a-hypothalamic-circuit-links]] — ★ **PVNCRH = 만성 HFD에서 정서·과식을 함께 나르는 통합 노드**. ArcAgRP→PVNCRH 단일시냅스(oEPSC+oIPSC, net 흥분)·PVNCRH→LHAGlu 억제성 투사. 상류(Arc-PVN) 억제는 불안+과식 둘 다, 하류 LHA-CRHR2는 과식만 매개. ⚠️ AgRP→PVNCRH 흥분성은 [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]의 "PVH^CRH는 AgRP와 무연결·방향은 PVH→AgRP" 틀과 긴장 (Nat Commun 2026).
 - [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — 인접 AHN^GAD가 스트레스 민감화의 유도·발현에 필요. AHN→PVN 직접 투사를 통한 스트레스 호르몬 조절은 저자 discussion의 가설(미검증) (Nature 2026).
+- ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **PVN^CRH가 ARC의 길항 짝에게서 반대 부호로 모집된다**: 학습된 위협에서 **Crh⁺ 뉴런의 90%가 c-fos 공발현**(비조건화 30%)이고 그 활성이 ARC **POMC** c-fos와 상관(r²=0.44, p=0.02), 혈중 CORT↑가 공포 반응과 상관 → **섭식 억제** 방향. 바로 위 [[wang-2026-a-hypothalamic-circuit-links|Wang 2026]]의 Arc**AgRP**→PVN^CRH는 **과식** 방향이다. 전달물질은 glutamate가 아니라 **α-MSH**로 제안되고 CRH 뉴런의 **MC4R**이 수용체 후보. ⚠️ POMC→CRH **직접 연결·α-MSH 방출·MC4R 관여·CRH의 인과적 기여는 모두 미검증**(저자 명시) (Adv Sci 2026).

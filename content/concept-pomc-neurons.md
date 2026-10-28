@@ -2,7 +2,7 @@
 title: POMC neurons
 type: concept
 created: 2026-04-29
-updated: 2026-10-11
+updated: 2026-10-28
 aliases: [pro-opiomelanocortin neurons, POMC]
 ---
 
@@ -131,3 +131,4 @@ POMC 전구체가 단백질가수분해로 다음으로 처리:
 - [[concept-agrp-synaptic-plasticity]] — 위 reset 신호가 작동하는 시냅스 가소성 개념 hub.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — **가소성 축에서의 POMC 비대칭**: POMC 수상돌기는 사실상 **가시가 없고**(AgRP는 풍부), POMC에서 `Grin1`(NMDAR)을 삭제해도 체중·지방·섭취에 **아무 변화가 없다**. 단식 시 `Pomc` mRNA 감소도 POMC의 NMDAR과 무관. AgRP/POMC가 길항 짝이라는 통념에 "가소성에서는 대칭이 아니다"를 더한다 (Neuron 2012, Lowell lab).
 - [[bonnefond-2026-the-genetics-of-obesity]] — 인간 유전학이 본 POMC 뉴런 조절자: LEPR–JAK2–STAT3·TRPC5(급성 탈분극)·SH2B1·MAGEL2(LEPR 재순환)·cilia(BBSome·ALMS1)·NCOA1·HTR2C·GHR, POMC→PCSK1/CPE→α-MSH 결손 모두 단일유전자 비만 (Nat Metab 2026).
+- ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **에너지 상태가 아니라 "학습된 위협"이 POMC를 모집한다**: 굶긴 쥐가 공포 톤을 만나면 POMC c-fos↑(부동시간·섭식 지연과 상관), hM4Di 억제는 **섭식 지연과 freezing을 함께** 낮춘다. 하류는 PVN CRH(Crh⁺의 90%가 c-fos, 비조건화 30%)→HPA(CORT↑), 전달물질은 **glutamate가 아니라 α-MSH**(POMC-vGlut2-KO 무표현형). **POMC의 CB1R**이 gate 크기를 정하고 결손 시 위협에도 먹는 쪽으로 기운다 — ⚠️ **수컷 한정**, 체중·섭취는 정상이라 위 "CB1R-POMC = cannabinoid hyperphagia(β-endorphin)" 축과 **해리**된다. ⚠️ POMC→CRH 직접 연결·α-MSH 방출·MC4R 관여는 **모두 미검증**(저자 명시) (Adv Sci 2026, Bordeaux Cota·Marsicano lab).

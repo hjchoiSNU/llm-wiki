@@ -128,4 +128,5 @@ mPFC→LHA 경로는 평상시 섭식에는 불필요하지만 **스트레스성
 - [[concept-need-motivation-pleasure-utility]] — 평상 섭식에는 불필요하고 스트레스에서만 필요해지는 **조건부** 경로 = Motivation의 state-dependent gain 성분.
 - [[concept-transcranial-electrical-stimulation]] · [[concept-temporal-interference-stimulation]] · [[concept-deep-brain-stimulation]] — 주파수별 부호 역전(5 Hz↑ / 20 Hz·연속↓)이 비침습·침습 신경조절 설계에 주는 제약.
 - [[talakoub-2017-lateral-hypothalamic-activity-indicates]] — 인간 LHA 주파수 서명. ⚠️ 내재 리듬(beta)과 외부 자극 유효 대역(5 Hz)을 구분해 읽을 것.
+- ⚠️ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **시간척도가 반대**: 본 논문은 사회 패배 **이후**의 기호식 과식, 그쪽은 학습된 위협 **당시**의 섭취 중단(ARC POMC→PVN CRH→HPA). "스트레스 → 과식"을 쓸 때 위협기/회복기를 분리할 근거.
 - [[person-choi-hyung-jin]] — 사용자 lab hub.

@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 538 (+ index.md, log.md)
+- 총 페이지: 539 (+ index.md, log.md)
 - 마지막 갱신: 2026-10-28
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -148,6 +148,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ★ 마우스 **LepR 시상하부 뉴런 39아형** 지도(snRNA+snATAC multiome). AgRP=**Sst형/Acvr1c형**, POMC=**Glipr1형/Prdm12형**, Lepr×Glp1r=**Bnc2/Nkx2-4/Glp1r의 Ebf1(DMH)·Trh·Tbx19(ARC) 3형제**. 아형별 cis-조절요소를 인간 비만 GWAS/eQTL/HuGE와 교차 (bioRxiv 2025). _(방법론은 🧪에도)_ · 🔑 OCR, BETA, LD, Lepr^Glp1r, T2D, LepRb
 - [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — ★ **DIO에서 LepR 신호가 증가하는 시상하부 뉴런은 ventral DMH–caudal ARC의 Lepr/Glp1r 집단 하나뿐**(pSTAT3⁺의 60%↑); 이 집단만 Lepr 삭제 시 HFD 초기 과식 미정상화·체중↑, 단식·ghrelin 과식 반응 복원, ARC microglia 감소 → '렙틴 저항' = 천장 효과 + 단일 회로 동원 (EMBO J 2026, Pers·Myers lab). · 🔑 pSTAT3, LGS, Xenium, LeprGlp1rKO, IBA1, Socs3
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP)의 전뇌 입력·출력 지도**. POMC 입력 **52영역**·수렴비 ~49 vs AgRP **35영역**(POMC의 부분집합)·~21 → **AgRP 전용 입력원 없음**, 유일한 AgRP 우세는 **SO**. NTS POMC는 입력 ~80%가 뇌교·연수+소뇌로 **ARC POMC와 별개 회로**. 주요 입력원은 거의 모두 **상호 연결**이고, **12개 핵이 세 갈래 공통 상류**. 통상 추적이 놓친 subiculum·ZI 검출 vs SCN 미표지 (Front Neuroanat 2015, Luo·Zhan lab). _(방법론은 🧪에도)_ · 🔑 MPO, AAV-DIO, DM, PSTh, EGFP-TVA, PVN
+- ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **에너지 상태가 아니라 "학습된 위협"이 ARC POMC를 모집한다**: 굶긴 쥐가 공포 톤을 만나면 POMC c-fos↑(부동시간·섭식 지연과 상관), **hM4Di 억제는 섭식 지연과 freezing을 함께** 낮춘다(n=5/군). 하류는 **PVN CRH→HPA**(Crh⁺의 **90%** c-fos, 비조건화 30%; r²=0.44·CORT↑), 전달물질은 glutamate가 아니라 **α-MSH**(POMC-vGlut2-KO **무표현형**, 조건화 효과 p<0.0001·유전형 무관). **POMC의 CB1R**이 gate 크기를 정해 결손 시 위협에도 먹는 쪽으로 기울고 ACTH·CORT↓ — ⚠️ **수컷 한정**, 체중·섭취·공포학습·기저 HPA는 **정상**이라 cannabinoid hyperphagia 축과 해리. ⚠️ **POMC→CRH 직접 연결·α-MSH 방출·MC4R 관여는 모두 미검증**(저자 명시) (Adv Sci 2026, Bordeaux Cota·Marsicano lab). [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]의 **반대 팔** · _(🍽️ food safety alarm·💡 eCB와도)_ · 🔑 fear-feeding trade-off, POMC-CB1-KO, POMC-vGlut2-KO, CRH, HPA, α-MSH
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH 종합 (EMM 2025, 사용자 lab). · 🔑 GABAergic, amLH, Vglut2, alLH, pmLH, MCH
 - [[chen-2025-the-integrated-function-of-the]] — LHA 세포타입(>30 subtype)·에너지 항상성 종합 리뷰: Vgat("engine")/Vglut2("brake")/orexin·MCH·LHA^Lepr(social)·LHA^Nts(thirst) 프레임 (Cells 2025, Peking U. 레퍼런스). · 🔑 LHA^Vgat, LHA^Vglut2, HFD, Pax6, Slc17a6, BAT
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 음식 **맛(taste)이 bout마다 AgRP를 일시 억제**(post-ingestive와 독립)→satiation 앞당김; 상류 **DMH^LepR이 sweet/fat 맛에 동조**(AgRP 거울상)·맛+영양 통합; Garfield 2016의 taste·meal-termination 버전 (Neuron 2024, Knight lab).

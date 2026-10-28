@@ -2,7 +2,7 @@
 title: "CeA GLP-1R 뉴런의 역할 — Food safety alarm과 GLP-1RA 약리의 hijack"
 type: overview
 created: 2026-07-04
-updated: 2026-09-19
+updated: 2026-10-28
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -165,3 +165,4 @@ updated: 2026-09-19
 - [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 예측적 내수용 상태추정(섭취 결과 시뮬레이션).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 인간 유전 근거: GLP-1RA 효능과 오심·구토가 같은 `GLP1R` 좌위에 co-localize(오심 H4 96.6%·구토 88.5%, 같은 신호 사후확률 72.6%) → 본 페이지의 '경보 출력 분리' 전망에 대한 인간 수준 제약. 반면 `GIPR` p.Glu354Gln은 tirzepatide 구토만 좌우하고 효능엔 무영향 → 분리 가능성의 단서도 함께 제공 (Nature 2026).
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — **해리 반대 증거**: 5중작용제가 lean 마우스에서 CTA는 유발하되 체중은 안 줄임(혐오 ≠ 체중감소 기전), Vglut2-Glp1r KO에서 CTA 소실 (Nature 2026).
+- ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **"위험이 보상을 이긴다"의 시상하부 층위**: 본 페이지의 경보 논리가 [[jin-2021-top-down-control-of-sweet|Jin 2021]]처럼 **감각 관문**(미각피질→CeA→rNST)에서 구현된다면, 그쪽은 **학습된 위협 × 에너지 결핍**이라는 상위 동기 저울을 **ARC POMC→PVN CRH→HPA**가 구현한다(POMC hM4Di → 섭식 지연·freezing 동시 감소). 두 층위를 한 그림에 넣을 때 **감각 관문 / 동기 저울**로 구분할 것. 경보의 "출력 분리" 질문도 여기서 반복된다 — 그쪽에서는 섭식 억제와 방어 반응이 **분리되지 않았다** (Adv Sci 2026).

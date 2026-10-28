@@ -119,3 +119,4 @@ ScRNA-seq (Campbell 2017, Lam 2017, Steuernagel 2022):
 - [[proposal-pomc-endorphin-food-pleasure]] — 본 paper의 β-endorphin paradox(Minère 2025)를 사용자 lab 연구계획서로 전환(쾌락 vs 식욕 인과 분리).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-quarta-carmelo]] · Daniela Cota — 저자.
+- [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — 같은 Bordeaux 그룹(공저자 Jouque·Quarta, 책임저자 Cota·Marsicano)의 실험 논문. 본 리뷰의 heterogeneity mosaic에 **"맥락별 모집"** 축을 더한다 — 에너지 상태가 아니라 **학습된 위협**이 POMC를 켜고, 그 출력은 α-MSH→PVN CRH→HPA이며 **CB1R-POMC**가 크기를 정한다(⚠️ 수컷 한정, 체중·섭취는 정상) (Adv Sci 2026).
