@@ -2,8 +2,10 @@
 title: Endocannabinoids facilitate reward engagement through retrograde gain control (Marcus 2026)
 type: paper
 created: 2026-09-03
-updated: 2026-10-11
+updated: 2026-10-28
 source: raw/2026 Nature. Endocannabinoids facilitate reward engagement through retrograde gain control.pdf
+source_dup: "raw/Endocannabinoids facilitate reward engagement through retrograde gain control.pdf"  # md5 동일 사본(위 source와 바이트 일치, 36쪽). 2026-10-28 등록
+source_alt: "raw/2026 Nature. Endocannabinoids facilitate reward engagement through retrograde gain control (2).pdf"  # 같은 논문·같은 36쪽이나 md5 다른 별개 파일(27.13MB vs 27.35MB). 2026-10-28 등록
 authors: [David J. Marcus, Anthony E. English, Gunn Chun, Emmaline F. Seth, Rachel Oommen, Sabrina Hwang, Bailey A. Wells, Sean C. Piantadosi, Azra Suko, Sayaka J. Kenmochi, Anupritaa A. Parasnis, Ethan Ancell, Yulong Li, Larry S. Zweifel, Benjamin B. Land, Nephi Stella, Michael R. Bruchas]
 year: 2026
 journal: Nature

@@ -4,6 +4,7 @@ type: paper
 created: 2026-07-31
 updated: 2026-10-28
 source: "raw/2026 Neuron. A cortical-hypothalamic neural circuit for compulsive eating in mice.pdf"
+source_alt: "raw/2026 Neuron (Yu Fu) A cortical-hypothalamic neural circuit for compulsive eating in mice.pdf"  # 같은 논문(같은 DOI)의 23쪽 판. 본문은 33쪽 판 기준. 2026-10-28 등록
 authors: [Yi Ning Leow, Esra Senol, Xing Qian, Xiaoyu Wang, Aditya Nair, Ti-fei Yuan, Juan Helen Zhou, Hasan Mohammad, Yu Fu]
 year: 2026
 ---

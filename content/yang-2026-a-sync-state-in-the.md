@@ -2,9 +2,10 @@
 title: "중뇌 도파민 네트워크의 'sync state'와 내수용 영양 학습 (Yang 2026)"
 type: paper
 created: 2026-07-28
-updated: 2026-10-11
+updated: 2026-10-28
 source: "raw/2026 Neuron. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
 source_alias: "raw/2026 Cell. A sync state in the midbrain dopamine network for interoceptive nutrient learning.pdf"
+source_dup: "raw/2026 Cell. A sync state in the midbrain dopamine network for interoceptive nutrient learning 1.pdf"  # md5 동일 사본(위 source_alias와 바이트 일치, 58쪽). 2026-10-28 등록
 journal: Neuron
 doi: 10.1016/j.neuron.2026.07.002
 authors: [Xiao Yang, Weijie Yan, Weixuan Lu, Ruijie Wang, Rong Gong]

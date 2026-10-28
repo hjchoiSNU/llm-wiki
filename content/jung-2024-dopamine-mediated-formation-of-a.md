@@ -2,8 +2,9 @@
 title: "Jung et al. 2024 — NAc의 도파민 매개 'memory module'과 목표지향 항법"
 type: paper
 created: 2026-06-02
-updated: 2026-09-21
+updated: 2026-10-28
 source: raw/2024 Nature Neuroscience. Dopamine-mediated formation of a memory module in the nucleus accumbens for goal-directed navigation.pdf
+source_dup: "raw/Dopamine-mediated formation of a memory module in the nucleus accumbens for goal-directed navigation (1).pdf"  # md5 동일 사본(위 source와 바이트 일치, 39쪽). 2026-10-28 등록
 authors: [Kanghoon Jung, Sarah Krüssel, Sooyeon Yoo, Rui M. Costa, Hyung-Bae Kwon]
 year: 2024
 ---
