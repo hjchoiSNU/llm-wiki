@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-10-29 — query (CaMKIIα와 AMPAR의 시냅스 가소성 역할)
+위키 내 답변(웹 미사용). AMPAR 축은 1차 자료로 답함 — [[linders-2022-stress-driven-potentiation-of-lateral]](GluA1·rectification↑), [[concept-drug-evoked-synaptic-plasticity]](CP-AMPAR), [[concept-lateral-habenula]](GluA1 삽입), [[padamsey-2022-neocortex-saves-energy-by]](AMPAR conductance↓), [[concept-agrp-synaptic-plasticity]](빈도↑·진폭 불변). CaMKII의 키나아제 기전(자가인산화·AMPAR 인산화/트래피킹)은 **자료 없음** — raw에 Herring & Nicoll 2016 등 원문 없음; [[concept-agrp-synaptic-plasticity]]의 CaMKII↔CaMKK2 인용 불일치와 [[concept-lh-camkii-neurons]]의 "마커≠기능" 구분을 함께 안내. 페이지 변경 없음.
+
 ## 2026-10-28 — other (raw 중복 파일 source_dup/source_alt 정리 + diff 방법 교정)
 사용자 요청으로 `source:` 미참조로 남아 있던 중복 PDF를 각 페이지 frontmatter에 등록하고, 그 과정에서 **내 전수 대조 방법 자체의 오류 두 개**를 찾아 고쳤다.
 - **실제로 비어 있던 5편에 키 추가**(md5·쪽수 대조 후 판정): `source_dup:`(md5 동일 사본) → [[yang-2026-a-sync-state-in-the]]("…learning 1.pdf", source_alias 사본과 바이트 일치·58쪽) · [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]]("Endocannabinoids…control.pdf", source와 바이트 일치·36쪽) · [[jung-2024-dopamine-mediated-formation-of-a]]("…navigation (1).pdf", source와 바이트 일치·39쪽). `source_alt:`(같은 논문·다른 파일) → [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]]("…control (2).pdf", 같은 36쪽이나 md5 다름·27.13 vs 27.35 MB) · [[leow-2026-a-cortical-hypothalamic-neural]]("2026 Neuron (Yu Fu)…mice.pdf", **23쪽 판** / 본문은 33쪽 판 기준).
