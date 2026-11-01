@@ -73,3 +73,4 @@ updated: 2026-11-01
 - [[concept-dopamine-reward-system]] — 보상·동기 hub.
 - [[concept-habit]] — 목표지향 vs 습관 통제의 정의·측정·회로 hub; '습관적 목표 선택 + 목표지향 실행'의 교차 조합을 반영.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — MVT의 stay/leave를 RL에 넣은 AQUA 모델: 시간·보상률 추정 없이 고갈형 patch에서 MVT 같은 행동을 재현(Neuron 2026).
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **노력 후 가치 상승(effort paradox)의 신경 기전 후보**: 더 일해 얻은 보상일수록 NAc 도파민이 크고, 그 증폭을 막으면 고노력 지속이 줄었다. 원문은 이를 목표 몰입과 연결하지 않는다(연결 해석).

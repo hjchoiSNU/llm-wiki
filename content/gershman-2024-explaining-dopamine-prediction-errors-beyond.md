@@ -192,3 +192,4 @@ Cortex (state, world model)
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — "Perceived saliency (Kutlu 2021)" 절의 출처급 요약(강도·새로움 → 주의 가치). 이 dispatch에는 omission·latent inhibition 서술이 없다.
 - [[concept-reward-prediction-error]] — 일반화 RPE가 흡수하지 못한 perceived saliency·ANCCR를 같은 판별표에 정리.
 - [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 위 "3. Adaptive learning rate (Coddington 2023)" 도전의 후속 1차 자료(Dudman lab 2026): 다선택지 foraging에서 NAcC DA = 전역 감쇠 학습률(dropout에서 α > RPE), 보상 크기가 학습 효율을 정함.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 리뷰를 인용하며(ref 26) 세포체–말단 해리를 노력 맥락에서 보인 실험 논문: NAc 노력 증폭은 VTA 독립이고 국소 ACh–nAChR 의존(Nature 2026).

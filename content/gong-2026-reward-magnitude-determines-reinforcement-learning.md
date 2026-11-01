@@ -137,3 +137,4 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — ref 37로 인용(DA와 work·자기 개시 잠복기). 본 논문의 광자극도 다음 시행 개시 잠복기를 줄였다.
 - [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 측정 부위(NAc core)와 상위 hub.
 - [[concept-digital-therapeutics]] — 보상 스케줄 설계로의 이식 가설(위 함의 절).
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 논문이 '도파민 밖 RL' 후보로 든 ACh가 NAc에서는 **도파민 방출 자체를 노력에 따라 증폭**한다(보상 크기에는 무반응). 큰 보상 모사 자극의 실제 방출량이 과제 노력에 따라 달라질 가능성(연결 해석).

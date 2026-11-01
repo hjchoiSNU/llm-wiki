@@ -2,7 +2,7 @@
 title: "Stephan Lammel"
 type: person
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-11-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -25,3 +25,4 @@ UC Berkeley(Department of Neuroscience · Helen Wills Neuroscience Institute)의
 - [[concept-neurotensin]] · [[concept-hedonic-devaluation]] — 이 라인이 기여한 개념 축.
 - [[person-soden-marta]] — 같은 neurotensin 회로를 **LH 기원**에서 접근(출처가 다르면 방향도 반대).
 - [[person-knight-zachary]] — 시상하부·중뇌 dynamics를 세포타입 해상도로 다루는 인접 라인.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 세포체–말단 해리 논쟁에서 반대편으로 인용된 de Jong 2024(Lammel lab, *Nat Neurosci*; 위키에 원전 없음).

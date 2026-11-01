@@ -2,7 +2,7 @@
 title: "Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior (Gordon et al. 2026, Neuron)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-11-01
 source: "raw/2026 Neuron (Stuber) Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior.pdf"
 source_alt: "raw/2026 Neuron. Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior.pdf"  # 같은 논문(같은 DOI)의 30쪽 판, 2026-10-25 추가. 본문은 48쪽 판 기준
 authors: [Adam G. Gordon, Barbara M. Benowitz, Joumana M. Barbakh, Isabella Montequin, Anthony Campuzano, Hannah P. Stevenson, Pei-Yun Lu, Madelyn M. Hjort, Ethan Ancell, Madalyn Critz, Daniela Witten, Garret D. Stuber]
@@ -209,3 +209,4 @@ journal: "Neuron 115:1–20 (in press 2026; 호 날짜 2027-03-03; 접수 2025-0
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — ⚠️ 이미 본문에서 "ref 1: Zhu 2025"로 언급 중 — **위키 내부 링크로 승격**. 선조체 말단 DA 자극은 bout 수만 늘리고 길이는 안 늘린다는 반대 결과.
 - [[overview-dopamine-roles-by-striatal-region]] — 본 논문의 subregion별 OR·GLM 결과를 다른 도파민 문헌(RPE·ANCCR·cue value)과 함께 subregion × 역할 표로 재배치.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 국소 조절의 **수용체 기전** 쪽 근거: NAc core 도파민 방출이 ChI–nAChR로 VTA 발화 이상으로 증폭된다(고노력 보상).

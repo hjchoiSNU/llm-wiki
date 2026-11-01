@@ -83,6 +83,7 @@ journal: "Nature 570:65–70"
 
 ### NAc 국소 조절 메커니즘 후보
 - **Cholinergic interneuron** → α7/β2 nicotinic receptor → DA release (Threlfell 2012, Cachope 2012).
+  - (2026-11-01) [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]]이 이 후보를 생체에서 인과로 확인했다. 단 조건은 **고노력 보상의 보상 시점 transient**이고, 수용체는 **α4/α6 함유 nAChR**(DHβE)로 특정됐다. 이 논문의 보상률 ramp를 ChI가 만드는지는 위키에 자료가 없다.
 - **Basolateral amygdala** → NAc DA release (Floresco 1998, Jones 2010 — VTA 차단해도 BLA 자극으로 release).
 - VTA non-DA neuron firing이 ramp — 국소 입력 후보.
 - 국소성 한계: 측정 해상도 100 µm — 더 작은 scale 에서 더 분산 가능.
@@ -139,3 +140,4 @@ journal: "Nature 570:65–70"
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **전제 약화**: 본 페이지의 'local control(ChI→nAChR→DA 방출)은 VTA 발화 비의존' 규정에 대해, 그 ChI를 **VTA DA-GLU 버스트가 글루타메이트로 구동**한다고 본다. 본 연구의 optotagging 대상(외측 VTA DA)은 Mingote 지도상 medial shell을 회피하는 **DA-only** 집단. 'NAc shell=reward rate 무상관'도 shell이 추적하는 변수가 **유관성 변화·alerting salience**라면 회귀변수 불일치일 수 있음.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 이 논문의 발화–방출 해리를 "non-RPE cue에 대해 방출하는 미지의 도파민 아집단" 가능성으로 해석한 dispatch(본 페이지의 국소 조절 해석과 대비).
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — Coddington 2023이 이 논문(Mohebi 2019)을 "DA 의존적 cue 동기 가치 부여"의 예로 인용한다(ref 48). Coddington은 그 기능이 생리 범위 phasic DA의 **정책 학습률** 기능과 같은 중변연계 안에서 부분적으로 해리된다고 주장한다.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 논문이 지목한 local control 후보(ChI → nAChR)의 **생체 인과 검증**: 고노력 보상에서 NAc 도파민 증폭은 VTA 억제에 무관하고 NAc ACh 차단에 사라지며, 노력 행동을 유지한다. 다만 신호는 보상률 ramp가 아니라 **보상 시점 transient의 노력 의존 증폭**이다(Nature 2026; Eshel·Malenka lab, ref 28로 이 논문 인용).

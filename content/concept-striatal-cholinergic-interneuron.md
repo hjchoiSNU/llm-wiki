@@ -2,13 +2,14 @@
 title: 선조체 콜린성 개재뉴런 (Striatal / NAc cholinergic interneuron, ChI)
 type: concept
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-11-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
 > 선조체·NAc의 **콜린성 개재뉴런(ChI)** 은 전체 뉴런의 1–3%에 불과하지만, **도파민 말단의 전시냅스 nAChR를 직접 쥐고 있어 "VTA가 발화하지 않아도 도파민을 방출시킬 수 있는" 국소 스위치**다. 사용자 연구에서 이 페이지가 중요한 이유 세 가지.
 > ① [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]]가 **동기(motivation)** 를 VTA 발화가 아닌 **국소 제어**에 배정했을 때 지목한 후보가 바로 ChI다 — [[concept-need-motivation-pleasure-utility|NMPU]]의 Motivation 축을 세포 수준에서 붙잡을 수 있는 지점.
 > ② [[mingote-2019-dopamine-glutamate-neuron-projections-to|Mingote 2019]]는 그 ChI가 **VTA DA-GLU 뉴런의 최강 흥분 표적**임을 보여, 국소 스위치에 **상류 구동자**를 달아 준다 — "local"이 반드시 "VTA 독립"은 아닐 수 있다.
+> ②-1 [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]]은 이 스위치가 **행동 중 실제로 켜지는 조건**을 처음 보였다: **고노력 보상**. NAc ChI의 ACh가 보상 직후 도파민 축삭의 α4/α6 nAChR를 눌러 방출을 키우고, VTA를 꺼도 이 증폭은 남는다. ACh는 노력만 싣고 보상 크기는 싣지 않는다.
 > ③ ChI 동기화 → SPN 순 억제 → **NAc shell 하류 탈억제**는 [[concept-lateral-hypothalamus|LH]] 섭식 게이팅과 같은 축이라, **섭식 개시·중단의 스위치를 개재뉴런 층위에서 노릴** 가능성을 연다.
 > ⚠️ 주의: 이 페이지는 **선조체 국소 ChI**를 다룬다. 기저전뇌(SI/NBM)에서 피질·편도로 가는 **투사** 콜린성 뉴런은 세포군도 수용체 논리도 다르며 [[concept-basal-forebrain-cholinergic]]에 있다.
 
@@ -39,6 +40,17 @@ updated: 2026-09-21
 - ChI의 동기 버스트는 **도파민 말단의 전시냅스 nAChR(α7/β2)** 를 자극해 **도파민 방출을 직접 증가**시킨다(Threlfell 2012; Cachope 2012). 이것이 [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]]·[[rice-2019-closing-in-on-what-motivates|Rice 2019]]가 **"broadcast burst = 학습 / local control = 동기"** 이분법에서 local control의 후보 기전으로 지목한 경로다.
 - **부위 특이성**: NAc core·배측 선조체에서는 nAChR **탈감작** 때문에 자극 빈도가 올라가도 도파민 방출이 합산되지 않는다. 반면 **NAc shell은 아세틸콜린에스테라아제 활성이 높아 탈감작이 덜해**(Shin 2017) **빈도 의존적 도파민 증가**가 가능하다 → shell에서만 **양성 되먹임 고리**(DA-GLU 버스트 → ChI 동기화 → nAChR → 도파민 방출↑)가 성립할 조건.
 
+### 행동 중 작동 — 고노력 보상의 도파민 증폭 (Touponse 2026)
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]](Nature, Eshel·Malenka lab): FR1→FR46 nose poke 과제에서 **NAc core** 보상 도파민이 들인 노력을 따라 커진다. 같은 NAc 도파민 축삭 광자극을 보상으로 써도 마찬가지다.
+  - **NAc GRAB_ACh와 ChI 칼슘**: 보상 직전 ramp 뒤 **삼상 파형**(1차 peak 0.25–0.75 s → dip 0.75–1.25 s → 2차 peak 1–2.5 s)이 나오고, 모든 성분이 노력을 따른다. 위 burst–pause와 같은 계열의 반응이다. 설탕 농도(5% vs 32%)에는 거의 반응하지 않는다 → **ACh = 노력만, DA = 크기 + 노력**.
+  - ACh peak가 DA peak보다 **약 400 ms 먼저** 온다.
+  - **인과**: NAc DHβE, ChAT 뉴런 TetTox, 보상 후 4 s NpHR 억제가 모두 **고FR 도파민만** 줄이고 FR1 도파민은 그대로 뒀다. 양측 DHβE는 고FR(FR10·21)에서만 보상 획득을 줄였다.
+  - **VTA 독립**: 광자극 보상 과제에서 VTA muscimol·세포체 표적 stGtACR2는 노력 증폭을 줄이지 못했다.
+  - **절편**: NAc에서 ChI 광자극이 도파민 축삭에 EPSP·활동전위를 만들고 DHβE가 막았다. 이전에는 배측 선조체에서만 보고된 현상이다.
+- **수용체 표기**: 이 논문은 도파민 말단 nAChR를 **α4·α6 함유**로 특정한다(DHβE, Chrna4·Chrna6 scRNA). 위 "출력 1"의 α7/β2 표기는 Mingote·Mohebi 페이지가 인용한 Threlfell 2012·Cachope 2012 경유 서술이다.
+- **부위 단서와의 관계**: 위 "출력 1"은 core에서 nAChR 탈감작 때문에 **빈도 합산**이 안 된다고 적는다. Touponse의 core 결과는 반복 자극의 합산이 아니라 **보상 순간 단발 증폭**이라 조건이 다르다.
+- **입력 후보**(저자 추측): 1차 peak = 노력 상태를 추적하는 피질·시상 글루탐산 입력, dip = ChI D2 수용체를 통한 도파민 또는 VTA GABA 입력(Brown 2012·Al-Hasani 2021), 2차 peak = 반동 또는 두 번째 흥분 입력. VTA 전체 muscimol이 노력 증폭을 없애지 못했으므로, 이 과제에서는 [[mingote-2019-dopamine-glutamate-neuron-projections-to|Mingote 2019]]의 DA-GLU 구동이 필수는 아닌 것으로 보인다.
+
 ### 출력 2 — SPN의 이연접 억제
 - ChI의 동기 활성은 SPN에 **직접 억제가 아니라 이연접(disynaptic) 억제**를 만든다 — 전시냅스 nAChR를 통해 **GABA 개재뉴런과 GABA 방출성 도파민 말단**을 동원한 뒤 SPN의 **GABA_A** 수용체를 활성화하는 경로.
 - NAc medial shell에서 ChI 광활성은 ***in vivo*에서 기록된 SPN의 81%를 억제**하며, 이 효과는 **mecamylamine으로 차단**된다 → nAChR 매개(Witten 2010).
@@ -59,6 +71,7 @@ updated: 2026-09-21
 
 ## 관련 페이지
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ChI가 VTA DA-GLU의 최강 표적임을 보이고 burst–pause·nAChR 캐스케이드를 제시한 1차 근거.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — ★ ChI → α4/α6 nAChR → 도파민 증폭이 **고노력 보상에서 생체로 작동**하고 노력 행동을 유지함(VTA 독립, ACh = 노력만 부호화).
 - [[concept-nucleus-accumbens]] — ChI가 놓인 구조물; medial shell 국소회로.
 - [[concept-medium-spiny-neuron]] — ChI 캐스케이드의 최종 표적(순 억제되는 출력 세포).
 - [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[rice-2019-closing-in-on-what-motivates]] — ChI→nAChR→도파민 방출을 'local control = 동기'의 후보 기전으로 지목.

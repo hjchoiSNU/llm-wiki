@@ -57,6 +57,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - **가치(state value)**: [[hamid-2016-mesolimbic-dopamine-signals-value-work|Hamid 2016]] — NAc 도파민 = 시간 할인된 미래 보상(V); 절댓값은 동기, 급격한 변화는 RPE.
 - **발화와 방출의 분리**: [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]]·[[rice-2019-closing-in-on-what-motivates|Rice 2019]] — VTA 발화 = 학습 신호(RPE), NAc 방출 = 학습 + 동기(V); 동기 신호는 발화 없이 국소적으로 생긴다.
 - **노력·활성화**: [[salamone-2012-mysterious-motivational-functions-mesolimbic|Salamone 2012]] — NAc 도파민 = 노력 발휘·행동 활성화·비용편익 결정. 강웅구 2011의 노력 선택 실험(D2 차단 쥐는 레버를 눌러 얻는 설탕 대신 쉬운 사료를 먹지만, 둘 다 노력 없이 주면 설탕을 고른다)은 도파민 차단이 쾌감이 아니라 노력해서 얻으려는 동기를 줄인다는 근거(→ [[concept-effort-based-decision-making]]).
+- **들인 노력의 국소 증폭**: [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]] — 같은 보상(또는 같은 축삭 광자극)도 더 많이 일해 얻으면 NAc core 보상 도파민이 커진다. NAc ChI의 ACh가 도파민 축삭 α4/α6 nAChR를 거쳐 만든 추가분이고, ACh는 보상 크기(설탕 농도)에는 반응하지 않는다. 노력이 비용으로 빠지는 것이 아니라 **보상 신호에 더해지는** 방향이다.
 - **시간척도**: Schultz 2016 Box 1 — 초 이하 = 두 성분 PE, 초–분 = 행동 활성화·스트레스·주의·보상·처벌·운동(**RPE와 무관할 수 있음**), tonic = 운동·인지·주의·동기(PD·ADHD·조현병 결함). Salamone의 "다른 시간척도로 양립" 해석과 정합.
 - **cue 도파민 = 주관적 가치**: [[pascoli-2026-conditioned-accumbal-dopamine-transients|Pascoli 2026]] — cue 유발 NAc 도파민이 객관적 보상 크기가 아니라 주관적 가치를 반영.
 
@@ -73,7 +74,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 | 생리 상태의 급변(나트륨 결핍), 새 학습 전 | 예측 기반 이론으로는 설명 못함(Berridge 2023의 논증) | — | — | — | 혐오로 학습된 소금 CS를 **즉시 원함** |
 
 ### 6. 측정 수준과 시간창이 해석을 바꾼다
-- **체세포 발화 vs 말단 방출**: RPE 모형 대부분은 활동전위에 기반하는데 말단 방출과의 관계는 비선형이다(Chen & Bruchas). 발화–방출 해리를 위키의 Mohebi·Rice 페이지는 **NAc 국소 조절**로, dispatch는 **미지의 도파민 아집단** 가능성으로 읽는다. Schultz 2016도 acetylcholine·glutamate·substance P와 striosome–matrix 구획이 방출을 불균질하게 만든다고 적는다(→ [[concept-striatal-cholinergic-interneuron]]).
+- **체세포 발화 vs 말단 방출**: RPE 모형 대부분은 활동전위에 기반하는데 말단 방출과의 관계는 비선형이다(Chen & Bruchas). 발화–방출 해리를 위키의 Mohebi·Rice 페이지는 **NAc 국소 조절**로, dispatch는 **미지의 도파민 아집단** 가능성으로 읽는다. Schultz 2016도 acetylcholine·glutamate·substance P와 striosome–matrix 구획이 방출을 불균질하게 만든다고 적는다(→ [[concept-striatal-cholinergic-interneuron]]). [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]]은 이 해리를 생체에서 인과로 보였다. 삼중 기록에서 VTA 세포체 칼슘은 낮은 FR에서 포화했지만 NAc 축삭 칼슘과 방출은 계속 올랐다. VTA muscimol·세포체 광억제는 노력 증폭을 줄이지 못했고 NAc nAChR 차단은 없앴다(인과 근거는 광자극 보상 과제에서만).
 - **시간창**: Schultz의 두 성분 메커니즘은 10 ms 단위의 정밀 처리를 요구하고(p.190), 초기 성분이 주는 이득은 수십 ms의 시간 이득이다(p.187). dispatch는 이 시간 차가 너무 작아 **in vivo 검증이 어렵다**고 보지만, Schultz는 쥐 **NAc voltammetry**에서도 초기 비구별 성분과 후속 가치 성분을 제시한다(Fig. 2d). fiber photometry로 두 성분을 가를 수 있는지는 위키 원전에 없다(자료 없음).
 - **아구역**: 혐오 자극에서 **NAc shell은 지연된 자극 후 방출**(relief, 회피 성공 예측), **core는 즉각적 변화**(물리적 충격·일반화·맥락 가능); risky cue에 core는 차별적, shell은 비차별적(Schultz 2016). core와 shell은 반대 기능이나 다른 방출 타이밍을 가질 수 있다(Chen & Bruchas). 더 넓은 축은 [[concept-striatal-dopamine-gradient]](전방·복측 = 가치·이력 / 후방 = 감각운동 / TS = 위협 평행 채널) — "NAc 도파민"은 core/shell과 시간창을 붙여야 정보가 된다(→ [[concept-nucleus-accumbens]]).
 - **valence가 반대로 보이는 사례**: [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]의 **VTA 도파민 체세포 칼슘**은 quinine을 섞은 Ensure 섭취 중 **감소**하고 부정적 쾌락 대비에서 음성이다(가치 방향). Kutlu(dispatch)의 **NAc core 방출**은 quinine 양을 따라 **증가**한다(강도 방향). 측정 수준과 과제(섞은 먹이 vs 단독 자극)가 다르므로 직접 모순이라고 할 수는 없다.
@@ -127,3 +128,4 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - [[concept-effort-based-decision-making]] — 노력 기반 의사결정 hub.
 - [[overview-dopamine-roles-by-striatal-region]] — RPE 신호의 subregion별 근거 강도(VTA 발화 직접, NAc는 모양만, NAc>VTA>DMS)와 ANCCR 판별 조건을 한 표에 정리.
 - [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 네 번째 해석 축: 도파민 = δ가 아니라 α(학습률). 판별 조건은 학습 초기·다선택지·보상 크기(§3-1).
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 노력 축의 국소 기전과 발화–방출 해리(§4·§6).

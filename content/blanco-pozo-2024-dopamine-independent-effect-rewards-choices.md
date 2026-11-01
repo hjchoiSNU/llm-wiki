@@ -2,7 +2,7 @@
 title: "Dopamine-independent effect of rewards on choices through hidden-state inference"
 type: paper
 created: 2026-04-30
-updated: 2026-10-03
+updated: 2026-11-01
 source: "raw/2024 Nature Neuroscience. Dopamine-independent effect of rewards on choices through hidden-state inference (1).pdf"
 authors: [Blanco-Pozo M, Akam T, Walton ME]
 year: 2024
@@ -171,3 +171,4 @@ VTA cell body GCaMP, NAc·DMS axon GCaMP, NAc·DMS dLight (DA release).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue·habit·addiction 의 cortex vs DA 분리.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 도파민 뉴런의 행동 효과가 **도파민이 아닌 공방출 글루타메이트**로 운반될 수 있다는 또 다른 '도파민 비의존' 경로(광유발 EPSC가 CNQX로 차단; VGLUT2 결손 시 후시냅스 효과 소실).
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 광도측정 커널 회귀(선형 혼합효과) 방법의 인용 출처로 이 논문을 든다(ref 70).

@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 544 (+ index.md, log.md)
+- 총 페이지: 545 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-01
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -508,7 +508,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-prefrontal-cortex-feeding]] — ★ **PFC는 섭식에서 brake와 drive 양방향**이고 부호를 정하는 것은 활성 수준이 아니라 **출력 경로**다: mPFC→rZI(강박 구동)·mPFC→VTA(학습 gain)·mPFC→LHA^VGLUT2(스트레스 과식) vs PFC→LH^LepR(불안 brake)·vmPFC→NAc shell(충동 brake)·OFC→DST(강박). 출력 경로별 부호 표 + LHA 연결성(하행·상행·beta 주파수) + tES 접점("비만=dlPFC 저활성" 모델이 제어 실패 국면에만 맞는 문제, 하향 조절 필요군). [[concept-orbitofrontal-cortex|OFC]]와는 ORBm만 겹침 · 🔑 mPFC, dlPFC, DLPFC, vmPFC, dmPFC, prelimbic, infralimbic, ACC, top-down · _(⚡ 신경조절·🧩 인지행동과도)_
 - [[concept-ventral-pallidum]] · [[concept-basal-forebrain-cholinergic]] · 🔑 VP, 복측 창백핵, ventral pallidal, VP^GABA, taCasp3
 - [[concept-orexin-neurons]] · [[concept-medium-spiny-neuron]] · 🔑 OX, MCH, pSTAT3, OX1R, LepRb, LHA
-- [[concept-striatal-cholinergic-interneuron]] — 선조체·NAc **국소** ChI(1–3%)가 전시냅스 nAChR로 도파민 방출을 쥐고 SPN을 이연접 억제하는 **게이팅 스위치**. burst(AMPA/SK3)–pause(D2/GIRK). [[concept-basal-forebrain-cholinergic|기저전뇌 투사 콜린성]]과 **구분** · 🔑 DA-GLU, D2R, CHAT, FSI, D1
+- [[concept-striatal-cholinergic-interneuron]] — 선조체·NAc **국소** ChI(1–3%)가 전시냅스 nAChR로 도파민 방출을 쥐고 SPN을 이연접 억제하는 **게이팅 스위치**. burst(AMPA/SK3)–pause(D2/GIRK). [[concept-basal-forebrain-cholinergic|기저전뇌 투사 콜린성]]과 **구분**. 고노력 보상에서 생체 작동([[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]]) · 🔑 DA-GLU, D2R, CHAT, FSI, D1
 - [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]] · [[concept-npy-nucleus-accumbens]] · 🔑 plCoA, olfactory amygdala, CoA, olfactory aversion, MeA, OB
 - [[concept-lateral-septum]] · [[concept-zona-incerta]] · 🔑 외측중격, 중격, septal area, LS Crhr2, LS^Nts, DLS^Pdyn
 - [[concept-lateral-habenula]] — 혐오·보상누락의 상류 허브(**MRR→LHb→RMTg→VTA DA 억제**). 금단기 무쾌감의 시냅스 좌표(LHb→RMTg GluA1 삽입)이자 negative RPE의 비-도파민 후보 · 🔑 외측 고삐핵, 고삐핵, rostromedial tegmentum, median raphe region, vGluT2, DBS
@@ -704,6 +704,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012). · 🔑 YES, RPE(teaching signal), NO, ANCCR, NMPU
+- ★ [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **같은 보상도 더 많이 일해 얻으면 NAc core 보상 도파민이 커진다**(FR1→46; 같은 축삭 광자극도). 증폭은 VTA 세포체 독립이고 **NAc ChI의 ACh → 도파민 축삭 α4/α6 nAChR**가 만든다. DHβE·TetTox·NpHR로 고노력 DA만↓, 차단 시 고노력 보상 획득만↓. ACh = 노력만, DA = 크기 + 노력 (Nature 2026, Eshel·Malenka lab). _([[concept-striatal-cholinergic-interneuron|ChI]] hub에도)_ · 🔑 effort paradox, GRAB_ACh, ChAT, stGtACR2, muscimol, Chrna4·Chrna6
 
 ### 좋아함(liking) vs 갈망(wanting) — 오피오이드 vs 도파민 (Berridge cluster)
 - [[concept-liking-wanting]] — 보상 이중 해리 개념 hub: ‘좋아함’(오피오이드 핫스폿) vs ‘갈망’(중변연계 도파민). 도파민은 ‘좋아함’에 불필요. · 🔑 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, D2, D1

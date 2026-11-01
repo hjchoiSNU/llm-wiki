@@ -71,7 +71,7 @@ flowchart TB
 | **RPE (학습)** | ● | ◐ (모양은 RPE, 인과 효과 없음) | — | ◐ (NAc>VTA>DMS) | — | ◐ (threat PE) |
 | **ANCCR (회고적 인과)** | — | ● (유일한 검증 subregion) | — | — | — | — |
 | **Cue value (주관적 가치)** | — | ● | ◐ (조건에 따라 부호 반대) | ○ | ○ | ○ |
-| **State value·노력 (V)** | — | ● (Hamid·Mohebi·[[salamone-2012-mysterious-motivational-functions-mesolimbic\|Salamone]]) | — | — | — | — |
+| **State value·노력 (V)** | ◐ (세포체 칼슘도 노력 따라↑, 낮은 FR에서 포화; Touponse 2026) | ● (Hamid·Mohebi·[[salamone-2012-mysterious-motivational-functions-mesolimbic\|Salamone]]·[[touponse-2026-cholinergic-modulation-of-dopamine-release\|Touponse]]: 보상 DA가 들인 노력을 따라 커지고 ChI–nAChR가 증폭) | — | — | — | — |
 | **Vigor: 개시 (bout 수)** | — | ● (NAcCR OR 1.13) | ○ (NAcShM 예측 못 함) | ● (OR 1.27) | ● (OR 1.32) | ○ (OR 1.00) |
 | **Vigor: 유지 (bout 길이)** | ● (Zhu 2025: 늘림) | — | — | ○ (terminal 자극 시 줄어듦) | ○ (terminal 자극 시 줄어듦) | — |
 | **영양·칼로리** | — | ○ (saccharin 쪽이 더 큼) | — | ● | ◐ | — |
@@ -113,3 +113,4 @@ flowchart TB
 - [[zhu-2025-hedonic-eating-is-controlled-by]] · [[yang-2026-a-sync-state-in-the]] — VTA 쪽 소비 bout 연장과 영양 학습 sync state.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — NAc core 도파민의 학습 초기 역할 = 전역 학습률(표 1 아래 2026-11-01 보강). 무경험 foraging의 DMS 도파민은 학습률·RPE 어느 쪽과도 불일치.
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 학습 초기 NAc core 보상 DA는 줄지 않고 cue 반응만 증가했다. 배측 선조체(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3) → 초기 학습기에는 중변연계 신호가 주역.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — NAc core '가치·노력' 칸의 국소 기전(ChI–α4/α6 nAChR)과 VTA 세포체 칼슘의 이른 포화.

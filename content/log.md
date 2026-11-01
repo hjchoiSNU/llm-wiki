@@ -8,6 +8,25 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-01 — ingest (1편, 노력 의존 도파민의 콜린성 국소 기전 — Touponse 2026 Nature)
+같은 날 query에서 "자료 없음"으로 답한 논문을 사용자가 raw에 넣었다. `raw/2026 Nature. Cholinergic modulation of dopamine release drives effortful behaviour.pdf`를 Drive 커넥터로 받아 **본문·Fig 1–5 legend·Methods·Extended Data Fig. 1–11 legend·참고문헌·reporting summary 전부**를 읽었다(웹 미사용). 그림의 시각 정보는 legend 기준으로 정리했다.
+- **[[touponse-2026-cholinergic-modulation-of-dopamine-release]]** — Touponse·Pomrenze 외, Eshel·Malenka lab(Stanford), Nature 선공개판(doi:10.1038/s41586-025-10046-6).
+  - 내림차순 FR 블록(FR46→1) nose poke 과제에서 NAc core 보상 도파민이 **들인 노력을 따라** 커졌다. ITI로 설명되지 않았고, **같은 NAc 축삭 광자극**을 보상으로 줘도 같았다.
+  - VTA 세포체 칼슘은 더 낮은 FR에서 포화했다. VTA muscimol·stGtACR2는 노력 증폭을 줄이지 못했다(인과 근거는 광자극 보상 과제에서만).
+  - 9개 수용체 길항제 중 **DHβE(α4/α6 nAChR)만** 고FR 증폭을 막았다. 절편에서 NAc ChI 광자극이 도파민 축삭에 활동전위를 만들었다.
+  - NAc GRAB_ACh·ChI 칼슘은 ramp + 삼상 파형으로 노력을 따랐고 **설탕 농도에는 무반응**이었다. ACh peak가 DA보다 ~400 ms 먼저 왔다.
+  - TetTox·NpHR(보상 후 4 s)로 고노력 DA만 줄었다. 양측 DHβE는 FR10·21 보상 획득만 줄였다(FR1 세션 무효과, FR21 세션 P=0.0039).
+- **병기한 긴장**: ① Mohebi 2019 local control(보상률 ramp)과 신호 종류가 다름. ② Mingote 2019의 "ChI 구동자 = VTA DA-GLU" vs VTA muscimol 무효과(부위·과제 다름). ③ ChI 페이지의 "core nAChR 탈감작" 서술과 core 생체 증폭(빈도 합산 vs 단발 증폭). ④ nAChR 아단위 표기 α7/β2(위키 기존) vs α4/α6(원문). ⑤ Hamid 2016 미세투석의 "ACh ≠ 보상률"(시간척도 다름). ⑥ ChI의 동기 효과 방향(전환 촉진·cue 동기 대항 vs 노력 유지).
+- **원문 불일치 기록**: Fig 5f FR5 P=0.29에 \*\* 표기(본문은 FR5부터 유의), Fig 2j "P = 64", ED3 범례의 측정 이름 오기. 추출 텍스트의 저자 순서는 author contributions로 복원.
+- **본문 보강**:
+  - [[concept-striatal-cholinergic-interneuron]]: takeaway ②-1, "행동 중 작동 — 고노력" 절 신설(삼상 파형, ACh = 노력만, α4/α6 표기, core 탈감작 서술과의 관계, 입력 후보).
+  - [[concept-effort-based-decision-making]]: 신경 기질에 "들인 노력이 보상 도파민을 키운다" + 전향 비용 vs 회고 가치 구분.
+  - [[concept-reward-prediction-error]] §4(노력의 국소 증폭)·§6(발화–방출 해리의 생체 인과), [[overview-dopamine-roles-by-striatal-region]] 표 2 "State value·노력" 행(VTA ◐ 추가, NAc core 근거 추가), [[concept-dopamine-learning-rate]] §8(보정 자극의 맥락 의존성), [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]](국소 조절 후보 절).
+- **역링크 추가**: [[salamone-2012-mysterious-motivational-functions-mesolimbic]] · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[rice-2019-closing-in-on-what-motivates]] · [[mingote-2019-dopamine-glutamate-neuron-projections-to]] · [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] · [[concept-goal-commitment]] · [[holton-2026-the-adaptive-value-of-stubborn]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] · [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[mehrhof-2026-computational-phenotyping-of-effort]] · [[concept-need-motivation-pleasure-utility]] · [[person-lammel-stephan]] · [[gordon-2026-lateral-hypothalamic-control-of-the]].
+- **인물 페이지 보류**: Eshel은 위키 원전이 이 1편뿐이다. Malenka는 공저 6편(Halpern 라인 5편 포함)이지만 위키 원전에 인물 정보가 거의 없다.
+- **자료 없음**: Eshel 2024 Neuron(직접 선행연구), Mohebi 2023 eLife·Taniguchi 2024, Krok 2023, Chantranupong 2023, Liu 2022, Kramer 2022, Zhang 2025, de Jong 2024.
+- [[index]]: 🎯 Effort / activation 진영에 추가, 💡 ChI 항목에 주석. 총 545.
+
 ## 2026-11-01 — query (드문 빈도 보상 학습 논문 찾기)
 위키 내 답변(웹 미사용). 직접 근거는 [[gong-2026-reward-magnitude-determines-reinforcement-learning]](같은 총량 100 µl×9회 vs 5 µl×180회 → 강화 횟수 기준 ≥10배 빠름; 단 "드묾"과 "큼"이 함께 바뀌는 설계), [[grima-2026-a-global-dopaminergic-learning-rate]](재충전 간격 30–2,400 s 선택지에서 수십 분 만에 matching), [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]](직전 IRI가 길수록 보상 DA↑; suppl. S5 ITI·부분 강화 시간척도 불변 시뮬레이션)·[[concept-anccr]]. 인접: [[myers-2022-chronic-experience-with-unpredictable]](불규칙 급식 → food reward↑). Burke 2024 bioRxiv·Gallistel & Gibbon 2000은 raw에 여전히 없음(Drive 재검색). 페이지 변경 없음.
 ## 2026-11-01 — query ("Cholinergic modulation of dopamine release drives effortful behaviour" 유무)

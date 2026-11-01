@@ -2,7 +2,7 @@
 title: "Closing in on what motivates motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2019 Nature. Closing in on what motivates motivation.pdf"
 authors: [Rice ME]
 year: 2019
@@ -74,3 +74,4 @@ note: "Commentary on [[mohebi-2019-dissociable-dopamine-dynamics-learning-motiva
 - [[concept-dopamine-reward-system]] — DA 회로.
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — ANCCR 원전: NAcc **방출**만 측정(firing–release 해리는 다루지 않음); 회고적 정보 공급원으로 OFC→VTA 제시 — 위 표의 "국소 조절로 통합" 서술은 위키 측 추론.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 같은 해리에 대한 다른 해석(미지의 아집단 vs 국소 조절); 체세포–말단 비선형성을 Kutlu 결과 해석의 단서로 강조.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 해설이 꼽은 local control 후보(ChI → nAChR → 도파민 방출)가 **고노력 보상**에서 생체로 작동함을 보였다. VTA 억제는 효과가 없었고 NAc ACh 차단은 고노력 도파민·행동을 줄였다. 다만 Mohebi의 보상률 ramp가 아니라 보상 시점 transient다. Touponse 2026의 심사자 명단에 이 해설 저자와 같은 이름(Margaret Rice)이 있다.

@@ -219,3 +219,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 5-HT^DRN→VTA 글루타메이트성 단일시냅스 입력; 이 축을 켜면 임신기 기호식 추구가 줄어 도파민 보상축의 세로토닌 상류 brake를 제공 (Nat Neurosci 2026).
 - [[overview-dopamine-roles-by-striatal-region]] — Striatal subregion별 도파민 역할 지도(그림 + 표 2개): ventral=가치·학습·동기, dorsal=행동·습관·영양, TS(tail)=위협 채널.
 - [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 학습률 가설(Dudman, Janelia). 위 "도전" 절에 추가.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 체세포 발화와 말단 방출의 해리를 **노력 맥락**에서 보인 사례: VTA 세포체 칼슘은 낮은 FR에서 포화하지만 NAc 방출은 계속 오르고, 그 추가분은 국소 ACh–nAChR가 만든다(Nature 2026).

@@ -2,7 +2,7 @@
 title: "The Mysterious Motivational Functions of Mesolimbic Dopamine"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2012 Neuron. The Mysterious Motivational Functions of Mesolimbic Dopamine.pdf"
 authors: [Salamone JD, Correa M]
 year: 2012
@@ -147,3 +147,4 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 - [[nieh-2016-inhibitory-input-from-the]] — DA disinhibition(LH^GABA→VTA)이 feeding·사회·물체 조사를 가로질러 behavioral activation을 일으킴 = DA의 activational·motivational salience 역할의 회로 사례 (Neuron 2016, Tye lab).
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — Box 1: 초–분 단위의 느린 도파민 변화는 RPE와 무관할 수 있다 — "다른 시간척도로 양립" 해석의 RPE 쪽 근거.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 노력 선택 실험 도식을 소개한 국문 종설. Kang은 Salamone & Correa 2002를 인용하며, 그림 4는 'D2 blocking' 라벨의 모식도.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 노력·활성화 진영의 **국소 기전**: 들인 노력이 NAc core 보상 도파민을 키우고, 그 증폭은 ChI의 ACh → 도파민 축삭 α4/α6 nAChR가 만든다. 차단하면 고노력(FR10·21) 보상 획득만 줄고 FR1 섭취는 그대로다(Nature 2026).

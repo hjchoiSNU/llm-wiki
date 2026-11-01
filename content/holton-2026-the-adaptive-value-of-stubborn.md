@@ -129,3 +129,4 @@ journal: "Trends in Cognitive Sciences 30(4):379–390; doi:10.1016/j.tics.2025.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — cue 도파민이 perseverance를 예측; "현재 목표 bonus"의 신경 후보.
 - [[concept-dopamine-reward-system]] — 큰 그림(보상·동기 hub).
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — foraging patch-leaving(MVT)을 학습 모델(AQUA)로 구현한 마우스 연구. 시간·보상률 추정 없이 MVT 같은 예측이 나온다.
+- [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 들인 노력이 보상 도파민을 키워 노력 지속을 돕는 국소 기전(NAc ChI–nAChR). 동기 비계 기능의 회로 후보로 읽을 수 있다(연결 해석, 원문 주장 아님).
