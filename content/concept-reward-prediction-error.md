@@ -71,6 +71,8 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 | 무경험 맥락의 반복 무예측 보상 | 감소 | 직접 서술 없음(새로운 자극의 반응은 반복하면 감소) | — | **증가**(Test 1) | — |
 | 직전 보상 간격 | 음의 상관 | — | — | **양의 상관**(Test 2) | — |
 | 소거 | cue 반응 → 0 | — | — | cue 반응 **잔존**(Test 6) | — |
+| 보상 간격(IRI)과 학습 속도 | 표준 TDRL: 규칙 없음(학습률 = 자유 파라미터). microstimulus TDRL: 정성적 간격 효과뿐, 간격이 길수록 총 시간↑([[burke-2026-duration-between-rewards-controls-the\|Burke 2026]] 시뮬레이션) | — | — | **시행당 학습률 ∝ IRI**, 총 학습 시간 일정 — 30–600 s에서 행동·DA 모두 관찰([[burke-2026-duration-between-rewards-controls-the\|Burke 2026]]) | — |
+| 학습 중 cue 반응과 누락 dip의 출현 순서 | 함께 발달, 또는 점진적 backprop이면 dip이 먼저 | — | — | 연합이 역치를 넘은 뒤 dip → **cue 먼저, dip 훨씬 나중**(누락 25회 vs 107회, [[burke-2026-duration-between-rewards-controls-the\|Burke 2026]]) | — |
 | 생리 상태의 급변(나트륨 결핍), 새 학습 전 | 예측 기반 이론으로는 설명 못함(Berridge 2023의 논증) | — | — | — | 혐오로 학습된 소금 CS를 **즉시 원함** |
 
 ### 6. 측정 수준과 시간창이 해석을 바꾼다
@@ -98,6 +100,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - NMPU 원 논문([[kim-2024-unified-theoretical-framework-underlying-regulation|Kim 2024 BioEssays]])은 "Schultz RPE"를 네 성분을 명확히 구분하지 못한 기존 이론의 하나로 든다.
 
 ### 9. 열린 문제와 자료 없음
+- **시행 단위 가정**: [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]은 같은 시간 안에 시행을 늘려도 학습이 늘지 않음을 보여 trial 기반 RL 틀 자체를 문제 삼는다. 이 결과를 설명하는 TDRL 변형(보상 시점을 따로 배우는 TDRPE 등)은 위키에 없다.
 - **Kutlu 2021 원전**과 KCS 모형의 식·파라미터 — 위키에 없음(dispatch 요약만).
 - **Schultz, Dayan & Montague 1997 원전** — raw에 없음(2차 서술만).
 - Schultz 2016의 **Supplementary S1(table)·S2(box)**, 혐오 재해석의 핵심 근거인 **Fiorillo 2013** — 위키에 없음.
@@ -129,3 +132,4 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - [[overview-dopamine-roles-by-striatal-region]] — RPE 신호의 subregion별 근거 강도(VTA 발화 직접, NAc는 모양만, NAc>VTA>DMS)와 ANCCR 판별 조건을 한 표에 정리.
 - [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 네 번째 해석 축: 도파민 = δ가 아니라 α(학습률). 판별 조건은 학습 초기·다선택지·보상 크기(§3-1).
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 노력 축의 국소 기전과 발화–방출 해리(§4·§6).
+- [[burke-2026-duration-between-rewards-controls-the]] — §5 판별표 두 행(IRI와 학습 속도, 누락 dip 출현 순서)과 trial 단위 가정 비판(§9).

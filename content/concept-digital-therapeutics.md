@@ -66,3 +66,4 @@ aliases: [DTx, digital therapeutics, 디지털 치료제]
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 목표 몰입의 세 적응 기능(자원 절약·간섭 차단·동기 비계)을 DTx 설계 원리로: 판단력 높은 시점에 목표 확정, 진행률(momentum) 가시화, 대안 노출 최소화.
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 조작이 총 섭취량·체중을 전혀 안 바꾸므로, 이 세포를 표적으로 삼는 개입의 종결점은 **섭취 감소가 아니라 cue→접근 학습의 약화**(cue 변별·접근 지표)로 설계해야 한다는 회로 근거.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — 보상 스케줄 설계의 동물 근거 후보: 총량이 같을 때 희소한 큰 보상 → 학습·관여↑. 단 cue 변별 학습에는 해로움(인간 이식은 가설).
+- [[burke-2026-duration-between-rewards-controls-the]] — 보상 스케줄 설계: 같은 시간 안에 보상 횟수를 늘려도 cue 학습이 늘지 않고, 보상당 학습은 같은 종류 보상 사이 간격에 비례(마우스).

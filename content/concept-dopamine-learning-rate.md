@@ -68,6 +68,7 @@ aliases: [learning rate hypothesis, adaptive learning rate, dynamic learning rat
 | [[schultz-2016-dopamine-reward-prediction-error-signalling\|Schultz 2016]] | surprise salience가 학습률을 올리는 **Pearce–Hall 규칙** | RPE 진영 안의 학습률 조절 장치. 도파민 초기 성분이 학습 속도에 기여한다는 해석 |
 | [[hjort-2026-prefrontal-to-ventral-tegmental-area\|Hjort 2026]] | meta-RPE = RPE의 rolling-average가 **gain**을 조절 | mPFC↔VTA. 모델 비교에서 Pearce–Hall·이중 학습률(RPE2α) 같은 학습률 적응 모델이 mRPE에 **졌다** → "학습률 적응"이 늘 최선의 설명은 아니다 |
 | [[jeong-2022-mesolimbic-dopamine-release-conveys-causal\|Jeong 2022]] · [[concept-anccr]] | ANCCR 시뮬레이션의 α: 무경험 동물에서 **0.25 → 0.02 지수 감쇠** 가정 | 감쇠 학습률은 ANCCR도 공유하는 가정이다. Gong 2026은 Jeong 2022를 "phasic DA = 이산화된 적응적 학습률"의 예로 인용한다(Gong의 분류이며 Jeong 원문의 자기 규정은 아님) |
+| [[burke-2026-duration-between-rewards-controls-the\|Burke 2026]] | ANCCR 회고적 갱신의 **보상당 학습률 α ∝ IRI**(알고리즘이 보상 간격에서 정함). 행동·NAc core DA 학습 시행 수가 IRI에 반비례 | 저자는 ANCCR·KCS·Dudman 모델을 "도파민 = 학습률 조절"로 묶지만, 여기서 학습률은 **DA 신호 크기가 아니라 보상 간격**이 정한다. Grima AQUA의 α는 방문 수로 감쇠(시간 아님) |
 | [[mathis-2026-leveraging-insights-from-neuroscience-to\|Mathis 2026]] | 미로 마우스의 few-shot 학습("2AFC 대비 학습률 1,000배") | 행동 수준의 학습 속도. Grima 2026도 "복잡한 환경에서 더 빠른 학습"을 다선택지 과제의 이점으로 든다 |
 
 ### 7. 섭식 연구로의 함의 (연결 가설 — 원전 주장 아님)
@@ -80,6 +81,7 @@ aliases: [learning rate hypothesis, adaptive learning rate, dynamic learning rat
 ### 8. 열린 문제와 자료 없음
 - **ACTR(β: 정책 변화 + 감각 입력)과 AQUA(α(τ): 방문 수에 따른 지수 감쇠)가 같은 양인가** — 원전들은 정식 비교하지 않는다(Grima는 AQUA를 ACTR의 다선택지 "일반화"라고만 적음). 학습 초기 보상 DA 추세도 Coddington(유지·소폭 증가)과 Grima·Gong(감쇠)이 다르다.
 - **긴·큰 자극의 해석**: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]은 500 ms·10 mW 자극을 "학습률 + 부호 있는 오류"로, Gong 2026은 1 s·8–10 mW 자극을 "큰 보상 모사 → 학습률·관여"로 읽는다. 과제(Pavlovian vs 조작적) 차이인지 해석 차이인지는 미정이다.
+- **보상 간격 혼입**: [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]에서 보상당 학습률은 보상 간격(IRI)에 비례했다. Gong 2026 숨은 표적 과제(5 µl × 180 vs 100 µl × 9)의 "큰 보상 = 빠른 학습"에는 간격 차이가 섞였을 수 있다(Gong에 IRI 자료 없음; joystick·IBL은 간격 유지). Burke의 학습 초기 보상 DA는 **증가**했다(Jeong 2022와 같고, Grima·Gong의 감쇠와 반대).
 - **보정 자극의 맥락 의존성**: [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]]에서 완전히 같은 NAc 도파민 축삭 광자극도 직전 노력(FR)에 따라 방출이 달랐다(ChI–nAChR 매개). 학습률 원전들의 "보상 DA 크기에 맞춘" 보정 자극도 보정 맥락과 시험 맥락의 ACh 상태가 다르면 실제 방출이 달라질 수 있다. Coddington은 VTA 세포체를 자극했으므로 그대로 옮길 수는 없고, 학습률 원전의 과제에서 이 효과를 잰 자료는 없다(연결 해석).
 - Coddington 2023의 **Supplementary Table 1**(개체별 실험 배정 순서)은 PDF에 없다.
 - **Iino 2020**(D2 pause와 변별 학습), **Lee 2021**(D1/D2 PKA 비대칭), **Krausz 2023**(쥐 3선택지 탐색 DA), **Lak 2016**(훈련 동물의 선택지 가치 DA), **Beeler 2012**(도파민과 에너지 예산) — 모두 위키에 원문 없음.
@@ -104,3 +106,4 @@ aliases: [learning rate hypothesis, adaptive learning rate, dynamic learning rat
 - [[concept-need-motivation-pleasure-utility]] — Need × 학습률 가설의 번역처.
 - [[mathis-2026-leveraging-insights-from-neuroscience-to]] — 행동 수준의 빠른 학습.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 같은 NAc 축삭 광자극도 직전 노력에 따라 방출이 달랐다 → 보정 자극 설계의 맥락 의존성(§8).
+- [[burke-2026-duration-between-rewards-controls-the]] — 다른 뜻의 학습률(보상 간격이 정하는 ANCCR α ∝ IRI)과 Gong 2026 크기 효과의 간격 혼입 가능성(§6·§8).

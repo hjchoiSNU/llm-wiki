@@ -8,6 +8,23 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-01 — ingest (1편, 보상 간격이 학습률을 정한다 — Burke 2026 Nat Neurosci)
+같은 날 query 두 건에서 "raw에 없음"으로 답한 논문을 사용자가 raw에 넣었다. `raw/2026 Nature Neuroscience. Duration between rewards controls the rate of behavioral and dopaminergic learning.pdf`를 Drive 커넥터로 받아 **본문·Fig 1–8 legend·Methods(ANCCR 유도·TDRL/SOP/ANCCR 시뮬레이션)·Extended Data Fig. 1–10 legend·참고문헌·reporting summary 전부**를 읽었다(웹 미사용). Supplementary Note 1·Table 1은 PDF에 없다.
+- **[[burke-2026-duration-between-rewards-controls-the]]** — Burke 외, Namboodiri lab(UCSF), Nat Neurosci 선공개판(doi:10.1038/s41593-026-02206-2). Gong 2026 ref 50 preprint("Reward timescale controls…")의 게재판으로 추정(저자 겹침, 제목 변경).
+  - 60 s vs 600 s ITI: 학습 94 ± 7 vs 8.8 ± 0.6시행, 총 시간 같음. 30·300 s 포함 log–log 기울기 −1.06(R²=0.9992). NAc core dLight cue DA도 같은 비례(36 vs 3.6시행). cue–충격(ISI 45 vs 135 s)도 같은 규칙.
+  - 3,600 s에서 비례가 깨짐(예측 1.3, 실제 3.6시행). 점근 cue DA는 IRI에 따라 0.31 → 0.47 → 0.98.
+  - 교란 배제: 하루 시행 수·포만, 맥락 소거, 청각 자극률(CS−), 전체 보상률(초콜릿 우유 → **종류별 IRI**, 단맛 액체 간 부분 일반화).
+  - 부분 강화 50%: 보상 45회로 학습(IRI 예측 43.8, ICI 예측 91.2), cue DA는 같고 핥기만 절반 이하(행동–DA 해리). 10%: cue DA 중앙값 5 보상.
+  - 누락 dip은 cue DA보다 훨씬 늦게(누락 25 vs 107회) → 정형 TDRPE와 불일치.
+  - ANCCR Bayes 정규화의 시간창 일치 조건에서 α = 1 − (1 − α0)^(IRI/dt), T = k × IRI 유도. microstimulus TDRL·SOP는 비례 재현 실패, TDRL에 IRI 학습률을 임의로 넣어도 총 시간·점근 DA를 재현하지 못함.
+- **병기한 긴장**: ① Jeong 2022 suppl. S5 서술("부분 강화에서 습득까지 보상 수 불변, ANCCR 재현") vs 이 논문의 보상 수 절반(모델 판 차이: 2022 고정 α vs 2026 α ∝ IRI). ② Gong 2026 숨은 표적 과제(5 µl × 180 vs 100 µl × 9)의 보상 간격 혼입 가능성. ③ Grima 2026의 "시간 아닌 방문 수 기반 α·간격 미추정" vs 시간 기반 학습률. ④ 학습 초기 보상 DA 증가(Jeong과 같음) vs Grima·Gong 감쇠. ⑤ "학습률"의 두 뜻(DA 크기 vs 보상 간격). ⑥ cue DA–행동 해리(Gong S6·Coddington ED4와 같은 방향).
+- **원문 불일치 기록**: 3,600 s군 n=5인데 3 F/3 M, Fig 7e 정규화 DA에 "Hz", Fig 6i·l 별표, 수술 나이·제외 그림 번호의 Methods–summary 차이, 참고문헌 57·58 추출 혼합.
+- **본문 보강**: [[concept-anccr]](IRI 스케일링 판 파라미터, 증거 지도 행, 열린 문제 2곳), [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]](S5 아래 ⚠️), [[concept-reward-prediction-error]](§5 판별표 2행, §9), [[concept-dopamine-learning-rate]](§6 표 1행, §8), [[gong-2026-reward-magnitude-determines-reinforcement-learning]]·[[grima-2026-a-global-dopaminergic-learning-rate]](⚠️ 긴장 각 1건), [[overview-dopamine-roles-by-striatal-region]](표 1 NAc core 행).
+- **역링크 추가**: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] · [[myers-2022-chronic-experience-with-unpredictable]] · [[concept-food-insecurity]] · [[concept-digital-therapeutics]] · [[pascoli-2026-conditioned-accumbal-dopamine-transients]] · [[chen-2021-neuromodulation-a-model-for-dopamine]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[concept-need-motivation-pleasure-utility]] · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] (+ 위 본문 보강 페이지들의 관련 페이지 절).
+- **인물 페이지 보류**: Namboodiri lab 원전이 위키에 2편(Jeong 2022, Burke 2026). Dudman 페이지를 만든 기준(3편)에 못 미친다.
+- **자료 없음**: Gallistel & Gibbon 2000, Gibbon & Balsam 1981, Harris & Gallistel 2024, Floeder 2025 eLife, Amo 2022, Kalmbach 2022, Sharpe 2020, Carter 2024, Mah 2024.
+- [[index]]: 🎯 ANCCR 진영에 원전 다음으로 추가. 총 546.
+
 ## 2026-11-01 — ingest (1편, 노력 의존 도파민의 콜린성 국소 기전 — Touponse 2026 Nature)
 같은 날 query에서 "자료 없음"으로 답한 논문을 사용자가 raw에 넣었다. `raw/2026 Nature. Cholinergic modulation of dopamine release drives effortful behaviour.pdf`를 Drive 커넥터로 받아 **본문·Fig 1–5 legend·Methods·Extended Data Fig. 1–11 legend·참고문헌·reporting summary 전부**를 읽었다(웹 미사용). 그림의 시각 정보는 legend 기준으로 정리했다.
 - **[[touponse-2026-cholinergic-modulation-of-dopamine-release]]** — Touponse·Pomrenze 외, Eshel·Malenka lab(Stanford), Nature 선공개판(doi:10.1038/s41586-025-10046-6).

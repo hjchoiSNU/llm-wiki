@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 545 (+ index.md, log.md)
+- 총 페이지: 546 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-01
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -695,6 +695,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 ### 진영 — 회고적 인과 학습 (ANCCR)
 개념 hub: [[concept-anccr]].
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] — ★ **ANCCR 원전**: NAc 도파민(dLight1.3b)은 TDRL RPE가 아니라 회고적 인과 연합("meaningful causal target")을 전달 — 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·행동 소거 후 cue 반응 잔존·trial 내 backprop 없음 (Science 2022, Namboodiri lab). 보충자료 반영(ANCCR 식 7–20·파라미터·Supplementary Notes 1–10). · 🔑 CS1, CS2, MCT, CSC, SRC(Successor representation contingency), PRC(Predecessor representation contingency)
+- ★ [[burke-2026-duration-between-rewards-controls-the]] — **cue–보상 학습률은 보상 사이 시간(IRI)에 정비례**: ITI 10배 → 1/10 시행으로 학습, 30–600 s에서 학습 총 시간 일정(행동·NAc core DA 모두; cue–충격도 같음). 보상 종류별 IRI, 50%·10% 강화는 보상당 학습↑, 누락 dip은 cue DA보다 훨씬 늦음. ANCCR Bayes 정규화에서 α ∝ IRI 유도, TDRL·SOP는 재현 실패 (Nat Neurosci 2026, Namboodiri lab). · 🔑 spacing effect, ITI, microstimulus TDRL, SOP, partial reinforcement, latent inhibition
 
 ### 진영 — 적응적 학습률 (Adaptive learning rate; Dudman lab)
 개념 hub: [[concept-dopamine-learning-rate]] — 도파민 = 갱신식의 **α(곱셈·부호 없음)**이지 δ(덧셈·부호 있음)가 아니라는 가설. 정의·판별표(학습 초기 누락 dip·선택지 간 반응·전역 변화·보상 크기)·위키 내 "학습률" 서술 지도. · 🔑 learning rate hypothesis, step size, ACTR, AQUA, Coddington 2023, learning efficiency

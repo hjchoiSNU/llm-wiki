@@ -2,7 +2,7 @@
 title: "Neuromodulation: A model for dopamine in salience encoding (Chen & Bruchas 2021, Curr Biol Dispatch)"
 type: paper
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2021 Current Biology. Neuromodulation A model for dopamine in salience encoding.pdf"
 authors: [Chen J, Bruchas M]
 year: 2021
@@ -93,3 +93,4 @@ Bruchas lab(University of Washington)의 Chen & Bruchas가 같은 호의 Kutlu �
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — VTA 도파민 섭취 반응의 valence 의존성(quinine 첨가 시 감소).
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 현저성 해석을 다룬 국내 리뷰.
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — 같은 Bruchas lab의 위키 수록 원저.
+- [[burke-2026-duration-between-rewards-controls-the]] — Kutlu–Calipari–Schmajuk 모델을 "도파민 = 학습률 조절" 계열로 묶어 인용. cue–충격 조건화에서 NAc core cue DA는 감소, 충격 반응은 양성(선행 결과 재현).

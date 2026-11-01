@@ -2,7 +2,7 @@
 title: 식품 불안정 (Food Insecurity, FI)
 type: concept
 created: 2026-06-01
-updated: 2026-10-11
+updated: 2026-11-01
 aliases: [food insecurity, FI, 식품 불안정, 식품 미보장, food insecurity-obesity paradox]
 ---
 
@@ -47,3 +47,4 @@ aliases: [food insecurity, FI, 식품 불안정, 식품 미보장, food insecuri
 - [[concept-arcuate-nucleus]] · [[concept-leptin]] · [[concept-ghrelin]] — FI 발달 프로그래밍의 melanocortin·호르몬 표적.
 - [[tomiyama-2019-stress-and-obesity]] · [[giovanniello-2025-a-dual-pathway-architecture-for]] — stress→reward/habit 기전(공통).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(환경 축).
+- [[burke-2026-duration-between-rewards-controls-the]] — 보상 확률↓ → 보상 간격↑ → 보상당 cue 학습↑(마우스). 식품 불안정의 불규칙 급식을 학습 속도 축에서 볼 연결 가설.

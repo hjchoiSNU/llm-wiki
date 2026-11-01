@@ -101,6 +101,8 @@ journal: "Neuron 114:3443–3458 (2026-09-16; 온라인 2026-05-08; 접수 2025-
 - **mPFC 기원 가능성과 Hjort 2026**: 저자는 학습률 조절 입력 후보로 VTA로 투사하는 전전두의 환경 변동성 상관 활동을 든다. [[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort 2026]]은 mPFC→VTA가 RPE의 rolling-average gain(meta-RPE)을 조절해 contingency degradation을 구동한다고 보고했고, 그 모델 비교에서 Pearce–Hall·이중 학습률(RPE2α) 같은 학습률 적응 모델은 mRPE에 졌다. "gain 조절"이라는 공통 개념 아래 두 lab의 모델이 같은 것을 가리키는지는 위키 자료로 판단할 수 없다(자료 없음).
 - **DMS DA**: [[overview-dopamine-roles-by-striatal-region]]은 DMS를 목표지향(A–O)·칼로리 가치로 정리한다. 이 논문의 무경험 foraging에서 DMS DA는 학습률·RPE 어느 쪽과도 맞지 않고 공간에 넓게 분포했다. 과제·단계 차이로 병기한다.
 
+- **시간 대 방문 수**: [[burke-2026-duration-between-rewards-controls-the|Burke 2026]](Pavlovian cue–보상)에서는 보상당 학습률이 **보상 간격(시간)**에 비례했고 보상 종류별로 따로 계산됐다. 이 논문에서 마우스는 꼭지별 재충전 간격을 시간으로 추정하지 않았고, AQUA의 α는 **방문 수**로 감쇠한다. 과제와 "학습률"의 대상이 다르다. Burke의 학습 초기 보상 DA는 증가했다(이 논문의 감쇠와 반대).
+
 ## 관련 페이지
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — ★ 학습률 가설 원전(ACTR, Pavlovian 정책 학습, 보정 폐루프 자극 역설). 본 논문은 그 다선택지 일반화이며 150 ms 보정 자극 파라미터를 이어받았다.
 - [[person-dudman-joshua]] — 교신저자 인물 hub.
@@ -114,3 +116,4 @@ journal: "Neuron 114:3443–3458 (2026-09-16; 온라인 2026-05-08; 접수 2025-
 - [[concept-goal-commitment]] · [[holton-2026-the-adaptive-value-of-stubborn]] — foraging patch-leaving/MVT를 목표 감시 알고리즘의 생태학적 원형으로 다룬 페이지. AQUA는 MVT의 stay/leave를 RL에 넣은 구현이다.
 - [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — LH^GABA→VTA가 행동이 아니라 cue 학습률을 조절한다는 rat 결과. 학습률을 조절하는 상류 회로 후보.
 - [[mathis-2026-leveraging-insights-from-neuroscience-to]] — 미로 마우스의 few-shot 학습. 본 논문은 "복잡한 환경에서 더 빠른 학습"의 근거로 Rosenberg 2021 미로 연구(ref 21)를 인용한다. Mathis 페이지의 미로 서술이 같은 연구를 가리키는지는 그 페이지에 출처 표기가 없어 확인하지 못했다.
+- [[burke-2026-duration-between-rewards-controls-the]] — 보상당 학습률을 시간 간격이 정한다는 반대 결과(과제 다름), 학습 초기 보상 DA 증가.

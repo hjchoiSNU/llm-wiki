@@ -145,6 +145,7 @@ ANCCR 시뮬레이션은 RPE 지지 근거로 쓰여 온 결과들을 질적으�
 - **S3**: SR–PR Bayes 관계(Note 1).
 - **S4**: 인과 cognitive map 추론 — 쌍별 net contingency 구조 A로 Bayes `P(CM|A) ∝ P(A|CM)P(CM)`; 예 1(c1→c2→r: CM2 선택, c2 ANCCR에서 c1 기여 차감), 예 2(c1·c2 독립 예측: 차감 없음), 예 3(c1→r: 보상은 자기 예측자이며 cue가 원인으로 학습되면 보상 반응 감소). **확률을 낮추면 누락이 state로 추론돼 누락 반응이 생기지만, 지연을 영구 연장하면 지연 추정만 갱신해 누락 state가 생기지 않는다** → Test 5의 예측 근거.
 - **S5**: 시간척도 불변성 — Gallistel & Gibbon 2000 행동 데이터처럼 ITI를 지연에 비례(10×)해 늘리면 습득 trial 수 불변(고정 ITI면 증가), 부분 강화에서 습득까지의 **보상 수** 불변. ANCCR는 재현, TDRL은 실패(습득 기준: 30-trial 이동평균이 임계 0.08(TDRL)·0.6(ANCCR) 교차).
+  - ⚠️ (2026-11-01) 후속 실험 [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]은 50% 강화에서 습득까지의 보상 수가 **절반**(45 vs 94)으로 줄었다고 보고하고(시행 수는 불변), 보상 수 불변을 예측하는 이론과 대비시킨다. 그 논문의 ANCCR은 학습률을 IRI에 비례시킨 판이다. 2022판(고정 α)의 S5 시뮬레이션과 같은 결론이 아니므로 판을 구분해 읽어야 한다.
 - **S6**: 일반성 — (A) 지연 X / inter-cue Y = 0.05–5 전 범위에서 ANCCR cue 반응 유의 양성, TDRL은 무연합 대조보다도 낮을 때가 많음; (B) 1·10·100 s 지연 세 연합 동시 학습; (C) 3개 연합 + 방해 cue 4개에서 net contingency 행렬이 참 구조를 완전 복원(모든 사건을 MCT로 가정, α 갱신 대신 정확 평균 사용).
 - **S7**: 섬유 위치(NAcc·VTA)·조직·photometry 보정 단계.
 - **S8**: Test 1–2 대안 배제(위 수치). **S9**: 개체별 데이터. **S10**: Fig. 4 실험의 TDRL vs ANCCR 동역학(Exp 3 시뮬레이션에 짧은 ITI(평균 6 s) 가상 실험을 넣어 "지연에 따른 도파민 스케일링" 보고도 재현; Exp 5는 ITI state 없는 TDRL도 검토), 누락 반응, 93%. **S11**: Test 8 국소 baseline 분석.
@@ -208,3 +209,4 @@ ANCCR 시뮬레이션은 RPE 지지 근거로 쓰여 온 결과들을 질적으�
 - [[concept-reward-prediction-error]] — 본 논문 11개 검증의 판별 조건(무예측 보상 반복·직전 IRI·소거)을 다른 해석들과 나란히 놓은 hub.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — Gong 2026이 본 논문을 "phasic DA = 이산화된 적응적 학습률"의 예로 인용(ref 27). 두 논문의 조작적 과제에서는 NAc 보상 DA가 학습 초기에 **감소**해 Test 1(증가)과 방향이 반대다. 과제 구조 차이로 병기.
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 또 하나의 "RPE 상관은 다른 계산의 부산물" 모델(ACTR, 학습률). Pavlovian 무경험 학습에서 NAc 보상 DA가 줄지 않아(0.82→1.16 z) Test 1의 방향과 가깝다. 본 원전 시뮬레이션이 재현했다는 Coddington & Dudman 2018의 "초기 보상 반응 상승"과 같은 lab의 후속.
+- [[burke-2026-duration-between-rewards-controls-the]] — 같은 lab 후속: S5 시간척도 불변성을 실험으로 확장(30–3,600 s ITI)하고 학습률의 IRI 비례를 유도. 부분 강화 결과(보상 수 절반)는 이 페이지 S5 서술과 긴장.

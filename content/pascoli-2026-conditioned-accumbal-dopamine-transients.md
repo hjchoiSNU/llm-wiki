@@ -58,3 +58,4 @@ year: 2026
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — cue 도파민이 예측하는 perseverance를 "현재 목표에 붙는 bonus"(동기 비계)의 신경 후보로 읽는 관점; 강박 vs 적응적 몰입의 경계.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — ⚠️ 총 보상량을 맞추면 NAc DA cue 반응은 빨리 학습되는데 행동 학습은 같았다(fig. S6). cue DA를 행동 학습의 판독치로 쓸 때 주의.
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — ⚠️ cue 시점 VTA DA를 키워도 그 시행의 예기 핥기는 변하지 않았다(ED4; "cue DA = 학습 반영, 즉시 구동 아님"). 초생리 자극만 cue 가치 학습을 일으켜 중독 모델로 제안된다. cue DA를 가치·취약성 표지로 쓸 때 맞대어 볼 결과.
+- [[burke-2026-duration-between-rewards-controls-the]] — 점근 cue DA가 보상 간격에 따라 3배 달랐다(60 s 0.31 → 3,600 s 0.98). 시행 간격이 다른 조건끼리 cue DA를 주관적 가치로 비교할 때 주의.

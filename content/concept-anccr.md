@@ -40,6 +40,7 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 ### 정식 식·파라미터 요약 (원전 보충 Methods; 전체 표는 [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|원전 페이지]] "정식 수식" 절)
 - **핵심 6식**: eligibility trace `E←i(t) = Σ exp(−(t−ti)/T)` → MCT j 시점마다 `M←ij ≡ M←ij + α[E←i(tj) − M←ij]`, 무작위 시점(0.2 s마다) `M←i− ≡ M←i− + kα[E←i− − M←i−]` → **PRC** `C←ij = M←ij − M←i−` → **SRC** `C→ij = C←ij · M←j−/M←i−`(Bayes; suppl. Note 1·fig. S3) → **net** `C↔ij = w·C→ij + (1−w)·C←ij` → **ANCCR**(위 조정식) → **DA**.
 - **파라미터(원전 자체 실험 시뮬레이션 공통)**: **T = 1.2 × 평균 IRI, α = 0.02, k = 1, w = 0.5, αR = 0.2, θ = 0.6**; 보상 첫 경험 시 α는 0.25에서 0.02로 지수 감쇠(상수 0.1). 기존 실험 재현(Fig. 2·S13)에서는 실험별로 k·w·θ·αR·T를 조정.
+- **IRI 스케일링 판(2026)**: [[burke-2026-duration-between-rewards-controls-the|Burke 2026]](같은 lab, Nat Neurosci)은 Bayes 정규화의 분자(M←cr, 보상 때만 갱신)와 분모(기저율, 매 dt 갱신)가 **같은 과거 시간창**을 써야 한다는 조건에서 **보상당 학습률 α = 1 − (1 − α0)^(IRI/dt)**(∝ IRI)와 **T = k × IRI**를 유도했다(최적 k = 0.5, α0 = 4×10⁻⁵, θ = 0.4). 위의 2022판 고정값(α = 0.02, T = 1.2 × 평균 IRI)과 다르다. 이 판은 30–600 s ITI에서 학습 시행 수 ∝ 1/IRI, 총 학습 시간 일정을 재현했고 microstimulus TDRL·SOP는 재현하지 못했다.
 - **조정항의 근거**: cue1→cue2→보상 경험에서 "직전 cue가 보상을 직접 일으킨다"는 귀납 편향으로 인과 모델 cue1→cue2→보상을 추론하고, 한 "trial"의 ANCCR 합 = Pearl의 direct causal effect 합이 되도록 cue2에서 cue1 몫을 차감; trial 지표를 recency Δ로 대체. 보상 자신의 ANCCR도 같은 방식으로 학습된 cue 몫이 빠져 **cue 학습 후 보상 반응이 줄어든다**.
 - **행동**: cue value = `SRC × R − action cost` → softmax. 즉 **전향적 value는 행동 선택 단에서 쓰인다**(원전: "행동은 표준 TDRL과 비슷하게 제어"); 단 시간 맞춘 행동에는 별도의 지연 학습이 필요하며 그 알고리즘은 제안되지 않음.
 - **효율 주장**: 쌍별 연합 N²개를 MCT 시점 학습으로 N×(MCT 수)로 줄임; CSC형 TD는 자극당 지연/Δ개 state가 필요해 기억이 지연에 선형 증가(suppl. Note 7).
@@ -74,6 +75,7 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 | [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[concept-dopamine-reward-system]] | 2차 서술("보상 → 거꾸로 cue 검색", 흡연 cue relapse) | relapse 사례는 기사 해설이며 원전에 없음 |
 | [[hamid-2016-mesolimbic-dopamine-signals-value-work]] | "forward 학습 부정·양립 불가"로 서술 | 원전은 전향 예측을 유도(SRC)하고 행동은 SRC 기반 value의 softmax로 모델링하며 ramp도 설명 — 과장 |
 | [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[rice-2019-closing-in-on-what-motivates]] | "NAc 국소 메커니즘으로 호환" | 위키 측 추론; 원전은 OFC→VTA를 공급원 후보로 제시하고, suppl. fig. S14에서 NAc를 계산 장소가 아닌 **"도파민을 행동으로 통합(임계 교차)"하는 하류**로 둠 |
+| [[burke-2026-duration-between-rewards-controls-the]] | ★ **같은 lab의 2차 1차 자료**: 학습률 ∝ IRI(행동·NAc core DA), 부분 강화가 보상당 학습↑, 누락 dip 지연, ANCCR만 비례 재현 | 2022판과 파라미터가 다름(α ∝ IRI). 2022 suppl. S5의 '부분 강화 시 보상 수 불변' 서술과 긴장 |
 | [[lee-2024-feature-specific-prediction-error]] | forward TD 가정이라 framework 밖 | — |
 | [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] · [[huang-2024-dopamine-mediated-interactions-between-short]] · [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] · [[salamone-2012-mysterious-motivational-functions-mesolimbic]] | 진영 비교표의 한 행(간접·부분 호환) | 원전 직접 검증 없음 |
 | [[person-sharpe-melissa]] | model-free TDRL 위반 도파민 학습(Sharpe 2017·2020, Seitz 2022)을 원전이 ANCCR로 설명 | 원전 fig. S13 (보충자료) |
@@ -81,9 +83,9 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 
 ### 열린 문제 (원전 Discussion + 위키 관점)
 - 회고적 정보는 어디서 오는가 — OFC 후보(원전), 다른 경로 미검증.
-- 시간척도 추론: 현재는 평균 IRI 가정(T = 1.2×IRI 고정). 다중 시간상수 계가 원리적 해법 후보.
+- 시간척도 추론: 2022판은 평균 IRI 가정(T = 1.2×IRI 고정). [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]이 학습률·trace 시간상수의 IRI 비례를 Bayes 정규화에서 유도했다(보상 **종류별** IRI; 단맛 액체 간 부분 일반화). 극단 간격(3,600 s)에서는 비례가 깨졌다(예측 1.3시행, 실제 3.6). 다중 시간상수 계가 원리적 해법 후보라는 점은 여전하다.
 - **지연 학습 알고리즘 부재**: 인과 지도 뒤 "인과 사건 간 지연"을 배우는 단계(suppl. fig. S2 Step 2)는 제안되지 않음.
-- **trial 내 backprop 불일치**: Amo 2022(후각 cue, 복측 선조체 photometry)의 점진적 시간 이동 vs 원전 Test 9(청각 cue, backprop 없음) — 원전은 후각 자극의 onset/offset 불명확·탐지 향상으로 설명(suppl. Note 9, 미검증). Amo 2022 원전은 위키에 없음.
+- **trial 내 backprop 불일치**: Amo 2022(후각 cue, 복측 선조체 photometry)의 점진적 시간 이동 vs 원전 Test 9(청각 cue, backprop 없음) — 원전은 후각 자극의 onset/offset 불명확·탐지 향상으로 설명(suppl. Note 9, 미검증). Amo 2022 원전은 위키에 없음. [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]은 50% 강화에서 **누락 dip이 cue DA보다 훨씬 늦게**(누락 25회 vs 107회) 나타나 점진적 TDRPE backprop과 맞지 않는다고 보고한다.
 - **처벌·아구역**: ANCCR에 부호 있는 incentive value vs 절댓값(salience)을 곱하느냐에 따라 NAc core vs medial shell 도파민이 학습 vs 동기에 다르게 기여할 수 있다는 추측(suppl. Note 8) — 미검증.
 - NAc core 외 영역(DLS·tail·BLA·mPFC)의 도파민도 ANCCR인가 — 미검증. 위키의 [[grove-2022-dopamine-subsystems-track-internal|자원별 DA sub-system]]·[[weber-2025-interoceptive-origin-reinforcement-learning|primary/proxy/secondary]] 틀과의 관계는 자료 없음.
 - TDRL state space의 무한 유연성 → 반증 가능성 문제(원전 인정).
@@ -115,3 +117,4 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 - [[concept-reward-prediction-error]] — ANCCR를 RPE·현저성·유인 현저성과 한 표에 놓은 상위 판별 hub.
 - [[overview-dopamine-roles-by-striatal-region]] — ANCCR이 NAc core에서만 검증됐고 DMS·DLS·TS는 자료가 없다는 점을 subregion별 표에 정리.
 - [[concept-dopamine-learning-rate]] — ANCCR 시뮬레이션의 감쇠 학습률(α 0.25→0.02) 가정을 공유하는 학습률 가설 hub. 무경험기 보상 DA 추세는 반대 방향(Grima·Gong 감소 vs Jeong Test 1 증가).
+- [[burke-2026-duration-between-rewards-controls-the]] — ★ 같은 lab 후속(Nat Neurosci 2026): 행동·NAc core DA 학습률 ∝ 보상 간격(IRI), 부분 강화가 보상당 학습↑, 누락 dip 지연. ANCCR Bayes 정규화에서 α ∝ IRI·T = k × IRI를 유도하고 TDRL·SOP 대비 비례를 유일하게 재현.

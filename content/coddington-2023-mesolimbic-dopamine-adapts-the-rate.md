@@ -136,3 +136,4 @@ journal: "Nature 614:294–302 (2023-02-09; 온라인 2023-01-18; 접수 2021-05
 - [[overview-dopamine-roles-by-striatal-region]] — DS DA는 초기 학습기에 cue·보상 반응이 늦게 생긴다(ED3).
 - [[concept-consumption-vigor]] · [[concept-cue-reactivity]] — 보상 수거 잠복기·예기 핥기를 정책 출력으로 보는 틀, cue 과반응 개체차.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **보정 자극 해석의 맥락 의존성**: 같은 NAc 도파민 축삭 광자극도 직전 노력에 따라 방출이 달랐다(ChI–nAChR 매개). 보정한 맥락과 시험 맥락의 ACh 상태가 다르면 실제 방출이 달라질 수 있다(연결 해석; 이 논문은 VTA 세포체 자극).
+- [[burke-2026-duration-between-rewards-controls-the]] — 이 논문을 "도파민 = 학습률 조절" 계열로 묶되 IRI 비례는 ANCCR만 설명한다고 본다. 부분 강화에서 cue DA는 같고 핥기만 줄어든 해리는 이 논문 ED4(cue DA ≠ 즉각 행동)와 같은 방향.

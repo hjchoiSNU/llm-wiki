@@ -116,6 +116,8 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 - **긴 DA 자극의 해석 — 같은 lab의 원전과의 긴장**: 이 논문은 1 s·8–10 mW VTA 자극을 ">50 µl 보상 반응의 생리적 모사"로 보고 학습률·관여 증가로 읽는다. [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]은 비슷한 범위의 500 ms·10 mW 자극(내인성의 3–5배)을 **학습률 + 부호 있는 오류 편향**으로 해석했고, Pavlovian cue에 가치 같은 학습을 일으킨다고 보고했다. 과제(조작적 vs Pavlovian) 차이일 수 있으나 두 원전은 이를 비교하지 않는다.
 - **이 논문의 Pavlovian 결과와 원전의 개체차(연결 해석)**: 큰 보상이 Pavlovian 예기 핥기·CS+/CS– 변별을 손상시킨 결과(Fig. 6)는, [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]에서 초기 보상 DA(감각 반응)가 큰 개체일수록 예기 핥기를 덜 배운 결과(r=0.81)와 "강한 보상 감각 반응이 준비적 정책 학습을 방해한다"로 묶일 수 있다. 두 논문 모두 이 연결을 명시하지 않는다.
 
+- **보상 간격 혼입 가능성**: ref 50 preprint의 게재판 [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]은 보상당 학습률이 보상 간격(IRI)에 비례하고, 30–600 s에서 학습 총 시간이 시행 수와 무관함을 보였다. 숨은 표적 과제의 5 µl × 180 vs 100 µl × 9는 세션당 보상 횟수가 20배 달라 간격도 달랐을 가능성이 높다(이 논문에 IRI 자료 없음). 크기 효과의 일부가 간격 효과일 수 있다. 반면 joystick·IBL·광자극 실험은 시행 간격을 유지하고 크기만 바꿨다. Burke는 Pavlovian 과제라 그대로 옮길 수 없다.
+
 ## 원문 내 불일치·주의 (기록)
 - **숨은 표적 과제의 세션 총량**: 본문은 "5 µl × 180 = 100 µl × 9"(= 0.9 mL)로 적고, Methods는 "누적 0.8 mL 수집 시 세션 종료"로 적는다.
 - **IBL 군 크기·큰 보상 규칙**: Fig. 5B legend는 표준 n=6·큰 보상 n=4·"성공 시행 무작위 5–10%에 50 µl"로, 그림 라벨은 큰 보상 n=6·표준 n=4로, Methods는 "**매 5번째** 성공 시행에 추가 45 µl"로 적는다. 총 10마리는 일치한다.
@@ -138,3 +140,4 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 - [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 측정 부위(NAc core)와 상위 hub.
 - [[concept-digital-therapeutics]] — 보상 스케줄 설계로의 이식 가설(위 함의 절).
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 논문이 '도파민 밖 RL' 후보로 든 ACh가 NAc에서는 **도파민 방출 자체를 노력에 따라 증폭**한다(보상 크기에는 무반응). 큰 보상 모사 자극의 실제 방출량이 과제 노력에 따라 달라질 가능성(연결 해석).
+- [[burke-2026-duration-between-rewards-controls-the]] — ref 50 preprint의 게재판(추정). 보상당 학습률 ∝ 보상 간격 → 숨은 표적 과제의 간격 혼입 긴장.

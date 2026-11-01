@@ -268,3 +268,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[zhao-2026-serotonin-neurons-in-the-dorsal]] — SK3 결손이 chow-only 조건의 임신기 섭취(Need)는 바꾸지 않고 간헐 기호식 추구만 되돌림 → Need/Motivation의 분자 수준 해리 후보(연결 가설).
 - [[concept-dopamine-learning-rate]] — Need가 가치뿐 아니라 학습률도 바꾸는가(포만 → α↓ 추측, Grima 2026). NMPU에 학습 속도 축을 붙이는 연결 가설.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — NAc ACh = **노력만**, 도파민 = 크기 + 노력 → Motivation(비용·지속)과 Pleasure/Utility(크기)를 세포 수준에서 가를 후보(연결 해석).
+- [[burke-2026-duration-between-rewards-controls-the]] — Pleasure의 회고적 교사 신호 강도가 같은 결과의 드묾(보상 간격)에 비례한다는 정량 규칙(연결 해석).

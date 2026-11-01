@@ -2,7 +2,7 @@
 title: "Chronic unpredictable food availability promotes food reward, overeating, and weight gain — a novel animal model of food insecurity (Myers 2022)"
 type: paper
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-11-01
 source: "raw/2019 Appetite. Chronic experience with unpredictable food availability promotes food reward, overeating, and weight gain in a novel animal model of food insecurity.pdf"
 authors: [Myers KP, Majewski M, Schaefer D, Tierney A]
 year: 2022
@@ -33,3 +33,4 @@ year: 2022
 - [[bateson-2023-food-insecurity-as-a-cause]] — insurance hypothesis(섭취 무관 체중↑와 호응).
 - [[concept-dopamine-reward-system]] · [[concept-need-motivation-pleasure-utility]] — reward 동기↑·감쇠 차단.
 - [[concept-loss-of-control-eating]] — 과식·meal size↑.
+- [[burke-2026-duration-between-rewards-controls-the]] — 보상 확률을 낮춰 보상 간격이 길어지면 보상당 cue 학습이 커진다(마우스 Pavlovian). 불규칙 급식 → food reward↑를 보상 간격 관점에서 읽을 수 있는지에 대한 연결 가설(원문들의 주장 아님).
