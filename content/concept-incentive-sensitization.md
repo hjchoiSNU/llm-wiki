@@ -2,7 +2,7 @@
 title: "유인-감작 이론 (incentive-sensitization theory)"
 type: concept
 created: 2026-06-20
-updated: 2026-10-11
+updated: 2026-11-01
 aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 감작, 유인-감작, sensitization]
 ---
 
@@ -70,3 +70,4 @@ aliases: [incentive sensitization, incentive-sensitization theory, IST, 유인 �
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — Box 2(추측): 코카인이 초기 감지 성분을 가치 창까지 연장해 거짓 가치 신호를 만든다는, 감작과 다른 도파민 중독 설명.
 - [[concept-reward-prediction-error]] — 유인 현저성 해석이 RPE·지각된 현저성·ANCCR와 어디서 갈리는지(상태 급변 시 즉시 원함 등).
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — incentive salience 이론이 중독의 내성과 추구 행동 과잉을 쾌감 이론보다 잘 설명한다는 논지. Kang의 '도파민계 민감화'(D2H 증가)는 주로 정신증 모델.
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 초생리 VTA DA 자극(내인성의 3–5배)은 cue에 가치 같은 반응을 가르치고, 초기 보상 감각 DA가 큰 개체는 반응적 cue 반응 쪽으로 치우친다. 저자는 정책 학습의 반응 성분이 유인 현저성의 **획득**(발현은 아님)을 모델링할 수 있다고 제안하고, 중독을 장시간·고강도 DA 자극으로 모델링하는 것을 지지한다.

@@ -60,6 +60,7 @@ flowchart TB
 > [!note] 2026-11-01 보강 — 학습 단계 축
 > - **NAc core, 학습 초기**: [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]의 무경험 6선택지 foraging에서 NAcC 보상 DA는 선택지 질(최대 80배)을 반영하지 않고 방문 수에 따라 모든 선택지에서 같은 속도로 감쇠했다. 이는 모델의 **전역 학습률 α(τ)** 와 일치하고, 회귀 dropout에서 α가 RPE보다 많이 설명했다. [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]에서는 NAc DA 보상 반응이 5–100 µl 범위에서 크기·지속시간 모두 보상량에 비례했다. → 표 1의 NAc core 칸(ANCCR·V·주관적 가치)은 주로 훈련된 동물이나 용액 가치 차이에서 나온 서술이므로 **학습 단계**를 함께 적어야 한다. 개념 hub [[concept-dopamine-learning-rate]].
 > - **DMS, 무경험 foraging**: 같은 과제에서 DMS DA는 학습률·RPE 어느 예측변수를 빼도 설명력이 거의 변하지 않았고, 이동 중 반응이 공간에 넓게 분포했다(Grima 2026; 운동 측면 조절은 저자 추측).
+> - **NAc core vs DS, Pavlovian 무경험 학습**: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]에서 NAc core 보상 DA는 학습 중 줄지 않았고(0.82→1.16 z) cue 반응만 늘었다. 배측 선조체(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3). 같은 논문의 폐루프 보정 자극은 NAc core 투사 DA가 **학습률**로 작동한다는 근거다.
 
 ## 표 2. 역할 × subregion
 
@@ -111,3 +112,4 @@ flowchart TB
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — TS threat PE·action PE.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] · [[yang-2026-a-sync-state-in-the]] — VTA 쪽 소비 bout 연장과 영양 학습 sync state.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — NAc core 도파민의 학습 초기 역할 = 전역 학습률(표 1 아래 2026-11-01 보강). 무경험 foraging의 DMS 도파민은 학습률·RPE 어느 쪽과도 불일치.
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 학습 초기 NAc core 보상 DA는 줄지 않고 cue 반응만 증가했다. 배측 선조체(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3) → 초기 학습기에는 중변연계 신호가 주역.

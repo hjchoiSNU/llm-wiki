@@ -36,3 +36,4 @@ updated: 2026-11-01
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — vigor의 **유지(bout 길이)** 성분에 VTA DA 인과를 붙인 자료. 같은 페이지의 "DA=개시" 서술(Gordon 2026)과 충돌하므로 나란히 둘 것.
 - [[overview-dopamine-roles-by-striatal-region]] — vigor 개시(bout 수: NAcCR·DMS·DLS 도파민이 예측)와 유지(bout 길이: VTA, Zhu 2025)를 subregion별로 나눈 표.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 큰 보상의 긴 핥기 bout와 함께 오는 DA plateau를 학습률·관여 신호로 해석. 1 s 연장 자극이 학습·관여를 올리고 다음 시행 개시 잠복기를 줄였다.
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 보상 수거 잠복기(반응 성분)와 예기 핥기(준비 성분)를 **정책 학습의 출력**으로 모델링(ACTR의 핥기 plant). 소비 개시 지표를 학습 대상으로 보는 틀.

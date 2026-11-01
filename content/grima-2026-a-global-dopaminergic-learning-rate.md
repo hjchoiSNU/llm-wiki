@@ -59,7 +59,7 @@ journal: "Neuron 114:3443–3458 (2026-09-16; 온라인 2026-05-08; 접수 2025-
 - **"α == DA"**: NAcC 보상 반응을 α(τ)와 같은 매개함수로 개체별 적합해 그 파라미터로 AQUA를 돌리면, 최적 적합 α(τ)와 **동등하게** 행동을 설명했다(Fig. 4G–H).
 
 ### Fig 5 — 보정된 VTA DA 광자극이 모델 예측대로 학습을 바꾼다
-- DAT-Cre::Ai32(n=7), 양측 VTA 광섬유. 30 Hz × 5 pulse = **150 ms**, ~2 mW/측(Coddington 2023 파라미터). 사전 보정 세션에서 NAcC dLight로 **보상 DA 과도반응이 약 2배**가 되도록 LED 출력을 맞췄다.
+- DAT-Cre::Ai32(n=7), 양측 VTA 광섬유. 30 Hz × 5 pulse = **150 ms**, ~2 mW/측([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]] 파라미터). 사전 보정 세션에서 NAcC dLight로 **보상 DA 과도반응이 약 2배**가 되도록 LED 출력을 맞췄다.
 - **실험 1 — 국소 교란**: 최악 4개 꼭지의 보상 방문에서만 자극했다. 선택이 그 꼭지들로 치우쳤고, 시간이 지나며 **matching 민감도가 손상**됐다. 4개 꼭지의 학습률 감쇠만 늦춘 AQUA 시뮬레이션과 정량적으로 일치했다(Mann-Whitney). 몇 배의 학습률 변화도 보상을 더하는 효과보다 **미묘한 편향**만 만든다는 예측과 맞았다.
 - **실험 2 — 전역 증강**: 환경 변화(contingency change) 뒤 **모든 보상 방문**에서 자극했다. **선택 민감도 회복이 빨라졌다**. Discussion은 이를 "학습률 감쇠를 늦춰 회복을 가속"한 것으로, AQUA 예측과 같다고 서술한다.
 - 저자 결론: 이 단계의 무경험 학습은 중변연계 DA에 의존한다. Pavlovian 초기 학습 궤적을 보정 DA 자극이 양방향으로 바꾼다는 선행 결과(Coddington 2023)와 정합한다.
@@ -79,7 +79,7 @@ journal: "Neuron 114:3443–3458 (2026-09-16; 온라인 2026-05-08; 접수 2025-
   - phasic DA는 피질선조체 가중치 변화의 **비례상수(α)** 를 정하지만 **부호나 크기를 직접 정하지는 않는다**. 부호와 크기는 피질선조체 활동 상관·eligibility trace가 정한다. 알고리즘 수준의 차이는 DA가 **부호 있는 덧셈 성분(δ)** 이냐 **부호 없는 곱셈 성분(α)** 이냐다.
   - 비보상 방문에서 추정치를 깎는 β(≈1−α)는 **DA pause → D2⁺ SPN 입력 가소성**으로, 보상 방문의 α는 **DA burst → D1⁺ SPN 입력 가소성**으로 구현될 수 있다(D1은 DA 증가에, D2는 감소에 PKA로 반응; Lee 2021; D2 pause가 변별 학습에 필수라는 Iino 2020). 선택 ≃ W_D1 − W_D2 형태로, OpAL과 개념적으로 비슷하다.
   - **판별 예측**: 높은 학습률은 **보상 시 큰 양의 반응과 누락 시 깊은 dip을 동시에** 예측한다. RPE는 양의 반응이 클 때 누락 dip이 작거나 없고, 누락 dip이 학습에 따라 **천천히 획득**되며, 선택지마다 다른 반응을 예측한다. FoMO 데이터는 앞쪽(학습률)과 맞는다.
-  - 이전 모델 **ACTR**(Coddington 2023)은 단일 선택지 Pavlovian(누락이 드묾)을 다뤘다. AQUA는 누락이 흔하고 학습에 결정적인 다선택지로 그 틀을 일반화한 것이다.
+  - 이전 모델 **ACTR**([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]])은 단일 선택지 Pavlovian(누락이 드묾)을 다뤘다. AQUA는 누락이 흔하고 학습에 결정적인 다선택지로 그 틀을 일반화한 것이다.
 
 ### 방법 요약
 - 34마리: DAT-cre 19(암 7; GCaMP8m), WT 8(암 2; dLight1.3b), DAT-cre::Ai32 7(암 3; 광유전). 3개월–1년령. config 1 20마리(간격 일정 photometry 전부와 확률 일정·광유전 개체 포함). **성별은 분석 요인에 넣지 않았다.**
@@ -95,12 +95,15 @@ journal: "Neuron 114:3443–3458 (2026-09-16; 온라인 2026-05-08; 접수 2025-
 - **판별 실험 체크리스트에 추가**: (a) 학습 초기 누락 dip의 크기와 출현 시점, (b) 질이 다른 선택지들 사이 보상 반응의 순위 scaling 유무, (c) 환경 변화 직후 DA 상승이 국소(변한 선택지)인지 전역(모든 선택지)인지. 이 셋이 학습률과 RPE를 가른다(→ [[concept-dopamine-learning-rate]] 판별표).
 
 ## ⚠️ 위키 내 충돌·긴장 (병기 — 덮어쓰지 않음)
+- **원전 ACTR과의 차이**: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]](Pavlovian, 800시행)에서는 NAc 보상 DA가 학습 중 **유의하게 줄지 않았고**(0.82→1.16 z), 기대한 자극의 누락에 DA 억제가 없었다. 이 논문의 "방문 수에 따른 감쇠"와 "가장 초기부터 깊은 누락 dip"은 과제(누락이 흔한 다선택지)의 차이로 설명되지만, ACTR의 β(정책 변화 + 감각 입력)와 AQUA의 α(τ)(지수 감쇠)가 같은 양인지는 정식 비교되지 않았다.
 - **무경험기 보상 DA 추세**: 이 논문(그리고 [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]])에서 NAcC DA 보상 반응은 방문·훈련에 따라 **감쇠**한다. [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]] Test 1에서는 무경험 머리 고정 마우스의 반복 무예측 sucrose 반응이 **증가**한다. 과제(자기 개시 foraging vs 무예측 전달), 보상 간격(수 초–수십 분 재충전 vs 평균 12 s), 보상(물 vs sucrose)이 다르다. 흥미롭게도 Jeong 2022의 ANCCR 시뮬레이션도 무경험 동물에 **α가 0.25에서 0.02로 지수 감쇠**하는 학습률을 가정한다 → "감쇠하는 학습률"은 두 진영이 공유하는 가정이고, 그것을 DA가 **직접 싣는지**가 쟁점이다.
 - **DA = 선택지 가치?**: [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]·[[pascoli-2026-conditioned-accumbal-dopamine-transients|Pascoli 2026]] 등 위키의 "전방·복측 DA = 가치·주관적 가치" 서술([[concept-striatal-dopamine-gradient]])은 대부분 훈련된 동물이나 용액 가치 차이에서 나왔다. 이 논문은 **학습 초기 다선택지**에서 NAcC 보상 반응이 선택지 질(최대 80배)을 반영하지 않는다고 본다. 학습 단계를 적지 않으면 두 서술이 충돌하는 것처럼 읽힌다.
 - **mPFC 기원 가능성과 Hjort 2026**: 저자는 학습률 조절 입력 후보로 VTA로 투사하는 전전두의 환경 변동성 상관 활동을 든다. [[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort 2026]]은 mPFC→VTA가 RPE의 rolling-average gain(meta-RPE)을 조절해 contingency degradation을 구동한다고 보고했고, 그 모델 비교에서 Pearce–Hall·이중 학습률(RPE2α) 같은 학습률 적응 모델은 mRPE에 졌다. "gain 조절"이라는 공통 개념 아래 두 lab의 모델이 같은 것을 가리키는지는 위키 자료로 판단할 수 없다(자료 없음).
 - **DMS DA**: [[overview-dopamine-roles-by-striatal-region]]은 DMS를 목표지향(A–O)·칼로리 가치로 정리한다. 이 논문의 무경험 foraging에서 DMS DA는 학습률·RPE 어느 쪽과도 맞지 않고 공간에 넓게 분포했다. 과제·단계 차이로 병기한다.
 
 ## 관련 페이지
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — ★ 학습률 가설 원전(ACTR, Pavlovian 정책 학습, 보정 폐루프 자극 역설). 본 논문은 그 다선택지 일반화이며 150 ms 보정 자극 파라미터를 이어받았다.
+- [[person-dudman-joshua]] — 교신저자 인물 hub.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — ★ **같은 lab의 짝 논문**(Science 2026; 본 논문 bioRxiv판을 ref 18로 인용): 보상 크기가 학습 효율을 정하고, 소비 중 DA 지속이 학습률·관여를 올린다.
 - [[concept-dopamine-learning-rate]] — 학습률 가설 개념 hub.
 - [[concept-reward-prediction-error]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 논쟁. Gershman 2024가 "framework 밖 도전"으로 든 Coddington 2023 학습률 모델의 다선택지 확장.

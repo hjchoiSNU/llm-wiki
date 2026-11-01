@@ -207,3 +207,4 @@ ANCCR 시뮬레이션은 RPE 지지 근거로 쓰여 온 결과들을 질적으�
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 반례로 병기된 Kutlu 2021 [34]의 내용 요약(2차); 같은 처벌 데이터의 KCS 현저성 설명 vs ANCCR 설명(Discussion iii).
 - [[concept-reward-prediction-error]] — 본 논문 11개 검증의 판별 조건(무예측 보상 반복·직전 IRI·소거)을 다른 해석들과 나란히 놓은 hub.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — Gong 2026이 본 논문을 "phasic DA = 이산화된 적응적 학습률"의 예로 인용(ref 27). 두 논문의 조작적 과제에서는 NAc 보상 DA가 학습 초기에 **감소**해 Test 1(증가)과 방향이 반대다. 과제 구조 차이로 병기.
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 또 하나의 "RPE 상관은 다른 계산의 부산물" 모델(ACTR, 학습률). Pavlovian 무경험 학습에서 NAc 보상 DA가 줄지 않아(0.82→1.16 z) Test 1의 방향과 가깝다. 본 원전 시뮬레이션이 재현했다는 Coddington & Dudman 2018의 "초기 보상 반응 상승"과 같은 lab의 후속.

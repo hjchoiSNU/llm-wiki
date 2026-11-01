@@ -59,7 +59,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - "I think it plays a role in whatever you're studying."
 
 ### 학습률 가설 (Dudman, Janelia) — 2026-11-01 추가
-- 도파민 = 갱신식의 **학습률 α**(곱셈·부호 없음)이지 RPE δ(덧셈·부호 있음)가 아니라는 가설. 원전 Coddington 2023(ACTR)은 위키에 없다.
+- 도파민 = 갱신식의 **학습률 α**(곱셈·부호 없음)이지 RPE δ(덧셈·부호 있음)가 아니라는 가설. 원전 [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]](ACTR): Pavlovian 정책 학습, 보정 폐루프 VTA DA 자극이 학습률 예측대로 역설적 결과를 냄, 비보정 큰 자극은 오류처럼 작동.
 - [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 6선택지 foraging에서 NAcC 보상 DA = 지수 감쇠하는 전역 학습률, 보정 VTA DA 자극이 모델 예측대로 학습을 양방향으로 바꿨다.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 큰 보상으로 나누면 학습 ≥10배↑. 소비 중 DA 지속(1 s 자극)이 학습률과 관여를 함께 올린다.
 - 개념 hub: [[concept-dopamine-learning-rate]].

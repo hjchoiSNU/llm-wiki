@@ -49,3 +49,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA 입력은 dSPN/iSPN 비특이, **striosome에서 NMDA/AMPA 비↑**, DLS에서 **원위 수상돌기(~100 μm) 편향** → upstate gating으로 수렴 입력 증폭 (Neuron 2026).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. DLS dSPN·iSPN(D1-Cre·A2a-Cre) 단일세포 종단 기록으로 음식 추구의 습관화와 실제 섭취의 연결을 검증하는 설계.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — DA burst → D1 SPN(α) / DA pause → D2 SPN(β) 가소성으로 학습률을 구현한다는 기전 제안(검증 전 가설).
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — actor–critic과 달리 **복측 선조체를 정책을 정하는 actor의 일부**로 보는 제안. DA는 피질선조체 가소성의 학습률(eligibility trace를 DA burst 시점에 읽음).

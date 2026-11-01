@@ -85,3 +85,4 @@ updated: 2026-11-01
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — NAc core 도파민 = 지각된 현저성(Kutlu 2021, dispatch 요약); core·shell이 반대 기능/방출 타이밍을 가질 수 있다는 단서.
 - [[overview-dopamine-roles-by-striatal-region]] — NAc core(ANCCR·V·주관적 cue 가치)와 shell(원함·hedonic 섭식, medial≠lateral)의 도파민 역할을 dorsal striatum·TS와 나란히 비교.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — NAc core 도파민 = 학습 초기 전역 학습률(α)이자 보상 크기에 비례하는 신호(Dudman lab 2026).
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — NAc core DA = 무경험 Pavlovian 정책 학습의 적응적 학습률. 초기 보상 DA가 클수록 덜 배우는 개체차, "NAc = actor" 제안(Nature 2023).

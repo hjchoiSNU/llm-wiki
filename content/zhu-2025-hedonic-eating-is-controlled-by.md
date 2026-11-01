@@ -109,3 +109,4 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 감량 방식에 따른 선조체 도파민 재설정 방향 논의와 연결.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량이 진행될수록 쾌락 회로 반응이 되살아난다는 생쥐 짝 자료. **두 초안이 함께 게시될 때만** 링크가 유효.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — 소비 중 DA 지속을 학습률·관여 신호로 읽는 대안 해석. Gong 2026은 본 논문을 항상성 충족 중 느린 DA 역학의 예로 인용(ref 80).
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — "DA 자극을 내인성 크기에 보정해야 한다"는 방법론 원전: 보정 자극은 학습률처럼, 비보정 큰 자극(3–5배)은 부호 있는 오류처럼 작동. 본 논문의 photometry 보정 lick-contingent 자극이 이 기준을 충족한다.

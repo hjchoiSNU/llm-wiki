@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 542 (+ index.md, log.md)
+- 총 페이지: 544 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-01
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -587,6 +587,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-kim-kirang]] — 한국 식품 불안정·식품환경 역학(노인·청소년·취약계층). 단국대 식품영양학과.
 - [[person-grossman-nir]] — 시간간섭자극(TI) 개척자. 비침습 심부 신경조절. Imperial College London / UK DRI.
 - [[person-kwon-hyung-bae]] — 활성 의존 태깅(Cal-Light)·NAc 보상/목표 기억 회로. Johns Hopkins/MPFI. 한국(DGIST·고려대) 연계. · 🔑 Hyung-Bae Kwon, H-B Kwon, 권형배
+- [[person-dudman-joshua]] — "도파민 = 적응적 학습률" 가설(ACTR 2023·AQUA 2026·보상 크기 2026); 보정·폐루프 DA 자극 설계. Janelia HHMI. · 🔑 Joshua Dudman, Dudman lab, J.T. Dudman
 - [[person-sharpe-melissa]] — "cognitive lateral hypothalamus"·도파민 결과-특이적 학습 신호. UCLA / University of Sydney. · 🔑 Melissa Sharpe, Sharpe MJ, M.J. Sharpe
 - [[person-kim-sung-yon]] — 김성연. SNU(Institute of Molecular Biology and Genetics·Chemistry·Neuroscience). LH^Vgat을 종단 2광자 단일세포 영상으로 연구: 행동성 체온조절(Jung 2022) → salience vs ingestion ensemble(Lee 2026). 사용자 lab 논문 인용. · 🔑 Sung-Yon Kim, 김성연 lab
 - [[person-kim-min-seon]] — 시상하부→말초(신장·췌장·장) 자율신경 대사 회로; POMC PKA→DMV→장 SGLT1. Asan Medical Center / Ulsan (한국). · 🔑 Min-Seon Kim, Kim MS, 김민선
@@ -697,6 +698,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — 적응적 학습률 (Adaptive learning rate; Dudman lab)
 개념 hub: [[concept-dopamine-learning-rate]] — 도파민 = 갱신식의 **α(곱셈·부호 없음)**이지 δ(덧셈·부호 있음)가 아니라는 가설. 정의·판별표(학습 초기 누락 dip·선택지 간 반응·전역 변화·보상 크기)·위키 내 "학습률" 서술 지도. · 🔑 learning rate hypothesis, step size, ACTR, AQUA, Coddington 2023, learning efficiency
+- ★ [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — **원전**: 무경험 trace conditioning = 보상 수거를 빠르게 하는 **직접 정책 학습**(TD 가치 학습보다 적합). RNN 모델 ACTR에서 DA를 학습률로 둘 때만 행동·DA 재현. ★ **보정 폐루프 VTA DA 자극 역설**: 예기 핥기 시행에 DA↑ → 예기 핥기↓, 안 핥은 시행 → ↑(오류·RPE·강화 모델과 반대). 초기 보상 DA가 클수록 덜 배움(r=0.81). 비보정 큰 자극(3–5배)은 부호 있는 오류처럼 cue 가치 학습 유발 (Nature 2023, Dudman lab). · 🔑 ACTR, REINFORCE, policy learning, stimLick+, jRCaMP1b, preparatory/reactive
 - ★ [[grima-2026-a-global-dopaminergic-learning-rate]] — 무경험 마우스가 2 m 경기장 6개 물 꼭지(보상률 최대 80배 차이)에서 수십 분 만에 matching. stay/leave + 거리 가중 효용 + **지수 감쇠 전역 학습률 α(τ)** 모델(AQUA)이 행동을 재현. **NAcC DA 보상 반응 = 선택지 질과 무관하게 감쇠하는 전역 α**(dropout α > RPE), DMS는 불일치. 보정 VTA DA 자극이 국소(편향)·전역(회복↑)으로 모델 예측대로 작동 (Neuron 2026, Dudman lab). · 🔑 FoMO, MVT(marginal value theorem), undermatching, GCaMP8m, dLight1.3b, D1/D2 SPN α/β
 - ★ [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 같은 총 보상을 **소수의 큰 보상(≥50 µl)** 으로 주면 탐색·노력 운동기술·IBL 의사결정 학습이 강화 횟수 기준 ≥10배 빨라지고 개체차↓. 학습 효율 = 학습률 + 세션 간 보존(capture) + 관여(engagement)(R²=0.82). NAc DA는 보상량에 따라 크기·지속시간이 커지고, 1 s VTA DA 자극은 학습률↑·상태형 이탈 소거, 150 ms는 학습률만↑, 보존은 재현 못 함. Pavlovian cue 변별엔 오히려 해로움 (Science 2026, Dudman·Coddington). · 🔑 downshift, joystick reach-to-pull, IBL(International Brain Laboratory), methylphenidate, GRAB-rDA3m, dLight1.3b
 

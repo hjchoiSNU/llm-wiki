@@ -8,6 +8,27 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-01 — ingest (1편, 학습률 가설 원전 — Coddington 2023 Nature)
+같은 날 앞 ingest에서 "우선 확보"로 남긴 공백을 사용자가 채웠다. `raw/s41586-022-05614-z.pdf`(DOI 파일명)를 읽었다(웹 미사용). 업로드 직후 Drive 커넥터가 빈 텍스트를 반환해, 텍스트 추출이 끝난 뒤 다시 받아 **본문·Methods·참고문헌·Extended Data Fig. 1–10 legend 전부**를 정독했다. Supplementary Table 1(개체별 실험 배정 순서)은 PDF에 없다.
+- **[[coddington-2023-mesolimbic-dopamine-adapts-the-rate]]** — "Mesolimbic dopamine adapts the rate of learning from action"(Nature 614:294, Janelia; Coddington·Lindo·Dudman).
+  - 무경험 머리 고정 trace conditioning을 **보상 수거 잠복기를 줄이는 직접 정책 학습**으로 기술했다. 저차원 비교에서 정책 학습이 TD 가치 학습보다 잘 맞았다(ΔLL −253, 9/9).
+  - RNN 모델 **ACTR**: 준비(예기 핥기)·반응(수거 잠복기) 학습을 수행 오차로 갱신하고, 그 크기를 DA 유사 β(정책 변화 + 감각 입력)가 정한다. β를 PE로 바꾸거나 적응 성분을 없애면 성능이 나빠졌다.
+  - ★ **보정 폐루프 VTA DA 자극 역설**: 150 ms, NAc 보상 DA 약 2배. lick+ 시행 자극(n=5)은 예기 핥기와 cue DA를 **낮췄고**, lick− 시행 자극(n=6)은 높였다(각 P=0.002). TD on/off-policy RPE·PE·단순 강화 모델은 적어도 한쪽에서 반대 방향을 예측한다.
+  - 비보정 큰 자극(500 ms, ~10 mW, 내인성 3–5배)은 부호가 뒤집혀 오류처럼 작동했다. 빛 cue와 짝지으면 cue DA 반응이 생겼다(보정 자극은 생기지 않음).
+  - **개체차 역설**: 초기 NAc 보상 DA가 클수록 최종 수거가 느렸다(r=0.81). 최종 예기 행동과는 r=−0.85.
+  - NAc 보상 DA는 학습 중 유의하게 줄지 않았다(0.82→1.16 z). DS DA는 늦게 형성됐다.
+  - cue DA를 키워도 그 시행의 예기 핥기는 불변이었다(ED4).
+- **원문 불일치 기록**: Fig 5 예기 핥기 수치의 부호(추출 손실 가능, 방향은 본문 서술 기준), 큰 자극 12 vs 10 mW, 그림 번호 오기(Fig. 5b→6b, Methods의 Fig. 1k·5i), Methods의 "juxtacellular" 잔존 문구.
+- **병기한 긴장**: ① 학습률 진영 안의 **보상 DA 시간 모양** — Coddington 유지·소폭 증가, Grima·Gong 감쇠, Jeong Test 1 증가. ACTR β와 AQUA α(τ)가 같은 양인지는 정식 비교가 없다. ② **긴·큰 자극 해석** — Coddington은 500 ms·10 mW를 "학습률 + 오류"로, Gong은 1 s·8–10 mW를 "큰 보상 모사 → 학습률·관여"로 읽는다(같은 lab, 과제 차이). ③ cue DA의 즉각 구동 부재(ED4) vs [[pascoli-2026-conditioned-accumbal-dopamine-transients|Pascoli 2026]]·[[hamid-2016-mesolimbic-dopamine-signals-value-work|Hamid 2016]]·[[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]]. ④ (연결 해석) Gong 2026의 "큰 보상 → Pavlovian 예기 핥기 손상"과 Coddington의 "초기 감각 DA 큼 → 예기 핥기 덜 학습"은 같은 방향이다.
+- **인물 페이지 신설 [[person-dudman-joshua]]**: 위키 내 원전이 3편이 돼, 앞 ingest에서 보류한 기준("2편뿐")을 넘었다.
+- **본문 수정**:
+  - [[concept-dopamine-learning-rate]]: takeaway 1차 근거 3편, §2 원전 행 교체, §3 판별표에 폐루프 역설·자극 크기·개체차 3행 추가와 세션 추세 행 보강, §4 ACTR β, §8 공백 갱신.
+  - 링크·서술 교체: [[gong-2026-reward-magnitude-determines-reinforcement-learning]](배경 링크, 긴장 2건), [[grima-2026-a-global-dopaminergic-learning-rate]](원전 링크 2곳, 원전과의 차이 긴장), [[gershman-2024-explaining-dopamine-prediction-errors-beyond]](§3 제목·내용), [[concept-dopamine-reward-system]](원전 없음 → 링크).
+  - [[concept-reward-prediction-error]](§3-1 원전 bullet: "자극 크기도 해석을 바꾼다"), [[concept-anccr]](증거 지도 행), [[adam-2026-dopamine-takes-hit-how-neuroscience]](Dudman 절), [[overview-dopamine-roles-by-striatal-region]](NAc core vs DS note).
+- **역링크 추가**: [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-incentive-sensitization]] · [[pascoli-2026-conditioned-accumbal-dopamine-transients]] · [[zhu-2025-hedonic-eating-is-controlled-by]](보정 자극 방법론) · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[concept-medium-spiny-neuron]]("복측 선조체 = actor") · [[concept-nucleus-accumbens]] · [[concept-consumption-vigor]] · [[concept-cue-reactivity]]. 표 안 wikilink의 `|`는 `\|`로 이스케이프했다.
+- [[index]]: 🎯 학습률 진영 맨 앞에 원전, 👤에 Dudman. 총 544.
+- **남은 공백**: Coddington & Dudman 2018(ACTR β의 "행동 + 감각 성분" 근거, juxtacellular), Iino 2020·Lee 2021·Krausz 2023·Lak 2016·Eshel 2016·Beeler 2012 — 원문 없음.
+
 ## 2026-11-01 — ingest (2편, Dudman lab 도파민 학습률 — Gong 2026 Science · Grima 2026 Neuron + Hjort 사본 등록)
 클라우드 세션. `llm-wiki-raw`의 2026-11-01 업로드 4개 파일을 `source:` 계열과 대조했다(웹 미사용). 결과는 **새 논문 2편 + 보충자료 1 + 기존 논문의 사본 1**이다. Drive 커넥터 `read_file_content`로 전문을 받아 정독했다. Gong 본문(참고문헌 포함)과 보충자료(Methods·Supplementary Note·figs. S1–S7 legend) 전부, Grima 본문·Discussion·STAR Methods·참고문헌 전부를 읽었다. ⚠️ **Grima의 보충 그림 S1–S16은 PDF에 없어(온라인 전용) 본문 설명 문장 기준으로만 기록**했다. 두 PDF 모두 2단 조판이 섞여 추출됐지만 문장 단위로 복원 가능했다.
 - **[[gong-2026-reward-magnitude-determines-reinforcement-learning]]** — "Reward magnitude determines reinforcement learning efficiency"(Science 392:eaeb0813, Janelia; 책임 Dudman·Coddington). `source: raw/science.aeb0813.pdf`, `source_suppl: raw/science.aeb0813_sm.pdf`. 같은 총량을 **소수의 큰 보상**(≥50 µl)으로 주면 숨은 표적 탐색·노력 joystick·IBL 2AFC 학습이 강화 횟수 기준 ≥10배 빨라진다. downshift(첫날만 100 µl)로도 같은 효과가 났다. 학습 효율 = 학습률 + 세션 간 보존 + 관여(R²=0.82)이고, 개체차의 최대 원천은 **관여**였다. NAc DA는 5–100 µl에서 크기·지속시간이 모두 비례했다. VTA DA 1 s 자극은 학습률을 올리고 상태형 이탈을 없앴으며, 150 ms 자극은 학습률만 올렸다. **보존은 어느 자극도 재현하지 못했다.** Pavlovian 3-cue 변별에서는 큰 보상이 CS+/CS– DA 변별·예기 핥기·누락 억제를 망쳤다. Supplementary Note: 표준 TDRL에서는 점근 시간이 보상 크기와 무관하고, **역치 통과로 재면 α와 R이 구분되지 않는다**.

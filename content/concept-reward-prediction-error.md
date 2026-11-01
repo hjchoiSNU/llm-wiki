@@ -46,6 +46,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - **처벌과 현저성**: 처벌도 meaningful causal target이며, ANCCR에 곱하는 강도를 **부호 있는 incentive value** 또는 **그 절댓값(salience)**으로 둘 수 있고 NAc core vs medial shell이 둘을 달리 신호할 수 있다는 추측(suppl. Note 8, 검증 없음). 원전 Discussion은 예측된 처벌에 대한 NAc 도파민 증가와 반복 처벌에 대한 감소(Kutlu 2021)를 ANCCR로 설명한다고 주장 — **같은 데이터에 대한 KCS 현저성 모형과의 경쟁 설명**.
 
 ### 3-1. 적응적 학습률 (Dudman lab) — 도파민 = δ가 아니라 α
+- **원전 [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]**: 무경험 trace conditioning을 직접 정책 학습으로 기술했다. **보정 폐루프 자극**이 판별 실험이다. 평균적으로 음의 PE를 갖는 "예기 핥기 시행"에 DA를 올리면 예기 핥기가 줄고, 양의 PE를 갖는 "안 핥은 시행"에 올리면 늘었다. RPE·오류·강화 해석은 적어도 한쪽에서 반대 방향을 예측한다. 생리 범위를 넘는 자극(3–5배)은 cue에 가치 같은 반응을 가르쳤다 → **측정 수준(§6)에 더해 "자극 크기"도 해석을 바꾼다.** 또 학습 초기 보상 DA가 클수록 덜 배웠다(r=0.81). DA가 갱신 오차의 크기라는 해석과 맞지 않는 결과다.
 - 같은 갱신식 `V ← V + α·(R − V)`에서 도파민이 **부호 있는 덧셈 항 δ** 대신 **부호 없는 곱셈 항 α**(얼마나 크게 고칠지)를 싣는다는 가설이다. 두 표기는 대수적으로 동치라서, 판별은 학습 초기·다선택지·보상 크기 조작에서 이뤄진다. 상세는 [[concept-dopamine-learning-rate]].
 - [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 무경험 마우스 6선택지 foraging에서 NAcC DA 보상 반응은 선택지 질(최대 80배)에 따른 순위 scaling이 없고, **모든 선택지에서 같은 속도로 감쇠**했다. 가장 초기부터 깊은 누락 dip이 있었고, 환경 변화에는 국소 오차가 아닌 전역 상승으로 반응했다. 회귀 dropout에서 α가 RPE보다 많이 설명했다. DMS DA는 어느 쪽과도 맞지 않았다.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 소수의 큰 보상으로 주면 조작적 학습이 ≥10배 빨라진다(표준 TDRL에서는 점근 시간이 보상 크기와 무관). 위 §5 판별표에 넣는다면 행은 "총량 고정 보상 크기↑"이고, 학습률 가설은 학습 효율↑, 관습적 TDRL은 불변(절대 Q 차이에 비례하는 policy만 예외)을 예측한다.
@@ -108,6 +109,7 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - **LH–VTA–NAc 연구로의 이식**: LH 입력이 VTA에 "예측"을 준다는 [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]]의 RPE 논리 검증, LH 비율이 striatum 도파민 지형을 정한다는 Gordon 2026과 함께, NMPU의 Motivation·Pleasure 신호가 **어느 해석에서 어느 측정 수준으로** 나타나는지를 설계 변수로 둔다.
 
 ## 관련 페이지
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 학습률 축(§3-1)의 원전: 정책 학습, 보정 폐루프 자극 역설, 초생리 자극 = 오류.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — RPE 축의 원전급 정리(두 성분·효용 PE·혐오 재해석).
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 현저성 축(Kutlu 2021 지각된 현저성)의 2차 자료.
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — 인과 학습 축.

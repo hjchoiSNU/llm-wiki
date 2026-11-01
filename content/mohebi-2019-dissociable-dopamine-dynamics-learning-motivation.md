@@ -2,7 +2,7 @@
 title: "Dissociable dopamine dynamics for learning and motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2019 Nature. Dissociable dopamine dynamics for learning and motivation.pdf"
 authors: [Mohebi A, Pettibone JR, Hamid AA, Wong JT, Vinson LT, Patriarchi T, Tian L, Kennedy RT, Berke JD]
 year: 2019
@@ -138,3 +138,4 @@ journal: "Nature 570:65–70"
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **전제 약화**: 본 페이지의 'local control(ChI→nAChR→DA 방출)은 VTA 발화 비의존' 규정에 대해, 그 ChI를 **VTA DA-GLU 버스트가 글루타메이트로 구동**한다고 본다. 본 연구의 optotagging 대상(외측 VTA DA)은 Mingote 지도상 medial shell을 회피하는 **DA-only** 집단. 'NAc shell=reward rate 무상관'도 shell이 추적하는 변수가 **유관성 변화·alerting salience**라면 회귀변수 불일치일 수 있음.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 이 논문의 발화–방출 해리를 "non-RPE cue에 대해 방출하는 미지의 도파민 아집단" 가능성으로 해석한 dispatch(본 페이지의 국소 조절 해석과 대비).
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — Coddington 2023이 이 논문(Mohebi 2019)을 "DA 의존적 cue 동기 가치 부여"의 예로 인용한다(ref 48). Coddington은 그 기능이 생리 범위 phasic DA의 **정책 학습률** 기능과 같은 중변연계 안에서 부분적으로 해리된다고 주장한다.

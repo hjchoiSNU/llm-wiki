@@ -2,7 +2,7 @@
 title: "Cue reactivity (큐 반응성)"
 type: concept
 created: 2026-07-28
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -34,4 +34,4 @@ updated: 2026-10-25
 - [[sharpe-2021-past-experience-shapes-the]] — **무관한 cue를 걸러내는 능력의 회로 근거**(Nat Neurosci 2021). rat LH^GABA를 cue 사전노출 구간에만 광억제하면 **latent inhibition이 소실**된다(eYFP S1<S2 F(1,17)=8.508 P=0.010 → NpHR S1≈S2 F(1,17)=0.492). 같은 억제는 중립·원위 cue 학습을 **촉진**한다 → "보상 근접 cue 학습 vs 원위·무관 cue 학습의 비"를 cue reactivity·DTx의 종결점 후보로 쓸 수 있다(연결 가설).
 - [[rangel-2008-a-framework-for-studying-the]] — cue 반응성의 계산적 위치는 **Pavlovian 가치계**: 손 닿는 음식의 소비 행동에 배고픔과 무관하게 높은 가치를 준다(예: 접시 비우기). 편도 분업은 CeA = 비특이적 준비 반응, BLA = 특이적 반응. 도구적 습관(S-R)과는 다른 계이므로 cue형과 habit형을 따로 재야 한다 (Nat Rev Neurosci 2008).
 - [[hutelin-2026-metabolic-and-neural-responses-to]] — 식후 대사(carbohydrate oxidation·RER) 개인차가 UPF vs non-UPF 음식 사진의 striatal·STG 반응과 연관; value 부호화는 fusiform·lingual·striatum에서 가공도별로 반대 (Nat Metab 2026).
-
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 보상 감각에 대한 초기 DA 반응이 큰 개체는 준비적 정책을 덜 배우고, 초생리 DA는 cue에 가치 같은 반응을 가르친다 → cue 과반응 개체차의 학습 모델 후보(저자는 약물 cue 과민성과 연결).

@@ -100,10 +100,10 @@ RPE 가설은 원형 그대로는 부족하지만, **suitably generalized** (vec
 - (2026-10-03 원전 대조) [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]] Test 1과 일치(단 **실험 무경험 마우스**, 점근 ≈1×incentive value). 원전은 위 도전 1의 **Kim 2020 Cell ramp도 ANCCR로 설명**한다고 주장(fig. S13, 보충자료) — "RPE 결정 실험" 평가와 긴장. 개념 hub [[concept-anccr]].
 - (2026-10-03, Jeong 2022 suppl. 대조) fig. S13A–D 세부: 근거는 Kim 2020 데이터 재분석이 아니라 **ANCCR 시뮬레이션**(1 s cue 8개 계열 + 9 s 보상으로 과제를 이산 근사)으로, teleport 시 표준보다 큰 반응과 속도 변화(빠름↑·느림↓)를 재현하되 속도 조건은 "동물이 상대 속도를 net contingency에 곱한다"는 **추가 가정**에 의존. 따라서 Kim 2020은 위 서술대로 V vs RPE는 가르지만, 원전 주장상 RPE vs ANCCR의 결정 실험은 아니다. 또 suppl. fig. S15는 trial-less 과제에서 TDRL도 **정확한 최소 Markov state space를 a priori로 알면** 연합을 구분할 수 있음을 저자 스스로 인정(반론은 사전지식·state 폭증) — "suitably generalized RPE" 논쟁의 실제 쟁점. suppl. Note 4는 보상률 예측오차가 소거 결과와 맞지 않는다고 봄(본 논문의 average-reward 모델과 동일한지는 원문에 언급 없음).
 
-### 3. Adaptive learning rate (Coddington 2023)
+### 3. Adaptive learning rate ([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]])
 - DA 가 RPE 가 아닌 **adaptive learning rate** 신호 — preparatory + reactive 행동 통합.
 - 학습 초기 cue·reward dynamics 분리 — RPE 예측과 달라.
-- (2026-11-01 보강) 이 도전의 후속 1차 자료가 위키에 들어왔다. [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 6선택지 foraging에서 NAcC DA 보상 반응이 선택지 질(최대 80배)과 무관하게 같은 속도로 감쇠하고, 회귀 dropout에서 RPE보다 **전역 학습률 α**가 더 많이 설명한다. [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 소수의 큰 보상으로 주면 학습이 ≥10배 빨라진다. 표준 TDRL에서는 α가 보상 크기와 무관하므로 이 결과는 "DA = 보상 크기에 비례하는 학습률"과 맞는다. 원전 Coddington 2023은 위키에 없다. 개념 hub [[concept-dopamine-learning-rate]].
+- (2026-11-01 보강) 이 도전의 후속 1차 자료가 위키에 들어왔다. [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 6선택지 foraging에서 NAcC DA 보상 반응이 선택지 질(최대 80배)과 무관하게 같은 속도로 감쇠하고, 회귀 dropout에서 RPE보다 **전역 학습률 α**가 더 많이 설명한다. [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 소수의 큰 보상으로 주면 학습이 ≥10배 빨라진다. 표준 TDRL에서는 α가 보상 크기와 무관하므로 이 결과는 "DA = 보상 크기에 비례하는 학습률"과 맞는다. (2026-11-01 추가) 원전 [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]도 들어왔다. 무경험 trace conditioning은 TD 가치 학습보다 **직접 정책 학습**으로 더 잘 맞고, DA를 학습률로 둔 RNN 모델(ACTR)만 행동·DA를 재현했다. 결정적으로, 보정한 VTA DA 자극을 예기 핥기 시행에만 주면 예기 핥기가 **줄었다**(RPE·오류·강화 모델은 반대 방향 예측). 생리 범위를 넘는 큰 자극은 부호 있는 오류처럼 작동했다. 개념 hub [[concept-dopamine-learning-rate]].
 
 ## "Generalized prediction error" 통합 framework (Fig. 4)
 
@@ -174,6 +174,7 @@ Cortex (state, world model)
 5. **PKA signaling 시간 척도 (10 s)** vs phasic DA (ms): credit assignment 어려움.
 
 ## 관련 페이지
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — §3 "Adaptive learning rate"의 원전(Nature 2023). 일반화 RPE의 "framework 밖" 도전 중 폐루프 자극으로 학습률과 오류를 직접 가른 실험.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — Gershman 의 RPE 옹호 입장 인용 source.
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — "framework 밖" 도전 ANCCR의 원전(11개 검증)과 개념 hub.
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — value signal RPE 통합.

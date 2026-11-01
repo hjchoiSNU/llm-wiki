@@ -23,7 +23,7 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 
 ### 배경 — 학습률은 보상 크기와 무관한가
 - RL 모델에서 학습률(α, step size)은 수렴 속도를 정하는 자유 파라미터이고 보상 크기와 독립적이라고 가정돼 왔다. 그래서 학습은 주로 **경험(보상 횟수)의 양**에 달려 있다고 여겨졌다.
-- 그런데 최근 Dudman lab 모델은 중변연계 도파민이 획득기의 **학습률**을 구현한다고 제안하고(Coddington 2023 Nature, ref 17; [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]], ref 18), 도파민은 고전적으로 보상 크기와 상관한다. 두 사실을 합치면 **보상 크기가 학습 효율을 정할 수 있다**는 가설이 나온다.
+- 그런데 최근 Dudman lab 모델은 중변연계 도파민이 획득기의 **학습률**을 구현한다고 제안하고([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023 Nature]], ref 17; [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]], ref 18), 도파민은 고전적으로 보상 크기와 상관한다. 두 사실을 합치면 **보상 크기가 학습 효율을 정할 수 있다**는 가설이 나온다.
 - 현장의 보상 크기는 매우 좁은 범위에 몰려 있고 마우스 하루 필요량의 <1%에 불과하다. 20 µl도 하루 섭취의 ≤0.5%다.
 
 ### Fig 1·S2 — 확장된 보상 범위에서 NAc 도파민은 크기와 지속시간이 모두 커진다
@@ -113,6 +113,9 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 - **보상 크기와 DA 포화**: Eshel 2016(ref 19, 위키에 원전 없음)은 VTA DA 반응이 1–20 µl에서 포화한다고 보고했다. 이 논문은 10 s 적분으로 재면 5–100 µl에서 포화하지 않는다고 본다. **측정 창(peak vs 적분)과 수준(VTA 발화 vs NAc 방출)** 이 다르다. [[concept-reward-prediction-error]] §6("측정 수준과 시간창이 해석을 바꾼다")과 같은 문제다.
 - **cue 학습의 행동–도파민 해리**: 총량을 맞춘 trace conditioning에서 DA cue 반응은 빨리 배웠는데 행동은 같았다(fig. S6). "cue DA = 행동 학습의 판독치"라는 가정을 쓰는 페이지(예: cue 도파민 = 주관적 가치, [[pascoli-2026-conditioned-accumbal-dopamine-transients|Pascoli 2026]])에 적용할 때 주의한다.
 
+- **긴 DA 자극의 해석 — 같은 lab의 원전과의 긴장**: 이 논문은 1 s·8–10 mW VTA 자극을 ">50 µl 보상 반응의 생리적 모사"로 보고 학습률·관여 증가로 읽는다. [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]은 비슷한 범위의 500 ms·10 mW 자극(내인성의 3–5배)을 **학습률 + 부호 있는 오류 편향**으로 해석했고, Pavlovian cue에 가치 같은 학습을 일으킨다고 보고했다. 과제(조작적 vs Pavlovian) 차이일 수 있으나 두 원전은 이를 비교하지 않는다.
+- **이 논문의 Pavlovian 결과와 원전의 개체차(연결 해석)**: 큰 보상이 Pavlovian 예기 핥기·CS+/CS– 변별을 손상시킨 결과(Fig. 6)는, [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]에서 초기 보상 DA(감각 반응)가 큰 개체일수록 예기 핥기를 덜 배운 결과(r=0.81)와 "강한 보상 감각 반응이 준비적 정책 학습을 방해한다"로 묶일 수 있다. 두 논문 모두 이 연결을 명시하지 않는다.
+
 ## 원문 내 불일치·주의 (기록)
 - **숨은 표적 과제의 세션 총량**: 본문은 "5 µl × 180 = 100 µl × 9"(= 0.9 mL)로 적고, Methods는 "누적 0.8 mL 수집 시 세션 종료"로 적는다.
 - **IBL 군 크기·큰 보상 규칙**: Fig. 5B legend는 표준 n=6·큰 보상 n=4·"성공 시행 무작위 5–10%에 50 µl"로, 그림 라벨은 큰 보상 n=6·표준 n=4로, Methods는 "**매 5번째** 성공 시행에 추가 45 µl"로 적는다. 총 10마리는 일치한다.
@@ -120,6 +123,8 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 - **IBL 공개 데이터**: 현재 IBL 데이터베이스에는 원논문 태그가 154마리로 원논문(140)과 다르다. 저자는 첫 20–50시행부터 전문가 수준이던 16마리를 빼고 139마리를 썼다(무경험과 불일치). 저자는 이 때문에 IBL 코호트의 학습 효율이 오히려 **과대평가**됐을 것이라고 본다.
 
 ## 관련 페이지
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — ★ 학습률 가설 원전(ref 17; 같은 교신저자 Coddington·Dudman): Pavlovian 정책 학습 ACTR, 보정 폐루프 자극 역설. 긴 자극 해석 긴장(위 절).
+- [[person-dudman-joshua]] — 교신저자 인물 hub.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — ★ **같은 lab의 짝 논문**(본 논문 ref 18): 6선택지 foraging에서 NAc core DA = 전역·동적 학습률 α(τ)(AQUA 모델). 본 논문은 그 가설의 "보상 크기" 예측을 검증한다.
 - [[concept-dopamine-learning-rate]] — 학습률 가설 개념 hub(정의·판별 예측·위키 내 학습률 서술 지도).
 - [[concept-reward-prediction-error]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 논쟁. Dudman lab의 "중도/새 모델" 입장의 실험적 근거.
