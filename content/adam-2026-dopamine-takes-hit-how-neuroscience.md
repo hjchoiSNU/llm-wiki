@@ -2,7 +2,7 @@
 title: "What does dopamine actually do?"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2026 Nature. Dopamine takes a hit- how neuroscience is rethinking the ‘feel-good’ chemical.pdf"
 authors: [Adam D]
 year: 2026
@@ -58,10 +58,12 @@ journal: "Nature 651:572–574 (Feature)"
 
 - "open to trying something quite different" — 새 모델 가능성.
 - 측정 기술 (genetically encoded sensors + optical fiber) 발달로 다양한 맥락 측정 가능 → 모델 한계 노출.
+- (2026-11-01 보강) 그 "새 모델"의 1차 자료: 도파민 = **적응적 학습률**(α). 다선택지 foraging([[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]])과 보상 크기 조작([[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]) 두 편. 정리는 [[concept-dopamine-learning-rate]].
 
 ## 임상 함의
 
 - **ADHD**: stimulant (methylphenidate)의 도파민 ↑ 작용. RPE 모델이 부정확하면 치료 가설 재검토.
+  - (2026-11-01) [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]] Discussion의 추측: methylphenidate는 DA 재흡수를 막아 **phasic 방출의 지속시간**을 늘리고, 이것이 큰 보상이나 1 s DA 자극처럼 과제 이탈을 줄일 수 있다(동물 결과에서의 유비, 검증 전).
 - **중독**: 단순 reward override 아닌 cue-relapse 메커니즘 (ANCCR)으로 치료 표적 변화.
 - **정신분열·우울**: motivational deficit 해석 변화.
 
@@ -87,3 +89,4 @@ journal: "Nature 651:572–574 (Feature)"
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — "도파민이 위협·혐오·새로움을 신호한다"는 도전에 대한 RPE 진영의 2016년 답(혐오 = 물리적 충격, 새로움 단독은 불충분).
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 도전 #2 Kutlu 2021의 다른 해설: 기사의 'stressful stimuli' 대신 지각된 현저성(강도·새로움)으로 해석.
 - [[concept-reward-prediction-error]] — 기사 속 진영들(RPE·위협/혐오/새로움·ANCCR)을 원전 기준으로 정리한 hub.
+- [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — Dudman이 말한 "새 모델"의 실체: 도파민 = 적응적 학습률(α). Gong 2026은 ADHD methylphenidate를 phasic 방출 연장 → 관여 회복으로 보는 추측도 제시.

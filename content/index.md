@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 539 (+ index.md, log.md)
-- 마지막 갱신: 2026-10-28
+- 총 페이지: 542 (+ index.md, log.md)
+- 마지막 갱신: 2026-11-01
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -108,6 +108,7 @@ title: 뇌과학 LLM Wiki
 - [[holton-2026-the-adaptive-value-of-stubborn]] — 선택한 목표에 매달리는 인간 경향의 **세 적응 기능(자원 절약·유혹 차단·동기 비계)**과 failure mode(ADHD·불안·apathy over-persistence·우울); [[concept-compulsion|강박]]·restraint DTx·[[concept-effort-based-decision-making|effort]] 해석에 직결 (Trends Cogn Sci 2026). 개념 [[concept-goal-commitment]]. _(🎯 다중 의사결정계에도)_ · 🔑 HRL, ACC, RL
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — ★ **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 DLS의 eCB-LTP**가 담당. 새 행동과제 STA test(끈끈이 테이프 회피, 보상·처벌 없음)·Neuropixels·plasticitymeter 모델·GRAB_eCB2.0·CB1R/D2R 조건부 KO로 인과 규명. **짧은 경험=eCB-LTP / 긴·반복 경험=NMDA-LTP** 분업 (Nat Neurosci 2026, Venance lab). 개념 [[concept-one-shot-learning]]. _(엔도카나비노이드는 💡·🍽️와도)_ · 🔑 eCB-LTD, ChR2-LFP, DMS
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — ★ **편도→감각운동 선조체 직접 경로**: BLA→DLS(배외측 선조체)는 DMS 투사와 다른 BLAl 집단, SPN 원위 수상돌기 표적; 단독으론 행동 무변화, **감각유발 grooming과 짝지으면 S-R 반응을 이종시냅스 가소성으로 증폭**. OCD 모델 Sapap3에서 강화·자극 후 억제 소실, BLA 억제가 강박 grooming 발병 차단 (Neuron 2026, Plotkin lab). · 🔑 dorsolateral striatum, Sapap3, OCD(obsessive-compulsive disorder), striosome, dendritic upstate, stimulus-response
+- [[grima-2026-a-global-dopaminergic-learning-rate]] — 다선택지 foraging 학습(matching·MVT stay/leave·거리 비용)의 계산 모델 AQUA와 그 도파민 기질. 본문은 🎯 학습률 진영. · 🔑 FoMO, foraging
 - [[concept-one-shot-learning]] — 단일시행 학습과 그 비고전적 가소성 규칙(선조체 eCB-LTP·해마 BTSP·STDP 한계) 개념 hub. CTA·flavor-nutrient 같은 one-trial 식이 학습으로의 이식 가설. · 🔑 single-trial learning, one-trial learning, 일회 학습, NMDA-LTP, DLS, CB1R
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ 포유류 **양육 회로** 종합: 다중감각 새끼신호 평가 → MPOA(pro)↔PeFA^Ucn3/BNST^Esr1(anti) → VTA-NAc 강화·PAG 운동. 발달(P14–15 microglia pruning)·감작·관찰학습·임신 호르몬으로 **끊임없이 재구성되는 가소적 시스템**. ★ **배고픔↔돌봄 경쟁**(AgRP/NPY→MPOA 억제) (NRN 2026, Kohl lab). 개념 [[concept-medial-preoptic-area]]. _(🧠 시상하부 핵·🍽️ AgRP와도)_ · 🔑 MPOA^Gal, PVN^OT, MPOA^Esr1, A1, OTR, MeA
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ **외측중격(LS^Crhr2)** 이 위협 cue를 방어 행동으로 바꾸는 계산을 **분자 10아형 × 공간 topography × 기능 동역학 × 입력 구조** 4축으로 해부. CS 1초 이내와 행동 1.5초 전의 **두 시점 표상**, **해마=cue-outcome / 시상하부(LHAsf·SuM)=action** 분업. **LS^Glp1r**·**LS^Calcr** 아형 특정 (Nature 2026, Fishell lab). 개념 [[concept-lateral-septum]]. _(GLP-1R·해마-섭식 축은 🍽️·💡와도)_ · 🔑 LS Crhr2 threat coding, CS-S, Foxp2, vCA1, Lhx2, CS-F
@@ -566,6 +567,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지 · 🔑 T2D
 - [[concept-goal-commitment]] — 목표 몰입·포기 hub: 정의·측정(선택 전/후·frustration>temptation)·세 적응 기능·Rubicon/HRL/감시-임계값 알고리즘·failure mode(ADHD·불안·apathy·우울)·강박/restraint/NMPU 이식 (Holton 2026).
 - [[concept-reward-prediction-error]] — **보상 예측 오류와 도파민 신호 해석 hub**: RPE(Schultz 2016 두 성분·효용 예측 오류) vs 현저성(위키 원전 속 6가지 뜻: physical·novelty·surprise·motivational·incentive·perceived) vs 회고적 인과 학습(ANCCR) vs 유인 현저성 vs 가치·활력·노력; 조건별 판별표(valence 대조·반복 무예측 보상·직전 IRI·소거·상태 급변)·측정 수준(체세포/말단, core/shell, 시간창)·식사 단계(Zhu 2025)·NMPU의 두 'utility' · 🔑 RPE, reward prediction error, utility prediction error, two-component, salience, perceived saliency, KCS, ANCCR, TDRL
+- [[concept-dopamine-learning-rate]] — **도파민 = 적응적 학습률(α) 가설** hub: 갱신식 두 표기(δ vs α)·학습률 vs RPE 판별표·Gong 2026 세 성분(학습률·보존·관여)·위키 내 "학습률" 서술 지도(Sharpe 2017·Fleming 2026·Hjort 2026·Jeong 2022)·Need × 학습률 가설. _(🎯 학습률 진영)_ · 🔑 learning rate hypothesis, AQUA, ACTR, 전역 학습률
 - [[concept-anccr]] — 회고적 인과 학습(ANCCR) hub: 용어(eligibility trace·PRC/SRC·net contingency·meaningful causal target)·TDRL RPE 대조표·위키 내 지지/도전 페이지 지도 · 🔑 anchor, retrospective causal learning, predecessor representation, MCT, IRI, CS2
 - [[concept-metabolic-interoception]] — 대사신호(glucose·insulin)→보상학습·동기·기분(energy allostasis·metabolic-mood); 중추 인슐린→선조체 도파민 · 🔑 T2D
 
@@ -692,6 +694,11 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 ### 진영 — 회고적 인과 학습 (ANCCR)
 개념 hub: [[concept-anccr]].
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] — ★ **ANCCR 원전**: NAc 도파민(dLight1.3b)은 TDRL RPE가 아니라 회고적 인과 연합("meaningful causal target")을 전달 — 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·행동 소거 후 cue 반응 잔존·trial 내 backprop 없음 (Science 2022, Namboodiri lab). 보충자료 반영(ANCCR 식 7–20·파라미터·Supplementary Notes 1–10). · 🔑 CS1, CS2, MCT, CSC, SRC(Successor representation contingency), PRC(Predecessor representation contingency)
+
+### 진영 — 적응적 학습률 (Adaptive learning rate; Dudman lab)
+개념 hub: [[concept-dopamine-learning-rate]] — 도파민 = 갱신식의 **α(곱셈·부호 없음)**이지 δ(덧셈·부호 있음)가 아니라는 가설. 정의·판별표(학습 초기 누락 dip·선택지 간 반응·전역 변화·보상 크기)·위키 내 "학습률" 서술 지도. · 🔑 learning rate hypothesis, step size, ACTR, AQUA, Coddington 2023, learning efficiency
+- ★ [[grima-2026-a-global-dopaminergic-learning-rate]] — 무경험 마우스가 2 m 경기장 6개 물 꼭지(보상률 최대 80배 차이)에서 수십 분 만에 matching. stay/leave + 거리 가중 효용 + **지수 감쇠 전역 학습률 α(τ)** 모델(AQUA)이 행동을 재현. **NAcC DA 보상 반응 = 선택지 질과 무관하게 감쇠하는 전역 α**(dropout α > RPE), DMS는 불일치. 보정 VTA DA 자극이 국소(편향)·전역(회복↑)으로 모델 예측대로 작동 (Neuron 2026, Dudman lab). · 🔑 FoMO, MVT(marginal value theorem), undermatching, GCaMP8m, dLight1.3b, D1/D2 SPN α/β
+- ★ [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 같은 총 보상을 **소수의 큰 보상(≥50 µl)** 으로 주면 탐색·노력 운동기술·IBL 의사결정 학습이 강화 횟수 기준 ≥10배 빨라지고 개체차↓. 학습 효율 = 학습률 + 세션 간 보존(capture) + 관여(engagement)(R²=0.82). NAc DA는 보상량에 따라 크기·지속시간이 커지고, 1 s VTA DA 자극은 학습률↑·상태형 이탈 소거, 150 ms는 학습률만↑, 보존은 재현 못 함. Pavlovian cue 변별엔 오히려 해로움 (Science 2026, Dudman·Coddington). · 🔑 downshift, joystick reach-to-pull, IBL(International Brain Laboratory), methylphenidate, GRAB-rDA3m, dLight1.3b
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012). · 🔑 YES, RPE(teaching signal), NO, ANCCR, NMPU

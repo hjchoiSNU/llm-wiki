@@ -2,7 +2,7 @@
 title: ANCCR — 회고적 인과 학습 (Adjusted Net Contingency for Causal Relations)
 type: concept
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-11-01
 aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습, predecessor representation, meaningful causal target]
 ---
 
@@ -70,6 +70,7 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 | [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] | **원전**: 11개 검증, NAcc dLight1.3b | 유일한 1차 자료 (본문 + 2026-10-03 추가된 보충자료: 식·파라미터·Notes 1–10·figs. S1–S15) |
 | [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] | 일반화 RPE 진영이 "framework 밖"으로 분류 | Kim 2020 ramp를 RPE 결정 실험으로 보나, 원전은 그 ramp도 ANCCR로 설명한다고 주장 — suppl. fig. S13A–D 확인 결과 **이산 cue 계열로 근사한 시뮬레이션 재현**(teleport·속도 변화 포함, 속도 조건은 "상대 속도를 net contingency에 곱한다"는 추가 가정)이며 데이터 재분석은 아님 |
 | [[hjort-2026-prefrontal-to-ventral-tegmental-area]] | contingency degradation의 **경쟁 알고리즘**(meta-RPE) | 원전 Test 7은 CD를 회고적 연합 감소로 설명 |
+| [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] | 경쟁 해석(도파민 = 전역 학습률 α) | 무경험 조작적 과제에서 NAc 보상 DA가 **감소**한다(Test 1과 반대 방향, 과제 구조 차이). Gong은 원전을 "이산화된 적응적 학습률"로 분류해 인용(ref 27). 원전 시뮬레이션의 α 0.25→0.02 감쇠 가정은 공유 → [[concept-dopamine-learning-rate]] |
 | [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[concept-dopamine-reward-system]] | 2차 서술("보상 → 거꾸로 cue 검색", 흡연 cue relapse) | relapse 사례는 기사 해설이며 원전에 없음 |
 | [[hamid-2016-mesolimbic-dopamine-signals-value-work]] | "forward 학습 부정·양립 불가"로 서술 | 원전은 전향 예측을 유도(SRC)하고 행동은 SRC 기반 value의 softmax로 모델링하며 ramp도 설명 — 과장 |
 | [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] · [[rice-2019-closing-in-on-what-motivates]] | "NAc 국소 메커니즘으로 호환" | 위키 측 추론; 원전은 OFC→VTA를 공급원 후보로 제시하고, suppl. fig. S14에서 NAc를 계산 장소가 아닌 **"도파민을 행동으로 통합(임계 교차)"하는 하류**로 둠 |
@@ -113,3 +114,4 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — "처벌·아구역" 열린 문제(suppl. Note 8: 부호 있는 value vs 절댓값 = salience)와 같은 질문 — NAc core 도파민이 valence 무관 강도를 싣는다는 Kutlu 결과.
 - [[concept-reward-prediction-error]] — ANCCR를 RPE·현저성·유인 현저성과 한 표에 놓은 상위 판별 hub.
 - [[overview-dopamine-roles-by-striatal-region]] — ANCCR이 NAc core에서만 검증됐고 DMS·DLS·TS는 자료가 없다는 점을 subregion별 표에 정리.
+- [[concept-dopamine-learning-rate]] — ANCCR 시뮬레이션의 감쇠 학습률(α 0.25→0.02) 가정을 공유하는 학습률 가설 hub. 무경험기 보상 DA 추세는 반대 방향(Grima·Gong 감소 vs Jeong Test 1 증가).

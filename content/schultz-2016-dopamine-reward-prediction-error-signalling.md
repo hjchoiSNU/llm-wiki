@@ -2,7 +2,7 @@
 title: "Dopamine reward prediction-error signalling: a two-component response (Schultz 2016, Nat Rev Neurosci)"
 type: paper
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2016 NRN (Schultz) Dopamine reward prediction-error signalling A two-component response.pdf"
 authors: [Schultz W]
 year: 2016
@@ -121,3 +121,4 @@ journal: "Nature Reviews Neuroscience 17:183–195 (Perspectives · Opinion; 온
 - [[concept-need-motivation-pleasure-utility]] — 주성분 = Pleasure 교사 신호 후보; utility 용어 충돌 주의.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 현저성 해석(대립 축).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 식사 단계 모식도에서 음식 접촉 시 "reward utility" 반응.
+- [[concept-dopamine-learning-rate]] — Pearce–Hall식 학습률 조절을 넘어 도파민 자체를 학습률로 보는 경쟁 가설 hub(Dudman lab 2026).

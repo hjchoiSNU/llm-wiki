@@ -2,7 +2,7 @@
 title: "The adaptive value of stubborn goals (Holton, Niv & O'Reilly 2026, Trends Cogn Sci)"
 type: paper
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-11-01
 source: "raw/The adaptive value of stubborn goals.pdf"
 authors: [Holton E, Niv Y, O'Reilly JX]
 year: 2026
@@ -128,3 +128,4 @@ journal: "Trends in Cognitive Sciences 30(4):379–390; doi:10.1016/j.tics.2025.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — foraging patch-leaving형 감시 신호의 회로 후보.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — cue 도파민이 perseverance를 예측; "현재 목표 bonus"의 신경 후보.
 - [[concept-dopamine-reward-system]] — 큰 그림(보상·동기 hub).
+- [[grima-2026-a-global-dopaminergic-learning-rate]] — foraging patch-leaving(MVT)을 학습 모델(AQUA)로 구현한 마우스 연구. 시간·보상률 추정 없이 MVT 같은 예측이 나온다.

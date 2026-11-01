@@ -2,7 +2,7 @@
 title: "Explaining dopamine through prediction errors and beyond"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2024 Nature Neuroscience Explaining dopamine through prediction errors and beyond.pdf"
 authors: [Gershman SJ, Assad JA, Datta SR, Linderman SW, Sabatini BL, Uchida N, Wilbrecht L]
 year: 2024
@@ -103,6 +103,7 @@ RPE 가설은 원형 그대로는 부족하지만, **suitably generalized** (vec
 ### 3. Adaptive learning rate (Coddington 2023)
 - DA 가 RPE 가 아닌 **adaptive learning rate** 신호 — preparatory + reactive 행동 통합.
 - 학습 초기 cue·reward dynamics 분리 — RPE 예측과 달라.
+- (2026-11-01 보강) 이 도전의 후속 1차 자료가 위키에 들어왔다. [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 6선택지 foraging에서 NAcC DA 보상 반응이 선택지 질(최대 80배)과 무관하게 같은 속도로 감쇠하고, 회귀 dropout에서 RPE보다 **전역 학습률 α**가 더 많이 설명한다. [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 소수의 큰 보상으로 주면 학습이 ≥10배 빨라진다. 표준 TDRL에서는 α가 보상 크기와 무관하므로 이 결과는 "DA = 보상 크기에 비례하는 학습률"과 맞는다. 원전 Coddington 2023은 위키에 없다. 개념 hub [[concept-dopamine-learning-rate]].
 
 ## "Generalized prediction error" 통합 framework (Fig. 4)
 
@@ -189,3 +190,4 @@ Cortex (state, world model)
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 일반화 RPE 이전 단계의 특정화(utility PE)이자, 현저성·혐오 반응을 RPE의 초기 성분으로 흡수하려는 시도.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — "Perceived saliency (Kutlu 2021)" 절의 출처급 요약(강도·새로움 → 주의 가치). 이 dispatch에는 omission·latent inhibition 서술이 없다.
 - [[concept-reward-prediction-error]] — 일반화 RPE가 흡수하지 못한 perceived saliency·ANCCR를 같은 판별표에 정리.
+- [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 위 "3. Adaptive learning rate (Coddington 2023)" 도전의 후속 1차 자료(Dudman lab 2026): 다선택지 foraging에서 NAcC DA = 전역 감쇠 학습률(dropout에서 α > RPE), 보상 크기가 학습 효율을 정함.

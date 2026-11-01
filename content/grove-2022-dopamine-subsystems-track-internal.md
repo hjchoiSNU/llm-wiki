@@ -2,7 +2,7 @@
 title: "Dopamine subsystems that track internal states"
 type: paper
 created: 2026-05-01
-updated: 2026-10-03
+updated: 2026-11-01
 source: "raw/2022 Nature. (Knight) Dopamine subsystems that track internal states.pptx"
 authors: [Grove JCR, Gray LA, La Santa Medina N, Sivakumar N, Ahn JS, Corpuz TV, Berke JD, Kreitzer AC, Knight ZA]
 year: 2022
@@ -88,3 +88,4 @@ VTA DA의 한 subset이 **systemic osmolarity 변화**에 반응 — water reinf
 - [[leinninger-2009-leptin-acts-via-leptin]] — **LH GABA→VTA 축의 해부·내분비 선행 원전**(Cell Metab 2009, Myers lab). LHA의 **LepRb⁺ GABAergic** 집단(MCH·OX와 비중첩)이 VTA로 조밀 투사함을 cre-유도 추적(Ad-iZ/EGFPf, n=11)과 VTA fluorogold 역추적으로 처음 보였고, *Lep^ob/ob*에 **250 pg** intra-LHA leptin으로 동측 **VTA *Th* mRNA ~2.5배·NAc DA 함량 ~40%↑**를 만들었다(intra-VTA leptin은 무효). 본 논문이 LH^GABA→VTA DA를 **체액 균형의 실시간 추적 채널**로 규정한 것과 층위가 다르다 — Leinninger 쪽은 **지방량 신호(leptin)가 DA 생산 용량을 24 h 척도로 재설정**하는 축이다. 연결 가설: 같은 LH^GABA→VTA 경로가 **빠른 상태 신호(수화·영양)와 느린 용량 설정(leptin)** 을 겸하는지, 두 기능이 서로 다른 하위집단인지가 검증 질문(Leinninger Fig S3에서 **VTA-투사 LepRb 대부분은 leptin에 c-Fos 음성**이었다는 단서가 후자를 시사).
 - [[nieh-2016-inhibitory-input-from-the]] — ⚠️ 같은 LH^GABA→VTA 경로에 "VTA GABA 억제→DA disinhibition→NAc DA↑ = behavioral activation"을 싣는 Tye lab 원전(Neuron 2016). 본 논문의 "수분 균형 primary reward 추적"과 경로는 같고 내용이 다름(병기).
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — 본 논문이 water reward의 source로 지목한 **LH GABAergic(Vgat) 집단의 섭식·보상 기능 원전**(Cell 2015, Stuber lab): 광활성 → 섭식·장소선호·자가자극↑, 억제 → 섭식↓·장소 혐오, MCH·Orx와 **0% 중첩**. 단일세포 영상에서 appetitive·consummatory 반응 subset이 거의 비중첩으로 공존하므로, **수분 상태를 VTA로 나르는 세포가 그중 어느 subset인지**는 미해결(연결 가설).
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 본 논문을 항상성 충족 중 느린 DA 역학의 예로 인용(ref 79)하고, 그런 장기 신호가 학습의 세션 간 보존(capture)에 관여할 수 있다고 추측.

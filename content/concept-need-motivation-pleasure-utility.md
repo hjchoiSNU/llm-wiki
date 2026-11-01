@@ -2,7 +2,7 @@
 title: Need-Motivation-Pleasure-Utility framework
 type: concept
 created: 2026-04-30
-updated: 2026-10-25
+updated: 2026-11-01
 aliases: [NMPU, Need Motivation Pleasure Utility]
 ---
 
@@ -266,3 +266,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — Panksepp 탐색 시스템: 욕구가 추구를 켜고 포만(일종의 쾌감)이 끄며, 항상성과 무관한 욕구를 만드는 자극 = 중독. ⚠️ Kang의 'need'와 '포만 = 쾌감'은 NMPU의 Need·Utility와 용어가 다름.
 - [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — craving이 칼로리 결핍이 아니라 쾌락 박탈로 유발된다는 리뷰 정리 → craving을 Need와 분리해 Motivation 편향으로 보는 근거(연결 가설).
 - [[zhao-2026-serotonin-neurons-in-the-dorsal]] — SK3 결손이 chow-only 조건의 임신기 섭취(Need)는 바꾸지 않고 간헐 기호식 추구만 되돌림 → Need/Motivation의 분자 수준 해리 후보(연결 가설).
+- [[concept-dopamine-learning-rate]] — Need가 가치뿐 아니라 학습률도 바꾸는가(포만 → α↓ 추측, Grima 2026). NMPU에 학습 속도 축을 붙이는 연결 가설.

@@ -2,7 +2,7 @@
 title: Striatal endocannabinoids drive one-shot learning (Piette 2026)
 type: paper
 created: 2026-08-15
-updated: 2026-10-04
+updated: 2026-11-01
 source: raw/2026 Nature Neuroscience. Striatal endocannabinoids drive one-shot learning.pdf
 authors: [Charlotte Piette, Arnaud Hubert, Sylvie Perez, Jérémy Peixoto, Nicolas Gervasi, Hugues Berry, Jonathan Touboul, Laurent Venance]
 year: 2026
@@ -88,3 +88,4 @@ doi: 10.1038/s41593-026-02392-z
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — DLS SPN 가소성의 다른 경로: 드문 **BLA 입력이 원위 수상돌기에서 피질·시상 시냅스를 이종시냅스로 강화**(반복 짝 활성, spine↑) (Neuron 2026).
 - [[concept-habit]] — 습관 개념 hub — eCB-LTP를 **경로 D("폭식 한 번이 습관이 되는가")**의 후보 기질로 정리.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[concept-dopamine-learning-rate]] — "도파민이 가소성 규칙을 gating"과 같은 방향의 생각: DA = 가소성의 곱셈 배율(학습률) 가설(연결 해석).

@@ -2,7 +2,7 @@
 title: "보상 예측 오류와 도파민 신호의 해석: RPE vs 현저성 vs 인과 학습"
 type: concept
 created: 2026-10-11
-updated: 2026-10-25
+updated: 2026-11-01
 aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 효용 예측 오류, two-component dopamine response, 도파민 두 성분 반응, perceived saliency, 지각된 현저성]
 ---
 
@@ -44,6 +44,13 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]]: NAc core 도파민 방출은 "방금 일어난 사건이 그 원인을 학습해야 할 **meaningful causal target**인가"를 신호한다. 전향적 TDRL RPE와 예측이 갈리도록 설계한 11개 검증에서 저자 판정상 모두 ANCCR 쪽 — 무경험 맥락의 반복 무예측 sucrose에 반응 **증가**(Test 1), 직전 보상 간격과 **양**의 상관(Test 2), 행동 소거 뒤에도 cue 반응 **잔존**(Test 6) 등. 상세는 [[concept-anccr]].
 - **RPE를 통째로 버리지 않는다**: 사건률에 관한 예측오차는 프레임워크에 포함되고, 부정되는 것은 **관습적 state space의 TDRL RPE**다. ANCCR 시뮬레이션은 cue 학습 전후 cue↑/보상↓, 누락 반응, blocking 등 고전 RPE 결과를 재현한다(Fig. 2) → 저자: 지금까지 도파민은 **두 가설이 같은 예측을 하는 조건에서만** 검증돼 왔다.
 - **처벌과 현저성**: 처벌도 meaningful causal target이며, ANCCR에 곱하는 강도를 **부호 있는 incentive value** 또는 **그 절댓값(salience)**으로 둘 수 있고 NAc core vs medial shell이 둘을 달리 신호할 수 있다는 추측(suppl. Note 8, 검증 없음). 원전 Discussion은 예측된 처벌에 대한 NAc 도파민 증가와 반복 처벌에 대한 감소(Kutlu 2021)를 ANCCR로 설명한다고 주장 — **같은 데이터에 대한 KCS 현저성 모형과의 경쟁 설명**.
+
+### 3-1. 적응적 학습률 (Dudman lab) — 도파민 = δ가 아니라 α
+- 같은 갱신식 `V ← V + α·(R − V)`에서 도파민이 **부호 있는 덧셈 항 δ** 대신 **부호 없는 곱셈 항 α**(얼마나 크게 고칠지)를 싣는다는 가설이다. 두 표기는 대수적으로 동치라서, 판별은 학습 초기·다선택지·보상 크기 조작에서 이뤄진다. 상세는 [[concept-dopamine-learning-rate]].
+- [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 무경험 마우스 6선택지 foraging에서 NAcC DA 보상 반응은 선택지 질(최대 80배)에 따른 순위 scaling이 없고, **모든 선택지에서 같은 속도로 감쇠**했다. 가장 초기부터 깊은 누락 dip이 있었고, 환경 변화에는 국소 오차가 아닌 전역 상승으로 반응했다. 회귀 dropout에서 α가 RPE보다 많이 설명했다. DMS DA는 어느 쪽과도 맞지 않았다.
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 소수의 큰 보상으로 주면 조작적 학습이 ≥10배 빨라진다(표준 TDRL에서는 점근 시간이 보상 크기와 무관). 위 §5 판별표에 넣는다면 행은 "총량 고정 보상 크기↑"이고, 학습률 가설은 학습 효율↑, 관습적 TDRL은 불변(절대 Q 차이에 비례하는 policy만 예외)을 예측한다.
+- ⚠️ §5 표의 "무경험 맥락의 반복 무예측 보상" 행과 방향이 엇갈린다. Jeong 2022(무예측 sucrose, 머리 고정)는 **증가**, Grima·Gong(자기 개시 조작 과제)은 **감소**다. 과제 구조가 다르므로 행을 쓸 때 과제를 함께 적는다.
+- 저자 스스로 광유전 결과만으로는 α와 δ를 확정적으로 가를 수 없다고 적었다(Grima Limitations). Grima는 DA가 무경험기에는 학습률, 장기 훈련 뒤에는 선택지별 RPE를 점점 더 반영한다는 **단계 의존** 해석을 낸다.
 
 ### 4. 다른 축: 가치·활력·노력·소비
 - **가치(state value)**: [[hamid-2016-mesolimbic-dopamine-signals-value-work|Hamid 2016]] — NAc 도파민 = 시간 할인된 미래 보상(V); 절댓값은 동기, 급격한 변화는 RPE.
@@ -117,3 +124,4 @@ aliases: [보상 예측 오류, 보상 예측 오차, utility prediction error, 
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Pleasure 교사 신호, 두 개의 utility.
 - [[concept-effort-based-decision-making]] — 노력 기반 의사결정 hub.
 - [[overview-dopamine-roles-by-striatal-region]] — RPE 신호의 subregion별 근거 강도(VTA 발화 직접, NAc는 모양만, NAc>VTA>DMS)와 ANCCR 판별 조건을 한 표에 정리.
+- [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 네 번째 해석 축: 도파민 = δ가 아니라 α(학습률). 판별 조건은 학습 초기·다선택지·보상 크기(§3-1).

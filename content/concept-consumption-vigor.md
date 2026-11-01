@@ -2,7 +2,7 @@
 title: "Consumption vigor (소비 강도)"
 type: concept
 created: 2026-07-28
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -17,6 +17,8 @@ updated: 2026-10-25
 - **측정**: head-fixed consumption-vigor test에서 reward window 내 lick 수가 palatability·학습 상태에 비례([[yang-2026-a-sync-state-in-the|Yang 2026]]).
 - **학습 의존성**: 영양소(post-ingestive Utility) 학습 후 특정 flavor에 대한 vigor가 선택적으로 증가 — 선호도(2병 선택)와 해리될 수 있음. 도파민 "[[yang-2026-a-sync-state-in-the|sync state]]"가 이 학습을 매개.
 - **NMPU 매핑**: vigor는 Motivation(wanting)의 행동 출력; [[concept-liking-wanting|liking]](hedonic 평정)과 구분. LH-Nts의 licking 운동량 부호화([[sumarli-2026-multidimensional-control-of-ingestive-behavior]])와도 접점.
+
+- **소비 중 DA 지속 = 학습률·관여?**: [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]] — ≥50 µl 보상은 핥기 bout를 늘리고 NAc DA를 수 초 plateau로 연장한다. 이를 VTA DA 1 s 자극으로 모사하면 학습률이 오르고 상태형 이탈이 사라지며, 다음 시행 개시 잠복기가 줄었다. 점근 활력(vigor)은 군 간 차이가 없었다 → 소비 국면 DA를 vigor(개시·유지)뿐 아니라 **학습 효율**과도 회귀해야 한다([[concept-dopamine-learning-rate]]).
 
 ## 관련 페이지
 - [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
@@ -33,3 +35,4 @@ updated: 2026-10-25
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — vigor를 **식사 내 시간 함수**로 확장할 근거(Nat Commun 2023, Kanoski lab, rat). LH MCH의 bout 내 Ca²⁺ 상승 폭이 **bout 지속시간**(R²=0.2085, P=0.0024)과 **누적 칼로리**(R²=0.9299, P=0.0005)를 예측하고, **식사 초기 bout에서 가장 크다**(R²=0.2005). [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]이 선조체 DA를 **bout 개시(수)** 쪽으로 못 박았다면 MCH는 **지속·초기 가속** 성분의 후보다(연결 가설 — 두 신호를 같은 과제에서 동시에 잰 자료는 없음).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — vigor의 **유지(bout 길이)** 성분에 VTA DA 인과를 붙인 자료. 같은 페이지의 "DA=개시" 서술(Gordon 2026)과 충돌하므로 나란히 둘 것.
 - [[overview-dopamine-roles-by-striatal-region]] — vigor 개시(bout 수: NAcCR·DMS·DLS 도파민이 예측)와 유지(bout 길이: VTA, Zhu 2025)를 subregion별로 나눈 표.
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 큰 보상의 긴 핥기 bout와 함께 오는 DA plateau를 학습률·관여 신호로 해석. 1 s 연장 자극이 학습·관여를 올리고 다음 시행 개시 잠복기를 줄였다.

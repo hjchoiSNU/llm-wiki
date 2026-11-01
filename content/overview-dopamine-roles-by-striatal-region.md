@@ -2,7 +2,7 @@
 title: "Striatal subregion별 도파민의 역할 — vigor·cue value·RPE·ANCCR 지도"
 type: overview
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-01
 aliases: [dopamine roles by striatal region, 선조체 아구역별 도파민, 부위별 도파민 역할, striatal dopamine map, NAc DMS DLS TS dopamine]
 ---
 
@@ -57,6 +57,10 @@ flowchart TB
 | **DLS** | 과제 시간 정보(time-in-trial), 다음 섭취 개시, 가소성 규칙 gating, 습관(S–R) | GLM에서 time-in-trial 성분이 DLS에서 가장 강하고, 다음 핥기 예측 OR 1.32로 7개 subregion 중 최강(Gordon 2026). D2R 또는 presynaptic CB1R을 지우면 DLS eCB-LTP와 단일시행 회피 학습이 실패한다([[piette-2026-striatal-endocannabinoids-drive-one-shot|Piette 2026]]) | "DLS = 습관"은 위키에서 2차 인용(Yin & Knowlton 2006)에 기댄다. 습관 상태의 DLS 도파민을 기록한 자료는 없다([[overview-habitual-overeating-dls]]) |
 | **TS (tail of striatum)** | 위협·새로움, 행동 예측 오류(action PE) | labeled-line(tail = threat PE), action PE(Greenstreet 2022)([[gershman-2024-explaining-dopamine-prediction-errors-beyond|Gershman 2024]]). 가치·핥기 scaling이 약하고 다른 subregion과 상관이 낮으며, 다음 핥기를 예측하지 못한다(OR 1.00). LHA 글루탐산 뉴런 자극이 TS 도파민을 올린다(Gordon 2026) | Menegas 2017·Akiti 2022 등 원전이 위키에 없어 2차 인용이다 |
 
+> [!note] 2026-11-01 보강 — 학습 단계 축
+> - **NAc core, 학습 초기**: [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]의 무경험 6선택지 foraging에서 NAcC 보상 DA는 선택지 질(최대 80배)을 반영하지 않고 방문 수에 따라 모든 선택지에서 같은 속도로 감쇠했다. 이는 모델의 **전역 학습률 α(τ)** 와 일치하고, 회귀 dropout에서 α가 RPE보다 많이 설명했다. [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]에서는 NAc DA 보상 반응이 5–100 µl 범위에서 크기·지속시간 모두 보상량에 비례했다. → 표 1의 NAc core 칸(ANCCR·V·주관적 가치)은 주로 훈련된 동물이나 용액 가치 차이에서 나온 서술이므로 **학습 단계**를 함께 적어야 한다. 개념 hub [[concept-dopamine-learning-rate]].
+> - **DMS, 무경험 foraging**: 같은 과제에서 DMS DA는 학습률·RPE 어느 예측변수를 빼도 설명력이 거의 변하지 않았고, 이동 중 반응이 공간에 넓게 분포했다(Grima 2026; 운동 측면 조절은 저자 추측).
+
 ## 표 2. 역할 × subregion
 
 ● 직접 근거 · ◐ 부분·간접·2차 · ○ 약함/음성 · — 위키에 자료 없음
@@ -106,3 +110,4 @@ flowchart TB
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — DLS D2R·CB1R 의존 eCB-LTP.
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — TS threat PE·action PE.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] · [[yang-2026-a-sync-state-in-the]] — VTA 쪽 소비 bout 연장과 영양 학습 sync state.
+- [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — NAc core 도파민의 학습 초기 역할 = 전역 학습률(표 1 아래 2026-11-01 보강). 무경험 foraging의 DMS 도파민은 학습률·RPE 어느 쪽과도 불일치.

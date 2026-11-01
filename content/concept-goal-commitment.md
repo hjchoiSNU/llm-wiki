@@ -2,7 +2,7 @@
 title: 목표 몰입과 포기 (Goal commitment & disengagement)
 type: concept
 created: 2026-09-22
-updated: 2026-10-04
+updated: 2026-11-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -72,3 +72,4 @@ updated: 2026-10-04
 - [[leow-2026-a-cortical-hypothalamic-neural]] — 처벌 저항 섭식 회로(섭식판 over-persistence).
 - [[concept-dopamine-reward-system]] — 보상·동기 hub.
 - [[concept-habit]] — 목표지향 vs 습관 통제의 정의·측정·회로 hub; '습관적 목표 선택 + 목표지향 실행'의 교차 조합을 반영.
+- [[grima-2026-a-global-dopaminergic-learning-rate]] — MVT의 stay/leave를 RL에 넣은 AQUA 모델: 시간·보상률 추정 없이 고갈형 patch에서 MVT 같은 행동을 재현(Neuron 2026).

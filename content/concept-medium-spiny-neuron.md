@@ -2,7 +2,7 @@
 title: Medium spiny neuron (MSN) — D1/D2, direct/indirect pathway
 type: concept
 created: 2026-07-04
-updated: 2026-10-04
+updated: 2026-11-01
 aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pathway]
 ---
 
@@ -21,6 +21,8 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - **회로**: D1 MSN은 basal ganglia output 핵으로 직접 투사(direct), D2 MSN은 external globus pallidus 경유(indirect). NAc에서는 이 이분법이 보상 접근 vs 회피/혐오와 연결되나 shell/core·subtype에 따라 복잡.
 - **이질성**: 전통적 D1/D2 이분법을 넘어 다수의 전사적 subtype이 존재하며, 인간 NAc에서는 discrete cluster + **연속 공간 gradient**로 조직됨(→ [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]]). OPRM1+ D1 island 같은 특화 구획도 포함.
 - **기능적 해리**: NAc shell의 D1/D2 MSN이 섭식·동기에서 서로 다른 역할을 함(→ [[guillaumin-2023-disentangling-the-role-of-nac]]). 등외측 선조체에서는 dSPN(D1)/iSPN(D2)가 방향 조종(steering)과 행동 횟수 세기(counting)를 push–pull(accumulator vs leak)로 해리 제어(→ [[fallon-2026-striatal-pathways-dissociably-control-action]]).
+
+- **학습률의 D1/D2 구현 제안**: [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]](STAR model discussion B)은 보상 방문의 학습률 α를 DA burst → D1 SPN 입력 가소성으로, 비보상 방문의 감쇠 β(≈1−α)를 DA pause → D2 SPN 입력 가소성으로 구현하고, 선택 ≃ W_D1 − W_D2(OpAL과 유사)로 본다. 도파민은 가중치 변화의 **부호가 아니라 배율**을 정한다는 해석이다(검증 전 가설; [[concept-dopamine-learning-rate]]).
 
 ## 관련 페이지
 - [[concept-nucleus-accumbens]] — MSN이 주 뉴런인 배쪽 striatum 구조.
@@ -46,3 +48,4 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[thoeni-2020-depression-of-accumbal-to]] — ⚠️ 위 이분법 비판을 **투사군 분리 + 가소성 규칙**으로 확장(Neuron 2020, 같은 lab). 이중 CTB 역추적에서 **LH 투사 MSN은 VP 투사와 3.6%, VTA 투사와 11.1%만 중복**(세포체는 섞임)이고, D1 비율은 **VP 45.6% < LH 81.3%**, **LH 76.5% < VTA 96.6%** — 표적이 멀어질수록 D1 지배. 더 중요한 것은 **같은 D1-MSN의 말단이 표적별로 다른 가소성 규칙을 쓴다**는 점이다: forskolin이 D1-MSN→VP에서는 억제성 i-LTP를 만들지만 D1-MSN→LH에서는 못 만들고, **급성 식이제한·고지방식 상태에서만**(eCB–CB1R 의존 i-LTD가 선행했기 때문에) 드러난다. 저자들이 인용한 **Pardo-Garcia 2019**는 VP·VTA 투사는 서로 크게 겹친다고 보고하므로, 이 분리는 **LH 투사에 특유**하다. → "D1-MSN"은 전사·투사뿐 아니라 **시냅스 가소성 수준에서도 단일 집단이 아니다**.
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA 입력은 dSPN/iSPN 비특이, **striosome에서 NMDA/AMPA 비↑**, DLS에서 **원위 수상돌기(~100 μm) 편향** → upstate gating으로 수렴 입력 증폭 (Neuron 2026).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. DLS dSPN·iSPN(D1-Cre·A2a-Cre) 단일세포 종단 기록으로 음식 추구의 습관화와 실제 섭취의 연결을 검증하는 설계.
+- [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — DA burst → D1 SPN(α) / DA pause → D2 SPN(β) 가소성으로 학습률을 구현한다는 기전 제안(검증 전 가설).

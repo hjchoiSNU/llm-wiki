@@ -2,7 +2,7 @@
 title: "쾌락적 섭식은 GLP-1R 포만에 맞서는 도파민 뉴런이 통제한다 (Zhu et al. 2025, Science)"
 type: paper
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2025 Science. (Sternson) Hedonic eating is controlled by dopamine neurons that oppose GLP-1R satiety.pdf"
 authors: [Zhenggang Zhu, Rong Gong, Vicente Rodriguez, Kathleen T. Quach, Xinyu Chen, Scott M. Sternson]
 year: 2025
@@ -108,3 +108,4 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 DMH GLP-1R 회로(섭취 **전** 포만)와 대조: 본 논문은 GLP-1R 포만이 **소비 중** 도파민까지 누른다는 쪽.
 - [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 감량 방식에 따른 선조체 도파민 재설정 방향 논의와 연결.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량이 진행될수록 쾌락 회로 반응이 되살아난다는 생쥐 짝 자료. **두 초안이 함께 게시될 때만** 링크가 유효.
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — 소비 중 DA 지속을 학습률·관여 신호로 읽는 대안 해석. Gong 2026은 본 논문을 항상성 충족 중 느린 DA 역학의 예로 인용(ref 80).

@@ -2,7 +2,7 @@
 title: 측좌핵 (Nucleus Accumbens, NAc)
 type: concept
 created: 2026-06-01
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -84,3 +84,4 @@ updated: 2026-10-25
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 혐오 자극: shell의 지연된 자극 후 방출(relief·회피 성공 예측) vs core의 즉각적 변화; risky cue에 core 차별적·shell 비차별적.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — NAc core 도파민 = 지각된 현저성(Kutlu 2021, dispatch 요약); core·shell이 반대 기능/방출 타이밍을 가질 수 있다는 단서.
 - [[overview-dopamine-roles-by-striatal-region]] — NAc core(ANCCR·V·주관적 cue 가치)와 shell(원함·hedonic 섭식, medial≠lateral)의 도파민 역할을 dorsal striatum·TS와 나란히 비교.
+- [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — NAc core 도파민 = 학습 초기 전역 학습률(α)이자 보상 크기에 비례하는 신호(Dudman lab 2026).

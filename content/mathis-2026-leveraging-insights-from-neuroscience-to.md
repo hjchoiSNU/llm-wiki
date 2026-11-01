@@ -2,7 +2,7 @@
 title: "Leveraging insights from neuroscience to build adaptive artificial intelligence (Mathis 2026, Nature Neuroscience)"
 type: paper
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-11-01
 source: "raw/2026 Nature Neuroscience. Leveraging insights from neuroscience to build adaptive artificial intelligence (1).pdf"
 authors: [Mathis MW]
 year: 2026
@@ -73,3 +73,4 @@ journal: Nature Neuroscience
 - [[liu-2025-castle-a-training-free-foundation-model]] · [[mueller-2025-privi-towards-general-purpose-video]] — 제안된 "전문 인코더 모듈"의 실물 사례.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL을 interoception 기반으로 재정의; AI×Neuroscience 인접.
 - [[padamsey-2022-neocortex-saves-energy-by]] — 에너지 제약이 coding precision을 바꾸는 사례; SNN 에너지 효율 논의와 대비.
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[grima-2026-a-global-dopaminergic-learning-rate]] — 마우스 학습 속도가 과소평가돼 왔다는 근거 두 갈래: 작은 보상(Gong: 같은 총량을 큰 보상으로 주면 ≥10배 빠름)과 과제 구조(Grima: 다선택지 foraging이 이지선다보다 한 자릿수 빠름).

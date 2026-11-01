@@ -2,7 +2,7 @@
 title: Metabolism and the Mind — glucose control & reinforcement learning in humans (Fleming 2026)
 type: paper
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-11-01
 source: raw/2026 Biological Psychiatry. Metabolism and the Mind- Investigating the Link Between Glucose Control and Reinforcement Learning in Humans.pdf
 source_alias: "raw/2026 Biological Psychiatry. Metabolism and the Mind- Investigating the Link Between Glucose Control and Reinforcement Learning in Humans 1.pdf"
 authors: [Hugo Fleming, Martyna K. Stasiak, Isabel Lau, Annalise Whines, Sara Z. Mehrhof, Camilla L. Nord]
@@ -52,3 +52,4 @@ year: 2026
 - [[concept-anhedonia]] — 보상학습 손상과 anhedonia/우울의 계산정신의학 연결.
 - [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — 보상학습·도파민 계산 프레임(RPE/학습률).
 - [[person-kroemer-nils]] — gut-brain×reward×depression(대사–기분 인접 연구자).
+- [[concept-dopamine-learning-rate]] — 행동 적합 학습률과 도파민 학습률 가설(Grima·Gong 2026)을 잇는 hub. 대사 상태(Need) × 학습률 질문.

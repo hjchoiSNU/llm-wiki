@@ -2,7 +2,7 @@
 title: "Mesolimbic dopamine release conveys causal associations (Jeong … Namboodiri 2022, Science)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-11-01
 source: "raw/2022 Science (정희정) Mesolimbic dopamine release conveys causal associations.pdf"
 source_suppl: "raw/2022 Science (정희정 suppl) Mesolimbic dopamine release conveys causal associations.pdf"
 authors: [Jeong H, Taylor A, Floeder JR, Lohmann M, Mihalas S, Wu B, Zhou M, Burke DA, Namboodiri VMK]
@@ -206,3 +206,4 @@ ANCCR 시뮬레이션은 RPE 지지 근거로 쓰여 온 결과들을 질적으�
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 비교 대상인 RPE 진영의 2016년 정식화(utility PE·두 성분); 무예측 보상 반복 시 도파민 증가(Test 1)는 Schultz의 "새 자극 반응은 반복하면 감소"와도 방향이 다르다.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — 반례로 병기된 Kutlu 2021 [34]의 내용 요약(2차); 같은 처벌 데이터의 KCS 현저성 설명 vs ANCCR 설명(Discussion iii).
 - [[concept-reward-prediction-error]] — 본 논문 11개 검증의 판별 조건(무예측 보상 반복·직전 IRI·소거)을 다른 해석들과 나란히 놓은 hub.
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — Gong 2026이 본 논문을 "phasic DA = 이산화된 적응적 학습률"의 예로 인용(ref 27). 두 논문의 조작적 과제에서는 NAc 보상 DA가 학습 초기에 **감소**해 Test 1(증가)과 방향이 반대다. 과제 구조 차이로 병기.

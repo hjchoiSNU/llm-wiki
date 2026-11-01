@@ -2,7 +2,7 @@
 title: "Lateral hypothalamic GABAergic neurons encode reward predictions that are relayed to the VTA to regulate learning (Sharpe 2017, Curr Biol)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-11-01
 source: "raw/2017 Current Biology. Lateral Hypothalamic GABAergic Neurons Encode Reward Predictions that Are Relayed to the Ventral Tegmental Area to Regulate Learning.pdf"
 authors: [Melissa J. Sharpe, Nathan J. Marchant, Leslie R. Whitaker, Christopher T. Richie, Yajun J. Zhang, Erin J. Campbell, Pyry P. Koivula, Julie C. Necarsulmer, Carlos Mejias-Aponte, Marisela Morales, James Pickel, Jeffrey C. Smith, Yael Niv, Yavin Shaham, Brandon K. Harvey, Geoffrey Schoenbaum]
 year: 2017
@@ -124,4 +124,4 @@ journal: "Current Biology 27:2089–2100 (2017-07-24; online 2017-07-06); doi:10
 - [[nieh-2016-inhibitory-input-from-the]] — ⚠️ 같은 LH^GABA→VTA를 "disinhibition→DA↑→행동 구동"으로 보는 Tye lab 원전(Neuron 2016). 본 논문의 "학습률 조절(teaching signal)·VTA 말단 억제→학습 촉진"과 DA 변화 부호를 반대로 예측(병기).
 - [[hoang-2021-the-basolateral-amygdala-and]] — 같은 lab 리뷰(Curr Opin Behav Sci 2021)가 본 논문을 원문 [26]으로 요약하고, BLA→LH→VTA 학습 편향 회로의 **마지막 단계**(LH^GABA→VTA 기대값 relay → 예상 보상에서 PE 억제)의 근거로 쓴다. ⚠️ 그 리뷰는 cFos 시간차를 들어 'LH는 수반성 자체를 배우지 않고 관련성을 평가한다'는 해석도 제시한다. 본 논문의 'LH^GABA가 보상 예측을 부호화·저장한다'는 결론과 서술이 어긋난다(병기).
 - [[sharpe-2021-past-experience-shapes-the]] — 같은 lab·같은 GAD-Cre rat·같은 cue 한정 광억제 프로토콜을 쓴 **후속 짝 논문**(Nat Neurosci 2021). 본 논문이 보인 "cue–음식 학습 차단"과 **부호가 반대**인 결과를 같은 조작에서 얻었다: 중립 cue끼리(sensory preconditioning)·보상 원위 cue(second-order) 학습은 **촉진**되고 latent inhibition은 **소실**된다. 또 **naive rat의 공포 학습에는 영향이 없다가(n=4/4) cue–보상 수반성 경험 후에는 공포 학습이 무너진다**(맥락 분리 2×2, tone×context×virus×condition F(1,20)=3.913, P=0.031). ⚠️ 두 논문을 하나의 계산으로 묶는 모델은 아직 없다 — 그쪽 TD(λ) 모델은 공포 데이터만 다루고 촉진은 서술적 설명에 머문다(병기).
-
+- [[concept-dopamine-learning-rate]] — 위키의 "학습률 조절" 요약을 Dudman lab의 학습률 가설(DA = α)과 구분해 정리. 본 논문의 틀은 기대값 → VTA 예측오차(RPE 논리)이고, 학습 속도 변화만으로 DA = α를 뜻하지 않는다.

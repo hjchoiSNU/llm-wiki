@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-10-25
+updated: 2026-11-01
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -57,6 +57,12 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 ### Calipari의 입장
 - 도파민은 단일 기능 아님 — 신경계 학습 효율 modulator.
 - "I think it plays a role in whatever you're studying."
+
+### 학습률 가설 (Dudman, Janelia) — 2026-11-01 추가
+- 도파민 = 갱신식의 **학습률 α**(곱셈·부호 없음)이지 RPE δ(덧셈·부호 있음)가 아니라는 가설. 원전 Coddington 2023(ACTR)은 위키에 없다.
+- [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]: 6선택지 foraging에서 NAcC 보상 DA = 지수 감쇠하는 전역 학습률, 보정 VTA DA 자극이 모델 예측대로 학습을 양방향으로 바꿨다.
+- [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]: 같은 총량을 큰 보상으로 나누면 학습 ≥10배↑. 소비 중 DA 지속(1 s 자극)이 학습률과 관여를 함께 올린다.
+- 개념 hub: [[concept-dopamine-learning-rate]].
 
 ### 진화적 보존 — Drosophila evidence
 - **[[huang-2024-dopamine-mediated-interactions-between-short|Huang 2024 Nature]]**: 무척추 voltage-imaging으로 PPL1-DAN의 **bi-directional**·heterogeneous valence coding 입증. Anti-Hebbian plasticity, STM↔LTM gating, paradoxical extinction enhancement (10분 후 extinction이 LTM 강화 → habit 끊기 어려움의 회로 단서). 포유류 basal ganglia로의 일반화 시사.
@@ -212,3 +218,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 도파민 = 쾌감이 아니라 salience: volume transmission·tonic/phasic·D2H 모델, 보상 누락 반응을 salience 에러·참신성으로 재해석한 국문 종설(JKNA 2011).
 - [[zhao-2026-serotonin-neurons-in-the-dorsal]] — 5-HT^DRN→VTA 글루타메이트성 단일시냅스 입력; 이 축을 켜면 임신기 기호식 추구가 줄어 도파민 보상축의 세로토닌 상류 brake를 제공 (Nat Neurosci 2026).
 - [[overview-dopamine-roles-by-striatal-region]] — Striatal subregion별 도파민 역할 지도(그림 + 표 2개): ventral=가치·학습·동기, dorsal=행동·습관·영양, TS(tail)=위협 채널.
+- [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 학습률 가설(Dudman, Janelia). 위 "도전" 절에 추가.

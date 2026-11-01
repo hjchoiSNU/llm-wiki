@@ -2,7 +2,7 @@
 title: "선조체 도파민 지형 (Striatal dopamine gradient)"
 type: concept
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-11-01
 aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도파민 구배, anterior-posterior dopamine]
 ---
 
@@ -55,6 +55,8 @@ aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도
 - **"도파민이 섭식을 유지한다"**: 소비 중 도파민은 bout **개시**를 강화하고 bout **길이**는 늘리지 않는다(오히려 DMS·DLS 말단 자극은 bout당 lick을 줄였다) — [[concept-consumption-vigor|vigor]] 지표를 성분별로 쪼개야 하는 이유.
 - **상속 vs 국소 변환**: 같은 질문을 시냅스 입력 층에서 물은 [[zhang-2026-inherited-input-and-local-transformations|Zhang 2026]]은 **cue 위치·licking은 상속, 경로 대립 가치·ramping은 국소 변환**이라고 답했다. 도파민 층의 Gordon 2026과 **방법·논지가 쌍을 이룬다**.
 
+- **"전방·복측 DA = 가치"의 학습 단계 조건**: 위 기능 지도의 가치·이력 근거는 대부분 훈련된 동물이나 용액 가치 차이에서 나왔다. [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]의 무경험 6선택지 foraging에서는 NAcC 보상 DA가 선택지 질(최대 80배)을 반영하지 않고 전역 학습률처럼 감쇠했고, DMS DA는 학습률·RPE 어느 쪽과도 맞지 않았다. 저자는 선택지 가치 부호화가 장기 훈련 뒤에 나타난다고 본다 → 지형 해석에 **학습 단계**를 축으로 추가한다([[concept-dopamine-learning-rate]]).
+
 ## 5. 실무 체크리스트 (설계·해석)
 1. photometry 좌표를 **AP·ML·DV 수치로** 보고하고, 가능하면 전후축 **다점** 샘플링한다(단일 NAc 지점 = 지형의 한 픽셀).
 2. 가치와 운동(licking)을 **같은 모델 안에서** 분리한다 — lick kernel + 시간지연 회귀, predictor set 제거 ΔR².
@@ -88,3 +90,4 @@ aliases: [striatal dopamine gradient, dopamine landscape, DA wave, 선조체 도
 - [[concept-habit]] — 배측(DMS·DLS) = 습관·칼로리, 복측 = 맛·가치라는 지형을 습관적 과식 기전으로 연결한 hub.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — core 집중 측정의 한계와 "더 넓은 striatum 해상도" 요구(2021 시점의 같은 문제의식).
 - [[overview-dopamine-roles-by-striatal-region]] — 이 지형을 역할별로 읽은 종합: VTA·NAc core·NAc shell·DMS·DLS·TS가 싣는 변수(RPE·ANCCR·cue value·V·vigor 개시/유지·영양·위협)와 근거 강도 표 (2026-10-25 질의 보관).
+- [[grima-2026-a-global-dopaminergic-learning-rate]] — 학습 초기 6선택지 foraging에서 NAcC DA는 선택지 질을 반영하지 않고 전역 학습률을 따르고, DMS DA는 공간에 넓게 분포한다. "가치" 지도에 학습 단계 축을 붙여야 하는 근거(§4).
