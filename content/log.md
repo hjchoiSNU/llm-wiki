@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-01 — query (드문 빈도 보상 학습 논문 찾기)
+위키 내 답변(웹 미사용). 직접 근거는 [[gong-2026-reward-magnitude-determines-reinforcement-learning]](같은 총량 100 µl×9회 vs 5 µl×180회 → 강화 횟수 기준 ≥10배 빠름; 단 "드묾"과 "큼"이 함께 바뀌는 설계), [[grima-2026-a-global-dopaminergic-learning-rate]](재충전 간격 30–2,400 s 선택지에서 수십 분 만에 matching), [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]](직전 IRI가 길수록 보상 DA↑; suppl. S5 ITI·부분 강화 시간척도 불변 시뮬레이션)·[[concept-anccr]]. 인접: [[myers-2022-chronic-experience-with-unpredictable]](불규칙 급식 → food reward↑). Burke 2024 bioRxiv·Gallistel & Gibbon 2000은 raw에 여전히 없음(Drive 재검색). 페이지 변경 없음.
+
 ## 2026-11-01 — query (보상 간격이 먼 학습도 잘 된다는 논문 찾기)
 위키·raw에 원문 없음(웹 미사용). 후보는 [[gong-2026-reward-magnitude-determines-reinforcement-learning]]의 참고문헌에서 찾았다. **Burke DA et al., "Reward timescale controls the rate of behavioural and dopaminergic learning", bioRxiv 535173 (2024; doi:10.1101/2023.03.31.535173)**(ref 50)이고, 고전 이론 Gallistel & Gibbon 2000 *Psychol Rev*(ref 49)와 함께 "긴 ITI에서 cue 학습이 빠르다"의 근거로 인용된다. 위키 안의 관련 서술은 [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] suppl. S5(시간척도 불변성: ITI를 지연에 비례해 늘리면 습득 시행 수 불변, ANCCR 재현·TDRL 실패)와 [[concept-anccr]](eligibility trace T = 1.2 × 평균 IRI)다. 사용자에게 PDF를 raw에 넣어 ingest하도록 안내했다. 페이지 변경 없음.
 
