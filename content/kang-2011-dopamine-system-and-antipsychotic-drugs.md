@@ -2,7 +2,7 @@
 title: "도파민 시스템과 항정신병 약물의 작용에 대한 이해 (강웅구 2011)"
 type: paper
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-03
 source: "raw/2011 JKNA (강웅구) 도파민 시스템과 항정신병 약물의 작용에 대한 이해.pdf"
 authors: [Kang UG (강웅구)]
 year: 2011
@@ -51,6 +51,7 @@ year: 2011
 ### 4. 동기: 의욕(volition)과 의지(will), 그리고 노력 선택 실험 (p.255–256)
 - Oxford 사전의 정의를 빌려 **의지(will)**는 행위를 결정하고 시작하는 잠재적 능력(충동을 참는 능력 포함, 대상 지향이 아님), **의욕(volition)**은 특정 대상을 향해 의지를 쓰는 능력으로 나눈다.
 - **저자 가설**: 대상이 salient하게 지각될 때의 **phasic 방출은 대상 지향적 의욕**의 신경생리적 등가물이고, 자극이 없는 휴지기의 **tonic 신호는 반응할 준비가 된 상태(의지·에너지 레벨)**와 관계된다(p.255).
+- **각주 d (p.255) — volition 범주의 해체**: 능력심리학(faculty psychology)과 골상학의 영향으로 Esquirol은 정신질환을 사고·인지(delusional insanity), 정서(emotional insanity), 의지–욕동(volitional insanity) 장애로 나눴지만, 현대 도구적 진단분류에서 volition은 사라졌다고 쓴다. 의지의 질환이던 강박장애는 정서(불안)장애로, 정신분열병의 무의욕(aboulia)은 실행기능 장애로, 우울증의 비슷한 상태는 무쾌감증(anhedonia)으로, 비정상 volition이 주된 질환은 '충동조절장애'라는 군소 범주로 흩어졌다(2011년 시점 서술). → [[concept-will-volition-motivation]] · [[concept-anhedonia]]
 - **노력 선택 실험(그림 4, Salamone & Correa 2002 인용, p.255–256)** → [[concept-effort-based-decision-making]]
   - 레버를 눌러 설탕을 먹거나 노력 없이 사료를 먹을 수 있게 하면, 쥐는 레버를 눌러 설탕을 먹는다.
   - 항정신병 약물로 도파민 신경전달을 차단하면(그림 라벨 "D2 blocking; effort required") 레버를 누르지 않고, 맛은 없지만 쉽게 얻는 사료를 먹는다.
@@ -147,3 +148,4 @@ year: 2011
 - [[berridge-2009-dissecting-components-of-reward]] — Kang이 따른 Berridge·Robinson의 liking/wanting 구분을 다룬 위키 원전급 페이지(Kang 자신은 1996·1998 논문을 인용).
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — 대립 축: Kang은 CS 반응·참신성·혐오 자극 방출을 salience의 증거로 읽고, Schultz 2016은 이를 감지 성분 + 가치 주성분의 RPE 안으로 흡수한다.
 - [[song-2024-case-reports-of-binge-eating]] — "갈망 = 작업기억을 점령한 wanting"(p.256)의 임상 예: 증례 2의 단 음식 몰두. 또 Kang p.268은 항정신병 약물의 흔한 부작용으로 식욕 증가를 적는데, Song 증례 1은 olanzapine 2.5 mg 유지 중 회복기 폭식을 겪었다(원문은 미논의).
+- [[concept-will-volition-motivation]] — 의지(will)·의욕(volition)·동기 개념 구분 hub: 4절의 정의와 각주 d(volition 범주 해체)를 위키 속 '의지'의 두 용례(기본 준비성 vs 자기통제)와 대조.

@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 546 (+ index.md, log.md)
-- 마지막 갱신: 2026-11-01
+- 총 페이지: 547 (+ index.md, log.md)
+- 마지막 갱신: 2026-11-03
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -565,6 +565,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서 고칼로리 음식의 쾌락 가치가 하락하는 현상 hub(sensory-specific satiety·alliesthesia·incentive sensitization과의 구분표 포함). _(🎯 도파민 절에도)_ · 🔑 쾌락 가치 저하, 기호성 저하, reward devaluation in obesity, HFD, LHA^Vglut2, NTS
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석과 연구 제안. 습관 상태의 DLS 기록은 위키에 없고 습관 전환의 인과 자료는 DMS에 있음을 정리. 과식을 bout 수 × bout 크기로 나눈 세 가설, miniscope 중심 제안 8개와 설계 점검표. 연구계획서 [[proposal-habitual-overeating-dls-miniscope]]. · 🔑 DLS, DMS, habitual overeating, miniscope, bout structure, outcome devaluation
 - [[concept-effort-based-decision-making]] — 노력-보상 비용편익 의사결정(acceptance bias·βR/βE); 도파민 vigor·apathy/anhedonia 계산표지 · 🔑 T2D
+- [[concept-will-volition-motivation]] — **의지·의욕·동기 구분 hub**: 동기 = 비용–편익이 방향·활력을 정하는 넓은 개념, 의지(will) = 대상 없는 행위 개시 능력(Kang 2011: tonic dopamine 가설), 의욕(volition) = 대상 지향(phasic). 위키 속 '의지'의 두 뜻(기본 준비성 = NMPU Motivation·acceptance bias vs 충동을 참는 자기통제 = Utility·dlPFC/ACC) 지도와 volition 진단 범주 해체(Kang 각주 d). ⚠️ willpower·ego depletion 원전 없음. _(🧩 인지행동·🎯 동기와도)_ · 🔑 will, volition, 의지, 의욕, 동기, motivation, willpower, 자기통제, self-control, avolition, aboulia
 - [[concept-goal-commitment]] — 목표 몰입·포기 hub: 정의·측정(선택 전/후·frustration>temptation)·세 적응 기능·Rubicon/HRL/감시-임계값 알고리즘·failure mode(ADHD·불안·apathy·우울)·강박/restraint/NMPU 이식 (Holton 2026).
 - [[concept-reward-prediction-error]] — **보상 예측 오류와 도파민 신호 해석 hub**: RPE(Schultz 2016 두 성분·효용 예측 오류) vs 현저성(위키 원전 속 6가지 뜻: physical·novelty·surprise·motivational·incentive·perceived) vs 회고적 인과 학습(ANCCR) vs 유인 현저성 vs 가치·활력·노력; 조건별 판별표(valence 대조·반복 무예측 보상·직전 IRI·소거·상태 급변)·측정 수준(체세포/말단, core/shell, 시간창)·식사 단계(Zhu 2025)·NMPU의 두 'utility' · 🔑 RPE, reward prediction error, utility prediction error, two-component, salience, perceived saliency, KCS, ANCCR, TDRL
 - [[concept-dopamine-learning-rate]] — **도파민 = 적응적 학습률(α) 가설** hub: 갱신식 두 표기(δ vs α)·학습률 vs RPE 판별표·Gong 2026 세 성분(학습률·보존·관여)·위키 내 "학습률" 서술 지도(Sharpe 2017·Fleming 2026·Hjort 2026·Jeong 2022)·Need × 학습률 가설. _(🎯 학습률 진영)_ · 🔑 learning rate hypothesis, AQUA, ACTR, 전역 학습률
@@ -705,6 +706,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 
 ### 진영 — Effort / activation
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012). · 🔑 YES, RPE(teaching signal), NO, ANCCR, NMPU
+- [[concept-will-volition-motivation]] — 의지(will, tonic)·의욕(volition, phasic)·동기 구분 hub; '일할 의지' = acceptance bias vs 자기통제 = Utility. 본문은 💡 일반 개념 절.
 - ★ [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **같은 보상도 더 많이 일해 얻으면 NAc core 보상 도파민이 커진다**(FR1→46; 같은 축삭 광자극도). 증폭은 VTA 세포체 독립이고 **NAc ChI의 ACh → 도파민 축삭 α4/α6 nAChR**가 만든다. DHβE·TetTox·NpHR로 고노력 DA만↓, 차단 시 고노력 보상 획득만↓. ACh = 노력만, DA = 크기 + 노력 (Nature 2026, Eshel·Malenka lab). _([[concept-striatal-cholinergic-interneuron|ChI]] hub에도)_ · 🔑 effort paradox, GRAB_ACh, ChAT, stGtACR2, muscimol, Chrna4·Chrna6
 
 ### 좋아함(liking) vs 갈망(wanting) — 오피오이드 vs 도파민 (Berridge cluster)

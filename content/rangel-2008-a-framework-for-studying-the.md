@@ -2,7 +2,7 @@
 title: "A framework for studying the neurobiology of value-based decision making (Rangel 2008)"
 type: paper
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-11-03
 source: "raw/2008 NRN A framework for studying the neurobiology of value-based decision making.pdf"
 authors: [Rangel A, Camerer C, Montague PR]
 year: 2008
@@ -199,3 +199,4 @@ aliases: [Rangel 2008, neuroeconomics framework, 신경경제학 틀, value-base
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — Pavlovian cue 통제가 결과 표상을 담는다는 반론.
 - [[concept-food-addiction]] — 중독·비만을 가치계 충돌의 정량 분류로 다루자는 Box 5.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 선택/실행 단계별 시스템 배분.
+- [[concept-will-volition-motivation]] — Box 5의 행동 선택 단계 장애('의지')와 동기 장애 구분을 의지·의욕·동기 개념 구분에 사용.

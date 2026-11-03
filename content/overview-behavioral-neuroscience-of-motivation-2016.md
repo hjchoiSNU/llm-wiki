@@ -2,7 +2,7 @@
 title: "Behavioral Neuroscience of Motivation (Simpson & Balsam eds. 2016) — 책 hub"
 type: overview
 created: 2026-06-21
-updated: 2026-10-11
+updated: 2026-11-03
 source: raw/2016 Book Behavioral Neuroscience of Motivation.pdf
 source_alias: "raw/2016 Book Behavioral Neuroscience of Motivation (1).pdf"
 editors: [Eleanor H. Simpson, Peter D. Balsam]
@@ -83,3 +83,4 @@ publisher: "Springer — Current Topics in Behavioral Neurosciences vol. 27"
 - [[concept-dopamine-reward-system]] · [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — 도파민·effort 장의 대응.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[rangel-2008-a-framework-for-studying-the]] — 이 책의 다중 의사결정계 장(O'Doherty·Redish)이 딛고 선 선행 틀: 5단계 계산 + Pavlovian·습관·목표지향 가치계 + 통제권 배정 (Nat Rev Neurosci 2008).
+- [[concept-will-volition-motivation]] — 동기의 통합 정의(방향·활력)를 의지(will)·의욕(volition)과 구분한 개념 hub; 동기 병리 2범주를 Rangel의 '의지' 장애 구분과 대응.

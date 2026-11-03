@@ -2,7 +2,7 @@
 title: "Mesolimbic dopamine signals the value of work"
 type: paper
 created: 2026-04-30
-updated: 2026-11-01
+updated: 2026-11-03
 source: "raw/2016 Nature Neuroscience. Mesolimbic dopamine signals the value of work.pdf"
 authors: [Hamid AA, Pettibone JR, Mabrouk OS, Hetrick VL, Schmidt R, Vander Weele CM, Kennedy RT, Aragona BJ, Berke JD]
 year: 2016
@@ -138,3 +138,4 @@ NAc DA는 **temporally discounted future reward (state value V)** 라는 단일 
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 긴장: 이 Pavlovian 과제에서는 cue DA를 키워도 그 시행의 예기 핥기가 변하지 않았다(저자 단서: 다른 맥락은 다를 수 있음). DA = 즉각적 동기·활력 해석의 적용 범위 문제.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 위 '한계 1'(발화 ≠ 방출, ChI 국소 조절)의 직접 검증: 보상 시점 NAc 도파민이 들인 노력을 따라 커지고, VTA를 꺼도 남으며, NAc nAChR·ChI를 막으면 사라진다. 이 논문의 미세투석에서 ACh는 분 단위 보상률과 무관했지만, Touponse의 초 단위 보상 시점 ACh는 노력을 따른다(시간척도·변수가 다름). Touponse 2026의 심사자 명단에 이 논문 제1저자와 같은 이름(Arif Hamid)이 있다.
 - [[burke-2026-duration-between-rewards-controls-the]] — TDRPE 바깥의 도파민 근거 목록에 이 논문을 인용(ref 60).
+- [[concept-will-volition-motivation]] — 분 단위 dopamine = 일할 동기라는 입장을 Kang의 'tonic = 의지' 가설과 비교(연결 해석).

@@ -2,7 +2,7 @@
 title: "긍정 정서: liking과 wanting의 본질과 뇌 기반"
 type: paper
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-11-03
 source: raw/2021 (Berridge) Positive affect- nature and brain bases of liking and wanting.pdf
 authors: [Nguyen D, Naffziger EE, Berridge KC]
 year: 2021
@@ -32,3 +32,4 @@ year: 2021
 - [[concept-dopamine-reward-system]] — NAc 전역에서 'wanting'을 키우나 'liking'은 불변시키는 도파민
 - [[concept-incentive-sensitization]] — addiction을 과도한 'wanting'으로 보는 임상 틀
 - [[concept-orbitofrontal-cortex]] — 'liking' 핫스폿이 위치하는 피질 부위
+- [[concept-will-volition-motivation]] — avolition = wanting 결핍(liking 정상) 재해석을 의지·의욕·동기 구분의 장애 절에서 사용.

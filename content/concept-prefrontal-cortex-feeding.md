@@ -2,7 +2,7 @@
 title: 전전두피질과 섭식 (Prefrontal Cortex in Feeding)
 type: concept
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-03
 aliases: [PFC, mPFC, dmPFC, dlPFC, DLPFC, vmPFC, prefrontal cortex, 전전두피질, 내측 전전두피질, prelimbic, infralimbic, PL, ILA, ACC, top-down control, 하향 통제]
 ---
 
@@ -235,3 +235,4 @@ graph LR
 - [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] · [[concept-insula]] — PFC가 조절하는 하류 보상·내수용 노드.
 - [[stuber-2025-the-neurobiology-of-overeating]] · [[overview-appetite-energy-homeostasis]] — 과식의 회로 모델과 큰 그림.
 - [[person-choi-hyung-jin]] — 사용자 lab hub.
+- [[concept-will-volition-motivation]] — '의지' 둘째 뜻(자기통제)의 회로 자리로 PFC brake 축을 참조하는 개념 hub.

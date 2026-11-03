@@ -2,7 +2,7 @@
 title: "‘좋아함(liking)’과 ‘갈망(wanting)’ — 보상의 이중 해리"
 type: concept
 created: 2026-06-20
-updated: 2026-10-11
+updated: 2026-11-03
 aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, 쾌락적 충격]
 ---
 
@@ -81,3 +81,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[concept-reward-prediction-error]] — '학습' 성분의 도파민 RPE와 '원함'(유인 현저성)의 관계, 위키 원전 속 '현저성'의 여러 뜻.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 노력 선택 실험(설탕 vs 사료, D2 차단)과 조현병 음성 증상(liking 정상·wanting 감소)으로 '도파민 = wanting'을 정신의학으로 옮긴 종설.
 - [[song-2024-case-reports-of-binge-eating]] — 증례 2의 "달지 않은데 더 원함"(원문 코딩: Tolerance)은 좋아함 저하·원함 증폭 해리의 임상 후보(위키 해석).
+- [[concept-will-volition-motivation]] — 대상 지향 의욕(volition, Kang)과 wanting의 대응을 다루는 의지·동기 개념 hub.

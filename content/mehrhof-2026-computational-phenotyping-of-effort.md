@@ -2,7 +2,7 @@
 title: Computational phenotyping of effort-based decision-making in T2D on/off semaglutide (Mehrhof 2026)
 type: paper
 created: 2026-08-05
-updated: 2026-11-01
+updated: 2026-11-03
 source: raw/2026 Neuropsychopharmacology. Computational phenotyping of effort-based decision-making in type-2 diabetes on and off semaglutide.pdf
 source_alias: ["raw/2026 Neuropsychopharmacology. Computational phenotyping of effort-based decision-making in type-2 diabetes on and off semaglutide 1.pdf", "raw/2026 Neuropsychopharmacology. Computational phenotyping of effort-based decision-making in type-2 diabetes on and off semaglutide 2.pdf"]
 authors: [Sara Z. Mehrhof, Hugo Fleming, Camilla L. Nord]
@@ -55,3 +55,4 @@ year: 2026
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — 중변연 도파민 = "일(work)의 가치"; effort 동기의 신경신호.
 - [[concept-anhedonia]] — apathy/anhedonia와 acceptance bias 저하의 평행.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 동물에서 들인 노력이 NAc 보상 도파민을 키우는 국소 ACh–nAChR 기전. T2D의 노력 편향 저하와의 관계는 위키에 자료 없음.
+- [[concept-will-volition-motivation]] — T2D의 acceptance bias↓를 '의지' 첫째 뜻(기본 준비성)의 결손으로 읽고, 자기통제(둘째 뜻)와 구분.

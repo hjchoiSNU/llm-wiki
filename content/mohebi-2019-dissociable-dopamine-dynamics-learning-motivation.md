@@ -2,7 +2,7 @@
 title: "Dissociable dopamine dynamics for learning and motivation"
 type: paper
 created: 2026-04-30
-updated: 2026-11-01
+updated: 2026-11-03
 source: "raw/2019 Nature. Dissociable dopamine dynamics for learning and motivation.pdf"
 authors: [Mohebi A, Pettibone JR, Hamid AA, Wong JT, Vinson LT, Patriarchi T, Tian L, Kennedy RT, Berke JD]
 year: 2019
@@ -142,3 +142,4 @@ journal: "Nature 570:65–70"
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — Coddington 2023이 이 논문(Mohebi 2019)을 "DA 의존적 cue 동기 가치 부여"의 예로 인용한다(ref 48). Coddington은 그 기능이 생리 범위 phasic DA의 **정책 학습률** 기능과 같은 중변연계 안에서 부분적으로 해리된다고 주장한다.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 논문이 지목한 local control 후보(ChI → nAChR)의 **생체 인과 검증**: 고노력 보상에서 NAc 도파민 증폭은 VTA 억제에 무관하고 NAc ACh 차단에 사라지며, 노력 행동을 유지한다. 다만 신호는 보상률 ramp가 아니라 **보상 시점 transient의 노력 의존 증폭**이다(Nature 2026; Eshel·Malenka lab, ref 28로 이 논문 인용).
 - [[burke-2026-duration-between-rewards-controls-the]] — TDRPE 바깥의 도파민 근거 목록에 이 논문을 인용(ref 34).
+- [[concept-will-volition-motivation]] — 동기 ramping이 VTA 발화 없이 국소 release로만 나타난다는 결과를, Kang의 'tonic 발화 = 의지' 가설을 그대로 옮기기 어려운 근거로 인용.

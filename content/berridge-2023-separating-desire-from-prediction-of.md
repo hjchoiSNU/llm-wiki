@@ -2,7 +2,7 @@
 title: "Berridge 2023 — Separating desire from prediction of outcome value"
 type: paper
 created: 2026-06-21
-updated: 2026-10-11
+updated: 2026-11-03
 source: raw/2023 Separating desire from prediction of outcome value.pdf
 authors: [Kent C. Berridge]
 year: 2023
@@ -68,3 +68,4 @@ journal: Trends in Cognitive Sciences
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — "선택된 목표에 붙는 bonus"도 결과가치 예측이 아닌 동기 신호라는 점에서 desire≠prediction과 같은 방향; 다만 원천을 incentive salience가 아니라 목표 표상의 알고리즘적 결과로 둠 — 같은 층인지 별개 기제인지 미해결.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — RPE 진영의 유인 현저성 평가: 보상 CS에 한정된 현저성, '행동 영향' vs PE = '신호 자체의 속성'.
 - [[concept-reward-prediction-error]] — desire ≠ prediction 논증을 RPE 진영(Schultz: 상호배타 아님)·ANCCR와 비교한 hub.
+- [[concept-will-volition-motivation]] — avolition = wanting 선택적 상실 해석을 의지·의욕·동기 구분의 장애 절에서 사용.
