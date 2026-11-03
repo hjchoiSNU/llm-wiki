@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-03 — query (Obesity perspective Figure 1 미해결 문제 ④: 여러 cue 중 credit 선택·novelty·blocking)
+같은 문서의 Figure 1에 ④ 표시와 범례, Box 1에 4번 항목을 추가했다(웹 미사용). 근거: 회고적 contingency(cue의 보상 시점 trace − 무작위 시점 trace → 늘 있던 cue는 credit이 작음, latent inhibition 설명) — [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]]·[[burke-2026-duration-between-rewards-controls-the]]; novelty gating — [[yang-2026-a-sync-state-in-the]](sync state가 친숙해지면 감쇠)·[[chen-2026-striatal-control-of-amygdalar]](BLA ACh = salience, 반복 중립 자극에 습관화, 학습 가속·지연); blocking 해제 — [[hoang-2026-methamphetamine-potentiates-the-use-of]](VTA DA→LH가 unblock). 영양 학습의 분~시간 간격에서 novelty·blocking이 어떻게 작동하는지는 위키에 자료 없음. 참고문헌 32개.
+
 ## 2026-11-03 — query (Obesity perspective Figure 1 미해결 문제 3개 강조)
 같은 초안 문서에 새 시간축 Figure 1(cue → pleasure → utility → future cue, 즉각·지연 credit assignment, 기억 형성·인출)을 그리고, 미해결 문제 3개를 그림 번호 표시와 본문 Box 1로 추가했다(웹 미사용). ① 이미 사라진 cue를 utility 시점에 어떻게 인출·귀속하나 — [[grove-2025-lateralized-pathway-associating-nutrients]]·[[yang-2026-a-sync-state-in-the]]·[[concept-anccr]]([[jeong-2022-mesolimbic-dopamine-release-conveys-causal]]). ② 저장 가치가 특정 음식 동기·선호로 바뀌는 기전 — [[pascoli-2026-conditioned-accumbal-dopamine-transients]]·[[gordon-2026-lateral-hypothalamic-control-of-the]]·[[hoang-2026-methamphetamine-potentiates-the-use-of]]·[[mcknight-2026-attenuated-hypothalamic-response-to]]. ③ utility가 맛 자체를 쾌/불쾌로 재부호화 — [[morales-2020-liking-and-wanting-in-eating]]·[[wang-2018-coding-of-valence-and-identity]]. 학습된 liking(커피·보드카)의 기전은 위키에 자료 없음. 참고문헌 30개로 확장; Wang 2018 raw PDF는 텍스트층이 없어 제목 미검증.
 
