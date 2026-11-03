@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-03 — query (Obesity perspective 영문 초안 작성)
+위 구성안으로 영문 초안을 Claude Docs 문서("Two teachers of appetite — Obesity Perspective draft", https://claude.ai/artifact/22dBoZkoK9XU9LUnhYGHrC)에 작성(웹 미사용). 본문 약 1,400단어 5절, 그림 legend 2개와 Fig 1A·2A 스케치, 참고문헌 24개(서지는 위키 frontmatter와 raw PDF 첫 쪽에서만 확인; 쪽 범위 빠진 항목은 문서의 작성자 메모에 표시). 위키 원전이 없는 사실(Tellez 2013·de Araujo 2008·DiFeliceantonio 2018)은 [[weber-2025-interoceptive-origin-reinforcement-learning]] 리뷰를 통해서만 인용. 위키 페이지 변경 없음.
+
 ## 2026-11-03 — query (Obesity perspective 구성안: pleasure·utility가 미래 food cue 가치·wanting을 갱신)
 위키 내 답변(웹 미사용). 1,500단어·그림 2개 구성안을 [[concept-need-motivation-pleasure-utility]] 틀(Pleasure=즉각 교사, Utility=지연 교사, wanting=저장된 cue 가치의 상태 의존 판독)로 짰다. 근거: [[weber-2025-interoceptive-origin-reinforcement-learning]]·[[concept-primary-reward-signals]]·[[concept-flavor-nutrient-conditioning]]·[[tellez-2016-separate-circuitries-encode-hedonic-nutritional]]·[[grove-2025-lateralized-pathway-associating-nutrients]](preprint)·[[thanarajah-2019-food-intake-recruits-orosensory]]·[[yang-2026-a-sync-state-in-the]]·[[mcknight-2026-attenuated-hypothalamic-response-to]]·[[aitken-2024-negative-feedback-control-of-hypothalamic]]·[[hutelin-2026-metabolic-and-neural-responses-to]]·[[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]·[[derman-2018-junk-food-enhances-conditioned-food-cup]]·[[malvaez-2019-distinct-cortical-amygdala-projections-drive]]·[[berridge-2023-separating-desire-from-prediction-of]]·[[kim-2024-glp-1-increases-preingestive-satiation]]·[[godschall-2026-a-brain-reward-circuit-inhibited]]·[[coppin-2022-does-glp-1-receptor-agonist]]·[[zhu-2025-hedonic-eating-is-controlled-by]]·[[hankir-2015-distinctive-striatal-dopamine-signaling-after]]·[[de-lartigue-2026-critical-role-gut-brain-signalling]]. 위키에 원전이 없어 2차 인용으로만 있는 것: de Araujo 2008·2013, Tellez 2013, Veldhuizen 2017, DiFeliceantonio 2018, Hall 2019(인용 전 raw 추가 필요). 위키 페이지 보관은 사용자 확인 대기.
 
