@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-03 — query (의지·동기 개념의 차이)
+의지(will)·의욕(volition)·동기(motivation) 구분 질의(웹 미사용). 근거: [[kang-2011-dopamine-system-and-antipsychotic-drugs]](will=비대상 지향 행위 개시 능력·tonic DA / volition=대상 지향·phasic DA, 저자 가설) · [[overview-behavioral-neuroscience-of-motivation-2016]](동기=비용–편익이 방향·활력을 정함) · [[concept-need-motivation-pleasure-utility]](Motivation=행동 구동력) · [[concept-effort-based-decision-making]](acceptance bias) · [[concept-inhibitory-control-demand]]·[[rangel-2008-a-framework-for-studying-the]](자기통제로서의 의지) · [[concept-goal-commitment]]. 위키 안에서 '의지'가 두 뜻(일반 준비성 vs 충동 억제)으로 갈려 쓰인다는 점 정리. willpower·ego depletion 1차 원전은 자료 없음. 페이지 변경 없음.
+
 ## 2026-11-03 — query (Obesity perspective 영문 초안 작성)
 위 구성안으로 영문 초안을 Claude Docs 문서("Two teachers of appetite — Obesity Perspective draft", https://claude.ai/artifact/22dBoZkoK9XU9LUnhYGHrC)에 작성(웹 미사용). 본문 약 1,400단어 5절, 그림 legend 2개와 Fig 1A·2A 스케치, 참고문헌 24개(서지는 위키 frontmatter와 raw PDF 첫 쪽에서만 확인; 쪽 범위 빠진 항목은 문서의 작성자 메모에 표시). 위키 원전이 없는 사실(Tellez 2013·de Araujo 2008·DiFeliceantonio 2018)은 [[weber-2025-interoceptive-origin-reinforcement-learning]] 리뷰를 통해서만 인용. 위키 페이지 변경 없음.
 
