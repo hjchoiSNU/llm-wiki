@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 547 (+ index.md, log.md)
-- 마지막 갱신: 2026-11-03
+- 총 페이지: 553 (+ index.md, log.md)
+- 마지막 갱신: 2026-11-07
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -315,6 +315,15 @@ LH 1차 원전·아틀라스·리뷰 30편. 개념 hub는 [[concept-lateral-hypo
 - [[davies-2026-elecoglipron-an-oral-small]] — elecoglipron(AZD5004) 경구 1일1회 소분자 GLP-1RA phase 2 VISTA: 26주 최대 −10.5%, 음식 제한 없음 (Lancet 2026, AstraZeneca).
 - [[rosenstock-2026-oral-small-molecule-glp]] — aleniglipron(GSBR-1290) 경구 소분자 GLP-1RA phase 2b ACCESS: 36주 위약-보정 −11.3%·정체기 없음 (Nat Med 2026, Structure Therapeutics).
 - [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — CagriSema(amylin+GLP-1) phase 3a REIMAGINE 3: basal insulin T2D add-on, HbA1c −2.33%p·체중 −10~12%·저혈당 위험 증가 없음 (Lancet 2026). · 🔑 GLP-1RA
+
+#### Science 특집 'GLP-1 and beyond' (Science 394(6824), 2026-11-05)
+서문·전체 지도: [[nusinovich-2026-going-beyond-glp-1]]. 편집진이 세운 숙제 네 갈래 = 지방조직 재구성 생물학 · 다른 기전의 약 · 신경·정신 예상 밖 효과 · 접근성과 공정성.
+- ★ [[bluher-2026-obesity-management-medications-the]] — 임상 리뷰. 비만약의 다음 단계를 "더 많이 빼기"에서 **"어떤 환자의 어떤 장기 질환"**으로 옮기자는 주장. 미충족 과제 5개(지속성·내약성·반응 이질성·제지방 보존·접근성). 중추 섭식 표적의 정신과적 안전성 경고(rimonabant).
+- ★ [[borchers-2026-obesity-pharmacotherapies-and-cognition]] — 인지 리뷰. **직접 CNS 작용 vs 간접 대사 개선**을 Fig. 3으로 가른다(시점·영역·질환 상태 축). 확립 AD에서 임상 효능 없음(EVOKE), 건강인 향상은 추측. ⚠️ REWIND 인지 결과를 [[concept-glp1-neuroprotection]]과 다르게(사후 분석) 서술.
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 중독 관점(NIDA Volkow). 기전 가설 = **보상 도파민 spike↓·tonic 유지**. 알코올 사용장애 RCT 2건에서 과음 감소. 도파민 중심 틀을 **"전신(whole-person) 건강"**으로 넓히자는 제안. ⚠️ [[zhu-2025-hedonic-eating-is-controlled-by]]의 며칠 내 회복과 긴장.
+- [[hicks-2026-glp-1-therapies-and-cancer]] — 암 위험 관점(약물역학). **"치료 개시의 총효과" ≠ "분자의 효과"**, 체중 감소를 거친 효과는 교란이 아니라 인과 효과. 다섯 경로 표, 비교약 함정(insulin vs metformin), 암종 합산 금지, 삼각검증 요구. 결론: 결론 불가.
+- [[shadlen-2026-expanding-global-access-to]] — 세계 접근성 Policy Forum. semaglutide 제네릭 3묶음 국가 지형(2026 브라질·인도 등 / 2031–2032 미국·서유럽), 펩타이드 규제 경로(31 aa·40 aa 기준선), 생산 병목, MPP 우선 품목, **차세대 약으로 분절되는 두 층 시장**(HIV 장기지속 PrEP 선례).
+
 - [[lee-2023-obesity-mechanism-after-hypothalamic]] — 두개인두종 시상하부 손상(HD) 다차원 코호트(n=29): 음식 cue에 좌 미상핵 reward 반응↓·후두/하전두↑, 음식 부주의·저포만·억제섭식↑, 수술 후 +7.2% 체중; mindless eating이 HO 핵심 기전 (Front Endocrinol 2023, 사용자 lab·김용휘 공동교신). · 🔑 NoGo, OFC
 - [[concept-digital-therapeutics]] — DTx 개념 hub: 소프트웨어 기반 근거중심 치료 개입 (사용자 lab 임상 라인). · 🔑 디지털 치료제, CBT, CBT-DTx
 - [[kim-2021-digital-therapeutics-for-obesity]] — 비만 DTx 개념·근거·7쟁점 리뷰: CBT+인간코치+다차원 표현형 개인화 (EnM 2021, 사용자 lab).

@@ -132,3 +132,4 @@ Single-cell transcriptomics (Kupari 2019, Bai 2019, Zhao 2022)로 ~30+ subpopula
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — gut endocannabinoid 동원의 미주신경 의존성. ⚠️ 방향 주의: 본 논문이 요구하는 것은 구심이 아니라 **미주 원심성(efferent)** 신호(구강 지방 → 뇌 → 공장 2-AG·anandamide 동원; subdiaphragmatic vagotomy로 폐지).
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — Cck EEC 선호가 미주 구심 의존(vagotomy로 소거).
 - [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지질 유도 장호르몬의 미주 구심 수용체 지도(CCK1R·GLP1R·Y2R); **GIPR는 미주구심에 부재 → GIP는 내분비 경로**로 중추 작용 (Nat Rev Endocrinol 2026).
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 중추–말초 GLP-1 소통 경로의 하나로 인용(ref 13).

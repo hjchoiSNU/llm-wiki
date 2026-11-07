@@ -199,3 +199,4 @@ PubMed·Ovid·Web of Science를 데이터베이스 개설~2024년 7월까지 검
 - [[cummings-2026-efficacy-and-safety-of-oral]] · [[edison-2026-liraglutide-in-mild-to-moderate]] · [[person-edison-paul]] — 본 리뷰가 "CNS 침투 확인이 필요하다"고 말한 임상 종점들(모두 1차 음성, 본 리뷰 이후 발표).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 대사용 차세대 약물 지형. 뇌 표적 설계와의 분기점.
 - [[person-choi-hyung-jin]] — 사용자. 본 리뷰가 인용한 Bae 2019(ref #20)의 공동 1저자.
+- [[volkow-2026-glp-1-receptor-agonists-in]] · [[borchers-2026-obesity-pharmacotherapies-and-cognition]] — 특집의 두 글이 각각 CNS 접근 경로를 중독·인지 맥락에서 다룬다.

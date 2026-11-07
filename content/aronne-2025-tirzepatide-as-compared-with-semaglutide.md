@@ -108,3 +108,4 @@ journal: "N Engl J Med 2025;393:26–36 (online 2025-05-11); doi:10.1056/NEJMoa2
 - [[le-roux-2026-survodutide-once-weekly-for]] — 공저자 le Roux가 참여한 glucagon-R/GLP-1R dual phase 3
 - [[concept-digital-therapeutics]] · [[kim-2021-digital-therapeutics-for-obesity]] — treat-to-target 전환 시 DTx 역할 이동
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 사용자 lab. 표현형별 정밀 치료 프레임
+- [[hicks-2026-glp-1-therapies-and-cancer]] — 72주 RCT의 암 안전성 기준선으로 읽을 수 있다(관찰 근거의 짧은 추적 문제와 대비).

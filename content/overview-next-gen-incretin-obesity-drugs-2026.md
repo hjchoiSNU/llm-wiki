@@ -70,3 +70,5 @@ updated: 2026-10-25
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 차세대 다중작용제의 미해결 질문 제기: **GLP-1R 작용의 추가/생략이 조직 특이 보호를 강화·약화·재편하는가** (Cell Metab 2026, Drucker).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 차세대 약물이 넘어야 할 **현행 표준 기준선**: tirzepatide 72주 −20.2%(≥30% 감량 19.7%), semaglutide −13.7% (NEJM 2025, SURMOUNT-5)
 - [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — 검색 2025-10 시점 차세대 인크레틴 Table(orforglipron·ecnoglutide·survodutide·mazdutide·CagriSema·amycretin·retatrutide·MariTide)과 CV·신장 성적표를 담은 Lancet 2026 리뷰. dual→triple 우월은 전임상뿐이라는 점에서 이 hub와 일치.
+- [[shadlen-2026-expanding-global-access-to]] — 이 hub의 시장·특허 맥락: 개발 중 차세대 인크레틴 170종 이상, 2026 상반기 거래 44건·140억 달러 이상, MPP 우선 품목 지정.
+- [[nusinovich-2026-going-beyond-glp-1]] — 특집 서문이 '다른 기전으로 작동하는 약'을 요구한다.

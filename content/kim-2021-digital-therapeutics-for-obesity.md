@@ -46,3 +46,4 @@ journal: "Endocrinology and Metabolism 36:220–228"
 - [[person-kim-meelim]] · [[person-choi-hyung-jin]] — 저자.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 약물로 20–30% 감량이 가능해지면서 저자들이 **treat-to-target** 전환을 주장 → DTx 역할이 감량 달성에서 유지·관리로 이동(연결 가설) (NEJM 2025, SURMOUNT-5)
+- [[shadlen-2026-expanding-global-access-to]] — 약이 닿지 않는 다수 인구에 대한 대안·병용의 정책 근거.

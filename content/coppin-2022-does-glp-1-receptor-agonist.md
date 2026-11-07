@@ -32,3 +32,4 @@ year: 2022
 - [[concept-taste-valence-coding]] — pleasantness의 신경상관(vmPFC·편도)이 미각 valence hub와 연결.
 - [[concept-central-amygdala-glp1r]] — 편도가 sensory pleasure 상관 영역 + CeA^Glp1r hedonic 역할 대비.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 사람에서 GLP-1RA가 liking을 바꾸지 않았다는 null과 같은 방향 — Zhu도 원문에서 "사람에서 단 음식 섭취·기호성은 유의 변화 없음(ref 81, 84)"을 인용.
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 사람에서 liking이 바뀌지 않았다는 이 null은 특집 관점 글의 '보상 spike 선택적 감쇠' 가설과 함께 읽어야 한다.

@@ -95,3 +95,6 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — "중단 시 체중이 빠진 속도와 대략 같게 재증가"라는 리뷰 진술(STEP 4·STEP 10·SURMOUNT-4 인용). SURMOUNT-4 수치와는 속도 해석에 긴장이 있다.
 - [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — "기호 음식 제한은 재발을 '기계적으로' 늦출 뿐"이라는 hedonic 측 설명(2012 리뷰). 항상성 증폭기(PVH^TRH→AgRP) 기전과 짝을 이루는 두 번째 재발 성분.
 - [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — 방어 체중이 *세워지는* 쪽의 세포 기질: HFD 개시 후 7–10일에 걸친 섭취 정상화가 이 집단의 leptin 신호에 의존하며, 없으면 훨씬 높은 체중에서야 정상화 (EMBO J 2026).
+- [[nusinovich-2026-going-beyond-glp-1]] — 특집 서문이 '재증가를 막으려 약에 계속 의존해야 하는가'를 중심 긴장으로 세운다.
+- [[shadlen-2026-expanding-global-access-to]] — 차세대 약의 기대 이점으로 '중단 후 재증가 감소'가 꼽힌다(시장이 값을 치르는 속성).
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 중독에서도 중단 후 재발·유지 전략이 같은 구조의 미해결 질문.

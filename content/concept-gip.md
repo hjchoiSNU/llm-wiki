@@ -62,3 +62,5 @@ GLP-1R 작용과 결합할 때, GIPR을 **작용(agonism)**시키든 **길항(an
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — ★ **GIPR agonism 쪽 임상 상한선**: 이중작용 tirzepatide가 선택적 GLP-1RA semaglutide보다 −6.5%p 우월(72주, head-to-head). 역설을 해소하지는 않고 한쪽 팔의 수치를 고정 (NEJM 2025, SURMOUNT-5)
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 **오히려 증가**하는 축(식후 60분 이내 분비↑; 10주 P=0.004, 62주 P<0.001). 저자는 GIP를 "에너지 저장 촉진" 쪽으로 해석.
 - [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — 역설에 대한 또 하나의 저자 설명: GIPR 작용제는 GABAergic 뉴런을 통해 섭취를 줄이고, GABAergic GIPR knock-out은 GLP-1RA 감량을 민감화한다. 즉 표적 경로 차이 (Lancet 2026).
+- [[hicks-2026-glp-1-therapies-and-cancer]] — GIP 수용체 발현이 뇌·유방·전립선 암에서 확인돼 직접 종양 효과의 경로가 될 수 있으나, 조직마다 방향이 달라 암종 합산 분석을 피해야 한다고 본다.
+- [[shadlen-2026-expanding-global-access-to]] — tirzepatide(GLP-1/GIP)와 삼중 작용제의 특허·접근성 지형.

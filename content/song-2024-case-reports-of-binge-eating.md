@@ -98,3 +98,4 @@ year: 2024
 - [[stuber-2025-the-neurobiology-of-overeating]] — 음식 중독 개념에 대한 신중론(행동 vs 물질 논쟁의 반대편).
 - [[concept-dopamine-reward-system]] — 서론의 'HP 음식이 도파민 방출을 일으킨다' 서술의 회로 hub.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 갈망 = 작업기억을 점령한 wanting(p.256), 항정신병 약물의 흔한 부작용 = 식욕 증가(p.268; 증례 1은 olanzapine 2.5 mg 유지).
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 섭식장애 위험군에서 '감량 자체가 강화물이 되어 오남용'될 수 있고 식욕 억제가 해로울 수 있다는 경고.

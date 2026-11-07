@@ -49,3 +49,5 @@ year: 2026
 - [[concept-glp1ra-response-variability]] · [[su-2026-genetic-predictors-of-glp1-receptor]] — 본 리뷰의 "정밀의학·유전체 표적발굴" 절이 실제 데이터로 이어지는 곳(비유전 임상 요인 ~21%, `GLP1R` p.Pro7Leu).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 이 지형도의 head-to-head 기준점(SURMOUNT-5) (NEJM 2025)
 - [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — 같은 지형의 Lancet 2026 리뷰. MariTide 16.2%, orforglipron 11.2%, mazdutide 14.0%로 이 페이지와 수치가 다르다.
+- [[shadlen-2026-expanding-global-access-to]] — 같은 약물 지형을 특허·규제·생산·재원 쪽에서 본 정책 글.
+- [[borchers-2026-obesity-pharmacotherapies-and-cognition]] — 특집 리뷰가 차세대 다중작용제의 인지 효과를 열린 질문으로 둔다.

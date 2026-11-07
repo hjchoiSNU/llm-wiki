@@ -32,3 +32,4 @@ year: 2007
 - [[bateson-2023-food-insecurity-as-a-cause]] · [[carvajal-aldaz-2022-food-insecurity-as-a]] — 역설의 후속 기전 종합.
 - [[gundersen-2015-food-insecurity-and-health]] — FI 건강결과 종합.
 - [[concept-need-motivation-pleasure-utility]] — 보상·stress 기반 과식.
+- [[shadlen-2026-expanding-global-access-to]] — 비만 치료 접근성의 국가 간 불균등과 '근본 요인' 축.

@@ -38,3 +38,4 @@ aliases: [food environment, food access, food desert, food swamp, 식품환경, 
 - [[hong-2023-development-and-validation-of]] · [[shim-2018-spatial-disparity-in-food]] · [[shim-2019-objective-and-perceived-food]] · [[kim-2021-effects-of-perceived-food]] · [[lee-2022-regional-difference-in-the]] · [[yang-2020-is-the-perceived-fruit]] · [[kim-2013-the-impact-of-nutritional]] · [[park-2018-food-acquisition-through-private]] — 한국 코호트 연구.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — "환경이 섭취량을 정한다"의 회로 근거: 배측 해마→DLS^Pdyn→LHA를 끊으면 **맥락 조건화 섭식만** 소실되고 총 섭취량은 보존 (Neuron 2026). → [[concept-lateral-septum]]
+- [[shadlen-2026-expanding-global-access-to]] — 결론이 치료와 함께 식단·신체활동·생활환경·사회경제 요인을 다루는 다층적 공중보건 접근을 요구한다.

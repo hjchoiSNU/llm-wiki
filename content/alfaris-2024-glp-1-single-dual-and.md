@@ -37,3 +37,4 @@ year: 2024
 - [[davies-2026-elecoglipron-an-oral-small]] — 경구 소분자 GLP-1RA 후속.
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 landscape의 **첫 칸(exenatide)이 어디서 왔는가**: 1993년 인간 GLP-1R 클로닝 논문이 exendin-4(1-39)를 full agonist로 규정했고 그것이 Byetta가 됐다 (Diabetes 2024 Classics).
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 단일 vs 이중 작용제의 사람 직접비교 자료 (NEJM 2025, SURMOUNT-5)
+- [[hicks-2026-glp-1-therapies-and-cancer]] — 췌장·갑상선 암 위험 평가가 이 페이지와 같은 방향(인과 불충분). 갑상선 수질암은 희귀해 소폭 증가를 배제할 수 없다고 덧붙인다.

@@ -3,7 +3,6 @@ title: "Obesity pharmacotherapies and cognition (Börchers, Mazzini, Zetterberg 
 type: paper
 created: 2026-11-06
 updated: 2026-11-07
-status: in-progress   # 2026-11-07 본문 미완성(문장 중간에서 끊김)
 source: "raw/science.aek9987.pdf"
 source_dup: "raw/2026 Science. Obesity pharmacotherapies and cognition.pdf"   # md5 동일(6ebf205b…)
 source_slides: "raw/2026 Science. Obesity pharmacotherapies and cognition.pptx"   # 사용자 슬라이드 3장(제목 2장 + Fig. 3)
@@ -15,9 +14,6 @@ journal: "Science 394(6824):633–640 (5 November 2026), Review, 특집 'GLP-1 a
 > [!takeaway] 연구 방향 관점의 핵심
 > 비만약(GLP-1·GIP·glucagon·amylin 계열)이 인지에 미치는 효과를 **직접(뇌 수용체·회로) vs 간접(체중·혈당·혈관·수면·염증 개선) vs 상호작용**으로 나눠 읽는 틀을 준 리뷰다. 결론은 냉정하다. 심혈관대사 질환자에서 치매·인지저하 위험이 낮다는 신호는 대부분 **관찰 자료**이고, 증상성 AD RCT([[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]·[[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]])는 임상 이득을 보이지 못했으며, 건강인의 **인지 향상은 추측 단계**다. 가까운 목표는 향상이 아니라 **대사·혈관 취약군의 인지 보존**이라고 본다.
 > 사용자 lab에 닿는 지점: (1) "수용체가 있다 ≠ 약이 닿는다 ≠ 수용체 결합이 효과를 낸다"라는 세 단계 구분은 [[concept-glp1ra-cns-access]]의 증거 사다리와 같은 논리이고, 저자들은 **뇌가 대사 효능에 필요하다는 가장 강한 인과 근거는 섭식·체중 쪽**(neuronal GLP-1R deletion)이며 인지 효과가 같은 회로를 쓰는지는 모른다고 못박는다. (2) 판별 설계 제안 — **CNS 노출만 다르고 전신 효과가 비슷한 약물끼리 비교**, 체중 감소보다 **먼저** 나타나는 효과, 영역별(domain-resolved) 사전 지정 인지 지표. (3) pair-fed·체중 일치 대조가 **불완전한 대조**라는 지적(약물 식욕 억제 ≠ 칼로리 제한: 배고픔·신경내분비·기질 전환 반응이 다름)은 lab의 마우스 GLP-1RA 실험 설계에 그대로 적용된다.
-
-> [!warning] 작성 중
-> 이 페이지는 아직 완성되지 않았습니다. 본문이 문장 중간에서 끊겨 있고 "관련 페이지" 절이 없습니다. 원문은 `raw/2026 Science. Obesity pharmacotherapies and cognition.pdf`입니다(`source:`에 적힌 `science.aek9987.pdf`는 raw에 없음). (2026-11-07 표시)
 
 # Obesity pharmacotherapies and cognition (Börchers 2026)
 
@@ -130,6 +126,23 @@ GLP-1 기반 비만약과 GIP·glucagon·amylin 병용 약리가 인지에 미�
 - **GIPR 비뉴런 발현**: [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor|Hansford 2025]](희소돌기아교세포 GIPR → VEGF-A → 정중융기 혈관 투과성)와 같은 세포 축을 가리킨다.
 - **신경 GLP-1R–말초 염증 축**: ref 53(Wong 2024 *Cell Metab*)은 [[gonzalez-rellan-2026-weight-loss-independent-actions-of|Gonzalez-Rellan 2026]]이 정리한 "뉴런 GLP-1R 결손만으로 말초 GLP-1RA의 TLR 매개 염증 억제가 소실"과 같은 계열 근거다.
 - **OxSENSE**: [[fang-2025-glucagon-like-peptide-1-medicines]]도 진행 중 시험으로 언급한다. 이 리뷰가 평가 영역(보상 민감도·기억·정서 처리·충동성)과 NCT 번호를 준다.
-- **같은 특집의 다른 글과**: [[hicks-2026-glp-1-therapies-and-cancer|Hicks & Pottegård]](암)도 같은 두 함정 — **비교약 선택(insulin vs metformin)**과 **당뇨 집단 근거를 비만 사용으로 옮기는 문제** — 을 지적한다. Hicks의 "체중 감소를 거친 효과는 교란이 아니라 약의 인과 효과"라는 논점은 이 리뷰의 간접 경
+- **같은 특집의 다른 글과**: [[hicks-2026-glp-1-therapies-and-cancer|Hicks & Pottegård]](암)도 같은 두 함정 — **비교약 선택(insulin vs metformin)**과 **당뇨 집단 근거를 비만 사용으로 옮기는 문제** — 을 지적한다. Hicks의 "체중 감소를 거친 효과는 교란이 아니라 약의 인과 효과"라는 논점은 이 리뷰의 간접 경로를 **교란으로 깎아내리지 말라**는 요구로 읽힌다. 두 글의 강조점이 다르다: 이 리뷰는 직접·간접을 **가르는** 설계(짝지은 비교약, 비슷한 전신 효능·다른 CNS 노출)를 요구하고, Hicks는 대부분의 관찰연구가 재는 **총효과도 임상적으로 유의미한 인과 효과**라고 본다. 어긋남이 아니라 질문이 다르다 — "기전이 무엇인가" vs "치료를 시작하면 무엇이 달라지는가".
+- **[[volkow-2026-glp-1-receptor-agonists-in|Volkow & Wargo]](중독)와**: 같은 특집에서 **중추 작용의 선택성**을 정반대 방향으로 쓴다. Volkow는 "보상 spike↓·tonic 도파민 유지"라는 **직접 중추 기전**을 치료 기회로 제시하고, 이 리뷰는 수용체 발현만으로 직접 작용을 주장할 수 없다고 **제동을 건다**. 두 글을 함께 읽으면 이 특집 안에서도 중추 직접 작용의 증거 기준이 통일돼 있지 않다는 것이 드러난다.
 
-*(작성 중 — 본문이 여기서 끊겼습니다.)*
+## 관련 페이지
+- [[nusinovich-2026-going-beyond-glp-1]] — 같은 특집 서문. "신경·정신 질환에 대한 예상 밖 효과"가 이 리뷰의 주제.
+- [[bluher-2026-obesity-management-medications-the]] — 같은 특집의 다른 리뷰(임상). 중추 표적 약의 정신과적 안전성 우려와 짝을 이룬다.
+- [[hicks-2026-glp-1-therapies-and-cancer]] · [[volkow-2026-glp-1-receptor-agonists-in]] · [[shadlen-2026-expanding-global-access-to]] — 같은 특집의 암·중독·접근성 글.
+- [[concept-glp1-neuroprotection]] — 이 위키의 신경보호 논쟁 hub. REWIND 인지 결과 서술 차이(위 ⚠️)를 여기에 반영해야 한다.
+- [[concept-glp1ra-cns-access]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-tanycytes]] — 뇌 노출 경로. 이 리뷰의 "노출·결합 근거가 드물다"는 평가의 배경.
+- [[cummings-2026-efficacy-and-safety-of-oral]] — EVOKE/EVOKE+ 1차 보고(oral semaglutide, 확립 AD에서 임상 효능 없음).
+- [[edison-2026-liraglutide-in-mild-to-moderate]] — ELAD 시험.
+- [[fang-2025-glucagon-like-peptide-1-medicines]] — 진행 중 인간 연구(OxSENSE 포함) 종합.
+- [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 체중 독립 효과. 뉴런 GLP-1R–말초 염증 축(ref 53)과 같은 계열.
+- [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] — GIPR의 비뉴런(희소돌기아교세포) 발현.
+- [[concept-gip]] · [[concept-glucagon-receptor-agonism]] · [[concept-amylin-receptor-agonists]] · [[concept-glp-1]] — 다중작용제 수용체 hub. "GLP-1R 단독을 넘어서면 인지가 달라지나"가 열린 질문.
+- [[lin-2025-neurodegeneration-and-stroke-after-semaglutide]] · [[zhang-2025-real-world-observations-of-glp1]] — 관찰 근거의 상반된 신호.
+- [[concept-npy-agrp-neurons]] · [[concept-ghrelin]] — 칼로리 제한·금식이 일으키는 반응을 약물이 재현하지 않을 수 있다는 논점.
+- [[petersen-2026-the-evolving-landscape-of]] · [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 약물 지형.
+- [[concept-hypomap]] — 수용체 발현 지도의 세포 수준 근거.
+- [[bae-2019-glucagon-like-peptide-1-receptor]] — 전임상 GLP-1R과 해마 가소성.

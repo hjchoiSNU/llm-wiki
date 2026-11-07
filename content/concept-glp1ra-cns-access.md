@@ -323,3 +323,5 @@ Glp1r⁺ [[concept-vagal-afferent-neurons|미주 구심성 뉴런]]이 말초에
 - [[overview-next-gen-incretin-obesity-drugs-2026]] · [[petersen-2026-the-evolving-landscape-of]] · [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-oral-small-molecule-glp]] — 경구 소분자 시대의 접근 경로 재설정.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-choi-hyung-jin]] — 본 주제가 직접 겨누는 연구 라인(중추 GLP-1 기전).
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 중추–말초 GLP-1 소통 경로(vagal afferent·내분비·염증 매개체·circumventricular organs·BBB 직접 투과)를 이 페이지의 4층 모델과 같은 목록으로 제시.
+- [[borchers-2026-obesity-pharmacotherapies-and-cognition]] — 같은 방향이되, 약리적으로 의미 있는 뇌 노출·표적 결합의 근거가 아직 드물다고 평가.

@@ -77,3 +77,5 @@ GLP-1 약물의 광범위한 효능은 체중 감소만으로 설명되지 않�
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 다중작용제 hub; 본 글의 미해결 질문(GLP-1R 생략 시 조직 보호는?)이 직접 연결.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — ⚠️ 방향 차이: 본 시험은 심대사 개선이 **감량 구간에 비례**해 커진다고 강조(≥20% 감량군 수축기혈압 −9.1~−17.5 mmHg vs <10%군 −3.4~−6.7). 체중 의존·독립 성분의 공존 가능성으로 병기 (NEJM 2025, SURMOUNT-5)
 - [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — 신장 이득 중 혈당·혈압 매개는 10–25%뿐이고, 체중–eGFR 관계도 없다. SELECT의 2차 종료점(22% = 신장 복합)은 위계적 검정상 비유의라고 명시.
+- [[hicks-2026-glp-1-therapies-and-cancer]] — '체중 감소를 거친 효과는 교란이 아니라 약의 인과 효과'라는 역학 쪽 논점. 체중 보정이 무엇을 지우는지에 대한 짝.
+- [[borchers-2026-obesity-pharmacotherapies-and-cognition]] — 뉴런 GLP-1R–말초 염증 축(ref 53)을 같은 계열 근거로 인용.

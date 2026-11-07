@@ -270,3 +270,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — NAc ACh = **노력만**, 도파민 = 크기 + 노력 → Motivation(비용·지속)과 Pleasure/Utility(크기)를 세포 수준에서 가를 후보(연결 해석).
 - [[burke-2026-duration-between-rewards-controls-the]] — Pleasure의 회고적 교사 신호 강도가 같은 결과의 드묾(보상 간격)에 비례한다는 정량 규칙(연결 해석).
 - [[concept-will-volition-motivation]] — '의지'의 두 뜻을 NMPU에 배치: 기본 준비성(일할 의지) = Motivation, 충동을 참는 자기통제 = Utility(연결 해석).
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 내수용 신호(배고픔·스트레스·불편·각성)가 중변연계 도파민 학습을 거쳐 물질 추구와 묶인다는 서술. NMPU의 약리 검증 축.

@@ -138,3 +138,4 @@ GLP-1RA와 tirzepatide를 다룬 서술형 리뷰다. 효능은 T2D 혈당 조�
 - [[fang-2025-glucagon-like-peptide-1-medicines]] · [[concept-food-addiction]] — SUD 근거(semaglutide와 알코올 갈망 서술이 다름).
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — cAMP 편향·AP 혐오 축. 차세대 GI 부담 해석과 연결.
 - [[concept-need-motivation-pleasure-utility]] — 소비와 갈망 해리의 해석 틀(연결 가설).
+- [[shadlen-2026-expanding-global-access-to]] — 같은 약물군의 세계 접근성·특허 지형.

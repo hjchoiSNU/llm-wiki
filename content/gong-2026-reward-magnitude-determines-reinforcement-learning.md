@@ -5,6 +5,7 @@ created: 2026-11-01
 updated: 2026-11-01
 source: "raw/science.aeb0813.pdf"
 source_suppl: "raw/science.aeb0813_sm.pdf"
+source_alt: "raw/2026 Science. Reward magnitude determines reinforcement learning efficiency (4).pdf"   # 같은 논문 Research Article Summary 포함본(Xodo로 재저장, md5 다름)
 authors: [Sheng Gong, Alyssa Martell, Joshua T. Dudman, Luke T. Coddington]
 year: 2026
 journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 2026-02-17); doi:10.1126/science.aeb0813"
