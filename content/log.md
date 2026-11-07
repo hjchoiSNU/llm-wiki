@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — query (Obesity perspective: 조건화 현상 표를 Table 1로 분리)
+초안 문서에서 Box 1 안의 8행 조건화 현상 표를 독립 섹션 **Table 1**("Conditioning phenomena that constrain how credit reaches a food cue")로 옮겼다(웹 미사용). Box 1은 네 질문 + 수렴 후보 부위 + 공백 문단만 남겨 약 670단어, 본문은 약 1,400단어로 1,500 목표 안에 들어옴(저널이 box·display item을 단어 수에서 제외한다는 가정 — 작성자 메모에 확인 항목으로 기재). Box 1 heading을 "Four open questions and where they could converge"로 바꾸고 도입부에 Table 1 교차참조 추가. 참고문헌·그림은 변경 없음. 위키 페이지 변경 없음.
+
 ## 2026-11-07 — query (Obesity perspective Box 1 확장 — 조건화 현상 표·수렴 후보 부위)
 직전 query 결과를 초안 문서(https://claude.ai/artifact/22dBoZkoK9XU9LUnhYGHrC)의 Box 1에 반영했다(웹 미사용). 기존 4개 질문은 두고, ① 조건화 현상 8행 표(latent inhibition·blocking/unblocking·identity unblocking·SPC/SOC·contingency degradation·extinction·partial reinforcement/IRI·associability: 각 현상이 credit assignment에 거는 제약과 검증된 회로), ② 수렴 후보 부위 6항목([[concept-lateral-hypothalamus]]·[[concept-basolateral-amygdala]]·[[concept-nucleus-accumbens]]·[[concept-orbitofrontal-cortex]]/mPFC→VTA·[[concept-lateral-septum]]·[[concept-insula]]; 뼈대는 [[concept-anccr]]의 미검증 회로 가설), ③ 공백 문단(overshadowing·conditioned inhibition·overexpectation은 시뮬레이션만, 근거 대부분이 초 단위 지연)을 추가. 참고문헌 39개로 확장(신규 33–39: [[sharpe-2021-past-experience-shapes-the]]·[[mingote-2019-dopamine-glutamate-neuron-projections-to]]·[[gershman-2024-explaining-dopamine-prediction-errors-beyond]]·[[hoang-2021-the-basolateral-amygdala-and]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area]]·[[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]]·[[livneh-2020-estimation-of-current-and-future]]). 본문+Box 약 2,400단어로 1,500 목표 초과 — 작성자 메모에 분리안(Box 1=질문, Table 1=현상 표) 기재. 위키 페이지 변경 없음.
 
