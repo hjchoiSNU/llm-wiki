@@ -44,3 +44,4 @@ year: 2021
 - [[woods-1991-the-eating-paradox-how]] — 접근-회피 ambivalence·독성 방어; "입안 즉시 거부(쓴맛)" 축의 신경회로.
 - [[concept-liking-wanting]] — 미각 보상가 조절(단맛 억제) 접점.
 - [[concept-interoception]] — 미각피질·CeA가 내부 상태로 미각 지각 조절(전망).
+- [[concept-parabrachial-cgrp-alarm]] — 본문 미각 경로의 **PBN** 중계점. 그 hub 쪽에서 "당 정보가 PBN을 지난다"는 근거로 이 논문을 인용한다.

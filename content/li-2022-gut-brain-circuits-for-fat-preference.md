@@ -64,3 +64,4 @@ year: 2022
 - [[concept-endocannabinoid-system]] — CB1 축 hub.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 상보: 장→뇌 선호/혐오를 EEC 아형으로 해부.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 당 vs 지방의 gut-brain 후-섭취 보상(동일 계열).
+- [[concept-parabrachial-cgrp-alarm]] — **대조**: 지방 선호의 영양소 identity 분해는 vagal afferent 수준(VIP generalist vs TRPA1 fat-only)에서 일어나고 PBN은 이 경로에 등장하지 않는다.

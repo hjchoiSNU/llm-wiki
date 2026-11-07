@@ -56,3 +56,4 @@ year: 2026
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — 같은 시기 gut-brain×시상하부 짝(POMC 원심성 vagal-gut, 본 논문은 AgRP 구심성).
 - [[proposal-hunger-need-encoding-human-translation]] — 본 논문의 '영양소 정체' 발견을 Need(배고픔) 정의에 통합해 인간으로 번역하는 연구계획서(Aim 1 핵심 근거).
 - [[walker-2026-a-hypothalamic-circuit-for]] — "AgRP=feedforward 예측기"의 다른 축: 본 논문(영양소 정체) + Walker(외부 맥락·미래 부재 예측 cue→PVH^Sim2→AgRP) (Neuron 2026, Lowell lab).
+- [[concept-parabrachial-cgrp-alarm]] — **대조**: fructose·glucose를 가르는 VAN 분해에 PBN은 등장하지 않는다. PBN은 identity 층이 아니라 결정 층이라는 경계의 사례.

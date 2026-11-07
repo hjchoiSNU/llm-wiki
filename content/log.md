@@ -8,12 +8,18 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — other (PBN 영양소 입력 절 추가)
+위 query의 후속으로 사용자 승인을 받아 [[concept-parabrachial-cgrp-alarm]]에 **`## 영양소 정보 입력 — 받는 것과 받지 않는 것`** 절을 추가했다(5개 소절, 웹 미사용, 새 페이지 없음).
+- 소절: ① 미각 = 당 정보의 필수 중계점(rNST→PBN→thalamus→gustatory cortex, [[jin-2021-top-down-control-of-sweet]]) ② 장 영양소 = cNTS^GCG(nutrient)·TH(mechano)·PRLH(taste) 분업의 하류 satiation hub([[liu-2026-granular-motivational-interaction-and]]·[[johansen-2025-brain-control-of-energy]]·[[campos-2016-parabrachial-cgrp-neurons-control-meal]]) ③ 지질 = GDF15→GFRAL→lPBN-CGRP 내분비 우회로([[concept-gdf15-gfral-axis]]·[[garrido-2026-lipid-sensing-and-brain-hormone]]) ④ **PBN을 요구하지 않는 축**(PBN 병변이 CTA는 막고 conditioned flavor preference는 보존 — Reilly 1993, [[rossi-2018-overlapping-brain-circuits-for]]; [[concept-flavor-nutrient-conditioning]] 회로에 PBN 미명시) ⑤ 자료 없음(직접 glucose 감지·glucoprivic 반응, 지방산·아미노산 직접 감지, 단백질 식욕에서의 PBN 역할).
+- 역링크 8곳 추가: [[jin-2021-top-down-control-of-sweet]] · [[liu-2026-granular-motivational-interaction-and]] · [[johansen-2025-brain-control-of-energy]] · [[concept-flavor-nutrient-conditioning]] · [[garrido-2026-lipid-sensing-and-brain-hormone]] · [[li-2022-gut-brain-circuits-for-fat-preference]] · [[mcknight-2026-attenuated-hypothalamic-response-to]] · [[grove-2025-lateralized-pathway-associating-nutrients]]. 뒤 네 곳은 "**영양소 identity 분해에 PBN이 등장하지 않는다**"는 대조 관계로 적었다.
+- `index.md` 변경 없음(새 페이지가 아니고, 이 hub는 이미 💡 회로/세포 묶음 줄에 등재돼 있다). 총 557페이지 유지. 검증: hub 링크 43개·깨진 링크 0, 수정한 9개 페이지 모두 callout·관련 페이지 정상, hub 인바운드 31페이지.
+
 ## 2026-11-07 — query (PBN이 영양소 정보를 받는가)
 질문: parabrachial nucleus가 lipid·carbohydrate·glucose 같은 영양 정보를 받는가. 웹 미사용, 위키 내부에서만 답했다. 새 페이지·수정 없음.
 - **답의 뼈대**: PBN은 영양 정보를 **받지만**, 위키 자료 범위에서는 **영양소 종류를 식별하는 1차 감지소가 아니라 이미 호르몬·기계·미각 신호로 변환된 것의 중계·통합소**로만 확인된다. 세 경로 — ① 미각: TRC→rNST→**PBN**→시상→미각피질([[jin-2021-top-down-control-of-sweet]]) ② 장 영양소: cNTS^GCG(nutrient)·cNTS^TH(mechano)·cNTS^PRLH(taste)→PBN이 하류 satiation hub([[liu-2026-granular-motivational-interaction-and]]), CCK·amylin·Ex-4·leptin이 CGRP^PBel Fos↑·침묵 시 그 식욕억제에 무감각([[campos-2016-parabrachial-cgrp-neurons-control-meal]]·[[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]]) ③ 지질→GDF15: 지질 섭취→신장/간 GDF15→GFRAL(AP/NTS)→**lPBN-CGRP**([[concept-gdf15-gfral-axis]]·[[johansen-2025-brain-control-of-energy]]).
 - **PBN을 요구하지 않는 축**: PBN 병변은 CTA 획득을 막지만 **conditioned flavor preference는 보존**(Reilly 1993, [[rossi-2018-overlapping-brain-circuits-for]]:63). [[concept-flavor-nutrient-conditioning]]의 회로(VAN→hindbrain→VTA-DA-CCK→left aBLA D1R)에 PBN은 명시되지 않는다.
 - **자료 없음**으로 명시한 것: PBN 뉴런 자체의 직접 glucose 감지·glucoprivic(2-DG) 반응, 지방산·아미노산 직접 감지, 단백질 식욕에서의 PBN 역할. 영양소 **종류** 분해는 위키 안에서 vagal afferent·NTS 수준까지만 있다([[li-2022-gut-brain-circuits-for-fat-preference]]·[[mcknight-2026-attenuated-hypothalamic-response-to]]·[[garrido-2026-lipid-sensing-and-brain-hormone]]는 모두 PBN을 언급하지 않는다).
-- 후속 제안(미실행): [[concept-parabrachial-cgrp-alarm]]에 "영양소 정보 입력" 절을 추가해 위 세 경로와 PBN 우회 축을 고정하기.
+- 후속 제안 → **같은 날 사용자 승인으로 실행**(아래 other 항목): [[concept-parabrachial-cgrp-alarm]]에 "영양소 정보 입력" 절 추가.
 
 ## 2026-11-07 — other (person-cota-daniela 생성 — 보류 해제)
 사용자 요청으로 [[person-cota-daniela]]를 만들었다(웹 미사용). **2026-05-31 lint에서 "1차 원전이 이 논문뿐"이라며 생성을 보류하고 [[jouque-2025-beyond-satiety-unraveling-the]]:120의 링크를 평문 `Daniela Cota`로 바꿨던 건의 해제**다. 그 뒤 출처가 셋으로 늘었다: [[jouque-2025-beyond-satiety-unraveling-the]](책임저자) · [[miralpeix-2026-hypothalamic-pomc-neurons-gate]](2026-10-28 ingest, 공동 책임저자·교신) · [[horvath-2026-hypothalamus-driven-brain-health-through]](2026-11-07 ingest, 공동 책임저자).

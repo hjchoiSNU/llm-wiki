@@ -45,3 +45,4 @@ year: 2026
 - [[concept-cck]] · [[concept-pyy-3-36]] — 본 리뷰가 시간 계층의 앞단(CCK ~5–10분)·뒷단(PYY) 주역으로 다루는 장호르몬 hub.
 - [[concept-enteroendocrine-cells]] — 지질 수용체(apical CD36 / basolateral GPR40·GPR120 / GPR119)를 실제로 얹고 있는 세포.
 - [[concept-vagal-afferent-neurons]] — CCK1R·GLP1R·Y2R 구심 전달로(단, **GIPR는 미주구심에 없음**).
+- [[concept-parabrachial-cgrp-alarm]] — 이 리뷰의 지질→GDF15 축이 뇌에서 닿는 출력 노드(GFRAL→lPBN-CGRP). 단 본 리뷰 자체는 PBN을 다루지 않는다.

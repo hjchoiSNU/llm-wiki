@@ -98,3 +98,4 @@ VTA-DA neurons → CCK+ subset → **left anterior BLA D1R 뉴런**으로 가는
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework의 회로 매핑.
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 지연 post-ingestive DA·BLA 소견이 본 설치류 VTA-DA-CCK→aBLA 회로와 호응 (Cell Metab 2019).
 - [[proposal-oral-fat-taste-pleasure-desire]] — 본 fat post-oral 회로(GPR40/120/CD36→aBLA)를 구강(orosensory) 지방 신호와 분리·대조하는 연구계획서.
+- [[concept-parabrachial-cgrp-alarm]] — **대조**: 영양소 강화 학습 회로(VAN→hindbrain→VTA-DA-CCK→left aBLA D1R)에 PBN이 명시되지 않는다. CTA(PBN 필요)와 갈리는 지점.
