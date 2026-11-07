@@ -8,6 +8,13 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — query (PBN이 영양소 정보를 받는가)
+질문: parabrachial nucleus가 lipid·carbohydrate·glucose 같은 영양 정보를 받는가. 웹 미사용, 위키 내부에서만 답했다. 새 페이지·수정 없음.
+- **답의 뼈대**: PBN은 영양 정보를 **받지만**, 위키 자료 범위에서는 **영양소 종류를 식별하는 1차 감지소가 아니라 이미 호르몬·기계·미각 신호로 변환된 것의 중계·통합소**로만 확인된다. 세 경로 — ① 미각: TRC→rNST→**PBN**→시상→미각피질([[jin-2021-top-down-control-of-sweet]]) ② 장 영양소: cNTS^GCG(nutrient)·cNTS^TH(mechano)·cNTS^PRLH(taste)→PBN이 하류 satiation hub([[liu-2026-granular-motivational-interaction-and]]), CCK·amylin·Ex-4·leptin이 CGRP^PBel Fos↑·침묵 시 그 식욕억제에 무감각([[campos-2016-parabrachial-cgrp-neurons-control-meal]]·[[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]]) ③ 지질→GDF15: 지질 섭취→신장/간 GDF15→GFRAL(AP/NTS)→**lPBN-CGRP**([[concept-gdf15-gfral-axis]]·[[johansen-2025-brain-control-of-energy]]).
+- **PBN을 요구하지 않는 축**: PBN 병변은 CTA 획득을 막지만 **conditioned flavor preference는 보존**(Reilly 1993, [[rossi-2018-overlapping-brain-circuits-for]]:63). [[concept-flavor-nutrient-conditioning]]의 회로(VAN→hindbrain→VTA-DA-CCK→left aBLA D1R)에 PBN은 명시되지 않는다.
+- **자료 없음**으로 명시한 것: PBN 뉴런 자체의 직접 glucose 감지·glucoprivic(2-DG) 반응, 지방산·아미노산 직접 감지, 단백질 식욕에서의 PBN 역할. 영양소 **종류** 분해는 위키 안에서 vagal afferent·NTS 수준까지만 있다([[li-2022-gut-brain-circuits-for-fat-preference]]·[[mcknight-2026-attenuated-hypothalamic-response-to]]·[[garrido-2026-lipid-sensing-and-brain-hormone]]는 모두 PBN을 언급하지 않는다).
+- 후속 제안(미실행): [[concept-parabrachial-cgrp-alarm]]에 "영양소 정보 입력" 절을 추가해 위 세 경로와 PBN 우회 축을 고정하기.
+
 ## 2026-11-07 — other (person-cota-daniela 생성 — 보류 해제)
 사용자 요청으로 [[person-cota-daniela]]를 만들었다(웹 미사용). **2026-05-31 lint에서 "1차 원전이 이 논문뿐"이라며 생성을 보류하고 [[jouque-2025-beyond-satiety-unraveling-the]]:120의 링크를 평문 `Daniela Cota`로 바꿨던 건의 해제**다. 그 뒤 출처가 셋으로 늘었다: [[jouque-2025-beyond-satiety-unraveling-the]](책임저자) · [[miralpeix-2026-hypothalamic-pomc-neurons-gate]](2026-10-28 ingest, 공동 책임저자·교신) · [[horvath-2026-hypothalamus-driven-brain-health-through]](2026-11-07 ingest, 공동 책임저자).
 - 내용: 소속(Bordeaux INSERM Neurocentre Magendie U1215), 연구 라인 4개 — ① POMC heterogeneity의 **mTORC1 축**(GABA vs Glut POMC의 반대 반응·GABA POMC가 단식에 활성, Saucisse 2021) ② **POMC는 포만 전용이 아니다** 종합(CB1R·μ-opioid β-endorphin의 섭식 촉진) ③ **ARC POMC의 fear-feeding gate** ④ 몸–뇌 소통·[[concept-metabolic-flexibility|대사 유연성]]. 사용자 lab 관련성은 [[proposal-pomc-endorphin-food-pleasure]]·[[overview-cea-glp1r-food-safety-alarm]]·[[proposal-glp1ra-rebound-microbiota]] 축으로 정리.
