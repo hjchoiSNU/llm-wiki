@@ -8,6 +8,11 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — other (Science 'GLP-1 and beyond' 특집 페이지 미완성 표시)
+오늘 ingest 세션 두 곳에서 응답이 안전 검사로 중단돼 특집 논문 페이지 셋이 문장 중간에서 끊긴 채 남았다. 사용자 요청으로 내용은 손대지 않고 미완성 표시만 넣었다: frontmatter `status: in-progress`, takeaway callout 바로 아래 `[!warning] 작성 중` callout, 끊긴 자리의 끝 표시. 대상: [[borchers-2026-obesity-pharmacotherapies-and-cognition]] · [[volkow-2026-glp-1-receptor-agonists-in]] · [[hicks-2026-glp-1-therapies-and-cancer]]. 완성된 [[bluher-2026-obesity-management-medications-the]]를 포함한 네 페이지 모두 `index.md` 미등재.
+- **남은 일**: `raw/science.aek2174.pdf`(Shadlen & Wouters, Policy Forum)·`raw/science.aen0869.pdf`(Nusinovich 외, 특집 서문) 페이지 미작성 — Blüher 페이지의 `nusinovich-2026-going-beyond-glp-1`·`shadlen-2026-expanding-global-access-to` 링크는 깨진 상태. Gong 2026 페이지에 `source_alt: raw/2026 Science. Reward magnitude determines reinforcement learning efficiency (4).pdf`(같은 논문, Xodo로 다시 저장, md5 다름) 미추가. 역링크·index 등재 미완.
+- **불일치**: Börchers 페이지 `source: raw/science.aek9987.pdf`는 raw에 없다. 실제 파일은 `source_dup`의 `2026 Science. Obesity pharmacotherapies and cognition.pdf`.
+
 ## 2026-11-03 — query (Obesity perspective Figure 1 미해결 문제 ④: 여러 cue 중 credit 선택·novelty·blocking)
 같은 문서의 Figure 1에 ④ 표시와 범례, Box 1에 4번 항목을 추가했다(웹 미사용). 근거: 회고적 contingency(cue의 보상 시점 trace − 무작위 시점 trace → 늘 있던 cue는 credit이 작음, latent inhibition 설명) — [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]]·[[burke-2026-duration-between-rewards-controls-the]]; novelty gating — [[yang-2026-a-sync-state-in-the]](sync state가 친숙해지면 감쇠)·[[chen-2026-striatal-control-of-amygdalar]](BLA ACh = salience, 반복 중립 자극에 습관화, 학습 가속·지연); blocking 해제 — [[hoang-2026-methamphetamine-potentiates-the-use-of]](VTA DA→LH가 unblock). 영양 학습의 분~시간 간격에서 novelty·blocking이 어떻게 작동하는지는 위키에 자료 없음. 참고문헌 32개.
 

@@ -3,6 +3,7 @@ title: "Obesity pharmacotherapies and cognition (Börchers, Mazzini, Zetterberg 
 type: paper
 created: 2026-11-06
 updated: 2026-11-07
+status: in-progress   # 2026-11-07 본문 미완성(문장 중간에서 끊김)
 source: "raw/science.aek9987.pdf"
 source_dup: "raw/2026 Science. Obesity pharmacotherapies and cognition.pdf"   # md5 동일(6ebf205b…)
 source_slides: "raw/2026 Science. Obesity pharmacotherapies and cognition.pptx"   # 사용자 슬라이드 3장(제목 2장 + Fig. 3)
@@ -14,6 +15,9 @@ journal: "Science 394(6824):633–640 (5 November 2026), Review, 특집 'GLP-1 a
 > [!takeaway] 연구 방향 관점의 핵심
 > 비만약(GLP-1·GIP·glucagon·amylin 계열)이 인지에 미치는 효과를 **직접(뇌 수용체·회로) vs 간접(체중·혈당·혈관·수면·염증 개선) vs 상호작용**으로 나눠 읽는 틀을 준 리뷰다. 결론은 냉정하다. 심혈관대사 질환자에서 치매·인지저하 위험이 낮다는 신호는 대부분 **관찰 자료**이고, 증상성 AD RCT([[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]·[[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]])는 임상 이득을 보이지 못했으며, 건강인의 **인지 향상은 추측 단계**다. 가까운 목표는 향상이 아니라 **대사·혈관 취약군의 인지 보존**이라고 본다.
 > 사용자 lab에 닿는 지점: (1) "수용체가 있다 ≠ 약이 닿는다 ≠ 수용체 결합이 효과를 낸다"라는 세 단계 구분은 [[concept-glp1ra-cns-access]]의 증거 사다리와 같은 논리이고, 저자들은 **뇌가 대사 효능에 필요하다는 가장 강한 인과 근거는 섭식·체중 쪽**(neuronal GLP-1R deletion)이며 인지 효과가 같은 회로를 쓰는지는 모른다고 못박는다. (2) 판별 설계 제안 — **CNS 노출만 다르고 전신 효과가 비슷한 약물끼리 비교**, 체중 감소보다 **먼저** 나타나는 효과, 영역별(domain-resolved) 사전 지정 인지 지표. (3) pair-fed·체중 일치 대조가 **불완전한 대조**라는 지적(약물 식욕 억제 ≠ 칼로리 제한: 배고픔·신경내분비·기질 전환 반응이 다름)은 lab의 마우스 GLP-1RA 실험 설계에 그대로 적용된다.
+
+> [!warning] 작성 중
+> 이 페이지는 아직 완성되지 않았습니다. 본문이 문장 중간에서 끊겨 있고 "관련 페이지" 절이 없습니다. 원문은 `raw/2026 Science. Obesity pharmacotherapies and cognition.pdf`입니다(`source:`에 적힌 `science.aek9987.pdf`는 raw에 없음). (2026-11-07 표시)
 
 # Obesity pharmacotherapies and cognition (Börchers 2026)
 
@@ -127,3 +131,5 @@ GLP-1 기반 비만약과 GIP·glucagon·amylin 병용 약리가 인지에 미�
 - **신경 GLP-1R–말초 염증 축**: ref 53(Wong 2024 *Cell Metab*)은 [[gonzalez-rellan-2026-weight-loss-independent-actions-of|Gonzalez-Rellan 2026]]이 정리한 "뉴런 GLP-1R 결손만으로 말초 GLP-1RA의 TLR 매개 염증 억제가 소실"과 같은 계열 근거다.
 - **OxSENSE**: [[fang-2025-glucagon-like-peptide-1-medicines]]도 진행 중 시험으로 언급한다. 이 리뷰가 평가 영역(보상 민감도·기억·정서 처리·충동성)과 NCT 번호를 준다.
 - **같은 특집의 다른 글과**: [[hicks-2026-glp-1-therapies-and-cancer|Hicks & Pottegård]](암)도 같은 두 함정 — **비교약 선택(insulin vs metformin)**과 **당뇨 집단 근거를 비만 사용으로 옮기는 문제** — 을 지적한다. Hicks의 "체중 감소를 거친 효과는 교란이 아니라 약의 인과 효과"라는 논점은 이 리뷰의 간접 경
+
+*(작성 중 — 본문이 여기서 끊겼습니다.)*

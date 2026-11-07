@@ -3,6 +3,7 @@ title: "GLP-1 receptor agonists in addiction therapy (Volkow & Wargo 2026, Scien
 type: paper
 created: 2026-11-07
 updated: 2026-11-07
+status: in-progress   # 2026-11-07 본문 미완성(문장 중간에서 끊김)
 source: "raw/science.aej9836.pdf"
 authors: [Nora D. Volkow, Eric M. Wargo]
 year: 2026
@@ -12,6 +13,9 @@ journal: "Science 394(6824):610–611 (5 November 2026), Perspective, 특집 'GL
 > [!takeaway] 연구 방향 관점의 핵심
 > NIDA 소장 Volkow가 GLP-1RA를 중독 치료제로 보는 틀을 **뇌 보상회로 중심에서 "전신(whole-person) 건강" 중심으로 넓히자**고 제안한 짧은 관점 글이다. 근거 수준에 대해서는 스스로 "인간 근거는 아직 예비적이나 점점 설득력이 커진다"고 쓴다.
 > 사용자 lab에 닿는 지점: (1) 제안된 도파민 기전은 **보상 관련 도파민 spike는 줄이고 운동·동기·실행기능에 필요한 tonic 도파민은 유지**한다는 것이다. 음식과 약물에 같은 기전을 적용한다 — [[concept-food-addiction]]·[[concept-need-motivation-pleasure-utility|NMPU]]의 약리 검증 축이다. 다만 위키의 [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]는 세마글루타이드가 누른 VTA 도파민 소비 반응이 며칠 안에 **회복**된다고 보고해, 이 기전의 **장기 지속성**이 핵심 미해결 질문으로 남는다. (2) 배고픔·스트레스·불편·각성 같은 **내수용 신호가 중변연계 도파민 학습을 통해 물질 추구와 묶인다**는 서술은 [[concept-primary-reward-signals]]·[[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]]의 내수용 강화학습 틀과 같은 방향이다. (3) 섭식장애 위험군에서는 **감량 자체가 강화물이 되어 오남용**될 수 있다는 경고는 lab의 섭식장애 임상 라인([[song-2024-case-reports-of-binge-eating]])과 DTx 병용 설계에 직접 걸린다.
+
+> [!warning] 작성 중
+> 이 페이지는 아직 완성되지 않았습니다. 본문이 문장 중간에서 끊겨 있고 "관련 페이지" 절이 없습니다. 원문은 `raw/science.aej9836.pdf`입니다. (2026-11-07 표시)
 
 # GLP-1 receptor agonists in addiction therapy (Volkow & Wargo 2026)
 
@@ -32,3 +36,5 @@ GLP-1RA가 알코올·니코틴·오피오이드·자극제 갈망을 줄일 수
 - 음식: GLP-1RA는 강한 보상 반응을 일으키는 **고기호성·고열량 음식의 섭취를 우선적으로 줄인다**(ref 3 = [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025 Science]]). 이 효과는 보상 관련 **도파민 spike의 감쇠**에서 오고, 정상 운동·동기·실행기능에 필요한 **tonic 도파민은 안정**하게 남는 것으로 보인다(Fortin & Roitman 2017, ref 4 — 위키 미보유).
 - 약물에도 같은 기전을 가정: 약물과 약물 cue가 만드는 강한 도파민 spike는 강박 사용을 촉진하고, 만성 사용에 따른 tonic 도파민 감소는 동기를 떨어뜨리고 자기통제를 손상시킨다.
 - 설치류: GLP-1RA가 약물 유발 도파민 증가·자가투여·**cue 유발
+
+*(작성 중 — 본문이 여기서 끊겼습니다.)*

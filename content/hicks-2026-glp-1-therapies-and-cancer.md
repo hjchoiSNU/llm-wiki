@@ -3,6 +3,7 @@ title: "GLP-1 therapies and cancer risk (Hicks & Pottegård 2026, Science Perspe
 type: paper
 created: 2026-11-07
 updated: 2026-11-07
+status: in-progress   # 2026-11-07 본문 미완성(문장 중간에서 끊김)
 source: "raw/science.aei1490.pdf"
 authors: [Blánaid Hicks, Anton Pottegård]
 year: 2026
@@ -12,6 +13,9 @@ journal: "Science 394(6824):612–613 (5 November 2026), Perspective, 특집 'GL
 > [!takeaway] 연구 방향 관점의 핵심
 > GLP-1 약이 암 위험을 낮추는지는 **아직 결론을 낼 수 없다**는 약물역학자들의 관점 글이다. 핵심 개념은 **"치료를 시작한 효과" ≠ "분자 자체의 효과"**다. 관찰연구가 재는 것은 감량·금연·절주·생활습관 변화·상담까지 묶인 **치료 개시의 총효과**이고, 체중 감소를 거친 효과는 교란이 아니라 약의 **인과 효과**라고 본다.
 > 사용자 lab에 닿는 지점: 이 구분은 같은 특집의 [[borchers-2026-obesity-pharmacotherapies-and-cognition|Börchers 2026]]이 인지에서 던진 "직접 CNS 작용 vs 간접 대사 개선" 질문과 짝을 이룬다. 둘 다 약의 효과이지만 **경로가 다르고**, 경로를 가르려면 다른 설계가 필요하다. 섭식 회로 연구에서 "체중을 보정했더니 효과가 남았다/사라졌다"를 해석할 때 그대로 쓸 수 있는 틀이다. 또 비교약 선택(insulin vs metformin)과 당뇨 집단 근거의 일반화 문제는 [[concept-glp1-neuroprotection]]의 관찰–RCT 충돌과 같은 구조다.
+
+> [!warning] 작성 중
+> 이 페이지는 아직 완성되지 않았습니다. 본문이 문장 중간에서 끊겨 있고 "관련 페이지" 절이 없습니다. 원문은 `raw/science.aei1490.pdf`입니다. (2026-11-07 표시)
 
 # GLP-1 therapies and cancer risk (Hicks & Pottegård 2026)
 
@@ -42,3 +46,5 @@ GLP-1 수용체 작용제와 암 위험에 대한 관찰 근거를 어떻게 읽
 
 ### 4. 직접 효과의 복잡성
 - tirzepatide 같은 2세대 이중 작용제는 GLP-1R
+
+*(작성 중 — 본문이 여기서 끊겼습니다.)*
