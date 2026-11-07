@@ -21,7 +21,7 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 - 핵심은 **두 단계(two-hit) 구조**: ① 발달기 경험이 크로마틴 상태를 바꿔 놓는다(priming) → ② 기저 상태에서는 아무 표현형이 없다 → ③ 두 번째 자극(스트레스·고지방식 등)이 왔을 때 **반응의 크기·방향이 달라진다**.
 - 따라서 **"잠재적 gene expression 변화"**(baseline 차이 없음, 2차 자극 후에만 드러남)라는 관찰과 직접 맞물린다.
 
-> ⚠️ '기저 차이 없음'의 근거 범위: [[kim-2026-early-life-stress-alters-h3k4me1]]에서 기저 정상이 직접 확인된 것은 **비스트레스 상태의 도파민 뉴런 흥분성**(input-output·AP threshold·입력저항 불변)이며, RNA-seq 설계에 Setd7-OE+Ctrl·Gfp+Ctrl 군이 있었음에도 기저 전사체의 OE vs Gfp 비교는 본문에 보고되지 않았다. 같은 논문에서 ELS 자체는 성체 VTA 기저에서 Setd7↑·Kmt2a↓를 남기고, 저자들도 서론에서 ELS 후 **'outright' 기저 유전자 발현 차이와 2차 스트레스로 드러나는 잠재적 변화가 병존**한다고 쓴다. [[cunningham-2026-early-life-experiences-the-neural]]는 LBN+MS 단독의 광범위한 중변연계 전사 교란(수컷 VTA·암컷 NAc에서 최대)을 정리한다. 'priming'은 **하류 반응성의 잠재화**를 뜻하지 '기저 전사 무변화'를 뜻하지 않는다.
+> ⚠️ '기저 차이 없음'의 근거 범위: [[kim-2026-early-life-stress-alters-h3k4me1]]에서 기저 정상이 직접 확인된 것은 **비스트레스 상태의 도파민 뉴런 흥분성**(input-output·AP threshold·입력저항 불변)이며, RNA-seq 설계에 Setd7-OE+Ctrl·Gfp+Ctrl 군이 있었음에도 기저 전사체의 OE vs Gfp 비교는 본문에 보고되지 않았다. 같은 논문에서 ELS 자체는 성체 VTA 기저에서 Setd7↑·Kmt2a↓를 남기고, 저자들도 서론에서 ELS 후 **'outright' 기저 유전자 발현 차이와 2차 스트레스로 드러나는 잠재적 변화가 병존**한다고 쓴다. [[cunningham-2026-early-life-experiences-the-neural]]는 LBN+MS 단독의 광범위한 중limbic system 전사 교란(수컷 VTA·암컷 NAc에서 최대)을 정리한다. 'priming'은 **하류 반응성의 잠재화**를 뜻하지 '기저 전사 무변화'를 뜻하지 않는다.
 
 ### 표지 — 무엇이 "허용적"인가
 - **H3K4me1**: 열린 크로마틴과 **primed/active enhancer**의 표지. Di/tri 메틸화(H3K4me2/me3, 주로 프로모터)와 구별.
@@ -31,7 +31,7 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 
 ### 효소 — SETD7 (SET7/9, KMT7)
 - **H3K4를 단일메틸화만** 촉매하는 특이 효소(MLL1-4·SET1A/B가 연속적 di/tri를 하는 것과 대비).
-- [[kim-2026-early-life-stress-alters-h3k4me1]]: ELS가 성체 VTA에서 **Setd7 ↑**·**Kmt2a(Mll1) ↓**; **성체 만성 스트레스로는 안 바뀜**(발달기 특이). Setd7은 VTA·흑질에 고발현이며 주로 도파민 뉴런.
+- [[kim-2026-early-life-stress-alters-h3k4me1]]: ELS가 성체 VTA에서 **Setd7 ↑**·**Kmt2a(Mll1) ↓**; **성체 만성 스트레스로는 안 바뀜**(발달기 특이). Setd7은 VTA·substantia nigra에 고발현이며 주로 도파민 뉴런.
 - 바이러스 조작으로 **양방향 인과** 성립:
   - **Setd7-OE**(P14) → H3K4me1 34%↑(H3K4me3·H3K27Ac 불변) → 성체 스트레스에 대한 **전사 반응 방향 반전**(대조 Gfp에서 성체 스트레스 DEG의 72%가 하향[99 down / 39 up] vs 스트레스 후 Setd7-OE를 Gfp와 비교하면 DEG의 94%가 상향[48 up / 3 down]; RRHO로 Gfp에서 스트레스에 하향되던 유전자가 Setd7-OE에서는 우세 상향임을 확인 — [[kim-2026-early-life-stress-alters-h3k4me1]]), **도파민 뉴런 흥분성·I_h ↑**(비스트레스 상태에서는 무효), **사회회피·불안 취약성 ↑** — ELS 없이도 ELS 유사 표현형(**충분**).
   - **Setd7-KD**(ELS 후 P14) → H3K4me1 37%↓ → ELS의 도파민 흥분성 증가·행동 취약성 **차단**, resilient 비율 0%→33%(**필요**).
@@ -46,7 +46,7 @@ aliases: [epigenetic priming, chromatin priming, H3K4me1, SETD7, primed enhancer
 
 ### 인접 개념 — 대사가 히스톤을 바꾸는 축
 - 스트레스만이 히스톤 코드를 쓰는 게 아니다. 이 위키에는 **성상교세포→뉴런 젖산이 H3K9 젖산화를 유도**하는 대사–후성유전 축([[concept-astrocyte-neuron-lactate-shuttle]], [[du-2026-oral-glp1-receptor-agonist-promotes]])이 이미 있다.
-- 모체 대사 상태가 자손 시상하부를 프로그램하는 축([[concept-maternal-programming-hypothalamus]])도 같은 문법의 산전 버전.
+- 모체 대사 상태가 자손 hypothalamus를 프로그램하는 축([[concept-maternal-programming-hypothalamus]])도 같은 문법의 산전 버전.
 
 ## 열린 질문 (연구 시사)
 - **양의 방향으로도 priming이 되는가**: VTA 도파민 뉴런은 예상 밖의 혐오와 보상을 **둘 다** 부호화한다. H3K4me1 priming이 풍요·긍정 경험에 대한 민감성도 높인다면, 아동기 역경 경험자에 대한 **enrichment 개입**의 분자 근거가 된다(원 논문의 마지막 제안).

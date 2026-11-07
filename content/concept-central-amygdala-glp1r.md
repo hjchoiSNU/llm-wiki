@@ -3,7 +3,7 @@ title: Central amygdalar GLP-1R neurons (CeA^Glp1r)
 type: concept
 created: 2026-05-31
 updated: 2026-10-03
-aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Glp1r^CeA, CeM Glp1r]
+aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, Glp1r^CeA, CeM Glp1r]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -12,7 +12,7 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 # Central amygdalar GLP-1R neurons (CeA^Glp1r)
 
 ## 정의
-중심편도(central amygdala, CeA) — 특히 내측 CeM — 에 위치한 **GLP-1 수용체(Glp1r) 발현 GABAergic 뉴런**. 말초·중추 GLP-1RA 투여 시 일관되게 동원되며, GLP-1RA의 **기호성(hedonic) feeding 억제 효과를 전담**하는 회로 노드. 인접한 [[concept-basolateral-amygdala|기저외측 편도(BLA)]]와는 별개 nucleus.
+central amygdala(CeA) — 특히 medial CeM — 에 위치한 **GLP-1 수용체(Glp1r) 발현 GABAergic 뉴런**. 말초·중추 GLP-1RA 투여 시 일관되게 동원되며, GLP-1RA의 **기호성(hedonic) feeding 억제 효과를 전담**하는 회로 노드. 인접한 [[concept-basolateral-amygdala|basolateral amygdala(BLA)]]와는 별개 nucleus.
 
 ## 분자·세포 정체
 > ⚠️ **인용 판본 주의**: Duran et al.은 bioRxiv 프리프린트([[duran-2026-the-central-amygdala-integrates|"integrates"]])와 정식 출판판([[duran-2026-the-central-amygdala-gates|"gates", *Mol Metab* 110:102403, 2026]])이 모두 이 위키에 있다. 결론은 동일하나 **인용은 출판판으로** 한다. 현재 위키 안에는 프리프린트를 1차로 인용하는 페이지가 다수 남아 있으므로 발견 시 교체할 것.
@@ -70,17 +70,17 @@ aliases: [CeA Glp1r, CeA^Glp1r, central amygdala GLP-1R, 중심편도 GLP-1R, Gl
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[duran-2026-the-central-amygdala-gates]] — CeA 세포종류별 GLP-1RA hypophagia 게이팅 확정(출판판).
 - [[overview-cea-glp1r-food-safety-alarm]] — CeA^Glp1r을 Woods 1991 "food safety alarm"으로 재해석; 생리적 방어(현재 섭취↓·혐오학습) vs 약물 hijack(food aversion·혐오정동/우울) 종합.
-- [[wang-2018-coding-of-valence-and-identity]] — 쓴맛피질→CeA 혐오 배선(선천 미각 관문).
-- [[jin-2021-top-down-control-of-sweet]] — CeA→뇌간 rNST GABA 피드백으로 단맛/접근 억제.
+- [[wang-2018-coding-of-valence-and-identity]] — 쓴맛cortex→CeA 혐오 배선(선천 미각 관문).
+- [[jin-2021-top-down-control-of-sweet]] — CeA→brainstem rNST GABA 피드백으로 단맛/접근 억제.
 - [[schiff-2018-an-insula-central-amygdala-circuit]] — IC→CeL 예측적 혐오 회피 학습.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBel→PKC-δ^CeA 포만/혐오 입력.
 - [[cai-2014-central-amygdala-pkc-delta-neurons]] — CeA **PKC-δ⁺ anorexigenic 극**의 원전(CCK·LiCl·LPS의 **Fos** 수렴; 기능적 필요성은 CCK·부분 LiCl에 한정, LPS엔 불필요); Glp1r과 비중복.
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — CeA **Htr2a⁺ 양성-가치 섭식촉진극**(PKC-δ 억제); hedonic 억제극의 반대.
-- [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 뇌간 일반경보 hub.
+- [[concept-parabrachial-cgrp-alarm]] — CeA 상류의 brainstem 일반경보 hub.
 - [[concept-conditioned-taste-aversion]] — CeA가 valence 출력을 담당하는 혐오 학습.
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **CeA GLP-1R를 인간에서 보려면 무엇을 쓸 것인가**: 항체로 내인성 GPCR을 국재화하기 어렵다는 문제(detergent가 에피토프를 가림)와 그 대안인 형광·PET **exendin probe** 계보 (Diabetes 2024 Classics).
 - [[ghashghaei-2002-pathways-for-emotion-interactions]] — IM→CeA 억제 출력 배선의 primate 해부 좌표계.
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — **CeM(중심편도 내측부)이 NTS POMC의 전뇌 최대급 입력원**(CeM·PVN·PSTh 셋이 전뇌 입력 ~10%를 구성). CeA가 hindbrain POMC 포만 회로의 **직접 상류**로 닿는 해부 근거이며, 위키의 CeA^Glp1r→VTA 하행 축과는 별개인 **CeA→NTS 하행 축** (Front Neuroanat 2015).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **CeM(central amygdala medial part)이 NTS POMC의 forebrain 최대급 입력원**(CeM·PVN·PSTh 셋이 forebrain 입력 ~10%를 구성). CeA가 hindbrain POMC 포만 회로의 **직접 상류**로 닿는 해부 근거이며, 위키의 CeA^Glp1r→VTA 하행 축과는 별개인 **CeA→NTS 하행 축** (Front Neuroanat 2015).
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ 병기: CeA^Glp1r이 hedonic/palatable 섭취 억제를 전담한다는 구도에 대해, **NTS Adcyap1⁺→ARC·→DMH** 경로도 초콜릿 폭식을 **CTA 없이** 억제한다는 반례급 자료. 같은 NTS 출발점(단 Gcg가 아닌 Adcyap1 집단)에서 갈라지는 **비-CeA 병렬 축** (bioRxiv preprint 2026).
 - [[concept-glp1ra-cns-access]] — CeA를 **접근 요구가 높은 심부 노드**로 배치: 펩타이드는 NTS^Gcg 중계, 소분자는 직접이라는 구도의 근거와 한계를 병기. ⚠️ **'penetrant' 정의 충돌** — danuglipron(555.6 Da)의 CeA 직접 활성 근거는 **대조측 수용체 음성(humanized `Glp1r^S33W`)이고 농도 측정이 아니며**, orforglipron의 rat brain/plasma·CSF/plasma는 **0.0078로 펩타이드와 같은 수준**이다(*Int J Mol Sci* 2026;27:1409).
 - [[volkow-2026-glp-1-receptor-agonists-in]] — ref 14로 amygdala가 말초 생리 신호와 환경 cue를 통합해 '생리적 필요에 따른 섭식'을 유도한다는 논점을 든다.

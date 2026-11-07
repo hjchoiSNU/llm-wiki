@@ -92,11 +92,11 @@ Grzelka가 설명해야 하는 것은 유도가 아니라 **수일–수주 지�
 | 인용 | 주장 |
 |---|---|
 | Tao 2021 *eLife* | **"Synaptic memory requires CaMKII"** |
-| Incontro 2018 *Nat Commun* | CaMKII/NMDAR 복합체가 해마 전달을 통제(키나아제 의존·비의존 두 기전) |
+| Incontro 2018 *Nat Commun* | CaMKII/NMDAR 복합체가 hippocampus 전달을 통제(키나아제 의존·비의존 두 기전) |
 | Herring & Nicoll 2016 *Annu Rev Physiol* | LTP: CaMKII에서 AMPA 수용체 트래피킹까지 |
 | Lledo 1995 *PNAS* | CaMKII와 LTP가 **같은 기전으로** 시냅스 전달을 강화 |
 
-즉 "유지 국면 = CaMKII"는 해마 LTP 분야의 표준 귀속이고, Grzelka는 **그 귀속을 시상하부로 유비 이식**한다. 논증의 힘은 유비의 강도에 달려 있다.
+즉 "유지 국면 = CaMKII"는 hippocampus LTP 분야의 표준 귀속이고, Grzelka는 **그 귀속을 hypothalamus로 유비 이식**한다. 논증의 힘은 유비의 강도에 달려 있다.
 
 > ⚠️ CaMKII가 유지를 담당하는 **분자 스위치 기전**(자가인산화→Ca²⁺ 비의존 자율 활성 등)의 구체적 내용은 본 위키의 `raw/` 원본에 없다. 위 4편은 Grzelka의 인용 목록에서 서지만 확인된 상태이며 원문 미확보.
 
@@ -114,9 +114,9 @@ Grzelka 본문: "genetic deletion of CaMKII downregulates AgRP gene expression a
 | 섭식 회로 직접 증거 | **위키 자료 없음** | 있음 |
 | 약리 | (본 위키 원본에 억제제 자료 없음) | **STO-609** |
 | AgRP 시냅스에서 검증된 것 | — | [[yang-2011-hunger-states-switch-a-flip-flop\|Yang 2011]]: STO-609가 ghrelin 유발 f<sub>mEPSC</sub> 증가를 차단. AICAR는 STO-609 후에도 작동 → **CAMKK가 AMPK의 상류** 확정 |
-| 대사 표현형 | — | Anderson 2008: 시상하부 CaMKK2가 에너지 균형 조절 |
+| 대사 표현형 | — | Anderson 2008: hypothalamus CaMKK2가 에너지 균형 조절 |
 
-**따라서 현재 상태**: 섭식 회로에서 실제 직접 증거(약리 차단 + 유전 조작 + 대사 표현형)를 가진 효소는 **CaMKK2**이고, 그 자리는 [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서 **전시냅스**로 배정됐다. **CaMKII는 후시냅스 후보이되, AgRP 시냅스에서의 직접 증거는 본 위키 자료 범위에 없다** — 해마 LTP로부터의 유비다.
+**따라서 현재 상태**: 섭식 회로에서 실제 직접 증거(약리 차단 + 유전 조작 + 대사 표현형)를 가진 효소는 **CaMKK2**이고, 그 자리는 [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서 **전시냅스**로 배정됐다. **CaMKII는 후시냅스 후보이되, AgRP 시냅스에서의 직접 증거는 본 위키 자료 범위에 없다** — hippocampus LTP로부터의 유비다.
 
 > 논증 3이 성립하려면 **후시냅스 AMPK가 실제로 작동해야** 하는데, 바로 그 지점이 논쟁 중이다. [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]은 AgRP 뉴런 **내부로** AMPK 활성제·억제제를 투석해도 f<sub>mEPSC</sub>가 변하지 않는다고 보고했다(후시냅스 AMPK 무효). 반면 Grzelka가 ref 21로 인용한 **Kong 2016 *Neuron*의 제목 자체가 "A postsynaptic AMPK→p21-activated kinase pathway drives fasting-induced synaptic plasticity in AgRP neurons"** 다. 즉 **AMPK의 구획조차 미해결**이며, CaMKII→AMPK 논증은 그 미해결 위에 얹혀 있다. (Kong 2016 원본 미확보 — 위 "4개의 축" 표의 경고 참조.)
 
@@ -129,7 +129,7 @@ Grzelka 본문: "genetic deletion of CaMKII downregulates AgRP gene expression a
 ## 열려 있는 질문
 - 두 축(ghrelin–AMPK / 활성–NMDAR)이 **같은 시냅스에서 어떻게 상호작용**하는가. Grzelka는 하류 분자로 CaMKII·AMPK를 추정만 했다.
 - 빈도 증가가 **가시 수 증가인지 방출 부위 증가인지** 미해결(Grzelka 저자 명시). → 위 "미해결 쟁점" 절.
-- **새로 생긴 시냅스를 나중에 누가 제거하는가**. [[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]에서 가시는 재급식 3일 내에 기저로 돌아간다. 다른 회로에서 그 일을 하는 것은 미세아교세포지만, 시상하부 섭식 회로에서는 **위키에 자료 없음**. → [[concept-glia-stress-plasticity]]
+- **새로 생긴 시냅스를 나중에 누가 제거하는가**. [[liu-2012-fasting-activation-of-agrp-neurons|Liu 2012]]에서 가시는 재급식 3일 내에 기저로 돌아간다. 다른 회로에서 그 일을 하는 것은 미세아교세포지만, hypothalamus 섭식 회로에서는 **위키에 자료 없음**. → [[concept-glia-stress-plasticity]]
 - **인간에서 측정 가능한가** — 현재로선 불가. 대리 지표(다이어트 후 식욕 항진의 시간 경과, GLP-1RA 중단 후 rebound 속도)로만 접근.
 - 억제성 입력([[garfield-2016-dynamic-gabaergic-afferent-modulation|vDMH^LepR]]·[[kim-2024-glp-1-increases-preingestive-satiation|DMH^GLP-1R]])에도 대응하는 가소성이 있는가 — **미탐색 영역**이며 사용자 lab의 GLP-1R 회로 전문성과 정확히 겹친다.
 

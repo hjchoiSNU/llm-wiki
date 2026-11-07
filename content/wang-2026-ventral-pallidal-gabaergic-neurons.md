@@ -9,12 +9,12 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **복측 창백핵(VP)의 GABA성 뉴런이 항상성 섭식이 아니라 '쾌락적(hedonic) 섭식'을 전담하는 노드**임을 인과적으로 보인다. 이 세포는 ghrelin·금식 같은 **need 신호에 둔감**하고 [[concept-cck|CCK]](포만)에 억제되며, **핥기 bout 길이·palatability를 추적**한다. 폐루프 광유전으로 bout를 늘릴 수 있고, **세포를 제거(taCasp3)하면 고지방식 유발 비만이 차단되되 항상성 섭식은 보존**된다. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]] framework의 **Pleasure 축에 대응하는 회로 후보**이자, VP가 [[concept-hedonic-hotspot|쾌락 핫스폿]]에서 '좋아함'에 필수라는 Berridge 전통과 직결 — homeostatic vs hedonic 섭식을 세포 수준에서 분리하는 항비만 표적.
+> **ventral pallidum(VP)의 GABA성 뉴런이 항상성 섭식이 아니라 '쾌락적(hedonic) 섭식'을 전담하는 노드**임을 인과적으로 보인다. 이 세포는 ghrelin·금식 같은 **need 신호에 둔감**하고 [[concept-cck|CCK]](포만)에 억제되며, **핥기 bout 길이·palatability를 추적**한다. 폐루프 광유전으로 bout를 늘릴 수 있고, **세포를 제거(taCasp3)하면 고지방식 유발 비만이 차단되되 항상성 섭식은 보존**된다. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]] framework의 **Pleasure 축에 대응하는 회로 후보**이자, VP가 [[concept-hedonic-hotspot|쾌락 핫스폿]]에서 '좋아함'에 필수라는 Berridge 전통과 직결 — homeostatic vs hedonic 섭식을 세포 수준에서 분리하는 항비만 표적.
 
 # Ventral pallidal GABAergic neurons control hedonic feeding and obesity (Wang 2026)
 
 ## 한 줄 요약
-복측 창백핵([[concept-ventral-pallidum|ventral pallidum, VP]])의 **GABA성 뉴런(VP^GABA)** 이 항상성(homeostatic)보다 **쾌락(hedonic) 섭식을 우선 구동**한다. 이 뉴런은 [[concept-ghrelin|ghrelin]]·금식에는 둔감하나 [[concept-cck|CCK]]에 억제되고, **핥기 bout의 길이·맛 선호(palatability)를 부호화**한다. 폐루프 광유전 활성은 bout를 연장하며, **taCasp3 ablation은 고지방식(HFD) 유발 비만을 차단하면서 항상성 섭식은 보존**한다. 후보 기전: VP^GABA→VTA 탈억제 → 도파민↑.
+ventral pallidum([[concept-ventral-pallidum|ventral pallidum, VP]])의 **GABA성 뉴런(VP^GABA)** 이 항상성(homeostatic)보다 **쾌락(hedonic) 섭식을 우선 구동**한다. 이 뉴런은 [[concept-ghrelin|ghrelin]]·금식에는 둔감하나 [[concept-cck|CCK]]에 억제되고, **핥기 bout의 길이·맛 선호(palatability)를 부호화**한다. 폐루프 광유전 활성은 bout를 연장하며, **taCasp3 ablation은 고지방식(HFD) 유발 비만을 차단하면서 항상성 섭식은 보존**한다. 후보 기전: VP^GABA→VTA 탈억제 → 도파민↑.
 
 ## 핵심 내용 (bioRxiv 2026, Kravitz·Creed lab; doi 10.64898/2026.06.18.733195)
 
@@ -57,5 +57,5 @@ year: 2026
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-consumption-vigor]] — 본 논문이 쓴 **핥기 bout 길이** 지표가 속한 개념. 위키 정의상 vigor는 **Motivation(wanting)의 행동 출력**이며 '좋아함'의 직접 측정이 아니다. 폐루프 광유전으로 bout를 연장한 것은 vigor의 드문 **회로 인과 검증** 사례.
 - [[concept-appetitive-consummatory-phases]] — VP^GABA가 붙는 국면은 소비(consummatory) 쪽.
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **상보·긴장**: 본 논문의 VP^GABA 폐루프 자극은 **bout를 연장**(유지)하는 반면, 선조체 도파민 폐루프 자극은 **bout 수(개시)만 늘리고 bout당 lick은 늘리지 않는다**(DMS·DLS 말단 자극은 오히려 감소). 두 회로가 [[concept-consumption-vigor|소비 vigor]]의 **서로 다른 성분**을 담당한다는 가설이 성립한다 (Neuron 2026, Stuber lab).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **상보·긴장**: 본 논문의 VP^GABA 폐루프 자극은 **bout를 연장**(유지)하는 반면, striatum 도파민 폐루프 자극은 **bout 수(개시)만 늘리고 bout당 lick은 늘리지 않는다**(DMS·DLS 말단 자극은 오히려 감소). 두 회로가 [[concept-consumption-vigor|소비 vigor]]의 **서로 다른 성분**을 담당한다는 가설이 성립한다 (Neuron 2026, Stuber lab).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 폐루프로 bout를 연장하는 또 다른 노드(VP^GABA)와의 분업 질문 — 유지 성분이 도파민성인지 비도파민성인지.

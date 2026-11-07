@@ -34,8 +34,8 @@ VTA는 단일 회로가 아니다. **세포 종류 × 신경전달물질 조합 
 | Combinatorial | 특정 subregion | 다양 | 다양 |
 
 > ⚠️ **표의 3개 칸이 [[mingote-2019-dopamine-glutamate-neuron-projections-to|Mingote 2019]]와 충돌한다** (덮어쓰지 않고 병기).
-> - **NAc 콜린성 개재뉴런의 입력원**: 본 표는 GABA-only 뉴런의 표적으로 둔다. Mingote는 INTRSECT로 **TH⁺·VGLUT2⁺ DA-GLU 뉴런이 NAc medial shell ChI에 최강 글루타메이트 연결**(SPN·FSI 대비 수 배 EPSC, CNQX 민감)을 만든다고 보고.
-> - **Medial midline의 정체와 행동**: 본 표는 RLi·CLi·IF를 **Glutamate-only → NAc PV 개재뉴런 → aversion**으로 배정. Mingote는 같은 내측 VTA(IF·CLi·PN)의 DA-GLU가 **ChI 우선 표적**이며 결과인 순 SPN 억제를 **aversion이 아니라 행동 전환**으로 해석.
+> - **NAc 콜린성 interneuron의 입력원**: 본 표는 GABA-only 뉴런의 표적으로 둔다. Mingote는 INTRSECT로 **TH⁺·VGLUT2⁺ DA-GLU 뉴런이 NAc medial shell ChI에 최강 글루타메이트 연결**(SPN·FSI 대비 수 배 EPSC, CNQX 민감)을 만든다고 보고.
+> - **Medial midline의 정체와 행동**: 본 표는 RLi·CLi·IF를 **Glutamate-only → NAc PV interneuron → aversion**으로 배정. Mingote는 같은 medial VTA(IF·CLi·PN)의 DA-GLU가 **ChI 우선 표적**이며 결과인 순 SPN 억제를 **aversion이 아니라 행동 전환**으로 해석.
 > - **PBP 귀속(직접 불일치)**: 본 문서는 DA+Glu 공방출을 "medial **PBP**/PN, midline"에 둔다. Mingote는 **PBP = DA-only**(→lateral shell·core), **PN = DA-GLU**(→medial shell)로 가른다.
 >
 > 단, 아래 **§한계 1의 'TH-Cre 위양성' 경고가 바로 Mingote의 INTRSECT(TH-Flp ; VGLUT2-Cre)가 겨냥한 문제**다. 방법론적 해상도는 Mingote 쪽이 높으나, 본 논문의 Glu-only 집단과 Mingote의 DA-GLU 집단이 **서로 다른 세포군일 가능성**도 남는다 — INTRSECT 없이 둘을 구별할 수 있는지가 쟁점.
@@ -158,7 +158,7 @@ Lammel 2012 Nature (본 논문의 frame):
 - [[meye-2014-feelings-about-food-the]] — "어느 VTA 도파민 아형이 음식 보상 매개?" 미해결 질문.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ★ 본 페이지 4분류 표의 **실험적 정밀화이자 부분 반박**. INTRSECT(TH-Flp ; VGLUT2-Cre)로 **DA-GLU ~31% / DA-only ~71%** 정량, **medial VTA(IF·CLi·PN)→NAc medial shell** vs **PBP→lateral shell·core** 지형 확정, 최강 시냅스 표적이 **ChI**임을 규명. ChI 입력원·medial midline 행동 해석·PBP 귀속에서 위 표와 충돌(표 아래 ⚠️ 박스 참조).
 - [[concept-neurotransmitter-cotransmission]] — 본 논문이 정리한 공방출 4조합의 개념 hub.
-- [[concept-striatal-cholinergic-interneuron]] — 표가 GABA-only의 표적으로 둔 NAc 콜린성 개재뉴런의 전용 페이지.
+- [[concept-striatal-cholinergic-interneuron]] — 표가 GABA-only의 표적으로 둔 NAc 콜린성 interneuron의 전용 페이지.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — ⚠️ 이질성 비판에 대한 반론: phasic 신호는 등급적·균질하고 다양한 것은 형태·연결·투사 등 다른 층위라는 주장.
 - [[zhao-2026-serotonin-neurons-in-the-dorsal]] — ⚠️ 표의 "DRN VGLUT3→VTA DA=보상"과 부호가 엇갈리는 1차 원전(TPH2⁺ 5-HT^DRN→VTA 활성화가 임신기 섭취↓). 세포 정체·하류 표적·행동 지표 차이를 병기할 것.

@@ -44,7 +44,7 @@ journal: PNAS
 - c-FOS⁺ AgRP 뉴런 비율 증가.
 - 전자현미경: AgRP 뉴런의 **미토콘드리아 밀도·피복률 증가**.
 - 시냅스 재편(patch-clamp): 2일차엔 sIPSC·sEPSC 모두 증가, **15일차엔 sIPSC 빈도만 감소하고 sEPSC는 유지** → 순 흥분(net excitation) 쪽으로 이동.
-- 시상하부 `Bdnf`·`Slc32a1` 증가, `Gfap` 감소(astrocyte reactivity↓). 이 전사 적응은 `AgRP-Sirt1` KO에서 **부재**.
+- hypothalamus `Bdnf`·`Slc32a1` 증가, `Gfap` 감소(astrocyte reactivity↓). 이 전사 적응은 `AgRP-Sirt1` KO에서 **부재**.
 - AgRP→**PVH** 말단: 투사 뉴런 수는 불변이나 **말단 총 면적·미토콘드리아 수 증가** → 구조적 강화.
 
 ### 발견 4 — 매개 축은 glucocorticoid → AgRP-GR
@@ -68,7 +68,7 @@ journal: PNAS
 - [[concept-npy-agrp-neurons]] — 본 논문의 주역; "hunger 스위치"에서 "적응 대사반응 라이선스 노드"로 역할 확장.
 - [[concept-arcuate-nucleus]] — 무대.
 - [[concept-glp-1]] — GLP-1/GLP1R hub; 본 논문은 **GLP1R 비발현 세포를 통한 간접 필수 경로**를 추가.
-- [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드 1차 작용부위(AP)·Gs–cAMP 세포내 기전; 본 논문은 그 **하류에서 동원되는 시상하부 노드**에 해당(AP=입력, AgRP=적응 실행).
+- [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드 1차 작용부위(AP)·Gs–cAMP 세포내 기전; 본 논문은 그 **하류에서 동원되는 hypothalamus 노드**에 해당(AP=입력, AgRP=적응 실행).
 - [[concept-area-postrema]] · [[concept-dorsal-vagal-complex]] — 약물이 직접 붙는 상류 무대.
 - [[concept-pomc-neurons]] — 길항 짝; GLP1R를 직접 발현하는 쪽과 대조.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 AgRP 뉴런이 **GHSR·INSR·GHR·NR3C1(GR)·사이토카인 수용체**를 풍부히 발현함을 보여 본 논문의 GC→AgRP-GR 축에 **인간 분자 근거**를 제공.

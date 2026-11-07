@@ -9,12 +9,12 @@ year: 2020
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 시상하부 PVH가 배고픔·갈증·공포 등 **행동상태를 "labeled-line"이 아니라 "grouped-ensemble coding"으로 부호화**함을 입증 — 분자적으로 정의된 세포타입들이 조합·강도·시간동역학으로 상태를 표상하고, **Npy1r(NPY 수용체)가 ensemble 전체를 지휘(conductor)**. 사용자에게 두 가지 직접 함의: ① [[concept-need-motivation-pleasure-utility|NMPU]]의 "Need/상태가 어떻게 신경에서 부호화되는가"에 대한 결정적 회로 증거 — 단일 세포타입이 아닌 **조합 부호**, MC5-Crh/MC6-Pdyn은 valence-general **salience** 부호. ② 방법 **CaRMA imaging**(Calcium + RNA Multiplexed Activity)은 in vivo 칼슘 활성 뉴런을 사후 RNA-FISH로 분자정체와 정합 — [[proposal-nmpu-human-translation|NMPU 인간 번역]]·[[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]] 회로 측정의 직접 템플릿(자매 방법 [[wang-2026-multimodal-alignments-of-in|TRU-FACT]]).
+> hypothalamus PVH가 배고픔·갈증·공포 등 **행동상태를 "labeled-line"이 아니라 "grouped-ensemble coding"으로 부호화**함을 입증 — 분자적으로 정의된 세포타입들이 조합·강도·시간동역학으로 상태를 표상하고, **Npy1r(NPY 수용체)가 ensemble 전체를 지휘(conductor)**. 사용자에게 두 가지 직접 함의: ① [[concept-need-motivation-pleasure-utility|NMPU]]의 "Need/상태가 어떻게 신경에서 부호화되는가"에 대한 결정적 회로 증거 — 단일 세포타입이 아닌 **조합 부호**, MC5-Crh/MC6-Pdyn은 valence-general **salience** 부호. ② 방법 **CaRMA imaging**(Calcium + RNA Multiplexed Activity)은 in vivo 칼슘 활성 뉴런을 사후 RNA-FISH로 분자정체와 정합 — [[proposal-nmpu-human-translation|NMPU 인간 번역]]·[[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]] 회로 측정의 직접 템플릿(자매 방법 [[wang-2026-multimodal-alignments-of-in|TRU-FACT]]).
 
 # Xu et al. 2020 — PVH 세포타입 ensemble의 행동상태 부호화 (CaRMA imaging)
 
 ## 한 줄 요약
-Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. 시상하부 실방핵(PVH)의 분자적 세포타입을 in vivo 칼슘 영상 + 사후 다중 RNA-FISH(**CaRMA imaging**)로 동시 측정 → PVH는 **grouped-ensemble coding**(세포타입이 기능 단위; 조합·강도·동역학으로 11개 행동상태 부호화)을 쓰며, **Npy1r**이 가장 예측력 높은 유전자로 ensemble을 조율.
+Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. hypothalamus 실방핵(PVH)의 분자적 세포타입을 in vivo 칼슘 영상 + 사후 다중 RNA-FISH(**CaRMA imaging**)로 동시 측정 → PVH는 **grouped-ensemble coding**(세포타입이 기능 단위; 조합·강도·동역학으로 11개 행동상태 부호화)을 쓰며, **Npy1r**이 가장 예측력 높은 유전자로 ensemble을 조율.
 
 ## 핵심 내용
 

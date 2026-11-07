@@ -1,22 +1,22 @@
 ---
-title: 안와전두피질 (Orbitofrontal Cortex, OFC)
+title: "Orbitofrontal cortex (OFC)"
 type: concept
 created: 2026-06-01
 updated: 2026-10-28
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> OFC는 **보상 가치 평가·결과 기반 행동(value/outcome)**의 전전두 허브로, NAc와 강하게 연결돼 reward 회로의 "피질 쪽 계산기" 역할을 한다. Halpern 그룹의 [[nho-2026-human-orbitofrontal-neural-activity-is|2026 Cell]]에서 **anteromedial OFC(amOFC) low-gamma가 인간 강박(OCD) 증상의 실시간 biomarker**로 떠올랐다 — 식이 reward 회로 연구가 충동/강박이라는 transdiagnostic 축으로 확장되는 접점. 동기 행동의 "가치 계산" 노드를 인간 침습 데이터로 들여다보는 창.
+> OFC는 **보상 가치 평가·결과 기반 행동(value/outcome)**의 prefrontal 허브로, NAc와 강하게 연결돼 reward 회로의 "cortex 쪽 계산기" 역할을 한다. Halpern 그룹의 [[nho-2026-human-orbitofrontal-neural-activity-is|2026 Cell]]에서 **anteromedial OFC(amOFC) low-gamma가 인간 강박(OCD) 증상의 실시간 biomarker**로 떠올랐다 — 식이 reward 회로 연구가 충동/강박이라는 transdiagnostic 축으로 확장되는 접점. 동기 행동의 "가치 계산" 노드를 인간 침습 데이터로 들여다보는 창.
 
-# 안와전두피질 (Orbitofrontal Cortex, OFC)
+# Orbitofrontal cortex (OFC)
 
 ## 한 줄 요약
-전두엽 복측(안와 위)의 피질. **보상·처벌의 가치 표상, 결과 예측에 기반한 유연한 행동 선택**을 담당하며 NAc·ventral striatum·편도와 밀접히 연결. 강박장애(OCD)의 핵심 회로 노드(과활성 cortico-striato-thalamo-cortical loop)로, 인간 침습 전기생리에서 **저감마(low-gamma) 활동이 강박 증상 상태를 추적**한다.
+frontal lobe ventral(안와 위)의 cortex. **보상·처벌의 가치 표상, 결과 예측에 기반한 유연한 행동 선택**을 담당하며 NAc·ventral striatum·amygdala와 밀접히 연결. 강박장애(OCD)의 핵심 회로 노드(과활성 cortico-striato-thalamo-cortical loop)로, 인간 침습 전기생리에서 **저감마(low-gamma) 활동이 강박 증상 상태를 추적**한다.
 
 ## 핵심 내용
 
 ### 해부·기능
-- **위치**: 전두엽 안와면. anteromedial OFC(amOFC)는 보상 가치 통합·결과 기반 행동에 관여하며 **NAc로 강하게 투사**(VeP와도 상호연결).
+- **위치**: frontal lobe 안와면. anteromedial OFC(amOFC)는 보상 가치 통합·결과 기반 행동에 관여하며 **NAc로 강하게 투사**(VeP와도 상호연결).
 - **기능**: stimulus–outcome 연합의 가치 표상, 기대 가치 갱신, 행동 유연성. 손상 시 강박·탈억제·의사결정 장애.
 
 ### 인간 OCD biomarker (Halpern·Scangos 라인, 2026 Cell)
@@ -26,13 +26,13 @@ updated: 2026-10-28
 - **주파수 대역 정의**: delta 1–4, theta 5–8, alpha 9–12, beta 13–30, **low-gamma 30–55**, high-gamma 65–115 Hz.
 
 ### reward 회로와의 위치
-- OFC–NAc–VeP 축은 가치 계산(피질)→행동 개시(선조체)의 핵심 reward 루프. Halpern의 식이 NAc 연구([[concept-nucleus-accumbens]])와 강박 OFC 연구는 **같은 회로의 다른 진입점**이며, closed-loop 신경조절([[concept-responsive-neurostimulation]])의 공통 표적.
+- OFC–NAc–VeP 축은 가치 계산(cortex)→행동 개시(striatum)의 핵심 reward 루프. Halpern의 식이 NAc 연구([[concept-nucleus-accumbens]])와 강박 OFC 연구는 **같은 회로의 다른 진입점**이며, closed-loop 신경조절([[concept-responsive-neurostimulation]])의 공통 표적.
 
 ## 관련 페이지
 - [[kringelbach-2015-the-pleasure-of-food]] — mid-anterior OFC가 음식의 **주관적 쾌락 경험**을 부호화(selective satiety); anteromedial OFC는 ‘좋아함’ [[concept-hedonic-hotspot|쾌락 핫스폿]].
-- [[concept-liking-wanting]] — OFC가 ‘좋아함’ 피질 핫스폿·주관 쾌락 부호화에 관여.
+- [[concept-liking-wanting]] — OFC가 ‘좋아함’ cortex 핫스폿·주관 쾌락 부호화에 관여.
 - [[nho-2026-human-orbitofrontal-neural-activity-is]] — amOFC low-gamma OCD biomarker 원전.
-- [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 환자에서 우 OFC 음식반응↓ ↔ 무질서 섭식태도·억제조절 결손 상관(사용자 lab).
+- [[lee-2023-obesity-mechanism-after-hypothalamic]] — hypothalamus 손상 환자에서 우 OFC 음식반응↓ ↔ 무질서 섭식태도·억제조절 결손 상관(사용자 lab).
 - [[concept-nucleus-accumbens]] — OFC의 주 투사 대상; 강박 자극 표적(NAc-VeP).
 - [[concept-responsive-neurostimulation]] — amOFC biomarker 기반 closed-loop 확장.
 - [[person-halpern-casey]] — 인간 OFC/OCD 침습 연구 주도.
@@ -41,10 +41,10 @@ updated: 2026-10-28
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — OFC=중립 cue·환경 구조 학습 vs **LH-VTA**=보상 근접 예측자 편향의 **긴장/분업**(둘 다 VTADA 입력); 약물이 이 균형을 병적 학습으로 이동 (Neuron 2026).
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — BNST→OFC 하향조절 강도가 주관적 스트레스를 예측(인간 7T DCM, Nat Commun 2026); BNST가 OFC에 valence 정보 relay.
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — vmPFC가 goal-value·chosen-value·RPE 부호화; goal-directed/habitual/Pavlovian arbitration (book chapter 2016).
-- [[ghashghaei-2002-pathways-for-emotion-interactions]] — OFC 축삭이 편도 BL 경계·IM에 종말해 CeA 자율출력 게이팅.
+- [[ghashghaei-2002-pathways-for-emotion-interactions]] — OFC 축삭이 amygdala BL 경계·IM에 종말해 CeA 자율출력 게이팅.
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화, mOFC→BLA=가치 인출** 이중해리(Nat Neurosci 2019, Wassum lab).
 - [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — mPFC/OFC(medial orbital ORBm 포함)→rZI가 강박 섭식을 gate; rZI 투사 mPFC=Npr3+, NAc 투사와 대비.
-- [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **OFC→등쪽 선조체(DST) 시냅스 강도가 강박을 결정**: 인공 depotentiation은 처벌-저항 추구를 줄이고, 인공 potentiation은 비강박 개체에 강박을 만든다(Pascoli 2018, 양방향 인과). mPFC=주의·반응억제, **OFC=가치 갱신**(lateral=목표지향 유지, medial=정보 통합)이라는 기능 분업도 여기서 정리됨 (Annu Rev Neurosci 2021).
+- [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] — **OFC→dorsal striatum(DST) 시냅스 강도가 강박을 결정**: 인공 depotentiation은 처벌-저항 추구를 줄이고, 인공 potentiation은 비강박 개체에 강박을 만든다(Pascoli 2018, 양방향 인과). mPFC=주의·반응억제, **OFC=가치 갱신**(lateral=목표지향 유지, medial=정보 통합)이라는 기능 분업도 여기서 정리됨 (Annu Rev Neurosci 2021).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — vmPFC가 **선택적 주의**로 목표 몰입을 지지(Holton 2024 Nat Hum Behav): 목표 무관 정보 억제·현재 목표 평가절하 민감성 유지; goal-value 부호화의 "안정화" 측면.
-- [[rangel-2008-a-framework-for-studying-the]] — OFC의 두 가치 신호를 구분한 틀(Nat Rev Neurosci 2008): **선택 시점의 goal value**(원숭이·인간 OFC·DLPFC; 내측 OFC 손상 시 일관된 선호 선택 장애)와 **경험 시점의 outcome value**(내측 OFC가 주관적 쾌와 상관, 포만 후 감소, 가격·상표 같은 신념에 따라 변함). 목표지향계 안에서 OFC = 결과–가치 연합, DMS = 행동–결과 연합.
+- [[rangel-2008-a-framework-for-studying-the]] — OFC의 두 가치 신호를 구분한 틀(Nat Rev Neurosci 2008): **선택 시점의 goal value**(원숭이·인간 OFC·DLPFC; medial OFC 손상 시 일관된 선호 선택 장애)와 **경험 시점의 outcome value**(medial OFC가 주관적 쾌와 상관, 포만 후 감소, 가격·상표 같은 신념에 따라 변함). 목표지향계 안에서 OFC = 결과–가치 연합, DMS = 행동–결과 연합.
 - [[concept-prefrontal-cortex-feeding]] — **자매 hub**(신설). dlPFC·vmPFC·mPFC(PL·ILA·ACC)·dmPFC의 섭식 역할을 brake/drive 양방향으로 정리하고 LHA 연결성·tES 접점을 모은다. 이 페이지와는 **medial orbital(ORBm)에서만 겹친다** — ORBm은 [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 rZI 주요 입력.

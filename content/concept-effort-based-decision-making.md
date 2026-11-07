@@ -6,7 +6,7 @@ updated: 2026-11-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> "보상이 노력을 들일 값어치가 있는가"를 계산하는 비용-편익 의사결정. 중변연 도파민(VTA→복측선조체)이 **"일할 의지(vigor·activation)"**를 부호화하며, 이 편향의 저하가 apathy·anhedonia·우울의 transdiagnostic 표지. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Motivation/Utility 축을 정량화하는 인간 계산 패러다임**이자, [[concept-glp-1|GLP-1]]·대사 개입이 "식욕"뿐 아니라 **동기적 effort**를 바꾸는지 검증하는 도구. [[mehrhof-2026-computational-phenotyping-of-effort|Mehrhof 2026]]은 T2D에서 effort 수용편향↓(에너지 절약)를 보였고 semaglutide로 회복 안 됨을 보고.
+> "보상이 노력을 들일 값어치가 있는가"를 계산하는 비용-편익 의사결정. 중변연 도파민(VTA→ventral striatum)이 **"일할 의지(vigor·activation)"**를 부호화하며, 이 편향의 저하가 apathy·anhedonia·우울의 transdiagnostic 표지. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Motivation/Utility 축을 정량화하는 인간 계산 패러다임**이자, [[concept-glp-1|GLP-1]]·대사 개입이 "식욕"뿐 아니라 **동기적 effort**를 바꾸는지 검증하는 도구. [[mehrhof-2026-computational-phenotyping-of-effort|Mehrhof 2026]]은 T2D에서 effort 수용편향↓(에너지 절약)를 보였고 semaglutide로 회복 안 됨을 보고.
 
 # 노력 기반 의사결정 (Effort-based decision-making)
 
@@ -21,9 +21,9 @@ updated: 2026-11-03
 - **effort sensitivity(βE)**·**reward sensitivity(βR)** = 각각 노력·보상 크기 변화에 대한 반응성. discounting은 parabolic(또는 linear).
 
 ### 신경 기질
-- **VTA→복측선조체 도파민**이 노력 동원(effort mobilization)·vigor·activation을 부호화. 도파민 저하는 "고노력-고보상" 회피·"저노력" 선호로 이동(Salamone).
+- **VTA→ventral striatum 도파민**이 노력 동원(effort mobilization)·vigor·activation을 부호화. 도파민 저하는 "고노력-고보상" 회피·"저노력" 선호로 이동(Salamone).
 - 도파민은 [[hamid-2016-mesolimbic-dopamine-signals-value-work|"일(work)의 가치"]]를 신호([[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|motivation vs learning 이중 동역학]]).
-- **들인 노력이 보상 도파민을 키운다(effort paradox의 국소 기전)**: [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]] — 마우스가 같은 설탕물을 FR1→FR46으로 더 많이 일해 얻을수록 NAc core 보상 도파민이 커졌다. 이 증폭은 VTA 세포체 활동이 아니라 **NAc 콜린성 개재뉴런의 ACh → 도파민 축삭 α4/α6 nAChR**가 만든다([[concept-striatal-cholinergic-interneuron]]). 이 경로를 막으면 고노력 블록에서만 도파민과 보상 획득이 줄고 저노력 섭취는 그대로였다. ACh는 노력만, 도파민은 크기 + 노력을 싣는다.
+- **들인 노력이 보상 도파민을 키운다(effort paradox의 국소 기전)**: [[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]] — 마우스가 같은 설탕물을 FR1→FR46으로 더 많이 일해 얻을수록 NAc core 보상 도파민이 커졌다. 이 증폭은 VTA 세포체 활동이 아니라 **NAc 콜린성 interneuron의 ACh → 도파민 축삭 α4/α6 nAChR**가 만든다([[concept-striatal-cholinergic-interneuron]]). 이 경로를 막으면 고노력 블록에서만 도파민과 보상 획득이 줄고 저노력 섭취는 그대로였다. ACh는 노력만, 도파민은 크기 + 노력을 싣는다.
   - 위 SV 식은 **앞으로 들 노력**을 비용으로 뺀다. Touponse는 **이미 들인 노력**이 보상 신호를 더한다는 결과다. 시점이 달라 모순은 아니지만, 사람 과제에서 "노력 후 보상의 주관 가치"를 따로 재야 한다는 설계 요구가 생긴다(연결 해석).
 - 인슐린 수용체가 이 경로에 발현 → **대사상태가 effort 동기를 조율**(allostatic energy regulation): 대사 악화 시 에너지 절약 쪽 shift.
 

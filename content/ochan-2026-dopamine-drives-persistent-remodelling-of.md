@@ -20,7 +20,7 @@ pmid: 42162419
 # Dopamine drives persistent remodelling of the maternal brain (O'Chan et al. 2026)
 
 ## 한 줄 요약
-임신·출산·수유를 포함한 **생식 경험(reproductive experience, RE)** 이 **배측 해마 형성체(dorsal hippocampal formation, dHF)** 를 전사적으로 재편하며, 그 재편이 **도파민 동역학 → H3 dopaminylation → 유전자 발현 → 행동**의 인과 사슬로 유지됨을 마우스·인간 양쪽에서 보인 연구 (Maze lab, Mount Sinai).
+임신·출산·수유를 포함한 **생식 경험(reproductive experience, RE)** 이 **dorsal hippocampus 형성체(dorsal hippocampal formation, dHF)** 를 전사적으로 재편하며, 그 재편이 **도파민 동역학 → H3 dopaminylation → 유전자 발현 → 행동**의 인과 사슬로 유지됨을 마우스·인간 양쪽에서 보인 연구 (Maze lab, Mount Sinai).
 
 ## 핵심 내용
 
@@ -42,7 +42,7 @@ pmid: 42162419
 - **교배+임신+출산이 RE와 가장 유사** → 임신(+출산)이 dHF 변화의 **1차 동인**.
 - 다만 **변화 폭이 RE에 못 미침** → 산후 경험이 추가로 필요. pup sensitized 군의 DEG도 RE 민감 모듈과 유의 중첩 → 새끼 상호작용이 **다른 유전자를 거쳐 같은 조절 네트워크로 수렴**.
 
-**Result 3 — 행동: RE는 모성·해마 의존 학습을 강화한다**
+**Result 3 — 행동: RE는 모성·hippocampus 의존 학습을 강화한다**
 - 이유 **~16주 후** 평가.
 - **Pup retrieval**: RE(n=7)가 NP(n=6) 대비 유의하게 짧은 잠복(rmANOVA P=0.0029).
 - **맥락 공포 조건화**: RE가 획득(P=0.01)·맥락 회상(P<0.0001) 모두 강화.
@@ -58,7 +58,7 @@ pmid: 42162419
 **Result 5 — 세포타입과 도파민 수용체**
 - dHF **snRNA-seq 109,334 핵**(NP 37,030 / control RE 35,631 / stress RE 36,633), **16 클러스터**: 흥분성(DG·CA1·CA3·subiculum·mossy cell, 43.3%), GABAergic(GABA.1–4, 9.1%), 신경전구(neural stem·radial glia-like, 9.7%), 비신경(astrocyte·oligodendrocyte·OPC·microglia·immune, 37.9%).
 - **NP vs control RE** 차이는 흥분성 뉴런, 특히 **subiculum**에 집중. **control vs stress RE** 차이는 **GABA.2와 mossy cell**에 집중.
-- **GABA.2** 클러스터가 **Drd1·Drd2** 발현 농축. subclustering으로 Drd1형·Drd2형 하위집단 동정, 둘 다 control RE에서 변화. 배측 CA1 **FISH**로 검증. DG에서도 흥분성 Drd1(granule)·Drd2(hilar mossy) 세포에서 유사 변화.
+- **GABA.2** 클러스터가 **Drd1·Drd2** 발현 농축. subclustering으로 Drd1형·Drd2형 하위집단 동정, 둘 다 control RE에서 변화. dorsal CA1 **FISH**로 검증. DG에서도 흥분성 Drd1(granule)·Drd2(hilar mossy) 세포에서 유사 변화.
 - **도파민 정량**: 새끼 분리 시 NAc·dHF 모두 도파민 상승(절대치는 dHF가 훨씬 낮음 — 지배 밀도 반영). **반복 분리 시 dHF·NAc의 기저 도파민이 상승**(급성과 다름). → 저자 해석(가정): Drd1/2 발현이 **감소한 쪽은 control RE**(Fig. 2h: GABA.2 subclustering에서 control RE의 Drd1·Drd2 발현 감소)이며, 이 **Drd1/2 발현 뉴런 감소가 낮은 기저 도파민에 대한 보상 반응**일 수 있고 control RE에서 관찰된 도파민 관련 전사 활성 감소와 일치한다고 본다. 반복 분리(stress RE 패러다임)는 반대로 dHF·NAc 기저 도파민을 **올리며**(Fig. 2m), 저자는 이를 '산후 스트레스가 도파민 의존 dHF 적응을 교란하는가'의 맥락에서 제시. Result 7에서 NP-hM4Di(도파민 억제) 암컷이 control RE와 유사하게 **낮은 Drd1/Drd2 발현 세포 분포가 증가**한 것(Fig. 4g,h)과 정합.
 
 **Result 6 — Parity가 H3 dopaminylation을 하향 조절 (마우스 & 인간)**
@@ -97,7 +97,7 @@ pmid: 42162419
 - **도파민 작용의 축 확장**: 이 위키의 🎯 카테고리는 도파민을 주로 RPE·가치·동기 신호(빠른 시간척도)로 다뤄 왔다. H3 dopaminylation은 같은 분자가 **시간척도 수 개월의 크로마틴 상태**로 작동하는 경로를 추가한다.
 - **DOHaD 축의 상류 절반**: [[concept-maternal-programming-hypothalamus]]·[[freire-agulleiro-2026-early-life-programming-of]]는 **자손** 회로의 프로그래밍을 다룬다. 본 논문은 **모체 자신**의 뇌 재편이며, [[jamieson-2026-neural-circuits-for-mammalian-parental]]와 같은 층에 놓인다.
 - **인과 검증 템플릿**: 필요성 → 충분성 → 분자 인과(우성음성) → 종간 보존의 4단 구성은, 사용자 lab이 "대사 경험이 회로에 남기는 지속 흔적"을 주장할 때 요구될 증거 구조와 동일하다.
-- **주의할 경계**: 본 논문의 무대는 dHF·모성 행동이지 **시상하부·섭식이 아니다**. 섭식 회로로의 직접 연결은 이 논문에 없으며, 유비(도파민→히스톤→지속 표현형)로만 쓸 것. 인간 코호트는 **NP 3명 vs parous 5명**의 사후 뇌 조직으로, 표본이 작고 parity 외 교란(연령·사인·약물)이 완전히 통제되지 않는다.
+- **주의할 경계**: 본 논문의 무대는 dHF·모성 행동이지 **hypothalamus·섭식이 아니다**. 섭식 회로로의 직접 연결은 이 논문에 없으며, 유비(도파민→히스톤→지속 표현형)로만 쓸 것. 인간 코호트는 **NP 3명 vs parous 5명**의 사후 뇌 조직으로, 표본이 작고 parity 외 교란(연령·사인·약물)이 완전히 통제되지 않는다.
 
 ## 관련 페이지
 - [[concept-h3-dopaminylation]] — 본 논문의 핵심 기전 개념 hub(TG2·H3Q5·H3K4me3 공존·Q5A 우성음성).
@@ -107,7 +107,7 @@ pmid: 42162419
 - [[concept-early-life-adversity]] — 스트레스가 남기는 지속 취약성 축.
 - [[concept-maternal-programming-hypothalamus]] — 자손 프로그래밍 축(본 논문은 모체 쪽).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 모체 회로의 호르몬 유도 재편; 본 논문의 상위 맥락.
-- [[freire-agulleiro-2026-early-life-programming-of]] — 모체 비만 → 자손 시상하부 programming.
+- [[freire-agulleiro-2026-early-life-programming-of]] — 모체 비만 → 자손 hypothalamus programming.
 - [[concept-hippocampus-feeding]] — dHF/subiculum이 섭식 조절에서도 등장하는 부위라는 인접성(단 본 논문 주제는 아님).
 - [[concept-medial-preoptic-area]] — RE 고민감 부위 중 하나이자 모성 행동의 핵심 노드.
 - [[concept-nucleus-accumbens]] — RE 고민감 부위이자 새끼 분리 시 도파민 상승이 가장 큰 곳.

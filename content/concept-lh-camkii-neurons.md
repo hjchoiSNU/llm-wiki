@@ -20,7 +20,7 @@ LH에서 `AAV-CaMKIIα-프로모터`로 표지되는 뉴런은 *Camk2a* 발현�
 
 ## 왜 문제인가 — cortex의 직관이 hypothalamus에서 깨진다
 
-**피질에서의 통념 (배경지식)**: CaMKIIα(*Camk2a*)는 피질·해마의 **흥분성 추체뉴런 표준 마커**로 쓰여 왔고, `AAV-CaMKIIα-프로모터`는 Cre 계통 없이 흥분성 뉴런을 겨냥하는 관행적 도구가 되었다. 이 관행의 전제는 두 가지다 — ① 프로모터가 *Camk2a*⁺ 세포에서만 구동된다, ② *Camk2a*⁺ = 흥분성.
+**cortex에서의 통념 (배경지식)**: CaMKIIα(*Camk2a*)는 cortex·hippocampus의 **흥분성 추체뉴런 표준 마커**로 쓰여 왔고, `AAV-CaMKIIα-프로모터`는 Cre 계통 없이 흥분성 뉴런을 겨냥하는 관행적 도구가 되었다. 이 관행의 전제는 두 가지다 — ① 프로모터가 *Camk2a*⁺ 세포에서만 구동된다, ② *Camk2a*⁺ = 흥분성.
 
 **LH에서는 두 전제가 서로 다른 방식으로 깨진다.** 이 두 문제를 구분하는 것이 이 페이지의 핵심이다.
 
@@ -29,7 +29,7 @@ LH에서 `AAV-CaMKIIα-프로모터`로 표지되는 뉴런은 *Camk2a* 발현�
 | **프로모터 충실도 (promoter fidelity)** | 프로모터가 *Camk2a*⁺ 세포에서 구동되는가? | **예.** mCherry⁺ 934세포 중 **95.6 ± 0.4%**가 *Camk2a* mRNA 공발현(RNAscope, 3마리) | [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] Fig. S2 |
 | **세포 유형 특이성 (cell-type specificity)** | *Camk2a*⁺가 하나의 세포 유형인가? | **아니다.** 같은 집단이 Vglut2⁺ 78.7 ± 3.7% / Vgat⁺ 33 ± 2.2%(IHC Gad2⁺ 20.1 ± 0.7%)로 쪼개진다 | [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] Fig. 3C·S2 |
 
-- **왜 ①이 쟁점이 되었나**: **Veres 2023 (eNeuro)** 가 CaMKIIα 프로모터가 **CaMKIIα 단백질이 없는 피질 interneuron에서도 transgene을 구동**한다고 보고했다(He 2021 RNAscope, Liu & Jones 1996, Sik 1998과 대조). 즉 프로모터 자체의 누출 문제다. Heiss 2024는 이 보고를 **명시적 동기**로 삼아 LH에서 RNAscope로 재검증했고, 95.6% 공발현으로 **누출 문제를 방어했다**. (Veres 2023 자체는 위키에 1차 페이지가 없다 — Heiss 2024 경유 인용.)
+- **왜 ①이 쟁점이 되었나**: **Veres 2023 (eNeuro)** 가 CaMKIIα 프로모터가 **CaMKIIα 단백질이 없는 cortex interneuron에서도 transgene을 구동**한다고 보고했다(He 2021 RNAscope, Liu & Jones 1996, Sik 1998과 대조). 즉 프로모터 자체의 누출 문제다. Heiss 2024는 이 보고를 **명시적 동기**로 삼아 LH에서 RNAscope로 재검증했고, 95.6% 공발현으로 **누출 문제를 방어했다**. (Veres 2023 자체는 위키에 1차 페이지가 없다 — Heiss 2024 경유 인용.)
 - **그러나 ①을 방어하는 것이 ②를 방어하지 않는다.** Heiss 2024가 같은 Fig. S2에서 보여준 것은, 프로모터가 정확히 겨눈 *Camk2a*⁺ 집단 자체가 **LH에서는 전달물질 혼합**이라는 사실이다. 저자들도 Discussion에서 "CaMKIIα 프로모터로 표지된 세포의 약 **20–30%가 GABAergic**"이라고 정식화하고, 다음 단계로 "**CaMKIIα보다 더 특이적인** 분자 마커 동정"을 꼽는다.
 - **census와도 대응되지 않는다**: [[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]의 LHA 15 GABA + 15 glutamatergic 클러스터 중 *Camk2a*가 지정하는 클러스터는 없다 — *Camk2a*는 여러 클러스터에 걸치는 **농축 마커**다. [[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]의 24유전자 EASI-FISH 패널에도 *Camk2a*는 **들어 있지 않다**(패널은 *Otp*/*Meis2* × *Slc17a6*/*Slc32a1* 축으로 짜였다). 즉 **CaMKIIα 라벨은 LHA의 어느 분자 좌표계에도 등록되어 있지 않다.**
 - **같은 함정의 일반형**: LH에서 전달물질 귀속이 marker 선택에 따라 뒤집히는 사례는 CaMKIIα만이 아니다 — MCH(*Gad1* 98% vs *Slc32a1* 미검출), Hcrt(*Gad1* 56%·*Gad2* 16% vs Vgat 1.5%), Th(흥분성·억제성 클러스터 양쪽), Sst(아영역에 따라 GABA 97% ↔ 56%). [[concept-neurotransmitter-cotransmission]]·[[overview-lateral-hypothalamus-synthesis]] §2.3 표 5 참조.
@@ -38,7 +38,7 @@ LH에서 `AAV-CaMKIIα-프로모터`로 표지되는 뉴런은 *Camk2a* 발현�
 
 | 항목 | [[heiss-2024-distinct-lateral-hypothalamic-camkiia\|Heiss 2024 (PNAS)]] | [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein\|Tan 2022 (Research)]] |
 |---|---|---|
-| **좌표/부위** | AP **−1.4**, ML ±1.0–1.2, DV −4.7~−4.8 (**pia 기준**). perifornical ~ tuberal LH. 감염 범위 fornix 외측 ~ cerebral peduncle 내측 | AP **−1.3**, ML ±1.0, DV −5.0 (**bregma 기준**). "LH" (하위구역 명시 없음) |
+| **좌표/부위** | AP **−1.4**, ML ±1.0–1.2, DV −4.7~−4.8 (**pia 기준**). perifornical ~ tuberal LH. 감염 범위 fornix lateral ~ cerebral peduncle medial | AP **−1.3**, ML ±1.0, DV −5.0 (**bregma 기준**). "LH" (하위구역 명시 없음) |
 | **AAV serotype·프로모터** | **AAV8**-CaMKIIα-HA-hM3D(Gq)-IRES-mCitrine(370 nL 양측) / AAV8-CaMKIIα-hM3D(Gq)-mCherry(100 nL) / **AAV9**-CaMKII-GCaMP6f(370 nL) | **AAV2/8**(ChR2, hM4Di, ArchT) · **AAV2/9**(GCaMP6s, DO-GCaMP6s), 각 0.1 μL, 20 nL/min |
 | **검증 방법** | ⚠️ 항체 단독이 아니다 — **RNAscope FISH(*Camk2a*·*Slc17a6*·*Slc32a1*)** + **Gad2-IRES-Cre;R26R-EYFP 리포터 이중 IHC** + Hcrt·ADA 항체 | ⚠️ **CaMKIIα 항체 단독** (각 바이러스별로 발현 세포 중 항체 양성률만 보고) + GABA는 **Vgat-cre × Ai47** 리포터, vGluT2는 **vGluT2-cre** 교차 |
 | ***Camk2a* mRNA 일치율** | **95.6 ± 0.4%** (mCherry⁺ 934세포, 3마리, RNAscope) | **측정하지 않음.** 대신 항체 양성률 **97–98.5%** (GCaMP6s 844/857=98.48%; ChR2 578/591=97.80%; hM4Di 482/495=97.37%) — ⚠️ CaMKIIα 프로모터를 CaMKIIα 항체로 검증한 **순환 논증** |
@@ -180,7 +180,7 @@ Heiss 2024는 CaMKIIα 라벨의 **20–33%가 GABAergic**이라고 세고 그 �
 **분자 좌표계 — 라벨을 등록할 곳**
 - [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — LHA 15+15 census. *Camk2a*는 어느 클러스터도 지정하지 않는다는 판단의 근거.
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — EASI-FISH 9개 분자 하위구역. 패널에 *Camk2a*가 없고, 재탐침으로 추가 가능.
-- [[concept-hypomap]] — 시상하부 atlas 기준에서 프로모터 라벨의 위치.
+- [[concept-hypomap]] — hypothalamus atlas 기준에서 프로모터 라벨의 위치.
 - [[concept-neurotransmitter-cotransmission]] — 드라이버·마커 함정의 일반 틀. "*Gad* 발현 ≠ GABA 방출"과 "프로모터 ≠ 세포 유형"을 구분해 적는 곳.
 - [[concept-activity-molecular-registration]] — 라벨 논쟁의 출구. 기록한 세포의 정체를 사후에 읽는 CaRMA·TRU-FACT.
 

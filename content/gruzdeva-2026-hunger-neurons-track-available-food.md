@@ -9,7 +9,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **AgRP hunger 뉴런이 "지금 배고픈가"를 넘어 "먹이가 어디에 있는가(거리)"까지 연속적으로 부호화**한다. 자유 foraging 중 AgRP 활성이 먹이까지의 **공간 거리에 비례**해 접근 시 하강·이탈 시 상승하는 **양방향 ramp**를 그리고, 이 신호는 (i) **단식 상태에서만**, (ii) **먹이를 발견해 학습한 뒤에만** 나타나며, (iii) 먹이를 치운 뒤 **기억 회상 중에도 유지**(시각 의존). → 사용자 lab의 [[kim-2024-normative-framework-dissociates-need|AgRP=Predicted Deficit(Need)]] 이론에 **공간(spatial) 차원**을 추가하는 결과: Need는 시간적 예측뿐 아니라 **"먹이까지의 거리"라는 학습된 공간 예측**으로도 계산된다. [[walker-2026-a-hypothalamic-circuit-for|Walker 2026]]의 "미래 결핍 예측" 회로와 짝을 이루며, 저자들이 제안한 **해마→LS→LH→DMH→AgRP** 후보 경로는 [[concept-hippocampus-feeding|해마-섭식 축]]을 hunger 회로에 직접 잇는 검증 가능한 가설. NMPU에서 Need(AgRP)와 Motivation(LH^LepR) 사이에 **공간 정보가 어디서 주입되는가**를 묻는 후속 실험 설계의 근거.
+> **AgRP hunger 뉴런이 "지금 배고픈가"를 넘어 "먹이가 어디에 있는가(거리)"까지 연속적으로 부호화**한다. 자유 foraging 중 AgRP 활성이 먹이까지의 **공간 거리에 비례**해 접근 시 하강·이탈 시 상승하는 **양방향 ramp**를 그리고, 이 신호는 (i) **단식 상태에서만**, (ii) **먹이를 발견해 학습한 뒤에만** 나타나며, (iii) 먹이를 치운 뒤 **기억 회상 중에도 유지**(시각 의존). → 사용자 lab의 [[kim-2024-normative-framework-dissociates-need|AgRP=Predicted Deficit(Need)]] 이론에 **공간(spatial) 차원**을 추가하는 결과: Need는 시간적 예측뿐 아니라 **"먹이까지의 거리"라는 학습된 공간 예측**으로도 계산된다. [[walker-2026-a-hypothalamic-circuit-for|Walker 2026]]의 "미래 결핍 예측" 회로와 짝을 이루며, 저자들이 제안한 **hippocampus→LS→LH→DMH→AgRP** 후보 경로는 [[concept-hippocampus-feeding|hippocampus-섭식 축]]을 hunger 회로에 직접 잇는 검증 가능한 가설. NMPU에서 Need(AgRP)와 Motivation(LH^LepR) 사이에 **공간 정보가 어디서 주입되는가**를 묻는 후속 실험 설계의 근거.
 
 # Hunger neurons track available food locations during foraging and spatial memory recall
 
@@ -64,16 +64,16 @@ year: 2026
 ### 해석·함의 (Discussion)
 - AgRP의 공간 표상은 **1차 공간 지도(place map)라기보다 학습된·가치 및 상태 gated 기대(expectation) 신호**로 가장 절약적으로 해석됨.
 - 기존 anticipatory drop이 **수 초 규모의 이산 감각 cue** 반응이라면, 여기서는 접근 중 **수십 초에 걸친 점진적 감소**(실제로 먹었는지와 무관)이며 이탈 시 증가.
-- **도파민과 반대 부호**: 중뇌 도파민 활성·선조체 도파민 방출은 원거리 보상으로 접근할수록 **상승**(거리·가치에 비례). AgRP는 **하강** — 예상된 식사가 가까워지며 해소되는 hunger 신호에 부합. → [[concept-dopamine-reward-system|도파민 ramp]]와 **거울상**을 이루는 두 축.
+- **도파민과 반대 부호**: midbrain 도파민 활성·striatum 도파민 방출은 원거리 보상으로 접근할수록 **상승**(거리·가치에 비례). AgRP는 **하강** — 예상된 식사가 가까워지며 해소되는 hunger 신호에 부합. → [[concept-dopamine-reward-system|도파민 ramp]]와 **거울상**을 이루는 두 축.
 - 기능 가설: 근접 시↓·이탈 시↑ 신호는 **기억된 먹이 쪽으로 편향**시키고 **언제 떠날지(leaving decision)** 에 영향. 대사상태 gating 덕분에 "임의의 장소"가 아니라 **먹이 장소의 공간 기억을 선택적으로 동원**하는 기전이 될 수 있음.
-- **공간 정보의 상류 후보**: AgRP의 두 주요 입력인 [[concept-paraventricular-nucleus|PVH]]와 [[concept-dorsomedial-hypothalamus|DMH]]. LH→DMH→AgRP가 AgRP anticipatory 활성에 기여한다는 보고 + 해마 공간 신호가 외측중격(LS)을 통해 foraging 기억에 필수·LS→LH 투사 → 저자 제안 경로 **해마 → LS → LH → DMH → AgRP**. 미검증 가설.
+- **공간 정보의 상류 후보**: AgRP의 두 주요 입력인 [[concept-paraventricular-nucleus|PVH]]와 [[concept-dorsomedial-hypothalamus|DMH]]. LH→DMH→AgRP가 AgRP anticipatory 활성에 기여한다는 보고 + hippocampus 공간 신호가 lateral septum(LS)을 통해 foraging 기억에 필수·LS→LH 투사 → 저자 제안 경로 **hippocampus → LS → LH → DMH → AgRP**. 미검증 가설.
 - ⚠️ 한계: preprint(미심사). photometry 집단 신호라 세포 수준 공간 튜닝은 불명. 인과 조작(회로 차단 시 foraging 손상 여부) 없음. 거리 신호가 실제로 **행동을 지시하는지**는 미해결(상관 수준).
 
 ## 관련 페이지
 - [[concept-npy-agrp-neurons]] — 본 논문의 대상 세포집단. AgRP가 부호화하는 변수 목록에 **학습된 공간 거리**를 추가.
 - [[kim-2024-normative-framework-dissociates-need]] — **AgRP=Predicted Deficit(Need)** 정량 이론(사용자 lab). 본 논문의 거리 gradient는 "예측된 결핍"이 *공간적으로* 갱신되는 형태로 읽힘(접근=predicted gain→↓, 이탈=predicted loss→↑).
-- [[walker-2026-a-hypothalamic-circuit-for]] — AgRP의 **미래 결핍 예측**(먹이 부재·탐색 실패)을 나르는 상류 PVH^Sim2 회로. 본 논문은 같은 "예측기 AgRP" 그림의 공간 축; Walker가 지목한 피질·복측 해마 입력과 본 논문의 해마→LS→LH→DMH 가설이 수렴.
-- [[concept-hippocampus-feeding]] — 해마-섭식 축. 본 논문이 제안한 공간 정보 전달 경로의 출발점이자, 시각 의존적 기억 회상과 AgRP 신호가 함께 소실된다는 관찰의 해석 틀.
+- [[walker-2026-a-hypothalamic-circuit-for]] — AgRP의 **미래 결핍 예측**(먹이 부재·탐색 실패)을 나르는 상류 PVH^Sim2 회로. 본 논문은 같은 "예측기 AgRP" 그림의 공간 축; Walker가 지목한 cortex·ventral hippocampus 입력과 본 논문의 hippocampus→LS→LH→DMH 가설이 수렴.
+- [[concept-hippocampus-feeding]] — hippocampus-섭식 축. 본 논문이 제안한 공간 정보 전달 경로의 출발점이자, 시각 의존적 기억 회상과 AgRP 신호가 함께 소실된다는 관찰의 해석 틀.
 - [[concept-dorsomedial-hypothalamus]] · [[concept-lateral-hypothalamus]] — 제안된 relay(LH→DMH→AgRP). LH는 [[kim-2024-normative-framework-dissociates-need|Motivation]] 축이기도 해, 공간 정보가 Need/Motivation 어디로 들어가는지가 후속 질문.
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — vDMH^LepR/pDYN이 음식 **가치·가시성**에 반응해 AgRP를 끄는 억제 입력. 본 논문의 "거리=가용성 기대"와 같은 preconsummatory 계열.
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 섭취 bout마다의 taste 매개 AgRP 억제. 본 논문은 그보다 **느린(수십 초) 공간 규모**의 조절로 시간척도가 다름.
@@ -83,8 +83,8 @@ year: 2026
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동을 상태로 분해하는 분석 프레임; 본 논문의 toward/away segmentation과 방법론적 자매.
 - [[concept-dopamine-reward-system]] — 접근 시 **상승**하는 도파민 ramp와 **하강**하는 AgRP ramp의 부호 대비.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ 본 논문이 제안한 **해마→LS→LH→DMH→AgRP** 가설의 **첫 구간을 실증**: 복측 해마(vCA1·vCA3·ProS)→LS가 실재하며 **cue-outcome 정보**를 나른다(photometry+광억제). ⚠️ 단 이 논문이 매핑한 시상하부 축은 **LHA→LS(상행)** 로 방향이 반대여서, 가설이 성립하려면 **LS↔LH 상호 회로**를 전제해야 한다. 방향성 검증이 후속 실험 1순위 (Nature 2026). → [[concept-lateral-septum]]
-- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★★ 본 논문의 **해마→LS→LH** 구간이 실증됨: 배측 해마 CA3/2→**DLS^Pdyn**→**LHA GABA(Vgat) 단시냅스 억제**(ex vivo IPSC). 어느 지점을 끊어도 **맥락 조건화 섭식만** 무너지고 총 섭취량은 보존. 남은 미검증 구간은 **LH→DMH→AgRP** (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — ★ 본 논문이 제안한 **hippocampus→LS→LH→DMH→AgRP** 가설의 **첫 구간을 실증**: ventral hippocampus(vCA1·vCA3·ProS)→LS가 실재하며 **cue-outcome 정보**를 나른다(photometry+광억제). ⚠️ 단 이 논문이 매핑한 hypothalamus 축은 **LHA→LS(상행)** 로 방향이 반대여서, 가설이 성립하려면 **LS↔LH 상호 회로**를 전제해야 한다. 방향성 검증이 후속 실험 1순위 (Nature 2026). → [[concept-lateral-septum]]
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★★ 본 논문의 **hippocampus→LS→LH** 구간이 실증됨: dorsal hippocampus CA3/2→**DLS^Pdyn**→**LHA GABA(Vgat) 단시냅스 억제**(ex vivo IPSC). 어느 지점을 끊어도 **맥락 조건화 섭식만** 무너지고 총 섭취량은 보존. 남은 미검증 구간은 **LH→DMH→AgRP** (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS→LH 하행의 두 번째 채널(LS^Nts, 능동 도피 스트레스 시 섭식 억제). LS→LH는 단일 경로가 아니다 (eLife 2020).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — foraging patch-leaving(MVT)형 "현재 옵션 가치 vs 환경 평균" 감시 알고리즘이 인간 목표 포기의 원형; AgRP 거리 ramp가 그 신호의 회로 후보(연결 가설).
-- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 논문이 제안한 **해마→LS→LH→DMH→AgRP** 가설의 **LS→LH 구간을 보강하는 세 번째 분자 채널**: dLS^GLP-1R → LHA GABA성 단시냅스 억제(oIPSC 5/8, TTX→4-AP 회복, PTX 차단)이고 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓. LS→LH 하행은 이제 `Pdyn`([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode]])·`Nts`([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo]])·`Glp1r`(본 항목) **세 채널**이다. ⚠️ 단 Lu는 해마 입력을 매핑하지 않았고 LHA 하류 세포형도 추정만 했으므로, 가설의 **DMH·AgRP 구간은 여전히 미검증** (bioRxiv preprint 2024 → Mol Metab 85:101960).
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 논문이 제안한 **hippocampus→LS→LH→DMH→AgRP** 가설의 **LS→LH 구간을 보강하는 세 번째 분자 채널**: dLS^GLP-1R → LHA GABA성 단시냅스 억제(oIPSC 5/8, TTX→4-AP 회복, PTX 차단)이고 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓. LS→LH 하행은 이제 `Pdyn`([[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode]])·`Nts`([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo]])·`Glp1r`(본 항목) **세 채널**이다. ⚠️ 단 Lu는 hippocampus 입력을 매핑하지 않았고 LHA 하류 세포형도 추정만 했으므로, 가설의 **DMH·AgRP 구간은 여전히 미검증** (bioRxiv preprint 2024 → Mol Metab 85:101960).

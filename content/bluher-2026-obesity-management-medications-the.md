@@ -52,10 +52,10 @@ journal: "Science 394(6824):626–632 (5 November 2026), Review, 특집 'GLP-1 a
 - 피하지방(특히 둔부·대퇴)은 비교적 안전한 저장소, 내장지방(특히 대망)은 면역·염증 활성이 크고 인슐린 저항·심혈관대사 질환과 더 강하게 연관. 갈색지방(쇄골위·깊은 목·신장 주위)과 베이지 지방세포는 비떨림 열생산에 기여.
 - 기능장애: 지방세포 비대, 면역세포 증가, 세포 조성 변화, 피하지방 확장 한계, 내장·간 등의 이소성 지방 → 염증성·당뇨 유발·동맥경화 유발 신호.
 - 저자 주장: 지방조직 기능장애에서 오는 저등급 전신 염증이 **약 효능을 낮추고 "obesogenic memory"를 촉진해 감량 뒤 재증가에 기여**할 수 있다. 지방조직 기능장애를 직접 겨누는 승인약·임상 후보는 **없다**. 인크레틴 치료가 CRP를 낮추므로 효과 일부는 항염증 작용일 수 있다.
-- 단일유전자·증후군 비만은 표적 치료로 이어졌다: **metreleptin**(렙틴 결핍), **setmelanotide**(POMC·PCSK1·LEPR 양대립 기능소실, Bardet-Biedl 증후군, 후천성 [[concept-hypothalamic-obesity|시상하부 비만]]) — [[concept-mc4r]], [[concept-leptin]].
+- 단일유전자·증후군 비만은 표적 치료로 이어졌다: **metreleptin**(렙틴 결핍), **setmelanotide**(POMC·PCSK1·LEPR 양대립 기능소실, Bardet-Biedl 증후군, 후천성 [[concept-hypothalamic-obesity|hypothalamus 비만]]) — [[concept-mc4r]], [[concept-leptin]].
 
 ### 5. 최근 진전
-- 원칙적으로 비만약은 섭취와 소비를 모두 겨눠야 하지만, 승인약(orlistat·naltrexone/bupropion·인크레틴)은 **주로 섭취**에 작용한다. 뇌가 지방조직·위장관·간·췌장의 말초 신호를 통합해 배고픔·식욕·포만·전신 대사를 조절한다.
+- 원칙적으로 비만약은 섭취와 소비를 모두 겨눠야 하지만, 승인약(orlistat·naltrexone/bupropion·인크레틴)은 **주로 섭취**에 작용한다. 뇌가 지방조직·gastrointestinal tract·간·췌장의 말초 신호를 통합해 배고픔·식욕·포만·전신 대사를 조절한다.
 - GLP-1 기반 치료는 전 세계 약 1,500만–2,000만 명이 쓰는 것으로 추정(이 수치에 붙은 refs 22·23은 1987년 GLP-1 발견 논문이라 수치의 출처는 본문에서 확인되지 않는다).
 - semaglutide: 평균 ~15% 감량, **SELECT**에서 주요 심혈관 사건 20% 감소(BMI·HbA1c·신장 기능·염증 상태 하위군 전반). 단 SELECT는 **감량과 독립된 심혈관 이득을 입증하도록 설계되지 않았다**([[gonzalez-rellan-2026-weight-loss-independent-actions-of]]의 매개 분석과 함께 읽을 것).
 - 약물과 수술 사이의 감량 격차 → 수술의 효과가 GLP-1R 단독으로 재현되지 않는 **조율된 장호르몬 신호**에서 온다는 개념에서 다중작용제가 나왔다. tirzepatide 15 mg 주 1회 최대 3년 ~20% 감량(Jastreboff 2025 NEJM, ref 8). **retatrutide는 phase 3에서 최고 용량 거의 30% 감량**(Jastreboff 2026 NEJM, ref 25 — 위키 `raw/`에 없음).
@@ -63,8 +63,8 @@ journal: "Science 394(6824):626–632 (5 November 2026), Review, 특집 'GLP-1 a
 
 ### 6. 왜 더 많은 약이 필요한가 (Box 1, Fig. 1)
 - 효능 부족·부작용·비용·건강/삶의 질 개선 정체로 중단하는 환자가 있다.
-- Box 1: 높은 유병률, 더 큰 감량, 반응 이질성(비반응자), 내약성(위장관), 합병증 예방·치료, **중단 후 재증가**, 다른 투여 경로, **약물 치료 중 대사·식욕 조절의 적응**, 개인화, 과도한 제지방 손실·근감소성 비만, 접근성·비용(순응).
-- 19개 약물·262개 시험·99,791명(추적 12–172주) 네트워크 메타분석: 감량이 클수록 부작용(위장관 증상·피로·제지방 손실)과 중단율이 높다(Nong 2026 BMJ).
+- Box 1: 높은 유병률, 더 큰 감량, 반응 이질성(비반응자), 내약성(gastrointestinal tract), 합병증 예방·치료, **중단 후 재증가**, 다른 투여 경로, **약물 치료 중 대사·식욕 조절의 적응**, 개인화, 과도한 제지방 손실·근감소성 비만, 접근성·비용(순응).
+- 19개 약물·262개 시험·99,791명(추적 12–172주) 네트워크 메타분석: 감량이 클수록 부작용(gastrointestinal tract 증상·피로·제지방 손실)과 중단율이 높다(Nong 2026 BMJ).
 - 개인차는 유전·성·대사·동반질환과 관련되고, **GLP-1R·GIPR 유전 변이가 효능과 오심·구토 모두와 연관**됐다(Su 2026 Nature = [[su-2026-genetic-predictors-of-glp1-receptor]]) → 비반응자에게는 비인크레틴 기전이 유용할 수 있다.
 - 제지방: 감량 개입은 지방과 제지방을 모두 줄이나, 인크레틴 치료의 근육 손실은 처음 생각보다 덜 해로울 수 있고 근력 보존·체성분 개선을 보고한 개념 증명 연구가 있다.
 - 중단 후 지속: 만성 재발성 질환이므로 이상적으로는 유지 용량을 낮추거나 중단 후에도 효과가 남아야 한다. 약이 재증가의 생물학적 기전을 이길 수 있는지는 **열린 질문**([[concept-weight-regain-defended-adiposity]]).
@@ -119,6 +119,6 @@ journal: "Science 394(6824):626–632 (5 November 2026), Review, 특집 'GLP-1 a
 - [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] · [[rosenstock-2026-oral-small-molecule-glp]] · [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-cagrilintide-semaglutide-cagrisema-as]] — 제형·병용 개별 임상.
 - [[concept-glucagon-receptor-agonism]] · [[concept-gip]] · [[concept-amylin-receptor-agonists]] · [[concept-glp-1]] — 수용체별 hub.
 - [[concept-weight-regain-defended-adiposity]] — 중단 후 재증가.
-- [[concept-hypothalamic-obesity]] · [[concept-mc4r]] · [[concept-leptin]] — 단일유전자·시상하부 비만 표적 치료.
+- [[concept-hypothalamic-obesity]] · [[concept-mc4r]] · [[concept-leptin]] — 단일유전자·hypothalamus 비만 표적 치료.
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 체중 독립 효과 논쟁.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 현행 표준 기준선.

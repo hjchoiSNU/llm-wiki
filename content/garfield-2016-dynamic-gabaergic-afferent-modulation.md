@@ -17,7 +17,7 @@ year: 2016
 - **소속**: BIDMC·Harvard Medical School 외. 교신 **[[person-lowell-bradford|Bradford B. Lowell]]**·Michael J. Krashes·Mark L. Andermann(공동). 제1저자 Alastair S. Garfield. Martin G. Myers Jr 등 식욕 회로 주요 그룹 결집.
 
 ## 한 줄 요약
-ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 상류 집단이 **복측 DMH의 LepR/pDYN 발현 뉴런(vDMH^LepR/pDYN)**임을 회로·광유전·photometry로 동정 — 이들은 음식 탐지 시 빠르게 활성화되어 AgRP를 억제하고, 음식의 가용성뿐 아니라 **가치·질**을 실시간 전달한다.
+ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 상류 집단이 **ventral DMH의 LepR/pDYN 발현 뉴런(vDMH^LepR/pDYN)**임을 회로·광유전·photometry로 동정 — 이들은 음식 탐지 시 빠르게 활성화되어 AgRP를 억제하고, 음식의 가용성뿐 아니라 **가치·질**을 실시간 전달한다.
 
 ## 핵심 내용
 
@@ -42,7 +42,7 @@ ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 
 
 ### 의의 (Discussion)
 - **GABAergic vDMH^LepR/pDYN = AgRP 빠른 sensory-cue 조절을 매개하는 생리적으로 유의한 억제 afferent**. AgRP의 preconsummatory suppression이 호르몬이 아닌 **시냅스 매개**임을 회로로 입증.
-- 이 vDMH^LepR(복측·GABAergic·AgRP 억제·체중)은 **배측 DMH^LepR(glutamatergic·EE/thermogenesis·melanocortin 비의존, Rezai-Zadeh 2014)** 와 공간·신경화학·기능 모두 구별. 심혈관·EE 회로와 분리.
+- 이 vDMH^LepR(ventral·GABAergic·AgRP 억제·체중)은 **dorsal DMH^LepR(glutamatergic·EE/thermogenesis·melanocortin 비의존, Rezai-Zadeh 2014)** 와 공간·신경화학·기능 모두 구별. 심혈관·EE 회로와 분리.
 - 소비 중 AgRP의 *지속적* 억제는 vDMH^LepR 응답이 소비 전 peak 후 감쇠하므로 **다른 입력**(PVH GABA, ARC^vGAT, dynorphin 느린 작용 등)이 분담 — 이후 [[walker-2026-a-hypothalamic-circuit-for|Walker 2026]]이 PVH^Sim2 흥분성 입력으로 그림을 보강.
 - 비만·식이장애의 **sensory cue↔feeding 부적응 연합**을 vDMH^LepR 실시간 모니터링으로 탐구 가능(diet-induced/genetic obesity).
 
@@ -50,7 +50,7 @@ ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 
 - [[walker-2026-a-hypothalamic-circuit-for]] — **거울상 회로**(같은 Lowell lab): 음식 cue 시 AgRP는 *흥분성 PVH^Sim2 입력↓ + 억제성 vDMH^LepR 입력↑* 양방향으로 꺼짐. Walker가 본 논문을 AgRP 빠른 조절의 억제 성분으로 인용.
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 같은 **DMH^LepR→AgRP 억제 회로**의 후속(Knight lab): 본 논문이 음식 *sight/availability·가치*에 활성, Aitken은 *taste(gustatory)*에 동조해 bout마다 AgRP를 끄고 meal termination 매개 (Neuron 2024).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — 같은 Lowell lab의 짝: Krashes가 AgRP **흥분성** PVH(TRH/PACAP) 입력을 정의, 본 논문은 AgRP **억제성** vDMH^LepR 입력을 정의 (Nature 2014).
-- [[concept-dorsomedial-hypothalamus]] — vDMH^LepR/pDYN(복측·GABAergic·AgRP 억제)이 배측 DMH^LepR(EE)·DMH GLP-1R와 구별되는 DMH subpopulation.
+- [[concept-dorsomedial-hypothalamus]] — vDMH^LepR/pDYN(ventral·GABAergic·AgRP 억제)이 dorsal DMH^LepR(EE)·DMH GLP-1R와 구별되는 DMH subpopulation.
 - [[concept-npy-agrp-neurons]] — 본 회로의 하류 표적; preconsummatory suppression의 시냅스 출처.
 - [[concept-arcuate-nucleus]] — AgRP가 받는 vDMH 억제 입력.
 - [[concept-leptin]] — vDMH afferent를 표지하는 LepR; leptin이 이 GABAergic 뉴런을 depolarize(기저 활성 조절).
@@ -60,7 +60,7 @@ ARC^AgRP 뉴런에 **고도로 선택적인 GABAergic 억제 입력**을 주는 
 - [[concept-glp-1]] — Webster 2024가 caudal ARC inhibitory subset을 Trh⁺/Glp1r⁺/Lepr⁺로 묶음(DMH LepR/GLP-1R 신호 수렴 맥락).
 - [[person-lowell-bradford]] — 교신저자(공동 Krashes·Andermann).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[concept-dynorphin-kappa-opioid]] — 본 논문의 **vDMH^LepR/pDYN** 입력이 속한 dynorphin/KOR 개념 hub. [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]이 외측중격에서 `Pdyn` **삭제만으로 맥락 조건화 섭식이 무너짐**을 보여, dynorphin이 마커가 아니라 계산에 필요한 펩티드임을 시사.
+- [[concept-dynorphin-kappa-opioid]] — 본 논문의 **vDMH^LepR/pDYN** 입력이 속한 dynorphin/KOR 개념 hub. [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]이 lateral septum에서 `Pdyn` **삭제만으로 맥락 조건화 섭식이 무너짐**을 보여, dynorphin이 마커가 아니라 계산에 필요한 펩티드임을 시사.
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — **층위 대비의 짝**: Wang 2015는 영역 수준에서 DM이 POMC·AgRP 양쪽에 투사한다고 보고하고, 본 논문은 세포 수준에서 그 DM 안의 **vDMH^LepR/pDYN이 AgRP 100% vs POMC 9%로 선택적**임을 보인다. '같은 핵에서 입력을 받는다'가 '같은 뉴런에서 받는다'를 뜻하지 않는다는 위키 내 표준 사례 (Front Neuroanat 2015).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — 같은 AgRP 뉴런의 **흥분성 입력 쪽 가소성**을 입력별로 분해(PVH^TRH=전시냅스 / DMH^Vglut2=후시냅스). 본 논문이 다룬 vDMH^LepR **억제성** 입력에도 대응하는 가소성이 있는지는 아직 미탐색 (Cell Metab 2023, Fenselau·Lowell).
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — AgRP 흥분성 입력이 단식에 강화된다는 시냅스 배경(본 논문의 억제 입력과 함께 읽으면 단식 상태의 흥분/억제 균형 전체가 보인다) (Cell 2011).

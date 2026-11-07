@@ -9,7 +9,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> GPCR을 표적하는 **작용제·길항제를 항체/펩타이드 스크리닝 없이 컴퓨터로 de novo 설계**할 수 있음을 처음으로 폭넓게 입증 — 사용자의 GPCR 표적 치료제(식욕·대사 수용체) + AI 단백질 설계 두 축에 정확히 걸친다. 이 논문이 이미 **[[concept-mc4r|MC4R]], [[concept-glp-1|GLP1R]], [[concept-gip|GIPR]], GCGR** 등 대사·식욕 GPCR을 설계 표적에 포함하고 class B ECD 길항제까지 만들었다 → 시상하부 식욕회로 수용체를 겨냥한 맞춤 miniprotein 설계의 직접 template. **partial vs full agonism을 설계로 튜닝**한 점은 오심 없는 [[concept-biased-agonism|biased]] 리간드 전략에 시사적.
+> GPCR을 표적하는 **작용제·길항제를 항체/펩타이드 스크리닝 없이 컴퓨터로 de novo 설계**할 수 있음을 처음으로 폭넓게 입증 — 사용자의 GPCR 표적 치료제(식욕·대사 수용체) + AI 단백질 설계 두 축에 정확히 걸친다. 이 논문이 이미 **[[concept-mc4r|MC4R]], [[concept-glp-1|GLP1R]], [[concept-gip|GIPR]], GCGR** 등 대사·식욕 GPCR을 설계 표적에 포함하고 class B ECD 길항제까지 만들었다 → hypothalamus 식욕회로 수용체를 겨냥한 맞춤 miniprotein 설계의 직접 template. **partial vs full agonism을 설계로 튜닝**한 점은 오심 없는 [[concept-biased-agonism|biased]] 리간드 전략에 시사적.
 
 # GPCR를 표적하는 미니단백질의 de novo 설계 (Muratspahić 2026)
 

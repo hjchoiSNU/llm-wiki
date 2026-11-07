@@ -18,7 +18,7 @@ year: 2021
 
 ## 핵심 내용
 - **핵심 과정 vs 의식**: 'liking'/'wanting' 핵심 과정은 의식적·주관적 느낌과 구별되며, 의식적 자각 없이도 작동한다.
-- **'liking' 핫스폿(작고 fragile하게 분산)**: [[concept-orbitofrontal-cortex]](OFC), insula, NAc, ventral pallidum(VP), 뇌교 parabrachial nucleus. 각 핫스폿은 쥐에서 ~1~수 mm³ 규모. opioid/endocannabinoid/orexin/GABA-benzodiazepine 자극이 hotspot에서 'liking'을 증강; coldspot이나 hotspot 밖에서는 무효하거나 오히려 억제. → [[concept-hedonic-hotspot]].
+- **'liking' 핫스폿(작고 fragile하게 분산)**: [[concept-orbitofrontal-cortex]](OFC), insula, NAc, ventral pallidum(VP), pons parabrachial nucleus. 각 핫스폿은 쥐에서 ~1~수 mm³ 규모. opioid/endocannabinoid/orexin/GABA-benzodiazepine 자극이 hotspot에서 'liking'을 증강; coldspot이나 hotspot 밖에서는 무효하거나 오히려 억제. → [[concept-hedonic-hotspot]].
 - **회로 만장일치 필요**: 한 핫스폿을 활성화하면 다른 핫스폿이 동원되고, 한 곳에서 opioid를 차단하면 전체 'liking' 증강이 붕괴 — 분산 회로의 합의(unanimity)가 요구됨.
 - **posterior VP의 필수성**: posterior ventral pallidum만이 정상 'liking'에 필수적. 손상 시 'liking'이 소실되고 설탕에도 'disgust' 반응. → [[concept-nucleus-accumbens]] 관련 VP 회로.
 - **'wanting' = incentive salience**: mesocorticolimbic 도파민이 매개하며 크고 견고하게 분산. 5가지 판별 규칙 — CS에 유인 현저성 부여, PIT·재발(reinstatement) 점화, sign-tracking, 조건강화, 생리·뇌 상태에 의한 조절.
@@ -31,5 +31,5 @@ year: 2021
 - [[concept-nucleus-accumbens]] — NAc shell hotspot 및 posterior VP 회로
 - [[concept-dopamine-reward-system]] — NAc 전역에서 'wanting'을 키우나 'liking'은 불변시키는 도파민
 - [[concept-incentive-sensitization]] — addiction을 과도한 'wanting'으로 보는 임상 틀
-- [[concept-orbitofrontal-cortex]] — 'liking' 핫스폿이 위치하는 피질 부위
+- [[concept-orbitofrontal-cortex]] — 'liking' 핫스폿이 위치하는 cortex 부위
 - [[concept-will-volition-motivation]] — avolition = wanting 결핍(liking 정상) 재해석을 의지·의욕·동기 구분의 장애 절에서 사용.

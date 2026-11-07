@@ -8,7 +8,7 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Leptin 발견자 (1994 Nature). 2024년 **BNC2** 신규 ARC leptin-activated 뉴런 발견 — 30년 만의 melanocortin paradigm 확장. 사용자 lab의 leptin·시상하부 식욕 회로 연구의 모태.
+> Leptin 발견자 (1994 Nature). 2024년 **BNC2** 신규 ARC leptin-activated 뉴런 발견 — 30년 만의 melanocortin paradigm 확장. 사용자 lab의 leptin·hypothalamus 식욕 회로 연구의 모태.
 
 # Jeffrey M. Friedman
 
@@ -20,12 +20,12 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 - **1994 Nature** (Zhang et al.) — *ob* gene positional cloning → **leptin** 동정.
 - **1995–96** — leptin이 ARC POMC·NPY 작용 (with Schwartz·Baskin·Woods).
 - **1996** Cell — *db* gene = **leptin receptor (LEPR)** (with Tartaglia).
-- **1996** Nat Genet — leptin이 시상하부 STAT3 활성.
+- **1996** Nat Genet — leptin이 hypothalamus STAT3 활성.
 - **2024 Nature** (Tan HL et al.) ★ — **BNC2 (basonuclin 2)** ARC leptin-activated 뉴런 — AgRP/POMC 외 leptin의 제3 표적, 식이 cue 반응 + AgRP 직접 억제.
 - 그 외: MCH 뉴런 sugar 가치 ([[domingos-2013-hypothalamic-melanin-concentrating-hormone|Domingos 2013 eLife]]), hepatic stellate cell, FGF21.
 
 ## 의의
-- Leptin 발견이 **시상하부 식욕 회로 분야 modern era 출발점**.
+- Leptin 발견이 **hypothalamus 식욕 회로 분야 modern era 출발점**.
 - 회로 모델: peripheral signal (leptin) → ARC first-order (POMC·NPY) → second-order (PVN·LH).
 - 2024 BNC2가 분야의 한 번 더 paradigm 확장 신호탄.
 
@@ -37,12 +37,12 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 ## 관련 페이지
 - [[concept-leptin]] — 본인 발견.
 - [[concept-arcuate-nucleus]] — BNC2 위치.
-- [[concept-pomc-neurons]] · [[concept-npy-agrp-neurons]] — 시상하부 표적.
+- [[concept-pomc-neurons]] · [[concept-npy-agrp-neurons]] — hypothalamus 표적.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial 공저.
 - [[perakakis-2021-leptin-in-leanness-and-obesity]] — leptin 임상.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — de Araujo lab 계열 당 hedonic/nutritional 회로 분리.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 lab의 외측중격 연구: **LS^Nts가 능동 도피 스트레스에 선택적으로 조율**되고 LH 투사로 섭식·체중을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 lab의 lateral septum 연구: **LS^Nts가 능동 도피 스트레스에 선택적으로 조율**되고 LH 투사로 섭식·체중을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020).
 - [[concept-lateral-septum]] — 위 논문이 세운 LS 섭식 억제 축의 개념 hub.
-- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본 lab의 LH **MCH 뉴런 = 설탕 영양 가치 → 선조체 DA** 논문(eLife 2013, de Araujo·Horvath 공동). sucralose+MCH 20 Hz 자극 시 sucrose 선호 82% → 20%로 역전, MCH 제거 시 sucrose DA 방출(+118%) 소실. Alon & Friedman 2006 MCH 제거 → 마름의 후속.
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본 lab의 LH **MCH 뉴런 = 설탕 영양 가치 → striatum DA** 논문(eLife 2013, de Araujo·Horvath 공동). sucralose+MCH 20 Hz 자극 시 sucrose 선호 82% → 20%로 역전, MCH 제거 시 sucrose DA 방출(+118%) 소실. Alon & Friedman 2006 MCH 제거 → 마름의 후속.
 - [[person-horvath-tamas]] — Yale 비교의학. [[domingos-2013-hypothalamic-melanin-concentrating-hormone]]의 공저자이며, [[lopez-2026-hypothalamic-regulation-of-energy]]가 정전으로 꼽는 미토콘드리아 역학·astrocyte 수송 계열의 당사자.

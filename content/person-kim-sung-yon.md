@@ -12,7 +12,7 @@ aliases: [김성연, Sung-Yon Kim, Kim Sung-Yon, 김성연 lab]
 # 김성연 (Sung-Yon Kim)
 
 ## 한 줄 요약
-서울대학교 소속 신경과학자. 위키의 두 원저에서 교신저자·lead contact이다. 논문에 인쇄된 소속은 **Institute of Molecular Biology and Genetics, Department of Chemistry, Program in Neuroscience**(모두 Seoul National University) 세 곳이다. 외측 시상하부 GABA 뉴런(LH^Vgat)이 동기 행동을 어떻게 부호화하는지를 연구한다.
+서울대학교 소속 신경과학자. 위키의 두 원저에서 교신저자·lead contact이다. 논문에 인쇄된 소속은 **Institute of Molecular Biology and Genetics, Department of Chemistry, Program in Neuroscience**(모두 Seoul National University) 세 곳이다. lateral hypothalamus GABA 뉴런(LH^Vgat)이 동기 행동을 어떻게 부호화하는지를 연구한다.
 
 ## 핵심 내용
 

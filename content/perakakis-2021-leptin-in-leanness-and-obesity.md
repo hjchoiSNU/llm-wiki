@@ -10,7 +10,7 @@ journal: "J Am Coll Cardiol 77(6):745–760"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **마우스 ↔ 인간 leptin 생리는 크게 다르다.** ob/ob 마우스에서의 극적 효과는 인간 비만에서 재현되지 않으며, 인간의 leptin 작용은 "결핍 상태에서만 허용적(permissive)"으로 기능할 가능성이 높음. → **신경내분비/대사 회로의 마우스 데이터를 인간으로 직접 외삽하는 것의 위험**, 그리고 **음(-)에너지 상태에서 시상하부-생식 축이 leptin에 의해 조절된다는 점**이 핵심 교훈. 번역 신경과학(translational) 또는 시상하부 회로 연구 설계 시 직접 적용 가능.
+> **마우스 ↔ 인간 leptin 생리는 크게 다르다.** ob/ob 마우스에서의 극적 효과는 인간 비만에서 재현되지 않으며, 인간의 leptin 작용은 "결핍 상태에서만 허용적(permissive)"으로 기능할 가능성이 높음. → **신경내분비/대사 회로의 마우스 데이터를 인간으로 직접 외삽하는 것의 위험**, 그리고 **음(-)에너지 상태에서 hypothalamus-생식 축이 leptin에 의해 조절된다는 점**이 핵심 교훈. 번역 신경과학(translational) 또는 hypothalamus 회로 연구 설계 시 직접 적용 가능.
 
 # Perakakis 2021 — Leptin: leanness vs obesity (JACC SOTA review)
 
@@ -21,8 +21,8 @@ JACC State-of-the-Art Review. Leptin의 인간/동물 생리, 결핍 상태(CLD,
 
 ### 생리
 - [[concept-leptin]]은 주로 지방조직에서 분비, 혈중 농도 ∝ 체지방률; 단식 3일이면 10–20%로 급감 (지방량 변화 전).
-- BBB 통과 후 [[concept-arcuate-nucleus|시상하부 arcuate]]에서 ObRb 결합 → [[concept-pomc-neurons|POMC 뉴런]] 활성, [[concept-npy-agrp-neurons|NPY/AgRP 뉴런]] 억제.
-- 시상하부 외 영역(saliency, decision, reward)에도 작용. 뇌 영역 간 functional connectivity 변화 보고.
+- BBB 통과 후 [[concept-arcuate-nucleus|hypothalamus arcuate]]에서 ObRb 결합 → [[concept-pomc-neurons|POMC 뉴런]] 활성, [[concept-npy-agrp-neurons|NPY/AgRP 뉴런]] 억제.
+- hypothalamus 외 영역(saliency, decision, reward)에도 작용. 뇌 영역 간 functional connectivity 변화 보고.
 
 ### 신경내분비 축
 | 축 | 동물 | 인간 |
@@ -37,7 +37,7 @@ JACC State-of-the-Art Review. Leptin의 인간/동물 생리, 결핍 상태(CLD,
 ### 동물 모델
 - **ob/ob mouse** (leptin 결핍): leptin 투여로 비만, 당뇨, 지방간, 면역, 생식 모두 정상화.
 - **DIO mouse** (식이성 비만, 고leptin): leptin 효과 거의 없음 ("leptin tolerance / resistance").
-- 가설: BBB 수송 저하 / receptor trafficking 손상 / SOCS3·PTP1B 음성 피드백 / ER stress·시상하부 염증 / **단순히 인간에서 leptin이 결핍 상태에서만 허용적으로 작동**.
+- 가설: BBB 수송 저하 / receptor trafficking 손상 / SOCS3·PTP1B 음성 피드백 / ER stress·hypothalamus 염증 / **단순히 인간에서 leptin이 결핍 상태에서만 허용적으로 작동**.
 
 ### 인간 임상시험
 | 조건 | leptin 수준 | 효과 |

@@ -14,16 +14,16 @@ updated: 2026-10-03
 # 신경전달물질 공방출 (Co-transmission / co-release)
 
 ## 한 줄 요약
-한 뉴런이 **둘 이상의 전달물질을 방출**하는 현상. 중뇌 도파민계에서 특히 체계적으로 규명됐으며([[morales-2017-ventral-tegmental-area-cellular-heterogeneity|Morales & Margolis 2017]]), 공방출 조합이 **해부학적 위치·투사 표적·행동 기능과 짝지어진다**는 점에서 "도파민 뉴런"이라는 단일 범주를 해체한다.
+한 뉴런이 **둘 이상의 전달물질을 방출**하는 현상. midbrain 도파민계에서 특히 체계적으로 규명됐으며([[morales-2017-ventral-tegmental-area-cellular-heterogeneity|Morales & Margolis 2017]]), 공방출 조합이 **해부학적 위치·투사 표적·행동 기능과 짝지어진다**는 점에서 "도파민 뉴런"이라는 단일 범주를 해체한다.
 
 ## 핵심 내용
 
-### 주요 조합 (중뇌 VTA 기준)
+### 주요 조합 (midbrain VTA 기준)
 [[morales-2017-ventral-tegmental-area-cellular-heterogeneity|Morales 2017]]이 정리한 4가지 비정통 조합:
 
 1. **DA + 글루타메이트 (DA-GLU)**
    - VGLUT2를 공발현하는 도파민 뉴런. **같은 축삭 안에서 DA 소포와 Glu 소포가 별도 microdomain으로 분리**된다(Zhang 2015) → 빠른 흥분(Glu)과 느린 조절(DA)을 동시에 낼 수 있다.
-   - 최초 보고는 **1990년대 말**(Sulzer 1998). 이후 TH·VGLUT2 mRNA 공발현 연구로 **내측 VTA 편중**이 확립(Kawano 2006; Yamaguchi 2011; Steinkellner 2018), 분자 아형 매핑으로 재확인(Poulin 2018).
+   - 최초 보고는 **1990년대 말**(Sulzer 1998). 이후 TH·VGLUT2 mRNA 공발현 연구로 **medial VTA 편중**이 확립(Kawano 2006; Yamaguchi 2011; Steinkellner 2018), 분자 아형 매핑으로 재확인(Poulin 2018).
 2. **DA + GABA**
    - **비정통 경로**: GAD 효소 발현이 소수인데도 GABA를 방출한다. **혈장막 재흡수**(Tritsch 2014)와 **ALDH1A1 매개 합성**(Kim 2015)으로 GABA를 조달하고, vesicular GABA transporter 없이 **VMAT2로 소포에 적재**한다(Tritsch 2012).
 3. **글루타메이트 + GABA** (mesohabenular)
@@ -37,8 +37,8 @@ updated: 2026-10-03
 | | DA-GLU (Con/Fon) | DA-only (Coff/Fon) |
 |---|---|---|
 | VTA TH⁺ 중 비율 | **~31 ± 2.6%** | **~71 ± 4.6%** |
-| 위치 | 내측 VTA — **IF·CLi·PN** | 외측 VTA — **PBP** |
-| 투사 | **NAc medial shell**(+후각결절)에 국한 | lateral shell·core·배측 선조체; **dorsal medial shell 회피** |
+| 위치 | medial VTA — **IF·CLi·PN** | lateral VTA — **PBP** |
+| 투사 | **NAc medial shell**(+후각결절)에 국한 | lateral shell·core·dorsal striatum; **dorsal medial shell 회피** |
 | 표지 특이도 | 87 ± 2.6% | 93 ± 1.0% |
 
 → NAc **dorsal medial shell의 도파민 말단은 사실상 전부 DA-GLU 기원**이다. 공방출 여부가 곧 **구획 특이적 조작 핸들**이 된다.
@@ -63,4 +63,4 @@ updated: 2026-10-03
 - [[concept-lateral-habenula]] — Glu+GABA 공방출(mesohabenular)의 표적.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 도파민 ensemble 종합에서 공방출 아형의 섭식 역할이 미해명 과제로 남아 있는 지점.
 - [[concept-medium-spiny-neuron]] — 공방출 입력이 직접 흥분시키면서도 국소회로를 경유해 순 억제하는 출력 세포.
-- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ **"AAV-CaMKIIα = excitatory"를 LH에서는 쓸 수 없다는 1차 증거**(PNAS 2024, Kilduff lab). CaMKIIα promoter 표지 세포의 **95.6%가 *Camk2a*⁺**인데도 **Vglut2⁺ 78.7% / Vgat⁺ 33%(IHC Gad2⁺ 20.1%)** 혼합이다. 즉 **promoter 누출**(Veres 2023: 피질 interneuron에서 CaMKIIα 단백질 없이 transgene 구동)과 **마커 자체의 세포타입 비특이성**은 다른 문제이며, 이 논문이 해결한 것은 **전자뿐**이다. 더해 인용된 Mickelsen 2017 수치는 Gad 발현 ≠ GABA 방출을 보여 준다: **MCH의 ~98%가 *Gad1*⁺·21%가 *Gad2*⁺지만 *Slc32a1*(Vgat)은 어떤 MCH 뉴런에서도 검출되지 않고**, Hcrt는 56% *Gad1*⁺·16% *Gad2*⁺이나 Vgat은 1.5%뿐이다.
+- [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ **"AAV-CaMKIIα = excitatory"를 LH에서는 쓸 수 없다는 1차 증거**(PNAS 2024, Kilduff lab). CaMKIIα promoter 표지 세포의 **95.6%가 *Camk2a*⁺**인데도 **Vglut2⁺ 78.7% / Vgat⁺ 33%(IHC Gad2⁺ 20.1%)** 혼합이다. 즉 **promoter 누출**(Veres 2023: cortex interneuron에서 CaMKIIα 단백질 없이 transgene 구동)과 **마커 자체의 세포타입 비특이성**은 다른 문제이며, 이 논문이 해결한 것은 **전자뿐**이다. 더해 인용된 Mickelsen 2017 수치는 Gad 발현 ≠ GABA 방출을 보여 준다: **MCH의 ~98%가 *Gad1*⁺·21%가 *Gad2*⁺지만 *Slc32a1*(Vgat)은 어떤 MCH 뉴런에서도 검출되지 않고**, Hcrt는 56% *Gad1*⁺·16% *Gad2*⁺이나 Vgat은 1.5%뿐이다.

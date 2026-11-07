@@ -24,7 +24,7 @@ year: 2020
   - effort maintenance·과제 지속시간엔 유의 효과 없음.
   - 계산모델: taVNS가 **cost-evidence accumulation을 안 바꿈**(강한 null) → 비용 절감이 아니라 예상 이득↑.
   - rated wanting·exertion은 불변(자동적·전의식적 추동).
-- **기전**: 미주 구심성→[[concept-dorsal-vagal-complex|NTS]]→도파민 중뇌/선조체 tone↑로 effortful action의 예상 가치↑(NE/LC 기여 가능, 분리 불가). 좌우 미주 lateralization이 food 특이성 설명.
+- **기전**: 미주 구심성→[[concept-dorsal-vagal-complex|NTS]]→도파민 midbrain/striatum tone↑로 effortful action의 예상 가치↑(NE/LC 기여 가능, 분리 불가). 좌우 미주 lateralization이 food 특이성 설명.
 - **주장**: taVNS가 reward-seeking의 invigoration을 높여(비용이 아닌 이득 측) 동기 결핍(무감동·anhedonia) 치료 후보.
 
 ## 관련 페이지

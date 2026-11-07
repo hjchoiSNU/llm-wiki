@@ -27,7 +27,7 @@ journal: "Current Biology 27:2089–2100 (2017-07-24; online 2017-07-06); doi:10
 
 ### Figure 1 — GAD-Cre 랫트의 제작과 검증
 - rat **GAD1** 유전자(245 kb BAC, CH230-24D16)의 start codon 자리에 **iCre**를 recombineering으로 끼워 넣고 배아에 미세주입 → **founder 75마리 중 3계통**. 그중 Cre transgene **단일 복제**를 가진 line 3을 채택(LE-Tg(GAD1-iCre)3Ottc).
-- **Cre × GAD1 mRNA 공발현**(RNAscope): 중뇌 **76 ± 11%**, **LH 80 ± 6%**, 뇌간 **85 ± 6%**. 반면 **anterior cingulate cortex는 32 ± 8%**로 낮다 → 계통은 영역별로 따로 검증해야 한다고 저자들이 명시.
+- **Cre × GAD1 mRNA 공발현**(RNAscope): midbrain **76 ± 11%**, **LH 80 ± 6%**, brainstem **85 ± 6%**. 반면 **anterior cingulate cortex는 32 ± 8%**로 낮다 → 계통은 영역별로 따로 검증해야 한다고 저자들이 명시.
 - Cre 의존 nYFP 주입 후 LH에서 **nYFP⁺ 세포의 87 ± 10%가 GAD1 mRNA⁺**, **GAD2·VGAT와 91 ± 7% 공편재**. 내인성 공편재는 GAD1/GAD2 **100 ± 0%**, GAD1/VGAT **100 ± 0%**, GAD2/VGAT **98 ± 2%**, **VGAT/VGLUT2는 1 ± 1%** → LH의 GABA 뉴런과 글루탐산 뉴런은 **분리된 집단**.
 - **MCH·ORX와 거의 겹치지 않는다**: eYFP⁺ 중 MCH 염색 **1.2%**(n=6), ORX **<1%**(n=3). 즉 이 논문의 "LH GABA"는 [[concept-orexin-neurons|orexin]]·MCH 펩타이드 계통이 아니다.
 
@@ -36,14 +36,14 @@ journal: "Current Biology 27:2089–2100 (2017-07-24; online 2017-07-06); doi:10
 - 안정막전위: eYFP⁺ **−15.23 ± 3.2 mV** 과분극, eYFP⁻ −0.22 ± 0.25 mV(t(8)=5.9, p=0.003).
 - ChR2로 LH GABA 말단을 자극하면 **VTA 뉴런에서 IPSC**(진폭 182.26 ± 39.62 pA)가 유발되고 **picrotoxin으로 8.15 ± 1.72 pA까지 차단**(t(4)=4.37, p=0.01) → LH^GABA→VTA는 **기능적 GABA 시냅스**.
 
-### Figure 3 — LH GABA 투사의 전뇌 지도 (TissueCyte serial two-photon)
-- 일측 LH에 AAV1-DIO-Mem-AcGFP 주입 후 170개 관상 절편(100 μm 간격) 전뇌 영상. 동측성 표지.
-- 표지 표적: **LH 국소·외측고삐핵(LHb)·편도체·BNST·중격(septum)·VTA(특히 parabrachial pigmented area)·복외측 PAG·IL/PL(mPFC)**.
+### Figure 3 — LH GABA 투사의 whole-brain 지도 (TissueCyte serial two-photon)
+- 일측 LH에 AAV1-DIO-Mem-AcGFP 주입 후 170개 관상 절편(100 μm 간격) whole-brain 영상. 동측성 표지.
+- 표지 표적: **LH 국소·lateralhabenula(LHb)·amygdala·BNST·septum·VTA(특히 parabrachial pigmented area)·ventrolateral PAG·IL/PL(mPFC)**.
 - → VTA는 여러 표적 중 하나일 뿐이다(실험 3의 해석 범위를 제한하는 사실).
 
 ### 공통 행동 과제 (Pavlovian conditioning)
 - 수컷 24 + 암컷 28 = **총 52마리** Long-Evans GAD-Cre 랫트. NpHR 25 / eYFP 27. 체중을 자유섭식 대비 **85%**로 유지.
-- 좌표: LH AP −2.4, ML ±3.5, DV −8.4(암)/−9.0(수), 내측 10° 경사. 광섬유는 LH(DV −7.9/−8.5) 또는 **VTA**(AP −5.3, ML ±2.61, DV −7.05/−7.55, 15°).
+- 좌표: LH AP −2.4, ML ±3.5, DV −8.4(암)/−9.0(수), medial 10° 경사. 광섬유는 LH(DV −7.9/−8.5) 또는 **VTA**(AP −5.3, ML ±2.61, DV −7.05/−7.55, 15°).
 - 구조: food-port 훈련(45 mg 수크로스 30개/1시간) → 조건화 **12세션**(실험 1·2, 하루 2회) 또는 **14세션**(실험 3, 하루 1회). 매 세션 **10 s 청각 cue(tone/siren, 역균형) 각 6회**, ITI 평균 6분(4–8분). **CS+ 종료 1초 뒤 수크로스 pellet 2개**, CS−는 무보상. 종속변수 = **food port 체류 시간 비율**(cue 마지막 5초 / pellet 후 2초).
 - 광: **532 nm, 16–18 mW, cue 시작 500 ms 전 ~ 종료 500 ms 후 연속** — **보상 전달·섭취 구간에는 레이저가 없다**. 이 시간 분리가 논문 전체의 논리적 핵심이다. 실험 1·3은 조건화 중, 실험 2는 cue 시험에만 같은 파라미터로 조사.
 - 시험 회차: 실험 1은 cue 각 **6회**, 실험 2는 각 **8회**(무보상).
@@ -77,12 +77,12 @@ journal: "Current Biology 27:2089–2100 (2017-07-24; online 2017-07-06); doi:10
 ### Discussion 요점
 - **고전 LH 자극 실험의 재해석**: 전기·광유전 LH 자극이 섭식을 늘린다는 결과는 "선천적 섭식 구동"이 아니라 **장소–음식 연합의 표상 강화**로 읽을 수 있다. 근거로 ① 자극 효과는 **그 환경에서 먹어 본 경험이 있어야** 나타나고, ② 자극과 짝지어진 음식을 **이후에도 선호**하며, ③ [[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]에서 LH^GABA 활동이 **경험이 쌓이며 증가**했다는 점을 든다.
 - **Nieh 2015와의 양립**: Nieh의 LH→VTA 자극은 shock grid를 건너는 의지를 바꿨지만, **LH GABA 투사에 한정한 더 선택적 자극은 진행 중 행동을 바꾸지 못했다**. 저자들은 이를 "LH^GABA→VTA는 **학습을 위한 예측 전달 회로이지 행동 구동 회로가 아니다**"의 증거로 삼는다.
-- **VTA 입력의 질적 다양성**: OFC는 추론이 필요한 과제 구조(Takahashi 2009), 복측 선조체는 과제 상태의 **지속 시간**(Takahashi 2016)을 VTA에 준다. LH^GABA는 또 다른 종류(기대 보상)를 준다 → "도파민 입력은 분산·혼합되어 구분되지 않는다"(Tian 2016)는 주장에 대한 반례.
+- **VTA 입력의 질적 다양성**: OFC는 추론이 필요한 과제 구조(Takahashi 2009), ventral striatum는 과제 상태의 **지속 시간**(Takahashi 2016)을 VTA에 준다. LH^GABA는 또 다른 종류(기대 보상)를 준다 → "도파민 입력은 분산·혼합되어 구분되지 않는다"(Tian 2016)는 주장에 대한 반례.
 - **일반화 예측**: cue가 인공 자극이 아니라 **음식 자체의 감각 속성**일 때에도 LH^GABA 억제는 학습을 줄일 것이라고 예측.
 
 ### 한계 (원문 명시 + 읽기 주의)
 - 도파민·VTA 활동을 **측정하지 않았다**. "과대 RPE" 해석은 전적으로 행동 추론이다.
-- LH^GABA 투사는 VTA 외에도 LHb·BNST·편도체·PAG·mPFC로 간다. 말단 광억제는 **지나가는 축삭·측부지(collateral)** 영향을 배제하지 못한다. ⚠️ 단 이 한계는 **원문이 적지 않은 읽기 주의**다 — 원문은 Mahn 2016(말단 NpHR 억제의 생물물리학적 제약)을 **NpHR 벡터 인용**으로만 달았고, 본문·Discussion에서 말단 억제의 비특이성이나 측부지 문제를 논의하지 않는다(별도 Limitations 절도 없다).
+- LH^GABA 투사는 VTA 외에도 LHb·BNST·amygdala·PAG·mPFC로 간다. 말단 광억제는 **지나가는 축삭·측부지(collateral)** 영향을 배제하지 못한다. ⚠️ 단 이 한계는 **원문이 적지 않은 읽기 주의**다 — 원문은 Mahn 2016(말단 NpHR 억제의 생물물리학적 제약)을 **NpHR 벡터 인용**으로만 달았고, 본문·Discussion에서 말단 억제의 비특이성이나 측부지 문제를 논의하지 않는다(별도 Limitations 절도 없다).
 - 통계: 데이터 정규성을 가정했고 **등분산은 검정하지 않았다**. 조직학 외 분석은 **blind가 아니었다**. **공식 power 분석 없음**(선행 연구 관행 기준으로 표본 결정).
 - 암수를 섞어 썼으나 **성차 분석이 없다**.
 - GAD-Cre 계통의 Cre/GAD1 일치도는 **LH 80%**이며 100%가 아니다. ACC 32%는 이 계통을 다른 영역에 쓸 때의 경고.
@@ -110,7 +110,7 @@ journal: "Current Biology 27:2089–2100 (2017-07-24; online 2017-07-06); doi:10
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 마우스 LH^Vgat/LH^LepR 재검. ⚠️ 체세포 지속성·말단 방향 모두 부분 불일치.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 같은 lab, 역방향 VTA^DA→LH. 본 논문의 정방향과 **평행 스트림**.
 - [[grove-2022-dopamine-subsystems-track-internal]] — 같은 LH^GABA→VTA에 다른 내용(수분 균형 = state-driven primary reward).
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형이 선조체 DA 지형을 설정. 본 논문의 "LH→VTA = 학습 조절"과 **DA 하류 효과의 층위**가 다름.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형이 striatum DA 지형을 설정. 본 논문의 "LH→VTA = 학습 조절"과 **DA 하류 효과의 층위**가 다름.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat cue 세포 = valence 무관 salience. CS+/CS− 동시 감소와 수렴 가능.
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — 본 논문이 재해석하는 통념의 원전(LH^GABA 활동의 경험 의존 증가).
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-normative-framework-dissociates-need]] — 사용자 lab LH^LepR. 본 논문 과제 3종 세트의 이식 대상.

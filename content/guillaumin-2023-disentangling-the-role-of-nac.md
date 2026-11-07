@@ -9,12 +9,12 @@ year: 2023
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> NAc 내측 shell의 D1 세포와 D2 세포가 'liking'과 'wanting'을 세포 수준에서 상반되게 부호화함을 lick microstructure + 광유전학으로 인과 입증. NMPU(Pleasure=liking, Motivation=wanting)의 세포수준 substrate이자, liking/wanting 이중해리를 단일 핵 내부에서 보여주는 핵심 자료.
+> NAc medial shell의 D1 세포와 D2 세포가 'liking'과 'wanting'을 세포 수준에서 상반되게 부호화함을 lick microstructure + 광유전학으로 인과 입증. NMPU(Pleasure=liking, Motivation=wanting)의 세포수준 substrate이자, liking/wanting 이중해리를 단일 핵 내부에서 보여주는 핵심 자료.
 
 # NAc D1·D2 세포의 쾌락적 섭식 역할 분리
 
 ## 한 줄 요약
-[[concept-nucleus-accumbens]] 내측 shell의 D1 수용체 세포(D1-MSN)와 D2 수용체 세포(Adora2a, D2-MSN)가 쾌락적 섭식의 'liking'과 'wanting'에서 상반된 역할을 하며, 이를 비-결핍 마우스에서 인과적으로 분리한 연구.
+[[concept-nucleus-accumbens]] medial shell의 D1 수용체 세포(D1-MSN)와 D2 수용체 세포(Adora2a, D2-MSN)가 쾌락적 섭식의 'liking'과 'wanting'에서 상반된 역할을 하며, 이를 비-결핍 마우스에서 인과적으로 분리한 연구.
 
 ## 핵심 내용
 - **행동 지표(lick microstructure)**: 'liking' = lick duration·bout 길이·짧은 ILI(inter-lick interval); 'wanting' = bout 수·IBI(inter-bout interval).
@@ -28,7 +28,7 @@ year: 2023
 
 ## 관련 페이지
 - [[concept-liking-wanting]] — D1·D2 세포가 단일 핵 내부에서 보여주는 이중해리
-- [[concept-nucleus-accumbens]] — 본 연구의 무대(내측 shell D1/D2-MSN)
+- [[concept-nucleus-accumbens]] — 본 연구의 무대(medial shell D1/D2-MSN)
 - [[concept-dopamine-reward-system]] — D1/D2 수용체 세포, NAc shell→VTA/ventral pallidum 회로
 - [[concept-hedonic-hotspot]] — NAc shell 내 'liking' 증폭 영역과의 관계
 - [[concept-need-motivation-pleasure-utility]] — NMPU의 세포수준 substrate 제공
@@ -37,8 +37,8 @@ year: 2023
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — NAc D1/D2 MSN subtype의 인간 분자·공간 정체.
 - [[concept-medium-spiny-neuron]] — D1/D2 MSN 개념 hub.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ **동일 구획 SPN 부호의 상반 해석**: 본 페이지는 D2 세포 억제가 깊을수록 섭취 bout가 길어진다(머무름)고 보고하고, Mingote는 순 SPN 억제를 **과제 전환 신호**로 읽는다. 세포계열(D1/D2)·시간척도(수초 bout vs 버스트 유발 sub-second) 단서 없이는 양립 불가.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 선조체 DA 자극은 **bout 수(wanting)** 만 강화, bout 길이(liking)는 안 늘림 → 본 페이지의 "bout 수=wanting, bout 길이=liking" lick microstructure 정의의 선조체 전역 대응. liking/지속은 비도파민(VP·LH^MCH 등) (Neuron 2026, Stuber lab).
-- [[oconnor-2015-accumbal-d1r-neurons-projecting]] — 같은 **NAc 내측 shell D1 세포**를 lick 단위 시간해상도로 다룬 짝 논문(Neuron 2015, Lüscher lab). ⚠️ **부호가 반대로 읽힌다**: 본 페이지는 D1 세포 활성이 'liking'·'wanting'을 **둘 다 올린다**고 보고하는데, 그쪽은 **LH로 투사하는 D1R-MSN**(medial shell LH 투사의 93.6%)의 활성이 **섭취를 중단**시키고 억제가 섭취를 개시시킨다고 본다(closed-loop 500 ms 자극 → 3-lick burst 빈도↑). 해소 후보: **투사 표적별 분업** — 그쪽 D1R-MSN은 LH 투사 아집단(D1R-MSN의 39.7%만 CTB⁺)이고, 본 페이지의 조작은 shell D1 세포 전체(VP·VTA 투사 포함)다. 지표도 호환된다: 그쪽의 **3-lick burst 빈도 증가**는 본 페이지 정의로는 **bout 길이 단축 = liking↓**에 해당한다(원문은 liking으로 해석하지 않음, 병기).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — striatum DA 자극은 **bout 수(wanting)** 만 강화, bout 길이(liking)는 안 늘림 → 본 페이지의 "bout 수=wanting, bout 길이=liking" lick microstructure 정의의 striatum 전역 대응. liking/지속은 비도파민(VP·LH^MCH 등) (Neuron 2026, Stuber lab).
+- [[oconnor-2015-accumbal-d1r-neurons-projecting]] — 같은 **NAc medial shell D1 세포**를 lick 단위 시간해상도로 다룬 짝 논문(Neuron 2015, Lüscher lab). ⚠️ **부호가 반대로 읽힌다**: 본 페이지는 D1 세포 활성이 'liking'·'wanting'을 **둘 다 올린다**고 보고하는데, 그쪽은 **LH로 투사하는 D1R-MSN**(medial shell LH 투사의 93.6%)의 활성이 **섭취를 중단**시키고 억제가 섭취를 개시시킨다고 본다(closed-loop 500 ms 자극 → 3-lick burst 빈도↑). 해소 후보: **투사 표적별 분업** — 그쪽 D1R-MSN은 LH 투사 아집단(D1R-MSN의 39.7%만 CTB⁺)이고, 본 페이지의 조작은 shell D1 세포 전체(VP·VTA 투사 포함)다. 지표도 호환된다: 그쪽의 **3-lick burst 빈도 증가**는 본 페이지 정의로는 **bout 길이 단축 = liking↓**에 해당한다(원문은 liking으로 해석하지 않음, 병기).
 - [[thoeni-2020-depression-of-accumbal-to]] — 같은 microstructure 지표를 **가소성 조작과 짝지은** 후속(Neuron 2020, Lüscher lab). 급성 식이제한 유발 과식과 그 CB1R 길항 차단, LH 국소 CB1R 작용제/길항제 효과, in vivo HFS 효과가 **전부 bout 수에서만** 나타나고 **bout당 lick 수는 어느 조건에서도 변하지 않았다**(총 lick F(1,13)=44.63 p<0.01 / bout F(1,13)=8.83 p<0.05). 즉 그 조작들은 본 페이지 정의로 **wanting만 움직이고 liking은 건드리지 않는다**. ⚠️ 단 지표 해석의 출처가 다르다 — 그쪽은 Dwyer 2012을 따라 **bout 수 = 동기 추동 / bout당 lick 수 = 기호성**으로 쓰고, 본 페이지는 **bout 길이 = liking / bout 수 = wanting**으로 쓴다. 두 규약은 호환되지만 "bout당 lick 수"와 "bout 길이"가 같은 양인지 확인한 뒤 비교해야 한다(병기).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 같은 lick microstructure 규약(bout 길이 vs bout 수)을 VTA DA 수준에서 쓴 짝 논문.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — D1/D2 MSN 조작을 "가치 부호" 대신 "α(보상)/β(누락) 가소성"으로 읽는 대안 틀.

@@ -16,7 +16,7 @@ journal: "Nature (2026); doi:10.1038/s41586-026-10444-4"
 # Godschall et al. 2026 — A brain reward circuit inhibited by next-generation weight-loss drugs (Nature)
 
 ## 한 줄 요약
-경구 small-molecule GLP1RA가 **homeostatic(시상하부/뇌간)와 hedonic(CeA→VTA→NAc) feeding을 평행 회로로 동시 조절**. CeA^Glp1r 뉴런이 mesolimbic 도파민을 낮춰 palatable food 섭취만 선택적으로 억제하는 새 노드로 규명.
+경구 small-molecule GLP1RA가 **homeostatic(hypothalamus/brainstem)와 hedonic(CeA→VTA→NAc) feeding을 평행 회로로 동시 조절**. CeA^Glp1r 뉴런이 mesolimbic 도파민을 낮춰 palatable food 섭취만 선택적으로 억제하는 새 노드로 규명.
 
 ## 핵심 내용
 

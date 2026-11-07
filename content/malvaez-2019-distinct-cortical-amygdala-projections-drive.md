@@ -11,11 +11,11 @@ doi: 10.1038/s41593-019-0374-7
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **"음식의 가치를 배우는 회로"와 "그 가치를 꺼내 쓰는 회로"가 해부학적으로 분리됨.** 배고픔 상태에서 보상 가치를 **부호화(encoding)**하는 것은 **lOFC→BLA**, 나중에 그 가치를 기억에서 **인출(retrieval)**해 행동을 이끄는 것은 **mOFC→BLA** — 이중해리. 결정적으로, **팔라터빌리티(‘좋아함’)는 변하지 않는데 가치(‘갈망’)만 조작**됨 → 회로 수준에서 [[concept-liking-wanting|liking≠wanting]] 재확인. 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]] 프레임에서 **Need(배고픔)가 reward value를 상태의존적으로 갱신**하는 정확한 신경기질 후보이며, 인간 [[concept-orbitofrontal-cortex|OFC]]-편도 회로 번역의 동물 기반. 병적 식이·중독의 "가치 오학습 vs 오인출" 분해 관점 제공.
+> **"음식의 가치를 배우는 회로"와 "그 가치를 꺼내 쓰는 회로"가 해부학적으로 분리됨.** 배고픔 상태에서 보상 가치를 **부호화(encoding)**하는 것은 **lOFC→BLA**, 나중에 그 가치를 기억에서 **인출(retrieval)**해 행동을 이끄는 것은 **mOFC→BLA** — 이중해리. 결정적으로, **팔라터빌리티(‘좋아함’)는 변하지 않는데 가치(‘갈망’)만 조작**됨 → 회로 수준에서 [[concept-liking-wanting|liking≠wanting]] 재확인. 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]] 프레임에서 **Need(배고픔)가 reward value를 상태의존적으로 갱신**하는 정확한 신경기질 후보이며, 인간 [[concept-orbitofrontal-cortex|OFC]]-amygdala 회로 번역의 동물 기반. 병적 식이·중독의 "가치 오학습 vs 오인출" 분해 관점 제공.
 
 # Distinct cortical–amygdala projections drive reward value encoding and retrieval (Malvaez 2019)
 
-> ⚠️ 제목의 "cortical–amygdala"는 **피질(OFC)→편도(BLA) 투사**를 뜻함. 후각 전용 핵인 [[concept-cortical-amygdala|cortical amygdala(plCoA)]]와 **다른 개념**.
+> ⚠️ 제목의 "cortical–amygdala"는 **cortex(OFC)→amygdala(BLA) 투사**를 뜻함. 후각 전용 핵인 [[concept-cortical-amygdala|cortical amygdala(plCoA)]]와 **다른 개념**.
 
 ## 한 줄 요약
 쥐에서 sucrose의 **상태의존적 유인가치(incentive value)**의 부호화와 인출을 [[concept-basolateral-amygdala|BLA]] 글루타메이트가 매개하며, 이를 지원하는 [[concept-orbitofrontal-cortex|OFC]]→BLA 투사가 **lOFC(부호화) / mOFC(인출)**로 **이중해리**됨을 생체센서·화학유전·광유전으로 입증.

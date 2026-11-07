@@ -1,17 +1,17 @@
 ---
-title: 전전두피질과 섭식 (Prefrontal Cortex in Feeding)
+title: "Prefrontal cortex in feeding"
 type: concept
 created: 2026-10-28
 updated: 2026-11-03
-aliases: [PFC, mPFC, dmPFC, dlPFC, DLPFC, vmPFC, prefrontal cortex, 전전두피질, 내측 전전두피질, prelimbic, infralimbic, PL, ILA, ACC, top-down control, 하향 통제]
+aliases: [PFC, mPFC, dmPFC, dlPFC, vmPFC, prefrontal cortex, medial prefrontal cortex, prelimbic, infralimbic, PL, ILA, ACC, top-down control, 하향 통제]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
 > 이 위키에서 PFC는 가장 자주 언급되면서 **hub가 없던 노드**였다([[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]] 본문도 "mPFC — 위키에 전용 hub 없음"이라 적어 두었다). 그 공백이 실제로 해석을 왜곡한다 — **"비만 = dlPFC 저활성 → anodal tDCS로 executive 통제 복원"** 이라는 단일 서술이 [[concept-transcranial-electrical-stimulation|tES]] 자료 전반([[saeki-2022-a-systematic-review-on|Saeki 2022]]·[[beaumont-2022-modulating-eating-behavior-with|Beaumont 2022]]) 의 기전 절을 지배하는데, 같은 위키의 회로 자료는 PFC가 섭식을 **구동**하기도 한다고 말한다.
 > 그래서 이 hub의 명제는 하나다: **PFC는 섭식에서 brake와 drive 양방향으로 작동하고, 부호를 결정하는 것은 "PFC 전체의 활성 수준"이 아니라 출력 경로다.** mPFC→rZI는 처벌-저항 강박을 **켜고**([[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]), mPFC→VTA는 유관성 학습을 **가속**하고([[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort 2026]]), PFC→LH^LepR은 불안 맥락의 섭식 개시를 **막는**데([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]) 같은 LHA 안의 **mPFC→LHA^VGLUT2는 거꾸로 스트레스 과식을 구동**하고([[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]), vmPFC→NAc shell은 충동을 **누른다**([[barbosa-2022-aberrant-impulse-control-circuitry|Barbosa 2022]]).
-> 사용자 연구에 닿는 세 지점. (1) **자극 방향이 환자군에 따라 뒤집힐 수 있다** — anodal dlPFC 일변도 프로토콜은 brake 결손군을 전제하지만, PFC 과활성 → LH^LepR 억제 프로파일(restraint·AN 쪽)에는 **하향** 조절이 맞을 수 있다. (2) **주파수가 피질–시상하부 공통 화폐일 수 있다** — mPFC→LH 동기화가 beta 15–30 Hz이고 인간 LHA의 배고픔 서명도 beta/low-gamma다([[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]]). (3) **[[concept-inhibitory-control-demand|제어 부하]] 측정이 국면 판별의 선행 조건** — 제어가 개입된 국면과 붕괴한 국면에서 dlPFC 부호가 반대이므로, 국면을 모르고 자극하면 효과가 상쇄된다. [[concept-need-motivation-pleasure-utility|NMPU]]의 Utility 축 좌표.
+> 사용자 연구에 닿는 세 지점. (1) **자극 방향이 환자군에 따라 뒤집힐 수 있다** — anodal dlPFC 일변도 프로토콜은 brake 결손군을 전제하지만, PFC 과활성 → LH^LepR 억제 프로파일(restraint·AN 쪽)에는 **하향** 조절이 맞을 수 있다. (2) **주파수가 cortex–hypothalamus 공통 화폐일 수 있다** — mPFC→LH 동기화가 beta 15–30 Hz이고 인간 LHA의 배고픔 서명도 beta/low-gamma다([[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]]). (3) **[[concept-inhibitory-control-demand|제어 부하]] 측정이 국면 판별의 선행 조건** — 제어가 개입된 국면과 붕괴한 국면에서 dlPFC 부호가 반대이므로, 국면을 모르고 자극하면 효과가 상쇄된다. [[concept-need-motivation-pleasure-utility|NMPU]]의 Utility 축 좌표.
 
-# 전전두피질과 섭식 (Prefrontal Cortex in Feeding)
+# Prefrontal cortex in feeding
 
 ## 한 줄 요약
 PFC는 섭식에서 **억제(brake)와 구동(drive) 두 방향으로 동시에 작동**하며, 어느 쪽이 발현되는지는 PFC의 전체 활성 수준이 아니라 **출력 경로(→rZI / →VTA / →LH / →NAc / →DST)와 제어 개입 국면**이 결정한다. 비침습 자극([[concept-transcranial-electrical-stimulation|tDCS]]·tACS·tRNS)은 거의 전부 dlPFC 한 표적에 걸려 있고, 듣는 축은 **craving/reward이지 에너지균형이 아니다**.
@@ -54,7 +54,7 @@ PFC는 섭식에서 **억제(brake)와 구동(drive) 두 방향으로 동시에 
 - tractography-유도 폐루프 NAc-shell DBS 1례: 주당 통제상실 섭식 ~12→~5(12주, p=.049). ⚠️ 이 1례는 [[shivacharan-2022-pilot-study-of-responsive-nucleus|Shivacharan 2022]]의 subject 2와 동일인이므로 독립 사례로 합산하지 말 것(그 페이지의 주의 참조).
 
 **가치·중재 계산** ([[rangel-2008-a-framework-for-studying-the]] · [[odoherty-2016-multiple-systems-for-the-motivational]])
-- **선택 시점 goal value**는 원숭이·인간 OFC·DLPFC에서, **경험 시점 outcome value**는 medial OFC에서(주관 쾌와 상관, 포만 후 감소). 내측 OFC 손상 시 일관된 선호 선택 장애.
+- **선택 시점 goal value**는 원숭이·인간 OFC·DLPFC에서, **경험 시점 outcome value**는 medial OFC에서(주관 쾌와 상관, 포만 후 감소). medial OFC 손상 시 일관된 선호 선택 장애.
 - goal-directed 계의 vmPFC가 relative goal-value·outcome value·chosen value·RPE를 부호화하고, **통제권 배정의 중재자는 vlPFC(양측)·우 frontopolar**다. Pavlovian 영향은 PFC의 인지재평가로 하향조절 가능.
 - 저항이 필요한 충돌의 **유형이 다르다**: "배부른데 한 입 더" = Pavlovian↔목표지향, "다이어터의 아이스크림" = 목표지향↔목표지향(맛 평가↔장기 결과 평가). 억제 부하가 어느 충돌에서 오는지에 따라 개입이 달라진다.
 
@@ -67,12 +67,12 @@ PFC는 섭식에서 **억제(brake)와 구동(drive) 두 방향으로 동시에 
 ### 축 2 — Drive: top-down 구동
 
 **mPFC → rZI = 처벌-저항 강박 섭식의 gate** ([[leow-2026-a-cortical-hypothalamic-neural]], Neuron 2026)
-- rabies tracing(VITALISTIC)으로 rZI^GABA의 **주요 피질 입력이 mPFC**(prelimbic PL·medial orbital ORBm·dorsal ACC, 추가로 ILA·retrosplenial), 압도적 ipsilateral. ChR2 patch-clamp으로 **흥분성** 확인.
+- rabies tracing(VITALISTIC)으로 rZI^GABA의 **주요 cortex 입력이 mPFC**(prelimbic PL·medial orbital ORBm·dorsal ACC, 추가로 ILA·retrosplenial), 압도적 ipsilateral. ChR2 patch-clamp으로 **흥분성** 확인.
 - rZI 투사 mPFC 뉴런은 대부분 **Npr3+**이고, 삼중 역행 매핑에서 약 절반만 PAG/VTA에 공투사 → **부분적으로 독립된 출력 채널**.
 - 억제(hM4D) → quinine-HFD 소비 급감, 단 **야간 금식 후 refeeding·불안은 불변**(맥락 특이). 활성 → foot-shock 격자 건너기↑. **naive 마우스에서는 섭식 무유발** → 일반 식욕이 아니라 binge 경험 상태의 기호식 소비 촉진.
 - rSLDS 잠재 동역학에서 BiCOM 군만 **시간상수 >150 s의 지속 attractor**로 진입 — binge 경험이 mPFC-rZI 앙상블을 가소적으로 재편.
 - **인간 3코호트**: GUSTO 소아(4.5·6세) 좌 rZI-ACC/mPFC FC ↔ BMI, 4.5세에서 배고픔 없는 상태의 sweet snack 섭취량과도 상관; ABCD 청소년 rZI-sgACC FC group×BMI(고BMI BED>대조), MIND diet score와 음의 상관; 중국 고도비만 성인 rZI-sgACC FC↑·bulimia score 상관.
-- → **같은 피질이 억제가 아니라 강박을 구동**한다. [[concept-inhibitory-control-demand]]의 brake 서술과 정면으로 대비되는 사례로 병기할 것.
+- → **같은 cortex가 억제가 아니라 강박을 구동**한다. [[concept-inhibitory-control-demand]]의 brake 서술과 정면으로 대비되는 사례로 병기할 것.
 
 **mPFC ↔ VTA = 유관성 학습의 meta-RPE 루프** ([[hjort-2026-prefrontal-to-ventral-tegmental-area]], Nature 2026, Stuber lab)
 - mPFC 뉴런의 **~13%가 contingency degradation(CD)을 인코딩**하고, **mPFC→VTA 투사 뉴런(mPFC의 ~10%) 중 61.5%가 CD 인코딩** — 투사 특이적 농축.
@@ -86,7 +86,7 @@ PFC는 섭식에서 **억제(brake)와 구동(drive) 두 방향으로 동시에 
 - mPFC^D1R hM3Dq 활성 → 지방 섭취↑. ⚠️ 저자 표현은 "이 연결과 **부합한다**"까지이고 **mPFC D1R가 스트레스성 과식을 매개한다는 인과는 미검증**.
 - 20 Hz HFS가 스트레스 없이 과식을 모사하고 **1 Hz LFS depotentiation이 스트레스성 과식을 막는다** → 주파수 의존 가역성.
 
-**강박의 피질 진행 순서 가설** ([[concept-compulsion]] · [[luscher-2021-consolidating-the-circuit-model-for]])
+**강박의 cortex 진행 순서 가설** ([[concept-compulsion]] · [[luscher-2021-consolidating-the-circuit-model-for]])
 - 기능 분업: **mPFC = 주의·반응억제, OFC = 가치 갱신**(lateral=목표지향 유지, medial=정보 통합).
 - 상류 순서 가설: **mPFC 변화 → OFC 변화 → 더 dorsolateral한 DST(ACC·motor cortex 통제)로 진행하는 dorsalization**. ventral→dorsal 전파는 NAc→SNc→DST의 spiraling connectivity를 탄다.
 - 강박의 시냅스 좌표는 **OFC→DST**이고 인공 depotentiation/potentiation으로 **양방향 인과**가 확인됐다(Pascoli 2018) — 되돌릴 수 있다는 점이 치료 논리의 핵심.
@@ -109,7 +109,7 @@ PFC는 섭식에서 **억제(brake)와 구동(drive) 두 방향으로 동시에 
 | PFC → **LH^LepR** | 62% 억제(n=73 cells, p=0.02), 다시냅스 추정 | 자극→open arm 체류↓(p=0.00039) | **brake** (anxiogenic, 고불안 한정) | [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] |
 | vmPFC → **NAc shell** | streamline shell 밀집(p<0.001) | 비만에서 연결성·두께↓ | **brake** (충동조절) | [[barbosa-2022-aberrant-impulse-control-circuitry]] |
 | OFC → **DST** | D1/D2-SPN 양쪽 강화 | depotentiation→perseverance↓ (양방향) | **drive** (강박) | [[luscher-2021-consolidating-the-circuit-model-for]] · [[concept-compulsion]] |
-| **LH^GABA → IL/PL mPFC** (역방향) | 전뇌 지도상 분지 | — | **미지** (기능 자료 없음) | [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] · [[stuber-2016-lateral-hypothalamic-circuits-for]] |
+| **LH^GABA → IL/PL mPFC** (역방향) | whole-brain 지도상 분지 | — | **미지** (기능 자료 없음) | [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] · [[stuber-2016-lateral-hypothalamic-circuits-for]] |
 
 ```mermaid
 graph LR
@@ -166,7 +166,7 @@ graph LR
 **주파수 접점 — 인간 쪽 readout이 이미 있다** ([[talakoub-2017-lateral-hypothalamic-activity-indicates]])
 - 살아있는 인간 LHA LFP에서 **배고픔 = beta/low-gamma, 포만 = alpha**. 선행 NHP와 수렴(배고픈 영장류 LHA ~20 Hz beta, glucose 후 ~5 Hz).
 - 포만 리듬을 모사한 **8 Hz DBS가 fullness를 인공 유발했으나 craving은 못 줄였다** → homeostatic 포만(LHA로 조절 가능)과 non-homeostatic craving(불변)의 분리.
-- 이 대역이 위 mPFC→LH beta(15–30 Hz)와 겹친다 — **연결 가설**(두 논문 모두 이렇게 쓰지 않았다): 피질–시상하부 beta 동기화가 공통 화폐라면, 자극의 종결점은 "활성 증감"이 아니라 **동기화의 파괴**여야 한다. [[concept-temporal-interference-stimulation|TI]]가 주로 기존 리듬을 **desynchronize**하고 entrain은 약하다는 [[vieira-2024-temporal-interference-stimulation-disrupts|Vieira 2024]]의 한계가 여기서는 오히려 쓸모 있는 niche가 된다. 설계는 [[proposal-ttis-feeding-reward-circuits]]의 LHA beta biomarker closed-loop tTIS.
+- 이 대역이 위 mPFC→LH beta(15–30 Hz)와 겹친다 — **연결 가설**(두 논문 모두 이렇게 쓰지 않았다): cortex–hypothalamus beta 동기화가 공통 화폐라면, 자극의 종결점은 "활성 증감"이 아니라 **동기화의 파괴**여야 한다. [[concept-temporal-interference-stimulation|TI]]가 주로 기존 리듬을 **desynchronize**하고 entrain은 약하다는 [[vieira-2024-temporal-interference-stimulation-disrupts|Vieira 2024]]의 한계가 여기서는 오히려 쓸모 있는 niche가 된다. 설계는 [[proposal-ttis-feeding-reward-circuits]]의 LHA beta biomarker closed-loop tTIS.
 - ⚠️ **단, "beta를 때리면 된다"로 번역되지 않는다**(2026-10-28 수정): [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus|Supiot 2026]]에서 섭식을 **구동하는 자극 주파수는 5 Hz**이고 **10 Hz는 이미 무효**, 20 Hz·연속 화학유전은 chow를 **줄인다**. 모순은 아니다 — beta는 **관찰된 내재 동기화 대역**이고 5 Hz는 **외부 자극의 유효 대역**이다. 두 층을 구분해 쓸 것.
 
 **인간 연결성 자료의 공백** — [[barbosa-2023-an-orexigenic-subnetwork-within-the]]는 LH–dlHPC rsFC·구조연결이 비만군에서 감소함을 보이지만(rsFC p=0.018, 좌 구조 CI p=0.042) **전두 대조는 없다**. [[overview-lateral-hypothalamus-synthesis]]가 "DTx 코호트에서 LH–VTA/LH–mPFC resting FC를 치료 반응 biomarker로" 제안하는 것은 위키의 **설계 제안이고 실측이 아니다**.
@@ -186,8 +186,8 @@ graph LR
 1. **"저활성 복원" 모델은 한 국면에만 맞다.** tES 페이지들의 기전 절은 전부 "비만=DLPFC 저활성·hedonic>homeostatic → anodal DLPFC가 executive 억제 복원"이다. 이는 §축 1의 **제어 실패 국면**(Cue-evoked·Emotional)에 맞지만, **Restraint 표현형은 dlPFC가 이미 과동원**이다([[lee-2025-hijacked-brain-modern-obesity-cue]]). 같은 montage가 두 군에서 같은 방향으로 들을 이유가 없고, 이것이 [[beaumont-2022-modulating-eating-behavior-with|Beaumont]]의 "전체 g≈0, trait군만 효과"와 정합할 수 있다(**연결 해석** — 원문 주장은 "trait군에 stratify하라"까지다).
 2. **자극 방향이 뒤집힐 수 있는 군이 있다.** [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]]는 PFC 과활성이 LH^LepR을 눌러 불안 맥락의 섭식 개시를 **막는다**고 보고하고, 그 페이지가 세운 가설은 사람 불안장애·섭식장애의 PFC 과활성 소견과 맞물려 **mPFC 하향 조절**(tTIS·cathodal)을 시도할 때 종결점을 "식욕"이 아니라 **"불안 맥락에서의 접근 행동 회복"**(접근-회피 과제, 공공장소 섭식 지연)으로 두어야 한다는 것이다. anodal dlPFC 일변도 프로토콜과 정면으로 어긋난다.
 3. **국면 판별이 자극보다 먼저다.** [[concept-inhibitory-control-demand]]가 제안하는 설계는 VR로 craving을 단계적으로 올리며 dlPFC/ACC 활성과 제어 성공/실패를 동시 측정해 **개인별 제어 역량 곡선**을 추정하는 것이다. 곡선이 낮/이르게 포화하는 개인이 trouble-resisting 취약군이고, 이 곡선 없이 자극하면 두 국면의 반대 부호가 상쇄된다.
-4. **tES가 닿지 않는 표적이 drive 축의 전부다.** §축 2의 구동 회로(rZI·VTA·LH)는 전부 심부이고, [[lee-2025-hijacked-brain-modern-obesity-cue]]도 "대부분 NIBS는 LH·NAc 같은 심부 회로 미접근, TIS·tFUS가 차세대"라고 적는다. **예외가 하나 있다** — [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 표적은 **mPFC 쪽 입구**(PL·ORBm·ACAd)여서 피질 자극 사정권 안이고, 저자들도 TMS·DBS를 치료 표적으로 명시한다. **rZI-mPFC FC를 종결점으로 둔 피질 자극**이 위키 안에서 가장 구체적인 미개척 설계다.
-5. **침습 쪽 선례가 주파수 특정성을 지지한다.** [[nho-2026-human-orbitofrontal-neural-activity-is]]에서 amOFC low-gamma(30–55 Hz)가 증상 상태를 추적하고 NAc-VeP 130 Hz 자극이 그 gamma와 고통을 **동반 감소**시켰다(sham 무효). 반대로 **rostral ACC 자극은 고통을 증가**시켰다(VAS 4→8) — 같은 전전두 안에서도 표적에 따라 부호가 반대라는 인간 증거다. [[proposal-ttis-feeding-reward-circuits]]가 "NAc 우선·시상하부는 LHA 한정·affect 모니터링"을 설계 원칙으로 둔 이유([[parvizi-2022-complex-negative-emotions-induced|ventromedial hypothalamus 음성정동]] 위험).
+4. **tES가 닿지 않는 표적이 drive 축의 전부다.** §축 2의 구동 회로(rZI·VTA·LH)는 전부 심부이고, [[lee-2025-hijacked-brain-modern-obesity-cue]]도 "대부분 NIBS는 LH·NAc 같은 심부 회로 미접근, TIS·tFUS가 차세대"라고 적는다. **예외가 하나 있다** — [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]의 표적은 **mPFC 쪽 입구**(PL·ORBm·ACAd)여서 cortex 자극 사정권 안이고, 저자들도 TMS·DBS를 치료 표적으로 명시한다. **rZI-mPFC FC를 종결점으로 둔 cortex 자극**이 위키 안에서 가장 구체적인 미개척 설계다.
+5. **침습 쪽 선례가 주파수 특정성을 지지한다.** [[nho-2026-human-orbitofrontal-neural-activity-is]]에서 amOFC low-gamma(30–55 Hz)가 증상 상태를 추적하고 NAc-VeP 130 Hz 자극이 그 gamma와 고통을 **동반 감소**시켰다(sham 무효). 반대로 **rostral ACC 자극은 고통을 증가**시켰다(VAS 4→8) — 같은 prefrontal 안에서도 표적에 따라 부호가 반대라는 인간 증거다. [[proposal-ttis-feeding-reward-circuits]]가 "NAc 우선·hypothalamus는 LHA 한정·affect 모니터링"을 설계 원칙으로 둔 이유([[parvizi-2022-complex-negative-emotions-induced|ventromedial hypothalamus 음성정동]] 위험).
 
 ### ⚠️ 위키 내 긴장·미해결
 - **brake vs drive를 같은 영역이 맡는다.** [[linders-2022-stress-driven-potentiation-of-lateral]] 페이지가 이미 이렇게 정리했다 — "mPFC는 스트레스·강박·유연성이 동시에 통과하는 **병목**이고, 그 출력 방향(→VTA / →ZI / ←VTA DA)에 따라 효과 부호가 갈린다". 이 hub는 거기에 →LH(brake)·→NAc shell(brake)·→DST(drive)를 더한다.
@@ -224,7 +224,7 @@ graph LR
 - [[concept-transcranial-electrical-stimulation]] — tDCS/tACS/tRNS modality hub(주 표적 DLPFC).
 - [[jeong-2024-efficacy-of-transcranial-direct]] · [[beaumont-2022-modulating-eating-behavior-with]] · [[saeki-2022-a-systematic-review-on]] · [[perri-2021-transcranial-direct-current-stimulation]] · [[antal-2022-non-invasive-brain-stimulation-and]] — dlPFC 자극 임상 증거 4편 + NIBS 일반 원칙.
 - [[concept-temporal-interference-stimulation]] · [[proposal-ttis-feeding-reward-circuits]] — 심부 drive 회로 접근 수단과 LHA beta biomarker closed-loop 설계.
-- [[nho-2026-human-orbitofrontal-neural-activity-is]] — 같은 전전두 안에서 표적에 따라 부호가 반대라는 인간 침습 증거(amOFC 자극 vs rostral ACC 자극).
+- [[nho-2026-human-orbitofrontal-neural-activity-is]] — 같은 prefrontal 안에서 표적에 따라 부호가 반대라는 인간 침습 증거(amOFC 자극 vs rostral ACC 자극).
 - [[rangel-2008-a-framework-for-studying-the]] · [[odoherty-2016-multiple-systems-for-the-motivational]] — goal value(OFC·DLPFC)·vmPFC 가치 부호화·vlPFC/frontopolar arbitration; 충돌 유형 분류.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — vmPFC 선택적 주의로 목표 몰입 지지; 억제 부하의 **상류** 개입 표적.
 - [[soutschek-2021-opioid-antagonism-modulates-wanting]] · [[tabibnia-2026-cue-labeling-reduces-cigarette-craving]] — DLPFC–striatum 결합·ventrolateral PFC를 경유한 갈망 조절(약리·인지 경로).

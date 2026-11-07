@@ -28,4 +28,4 @@ updated: 2026-08-05
 - [[concept-interoception]] — 핵심 연구 대상.
 - [[concept-effort-based-decision-making]] — 동기의 계산적 phenotyping.
 - [[person-kroemer-nils]] — gut-brain×reward×depression 인접 연구자.
-- [[person-choi-hyung-jin]] — 사용자(섭식·시상하부·GLP-1·NMPU); metabolic-mental health 접점.
+- [[person-choi-hyung-jin]] — 사용자(섭식·hypothalamus·GLP-1·NMPU); metabolic-mental health 접점.

@@ -10,7 +10,7 @@ year: 2021
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 비만·폭식을 **LH–VTA–NAc 도파민 보상 회로 + 시상하부 항상성**의 이상으로 보고 표적별([[concept-nucleus-accumbens|NAc]]·[[concept-lateral-hypothalamus|LH]]·[[concept-ventromedial-hypothalamus|VMH]]) 동물·인간 [[concept-deep-brain-stimulation|DBS]]를 정리한 국문 학회지 영문 리뷰. 핵심 통찰: 표적마다 기전이 다름(**NAc/LH=보상·도파민, VMH=대사율**), NAc core/shell·D1/D2·"wanting vs liking" 분리, 폐루프 NAc DBS가 미래. 한국 신경외과 관점의 종합.
+> 비만·폭식을 **LH–VTA–NAc 도파민 보상 회로 + hypothalamus 항상성**의 이상으로 보고 표적별([[concept-nucleus-accumbens|NAc]]·[[concept-lateral-hypothalamus|LH]]·[[concept-ventromedial-hypothalamus|VMH]]) 동물·인간 [[concept-deep-brain-stimulation|DBS]]를 정리한 국문 학회지 영문 리뷰. 핵심 통찰: 표적마다 기전이 다름(**NAc/LH=보상·도파민, VMH=대사율**), NAc core/shell·D1/D2·"wanting vs liking" 분리, 폐루프 NAc DBS가 미래. 한국 신경외과 관점의 종합.
 
 # Deep brain stimulation for obesity or binge-eating behavior: an overview (Roh 2021)
 
@@ -20,9 +20,9 @@ year: 2021
 ## 핵심 내용
 - **동물(NAc)**: shell DBS(Halpern 2013, 마우스)가 고지방 섭취↓, D2R 길항제로만 차단. core(전, "wanting") vs lateral shell(중, "liking") 분리; medial shell 자극은 공포/회피 부작용. Zhang 2015: NAc shell DBS가 **diet-induced obese에서만** 감량·D2R mRNA↑.
 - **동물(LH/VMH)**: LH DBS(Sani 2007)는 섭취 불변·체중↓(대사 기전); VMH DBS(Torres 2012 원숭이, 80 Hz)는 체중·체지방↓(호르몬 무변), Melega 저주파 minipig도 체중증가 억제.
-- **인간**: LH pilot([[whiting-2013-lateral-hypothalamic-area-deep|Whiting 2013]]) 3명 중 2명 감량+RMR↑; Hamani 복측 시상하부 저주파 ~6% 감량; NAc 사례([[mantione-2010-smoking-cessation-and-weight|Mantione]]·[[harat-2016-nucleus-accumbens-stimulation-in|Harat]]) 감량+정신과 개선.
+- **인간**: LH pilot([[whiting-2013-lateral-hypothalamic-area-deep|Whiting 2013]]) 3명 중 2명 감량+RMR↑; Hamani ventral hypothalamus 저주파 ~6% 감량; NAc 사례([[mantione-2010-smoking-cessation-and-weight|Mantione]]·[[harat-2016-nucleus-accumbens-stimulation-in|Harat]]) 감량+정신과 개선.
 - **진행 중 임상(Table 3)**: VMH BLESS(De Salles, NCT02232919); **NAc 폐루프 DBSLOC**([[wu-2020-brain-responsive-neurostimulation-for-loss|Wu]], NCT03868670).
-- **주장**: 비만/폭식은 도파민 보상 회로 + 시상하부 항상성 이상이므로 NAc·LH·VMH DBS가 유망; 표적별 기전 차이(NAc/LH 보상 vs VMH 대사), 효과 지속성 우려로 **폐루프 NAc DBS**가 핵심 방향.
+- **주장**: 비만/폭식은 도파민 보상 회로 + hypothalamus 항상성 이상이므로 NAc·LH·VMH DBS가 유망; 표적별 기전 차이(NAc/LH 보상 vs VMH 대사), 효과 지속성 우려로 **폐루프 NAc DBS**가 핵심 방향.
 - **안전성**: Whiting LH pilot AE 없음; 동물 medial NAc shell 자극은 공포/회피.
 
 ## 관련 페이지
@@ -34,4 +34,4 @@ year: 2021
 - [[wu-2020-brain-responsive-neurostimulation-for-loss]] · [[whiting-2013-lateral-hypothalamic-area-deep]] · [[harat-2016-nucleus-accumbens-stimulation-in]] · [[mantione-2010-smoking-cessation-and-weight]] — 인용 1차 연구.
 - [[dupre-2015-deep-brain-stimulation-for]] · [[formolo-2019-deep-brain-stimulation-for]] — 인접 리뷰.
 - [[concept-loss-of-control-eating]] — 폭식 표적.
-- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 표적 선정 단서: 본 페이지는 '동물 medial NAc shell 자극=공포/회피 부작용'이라며 내측 shell을 피할 아구역으로 두지만, Mingote는 같은 구획에 **적응적 기능(DA-GLU 매개 전환·소거 촉진)** 을 배정한다. 혐오 표현형이 경로의 생리적 기능이 아니라 **구획 전체(DA-only 지배 이웃·통과섬유)의 비특이적 전기 동원** 결과일 가능성.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 표적 선정 단서: 본 페이지는 '동물 medial NAc shell 자극=공포/회피 부작용'이라며 medial shell을 피할 아구역으로 두지만, Mingote는 같은 구획에 **적응적 기능(DA-GLU 매개 전환·소거 촉진)** 을 배정한다. 혐오 표현형이 경로의 생리적 기능이 아니라 **구획 전체(DA-only 지배 이웃·통과섬유)의 비특이적 전기 동원** 결과일 가능성.

@@ -7,7 +7,7 @@ aliases: [EEC, enteroendocrine, gut endocrine cells]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **위장관에 산재된 화학감지 호르몬 분비 세포의 패밀리.** 핵심 구조 차이는 **폐쇄형(ghrelin: lumen 노출 X) vs 개방형(CCK·GLP-1·PYY: 미세융모로 lumen 직접 감지)** — 이 차이가 영양소 감지 패러다임을 결정. 그리고 **신경전달-유사 "neuropod"** 분비 모드의 발견은 위장관-신경계 통합 신호 (gut connectome)의 새 패러다임을 열었음.
+> **gastrointestinal tract에 산재된 화학감지 호르몬 분비 세포의 패밀리.** 핵심 구조 차이는 **폐쇄형(ghrelin: lumen 노출 X) vs 개방형(CCK·GLP-1·PYY: 미세융모로 lumen 직접 감지)** — 이 차이가 영양소 감지 패러다임을 결정. 그리고 **신경전달-유사 "neuropod"** 분비 모드의 발견은 gastrointestinal tract-신경계 통합 신호 (gut connectome)의 새 패러다임을 열었음.
 
 # Enteroendocrine cells (EEC)
 

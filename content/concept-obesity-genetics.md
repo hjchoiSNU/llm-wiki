@@ -7,7 +7,7 @@ aliases: [obesity genetics, monogenic obesity, 단일유전자 비만, oligogeni
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 인간 비만 유전학은 **"어떤 회로가 체중을 인과적으로 정하는가"에 대한 인간 쪽 최강 증거**다. 희귀·대효과 변이(monogenic)는 거의 전부 **시상하부 leptin–melanocortin 축**([[concept-leptin|LEP]]→[[concept-pomc-neurons|POMC]]→α-MSH→[[concept-mc4r|MC4R]])에 몰리고, 흔한·소효과 변이(polygenic, GWAS >1,000 loci)는 **뇌 전반(보상·중독 영역 포함)** 에 퍼져 있다. 사용자 lab 관점에서 이는 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Need 축(항상성) 결손 vs Pleasure/Motivation 축 개인차**라는 두 비만 유형을 유전적으로 구분할 틀이며, [[concept-glp1ra-response-variability|GLP-1RA 반응 층화]]·setmelanotide 적응증 판단의 근거가 된다. 1차 출처는 [[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026 Nat Metab]].
+> 인간 비만 유전학은 **"어떤 회로가 체중을 인과적으로 정하는가"에 대한 인간 쪽 최강 증거**다. 희귀·대효과 변이(monogenic)는 거의 전부 **hypothalamus leptin–melanocortin 축**([[concept-leptin|LEP]]→[[concept-pomc-neurons|POMC]]→α-MSH→[[concept-mc4r|MC4R]])에 몰리고, 흔한·소효과 변이(polygenic, GWAS >1,000 loci)는 **뇌 전반(보상·중독 영역 포함)** 에 퍼져 있다. 사용자 lab 관점에서 이는 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Need 축(항상성) 결손 vs Pleasure/Motivation 축 개인차**라는 두 비만 유형을 유전적으로 구분할 틀이며, [[concept-glp1ra-response-variability|GLP-1RA 반응 층화]]·setmelanotide 적응증 판단의 근거가 된다. 1차 출처는 [[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026 Nat Metab]].
 
 # 비만 유전학 — monogenic·oligogenic·polygenic 연속체
 
@@ -27,7 +27,7 @@ aliases: [obesity genetics, monogenic obesity, 단일유전자 비만, oligogeni
 - **'isolated vs syndromic' 이분법은 연속체**로 대체 — LEP/LEPR 결손 아동에도 신경발달 이상↑.
 - **GWAS**: GIANT ~70만 명에서 941 SNP가 BMI 분산의 6.0% 설명. PRS(2.1M SNP) 최상위 10분위 BMI 30.0 vs 최하위 25.2; 상위 1.6% ≈ MC4R 보인자 효과. 저 PRS는 장기적으로 중증비만이 거의 없음 → **유전적 보호**.
 - **흔한 변이 ≠ 코딩 변이**: 대부분 비코딩, LD 때문에 인과 변이·표적 유전자 특정이 어려움 → 3D 크로마틴·MPRA·CRISPRi/a ([[concept-cis-regulatory-element-obesity]]). FTO는 대표적 'red herring'(실제 effector는 IRX3/IRX5).
-- **발현 부위 논쟁**: 흔한 비만 유전자가 **시상하부 우선**([[johansen-2025-brain-control-of-energy|Johansen 2025]])인가, **insula·substantia nigra 등 보상 영역 우선**([[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]], [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]])인가 — ⚠️ 위키 내 병기.
+- **발현 부위 논쟁**: 흔한 비만 유전자가 **hypothalamus 우선**([[johansen-2025-brain-control-of-energy|Johansen 2025]])인가, **insula·substantia nigra 등 보상 영역 우선**([[bonnefond-2026-the-genetics-of-obesity|Bonnefond 2026]], [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]])인가 — ⚠️ 위키 내 병기.
 
 ## 치료 번역 (정밀의학)
 - **상류 결손은 agonist로 우회 가능**: setmelanotide 1년 ≥10% 감량 — POMC/PCSK1 80%(−25.8%), LEPR 53%(−12.3%); BBS ≥5% 감량 70%; FDA ≥2세 4개 형태 승인.

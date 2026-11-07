@@ -10,7 +10,7 @@ journal: "Diabetes 2024;73:1027–1031; doi:10.2337/dbi24-0025 (Classics in Diab
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **지금 우리가 쓰는 GLP-1 도구상자가 전부 1993년 논문 한 편에서 갈라져 나왔다**는 계보도. Thorens가 1992년 rat GLP-1R을 발현클로닝한 직후, 1993년 human islet cDNA library에서 **인간 GLP-1R(463 aa)을 클로닝·기능발현**하고 같은 논문에서 **exendin-4(1-39)=full agonist / exendin-(9-39)=full antagonist**를 규정했다. 사용자 lab에 걸리는 지점은 세 가지다. (1) **도구**: [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]]가 DMH 회로에서 쓴 exendin 계열 길항제, 그리고 뇌 GLP-1R 지도를 그리는 **형광·PET exendin probe**가 모두 "N-말단을 자르면 길항제가 된다"는 이 1993년 관찰에서 파생됐다. 항체로 GPCR을 못 보는 문제를 **리간드 probe**로 우회하는 전략은 인간 시상하부·CeA GLP-1R 정량에 그대로 쓸 수 있다. (2) **인간 유전학의 수렴**: GLP-1R 변이의 효과크기는 **세포표면 발현량**과 **Gs 공역 강도**로 예측된다 — [[su-2026-genetic-predictors-of-glp1-receptor|Su 2026]]의 p.Pro7Leu 트래피킹 가설, [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 AP Gs–cAMP 필수성과 같은 축을 가리킨다. (3) **공백**: 내재화·endosomal signaling·desensitization 데이터는 **거의 전부 β세포·세포주**에서 나왔다. **뉴런 GLP-1R의 trafficking은 사실상 미탐색** — DMH·CeA 회로에서 [[concept-biased-agonism|biased agonism]]과 수용체 표면 유지가 작용 지속·내성·중단 후 rebound를 어떻게 바꾸는지는 열려 있는 문제이고, 사용자 lab의 회로 도구와 직결된다.
+> **지금 우리가 쓰는 GLP-1 도구상자가 전부 1993년 논문 한 편에서 갈라져 나왔다**는 계보도. Thorens가 1992년 rat GLP-1R을 발현클로닝한 직후, 1993년 human islet cDNA library에서 **인간 GLP-1R(463 aa)을 클로닝·기능발현**하고 같은 논문에서 **exendin-4(1-39)=full agonist / exendin-(9-39)=full antagonist**를 규정했다. 사용자 lab에 걸리는 지점은 세 가지다. (1) **도구**: [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]]가 DMH 회로에서 쓴 exendin 계열 길항제, 그리고 뇌 GLP-1R 지도를 그리는 **형광·PET exendin probe**가 모두 "N-말단을 자르면 길항제가 된다"는 이 1993년 관찰에서 파생됐다. 항체로 GPCR을 못 보는 문제를 **리간드 probe**로 우회하는 전략은 인간 hypothalamus·CeA GLP-1R 정량에 그대로 쓸 수 있다. (2) **인간 유전학의 수렴**: GLP-1R 변이의 효과크기는 **세포표면 발현량**과 **Gs 공역 강도**로 예측된다 — [[su-2026-genetic-predictors-of-glp1-receptor|Su 2026]]의 p.Pro7Leu 트래피킹 가설, [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 AP Gs–cAMP 필수성과 같은 축을 가리킨다. (3) **공백**: 내재화·endosomal signaling·desensitization 데이터는 **거의 전부 β세포·세포주**에서 나왔다. **뉴런 GLP-1R의 trafficking은 사실상 미탐색** — DMH·CeA 회로에서 [[concept-biased-agonism|biased agonism]]과 수용체 표면 유지가 작용 지속·내성·중단 후 rebound를 어떻게 바꾸는지는 열려 있는 문제이고, 사용자 lab의 회로 도구와 직결된다.
 
 # Building the GLP-1 Receptor Brick by Brick (Thorens & Hodson 2024)
 
@@ -98,12 +98,12 @@ journal: "Diabetes 2024;73:1027–1031; doi:10.2337/dbi24-0025 (Classics in Diab
 - **해법**: **N-말단이 잘린 exendin9가 강력한 길항제라는 1993년 관찰**에 기반해, **exendin4와 exendin9에 형광단·PET/MRI 분자·올리고뉴클레오타이드를 결합(functionalize)**해도 (길)항 활성이 크게 손실되지 않는다는 점을 이용(Ast 2021 EBioMedicine 리뷰).
 - 그 probe들의 성과:
   - **뇌와 췌장의 GLP-1R 결합부위를 획정**하는 데 광범위하게 사용됐다.
-  - **형광 리간드로, 말초 투여된 exendin4와 semaglutide가 시상하부와 뇌간에 쉽게 접근함을 입증**(Gabery 2020 JCI Insight; Secher 2014 J Clin Invest; Ast 2020 Nat Commun).
+  - **형광 리간드로, 말초 투여된 exendin4와 semaglutide가 hypothalamus와 brainstem에 쉽게 접근함을 입증**(Gabery 2020 JCI Insight; Secher 2014 J Clin Invest; Ast 2020 Nat Commun).
   - 같은 probe가 **GLP-1R이 췌장 β세포에 풍부하고 α세포에는 거의 없음**을 보였다.
   - **GLP-1R의 β세포 특이적 "분자 주소" + 리간드 의존적 내재화**를 이용해, **세포막 불투과성 antisense oligonucleotide를 exendin4를 운반체(cargo carrier)로 삼아 β세포에 유전자치료로 전달**(Ämmälä 2018 Sci Adv). → [[concept-peptide-drug-conjugate]]
   - **exendin4 결합 PET/MRI probe**가 전임상 모델에서 **β세포량을 비침습적으로 정량**할 가능성을 보였고(Gotthardt 2006), **줄기세포 유래 β-유사세포의 이식 후 생존**까지 추적(Lithovius 2023 bioRxiv preprint).
 
-> ⚠️ **"readily access"를 위키의 BBB 서술과 어떻게 맞출 것인가**: 본 commentary는 형광 리간드 근거로 말초 exendin4·semaglutide가 **시상하부·뇌간에 쉽게 접근**한다고 쓴다. 위키 [[concept-glp-1]]의 BBB 경고는 **"펩타이드 GLP-1RA는 BBB를 효율적으로 통과하지 못하고, 접근은 뇌실주위기관·[[concept-tanycytes|tanycyte]] 수송에 국한되며 CSF 농도는 미량"**이다. 두 서술은 **배타적이지 않다** — 시상하부(정중융기·tanycyte 경유)와 뇌간(AP 경유)은 바로 그 **BBB 바깥/주변 접근 가능 구역**이기 때문이다. [[kim-2025-mechanisms-of-glucagon-like-peptide|Kim 2025]]도 "형광 liraglutide·semaglutide는 시상하부·뇌간까지만, 변연계는 못 간다"고 적어 같은 경계를 그린다. 다만 본 commentary의 "readily"는 **접근의 범위·효율을 한정하지 않는 표현**이므로, 이 문장만 떼어 "GLP-1RA가 뇌에 잘 들어간다"는 근거로 쓰면 안 된다. → [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]]·[[concept-blood-brain-barrier-shuttle]]
+> ⚠️ **"readily access"를 위키의 BBB 서술과 어떻게 맞출 것인가**: 본 commentary는 형광 리간드 근거로 말초 exendin4·semaglutide가 **hypothalamus·brainstem에 쉽게 접근**한다고 쓴다. 위키 [[concept-glp-1]]의 BBB 경고는 **"펩타이드 GLP-1RA는 BBB를 효율적으로 통과하지 못하고, 접근은 circumventricular organ·[[concept-tanycytes|tanycyte]] 수송에 국한되며 CSF 농도는 미량"**이다. 두 서술은 **배타적이지 않다** — hypothalamus(median eminence·tanycyte 경유)와 brainstem(AP 경유)은 바로 그 **BBB 바깥/주변 접근 가능 구역**이기 때문이다. [[kim-2025-mechanisms-of-glucagon-like-peptide|Kim 2025]]도 "형광 liraglutide·semaglutide는 hypothalamus·brainstem까지만, limbic system는 못 간다"고 적어 같은 경계를 그린다. 다만 본 commentary의 "readily"는 **접근의 범위·효율을 한정하지 않는 표현**이므로, 이 문장만 떼어 "GLP-1RA가 뇌에 잘 들어간다"는 근거로 쓰면 안 된다. → [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]]·[[concept-blood-brain-barrier-shuttle]]
 
 ### CODA — 저자들이 보는 다음 30년
 - 지난 20년간 T2D·비만 치료제로 **수억 명**이 혜택. 그 성공은 **기초·전임상·임상 여러 갈래의 엄밀하고 재현 가능한 발견**이 창약을 밀고 당긴 결과.
@@ -117,7 +117,7 @@ journal: "Diabetes 2024;73:1027–1031; doi:10.2337/dbi24-0025 (Classics in Diab
 - 뇌 GLP-1R은 "probe로 결합부위를 그렸다" 수준으로만 다뤄지고, **회로·행동 수준 논의는 없다**. 사용자 lab의 관심축(DMH·CeA·AP 분업)은 본 글의 범위 밖이다.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
-- **인간 조직 GLP-1R 정량의 현실적 경로**: 항체 기반 IHC의 한계(detergent가 에피토프를 가린다)는 [[gupta-2021-glucagon-like-peptide-1-and|Gupta 2021]]의 인간 뇌 GLP-1R 반정량 IHC가 갖는 불확실성을 **기술적으로 설명**해 준다. 인간 postmortem 시상하부에서 DMH GLP-1R를 정량하려면 **형광 exendin probe**가 항체보다 나은 선택일 수 있다. → [[proposal-dmh-glp1r-human-imaging]]
+- **인간 조직 GLP-1R 정량의 현실적 경로**: 항체 기반 IHC의 한계(detergent가 에피토프를 가린다)는 [[gupta-2021-glucagon-like-peptide-1-and|Gupta 2021]]의 인간 뇌 GLP-1R 반정량 IHC가 갖는 불확실성을 **기술적으로 설명**해 준다. 인간 postmortem hypothalamus에서 DMH GLP-1R를 정량하려면 **형광 exendin probe**가 항체보다 나은 선택일 수 있다. → [[proposal-dmh-glp1r-human-imaging]]
 - **exendin-(9-39)는 여전히 현역 도구**: [[concept-incretin-effect]]·[[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]]에 기록된 인간 RYGB 차단 실험, [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]]의 ex vivo 길항 실험이 모두 1993년에 정의된 이 분자에 의존한다. "GLP-1 작용의 필요성"을 묻는 모든 실험의 기준 시약.
 - **probe→cargo로의 전환이 중추에도 가능한가**: exendin4가 antisense oligo를 β세포로 실어 나른 논리는 **GLP-1R 발현 뉴런으로 payload를 보내는** 설계와 형식적으로 같다. 위키에 이미 같은 논리의 중추 사례가 있다 — GLP-1에 NMDA 길항제를 붙여 **GLP-1R 뉴런 한정**으로 작용시키는 설계([[kim-2025-mechanisms-of-glucagon-like-peptide]]의 Petersen 2024 GLP-1+MK-801), [[liskiewicz-2026-glp-1r-gipr-ppar|PPAR 소분자 접합 5중작용제]]. 단 중추 전달은 **BBB 제약**이 추가된다([[concept-blood-brain-barrier-shuttle]]).
 - **biased agonism을 회로 변수로 번역하기**: 본 글은 편향을 **β세포 인슐린 분비·desensitization** 축에서만 다룬다. DMH(항상성)·CeA(기호성)·AP(혐오) 분업이 이미 정리된 위키 상태([[concept-glp-1]] 3-1절)에서는, **"편향이 부위별 효과 비율을 바꾸는가"**가 검증 가능한 질문이 된다 — 예컨대 β-arrestin 회피 편향이 AP 혐오 축과 DMH 섭취 축에 같은 비율로 작용할 이유는 없다. [[godschall-2026-a-brain-reward-circuit-inhibited|경구 소분자]]와 [[concept-biased-agonism]]이 맞물리는 지점.
@@ -135,7 +135,7 @@ journal: "Diabetes 2024;73:1027–1031; doi:10.2337/dbi24-0025 (Classics in Diab
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] · [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 사용자 lab 리뷰; GLP-1 약물 발전사(Ex-4 1992→Byetta 2005→liraglutide→semaglutide)의 **수용체 쪽 계보**를 본 글이 보완.
 - [[concept-central-amygdala-glp1r]] · [[concept-dorsomedial-hypothalamus]] · [[concept-area-postrema]] — 뇌 GLP-1R 부위별 노드. 본 글의 **형광·PET exendin probe**는 이 부위들의 수용체를 **인간에서 정량**할 도구 후보.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포 IHC. 본 글의 "항체로 GPCR 보기 어렵다"는 지적이 그 반정량 한계의 **기술적 배경**.
-- [[concept-tanycytes]] · [[concept-blood-brain-barrier-shuttle]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-access]] — 말초 exendin4·semaglutide가 시상하부·뇌간에 "접근"한다는 본 글의 서술을 **BBB 경계 안에서 읽는** 좌표.
+- [[concept-tanycytes]] · [[concept-blood-brain-barrier-shuttle]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-access]] — 말초 exendin4·semaglutide가 hypothalamus·brainstem에 "접근"한다는 본 글의 서술을 **BBB 경계 안에서 읽는** 좌표.
 - [[concept-peptide-drug-conjugate]] — exendin4를 antisense oligo 운반체로 쓴 β세포 유전자치료 = PDC 논리의 **초기 성공 사례**.
 - [[concept-gip]] · [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide의 **GIPR 쪽 불균형**과 ECL1 형태 차이(cryo-EM)가 dual agonist 기전 논쟁에 거는 구조적 근거.
 - [[concept-de-novo-protein-design]] · [[muratspahic-2026-de-novo-design-of-miniproteins]] — GLP1R ECD를 표적하는 de novo 길항제 설계. 본 글의 **"ECD가 리간드 C-말단을 붙잡는다"**는 구조 원리가 그 설계 전제.

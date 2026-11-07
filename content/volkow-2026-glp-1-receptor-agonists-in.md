@@ -11,7 +11,7 @@ journal: "Science 394(6824):610–611 (5 November 2026), Perspective, 특집 'GL
 
 > [!takeaway] 연구 방향 관점의 핵심
 > NIDA 소장 Volkow가 GLP-1RA를 중독 치료제로 보는 틀을 **뇌 보상회로 중심에서 "전신(whole-person) 건강" 중심으로 넓히자**고 제안한 짧은 관점 글이다. 근거 수준에 대해서는 스스로 "인간 근거는 아직 예비적이나 점점 설득력이 커진다"고 쓴다.
-> 사용자 lab에 닿는 지점: (1) 제안된 도파민 기전은 **보상 관련 도파민 spike는 줄이고 운동·동기·실행기능에 필요한 tonic 도파민은 유지**한다는 것이다. 음식과 약물에 같은 기전을 적용한다 — [[concept-food-addiction]]·[[concept-need-motivation-pleasure-utility|NMPU]]의 약리 검증 축이다. 다만 위키의 [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]는 semaglutide가 누른 VTA 도파민 소비 반응이 며칠 안에 **회복**된다고 보고해, 이 기전의 **장기 지속성**이 핵심 미해결 질문으로 남는다. (2) 배고픔·스트레스·불편·각성 같은 **내수용 신호가 중변연계 도파민 학습을 통해 물질 추구와 묶인다**는 서술은 [[concept-primary-reward-signals]]·[[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]]의 내수용 강화학습 틀과 같은 방향이다. (3) 섭식장애 위험군에서는 **감량 자체가 강화물이 되어 오남용**될 수 있다는 경고는 lab의 섭식장애 임상 라인([[song-2024-case-reports-of-binge-eating]])과 DTx 병용 설계에 직접 걸린다.
+> 사용자 lab에 닿는 지점: (1) 제안된 도파민 기전은 **보상 관련 도파민 spike는 줄이고 운동·동기·실행기능에 필요한 tonic 도파민은 유지**한다는 것이다. 음식과 약물에 같은 기전을 적용한다 — [[concept-food-addiction]]·[[concept-need-motivation-pleasure-utility|NMPU]]의 약리 검증 축이다. 다만 위키의 [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]는 semaglutide가 누른 VTA 도파민 소비 반응이 며칠 안에 **회복**된다고 보고해, 이 기전의 **장기 지속성**이 핵심 미해결 질문으로 남는다. (2) 배고픔·스트레스·불편·각성 같은 **내수용 신호가 중limbic system 도파민 학습을 통해 물질 추구와 묶인다**는 서술은 [[concept-primary-reward-signals]]·[[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]]의 내수용 강화학습 틀과 같은 방향이다. (3) 섭식장애 위험군에서는 **감량 자체가 강화물이 되어 오남용**될 수 있다는 경고는 lab의 섭식장애 임상 라인([[song-2024-case-reports-of-binge-eating]])과 DTx 병용 설계에 직접 걸린다.
 
 # GLP-1 receptor agonists in addiction therapy (Volkow & Wargo 2026)
 
@@ -41,10 +41,10 @@ GLP-1RA가 알코올·니코틴·오피오이드·자극제 갈망을 줄일 수
 - GLP-1RA 단독 또는 기존 승인약과의 병용을 보는 RCT 여러 건이 계획·진행 중이다.
 
 ### 4. "전신 건강" 틀 — 뇌와 몸의 양방향 상호작용
-- 만성 물질 노출은 자율·내분비·대사 기능, 염증·면역 반응, 위장관 생리와 장내 미생물, 수면·일주기를 교란한다. 이 계통들은 서로에게, 그리고 뇌에 **양방향으로** 영향을 준다(ref 10 = [[onimus-2026-the-gut-brain-vagal-axis-governs|Onimus 2026 Sci Adv]], ref 11).
+- 만성 물질 노출은 자율·내분비·대사 기능, 염증·면역 반응, gastrointestinal tract 생리와 장내 미생물, 수면·일주기를 교란한다. 이 계통들은 서로에게, 그리고 뇌에 **양방향으로** 영향을 준다(ref 10 = [[onimus-2026-the-gut-brain-vagal-axis-governs|Onimus 2026 Sci Adv]], ref 11).
   - 염증·대사 질환은 심리적 고통과 물질 오용의 취약성을 높이고, 만성 약물 사용은 역으로 면역·대사·혈관 건강을 해친다.
   - **염증은 보상 처리와 동기 상태에 영향**을 주고 물질 사용은 염증 신호를 키운다 → 항염증제가 물질사용장애 치료 후보로 연구되고 있다(ref 12). 위키의 [[concept-hypothalamic-inflammation]]과 같은 축.
-  - 위장관의 **영양소 감지**는 동기·스트레스 반응성·행동에 닿는 신경·내분비 경로에 영향을 준다. 배고픔·스트레스·불편·각성 같은 생리 신호는 **중변연계 도파민의 학습·강화 기전을 거쳐 물질 추구와 단단히 묶일 수 있다**.
+  - gastrointestinal tract의 **영양소 감지**는 동기·스트레스 반응성·행동에 닿는 신경·내분비 경로에 영향을 준다. 배고픔·스트레스·불편·각성 같은 생리 신호는 **중limbic system 도파민의 학습·강화 기전을 거쳐 물질 추구와 단단히 묶일 수 있다**.
   - 저자들은 이 상호 작용으로 물질사용장애가 비만·당뇨·만성 통증·우울 등과 **자주 동반**되는 현상을 설명한다.
 - GLP-1은 에너지 균형·항상성뿐 아니라 **염증과 스트레스 적응**도 조율하는 전령이므로, 중독에 동반되는 흔한 질환들에 두루 관여할 수 있다.
 - **중추–말초 GLP-1 계의 소통 경로**(ref 13, Beutler 2026 JCI): vagal afferent, 내분비 신호, 염증 매개체, **circumventricular organs**(BBB 밖에 있는 구조), 일부 경우 BBB 직접 투과. 위키의 [[concept-glp1ra-cns-access]]·[[concept-vagal-afferent-neurons]]가 정리한 경로 목록과 같다.
@@ -78,7 +78,7 @@ GLP-1RA가 알코올·니코틴·오피오이드·자극제 갈망을 줄일 수
 - [[coppin-2022-does-glp-1-receptor-agonist]] — 사람 liking null.
 - [[concept-glp1ra-cns-access]] · [[concept-vagal-afferent-neurons]] · [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 중추–말초 소통 경로.
 - [[concept-central-amygdala-glp1r]] · [[duran-2026-the-central-amygdala-gates]] · [[overview-cea-glp1r-food-safety-alarm]] — ref 14의 amygdala 논점.
-- [[onimus-2026-the-gut-brain-vagal-axis-governs]] — ref 10. gut-brain vagal axis가 중변연계 도파민을 조절.
+- [[onimus-2026-the-gut-brain-vagal-axis-governs]] — ref 10. gut-brain vagal axis가 중limbic system 도파민을 조절.
 - [[concept-lateral-habenula]] — ref 7의 니코틴 회피 구조.
 - [[concept-need-motivation-pleasure-utility]] · [[concept-primary-reward-signals]] · [[weber-2025-interoceptive-origin-reinforcement-learning]] — 내수용 신호 → 강화 학습 틀.
 - [[song-2024-case-reports-of-binge-eating]] · [[concept-loss-of-control-eating]] — 섭식장애 위험군의 오남용 경고.

@@ -12,7 +12,7 @@ aliases: [ARC, arcuate, arcuate nucleus]
 # Hypothalamic arcuate nucleus (ARC)
 
 ## 위치 / 해부
-- 시상하부 mediobasal, third ventricle 양옆.
+- hypothalamus mediobasal, third ventricle 양옆.
 - BBB가 부분적으로 약함 (median eminence 인접) — **말초 호르몬을 직접 감지** 가능.
 
 ## 두 first-order 뉴런 집단
@@ -84,7 +84,7 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[wilbrecht-2024-experimental-biology-can-inform]] — ARC melanocortin(POMC/AgRP) 발달창(P4–16)이 식품 불안정 재프로그래밍에 취약.
 - [[concept-food-insecurity]] — 먹이 불확실성이 ARC 대사회로를 발달기 reshape.
 - [[namkoong-2017-central-administration-of-glp-1]] — ICV GLP-1+GIP 병용이 ARC c-fos·POMC↑; 활성 세포는 POMC 외 별도 집단 (BBRC 2017, 사용자 lab).
-- [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 fMRI에서 비만 T2DM의 시상하부 food cue 활성↑·GLP-1RA 조절 (DMJ 2019, 사용자 lab).
+- [[bae-2019-glucagon-like-peptide-1-receptor]] — 인체 fMRI에서 비만 T2DM의 hypothalamus food cue 활성↑·GLP-1RA 조절 (DMJ 2019, 사용자 lab).
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1/GIP·PYY 병용이 ARC에서 신경활성·POMC↑로 시너지; 병용요법 종합 editorial (JOMES 2017, 사용자 lab).
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — ARC AgRP가 칼로리 아닌 **영양소 정체**(fructose≪glucose)에 반응; graded 억제→food choice (Neuron 2026).
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — ARC POMC PKA→DMV→장 SGLT1 원심성 회로가 식후 혈당 조절(인슐린 비의존) (Nat Commun 2026, Min-Seon Kim).
@@ -102,7 +102,7 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — ARC^AgRP가 받는 **선택적 GABAergic 억제 입력**(vDMH^LepR/pDYN); 음식 cue 시 AgRP를 끄는 식전 회로 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — ARC^AgRP가 받는 **흥분성 입력**(PVH TRH/PACAP·DMH glutamatergic) 동정; PVH 입력이 DMH보다 ~3배 강함 (Nature 2014, Lowell lab).
 - [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — acyl-GIP ARC cFos.
-- [[liu-2025-gipr-ab-glp-1-peptide]] — 궁상핵 GIPR·식욕조절.
+- [[liu-2025-gipr-ab-glp-1-peptide]] — arcuate nucleus GIPR·식욕조절.
 - [[cao-2024-hunting-for-heroes-brain]] — DMH→ARC AgRP 하류.
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ARC AgRP의 병렬·중복 투사(aBNST·PVH·LHA 각각 섭식-충분) 배선 원리 (Cell 2013, Sternson lab).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-medial-preoptic-area]] — ARC AgRP 투사 목록의 **비-섭식 표적**: GABA·NPY로 MPOA를 억제해 양육을 끄고 새끼 공격을 유발. 수유 중 ARC tuberoinfundibular 도파민 뉴런은 프로락틴에 의해 **met-enkephalin으로 신경전달물질 전환** (NRN 2026).
@@ -110,12 +110,12 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[davila-2026-agrp-neurons-are-required-for]] — ARC AgRP가 GLP-1RA 체중 감량에 **필수**(암컷); 세마글루타이드가 `Agrp`/`Npy`·c-FOS·미토콘드리아·AgRP→PVH 말단을 증강 (PNAS 2026).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 ARC(infundibular nucleus)의 AgRP·POMC·kisspeptin 3종 전사체를 세포당 14,000–16,000 transcript 깊이로 비교 (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — ARC LepR 아형 지도(AgRP 2종·POMC 2종·KNDy·Ghrh·Pnoc/Htr3b·Tbx19/Anxa2·PNOC/NPY 등)와 아형별 열린 크로마틴; ARC의 Lepr^Glp1r은 **Trh/Tbx19형** 편중 (bioRxiv 2025).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — ARC 두 first-order 집단의 **전뇌 입력 지도**: 52영역이 POMC로, 그중 35영역이 AgRP로도 투사(시상하부 60–70%). 수렴비 POMC ~49 vs AgRP ~21. **SO(supraoptic)만 AgRP 우세**, POMC 전용 17영역은 총 입력의 ~7%. 통상 추적이 놓친 subiculum·ZI 입력을 새로 검출한 반면 SCN 입력은 미표지 (Front Neuroanat 2015, Luo·Zhan lab).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — ARC 두 first-order 집단의 **whole-brain 입력 지도**: 52영역이 POMC로, 그중 35영역이 AgRP로도 투사(hypothalamus 60–70%). 수렴비 POMC ~49 vs AgRP ~21. **SO(supraoptic)만 AgRP 우세**, POMC 전용 17영역은 총 입력의 ~7%. 통상 추적이 놓친 subiculum·ZI 입력을 새로 검출한 반면 SCN 입력은 미표지 (Front Neuroanat 2015, Luo·Zhan lab).
 - [[concept-monosynaptic-rabies-tracing]] — ARC 회로 상류 매핑에 쓰이는 방법의 원리·정량 단위(시작세포·수렴비)·해석 함정 hub.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — ARC 안에서 단식이 **AgRP 흥분성 입력은 올리고 POMC 입력은 내린다**(세포타입 특이 시냅스 가소성); ghrelin이 AgRP 전시냅스 말단에서 AMPK 양성 되먹임을 켜고, POMC 유래 오피오이드가 그것을 끄는 **ARC 내부 set/reset 회로** (Cell 2011, Sternson lab).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ARC^AgRP가 받는 흥분성 입력의 가소성이 **입력마다 다르다**: PVH^TRH는 전시냅스(방출 부위 수↑), DMH^Vglut2는 후시냅스(진폭↑). 체중 재증가에 필요한 것은 PVH^TRH 쪽뿐 (Cell Metab 2023).
 - [[concept-agrp-synaptic-plasticity]] — ARC 첫 번째 뉴런의 **시냅스 강도 조절** 층 개념 hub(배선·부호화와 구별되는 제3의 축).
 - [[wang-2026-a-hypothalamic-circuit-links]] — 만성 HFD가 ARC^AgRP를 feeding-locked로 모집해 **PVNCRH→LHAGlu** 장거리 회로를 켜고 불안-연합 과식을 구동. ARC가 섭식뿐 아니라 **정서 축의 출발핵**으로 기능하는 질병-맥락 조건 (Nat Commun 2026).
-- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ARC가 받는 **뇌간 입력의 대사 기능**: NTS Adcyap1⁺→ARC 광자극이 섭취 없이 **β-hydroxybutyrate↑·체중↓**(암기 chow 섭취는 억제 못 함, p=0.0741로 오히려 증가 경향)이고 단식 AgRP Fos를 억제. ⚠️ AgRP **활성**이 ketogenesis를 올린다는 Chen 2023과 방향이 어긋나 ARC 내 **AgRP 비의존 기전** 가능성을 남김 (bioRxiv preprint 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ARC가 받는 **brainstem 입력의 대사 기능**: NTS Adcyap1⁺→ARC 광자극이 섭취 없이 **β-hydroxybutyrate↑·체중↓**(암기 chow 섭취는 억제 못 함, p=0.0741로 오히려 증가 경향)이고 단식 AgRP Fos를 억제. ⚠️ AgRP **활성**이 ketogenesis를 올린다는 Chen 2023과 방향이 어긋나 ARC 내 **AgRP 비의존 기전** 가능성을 남김 (bioRxiv preprint 2026).
 - [[liu-2023-an-iterative-neural-processing]] — 넓은 arena 자유행동에서 ARC^AgRP가 섭식 조각 사이 탐색마다 **재상승**(preparation 단계; Fig S2B). "식사 내내 평탄히 꺼짐"이 아니라 조각 단위 진동(Neuron 2023).
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — ARC를 개체 수준 **대사 유연성의 협응 허브**로 본다. median eminence 인접·BBB 밖 노출, tanycyte 수송, AgRP↔POMC 길항 상태 진동이 유연성을 지탱하고 그 붕괴가 비만·노화·신경퇴행으로 간다. 공간 omics·lipizone 측정의 1차 표적으로도 꼽힌다.

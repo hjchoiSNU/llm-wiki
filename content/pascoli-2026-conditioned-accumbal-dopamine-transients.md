@@ -9,12 +9,12 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **중독을 예고하는 도파민 신호는 '보상을 받을 때'가 아니라 'cue를 볼 때'의 측좌핵 도파민 크기다.** 개체마다 인공보상(약물·광유전 도파민 자극)과 자연보상(지방)을 두고 선호가 갈리는데, 이를 가장 잘 예측하는 건 **단서-유발 NAc 도파민(NR−AR 차이)** 이지 reward 시점 도파민이 아니었다. 약한 인공보상을 선호하는 개체가 이후 처벌을 무릅쓰는 강박(compulsion)으로 진행 — **cue 도파민 = 주관적 가치 부호 = 중독 취약성의 조기 biomarker**. 사용자 연구로는 [[concept-incentive-sensitization|유인-감작]]·[[concept-food-addiction|음식 중독]]의 핵심 명제(cue에 부여된 과도한 가치)를 dLight로 직접 검증한 셈 — 인간 [[concept-nucleus-accumbens|NAc]] cue-biomarker([[choi-2025-brain-activity-associated-with-breakthrough|Choi 2025]]) 번역의 동물 기반.
+> **중독을 예고하는 도파민 신호는 '보상을 받을 때'가 아니라 'cue를 볼 때'의 nucleus accumbens 도파민 크기다.** 개체마다 인공보상(약물·광유전 도파민 자극)과 자연보상(지방)을 두고 선호가 갈리는데, 이를 가장 잘 예측하는 건 **단서-유발 NAc 도파민(NR−AR 차이)** 이지 reward 시점 도파민이 아니었다. 약한 인공보상을 선호하는 개체가 이후 처벌을 무릅쓰는 강박(compulsion)으로 진행 — **cue 도파민 = 주관적 가치 부호 = 중독 취약성의 조기 biomarker**. 사용자 연구로는 [[concept-incentive-sensitization|유인-감작]]·[[concept-food-addiction|음식 중독]]의 핵심 명제(cue에 부여된 과도한 가치)를 dLight로 직접 검증한 셈 — 인간 [[concept-nucleus-accumbens|NAc]] cue-biomarker([[choi-2025-brain-activity-associated-with-breakthrough|Choi 2025]]) 번역의 동물 기반.
 
 # Conditioned accumbal dopamine transients forecast individual preference for drug versus natural rewards and compulsive behavior (Pascoli 2026)
 
 ## 한 줄 요약
-마우스가 **자연보상(NR, 지방액)** 과 **인공보상(AR, 코카인 또는 광유전 VTA 도파민 자기자극 oDASS)** 중 선택하는 과제에서, **단서(cue)에 유발되는 측좌핵 도파민 transient의 크기(NR−AR 차이)** 가 개체의 선호를 강하게 예측했다(reward 시점 도파민은 아님). 약한 AR을 선호한 개체가 이후 **처벌 무릅쓴 강박적 추구(perseverance)** 로 진행 → cue 도파민이 **주관적 보상 가치를 부호화**하며 **중독 취약성의 조기 표지**임을 시사. (Nat Neurosci 2026, Lüscher lab; doi 10.1038/s41593-026-02331-y)
+마우스가 **자연보상(NR, 지방액)** 과 **인공보상(AR, 코카인 또는 광유전 VTA 도파민 자기자극 oDASS)** 중 선택하는 과제에서, **단서(cue)에 유발되는 nucleus accumbens 도파민 transient의 크기(NR−AR 차이)** 가 개체의 선호를 강하게 예측했다(reward 시점 도파민은 아님). 약한 AR을 선호한 개체가 이후 **처벌 무릅쓴 강박적 추구(perseverance)** 로 진행 → cue 도파민이 **주관적 보상 가치를 부호화**하며 **중독 취약성의 조기 표지**임을 시사. (Nat Neurosci 2026, Lüscher lab; doi 10.1038/s41593-026-02331-y)
 
 ## 핵심 내용
 

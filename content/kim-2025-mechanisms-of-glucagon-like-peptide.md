@@ -10,12 +10,12 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 lab(최형진 교신, Kyu Sik Kim·Joon Seok Park 공저)의 GLP-1 뇌기전 종합 review** — 자기 lab의 [[namkoong-2017-central-administration-of-glp-1|NamKoong 2017(중추 GLP-1/GIP, ref83)]]·[[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science(DMH preingestive satiation, ref61)]]를 핵심 축으로 인용하며 GLP-1 뇌 작용을 **brain-wide perspective**로 정리. 핵심 메시지: (1) GLP-1R은 시상하부(ARC·DMH·VMH·PVH·LH·SFO)·뇌간(NTS·AP·DVC)·변연계(NAc·VTA·CeA·LS·HP)에 광범위 분포 — 단일 부위 환원 불가. (2) **GLP-1R 작용은 cAMP-PKA→synaptic plasticity(NMDA/AMPA)**로 신경에서 기억·가소성까지 — endogenous GLP-1과 GLP-1RA는 시간척도가 다름. (3) **AP(혐오) vs NTS(satiation) 해리(Huang 2024)** → 비-혐오성 GLP-1R 약물 방향. (4) **DMH GLP-1R/LepR**가 AgRP 억제로 anticipatory hunger↓(preingestive satiation, 자기 lab). (5) BBB·tanycyte uptake, GLP-1RA별 뇌침투 차등(Ex-4는 변연계까지, lira/sema는 시상하부·뇌간까지). (6) **약물 진화**: GLP-1→Ex-4→liraglutide(albumin)→semaglutide(주1회)→tirzepatide(GLP-1/GIP)→GLP-1+MK-801(NMDA, yo-yo 완화)·GLP-1+MC4R. (7) **비만 너머**: 약물중독(opioid·cocaine·alcohol·nicotine)·신경퇴행(Alzheimer·Parkinson)·우울·신경염증·소아청소년. 사용자 lab의 GLP-1 연구 전체를 self-citation으로 묶는 로드맵 review.
+> **사용자 lab(최형진 교신, Kyu Sik Kim·Joon Seok Park 공저)의 GLP-1 뇌기전 종합 review** — 자기 lab의 [[namkoong-2017-central-administration-of-glp-1|NamKoong 2017(중추 GLP-1/GIP, ref83)]]·[[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science(DMH preingestive satiation, ref61)]]를 핵심 축으로 인용하며 GLP-1 뇌 작용을 **brain-wide perspective**로 정리. 핵심 메시지: (1) GLP-1R은 hypothalamus(ARC·DMH·VMH·PVH·LH·SFO)·brainstem(NTS·AP·DVC)·limbic system(NAc·VTA·CeA·LS·HP)에 광범위 분포 — 단일 부위 환원 불가. (2) **GLP-1R 작용은 cAMP-PKA→synaptic plasticity(NMDA/AMPA)**로 신경에서 기억·가소성까지 — endogenous GLP-1과 GLP-1RA는 시간척도가 다름. (3) **AP(혐오) vs NTS(satiation) 해리(Huang 2024)** → 비-혐오성 GLP-1R 약물 방향. (4) **DMH GLP-1R/LepR**가 AgRP 억제로 anticipatory hunger↓(preingestive satiation, 자기 lab). (5) BBB·tanycyte uptake, GLP-1RA별 뇌침투 차등(Ex-4는 limbic system까지, lira/sema는 hypothalamus·brainstem까지). (6) **약물 진화**: GLP-1→Ex-4→liraglutide(albumin)→semaglutide(주1회)→tirzepatide(GLP-1/GIP)→GLP-1+MK-801(NMDA, yo-yo 완화)·GLP-1+MC4R. (7) **비만 너머**: 약물중독(opioid·cocaine·alcohol·nicotine)·신경퇴행(Alzheimer·Parkinson)·우울·신경염증·소아청소년. 사용자 lab의 GLP-1 연구 전체를 self-citation으로 묶는 로드맵 review.
 
 # Mechanisms of glucagon-like-peptide 1 in the brain beyond metabolic effects
 
 ## 한 줄 요약
-사용자 lab(Kim KS·Park JS·최형진)이 2025년 발표한 review로, GLP-1의 발견·약물 진화 역사부터 세포 내 cAMP-PKA 신호, 뇌 전역(시상하부·뇌간·변연계) GLP-1R 뉴런의 부위별 기능, 차세대 dual agonist, 그리고 비만을 넘어선 약물중독·신경퇴행·소아 적용까지 GLP-1 뇌기전을 종합한다.
+사용자 lab(Kim KS·Park JS·최형진)이 2025년 발표한 review로, GLP-1의 발견·약물 진화 역사부터 세포 내 cAMP-PKA 신호, 뇌 전역(hypothalamus·brainstem·limbic system) GLP-1R 뉴런의 부위별 기능, 차세대 dual agonist, 그리고 비만을 넘어선 약물중독·신경퇴행·소아 적용까지 GLP-1 뇌기전을 종합한다.
 
 ## 1. GLP-1s의 발견과 임상 적용
 - **발견**: ~1980년대 초 Habener lab, anglerfish→포유류 proglucagon cDNA cloning. 2개 bioactive form(GLP1-7-37, GLP1-7-36 amide). intestinal L cell·췌장 β cell 기원, insulinotropic.
@@ -32,27 +32,27 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - **뉴런**: cAMP-PKA가 NMDA/AMPA 수용체 신호 조절→calcium influx→**synaptic plasticity·LTP(기억)**. GLP-1이 PVH·hippocampus·LS·DMH에서 가소성 변화. **GLP-1RA + NMDA antagonist 병용이 단독보다 큰 효과**(Petersen 2024 Nature, GLP-1+MK-801).
 
 ## 3. 뇌 GLP-1R 뉴런의 부위별 활성 (★ brain-wide)
-- **분포**: 시상하부(ARC·DMH·VMH·PVH·LH·SFO), 뇌간(NTS·AP·DVC), 변연계(NAc·VTA·CeA·LS·HP·caudate putamen·globus pallidus).
+- **분포**: hypothalamus(ARC·DMH·VMH·PVH·LH·SFO), brainstem(NTS·AP·DVC), limbic system(NAc·VTA·CeA·LS·HP·caudate putamen·globus pallidus).
 - **역사**: 1995 ICV GLP-1→PVH·CeA c-fos↑·feeding↓(Turton). LH micro-ICV→reward·lever press↓·체중↓. VMH→anorexia·glucose tolerance.
 - **ARC**: GLP-1이 AgRP 활성↓·POMC 활성↑. **GLP-1R은 AgRP에 비발현, POMC에 발현 → AgRP 효과는 간접**(타 영역 기원).
   > ⚠️ **조건에 따라 부호가 갈린다**: 위 "AgRP 활성↓"는 GLP-1R 비발현 세포에 대한 **간접** 효과이며, 리뷰가 근거로 든 문헌은 급성·상태 의존 관찰(ref50 Dong 2021 "time and metabolic state-dependent", ref84 McMorrow 2024 "rapidly inhibit")이다. 반면 [[davila-2026-agrp-neurons-are-required-for|d'Ávila 2026 (PNAS)]]은 **암컷 마우스에 세마글루타이드를 15일 투여하면 `Agrp`·`Npy` mRNA와 c-FOS⁺ AgRP 비율, 미토콘드리아 밀도·피복률이 오르고 15일차엔 sIPSC 빈도만 감소해 시냅스 균형이 순흥분 쪽으로 이동**한다고 보고했다(2일 투여에서는 전사 변화 없음). 더욱이 AgRP 회로를 파괴하면 **칼로리 섭취 억제는 유지되는데(오히려 약간 더 강함) 체중 감량만 약화**된다(전신 지방 이용 전환 실패, β₃-AR 길항제 SR59230A 병용으로 부분 재현). 즉 GLP-1RA 하에서 AgRP는 '꺼야 할 표적'이 아니라 **감량을 완성하는 적응 노드**일 수 있다. 단 이 의존성은 **성별(암컷)·식이·AgRP 조작 방식**에 따라 달라지고, 성체 AgRP-DTR ablation 연구는 감량이 대부분 보존된다고 보고해 저자들도 미해결로 남겼다. 시간척도(급성 vs 15일)·측정층위(섭취 vs 체중·기질 이용)·성별을 밝히지 않은 채 "GLP-1RA = AgRP 억제"로 일반화하지 말 것.
 - **DMH GLP-1R/LepR 공발현(Rupp 2023)**: sensory 정보 반응→AgRP 억제 투사→anticipatory hunger↓. **자기 lab: GLP-1RA가 DMH GLP-1R→AgRP 조절로 preingestive satiation 유도**(Kim KS 2024 Science, ref61).
-- **BBB·침투**: GLP-1RA가 CVO·제3뇌실·tanycyte로 시상하부 진입(Imbernon 2022). Ex-4(고지질친화, 고용량)는 VTA·NAc까지; **fluorescent liraglutide·semaglutide는 시상하부·뇌간까지만, 변연계 못 감**.
-- **뇌간 AP vs NTS 해리(★ Huang 2024 Nature, ref74)**: AP GLP-1R=**aversion**(오심), NTS GLP-1R=**satiation**(비-혐오). AP는 food intake 감소에 불필요, NTS는 혐오 없이 satiation 유발 → **비-혐오성 GLP-1R 약물** 방향. AP는 NTS PPG로 투사 안 함; NTS PPG는 GLP-1RA 효과에 불필요 → **GLP-1RA 작용은 endogenous GLP-1(NTS PPG)와 독립**.
+- **BBB·침투**: GLP-1RA가 CVO·third ventricle·tanycyte로 hypothalamus 진입(Imbernon 2022). Ex-4(고지질친화, 고용량)는 VTA·NAc까지; **fluorescent liraglutide·semaglutide는 hypothalamus·brainstem까지만, limbic system 못 감**.
+- **brainstem AP vs NTS 해리(★ Huang 2024 Nature, ref74)**: AP GLP-1R=**aversion**(오심), NTS GLP-1R=**satiation**(비-혐오). AP는 food intake 감소에 불필요, NTS는 혐오 없이 satiation 유발 → **비-혐오성 GLP-1R 약물** 방향. AP는 NTS PPG로 투사 안 함; NTS PPG는 GLP-1RA 효과에 불필요 → **GLP-1RA 작용은 endogenous GLP-1(NTS PPG)와 독립**.
 - **기타**: LS GLP-1R 활성→feeding↓(consumption 중 비활성, DMH와 유사). CeA ICV GLP-1→conditioned taste aversion. NAc·VTA Ex-4→cocaine seeking↓. HP GLP-1R→food intake↓(NTS PPG volume transmission).
 - → **단일 부위 환원 불가, brain-wide로 이해해야**. 특정 GLP-1R 뉴런 표적화로 preingestive·비-혐오성 satiation 등 선택적 조절 가능성.
 
 ## 4. 최신 GLP-1RA 발전
 - **Mono-agonist 비교**: STEP 8(Rubino 2022) — semaglutide(주1회)가 liraglutide(주1회 daily)보다 68주에 2배 체중감소·부작용 적음.
 - **Dual agonist**:
-  - **GLP-1/GIP(tirzepatide, Mounjaro, 2023 FDA)**: 췌장 β cell 시너지 + **시상하부 기원 시너지**(자기 lab NamKoong 2017 ICV GLP-1+GIP, ref83). tirzepatide가 AgRP 강력 억제(McMorrow 2024); GIP는 nutrient response, GLP-1R은 sensory cue response 분담.
-  - **GLP-1+MK-801(NMDA antagonist)**: semaglutide의 시상하부 한정 침투 + 뉴런 내재화 활용, MK-801이 내재화 후 절단→GLP-1R 뉴런 한정. 2주 20% 체중감소(sema 2배), synaptic plasticity RNA 변화 → **yo-yo 효과 완화** 가설(Petersen 2024).
+  - **GLP-1/GIP(tirzepatide, Mounjaro, 2023 FDA)**: 췌장 β cell 시너지 + **hypothalamus 기원 시너지**(자기 lab NamKoong 2017 ICV GLP-1+GIP, ref83). tirzepatide가 AgRP 강력 억제(McMorrow 2024); GIP는 nutrient response, GLP-1R은 sensory cue response 분담.
+  - **GLP-1+MK-801(NMDA antagonist)**: semaglutide의 hypothalamus 한정 침투 + 뉴런 내재화 활용, MK-801이 내재화 후 절단→GLP-1R 뉴런 한정. 2주 20% 체중감소(sema 2배), synaptic plasticity RNA 변화 → **yo-yo 효과 완화** 가설(Petersen 2024).
   - **GLP-1/LepR dual(DMH 공발현 자극)**: 비인간 영장류 검증(Polex-Wolf 2024).
   - **GLP-1+MC4R**: 시너지 체중감소(Clemmensen 2015).
 - **소아청소년**: liraglutide·semaglutide가 youth 비만·T2DM에 효과(Weghuber 2022 NEJM 등), 오심·구토. 미국 12–25세 GLP-1RA 처방 2020–2023 594% 급증(70% 여성). 발달기 안전성 추가 연구 필요.
 
 ## 5. 비만 너머의 응용 (Fig. 3)
-- **약물중독**: Ex-4가 변연계 침투→synaptic plasticity 조절. opioid·cocaine·alcohol·nicotine·cannabis. semaglutide-담배/대마 use disorder↓ 실세계 데이터(Wang 2024). opioid crisis 맥락 연구 목표.
+- **약물중독**: Ex-4가 limbic system 침투→synaptic plasticity 조절. opioid·cocaine·alcohol·nicotine·cannabis. semaglutide-담배/대마 use disorder↓ 실세계 데이터(Wang 2024). opioid crisis 맥락 연구 목표.
 - **신경퇴행**: 항염 효과 매개 가능성. Alzheimer·Parkinson(exenatide·lixisenatide 임상; 단 일부 음성). 
 - **기분장애**: 우울·자살. 신경염증.
 - **말초**: 심장·신장·간 항염, 심질환, 지방간.
@@ -90,8 +90,8 @@ journal: "Annals of Pediatric Endocrinology & Metabolism 2025;30:165-174; doi:10
 - [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 부위 논쟁 종합.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 약리·뇌기전).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 중추 GLP-1R의 새 역할: **신경(비조혈·비내피) GLP-1R이 말초 TLR 매개 염증 억제에 필수**, α1-아드레날린·κ-오피오이드 경유 신경-면역 crosstalk (Cell Metab 2026).
-- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 리뷰의 **약물 발전사(GLP-1→Ex-4→liraglutide→semaglutide)를 수용체 쪽에서 보완**: 1993년 인간 GLP-1R 클로닝과 exendin-4 agonist/exendin-(9-39) antagonist 규정, 그리고 "형광 liraglutide·semaglutide가 시상하부·뇌간까지" 소견의 출처가 된 **exendin probe 화학생물학** (Diabetes 2024 Classics).
-- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 같은 질문("말초 GLP-1RA가 뇌 어디까지 가는가")을 **정신약리 쪽에서 14편으로 종합**한 리뷰(Neurol Ther 2025, McIntyre 그룹)이자, 본 리뷰의 "Ex-4는 변연계까지, lira/sema는 시상하부·뇌간까지"라는 서술과 **수렴하는 정량 근거**: 설치류 뇌 유입 비교에서 exendin-4가 뇌 흡수 최고(0.54% ID/g, Ki 0.4231 μL/g-min), liraglutide·semaglutide는 유입 측정 불가. 인간 근거는 뇌 영상이라는 대리지표뿐이고 표적 engagement 재현성은 미확립. ⚠️ 단 [Ser8]GLP-1이 저지용성인데도 통과하므로 "친유성이 투과를 설명한다"는 규칙은 분자마다 깨진다. ⚠️ 그쪽 **초록**은 "전임상에서 liraglutide·semaglutide·exenatide가 BBB 통과"라고 요약하지만 본문 데이터는 위와 같다 — 본문 수치로 인용할 것. **분업**: 유입속도 수치(등급 A)는 그쪽에, "형광 liraglutide·semaglutide는 시상하부·뇌간까지만 / 형광 Ex-4는 VTA·NAc까지"라는 **부위 해상도**(등급 B)와 tanycyte·CVO 경유 구분은 이 페이지에 있다. 그쪽은 tanycyte를 한 문장으로만 다룬다.
-- [[concept-glp1ra-cns-access]] — 뇌 접근 경로·증거등급·약물별 지도 hub. 본 리뷰의 한 문장 "GLP-1RA별 뇌침투 차등(Ex-4는 변연계까지, lira/sema는 시상하부·뇌간까지)"을 **1차 문헌 수준으로 전개**한다: Kastin & Akerstrom 2003(exendin-4 BBB 직접 통과·고용량 포화) · Secher 2014(형광 liraglutide CVO+ARC POMC/CART) · Gabery 2020(세마글루타이드 BBB 미통과·tanycyte 흡수) · Salameh 2020(**아실화 약물 Ki 음성**) · Imbernon 2022(tanycyte transcytosis 필수) + 인간 CSF 수치.
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 리뷰의 **약물 발전사(GLP-1→Ex-4→liraglutide→semaglutide)를 수용체 쪽에서 보완**: 1993년 인간 GLP-1R 클로닝과 exendin-4 agonist/exendin-(9-39) antagonist 규정, 그리고 "형광 liraglutide·semaglutide가 hypothalamus·brainstem까지" 소견의 출처가 된 **exendin probe 화학생물학** (Diabetes 2024 Classics).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 같은 질문("말초 GLP-1RA가 뇌 어디까지 가는가")을 **정신약리 쪽에서 14편으로 종합**한 리뷰(Neurol Ther 2025, McIntyre 그룹)이자, 본 리뷰의 "Ex-4는 limbic system까지, lira/sema는 hypothalamus·brainstem까지"라는 서술과 **수렴하는 정량 근거**: 설치류 뇌 유입 비교에서 exendin-4가 뇌 흡수 최고(0.54% ID/g, Ki 0.4231 μL/g-min), liraglutide·semaglutide는 유입 측정 불가. 인간 근거는 뇌 영상이라는 대리지표뿐이고 표적 engagement 재현성은 미확립. ⚠️ 단 [Ser8]GLP-1이 저지용성인데도 통과하므로 "친유성이 투과를 설명한다"는 규칙은 분자마다 깨진다. ⚠️ 그쪽 **초록**은 "전임상에서 liraglutide·semaglutide·exenatide가 BBB 통과"라고 요약하지만 본문 데이터는 위와 같다 — 본문 수치로 인용할 것. **분업**: 유입속도 수치(등급 A)는 그쪽에, "형광 liraglutide·semaglutide는 hypothalamus·brainstem까지만 / 형광 Ex-4는 VTA·NAc까지"라는 **부위 해상도**(등급 B)와 tanycyte·CVO 경유 구분은 이 페이지에 있다. 그쪽은 tanycyte를 한 문장으로만 다룬다.
+- [[concept-glp1ra-cns-access]] — 뇌 접근 경로·증거등급·약물별 지도 hub. 본 리뷰의 한 문장 "GLP-1RA별 뇌침투 차등(Ex-4는 limbic system까지, lira/sema는 hypothalamus·brainstem까지)"을 **1차 문헌 수준으로 전개**한다: Kastin & Akerstrom 2003(exendin-4 BBB 직접 통과·고용량 포화) · Secher 2014(형광 liraglutide CVO+ARC POMC/CART) · Gabery 2020(세마글루타이드 BBB 미통과·tanycyte 흡수) · Salameh 2020(**아실화 약물 Ki 음성**) · Imbernon 2022(tanycyte transcytosis 필수) + 인간 CSF 수치.
 - [[davila-2026-agrp-neurons-are-required-for]] — 본 리뷰의 "GLP-1이 AgRP를 억제한다"와 **반대 부호**의 만성 결과: 암컷 마우스에서 세마글루타이드 15일 투여가 AgRP를 모집(`Agrp`/`Npy` mRNA↑·c-FOS↑·미토콘드리아↑)하고, AgRP 기능 결손 시 섭취 억제는 남되 체중 감량이 약화된다. 매개축은 corticosterone→AgRP-GR (PNAS 2026, Horvath lab).
 - [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — ⚠️ 본 리뷰의 **"LS GLP-1R 활성 → feeding↓"** 요약을 조건부로 다시 써야 한다: `Glp1r-ires-Cre`에서 **dLS^GLP-1R 세포체 활성화는 섭취를 전혀 바꾸지 않았고**(dark p=0.068 / light p=0.80 / 금식 후 p=0.71), 효과는 **투사 특이(dLS→LHA) 활성화 + 금식 조건**(F(1,50)=11.01, p=0.0017)과 **LHA 종말 광자극**에서만 나타났다. 반대로 **억제는 모든 상태에서 섭취를 늘린다**(F(1,120)=14.4–53.9). 저자 해석은 dLS 내 **collateral 억제**(인접 EYFP⁻ 뉴런 6/11 PTX 민감 IPSC). 더해 exendin-4가 dLS→LHA 억제 시냅스의 oIPSC를 키우고 PPR을 낮춰(**시냅스 전 기전**) LS GLP-1R 작용의 분자 좌표를 제시한다 (bioRxiv preprint 2024 → Mol Metab 85:101960). → [[concept-lateral-septum]]

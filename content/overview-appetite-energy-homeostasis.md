@@ -41,7 +41,7 @@ updated: 2026-10-11
 | 식후 (postprandial) | 30분~수시간 | [[concept-glp-1\|GLP-1]], [[concept-pyy-3-36\|PYY(3-36)]] | L-cells (원위 소장) | β-cell, 위 배출, NTS |
 | 장기 (tonic) | 일~주 | [[concept-leptin\|Leptin]] | 지방조직 | POMC↑, NPY/AgRP↓ |
 
-### 시상하부 통합
+### hypothalamus 통합
 
 ```
         Sensory cue (sight/smell/taste of food)
@@ -177,7 +177,7 @@ updated: 2026-10-11
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] (사용자 lab) — 뇌 GLP-1R brain-wide 작용 종합 리뷰; cAMP-PKA 신호·부위별(AP/NTS/DMH/ARC) 활성·약물 발전사·비만 너머 응용 (APEM 2025)
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — dopamine 논쟁
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET(rDA); 즉시 orosensory DA vs 지연 post-ingestive DA 분리, wanting의 도파민 기질 (Cell Metab 2019)
-- [[onimus-2026-the-gut-brain-vagal-axis-governs]] — Sci Adv 2026 (Gangarossa); SDV가 mesolimbic VTA→NAc DA·음식/약물 보상을 약화(DS 보존, 시상하부 항상성 노드 불변); 미주 tone이 보상 DA를 gating
+- [[onimus-2026-the-gut-brain-vagal-axis-governs]] — Sci Adv 2026 (Gangarossa); SDV가 mesolimbic VTA→NAc DA·음식/약물 보상을 약화(DS 보존, hypothalamus 항상성 노드 불변); 미주 tone이 보상 DA를 gating
 
 ### 호르몬
 [[concept-ghrelin]] · [[concept-leptin]] · [[concept-cck]] · [[concept-glp-1]] · [[concept-pyy-3-36]]
@@ -196,7 +196,7 @@ updated: 2026-10-11
 
 ### 향후 방향
 [[overview-future-research-directions]] — 본 wiki gap에서 도출한 사용자 lab 연구 로드맵(Tier 1–3).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — Front Neuroanat 2015 (Luo·Zhan lab); ARC POMC·AgRP와 NTS POMC의 **전뇌 입력·출력 지도**. POMC·AgRP 입력 지형은 대부분 공유(52 중 35)되고 SO만 AgRP 우세; NTS POMC는 입력 ~80%가 뇌교·연수로 **ARC POMC와 별개 회로**; 주요 입력원은 거의 모두 **상호 연결**.
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — Front Neuroanat 2015 (Luo·Zhan lab); ARC POMC·AgRP와 NTS POMC의 **whole-brain 입력·출력 지도**. POMC·AgRP 입력 지형은 대부분 공유(52 중 35)되고 SO만 AgRP 우세; NTS POMC는 입력 ~80%가 pons·medulla로 **ARC POMC와 별개 회로**; 주요 입력원은 거의 모두 **상호 연결**.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — Cell 2011 (Sternson lab); AgRP 흥분성 시냅스의 **전시냅스 AMPK 양성 되먹임**이 배고픔 상태를 기억(hysteresis)하고, **leptin→POMC 오피오이드**가 reset. 항상성 제어를 **set point가 아니라 set range(SR flip-flop)** 로 재기술.
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — Cell Metab 2023 (Fenselau·Lowell); 체중 감소가 **PVH^TRH→AgRP 시냅스만** 선택 증폭하고, 이 증폭이 **잃은 체중 회복에 필요·충분**하며 **NMDAR 의존**. 다이어트·약물 중단 후 재증가의 첫 회로 기질.
 

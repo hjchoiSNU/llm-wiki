@@ -1,23 +1,23 @@
 ---
-title: 시상하부성 비만 (Hypothalamic Obesity, HO)
+title: "Hypothalamic obesity (HO)"
 type: concept
 created: 2026-06-01
 updated: 2026-10-03
-aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic obesity]
+aliases: [hypothalamic obesity, HO, hypothalamus 비만, acquired hypothalamic obesity]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Hypothalamic obesity(HO)는 **시상하부 식욕·에너지 회로가 물리적으로 손상돼 생기는 난치 비만**으로, 사용자가 연구하는 정상 식욕 회로의 "결손 실험(lesion experiment)"을 인간에서 보여준다. 약물·수술이 잘 안 듣는 군이라 [[concept-deep-brain-stimulation|DBS]] 같은 침습 신경조절이 시도되는 임상 관문이자, **homeostatic 손상에도 reward 회로(NAc)는 남아있어** NAc 표적이 LHA보다 유망했다는 점이 회로 분업(NMPU)의 임상 증거가 된다.
+> Hypothalamic obesity(HO)는 **hypothalamus 식욕·에너지 회로가 물리적으로 손상돼 생기는 난치 비만**으로, 사용자가 연구하는 정상 식욕 회로의 "결손 실험(lesion experiment)"을 인간에서 보여준다. 약물·수술이 잘 안 듣는 군이라 [[concept-deep-brain-stimulation|DBS]] 같은 침습 신경조절이 시도되는 임상 관문이자, **homeostatic 손상에도 reward 회로(NAc)는 남아있어** NAc 표적이 LHA보다 유망했다는 점이 회로 분업(NMPU)의 임상 증거가 된다.
 
-# 시상하부성 비만 (Hypothalamic Obesity, HO)
+# Hypothalamic obesity (HO)
 
 ## 한 줄 요약
-시상하부의 에너지항상성 핵(ARC·VMH·PVN·LHA 등)이 손상돼 발생하는 비만. 과식(hyperphagia)·포만 신호 둔감·에너지소비 감소·자율신경/내분비 이상이 결합. **후천성(acquired)**은 종양(craniopharyngioma)·수술·방사선·외상이 원인(아래 craniopharyngioma 절), **선천성/유전성**의 대표가 Prader-Willi syndrome(PWS, 아래 절).
+hypothalamus의 에너지항상성 핵(ARC·VMH·PVN·LHA 등)이 손상돼 발생하는 비만. 과식(hyperphagia)·포만 신호 둔감·에너지소비 감소·자율신경/내분비 이상이 결합. **후천성(acquired)**은 종양(craniopharyngioma)·수술·방사선·외상이 원인(아래 craniopharyngioma 절), **선천성/유전성**의 대표가 Prader-Willi syndrome(PWS, 아래 절).
 
 ## 핵심 내용
 
 ### craniopharyngioma (두개인두종) — 후천성 HO의 전형
-- 안장위(suprasellar) 종양과 그 절제·방사선이 시상하부를 직접 손상 → 절제 후 폭발적 체중 증가.
+- 안장위(suprasellar) 종양과 그 절제·방사선이 hypothalamus를 직접 손상 → 절제 후 폭발적 체중 증가.
 - 표준 치료(식이·운동·약물·bariatric)에 저항. NAc DBS 단일 사례에서 의미있는 감량([[harat-2016-nucleus-accumbens-stimulation-in]]: 14개월 BMI 52.9→48.3, −13.4 kg).
 - 식후 NAc·insula·OFC의 음식 cue 활성 이상이 보고됨 — reward 축 잔존을 시사.
 - **사용자 lab 인간 코호트**([[lee-2023-obesity-mechanism-after-hypothalamic]], n=29): 두개인두종 HD 환자는 음식 cue에 **좌 미상핵(reward) 활성↓**·후두/하전두↑, **음식 부주의·포만 저하·억제섭식↑**, 수술 후 체중 +7.2%. mindless eating이 HO의 핵심 행동 기전 — psycho-behavioral 치료 표적.
@@ -31,8 +31,8 @@ aliases: [hypothalamic obesity, HO, 시상하부 비만, acquired hypothalamic o
 ### 회로 함의 — homeostatic vs reward 분업
 ⚠️ **'잔존'의 두 의미를 구분할 것**: (1) *개입 가능한 회로가 남아 있다* — NAc DBS가 LHA DBS보다 반응이 나았다는 임상 관찰이며, 근거 수준은 [[harat-2016-nucleus-accumbens-stimulation-in|n=1 사례]]와 [[dassen-2023-could-deep-brain-stimulation|6명 체계적 고찰]]에 머문다. ≠ (2) *reward 회로가 과활성이라 비만을 추동한다*. 위키에서 (2)는 **PWS(유전성 HO)의 hyperphagia 해석**으로만 제기되고([[franco-2018-assessment-of-safety-and]]), 후천성 두개인두종 HO 인간 코호트 [[lee-2023-obesity-mechanism-after-hypothalamic]]는 오히려 음식 cue에 **좌 미상핵 활성 저하**·**craving 군간 차이 없음**을 보고하며 주동인을 **음식 주의력 저하(mindless eating)**로 지목한다. 즉 질환군(유전성 vs 후천성)에 따라 방향이 갈리므로, HO 전반에 (2)를 일반화할 근거는 현재 위키에 없다.
 
-- HO에서 **시상대(LHA/VMH) 표적 DBS는 비일관·때로 역설적 악화**, **NAc(reward) 표적은 더 유망** → 비만의 추진력이 손상된 homeostatic 회로보다 잔존 reward 회로에 있을 수 있음.
-- 이는 [[concept-need-motivation-pleasure-utility|NMPU]]의 Need(시상하부) vs Pleasure(NAc) 축 분리를 임상에서 지지.
+- HO에서 **hypothalamus(LHA/VMH) 표적 DBS는 비일관·때로 역설적 악화**, **NAc(reward) 표적은 더 유망** → 비만의 추진력이 손상된 homeostatic 회로보다 잔존 reward 회로에 있을 수 있음.
+- 이는 [[concept-need-motivation-pleasure-utility|NMPU]]의 Need(hypothalamus) vs Pleasure(NAc) 축 분리를 임상에서 지지.
 
 ## 관련 페이지
 - [[concept-deep-brain-stimulation]] — HO에 시도되는 침습 신경조절.

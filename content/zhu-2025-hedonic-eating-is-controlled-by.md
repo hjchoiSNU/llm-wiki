@@ -80,17 +80,17 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - **선행 보고와 충돌**: 20배 높은 세마글루타이드 용량을 쓴 연구는 소비 중 VTA^DA 활성이 **오히려 약간 증가**했다고 보고한다(원문 ref 80). 용량·프로토콜 의존성이 크다.
 - **사람 자료는 엇갈린다.** 저자도 인용하듯 GLP-1RA는 **갈망 감소**를 보고하지만(ref 81–84), **단 음식의 섭취·기호성 자체는 유의하게 변하지 않은** 연구들이 있다(ref 81, 84) — [[coppin-2022-does-glp-1-receptor-agonist|Coppin 2022]]의 null과 같은 방향. 쥐에서는 만성 세마글루타이드 중 **sucrose 섭취가 증가**(ref 85), 사람에서는 감량이 진행되면 음식 단서에 대한 **OFC 반응이 증가**(ref 86).
 - **주관적 쾌락은 측정하지 않았다.** 저자 스스로 "기호성의 **객관적 운동 효과**"를 본 것이며 동물의 주관적 경험은 추가 연구가 필요하다고 명시.
-- **도파민 vs 소비 지속의 위키 내 긴장**: [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]](Stuber lab)은 폐루프 선조체 DA 자극이 **bout 수(개시)만** 늘리고 **bout 길이는 늘리지 않는다**고 보고하며, 본 논문을 "DA가 진행 중 소비를 지탱한다"는 통념의 출처로 지목해 **수정**한다. 조작 위치(VTA 세포체 vs 선조체 말단)·과제(자유행동 자가속도 vs 머리고정 다중 spout)·보정 방식이 다르므로 **같은 실험으로 재대결하기 전에는 양립 불가**로 병기할 것.
+- **도파민 vs 소비 지속의 위키 내 긴장**: [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]](Stuber lab)은 폐루프 striatum DA 자극이 **bout 수(개시)만** 늘리고 **bout 길이는 늘리지 않는다**고 보고하며, 본 논문을 "DA가 진행 중 소비를 지탱한다"는 통념의 출처로 지목해 **수정**한다. 조작 위치(VTA 세포체 vs striatum 말단)·과제(자유행동 자가속도 vs 머리고정 다중 spout)·보정 방식이 다르므로 **같은 실험으로 재대결하기 전에는 양립 불가**로 병기할 것.
 - n이 대체로 **4–13마리**로 작고, 통계 상세는 table S1에 있다. 조직학으로 표적이 확인된 개체만 포함(targeting 실패 10/23 제외 사례 명시).
 
 ## 관련 페이지
-- [[person-sternson-scott]] — 교신저자. 위키의 Sternson 라인([[yang-2011-hunger-states-switch-a-flip-flop]]·[[betley-2013-parallel-redundant-circuit-organization-for]]·[[xu-2020-behavioral-state-coding-by]])에 **중뇌 보상 축**이 추가된 지점.
+- [[person-sternson-scott]] — 교신저자. 위키의 Sternson 라인([[yang-2011-hunger-states-switch-a-flip-flop]]·[[betley-2013-parallel-redundant-circuit-organization-for]]·[[xu-2020-behavioral-state-coding-by]])에 **midbrain 보상 축**이 추가된 지점.
 - [[concept-dopamine-reward-system]] — 소비 국면 DA라는 네 번째 시간척도. ⚠️ 그 페이지의 "GLP-1RA: hedonic eating 억제 (Zhu 2025)" 한 줄은 **억제가 일시적이고 되돌아온다**는 본 결과로 보완이 필요하다.
 - [[concept-nucleus-accumbens]] — GRAB-DA2m으로 잰 하류 도파민 방출; bout 길이와의 회귀 기울기가 기호성에 따라 커진다.
 - [[concept-glp-1]] — GLP-1R 작용제가 **보상 회로까지** 누르되 그 억제가 유지되지 않는다는 약리 근거.
 - [[concept-liking-wanting]] — bout 길이(=liking 지표) 쪽을 도파민이 움직인다는 결과. Berridge 전통("DA는 liking에 불필요")과 **표면적으로 충돌**하나, 본 논문은 주관적 쾌락이 아니라 **소비 지속이라는 운동 출력**을 잰 것이므로 층위가 다르다(병기).
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — 같은 lick microstructure 규약(bout 길이 vs bout 수)으로 NAc D1/D2를 가른 짝 논문.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — ⚠️ **정면 긴장**: 선조체 DA는 **개시(bout 수)** 만 강화한다는 반대 결과. 위 한계 항목 참조.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — ⚠️ **정면 긴장**: striatum DA는 **개시(bout 수)** 만 강화한다는 반대 결과. 위 한계 항목 참조.
 - [[concept-consumption-vigor]] — vigor의 **유지 성분**에 VTA^DA 인과를 붙이는 자료.
 - [[concept-appetitive-consummatory-phases]] — 탐색/소비/포만 3국면 틀. 본 논문은 소비 국면 전용 조작의 모범 설계.
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — 저자들이 하류 기전으로 인용(NAc → LH^GABA 탈억제 → 소비 운동 출력).
@@ -106,7 +106,7 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] · [[weber-2025-interoceptive-origin-reinforcement-learning]] · [[thanarajah-2019-food-intake-recruits-orosensory]] · [[grove-2022-dopamine-subsystems-track-internal]] — 식사 중 도파민의 나머지 축(입안 보상 vs 몸 안 보상, 사람 PET 두 정점, 자원별 DA 하위계).
 - [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] — 소비 국면을 Motivation과 분리해 다룰 근거.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 DMH GLP-1R 회로(섭취 **전** 포만)와 대조: 본 논문은 GLP-1R 포만이 **소비 중** 도파민까지 누른다는 쪽.
-- [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 감량 방식에 따른 선조체 도파민 재설정 방향 논의와 연결.
+- [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 감량 방식에 따른 striatum 도파민 재설정 방향 논의와 연결.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량이 진행될수록 쾌락 회로 반응이 되살아난다는 생쥐 짝 자료. **두 초안이 함께 게시될 때만** 링크가 유효.
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — 소비 중 DA 지속을 학습률·관여 신호로 읽는 대안 해석. Gong 2026은 본 논문을 항상성 충족 중 느린 DA 역학의 예로 인용(ref 80).
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — "DA 자극을 내인성 크기에 보정해야 한다"는 방법론 원전: 보정 자극은 학습률처럼, 비보정 큰 자극(3–5배)은 부호 있는 오류처럼 작동. 본 논문의 photometry 보정 lick-contingent 자극이 이 기준을 충족한다.

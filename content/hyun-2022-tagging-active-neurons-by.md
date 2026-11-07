@@ -9,7 +9,7 @@ year: 2022
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **방법론 도구** — Cal-Light는 **칼슘(활성) AND 청색광의 동시 검출**을 영구 유전자 발현으로 바꿔 "특정 행동 시점에 활동한 뉴런"을 태깅하고, 이후 **재활성/침묵(tag-then-reactivate/silence)** 으로 인과 조작을 가능케 한다. soma-targeting(KA2/Kv2.1)이 수상돌기 배경을 줄여 SNR↑·필요 광시간↓. 사용자에게의 함의: 섭식·보상 시 활동한 시상하부(AgRP/POMC/LH)·VTA/NAc 뉴런을 **시점 특이적으로 태깅 후 조작** — [[concept-need-motivation-pleasure-utility|NMPU]] 회로 인과 검증의 도구. 조건부 KI 마우스로 cell-type 특이 태깅(AgRP-Cre 등) 가능. ⚠️ raw 파일명은 2020이나 실제 출판은 **Nat Commun 2022**. 교신 Kwon lab, 한국(DGIST·고려대) 연계 강함.
+> **방법론 도구** — Cal-Light는 **칼슘(활성) AND 청색광의 동시 검출**을 영구 유전자 발현으로 바꿔 "특정 행동 시점에 활동한 뉴런"을 태깅하고, 이후 **재활성/침묵(tag-then-reactivate/silence)** 으로 인과 조작을 가능케 한다. soma-targeting(KA2/Kv2.1)이 수상돌기 배경을 줄여 SNR↑·필요 광시간↓. 사용자에게의 함의: 섭식·보상 시 활동한 hypothalamus(AgRP/POMC/LH)·VTA/NAc 뉴런을 **시점 특이적으로 태깅 후 조작** — [[concept-need-motivation-pleasure-utility|NMPU]] 회로 인과 검증의 도구. 조건부 KI 마우스로 cell-type 특이 태깅(AgRP-Cre 등) 가능. ⚠️ raw 파일명은 2020이나 실제 출판은 **Nat Commun 2022**. 교신 Kwon lab, 한국(DGIST·고려대) 연계 강함.
 
 # Hyun et al. 2022 — soma-targeted Cal-Light
 
@@ -23,7 +23,7 @@ Hyun JH … **Kwon H-B** (Johns Hopkins·MPFI; lead Jung Ho Hyun=현 DGIST), *Na
 - **soma-targeting**: KA2(150-aa) 또는 Kv2.1(65-aa) motif로 체세포막 농축 → 수상돌기/시냅스 Ca²⁺ 배경 억제, 국소 단백질 밀도↑로 반응성↑. **ST-KA2** 최저 배경·최고 SNR로 선택.
 
 ### 검증 (마우스)
-- 배양·organotypic slice; in vivo: M1 lever-press(NpHR 침묵→학습 운동 손상, 가역), 해마 contextual fear(NpHR 침묵→freezing↓; ChrimsonR 재활성→novel context freezing 유발), mPFC 사회행동(침묵→사회선호↓), KA seizure(태깅 뉴런 침묵→발작 억제).
+- 배양·organotypic slice; in vivo: M1 lever-press(NpHR 침묵→학습 운동 손상, 가역), hippocampus contextual fear(NpHR 침묵→freezing↓; ChrimsonR 재활성→novel context freezing 유발), mPFC 사회행동(침묵→사회선호↓), KA seizure(태깅 뉴런 침묵→발작 억제).
 - **조건부 ST-Cal-Light KI 마우스**(GtROSA26, lox-stop-lox) → Emx1-Cre·PV-Cre 교배로 cell-type 특이 태깅.
 
 ### 주요 수치

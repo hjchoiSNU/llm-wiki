@@ -36,7 +36,7 @@ updated: 2026-10-03
 - [[edison-2026-liraglutide-in-mild-to-moderate]] — 대표 임상(ELAD).
 - [[concept-glp-1]] — 상위 호르몬·약리 hub.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 신호 종합(사용자 lab); 기전 배경 공유.
-- [[person-choi-hyung-jin]] — 사용자. GLP-1 뇌 작용을 섭식·시상하부 회로에서 분해; Edison은 같은 수용체의 신경퇴행 임상 응용.
+- [[person-choi-hyung-jin]] — 사용자. GLP-1 뇌 작용을 섭식·hypothalamus 회로에서 분해; Edison은 같은 수용체의 신경퇴행 임상 응용.
 - [[cummings-2026-efficacy-and-safety-of-oral]] — ELAD 이후의 pivotal 3상(EVOKE/EVOKE+); ELAD 2차 신호 미재현·조기 중단(Lancet 2026).
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — ELAD를 근거지도에 배치한 종합 리뷰(Nature Aging 2026).
 - [[fang-2025-glucagon-like-peptide-1-medicines]] — 신경퇴행을 넘어 SUD·정신질환까지 확장한 광역 리뷰(Cell Rep Med 2025).

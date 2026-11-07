@@ -25,12 +25,12 @@ journal: "Nature Medicine"
   - **체중: −12.2% vs −1.0%** (ETD −11.2%). ≥5% 감량 79.1% vs 14.3%.
 - **간염증/섬유화 지표**: cT1 ≥80 ms 감소 63.0% vs 21.4%; ALT −36.8% vs −11.0%; AST −27.9%; 간경도(VCTE) −28.7%. MRE는 유의차 없음(경증 섬유화 floor 효과).
 - **대사**: 수축기/이완기 혈압, HbA1c, 지질, HOMA-IR, hsCRP, 요산 개선.
-- **안전성**: 위장관 부작용(욕지기·구토·설사·변비), 적정기 집중. 치료 중단 19.9% vs 4.3%. **약물유발 간손상·췌장염·갑상선암 없음**. 위약군에서 저혈당·고혈당 빈도 높음.
+- **안전성**: gastrointestinal tract 부작용(욕지기·구토·설사·변비), 적정기 집중. 치료 중단 19.9% vs 4.3%. **약물유발 간손상·췌장염·갑상선암 없음**. 위약군에서 저혈당·고혈당 빈도 높음.
 
 ## 사용자 lab 관점
 - **체중-독립적 간효과**: glucagon 작용의 간 직접 효과(지방산 산화↑) 가설 → 중추(식욕)와 말초(간) 분업.
 - **자매 비만 시험**: 당뇨 없는 비만 체중 결과는 [[le-roux-2026-survodutide-once-weekly-for|SYNCHRONIZE-1]].
-- **MASLD–뇌 축**: 간–뇌 대사 신호(미주신경·대사물질)와의 연계는 [[johansen-2025-brain-control-of-energy]] 큰 그림과 접점.
+- **MASLD–뇌 축**: 간–뇌 대사 신호(vagus nerve·대사물질)와의 연계는 [[johansen-2025-brain-control-of-energy]] 큰 그림과 접점.
 
 ## 관련 페이지
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 비만약 hub.

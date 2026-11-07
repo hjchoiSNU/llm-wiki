@@ -1,5 +1,5 @@
 ---
-title: "중심편도 PKC-δ⁺ 뉴런이 다중 anorexigenic 신호를 매개한다 (Cai 2014)"
+title: "Central amygdala PKC-δ⁺ 뉴런이 다중 anorexigenic 신호를 매개한다 (Cai 2014)"
 type: paper
 created: 2026-07-05
 updated: 2026-10-03
@@ -9,9 +9,9 @@ year: 2014
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **CeA food-safety-alarm의 세포 원전.** 중심편도(CeA)의 **PKC-δ⁺ GABAergic 뉴런**이 CCK(포만)·LiCl(구역)·LPS(염증/병증)·쓴맛 등 성질이 다른 여러 **anorexigenic 신호를 하나의 노드로 수렴**시켜 섭식을 강력·즉각 억제함을 처음 규명. 이 세포군은 공포·불안이 아닌 **순수 식욕 억제**를 담당(공포·CTA·freezing 미유도)하고, LPB(CGRP)·insula·BLA 입력을 받아 국소 GABA로 CeA 출력을 재편한다. 최형진 랩의 [[overview-cea-glp1r-food-safety-alarm|food-safety-alarm]]에서 **"먹으면 안 되는 신호"의 CeA 통합 허브**로, [[concept-central-amygdala-glp1r|CeA^Glp1r]]·[[duran-2026-the-central-amygdala-integrates|Duran의 PKCδ 필요성]]과 직접 맞물리는 회로적 토대.
+> **CeA food-safety-alarm의 세포 원전.** central amygdala(CeA)의 **PKC-δ⁺ GABAergic 뉴런**이 CCK(포만)·LiCl(구역)·LPS(염증/병증)·쓴맛 등 성질이 다른 여러 **anorexigenic 신호를 하나의 노드로 수렴**시켜 섭식을 강력·즉각 억제함을 처음 규명. 이 세포군은 공포·불안이 아닌 **순수 식욕 억제**를 담당(공포·CTA·freezing 미유도)하고, LPB(CGRP)·insula·BLA 입력을 받아 국소 GABA로 CeA 출력을 재편한다. 최형진 랩의 [[overview-cea-glp1r-food-safety-alarm|food-safety-alarm]]에서 **"먹으면 안 되는 신호"의 CeA 통합 허브**로, [[concept-central-amygdala-glp1r|CeA^Glp1r]]·[[duran-2026-the-central-amygdala-integrates|Duran의 PKCδ 필요성]]과 직접 맞물리는 회로적 토대.
 
-# 중심편도 PKC-δ⁺ 뉴런이 다중 anorexigenic 신호를 매개한다 (Cai 2014)
+# Central amygdala PKC-δ⁺ 뉴런이 다중 anorexigenic 신호를 매개한다 (Cai 2014)
 
 ## 한 줄 요약
 CeA의 PKC-δ⁺ GABAergic 뉴런이 포만·구역·병증·불쾌한 맛 등 여러 anorexigenic 신호를 통합하는 억제 허브이며, 이 세포의 활성은 배고픔 상태에서도 섭식을 강력·가역적으로 차단한다 (Nat Neurosci 2014).
@@ -38,9 +38,9 @@ CeA의 PKC-δ⁺ GABAergic 뉴런이 포만·구역·병증·불쾌한 맛 등 �
 - [[concept-central-amygdala-glp1r]] — 같은 CeA 노드의 GLP-1R 세포군; PKC-δ와 비중복·상보 관계.
 - [[duran-2026-the-central-amygdala-gates]] — Ex-4(GLP-1RA) hypophagia에 **Prkcd^CeA가 필요**함을 확정(본 논문의 기능적 후속; Mol Metab 출판판 — pellet retrieval은 암·수 모두, active poke은 암컷에서만 rescue되며 rescue는 불완전. 프리프린트는 [[duran-2026-the-central-amygdala-integrates]]).
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — 상류 CGRP^PBN → PKC-δ^CeA 포만/혐오 입력(본 논문의 LPB CGRP 입력).
-- [[concept-parabrachial-cgrp-alarm]] — CeA 상류 뇌간 일반경보 hub.
+- [[concept-parabrachial-cgrp-alarm]] — CeA 상류 brainstem 일반경보 hub.
 - [[douglass-2017-central-amygdala-circuits-modulate-food]] — 대조되는 CeA^Htr2a **양성-가치 섭식촉진** 극(PKC-δ 억제).
 - [[concept-conditioned-taste-aversion]] — CeA가 처리하는 혐오학습(단, 본 세포는 CTA 미유도 = 순수 식욕억제).
-- [[concept-insula]] — PKC-δ⁺로의 피질 입력원(내수용).
+- [[concept-insula]] — PKC-δ⁺로의 cortex 입력원(내수용).
 - [[overview-cea-glp1r-food-safety-alarm]] — "먹으면 안 되는 신호"의 CeA 통합 허브로서의 종합.
 - [[rossi-2018-overlapping-brain-circuits-for]] — CeA PKCδ(식욕 억제극)를 intermediate 노드 CeA의 섭식 제어 예로 인용한 Stuber lab 리뷰 (Cell Metab 2018).

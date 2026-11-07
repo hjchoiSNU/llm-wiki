@@ -14,12 +14,12 @@ year: 2026
 # Or5v1/Olfr110: 간 이소성 후각수용체가 옥시리핀 감지 항비만 표적 (Ge 2026)
 
 ## 한 줄 요약
-간·갈색지방·시상하부에 이소성 발현되는 후각수용체 **Or5v1/Olfr110**(인간 OR5V1)이 오메가-3 유래 옥시리핀 **12(S)-HEPE**의 고친화성(nM) 수용체임을 밝히고, 간세포에서 **Gs–PKA–pATF2–CPT1α** 축으로 지방산 산화를 촉진해 비만·고혈당을 억제하며, 합성 작용제 HOR1-C59로 이를 약물화했다. (Cell 2026, Jin-Peng Sun lab)
+간·갈색지방·hypothalamus에 이소성 발현되는 후각수용체 **Or5v1/Olfr110**(인간 OR5V1)이 오메가-3 유래 옥시리핀 **12(S)-HEPE**의 고친화성(nM) 수용체임을 밝히고, 간세포에서 **Gs–PKA–pATF2–CPT1α** 축으로 지방산 산화를 촉진해 비만·고혈당을 억제하며, 합성 작용제 HOR1-C59로 이를 약물화했다. (Cell 2026, Jin-Peng Sun lab)
 
 ## 핵심 내용
 - **동정**: orphan class A OR을 ARIG(reverse-G-protein pull-down + 질량분석)로 간에서 동정. 인간 상동체 **OR5V1**; 마우스 paralog Olfr111(97.8% 동일)은 간 저발현으로 보상 못함.
 - **리간드 = 12(S)-HEPE**: 생선유 성분 EPA를 **12-LOX**가 산화한 [[concept-oxylipins|옥시리핀]]. Or5v1/Olfr110을 **EC50 ≈ 16 nM**의 고친화성으로 Gs 활성화(고전 냄새수용체의 저친화성과 대조).
-- **발현**: 후각상피 외 **간(HNF4α+), BAT(UCP1+), 시상하부([[concept-pomc-neurons|POMC]]+), 췌장 islet**. 간세포의 ~10%만 발현.
+- **발현**: 후각상피 외 **간(HNF4α+), BAT(UCP1+), hypothalamus([[concept-pomc-neurons|POMC]]+), 췌장 islet**. 간세포의 ~10%만 발현.
 - **인간 관련성**: 혈중 12(S)-HEPE는 **BMI와 역상관**, 비만 환자 혈장은 수용체 활성이 낮음. 생선유·유산소운동이 12(S)-HEPE를 상승.
 - **전신 KO(Olfr110⁻/⁻)**: NCD·HFD 모두 체중↑, **에너지소비·호흡지수↓, 식이량 불변**, 내당능장애·인슐린저항·간지방증 → 감량 효과는 **식욕이 아닌 에너지소비/지방산화** 경로.
 - **조직 특이성**: **간특이 결손(Alb-Cre)** 이 전신 KO를 phenocopy하나 POMC-Cre·Adipoq-Cre·Pdx1-Cre는 무표현형 → 핵심 조직은 **간**. 간 AAV8-Olfr110 과발현이 rescue.
@@ -33,6 +33,6 @@ year: 2026
 - [[concept-free-fatty-acid-receptors]] · [[concept-cd36]] — 지질 감지 GPCR/translocase와 나란한 새 계층.
 - [[concept-fat-taste]] — "지방 감지" hub; 말초 대사 감지 층으로 확장.
 - [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지질 감지 종합(gut–kidney–brain)과 상보.
-- [[concept-pomc-neurons]] — Olfr110이 시상하부 POMC에 공발현(단 POMC-Cre 결손은 무표현형).
+- [[concept-pomc-neurons]] — Olfr110이 hypothalamus POMC에 공발현(단 POMC-Cre 결손은 무표현형).
 - [[dong-2026-nose-to-brain-axis-spoiled-food]] — OR의 정통 후각 기능(대조).
 - [[concept-hypothalamic-obesity]] · [[overview-next-gen-incretin-obesity-drugs-2026]] — 항비만 표적 맥락.

@@ -6,12 +6,12 @@ updated: 2026-06-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[overview-future-research-directions|향후 연구 방향]]의 "사회결정요인↔회로 다리"를 **쥐→원숭이→사람** 3단계 번역 연구로 구체화. 핵심 가설: **식품 불안정(food insecurity)·예측불가 먹이 환경이 ARC 멜라노코르틴 + 중뇌변연 보상 회로를 "먹이 보상·과식·적응적 지방 저장" 쪽으로 재프로그램**한다([[bateson-2023-food-insecurity-as-a-cause|insurance hypothesis]]). 위키가 이미 보유한 동물 모델([[myers-2022-chronic-experience-with-unpredictable]])·발달 재프로그래밍([[wilbrecht-2024-experimental-biology-can-inform]])·번역 framework([[myers-2024-translational-science-approaches-for]])·[[ha-2024-hypothalamic-neuronal-activation-non-human|NHP 플랫폼]]·한국 FI 코호트([[person-kim-kirang]])를 한 축으로 결합. 사용자 lab의 **시상하부 회로 + NHP + 인간 fMRI + NMPU** 역량이 교차종 검증에 최적.
+> [[overview-future-research-directions|향후 연구 방향]]의 "사회결정요인↔회로 다리"를 **쥐→원숭이→사람** 3단계 번역 연구로 구체화. 핵심 가설: **식품 불안정(food insecurity)·예측불가 먹이 환경이 ARC 멜라노코르틴 + mesolimbic 보상 회로를 "먹이 보상·과식·적응적 지방 저장" 쪽으로 재프로그램**한다([[bateson-2023-food-insecurity-as-a-cause|insurance hypothesis]]). 위키가 이미 보유한 동물 모델([[myers-2022-chronic-experience-with-unpredictable]])·발달 재프로그래밍([[wilbrecht-2024-experimental-biology-can-inform]])·번역 framework([[myers-2024-translational-science-approaches-for]])·[[ha-2024-hypothalamic-neuronal-activation-non-human|NHP 플랫폼]]·한국 FI 코호트([[person-kim-kirang]])를 한 축으로 결합. 사용자 lab의 **hypothalamus 회로 + NHP + 인간 fMRI + NMPU** 역량이 교차종 검증에 최적.
 
 # [연구계획서] 식품 불안정의 비만 유발 회로 기전 — 쥐·원숭이·사람 교차종 검증
 
 ## 1. 연구 제목
-**예측불가 먹이 환경(food insecurity)이 시상하부-보상 회로를 재프로그램하여 비만을 유발하는 보존된 기전: 쥐-원숭이-사람 교차종 검증 및 insurance hypothesis의 인과 규명**
+**예측불가 먹이 환경(food insecurity)이 hypothalamus-보상 회로를 재프로그램하여 비만을 유발하는 보존된 기전: 쥐-원숭이-사람 교차종 검증 및 insurance hypothesis의 인과 규명**
 
 ## 2. 배경 및 필요성
 - **FI–비만 역설**: 식품 불안정이 오히려 비만 위험을 높이는 역설이 반복 관찰됨([[dinour-2007-the-food-insecurity-obesity-paradox]]·[[carvajal-aldaz-2022-food-insecurity-as-a]]·[[gundersen-2015-food-insecurity-and-health]]). 기전은 ① stress→cortisol→mesolimbic 민감화([[tomiyama-2019-stress-and-obesity]]), ② feast-famine cyclic restriction→binge/LOC([[bidopia-2023-food-insecurity-and-disordered]]·[[loth-2025-food-insecurity-and-disordered]]), ③ **insurance hypothesis**(불확실성 cue→섭취와 무관한 적응적 지방 저장; FTO보다 큰 효과; [[bateson-2023-food-insecurity-as-a-cause]])로 제시됨([[concept-food-insecurity]]).
@@ -19,7 +19,7 @@ updated: 2026-06-02
 - **필요성**: 사회·환경 노출이 어떤 **신경회로 경로**로 비만을 만드는지 규명해야 정밀 개입(정책·DTx·약물)이 가능. 쥐·원숭이·사람을 잇는 연구는 ecological validity와 기전 인과를 동시에 확보.
 
 ## 3. 연구 가설
-> **예측불가/불안정 먹이 환경은 ARC AgRP/POMC([[concept-melanocortin-system|멜라노코르틴]]) 항상성 회로와 [[concept-dopamine-reward-system|중뇌변연 보상 회로]]를 "먹이 보상 민감화 + 과식 + 적응적 지방 저장" 쪽으로 재프로그램하며, 이 기전은 쥐·원숭이·사람에 보존된다.** ([[concept-need-motivation-pleasure-utility|NMPU]] 관점: FI가 Need·Motivation·Utility 계산을 편향.)
+> **예측불가/불안정 먹이 환경은 ARC AgRP/POMC([[concept-melanocortin-system|멜라노코르틴]]) 항상성 회로와 [[concept-dopamine-reward-system|mesolimbic 보상 회로]]를 "먹이 보상 민감화 + 과식 + 적응적 지방 저장" 쪽으로 재프로그램하며, 이 기전은 쥐·원숭이·사람에 보존된다.** ([[concept-need-motivation-pleasure-utility|NMPU]] 관점: FI가 Need·Motivation·Utility 계산을 편향.)
 
 ## 4. 연구 목표 (Specific Aims)
 
@@ -30,7 +30,7 @@ updated: 2026-06-02
 
 ### Aim 2 — 원숭이: 생태·인지 타당성 번역 *(translation)*
 - **플랫폼**: [[ha-2024-hypothalamic-neuronal-activation-non-human|기존 macaque 플랫폼]]에서 **통제된 먹이 불확실성 + 자연주의 채food 행동** 패러다임.
-- **측정**: DA PET·7T fMRI/MRS로 보상·시상하부 반응, 먹이 가치평가·예측(behavioral economics), 체조성. NHP는 인간 유사 인지(미래 결핍 예측)·생태 행동을 잇는 핵심 다리.
+- **측정**: DA PET·7T fMRI/MRS로 보상·hypothalamus 반응, 먹이 가치평가·예측(behavioral economics), 체조성. NHP는 인간 유사 인지(미래 결핍 예측)·생태 행동을 잇는 핵심 다리.
 - **검증**: 쥐에서 규명된 ARC/보상 signature가 영장류에서 재현되는가; 불확실성 경험이 먹이 동기·지방 저장을 바꾸는가.
 
 ### Aim 3 — 사람: 교차종 정합·역학 연계 *(human)*

@@ -6,7 +6,7 @@ updated: 2026-06-15
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 사용자 lab [[concept-need-motivation-pleasure-utility|NMPU]]의 **Need 축(=배고픔)만을 정면으로** 파고드는 5년 과제. 핵심 베팅: **배고픔은 단순 결핍(current deficit)이 아니라 '미래 에너지 결핍의 예측(predicted deficit)'이며, 그 갱신은 칼로리 적분이 아니라 영양소 정체(nutrient identity)로 이뤄진다.** 마우스에서 [[kim-2024-normative-framework-dissociates-need|AgRP=Need(Sci Adv 2024)]] + [[mcknight-2026-attenuated-hypothalamic-response-to|AgRP=영양소 정체(Neuron 2026)]]를 정량 normative model로 통합하고(Aim 1), 인간에서 **배고픔을 Motivation과 분리**해 ① 내측시상하부 7T fMRI, ② [[cummings-2001-preprandial-rise-in-plasma-ghrelin|ghrelin 식전 surge]] 내분비 readout, ③ [[talakoub-2017-lateral-hypothalamic-activity-indicates|인간 LHA hunger=beta/gamma 진동]]을 **Need biomarker**로 번역(Aim 2–3). 성공 시 "배고픔이 과한가, 행동 추동이 과한가"를 분리 측정해 비만을 정밀 분류하고, GLP-1RA·DTx·[[proposal-ttis-feeding-reward-circuits|tTIS]]를 Need 표적에 매칭하는 토대가 된다. [[proposal-nmpu-human-translation|NMPU 4축 통합 번역]]의 **Need 축 심화판**이자 그 선행 검증.
+> 사용자 lab [[concept-need-motivation-pleasure-utility|NMPU]]의 **Need 축(=배고픔)만을 정면으로** 파고드는 5년 과제. 핵심 베팅: **배고픔은 단순 결핍(current deficit)이 아니라 '미래 에너지 결핍의 예측(predicted deficit)'이며, 그 갱신은 칼로리 적분이 아니라 영양소 정체(nutrient identity)로 이뤄진다.** 마우스에서 [[kim-2024-normative-framework-dissociates-need|AgRP=Need(Sci Adv 2024)]] + [[mcknight-2026-attenuated-hypothalamic-response-to|AgRP=영양소 정체(Neuron 2026)]]를 정량 normative model로 통합하고(Aim 1), 인간에서 **배고픔을 Motivation과 분리**해 ① medialhypothalamus 7T fMRI, ② [[cummings-2001-preprandial-rise-in-plasma-ghrelin|ghrelin 식전 surge]] 내분비 readout, ③ [[talakoub-2017-lateral-hypothalamic-activity-indicates|인간 LHA hunger=beta/gamma 진동]]을 **Need biomarker**로 번역(Aim 2–3). 성공 시 "배고픔이 과한가, 행동 추동이 과한가"를 분리 측정해 비만을 정밀 분류하고, GLP-1RA·DTx·[[proposal-ttis-feeding-reward-circuits|tTIS]]를 Need 표적에 매칭하는 토대가 된다. [[proposal-nmpu-human-translation|NMPU 4축 통합 번역]]의 **Need 축 심화판**이자 그 선행 검증.
 
 # [연구계획서] 배고픔(Need)의 신경 부호화와 인간 번역
 
@@ -25,18 +25,18 @@ updated: 2026-06-15
 ### 2.2 핵심 공백 — 배고픔의 인간 substrate
 - 마우스에서 배고픔(Need)이 (i) Motivation과 분리되고, (ii) 영양소 정체로 갱신된다는 회로 원리는 정량 입증됐으나, **인간 배고픔이 같은 원리를 따르는지**는 미확립.
 - 다만 인간 노드는 이미 부분적으로 관찰됨:
-  - **시상하부 진동 readout**: [[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]] — 살아있는 인간 [[concept-lateral-hypothalamus|LHA]]에서 **배고픔=beta/low-gamma, 포만=alpha**. 단, 8 Hz 포만 리듬 자극은 fullness만 유발하고 **craving은 불변**(homeostatic Need ↔ non-homeostatic craving 분리).
+  - **hypothalamus 진동 readout**: [[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]] — 살아있는 인간 [[concept-lateral-hypothalamus|LHA]]에서 **배고픔=beta/low-gamma, 포만=alpha**. 단, 8 Hz 포만 리듬 자극은 fullness만 유발하고 **craving은 불변**(homeostatic Need ↔ non-homeostatic craving 분리).
   - **내분비 readout**: [[cummings-2001-preprandial-rise-in-plasma-ghrelin|Cummings 2001]] — 인간 혈장 ghrelin이 **식사 직전 상승·식후 하강**, 즉 배고픔의 예측적(anticipatory) 성격을 말초 호르몬으로 직접 보여줌 → AgRP(Need) 상류 입력.
   - **상태 부호화 원리**: [[xu-2020-behavioral-state-coding-by|Xu 2020 Science]] — PVH 분자 세포타입 ensemble이 hunger·ghrelin·leptin 등 11개 상태를 **grouped-ensemble**로 부호화([[concept-activity-molecular-registration|CaRMA]]).
 - **필요성**: NMPU의 Need가 단일 이론을 넘어 **인간 치료 표적**이 되려면 배고픔 전용 신경·내분비 biomarker와, 그것이 Motivation과 분리된다는 인과적 증거가 필요하다. 이는 [[proposal-nmpu-human-translation|NMPU 4축 통합 번역]]의 가장 잘 갖춰진 출발 축이자 [[lee-2025-hijacked-brain-modern-obesity-cue|회로별 맞춤 치료]]의 전제.
 
 ## 3. 연구 가설
-> **배고픔은 영양소 정체에 기반해 갱신되는 '미래 에너지 결핍의 예측(Need)'이며, Motivation과 분리 가능한 독립 신경상태로서 인간 뇌에서도 (i) 내측시상하부 활성, (ii) ghrelin 식전 surge, (iii) 시상하부 beta/gamma 진동이라는 측정 가능한 Need biomarker로 표상된다.**
+> **배고픔은 영양소 정체에 기반해 갱신되는 '미래 에너지 결핍의 예측(Need)'이며, Motivation과 분리 가능한 독립 신경상태로서 인간 뇌에서도 (i) medialhypothalamus 활성, (ii) ghrelin 식전 surge, (iii) hypothalamus beta/gamma 진동이라는 측정 가능한 Need biomarker로 표상된다.**
 
 세부 가설:
 - **H1(부호화)**: AgRP의 Need 신호는 칼로리가 아닌 영양소 정체(glucose=빠른 에너지 → 강한 Need 갱신, fructose=저장 → 약한 갱신)로 갱신되며, [[kim-2024-normative-framework-dissociates-need|normative model]]의 "predicted deficit" 항으로 정량된다.
 - **H2(분리)**: 배고픔(Need)과 행동 추동(Motivation, [[lee-2023-lateral-hypothalamic-leptin-receptor|LH LepR]])은 인간에서 별개의 신경·행동 readout으로 분리된다.
-- **H3(번역)**: 인간 배고픔 상태는 내측시상하부 BOLD·ghrelin surge·LHA beta/gamma의 **수렴 biomarker**로 포착되며, 이는 GLP-1RA로 가역 조절된다.
+- **H3(번역)**: 인간 배고픔 상태는 medialhypothalamus BOLD·ghrelin surge·LHA beta/gamma의 **수렴 biomarker**로 포착되며, 이는 GLP-1RA로 가역 조절된다.
 
 ## 4. 연구 목표 (Specific Aims)
 
@@ -48,14 +48,14 @@ updated: 2026-06-15
 - **성공지표**: 영양소 정체 항을 포함한 Need model이 칼로리-only model을 AIC로 압도; Need 갱신량이 선호를 예측.
 
 ### Aim 2 — 인간: 배고픔의 비침습 매핑 + Motivation 분리 *(7T fMRI + behavior + endocrine)*
-- **대상**: 건강 정상체중 + 비만(필요 시 [[lee-2023-obesity-mechanism-after-hypothalamic|시상하부 손상 코호트]] 대조).
+- **대상**: 건강 정상체중 + 비만(필요 시 [[lee-2023-obesity-mechanism-after-hypothalamic|hypothalamus 손상 코호트]] 대조).
 - **Need 조작**: 공복 시간 + **영양소 정체 preload**(glucose vs fructose, 등칼로리)로 배고픔을 분리 조작.
 - **3중 readout 동시 수집**:
-  - **신경**: 7T 고해상으로 **내측시상하부(ARC/DMH)** BOLD([[bae-2019-glucagon-like-peptide-1-receptor|food-cue fMRI]]·[[thanarajah-2019-food-intake-recruits-orosensory|orosensory/post-ingestive]] 패러다임).
+  - **신경**: 7T 고해상으로 **medialhypothalamus(ARC/DMH)** BOLD([[bae-2019-glucagon-like-peptide-1-receptor|food-cue fMRI]]·[[thanarajah-2019-food-intake-recruits-orosensory|orosensory/post-ingestive]] 패러다임).
   - **내분비**: [[cummings-2001-preprandial-rise-in-plasma-ghrelin|ghrelin 식전 surge]]를 배고픔의 예측적 readout으로 시계열 채혈.
-  - **행동**: willingness-to-work(노력)로 Motivation을 분리 측정 → **Need(주관 허기·ghrelin·내측시상하부) vs Motivation(노력·LH)** 직교화.
+  - **행동**: willingness-to-work(노력)로 Motivation을 분리 측정 → **Need(주관 허기·ghrelin·medialhypothalamus) vs Motivation(노력·LH)** 직교화.
 - **약리 가역성**: GLP-1RA(연결: [[park-2025-glucagon-like-peptide-1-and-hypothalamic|DMH GLP-1R cognitive satiation]], [[kim-2024-glp-1-increases-preingestive-satiation|Science 2024]])가 Need readout을 선택적으로 낮추는지 검증.
-- **성공지표**: 마우스 유래 "Need=내측시상하부·영양소 정체 갱신"이 인간 BOLD·ghrelin에서 재현; Need와 Motivation readout의 통계적 분리.
+- **성공지표**: 마우스 유래 "Need=medialhypothalamus·영양소 정체 갱신"이 인간 BOLD·ghrelin에서 재현; Need와 Motivation readout의 통계적 분리.
 
 ### Aim 3 — 인간 침습 biomarker + NHP 접지: 배고픔 진동 서명의 정식화 *(intracranial + NHP)*
 - **인간 침습**: 이식 전극(DBS/sEEG) 환자에서([[person-halpern-casey|Halpern]] 협업) [[talakoub-2017-lateral-hypothalamic-activity-indicates|LHA hunger=beta/gamma]]를 **Need biomarker**로 정식화 — 배고픔↔포만 전이의 진동 서명을 Aim 2 readout과 정합. craving(non-homeostatic)과의 분리를 명시적으로 검정.
@@ -65,16 +65,16 @@ updated: 2026-06-15
 
 ## 5. 예상 결과 및 해석
 - Aim 1: 배고픔을 "영양소 정체 기반 미래 결핍 예측"으로 정의하는 **확장 normative model**과 그 분자 세포 정체.
-- Aim 2: 인간 배고픔의 비침습 3중 biomarker(내측시상하부 BOLD·ghrelin surge·노력 분리)와 GLP-1RA 가역성.
+- Aim 2: 인간 배고픔의 비침습 3중 biomarker(medialhypothalamus BOLD·ghrelin surge·노력 분리)와 GLP-1RA 가역성.
 - Aim 3: 배고픔의 인간 침습 진동 biomarker → **"배고픔 과잉 vs 추동 과잉"으로 비만 분류** 가능.
 
 ## 6. 한계·위험 및 대응
 | 위험 | 근거 | 대응 |
 |---|---|---|
-| 인간 시상하부 심부·소형 → 영상/기록 난이도 | — | 7T 고해상(Aim 2) + NHP 세포 접지(Aim 3) |
+| 인간 hypothalamus 심부·소형 → 영상/기록 난이도 | — | 7T 고해상(Aim 2) + NHP 세포 접지(Aim 3) |
 | Need와 Motivation 신경표상 중첩 | [[liu-2026-granular-motivational-interaction-and]] | 영양소 정체·노력 과제로 직교화 + 모델 identifiability |
-| 인간 fructose/glucose 차등이 마우스만큼 안 클 수 있음 | [[mcknight-2026-attenuated-hypothalamic-response-to]](인간은 PYY·시상하부 혈류 간접 정합) | preload 용량·HFCS 비율 적정화, 내분비 readout 병행 |
-| 시상하부 진동이 craving까지 못 줄임 | [[talakoub-2017-lateral-hypothalamic-activity-indicates]] | Need(homeostatic) 한정 표적으로 명시, craving은 [[concept-nucleus-accumbens|NAc]] 별도 축 |
+| 인간 fructose/glucose 차등이 마우스만큼 안 클 수 있음 | [[mcknight-2026-attenuated-hypothalamic-response-to]](인간은 PYY·hypothalamus 혈류 간접 정합) | preload 용량·HFCS 비율 적정화, 내분비 readout 병행 |
+| hypothalamus 진동이 craving까지 못 줄임 | [[talakoub-2017-lateral-hypothalamic-activity-indicates]] | Need(homeostatic) 한정 표적으로 명시, craving은 [[concept-nucleus-accumbens|NAc]] 별도 축 |
 | 인간 침습 접근 제한 | [[person-halpern-casey]] | 수술 환자 piggyback·국제 협업 |
 
 ## 7. 연구 일정 (5년)
@@ -85,7 +85,7 @@ updated: 2026-06-15
 ## 8. 기대효과 및 의의
 - 사용자 lab NMPU의 **Need 축을 인간으로 옮기는 첫 전용 과제** — [[proposal-nmpu-human-translation|4축 통합 번역]]의 선행·심화.
 - 배고픔의 정의를 "결핍"에서 **"영양소 정체 기반 미래 예측"**으로 전환, [[mcknight-2026-attenuated-hypothalamic-response-to|McKnight 2026]]·[[kim-2024-normative-framework-dissociates-need|Kim 2024]]를 단일 인간 framework로 통합.
-- 배고픔 biomarker(내측시상하부·ghrelin·beta/gamma) → **비만 정밀 분류**(Need 과잉 vs Motivation 과잉) → GLP-1RA·DTx·[[proposal-ttis-feeding-reward-circuits|tTIS]] 표적 매칭.
+- 배고픔 biomarker(medialhypothalamus·ghrelin·beta/gamma) → **비만 정밀 분류**(Need 과잉 vs Motivation 과잉) → GLP-1RA·DTx·[[proposal-ttis-feeding-reward-circuits|tTIS]] 표적 매칭.
 - 마우스([[kim-2024-normative-framework-dissociates-need]])→NHP([[ha-2024-hypothalamic-neuronal-activation-non-human]])→인간([[talakoub-2017-lateral-hypothalamic-activity-indicates]]) 삼중 검증.
 
 ## 관련 페이지

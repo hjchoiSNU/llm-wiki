@@ -6,7 +6,7 @@ updated: 2026-06-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[overview-future-research-directions|향후 연구 방향]] Tier 2 #4의 구체화이자 **사용자 lab의 가장 signature한 베팅** — 자체 이론 [[concept-need-motivation-pleasure-utility|NMPU]](Need·Motivation·Pleasure·Utility)를 **마우스 검증**([[kim-2024-normative-framework-dissociates-need|AgRP=Need, LH LepR=Motivation]])에서 **인간 신경 substrate**로 옮긴다. 가설: NMPU 4축이 인간 뇌에서 분리 가능한 신호(Need=내측시상하부, Motivation=LH, Pleasure=NAc, Utility=OFC/BLA)로 매핑되며, 이를 parameterize한 계산모델이 섭식·비만을 예측. [[person-halpern-casey|Halpern]] 인간 침습 전기생리 + 7T fMRI + [[weber-2025-interoceptive-origin-reinforcement-learning|interoceptive RL]]/belief-state 모델을 결합. 성공 시 **"어느 축이 망가졌는가"로 환자를 분류**해 맞춤 치료(DTx·약물·[[proposal-ttis-feeding-reward-circuits|tTIS]])를 매칭하는 정밀의학 기반.
+> [[overview-future-research-directions|향후 연구 방향]] Tier 2 #4의 구체화이자 **사용자 lab의 가장 signature한 베팅** — 자체 이론 [[concept-need-motivation-pleasure-utility|NMPU]](Need·Motivation·Pleasure·Utility)를 **마우스 검증**([[kim-2024-normative-framework-dissociates-need|AgRP=Need, LH LepR=Motivation]])에서 **인간 신경 substrate**로 옮긴다. 가설: NMPU 4축이 인간 뇌에서 분리 가능한 신호(Need=medialhypothalamus, Motivation=LH, Pleasure=NAc, Utility=OFC/BLA)로 매핑되며, 이를 parameterize한 계산모델이 섭식·비만을 예측. [[person-halpern-casey|Halpern]] 인간 침습 전기생리 + 7T fMRI + [[weber-2025-interoceptive-origin-reinforcement-learning|interoceptive RL]]/belief-state 모델을 결합. 성공 시 **"어느 축이 망가졌는가"로 환자를 분류**해 맞춤 치료(DTx·약물·[[proposal-ttis-feeding-reward-circuits|tTIS]])를 매칭하는 정밀의학 기반.
 
 # [연구계획서] NMPU 4-component 동기 framework의 인간 번역
 
@@ -20,7 +20,7 @@ updated: 2026-06-02
 - **필요성**: NMPU가 단일 이론을 넘어 **인간 치료 표적**이 되려면, 각 component의 인간 신경 biomarker가 필요하다. 이는 [[proposal-ttis-feeding-reward-circuits|tTIS]]·DTx 표적 선정의 전제.
 
 ## 3. 연구 가설
-> **NMPU 4 component는 인간 뇌에서 분리 가능한 신경 substrate로 매핑된다 — Need=내측시상하부(ARC/DMH), Motivation=외측시상하부(LH), Pleasure=측좌핵(NAc), Utility=안와전두/기저외측편도(OFC/BLA) — 그리고 이를 parameterize한 계산모델이 개인의 섭식 행동·비만 위험을 예측한다.** ([[weber-2025-interoceptive-origin-reinforcement-learning|interoceptive RL]]·belief-state RPE를 모델 backbone으로.)
+> **NMPU 4 component는 인간 뇌에서 분리 가능한 신경 substrate로 매핑된다 — Need=medialhypothalamus(ARC/DMH), Motivation=lateral hypothalamus(LH), Pleasure=nucleus accumbens(NAc), Utility=안와전두/basolateral amygdala(OFC/BLA) — 그리고 이를 parameterize한 계산모델이 개인의 섭식 행동·비만 위험을 예측한다.** ([[weber-2025-interoceptive-origin-reinforcement-learning|interoceptive RL]]·belief-state RPE를 모델 backbone으로.)
 
 ## 4. 연구 목표 (Specific Aims)
 
@@ -30,24 +30,24 @@ updated: 2026-06-02
 - **성공지표**: 4 component를 식별가능(identifiable)하게 분리하는 모델 + 행동 readout 확립.
 
 ### Aim 2 — 7T fMRI: 4축의 비침습 신경 매핑 *(human imaging)*
-- **대상**: 건강인 + 비만(또는 [[lee-2023-obesity-mechanism-after-hypothalamic|HD 코호트]]) — 7T 고해상으로 **시상하부 아핵(ARC/DMH/LH)** 분해.
-- **방법**: Aim1 과제 중 [[bae-2019-glucagon-like-peptide-1-receptor]]·[[thanarajah-2019-food-intake-recruits-orosensory]] 패러다임으로 Need=내측시상하부, Motivation=LH, Pleasure=NAc, Utility=OFC/BLA 가설 매핑 검증.
+- **대상**: 건강인 + 비만(또는 [[lee-2023-obesity-mechanism-after-hypothalamic|HD 코호트]]) — 7T 고해상으로 **hypothalamus 아핵(ARC/DMH/LH)** 분해.
+- **방법**: Aim1 과제 중 [[bae-2019-glucagon-like-peptide-1-receptor]]·[[thanarajah-2019-food-intake-recruits-orosensory]] 패러다임으로 Need=medialhypothalamus, Motivation=LH, Pleasure=NAc, Utility=OFC/BLA 가설 매핑 검증.
 - **성공지표**: 마우스 유래 축 배정이 인간 BOLD에서 분리 재현(또는 인간 특이적 재배치 정량).
 
 ### Aim 3 — 인간 침습 전기생리 + NHP 세포 접지 *(intracranial + NHP)*
-- **인간**: 이식 전극(DBS/sEEG) 환자에서([[person-halpern-casey|Halpern]] 협업) NAc·OFC·(가능 시)시상하부 기록 — component-특이 신호 검증(NAc 저주파=Pleasure/Need biomarker [[shivacharan-2022-pilot-study-of-responsive-nucleus]], OFC gamma=Utility [[nho-2026-human-orbitofrontal-neural-activity-is]]).
+- **인간**: 이식 전극(DBS/sEEG) 환자에서([[person-halpern-casey|Halpern]] 협업) NAc·OFC·(가능 시)hypothalamus 기록 — component-특이 신호 검증(NAc 저주파=Pleasure/Need biomarker [[shivacharan-2022-pilot-study-of-responsive-nucleus]], OFC gamma=Utility [[nho-2026-human-orbitofrontal-neural-activity-is]]).
 - **NHP**: [[ha-2024-hypothalamic-neuronal-activation-non-human|macaque 플랫폼]]에서 LH/NAc 단일뉴런으로 인간 신호의 세포 수준 접지.
 - **성공지표**: 4 component의 인간 침습 biomarker 확립 + NHP 세포 정합.
 
 ## 5. 예상 결과 및 해석
 - Aim1: NMPU를 인간에서 식별가능하게 분리하는 계산-행동 도구.
-- Aim2: 4축의 비침습 신경 지도(시상하부 아핵 포함).
+- Aim2: 4축의 비침습 신경 지도(hypothalamus 아핵 포함).
 - Aim3: component-특이 침습 biomarker → **"어느 축이 dysregulated인가"로 환자 분류** 가능.
 
 ## 6. 한계·위험 및 대응
 | 위험 | 근거 | 대응 |
 |---|---|---|
-| 인간 시상하부 심부·소형 → 기록 난이도 | — | 7T fMRI(Aim2)·NHP 세포 접지(Aim3) |
+| 인간 hypothalamus 심부·소형 → 기록 난이도 | — | 7T fMRI(Aim2)·NHP 세포 접지(Aim3) |
 | component 신경 표상 중첩 | [[liu-2026-granular-motivational-interaction-and]] | 과제 설계로 직교화 + 모델 identifiability 분석 |
 | 인간 iEEG 접근 제한 | [[person-halpern-casey]] | 수술 환자 piggyback·국제 협업 |
 | 모델 식별성(identifiability) | [[kim-2024-normative-framework-dissociates-need]] | parameter recovery·모델 비교 사전 검증 |

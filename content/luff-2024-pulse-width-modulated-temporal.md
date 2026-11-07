@@ -23,7 +23,7 @@ Luff CE, …, Grossman N (corresponding, Imperial College London), *Brain Stimul
 - PWM-TI: 두 50% duty biphasic **사각파**(예 2000·2010 Hz → Δf=10 Hz, 2.005 kHz carrier) 합 → **진폭 일정·pulse-width가 Δf로 변조**(완전 보강=inter-pulse 간격의 50%≈0.25 ms, 완전 상쇄=0%, 절반=25%≈0.125 ms). 막 저역통과가 짧은 펄스를 더 감쇠 → Δf AM 막탈분극 생성.
 
 ### 방법
-- **Ex-vivo**: 마우스 L2/3 피질뉴런 whole-cell patch-clamp(n=12); PWM-TI vs 정현 TI vs 10 Hz AC 비교.
+- **Ex-vivo**: 마우스 L2/3 cortical 뉴런 whole-cell patch-clamp(n=12); PWM-TI vs 정현 TI vs 10 Hz AC 비교.
 - **In-vivo**: GCaMP6s 마우스 V1 widefield Ca²⁺ 이미징(n=10), 두 전극쌍, Δf=0.5 Hz(느린 Ca 동역학용).
 - **모델링**: NEURON, L2/3 추체뉴런 5종(Aberra) + 단순 RmCm 단일구획; 능동채널 0으로 두어 수동막만 분리 가능.
 
@@ -41,6 +41,6 @@ Luff CE, …, Grossman N (corresponding, Imperial College London), *Brain Stimul
 - [[concept-temporal-interference-stimulation]] — 본 변형이 속한 방법론 hub.
 - [[person-grossman-nir]] — 교신저자(TI 개척자), 본 기술 확장.
 - [[guo-2023-a-novel-non-invasive-brain]] — PWM 변형을 미리 언급한 종합 리뷰.
-- [[violante-2023-non-invasive-temporal-interference]] — 같은 lab의 인간 해마 TI(임상 응용 끝).
+- [[violante-2023-non-invasive-temporal-interference]] — 같은 lab의 인간 hippocampus TI(임상 응용 끝).
 - [[vieira-2024-temporal-interference-stimulation-disrupts]] — TI 효율 한계를 영장류에서 실측(PWM이 줄이려는 그 약점).
 - [[concept-transcranial-electrical-stimulation]] · [[concept-deep-brain-stimulation]].

@@ -9,7 +9,7 @@ year: 2024
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **음식의 "맛(taste)"이 보상(먹게 만드는 신호)일 뿐 아니라 식사를 *끝내는* 음성 피드백이기도 하다** — 맛 신호가 한 입(bout)마다 AgRP hunger 뉴런을 일시 억제하고, 이 dip이 meal 종료(satiation)를 앞당긴다. 상류 매개체는 **DMH^LepR 뉴런**(sweet·fat 맛에 동조, AgRP의 거울상으로 섭식에 time-locked 활성) — 방금 ingest한 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016(vDMH^LepR→AgRP 억제)]]의 **맛-튜닝·meal termination 버전**. 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **orosensory(맛)가 Pleasure(liking)와 satiation 음성 피드백을 동시에 담당**함을 분리한 회로 증거이고, [[concept-flavor-nutrient-conditioning|flavor-nutrient]]·[[thanarajah-2019-food-intake-recruits-orosensory|orosensory vs post-ingestive]] 연구의 시상하부 회로 짝.
+> **음식의 "맛(taste)"이 보상(먹게 만드는 신호)일 뿐 아니라 식사를 *끝내는* 음성 피드백이기도 하다** — 맛 신호가 한 입(bout)마다 AgRP hunger 뉴런을 일시 억제하고, 이 dip이 meal 종료(satiation)를 앞당긴다. 상류 매개체는 **DMH^LepR 뉴런**(sweet·fat 맛에 동조, AgRP의 거울상으로 섭식에 time-locked 활성) — 방금 ingest한 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016(vDMH^LepR→AgRP 억제)]]의 **맛-튜닝·meal termination 버전**. 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **orosensory(맛)가 Pleasure(liking)와 satiation 음성 피드백을 동시에 담당**함을 분리한 회로 증거이고, [[concept-flavor-nutrient-conditioning|flavor-nutrient]]·[[thanarajah-2019-food-intake-recruits-orosensory|orosensory vs post-ingestive]] 연구의 hypothalamus 회로 짝.
 
 # Negative feedback control of hypothalamic feeding circuits by the taste of food
 
@@ -43,7 +43,7 @@ year: 2024
 
 ## 관련 페이지
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — 같은 **DMH^LepR→AgRP 억제 회로**의 짝: Garfield는 음식 *sight/availability·가치*에 활성, 본 논문은 *taste(gustatory)*에 동조·meal termination 기능을 추가.
-- [[concept-dorsomedial-hypothalamus]] — DMH^LepR이 sweet/fat 맛 + 위장관 영양을 통합해 AgRP를 끄는 거울상 노드.
+- [[concept-dorsomedial-hypothalamus]] — DMH^LepR이 sweet/fat 맛 + gastrointestinal tract 영양을 통합해 AgRP를 끄는 거울상 노드.
 - [[concept-npy-agrp-neurons]] — AgRP가 hunger뿐 아니라 bout-by-bout meal dynamics·satiation을 조절; 맛에 의한 일시 억제.
 - [[concept-need-motivation-pleasure-utility]] — orosensory(맛)가 **Pleasure(liking, bout 크기)** 와 **satiation 음성 피드백(incentive value, bout 수)** 을 분리 부호화.
 - [[concept-flavor-nutrient-conditioning]] — 맛 vs 영양분 분리; 본 논문은 영양분이 맛 응답을 potentiate하는 통합을 회로로 보임.

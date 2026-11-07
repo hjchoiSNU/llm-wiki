@@ -17,7 +17,7 @@ year: 2014
 - **소속**: BIDMC·Harvard Medical School 외. 교신 **[[person-lowell-bradford|Bradford B. Lowell]]**. 제1저자 Michael J. Krashes(현 NIH PI). 공저 Stephen D. Liberles·Naoshige Uchida·Alastair S. Garfield([[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]] 제1저자) 등.
 
 ## 한 줄 요약
-Cre-기반 세포특이 회로 매핑으로, 시상하부 PVH의 **TRH·PACAP(Adcyap1) 발현 글루타메이트성 뉴런**이 ARC^AgRP hunger 뉴런에 강력한 단일시냅스 흥분성 입력을 주어 섭식을 구동하며, AgRP는 역으로 PVH satiety 뉴런을 GABA로 억제하는 **상호(reciprocal) hunger 회로**를 형성함을 입증.
+Cre-기반 세포특이 회로 매핑으로, hypothalamus PVH의 **TRH·PACAP(Adcyap1) 발현 글루타메이트성 뉴런**이 ARC^AgRP hunger 뉴런에 강력한 단일시냅스 흥분성 입력을 주어 섭식을 구동하며, AgRP는 역으로 PVH satiety 뉴런을 GABA로 억제하는 **상호(reciprocal) hunger 회로**를 형성함을 입증.
 
 ## 핵심 내용
 

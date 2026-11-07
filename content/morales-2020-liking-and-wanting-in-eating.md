@@ -24,18 +24,18 @@ year: 2020
 - 상태 의존적 가변성: **alliesthesia**(배고픔에서 'liking'↑, 포만에서 ↓), 나트륨 결핍 시 진한 소금 자극이 'disgust' → 'liking'으로 전환, conditioned taste aversion(CTA)으로 역전.
 
 ### 음식 'liking' hedonic hotspot
-- ① **NAc 내측 shell rostrodorsal quadrant** (~1 mm³): mu-opioid agonist **DAMGO**가 sucrose 'liking'을 약 2배↑. 델타(DPDPE)·카파(U50488H) agonist도 증대.
-- ② **posterior VP**(복측 창백핵, ~0.8 mm³): DAMGO가 'liking' 2배↑. **posterior VP는 정상 'liking'에 필수** — 병변 시 'disgust' 반응 발생.
-- ③ **피질 hotspot**: anteromedial OFC, far-posterior insula. → [[concept-orbitofrontal-cortex]].
-- ④ 뇌간 **parabrachial nucleus**(benzodiazepine 매개).
+- ① **NAc medial shell rostrodorsal quadrant** (~1 mm³): mu-opioid agonist **DAMGO**가 sucrose 'liking'을 약 2배↑. 델타(DPDPE)·카파(U50488H) agonist도 증대.
+- ② **posterior VP**(ventral pallidum, ~0.8 mm³): DAMGO가 'liking' 2배↑. **posterior VP는 정상 'liking'에 필수** — 병변 시 'disgust' 반응 발생.
+- ③ **cortex hotspot**: anteromedial OFC, far-posterior insula. → [[concept-orbitofrontal-cortex]].
+- ④ brainstem **parabrachial nucleus**(benzodiazepine 매개).
 - orexin·endocannabinoid(anandamide, **내인성 opioid 의존**)도 'liking'↑. → [[concept-hedonic-hotspot]].
 
 ### 핵심 비대칭 (liking vs intake의 해부학적 분리)
-- DAMGO를 내측 shell의 **어디에 주입해도 food intake('wanting')는 ↑**되지만, **'liking' 증대는 rostrodorsal hotspot에서만** 발생.
+- DAMGO를 medial shell의 **어디에 주입해도 food intake('wanting')는 ↑**되지만, **'liking' 증대는 rostrodorsal hotspot에서만** 발생.
 - **coldspot**(후방 shell): 'liking'은 오히려 억제되나 intake는 유지됨 → 동일 핵 내에서도 쾌락과 섭취 동기가 별개 구획. → [[concept-nucleus-accumbens]].
 
 ### 'wanting' 회로 — 더 크고 dopamine 의존적
-- 'wanting' 회로는 'liking'보다 훨씬 넓음: NAc 전체 + 등쪽 선조체 + CeA(중심 편도) + LH. **mesolimbic dopamine**이 핵심.
+- 'wanting' 회로는 'liking'보다 훨씬 넓음: NAc 전체 + dorsal striatum + CeA(central amygdala) + LH. **mesolimbic dopamine**이 핵심.
 - 도파민 상승(amphetamine / DAT 녹다운) → cue-triggered 'wanting'↑, **'liking'은 불변**.
 - 6-OHDA dopamine depletion → 'wanting'↓, **'liking'은 정상**. → [[concept-dopamine-reward-system]].
 
@@ -58,7 +58,7 @@ year: 2020
 - [[concept-nucleus-accumbens]] — shell의 hotspot/coldspot 구획 비대칭
 - [[concept-food-addiction]] — 음식 cue에 대한 도파민 cue 반응 증거
 - [[concept-lateral-hypothalamus]] — orexin의 hotspot 투사, 항상성-쾌락 통합
-- [[person-choi-hyung-jin]] — 시상하부 회로·NMPU 연구 맥락 연결
+- [[person-choi-hyung-jin]] — hypothalamus 회로·NMPU 연구 맥락 연결
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 현대 비만의 cue 기반 incentive-sensitization 후속
 - [[murray-2014-hormonal-and-neural-mechanisms]] — 섭식 보상 호르몬-도파민 crosstalk 상보 리뷰.
-- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — "도파민 저하 → 보상적 과식" 제안과 체중 증가에 따른 선조체 반응 저하(Stice 2010)를 함께 소개. D2 원인/결과 논쟁의 2012년 시점.
+- [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — "도파민 저하 → 보상적 과식" 제안과 체중 증가에 따른 striatum 반응 저하(Stice 2010)를 함께 소개. D2 원인/결과 논쟁의 2012년 시점.

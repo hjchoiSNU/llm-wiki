@@ -22,7 +22,7 @@ aliases: [ketogenesis, 케톤생성, ketone bodies, β-hydroxybutyrate, BHB, ene
 
 ## 뇌 회로 쪽 증거
 - **NTS Adcyap1⁺→ARC 투사 자극**: 섭취 없이 **BHB↑ + 체중↓**, RER 감소 경향, EE 무변. 세마글루타이드 반응 subset만 골라 자극해도 재현 ([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]]).
-- **NTS Adcyap1⁺→DMH 투사 자극**: ketone·체중 무변, **EE 유의 감소**(자유섭식·무식이 모두) → 같은 뇌간 집단에서 나온 두 투사가 **반대 성격의 대사 출력**.
+- **NTS Adcyap1⁺→DMH 투사 자극**: ketone·체중 무변, **EE 유의 감소**(자유섭식·무식이 모두) → 같은 brainstem 집단에서 나온 두 투사가 **반대 성격의 대사 출력**.
 - **AgRP 뉴런**도 말초 기질 이용을 조절하며(Cavalcanti-de-Albuquerque 2019), Chen 2023(Cell Metab)은 AgRP **활성**이 간 β-oxidation·ketone 생성을 촉진·AgRP 억제가 단식 ketogenesis를 감소시킨다고 보고. ⚠️ 이는 "AgRP 억제 + ketone↑"를 보인 NTS→ARC 결과와 **단순 모델로는 양립하지 않는다**(측정 시점도 다름) → ARC 내 AgRP 비의존 기전이 열려 있음.
 - DMH는 EE를 **양방향**으로 조절하는 이질 집단(Brs3 뉴런의 체온·EE 상향, hibernation-like state 유도 회로 등) → "DMH 자극 = EE↑"로 일반화 불가.
 
@@ -33,8 +33,8 @@ aliases: [ketogenesis, 케톤생성, ketone bodies, β-hydroxybutyrate, BHB, ene
 
 ## 관련 페이지
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — NTS→ARC(ketone·체중) vs NTS→DMH(EE) 투사별 분업의 1차 근거 (bioRxiv preprint 2026).
-- [[concept-dorsal-vagal-complex]] — 이 대사 출력의 상류 뇌간 relay.
-- [[concept-arcuate-nucleus]] · [[concept-dorsomedial-hypothalamus]] — 두 대사 표현형의 시상하부 종착.
+- [[concept-dorsal-vagal-complex]] — 이 대사 출력의 상류 brainstem relay.
+- [[concept-arcuate-nucleus]] · [[concept-dorsomedial-hypothalamus]] — 두 대사 표현형의 hypothalamus 종착.
 - [[concept-npy-agrp-neurons]] — 말초 기질 이용·간 대사 조절의 고전 노드.
 - [[concept-weight-regain-defended-adiposity]] — EE 하향·체중 방어의 개념 hub.
 - [[concept-glp-1]] — GLP-1RA 효과의 섭취/대사 분해.

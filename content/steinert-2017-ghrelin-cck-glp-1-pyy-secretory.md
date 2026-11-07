@@ -10,7 +10,7 @@ journal: "Physiol Rev 97:411–463"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **위장관 호르몬 4종을 "physiological criteria"라는 엄격한 기준으로 평가한 권위 있는 종합 리뷰.**
+> **gastrointestinal tract 호르몬 4종을 "physiological criteria"라는 엄격한 기준으로 평가한 권위 있는 종합 리뷰.**
 > 결론은 의외로 보수적: 인간에서 endocrine satiation 신호로 완전 입증된 것은 **CCK 뿐**, incretin은 GLP-1 뿐. PYY(3-36)는 효과적 용량이 메스꺼움 유발해 physiological 신호로 자격 미달. → **회로 연구에서 "충분조건 vs 필요조건" 구분의 중요성, paracrine/neuropod 같은 local signaling 검증 방법론 필요성**, RYGB가 만든 "natural experiment"의 의의를 모두 정리.
 
 # Steinert 2017 — Prandial physiology of 4 gut hormones (Physiol Rev SOTA)
@@ -64,7 +64,7 @@ Ghrelin, CCK, GLP-1, PYY(3-36)의 분비 기전과 식사·혈당 조절 기여�
 
 - CCK-58이 주 순환형 (대부분 RIA는 <20% 회수 — 절대농도 부정확). 1928년 Ivy & Oldberg 발견.
 - 자극: 단백질 가수분해물, ≥**C12 long-chain FA**, 탄수화물(약함). 영양소 수용체: FFAR1/FFAR4/CD36 (지방), CASR/LPAR5/TAS1R1·R3 (단백질).
-- 수용체: **CCK1R** (말초/뇌간), CCK2R = gastrin receptor.
+- 수용체: **CCK1R** (말초/brainstem), CCK2R = gastrin receptor.
 - **인간 satiation의 paradigmatic endocrine 신호** (Figure 8 — 3개 RCT):
   - Lieverse 1995: physiological dose (0.24 pmol/kg/min) IV → 식사량 18%↓ in lean and obese women.
   - Matzinger 2000: intraduodenal lipid의 satiation을 loxiglumide(CCK1R 길항)가 차단.

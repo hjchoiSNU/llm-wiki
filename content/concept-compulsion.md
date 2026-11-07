@@ -38,16 +38,16 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - **oGABASI**: VTA GABA 뉴런 광유전 자기억제(GAD-Cre + ArchT3.0). 오피오이드·칸나비노이드·벤조디아제핀의 **disinhibition 기전만 분리**해 양성강화 성분을 순수하게 연구.
 
 ## 회로 — OFC→DST 시냅스 강도가 강박을 결정
-- 강박 마우스의 **[[concept-orbitofrontal-cortex|OFC]]→등쪽 선조체(DST)** 시냅스에서 D1-/D2-SPN **양쪽 모두** 글루탐산 전달이 강화돼 있다(Pascoli 2018).
+- 강박 마우스의 **[[concept-orbitofrontal-cortex|OFC]]→dorsal striatum(DST)** 시냅스에서 D1-/D2-SPN **양쪽 모두** 글루탐산 전달이 강화돼 있다(Pascoli 2018).
 - **양방향 인과**: D1R 약리 차단 + LTD 프로토콜로 **인공 depotentiation → perseverance 감소**; 비강박 마우스에서 **인공 potentiation → compulsion 유발**. → [[concept-drug-evoked-synaptic-plasticity]]
-- 상류 순서 가설: mPFC 변화 → OFC 변화 → 더 배외측 DST(ACC·운동피질 통제)로 진행하는 **dorsalization**. 배쪽→등쪽 전파는 NAc→SNc→DST의 **spiraling connectivity**(Haber 2000)를 타고 이뤄진다.
+- 상류 순서 가설: mPFC 변화 → OFC 변화 → 더 dorsolateral DST(ACC·motor cortex 통제)로 진행하는 **dorsalization**. ventral→dorsal 전파는 NAc→SNc→DST의 **spiraling connectivity**(Haber 2000)를 타고 이뤄진다.
 - 시점 문제: 강박이 아직 발현되지 않은 단계에서도 코카인-활성 입력의 시냅스가 이미 더 강하다(Wall 2019, >100,000 시냅스). 즉 potentiation은 **모든 개체에서 유도되고, 강박자에서만 정상 전달이 복구되지 않는 것**일 수 있다.
 
 ## 왜 소수만 강박이 되는가 — 확률성과 개체차
 - **유전으로 설명되지 않는다**: 유전적으로 동질한 C57BL/6J에서도 인간과 유사한 비율로 강박 개체가 출현. 유전적으로 동일한 마우스에서 탐색 행동의 개체차가 시간에 따라 **증가**한다(Freund 2013).
 - 후보: 잔여 유전 분리 / **확률적 유전자 발현** / **환경 미세차이에 의한 후성유전 drift**. → [[concept-epigenetic-priming]]
 - **충동성(impulsivity)** 은 부분적 endophenotype: 코카인 강박은 예측하나, **음성강화가 지배적인 헤로인에서는 escalation을 예측하지 못한다**.
-- 조절 인자: 접근 스케줄(long/extended access), 환경(home cage 효과가 오피오이드↔정신자극제 반대), **세로토닌(양방향 — 고갈은 강박↑, SSRI는 강박↓)**, NAc 콜린성 개재뉴런 D2R, 사춘기 전 스트레스, 성별(약물에서는 암컷 취약, **oDASS에서는 성차 없음**).
+- 조절 인자: 접근 스케줄(long/extended access), 환경(home cage 효과가 오피오이드↔정신자극제 반대), **세로토닌(양방향 — 고갈은 강박↑, SSRI는 강박↓)**, NAc 콜린성 interneuron D2R, 사춘기 전 스트레스, 성별(약물에서는 암컷 취약, **oDASS에서는 성차 없음**).
 
 ## 섭식 연구로의 이식
 - **처벌-저항 섭취**가 섭식판 compulsion의 표준 조작화: [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]]이 mPFC→rZI^GABA 회로가 처벌을 무릅쓴 고지방식 추구를 gate하며 **일반 식욕(TN^SST)과 해리**됨을 보였고, 인간에서 rZI–sgACC 기능연결이 food addiction 점수와 상관.
@@ -57,10 +57,10 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 ## 관련 페이지
 - [[luscher-2021-consolidating-the-circuit-model-for]] — 본 개념의 1차 소스(정의·oDASS·OFC→DST·양봉분포).
 - [[concept-drug-evoked-synaptic-plasticity]] — 강박의 시냅스 기질(OFC→DST potentiation과 그 역전).
-- [[concept-orbitofrontal-cortex]] — 강박을 통제하는 피질 노드.
+- [[concept-orbitofrontal-cortex]] — 강박을 통제하는 cortex 노드.
 - [[concept-dopamine-reward-system]] — oDASS가 분리해 내는 mesoaccumbal 도파민 축.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — **cue 도파민이 이후 처벌-저항 perseverance를 예측** — 강박의 전향적 표지 후보(Nat Neurosci 2026, 같은 lab).
-- [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌-저항 섭취의 시상하부 회로(섭식판 compulsion).
+- [[leow-2026-a-cortical-hypothalamic-neural]] · [[concept-zona-incerta]] — 처벌-저항 섭취의 hypothalamus 회로(섭식판 compulsion).
 - [[concept-food-addiction]] — 강박이 "음식 중독"의 방어 가능한 기준이 되는 지점.
 - [[concept-incentive-sensitization]] · [[robinson-2025-incentive-sensitization-30-years]] — *motivational compulsion* 재정의(경쟁 프레임).
 - [[concept-negative-reinforcement-hyperkatifeia]] — 강박의 나머지 절반(음성강화 축).
@@ -70,9 +70,9 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[concept-deep-brain-stimulation]] — 강박 회로를 되돌리려는 depotentiation 기반 자극 프로토콜.
 - [[person-luscher-christian]] — oDASS·compulsion 패러다임 정립자.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — **처벌 저항의 계산적 분해**: over-persistence가 (a) 대안·처벌 정보 둔감(주의 필터 과잉) (b) 현재 목표 평가절하 둔감(감시 실패) (c) 목표 비계형 내재 보상 중 어느 것인지 나눠야 강박 정의가 좁아짐; "고집"을 적응적 계산으로 재프레임한 원전.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — ⚠️ **spiraling connectivity 시간척도 제한**: 본 페이지는 배쪽→등쪽 DA 전파(NAc→SNc→DST, Haber 2000)를 dorsalization 기전으로 둔다. Gordon Fig 3은 섭취 중 evoked DA가 subregion 간 거의 전파되지 않음을 보여 **초 단위 방출은 국소 제어**라고 결론 — spiral은 해부·학습(분 단위) 척도에서 작동한다는 상보적 병기 (Neuron 2026).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — ⚠️ **spiraling connectivity 시간척도 제한**: 본 페이지는 ventral→dorsal DA 전파(NAc→SNc→DST, Haber 2000)를 dorsalization 기전으로 둔다. Gordon Fig 3은 섭취 중 evoked DA가 subregion 간 거의 전파되지 않음을 보여 **초 단위 방출은 국소 제어**라고 결론 — spiral은 해부·학습(분 단위) 척도에서 작동한다는 상보적 병기 (Neuron 2026).
 - [[nieh-2016-inhibitory-input-from-the]] — GABA성 LH→VTA 과활성 = **배고픔이 아닌 보상 동기로 유도되는 compulsive eating**(자극 대상 간 강박 공존 포함)의 회로 후보 (Neuron 2016, Tye lab).
-- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — 반복 행동의 또 다른 선조체 기질: OCD 모델 **Sapap3 null에서 BLA→DLS 입력 강화·자극 후 억제 소실**, BLA 만성 억제가 강박적 grooming 발병 차단 (Neuron 2026).
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — 반복 행동의 또 다른 striatum 기질: OCD 모델 **Sapap3 null에서 BLA→DLS 입력 강화·자극 후 억제 소실**, BLA 만성 억제가 강박적 grooming 발병 차단 (Neuron 2026).
 - [[concept-habit]] — 습관과의 구분(가치 없어도 계속 vs 해로워도 계속)과 dorsalization 경로를 정리한 이웃 개념 hub.
 - [[rangel-2008-a-framework-for-studying-the]] — 강박의 초기 계산적 가설(Nat Rev Neurosci 2008): OCD의 행동은 **Pavlovian계가 통제**할 수 있는 행동의 예로, OCD와 과식은 **적절한 가치계에 통제권을 주지 못하는 병리**의 예로 제시된다. 처벌 저항(이 페이지의 기준)과 달리 "어느 계가 행동을 쥐는가"로 정의하는 관점.
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 강박적 섭식(불리한 결과에도 지속)을 습관성(가치 절하 둔감)·과섭취와 별개 결과로 분리해 측정하는 설계.

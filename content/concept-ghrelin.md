@@ -6,7 +6,7 @@ updated: 2026-10-11
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Ghrelin은 **위→뇌(시상하부)로의 식사 시작 신호**로 작동하는 거의 유일한 알려진 orexigenic 말초 호르몬. NPY/AgRP 회로의 식사-단위 시간척도 입력으로서, 섭식 행동 회로 연구의 양 끝점 중 하나(leptin과 함께). **단 [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert 2017]] 종합 평가에서는 인간 endocrine hunger signal로 완전 입증 안 됨** — physiological dose에서 식사량 효과 없고, 보상 회로(VTA) 작용이 hedonic 효과로 나타날 가능성. → 대사 약물 후보로 더 적합.
+> Ghrelin은 **위→뇌(hypothalamus)로의 식사 시작 신호**로 작동하는 거의 유일한 알려진 orexigenic 말초 호르몬. NPY/AgRP 회로의 식사-단위 시간척도 입력으로서, 섭식 행동 회로 연구의 양 끝점 중 하나(leptin과 함께). **단 [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert 2017]] 종합 평가에서는 인간 endocrine hunger signal로 완전 입증 안 됨** — physiological dose에서 식사량 효과 없고, 보상 회로(VTA) 작용이 hedonic 효과로 나타날 가능성. → 대사 약물 후보로 더 적합.
 
 # Ghrelin
 
@@ -18,7 +18,7 @@ updated: 2026-10-11
 - **활성형 acyl-ghrelin은 총 ghrelin의 <10%** — assay 어려움 + 측정 시 acyl/total 구분 필수.
 
 ## 분비 부위
-주로 **위 oxyntic gland** (소량 장, 췌장 islet, 시상하부 ARC 뉴런 등). [[concept-enteroendocrine-cells#폐쇄형 (closed-type)|폐쇄형 enteroendocrine cell]] — apical이 epithelial cell로 둘러싸여 **lumen 직접 접촉 X**.
+주로 **위 oxyntic gland** (소량 장, 췌장 islet, hypothalamus ARC 뉴런 등). [[concept-enteroendocrine-cells#폐쇄형 (closed-type)|폐쇄형 enteroendocrine cell]] — apical이 epithelial cell로 둘러싸여 **lumen 직접 접촉 X**.
 
 ## 분비 조절
 
@@ -50,10 +50,10 @@ updated: 2026-10-11
 - NPY 또는 AgRP 신호 차단 시 ghrelin orexigenic 효과 약화.
 - NPY 다음으로 강력한 short-term feeding 자극 펩타이드.
 - 중추 효과는 **GH-independent**.
-- 시상하부 5-HT2C receptor 매개 식이 억제도 감소시킴.
+- hypothalamus 5-HT2C receptor 매개 식이 억제도 감소시킴.
 
 ### 보상 회로
-- 복측피개야(VTA) → dopamine 뉴런 활성, 측좌핵(NAcc) 작용.
+- ventral tegmental area(VTA) → dopamine 뉴런 활성, nucleus accumbens(NAcc) 작용.
 - Supraphysiological infusion → fMRI에서 음식 그림에 대한 reward 영역 반응 ↑ (Goldstone 2014).
 - → **hedonic 효과가 hunger 효과보다 우세할 가능성**.
 
@@ -101,7 +101,7 @@ updated: 2026-10-11
 - [[concept-agrp-synaptic-plasticity]] — ghrelin–AMPK 축이 속한 가소성 개념 hub.
 - [[concept-weight-regain-defended-adiposity]] — LEAP2 유사체(내인성 ghrelin 수용체 길항)가 유지생물학 전략으로 거론되는 맥락.
 - [[davila-2026-agrp-neurons-are-required-for]] — 세마글루타이드는 **순환 ghrelin을 바꾸지 않으면서** AgRP를 모집한다(ghrelin은 매개자에서 배제) (PNAS 2026).
-- [[rossi-2021-transcriptional-and-functional-divergence]] — ghrelin의 **외측시상하부 작용점을 세포·투사 수준으로** 좁힌 데이터(Neuron 2021, Stuber lab). ghrelin 1.0 mg/kg i.p.는 보상 후 핥기 latency를 줄이고(F(1,389)=6.39, p=0.012), LHA^Vglut2→**LHb** 뉴런의 sucrose 반응을 **키우되**(="굶은 것처럼" 반응) →**VTA** 뉴런에는 거의 효과가 없다(Ghrelin×Projection interaction F(1,313)=14.94, p=0.00013). **Ghsr mRNA 발현 비율은 두 투사 집단에서 차이 없음**(X²=1.80, p=0.18)이라 선택성은 수용체 분포만으로 설명되지 않는다. ⚠️ 원문 Figure 7L 캡션은 방향을 반대로 적어 본문·초록과 어긋난다(위키는 본문 방향 채택, 병기).
+- [[rossi-2021-transcriptional-and-functional-divergence]] — ghrelin의 **lateral hypothalamus 작용점을 세포·투사 수준으로** 좁힌 데이터(Neuron 2021, Stuber lab). ghrelin 1.0 mg/kg i.p.는 보상 후 핥기 latency를 줄이고(F(1,389)=6.39, p=0.012), LHA^Vglut2→**LHb** 뉴런의 sucrose 반응을 **키우되**(="굶은 것처럼" 반응) →**VTA** 뉴런에는 거의 효과가 없다(Ghrelin×Projection interaction F(1,313)=14.94, p=0.00013). **Ghsr mRNA 발현 비율은 두 투사 집단에서 차이 없음**(X²=1.80, p=0.18)이라 선택성은 수용체 분포만으로 설명되지 않는다. ⚠️ 원문 Figure 7L 캡션은 방향을 반대로 적어 본문·초록과 어긋난다(위키는 본문 방향 채택, 병기).
 - [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — ghrelin이 **LH orexin 뉴런을 직접 흥분**시킨 1차 근거(Neuron 2003): 시냅스와 분리한 orexin/EGFP 뉴런 **6/9가 ghrelin 10 nM에 탈분극·발화 184 ± 15.5%**, TTX 절편에서도 용량 의존. 같은 논문에서 leptin은 반대로 orexin을 억제(7/9). orexin은 단식 유발 각성·먹이 탐색의 세포 기질이므로, ghrelin→orexin은 식전 ghrelin surge의 각성·행동 활성화 성분 후보.
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 ghrelin 상승이 **1년 뒤에도 기저보다 높게** 남는다는 인간 근거(10→62주 사이 하락하지만 기저 초과 유지, P<0.001).
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — ghrelin을 '배고픔 cue'가 아니라 **행동 상태의 조절자**로 재서술. AgRP의 지방산 산화·미토콘드리아 fission을 켜는 세포내 연쇄의 출발점이고, VTA 도파민 연결성·hippocampal spine 시냅스를 바꾸며 Parkinson·Alzheimer 모형에서 보호 효과를 보였다. 배고픔 연관 인자로서 **항염증**(Th1·Th17↓, Treg↑) 쪽에 선다.

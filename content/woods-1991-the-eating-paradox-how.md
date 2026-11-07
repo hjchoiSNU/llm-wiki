@@ -28,7 +28,7 @@ year: 1991
 
 ### 핵심 논거 1 — Cephalic insulin (식전 인슐린)
 - 음식의 맛·냄새·시각 같은 **예측 단서**만으로 실제 흡수 전에 인슐린이 분비됨(Pavlov 타액분비의 유비; sham feeding·최면 실험으로 입증).
-- 기능: 식후 혈당 급증을 미리 억제 → **더 큰 식사를 감당** 가능. Cephalic insulin을 막으면(미주신경 절단 등) 식후 고혈당·**glucose intolerance** → 동물은 이를 보상하려 **더 작은 식사**를 함.
+- 기능: 식후 혈당 급증을 미리 억제 → **더 큰 식사를 감당** 가능. Cephalic insulin을 막으면(vagus nerve 절단 등) 식후 고혈당·**glucose intolerance** → 동물은 이를 보상하려 **더 작은 식사**를 함.
 - 임의 단서(소리·시각·하루 시각)와 음식을 연합시켜 인슐린 분비를 조건화할 수 있음.
 
 ### 핵심 논거 2 — "먹는 것의 문제"(elevated fuels = 위험)
@@ -61,6 +61,6 @@ year: 1991
 - [[overview-cea-glp1r-food-safety-alarm]] — 본 논문의 "음식=위협·혐오학습" 이론을 CeA GLP-1R 뉴런·GLP-1RA 약리에 적용한 종합.
 - [[concept-cortical-amygdala]] — 섭취 전 선천 후각 위험 감지 회로.
 - [[concept-conditioned-taste-aversion]] — "독성/큰 식사 뒤 aversion" 예측의 실험 패러다임.
-- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — "먹기=위협·neophobia·CTA"의 뇌간 실행자(PBN CGRP).
-- [[wang-2018-coding-of-valence-and-identity]] — "입안 쓴맛 즉시 거부"의 회로(쓴맛피질→CeA).
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — "먹기=위협·neophobia·CTA"의 brainstem 실행자(PBN CGRP).
+- [[wang-2018-coding-of-valence-and-identity]] — "입안 쓴맛 즉시 거부"의 회로(쓴맛cortex→CeA).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

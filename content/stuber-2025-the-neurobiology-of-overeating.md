@@ -15,7 +15,7 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 # The neurobiology of overeating (Stuber, Schwitzgebel & Lüscher 2025)
 
 ## 한 줄 요약
-과식 = **homeostatic(시상하부 ARC/PVH) + hedonic(mesolimbic LHA→VTA→NAc) 두 시스템의 dysregulation 및 crosstalk**. 중독 연구의 **시냅스 가소성 회로 모델**을 빌려 과식을 설명하되, "food addiction" 개념은 경험적으로 미입증이라 신중하게 다룰 것을 권고.
+과식 = **homeostatic(hypothalamus ARC/PVH) + hedonic(mesolimbic LHA→VTA→NAc) 두 시스템의 dysregulation 및 crosstalk**. 중독 연구의 **시냅스 가소성 회로 모델**을 빌려 과식을 설명하되, "food addiction" 개념은 경험적으로 미입증이라 신중하게 다룰 것을 권고.
 
 ## 핵심 내용
 
@@ -61,7 +61,7 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - **그러나 경고**: 두 가정(특정 음식이 약물 같은 성질 / 특정 개인이 통제상실 취약성)이 **미입증**. "common eating behaviors의 medicalization" 비판(Finlayson 2017). **"circuit model은 회로 parsing에 유용하나 food addiction은 신경생물학적으로 미입증 — maladaptive feeding을 addiction으로 취급하는 것은 신중해야"**.
 
 ### 8. 치료 메커니즘
-- **GLP-1R agonist**: 내인성 GLP-1은 국소 신경 작용(intestinofugal·NTS GLP-1 뉴런); agonist는 BBB 투과 낮아 주로 CVO(AP·ARC)·뇌실 인접부. ARC AgRP/POMC GLP-1R → Gs → cAMP → Ca²⁺ → **SK3 K⁺ → 활성↓** (Fig 5). **NTS GLP-1R 두 집단: satiety vs aversion 분리** (Huang 2024 Nature).
+- **GLP-1R agonist**: 내인성 GLP-1은 국소 신경 작용(intestinofugal·NTS GLP-1 뉴런); agonist는 BBB 투과 낮아 주로 CVO(AP·ARC)·ventricle 인접부. ARC AgRP/POMC GLP-1R → Gs → cAMP → Ca²⁺ → **SK3 K⁺ → 활성↓** (Fig 5). **NTS GLP-1R 두 집단: satiety vs aversion 분리** (Huang 2024 Nature).
 - semaglutide·tirzepatide 15–20%; chronic 시 **OFC가 palatable cue에 활성↑**(hedonic 과식 favoring, Farr 2019). 부작용: 근육량↓·anhedonia·우울.
 - **GCG·GIP 병용**. GIPR **agonist와 antagonist 둘 다 weight loss**(desensitization 역설).
 - **Transient efficacy → weight regain**(AgRP 급성 억제로 설명 가능) → 장기 전략 필요.
@@ -104,7 +104,7 @@ journal: "Neuron 113:1–14 (June 4, 2025)"
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — hedonic →VTA→NAc DA에 GLP1RA(CeA^Glp1r)가 약리적으로 brake; substance-use 적용 (Nature 2026).
 - [[concept-central-amygdala-glp1r]] — hedonic CeA→VTA→NAc 가소성에 GLP1RA가 작용하는 GLP-1R 노드 개념 hub.
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — 같은 lab(Stuber); mPFC↔VTA DA가 contingency degradation을 meta-RPE로 구동 (Nature 2026).
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — 같은 lab(제1저자 Gordon, 교신 Stuber)의 2026 원저. 본 리뷰가 서술한 **"LHA GABA → VTA 탈억제 → NAc DA"** 라는 단일 복측 표적 모델을 **선조체 전역 지도**로 확장하고, LHA GABA/Glut를 스위치가 아닌 **연속 비(ratio) 변수**로 재정의. 본 리뷰가 인용한 **Zhu 2025 Science(도파민 vs GLP-1R 포만)** 를 받아, "도파민을 겨냥한 항비만 개입의 효과는 **선조체 어디**에 도파민이 있는지와 상류 시상하부 균형에 달려 있다"는 번역 함의를 제시. ⚠️ 또 "DA가 섭식을 구동·지속(sustain)한다"는 통념(Gordon 원문은 Zhu 2025·Palmiter 2007을 인용)과 본 리뷰의 NAc→LHA feeding gate(on/off) 도식을 **부분 수정**한다 — 선조체 DA는 섭취 **개시(bout 수)** 만 강화하고 지속은 강화하지 않는다(단일 말단 자극은 진행 중 섭취 무변) (Neuron 2026). 인물 [[person-stuber-garret]].
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — 같은 lab(제1저자 Gordon, 교신 Stuber)의 2026 원저. 본 리뷰가 서술한 **"LHA GABA → VTA 탈억제 → NAc DA"** 라는 단일 ventral 표적 모델을 **striatum 전역 지도**로 확장하고, LHA GABA/Glut를 스위치가 아닌 **연속 비(ratio) 변수**로 재정의. 본 리뷰가 인용한 **Zhu 2025 Science(도파민 vs GLP-1R 포만)** 를 받아, "도파민을 겨냥한 항비만 개입의 효과는 **striatum 어디**에 도파민이 있는지와 상류 hypothalamus 균형에 달려 있다"는 번역 함의를 제시. ⚠️ 또 "DA가 섭식을 구동·지속(sustain)한다"는 통념(Gordon 원문은 Zhu 2025·Palmiter 2007을 인용)과 본 리뷰의 NAc→LHA feeding gate(on/off) 도식을 **부분 수정**한다 — striatum DA는 섭취 **개시(bout 수)** 만 강화하고 지속은 강화하지 않는다(단일 말단 자극은 진행 중 섭취 무변) (Neuron 2026). 인물 [[person-stuber-garret]].
 - [[person-stuber-garret]] — 제1저자 인물 hub.
 - [[liu-2026-granular-motivational-interaction-and]] — NAc→LH gate·LH^VGLUT2 brake·비만 가소성을 인용(ref166); feeding을 granular phase로 분해 (Neuron 2026).
 - [[concept-food-addiction]] — 본 리뷰의 핵심 논점인 과식의 addiction framing 신중론 hub.

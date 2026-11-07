@@ -23,9 +23,9 @@ affiliation: "Pennington Biomedical Research Center (LSU, Brain Glycemic and Met
 
 ### Background
 - 사람의 임신기 food craving은 흔하며, 고열량·고지방·고당 식이로 기울면 과도한 체중증가·임신성 당뇨·고혈압 위험과 산후 비만·대사증후군, 자손의 대사 위험 증가로 이어질 수 있다(도입부 서술).
-- 뇌 5-HT는 주로 중뇌 DRN에서 합성되어 광범위 투사하며, 5-HT2C·5-HT1B 수용체를 통해 섭취를 줄인다. 5-HT가 도파민 방출을 억제해 고열량 음식의 보상가를 낮추고, 반대로 5-HT가 낮으면 탄수화물 추구가 늘어 tryptophan↑→5-HT↑로 되먹임된다는 고전 루프를 배경으로 든다.
+- 뇌 5-HT는 주로 midbrain DRN에서 합성되어 광범위 투사하며, 5-HT2C·5-HT1B 수용체를 통해 섭취를 줄인다. 5-HT가 도파민 방출을 억제해 고열량 음식의 보상가를 낮추고, 반대로 5-HT가 낮으면 탄수화물 추구가 늘어 tryptophan↑→5-HT↑로 되먹임된다는 고전 루프를 배경으로 든다.
 - SK 채널은 세포내 Ca²⁺ 상승에 열려 K⁺ 유출로 과분극을 만들어 발화 확률을 낮춘다. **SK3는 DRN 5-HT 뉴런에 주로 존재**한다고 보고돼 있었으나, 임신기 5-HT 발화를 SK3가 통제하는지는 미지였다.
-- 선행 연구 Haddad-Tóvolli 2022(Nat Metab)는 **측좌핵 D2 수용체 뉴런의 도파민 신호**가 임신기 craving episode를 매개한다고 보고했고, 저자들은 본 연구를 그 위에 얹는 **별개의 5-HT·SK3 축 + DRN→VTA 회로**로 자리매김한다.
+- 선행 연구 Haddad-Tóvolli 2022(Nat Metab)는 **nucleus accumbens D2 수용체 뉴런의 도파민 신호**가 임신기 craving episode를 매개한다고 보고했고, 저자들은 본 연구를 그 위에 얹는 **별개의 5-HT·SK3 축 + DRN→VTA 회로**로 자리매김한다.
 
 ### Method — "food-craving-like behavior"의 조작적 정의 (중요)
 - 저자 정의: *"기호성·보상성 음식을 획득·소비하려는 증가된 동기적 행동 drive"*. 사람의 craving에 대한 **유비(analogy)이며, 주관적 갈망을 측정한 것이 아니다**.
@@ -82,7 +82,7 @@ affiliation: "Pennington Biomedical Research Center (LSU, Brain Glycemic and Met
 
 ### ⚠️ 한계 (원문 명시 + 보고 불일치)
 - **DRN 5-HT 뉴런의 이질성**을 해상하지 못함(표본·방법 제약으로 underpowered). 에스트로겐·프로게스테론 수용체 발현 하위집단이 핵심일 것이라는 추정은 **문헌 기반 해석이며 본 연구가 보인 바가 아니다**(오히려 patch-seq에서 ER 발현 변화는 검출되지 않았다).
-- 처녀에서 SK3 과발현·광유전 억제로 얻은 섭취 증가폭이 **중기 임신의 증가폭보다 작다** → 임신은 추가 기전(호르몬·대사·시상하부 회로)을 동원하며, 본 경로는 그 중 한 구성요소. 저자는 "mesolimbic 세로토닌 tone 저하가 허용적(permissive)으로 작용"한다고 표현.
+- 처녀에서 SK3 과발현·광유전 억제로 얻은 섭취 증가폭이 **중기 임신의 증가폭보다 작다** → 임신은 추가 기전(호르몬·대사·hypothalamus 회로)을 동원하며, 본 경로는 그 중 한 구성요소. 저자는 "mesolimbic 세로토닌 tone 저하가 허용적(permissive)으로 작용"한다고 표현.
 - **SK3를 조절하는 상류 호르몬·분자 신호는 미규명**.
 - 임신 중 세로토닌계 약물 조작은 태아 신경발달·태반 기능 때문에 **안전성 우려**가 크며, 비약물적·고선택적 전략이 필요하다고 명시.
 - **PPD5의 휴지막전위 보고가 엇갈린다**: Results는 PPD5가 처녀 대비 과분극되어 있다고 쓰고, Discussion은 "PPD5에서 휴지막전위가 **정상화**되었고 발화 감소만 지속된다"고 해석한다. 인용 시 Fig. 2d 쌍별 비교를 직접 확인할 것.
@@ -93,7 +93,7 @@ affiliation: "Pennington Biomedical Research Center (LSU, Brain Glycemic and Met
 - **NMPU 분해**: SK3 결손이 "임신기 chow 과식(Need 기반)"은 남기고 "간헐 접근 기호식 추구"만 없앤다는 해리는, [[concept-need-motivation-pleasure-utility|NMPU]]의 Need와 Motivation을 **분자 수준에서 분리 조작**할 수 있다는 뜻으로 읽을 수 있다. 다만 원문의 1차 지표는 섭취량이므로 Motivation 귀속은 BioDAQ seeking 지표에 한해 안전하다.
 - **측정 비판**: [[lee-2019-food-craving-seeking-and|craving→seeking→consumption]] 틀로 보면 Fig. 1·4·6·7은 **consumption**, Fig. 5d,e와 ED Fig. 1d,e만 **seeking**이다. "craving"이라는 명명과 측정 사이의 간극은 lab이 human/NHP 번역 지표를 설계할 때 반면교사.
 - **상태 의존 치료창**: DRN→VTA 활성화가 임신에서만 듣고 처녀에서는 무효라는 점은, [[concept-digital-therapeutics|DTx]]·neuromodulation에서 **"상태가 열렸을 때만 개입"** 하는 폐루프 설계 논리와 맞물린다(검증 필요).
-- **5-HT 쪽 공백 메우기**: 위키의 도파민 축([[concept-dopamine-reward-system]])과 시상하부 축은 두터운 반면 세로토닌 축은 얇다. 본 논문은 DRN을 **독립 노드**로 세우는 첫 1차 원전에 해당한다.
+- **5-HT 쪽 공백 메우기**: 위키의 도파민 축([[concept-dopamine-reward-system]])과 hypothalamus 축은 두터운 반면 세로토닌 축은 얇다. 본 논문은 DRN을 **독립 노드**로 세우는 첫 1차 원전에 해당한다.
 
 ## ⚠️ 위키 내 충돌·긴장
 - **DRN→VTA의 부호**: [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]]가 정리한 표에서 **DRN VGLUT3 → VTA DA → NAc는 보상(자가자극)** 회로다. 본 논문은 같은 해부학적 축(5-HT^DRN→VTA, 글루타메이트성 단일시냅스)을 활성화하면 **임신기 기호식 섭취가 줄어든다**고 보고한다. 세포 정체(VGLUT3⁺ vs TPH2⁺)·하류 표적(NAc 투사 DA vs WGA⁺ VTA 뉴런 일반)·측정 행동(자가자극 vs 섭취)이 달라 직접 모순은 아니지만, **"DRN→VTA 흥분 = 보상"으로 단순 인용하면 충돌**한다. 원문은 이 긴장을 다루지 않는다.
@@ -108,13 +108,13 @@ affiliation: "Pennington Biomedical Research Center (LSU, Brain Glycemic and Met
 - [[concept-appetitive-consummatory-phases]] — BioDAQ의 "접근 차단 후 hopper 진입·체류" 설계가 appetitive 지표로 성립하는 근거 개념.
 - [[concept-liking-wanting]] — 본 논문이 재는 것은 'liking'이 아니라 획득·소비 동기(≈wanting) 쪽. 단, hedonic reaction 측정은 없음.
 - [[concept-hedonic-devaluation]] — Discussion의 Mazzone 2020 대비(만성 HFD의 chow devaluation vs 간헐 접근의 chow 과식).
-- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 임신 호르몬에 의한 모체 회로 재편(MPOA 중심). 절식이 **배측 봉선핵 Y1 수용체 경유 NPY 신호**로 모성 돌봄을 억제한다는 서술과 DRN에서 접점.
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 임신 호르몬에 의한 모체 회로 재편(MPOA 중심). 절식이 **dorsal 봉선핵 Y1 수용체 경유 NPY 신호**로 모성 돌봄을 억제한다는 서술과 DRN에서 접점.
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 생식 경험에 의한 모체 뇌의 지속 재편. 해당 연구에서 DRN은 **저민감 부위**로 분류됐고 본 논문은 임신 중 DRN의 급성 변화를 본다 → 시점·지표가 다름(이유 4주 후 전사체 vs 임신 중 흥분성).
 - [[concept-maternal-programming-hypothalamus]] — 임신기 과잉 섭취→모체 비만→자손 프로그래밍의 상류 조건으로서 본 논문의 표적.
 - [[concept-medial-preoptic-area]] — 임신·출산기 호르몬 재편 허브; 섭식 아닌 양육 축의 대응 구조.
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-zona-incerta]] — Result 2에서 "변화 없음"으로 대조군 역할을 한 뉴런군.
 - [[stuber-2025-the-neurobiology-of-overeating]] — ARC AgRP/POMC에서 GLP-1R→cAMP→**SK3** 경로를 정리한 리뷰. 같은 채널이 다른 세포에서 섭식을 조절하는 대비.
-- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 선조체 콜린성 interneuron의 burst-then-pause에서 **SK3**가 pause를 만드는 사례. SK3=흥분성 brake라는 공통 문법.
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — striatum 콜린성 interneuron의 burst-then-pause에서 **SK3**가 pause를 만드는 사례. SK3=흥분성 brake라는 공통 문법.
 - [[concept-neurotransmitter-cotransmission]] — 5-HT 뉴런의 글루타메이트 공전달. "VTA 효과가 5-HT인가 글루타메이트인가"라는 미해결 질문의 개념 배경.
 - [[concept-emotional-eating]] · [[concept-cue-reactivity]] · [[concept-food-addiction]] — 사람 쪽 craving 현상학과의 접점(본 논문은 마우스 유비이므로 직접 번역은 유보).
 - [[zhao-2026-direct-interoceptive-input-to-the]] — ⚠️ **동명이인·별개 논문**(Zhe Zhao, insular cortex interoception). 본 페이지의 Qianru Zhao와 무관.

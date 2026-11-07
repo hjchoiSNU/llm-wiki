@@ -10,7 +10,7 @@ updated: 2026-06-02
 
 # [중견연구] 식품 불안정의 비만 유발 회로 기전 — 쥐·원숭이·사람 교차종
 
-- **국문 과제명**: 예측불가 먹이 환경(food insecurity)이 시상하부-보상 회로를 재프로그램하여 비만을 유발하는 보존된 기전 — 쥐·원숭이·사람 교차종 검증 및 insurance hypothesis의 인과 규명
+- **국문 과제명**: 예측불가 먹이 환경(food insecurity)이 hypothalamus-보상 회로를 재프로그램하여 비만을 유발하는 보존된 기전 — 쥐·원숭이·사람 교차종 검증 및 insurance hypothesis의 인과 규명
 - **영문 과제명**: Conserved circuit mechanisms by which food insecurity reprograms hypothalamic–reward systems to cause obesity: a rat–monkey–human cross-species test of the insurance hypothesis
 - **사업유형**: 개인기초연구 — **중견연구** (5년, 연 3억원 이내 가정) · **연구책임자**: [[person-choi-hyung-jin|최형진]] (서울대 의대)
 - **연구분야**: 신경과학 / 식욕·보상 회로 / 사회결정요인 / 비만
@@ -27,7 +27,7 @@ updated: 2026-06-02
 
 ## 3. 연구개발 목표
 ### 3-1. 최종 목표
-예측불가/불안정 먹이가 ARC 멜라노코르틴+중뇌변연 보상 회로를 "먹이 보상·과식·적응적 지방 저장"으로 재프로그램하는 보존된 기전을 규명하고, insurance hypothesis를 인과적으로 검증한다.
+예측불가/불안정 먹이가 ARC 멜라노코르틴+mesolimbic 보상 회로를 "먹이 보상·과식·적응적 지방 저장"으로 재프로그램하는 보존된 기전을 규명하고, insurance hypothesis를 인과적으로 검증한다.
 ### 3-2. 연차별 목표 (5년)
 | 연차 | 목표 | 대응 Aim |
 |---|---|---|
@@ -48,7 +48,7 @@ updated: 2026-06-02
 - 위험·대응: 동물 "예측불가 먹이"↔인간 사회 FI 괴리(번역 framework·NHP 다리), 인간 교란 SES·stress(HFSSM·cortisol·종단), NHP 비용(쥐 선별 후 진입), 발달창 vs 성체(연령 분리·[[concept-maternal-programming-hypothalamus|모체 programming]] 대조).
 
 ## 6. 연구역량 및 인프라
-- 연구책임자([[person-choi-hyung-jin]]): 시상하부·보상 회로(ARC·LH·VTA→NAc)·NHP([[ha-2024-hypothalamic-neuronal-activation-non-human]])·인간 fMRI 보유. 협력: 한국 FI 역학([[person-kim-kirang]]), 행동경제·계산. 인프라: photometry/FSCV·행동, NHP 시설, 7T MRI·PET, 임상 코호트.
+- 연구책임자([[person-choi-hyung-jin]]): hypothalamus·보상 회로(ARC·LH·VTA→NAc)·NHP([[ha-2024-hypothalamic-neuronal-activation-non-human]])·인간 fMRI 보유. 협력: 한국 FI 역학([[person-kim-kirang]]), 행동경제·계산. 인프라: photometry/FSCV·행동, NHP 시설, 7T MRI·PET, 임상 코호트.
 
 ## 7. 기대효과 및 활용방안
 - 사회결정요인→회로→비만 인과 사슬의 교차종 규명; insurance hypothesis 회로 검증.

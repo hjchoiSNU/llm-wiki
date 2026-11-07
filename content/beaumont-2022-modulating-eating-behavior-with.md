@@ -9,7 +9,7 @@ year: 2022
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 메타분석으로 **DLPFC tDCS의 전체 효과는 trivial(g≈0)**이나, **eating-behavior trait이 있는 사람(frequent craver·binge·PWS hyperphagia)에서만 small-moderate 효과** — 건강인은 무반응. 사용자에게 핵심 교훈: 비침습 식욕 신경조절은 **표적 인구(reward 과민·전전두 저활성)에 stratify**해야 한다. NMPU/DTx 연구 설계에 직접 적용.
+> 메타분석으로 **DLPFC tDCS의 전체 효과는 trivial(g≈0)**이나, **eating-behavior trait이 있는 사람(frequent craver·binge·PWS hyperphagia)에서만 small-moderate 효과** — 건강인은 무반응. 사용자에게 핵심 교훈: 비침습 식욕 신경조절은 **표적 인구(reward 과민·prefrontal 저활성)에 stratify**해야 한다. NMPU/DTx 연구 설계에 직접 적용.
 
 # Modulating eating behavior with tDCS: impact of eating behavior traits (Beaumont 2022)
 
@@ -25,7 +25,7 @@ year: 2022
   - 섭취: 전체 g=0.01; trait군 g=−0.12(frequent craving −0.30, binge −0.23); restraint·impulsive 남성 선호식 13%↓.
 - **기대/맹검 편향**: active라 믿으면 섭취 37.4%↓ — 겉보기 효과를 부풀림.
 - **질**: 28편 중 7편만 low risk(맹검 문제).
-- **기전**: anodal DLPFC가 binge/비만의 저활성 전전두 executive 통제를 끌어올려 food reward·갈망 억제. 주관 hunger는 homeostatic이라 tDCS 밖일 수 있음.
+- **기전**: anodal DLPFC가 binge/비만의 저활성 prefrontal executive 통제를 끌어올려 food reward·갈망 억제. 주관 hunger는 homeostatic이라 tDCS 밖일 수 있음.
 - **주장**: tDCS 전체 효과는 trivial이나 trait 의존; 과소비 trait(craving·binge·PWS) 보유자에서만 small-moderate → 표적 인구를 outcome에 맞춰 모집해야.
 
 ## 관련 페이지

@@ -10,7 +10,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[concept-orexin-neurons|Orexin(hypocretin) 뉴런]]이 노력(effort) 기반 동기 행동에서 "보상 예측(reward prediction)"을 부호화하며, PR 과제에서 요구 노력이 커질수록 활성이 증가한다 — LH 회로가 단순 arousal이 아니라 예측·기대 신호를 표상함을 보인 rat 인과 증거. 최형진 lab의 시상하부 섭식·보상 회로 연구에서 orexin 뉴런을 "예측→행동 유발" 브리지로 다룰 근거이며, 광유전학 억제로 reward-seeking이 저하된다는 점은 anti-obesity/DTx 개입 표적으로서 orexin 조절의 함의를 제공.
+> [[concept-orexin-neurons|Orexin(hypocretin) 뉴런]]이 노력(effort) 기반 동기 행동에서 "보상 예측(reward prediction)"을 부호화하며, PR 과제에서 요구 노력이 커질수록 활성이 증가한다 — LH 회로가 단순 arousal이 아니라 예측·기대 신호를 표상함을 보인 rat 인과 증거. 최형진 lab의 hypothalamus 섭식·보상 회로 연구에서 orexin 뉴런을 "예측→행동 유발" 브리지로 다룰 근거이며, 광유전학 억제로 reward-seeking이 저하된다는 점은 anti-obesity/DTx 개입 표적으로서 orexin 조절의 함의를 제공.
 
 # Reward prediction is encoded by orexin neuron activity during motivated behavior
 
@@ -20,7 +20,7 @@ Orexin-Cre BAC 형질전환 rat에서 세포 특이적 chemogenetic·optogenetic
 ## 핵심 내용
 
 **Background**
-- Orexin(=hypocretin) 뉴런은 시상하부(주로 lateral hypothalamus 포함)에 있으며 energy homeostasis, arousal, 동기 행동을 조절. 두 neuropeptide(orexin A/B)가 OX1R·OX2R로 작용.
+- Orexin(=hypocretin) 뉴런은 hypothalamus(주로 lateral hypothalamus 포함)에 있으며 energy homeostasis, arousal, 동기 행동을 조절. 두 neuropeptide(orexin A/B)가 OX1R·OX2R로 작용.
 - 기존 연구는 대부분 mice 대상. 저자들은 학습 능력이 높은 rat용 orexin-Cre BAC Tg rat를 자체 개발해 사용.
 
 **Method**

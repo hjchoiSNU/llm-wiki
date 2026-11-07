@@ -10,7 +10,7 @@ journal: "Lancet"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **amylin 유사체(cagrilintide) + GLP-1RA(semaglutide) 고정복합** CagriSema의 phase 3a. basal insulin 사용 T2D에 추가 → HbA1c −2.33%p, 체중 −10~12%, **저혈당 추가 위험 없이**. 사용자 lab 관점: amylin 축이 GLP-1과 **상보적 포만 신호**를 제공 → 후뇌·시상하부의 다중 식욕 호르몬 통합([[concept-melanocortin-system|melanocortin]]·amylin 회로) 연구 표적. NMPU의 'Need' 신호 다중 조작 사례. → hub [[overview-next-gen-incretin-obesity-drugs-2026]].
+> **amylin 유사체(cagrilintide) + GLP-1RA(semaglutide) 고정복합** CagriSema의 phase 3a. basal insulin 사용 T2D에 추가 → HbA1c −2.33%p, 체중 −10~12%, **저혈당 추가 위험 없이**. 사용자 lab 관점: amylin 축이 GLP-1과 **상보적 포만 신호**를 제공 → hindbrain·hypothalamus의 다중 식욕 호르몬 통합([[concept-melanocortin-system|melanocortin]]·amylin 회로) 연구 표적. NMPU의 'Need' 신호 다중 조작 사례. → hub [[overview-next-gen-incretin-obesity-drugs-2026]].
 
 # CagriSema as Add-On to Basal Insulin in T2D — REIMAGINE 3 (Rosenstock 2026)
 
@@ -26,11 +26,11 @@ journal: "Lancet"
   - HbA1c <7.0% 달성: 59.2% / 53.7% vs 위약.
 - **체중(2차)**: −12.0%(2.4 mg each)·−10.4%(1.0 mg each) vs +1.1% 위약 (ETD −13.1% / −11.6%). ≥10% 감량 58%, ≥15% 31%(2.4 mg).
 - **인슐린 용량**: 약 −20 U 감소 vs 위약.
-- **안전성**: 부작용 대부분 경도~중등도 위장관계. **중증 저혈당 없음, 저혈당 추가 위험 없음**. 1건 사망(악성종양, 비관련).
+- **안전성**: 부작용 대부분 경도~중등도 gastrointestinal tract계. **중증 저혈당 없음, 저혈당 추가 위험 없음**. 1건 사망(악성종양, 비관련).
 - **결론**: basal insulin 사용 T2D에서 CagriSema가 혈당·체중을 임상적으로 의미있게 개선.
 
 ## 사용자 lab 관점
-- **amylin + GLP-1 상보성**: amylin은 후뇌(area postrema·NTS)·시상하부에서 포만 신호 → GLP-1과 다른 경로의 식욕 억제. 다중 식욕 호르몬 통합 회로 연구 표적.
+- **amylin + GLP-1 상보성**: amylin은 hindbrain(area postrema·NTS)·hypothalamus에서 포만 신호 → GLP-1과 다른 경로의 식욕 억제. 다중 식욕 호르몬 통합 회로 연구 표적.
 - **체중과 혈당 동시**: 인슐린 유발 체중증가·저혈당이라는 임상 난제를 회피.
 - **동일 제1저자 경구약**: [[rosenstock-2026-oral-small-molecule-glp|aleniglipron(ACCESS)]].
 

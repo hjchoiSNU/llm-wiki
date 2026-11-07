@@ -18,7 +18,7 @@ year: 2022
 
 ## 핵심 내용
 - **표적**: 전 연구 DLPFC(좌 anode/우 supraorbital, 또는 양측 우anode/좌cathode), 2 mA·20–40분.
-- **식욕(6)**: 혼재. 15세션 Heinitz가 hunger·urge↓; 단일세션 Marron(좌DLPFC/우소뇌)은 오히려 hunger↑.
+- **식욕(6)**: 혼재. 15세션 Heinitz가 hunger·urge↓; 단일세션 Marron(좌DLPFC/우cerebellum)은 오히려 hunger↑.
 - **유전형(Fassini 2019)**: COMT Val158Met에 따라 식욕 반응 반대(Met 비보유자 식욕↑).
 - **섭취(9)**: 단일세션은 전부 무효; 공변량/하위군에서만 효과(예: 남성·restraint·impulsivity 모델 시 선호식 kcal↓). 장기(17·20세션)도 유의차 없음.
 - **갈망(5)**: 어느 연구도 main effect 없음; 하위군(BIS impulsivity 모델)에서만. **기대효과**(active라 믿으면 섭취↓)도 보고.
@@ -32,4 +32,4 @@ year: 2022
 - [[jeong-2024-efficacy-of-transcranial-direct]] — 양측 DLPFC tDCS 갈망↓·체중 불변(일치).
 - [[concept-loss-of-control-eating]] · [[concept-food-addiction]] — 표적 행동.
 - [[concept-digital-therapeutics]] — 개인맞춤 비침습 치료.
-- [[concept-orbitofrontal-cortex]] — 전전두 통제 회로.
+- [[concept-orbitofrontal-cortex]] — prefrontal 통제 회로.

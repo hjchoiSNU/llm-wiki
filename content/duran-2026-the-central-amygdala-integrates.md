@@ -10,7 +10,7 @@ journal: bioRxiv (preprint)
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **CeA가 말초 GLP-1RA(Ex-4)의 hypophagia를 매개하는 통합 노드**임을 in vivo 광계측 + 세포종류별 chemogenetic으로 입증. 핵심 분업: **Prkcd^CeA(외측, CeL)** 억제가 Ex-4 hypophagia를 가장 강하게 차단; **Glp1r^CeA(내측, CeM)** 억제는 표준식이에선 약하지만 **고지방·기호식(HFD)** 억제를 크게 rescue → **Glp1r^CeA = hedonic feeding 전담**(Pnoc^CeA와 reciprocal 추정); **Sst^CeA**는 무관. 방금 ingest한 [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]](NTS^Gcg→CeA^Glp1r→VTA, ~30% Pnoc)·[[gao-2026-semaglutide-drives-weight-loss-through|Gao]](CeA Fos 동원)와 같은 **CeA·[[concept-dorsal-vagal-complex|DVC]] 약리 라인**을 세포종류 해상도로 보강. **사용자 lab 인용**(Kim KS 2024 Science, ref 37)이라 [[concept-need-motivation-pleasure-utility|NMPU]]의 Pleasure/hedonic 축 표적으로 직접 연결.
+> **CeA가 말초 GLP-1RA(Ex-4)의 hypophagia를 매개하는 통합 노드**임을 in vivo 광계측 + 세포종류별 chemogenetic으로 입증. 핵심 분업: **Prkcd^CeA(lateral, CeL)** 억제가 Ex-4 hypophagia를 가장 강하게 차단; **Glp1r^CeA(medial, CeM)** 억제는 표준식이에선 약하지만 **고지방·기호식(HFD)** 억제를 크게 rescue → **Glp1r^CeA = hedonic feeding 전담**(Pnoc^CeA와 reciprocal 추정); **Sst^CeA**는 무관. 방금 ingest한 [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]](NTS^Gcg→CeA^Glp1r→VTA, ~30% Pnoc)·[[gao-2026-semaglutide-drives-weight-loss-through|Gao]](CeA Fos 동원)와 같은 **CeA·[[concept-dorsal-vagal-complex|DVC]] 약리 라인**을 세포종류 해상도로 보강. **사용자 lab 인용**(Kim KS 2024 Science, ref 37)이라 [[concept-need-motivation-pleasure-utility|NMPU]]의 Pleasure/hedonic 축 표적으로 직접 연결.
 
 # The central amygdala integrates exogenous glucagon-like peptide 1 signals (Duran et al. 2026)
 
@@ -34,8 +34,8 @@ journal: bioRxiv (preprint)
 | CeA population | 위치 | Ex-4 hypophagia에 대한 효과 |
 |---|---|---|
 | **vGat (전체 GABAergic)** | 전체 | 유의 attenuation (불완전; 수컷 유의, 암컷 trend) |
-| **Prkcd** | 외측 CeL | **가장 강한 attenuation** (양성 모두); CCK 등 anorexigenic 신호 매개로 알려짐 |
-| **Glp1r** | 내측 CeM | 표준식이 약한 attenuation |
+| **Prkcd** | lateral CeL | **가장 강한 attenuation** (양성 모두); CCK 등 anorexigenic 신호 매개로 알려짐 |
+| **Glp1r** | medial CeM | 표준식이 약한 attenuation |
 | **Sst** | CeL | **효과 없음** (특이성 확인) |
 
 - 모든 경우 rescue가 **불완전** → CeA는 brain-wide anorexigenic system의 한 노드; 병렬 회로 존재.
@@ -48,7 +48,7 @@ journal: bioRxiv (preprint)
 
 ### 직접 vs 간접 활성 (미해결)
 - 말초 GLP-1RA는 대부분 circumventricular organ에 축적 → CeA는 indirect 동원 가능.
-- 단 posterior CeA가 뇌실 인접 → 저농도 직접 결합 가능성. [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]]가 humanized GLP-1R CeA를 small-molecule(danuglipron·orforglipron)로 직접 활성화 보고(ref 86) → 직·간접 혼재 시사.
+- 단 posterior CeA가 ventricle 인접 → 저농도 직접 결합 가능성. [[godschall-2026-a-brain-reward-circuit-inhibited|Godschall]]가 humanized GLP-1R CeA를 small-molecule(danuglipron·orforglipron)로 직접 활성화 보고(ref 86) → 직·간접 혼재 시사.
 
 ## 관련 페이지
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — NTS^Gcg→CeA^Glp1r→VTA→NAc hedonic 회로(~30% Pnoc); 본 논문의 직접 상보 (Nature 2026, 인용 ref 86).
@@ -57,7 +57,7 @@ journal: bioRxiv (preprint)
 - [[concept-basolateral-amygdala]] — 인접 BLA와 구분되는 **central amygdala(CeA)** 세포종류 해부.
 - [[concept-glp-1]] — GLP-1R 분포·limbic 작용 hub.
 - [[concept-dorsal-vagal-complex]] — CeA로 GLP-1 신호를 중계하는 hindbrain 상류(NTS^Gcg).
-- [[kim-2024-glp-1-increases-preingestive-satiation]] — 본 논문이 인용(ref 37); 시상하부 cognitive satiation과 limbic hedonic 경로 대비 (사용자 lab).
+- [[kim-2024-glp-1-increases-preingestive-satiation]] — 본 논문이 인용(ref 37); hypothalamus cognitive satiation과 limbic hedonic 경로 대비 (사용자 lab).
 - [[concept-need-motivation-pleasure-utility]] — Glp1r^CeA hedonic 전담 = Pleasure 축 약리 진입점.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 기호식·food addiction 임상 표적 (사용자 lab).
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 부위별 GLP-1R 분업 review (사용자 lab).

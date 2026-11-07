@@ -41,7 +41,7 @@ updated: 2026-10-25
 - Upper intestine PPAR-α → vagus.
 - GPR40/120 + CD36 차단으로 fat-FNC 차단.
 - Sugar + fat **supra-additive** — calorie 동일 대비 둘 다 있는 음식이 더 강한 reinforcer ([[concept-dopamine-reward-system]] 비만 단서).
-- **미각 비의존 gut-brain 지방 선호** ([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022, Zuker]]): TRPM5-KO(지방 맛맹)도 지방 선호 형성; 두 병렬 미주 경로(CCK-의존 VIP generalist·CCK-비의존 TRPA1 fat-only). 장 수용체는 **[[concept-free-fatty-acid-receptors|GPR40/GPR120]] 필수, [[concept-cd36|CD36]] 불요**(CRISPR) — 구강 미뢰 CD36([[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]])와 부위별 분리.
+- **미각 비의존 gut-brain 지방 선호** ([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022, Zuker]]): TRPM5-KO(지방 맛맹)도 지방 선호 형성; 두 병렬 미주 경로(CCK-의존 VIP generalist·CCK-비의존 TRPA1 fat-only). 장 수용체는 **[[concept-free-fatty-acid-receptors|GPR40/GPR120]] 필수, [[concept-cd36|CD36]] 불요**(CRISPR) — 구강 taste bud CD36([[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]])와 부위별 분리.
 
 ### 4. Lever press 안 됨, lick만
 - 동물은 IG nutrient 받기 위해 lever press 안 함, **lick** 행동만 한다 (Holman 1969).
@@ -129,9 +129,9 @@ Fat   → GPR40/120 + CD36 → vagus →
 - [[proposal-oral-fat-taste-pleasure-desire]] — taste≠reinforcer(sucralose) 논리를 구강 지방에 적용; oral vs post-oral 지방 신호 분리 연구계획서.
 - [[woods-1991-the-eating-paradox-how]] — 맛-대사결과 학습(cephalic 조건화)의 이론 배경.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 조건화 풍미 선호(CFP)의 세포 기반(Cck·Gcg EEC).
-- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — taste-nutrient conditioning에 배측 D1r 필수.
-- [[concept-one-shot-learning]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 소수 시행으로 성립하는 식이 학습의 시냅스 규칙 문제. 선조체 eCB-LTP(짧은 1회) vs NMDA-LTP(반복) 분업은 FNC의 **시행 수 의존성**을 다시 묻게 한다(미검증 가설).
-- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — **시상하부(LH MCH) 경유 FNC 후보**(eLife 2013, Friedman·de Araujo). 단맛을 못 느끼는 **Trpm5⁻/⁻**에서 4일 sucrose/sucralose 교대 조건화 후 sucrose 자리 선호가 대조군 70–79%, **MCH 제거군 50%**(무차별)였다. VTA DA 뉴런 cFos도 감소했다. sucrose 섭취 중 선조체 DA(+118%)도 MCH에 의존한다. ⚠️ 이 페이지의 회로 정체(sugar → SGLT1 → vagus → hindbrain → VTA-DA → left aBLA, **NAc-DA 무관**; [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]])에는 LH가 없다. MCH가 vagal 경로의 하류인지(직렬), 별개의 중추 포도당 감지 경로인지(병렬)는 미검증이다. 구강 sucrose vs 위내 주입이라는 패러다임 차이와 함께 병기한다.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — taste-nutrient conditioning에 dorsal D1r 필수.
+- [[concept-one-shot-learning]] · [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 소수 시행으로 성립하는 식이 학습의 시냅스 규칙 문제. striatum eCB-LTP(짧은 1회) vs NMDA-LTP(반복) 분업은 FNC의 **시행 수 의존성**을 다시 묻게 한다(미검증 가설).
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — **hypothalamus(LH MCH) 경유 FNC 후보**(eLife 2013, Friedman·de Araujo). 단맛을 못 느끼는 **Trpm5⁻/⁻**에서 4일 sucrose/sucralose 교대 조건화 후 sucrose 자리 선호가 대조군 70–79%, **MCH 제거군 50%**(무차별)였다. VTA DA 뉴런 cFos도 감소했다. sucrose 섭취 중 striatum DA(+118%)도 MCH에 의존한다. ⚠️ 이 페이지의 회로 정체(sugar → SGLT1 → vagus → hindbrain → VTA-DA → left aBLA, **NAc-DA 무관**; [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]])에는 LH가 없다. MCH가 vagal 경로의 하류인지(직렬), 별개의 중추 포도당 감지 경로인지(병렬)는 미검증이다. 구강 sucrose vs 위내 주입이라는 패러다임 차이와 함께 병기한다.
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — **FNC를 증폭하는 중추 노드로서 LH MCH**(Nat Commun 2023, Kanoski lab, rat). 비칼로리 saccharin+Kool-Aid 향미 두 개를 **매 핥기 IG glucose**와 짝지으면서 한쪽만 MCH 화학유전 활성(DCZ)과 짝지었더니, 그 향미(CS+) 선호가 훈련 후 증가했고(P=0.0028) 변화량이 CS−보다 컸다(P=0.0353) — 세션당 1499 핥기 상한으로 glucose 총량은 동일화. 같은 논문에서 MCH 활동은 **섭취 중 식사 초기에 최대이고 총 칼로리를 예측**(R²=0.9299)해 Sclafani의 **appetition**과 연결된다. ⚠️ 저자들도 효과가 구강 쾌락 증폭인지 식후 영양 처리 증폭인지 구분하지 못한다고 명시하고, **MCH-1R 결손 마우스는 glucose 기반 FNC가 정상**(Sclafani 2016)이라는 반대 증거를 병기한다. [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]]의 VTA-DA-CCK→left aBLA 필요 경로 상에서 MCH의 위치는 미지.
 - [[hutelin-2026-metabolic-and-neural-responses-to]] — 인간 영양 일치 UPF vs non-UPF 교차 급식에서 식후 carbohydrate oxidation 차이가 food-cue caudate·ventral striatum 반응과 음(−)의 상관(n=29); flavour-nutrient learning 가설의 인간 상관 근거 (Nat Metab 2026).
 - [[concept-parabrachial-cgrp-alarm]] — **경계선**: FNC 회로(VAN→hindbrain→VTA-DA-CCK→left aBLA)에 PBN이 명시되지 않고, PBN 병변도 conditioned flavor preference를 보존한다(Reilly 1993). 영양소의 혐오·포만 출력만 PBN을 지난다.

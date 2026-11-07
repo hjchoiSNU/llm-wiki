@@ -27,17 +27,17 @@ GLP-1 수용체 작용제를 알츠하이머(AD)·파킨슨(PD)·근위축성측
 
 ### 기전 (Fig 2·3)
 - **간접**: 혈당·체중·전신염증↓, 인슐린감수성↑, 혈관혈류·**BBB 무결성↑**. (canonical GLP-1R는 골격근·지방·간세포엔 없음 → 대사효과는 대개 간접.)
-- **직접(CNS)**: 뇌 GLP-1R는 **주로 뉴런**이나 **성상교세포·희소돌기아교세포·내피·주피세포·일부 T세포**에도 발현. 인간 AD 해마 단일세포에서 평활근·성상교세포·상의세포·OPC에 GLP-1R.
+- **직접(CNS)**: 뇌 GLP-1R는 **주로 뉴런**이나 **성상교세포·희소돌기아교세포·내피·주피세포·일부 T세포**에도 발현. 인간 AD hippocampus 단일세포에서 평활근·성상교세포·상의세포·OPC에 GLP-1R.
 - **항신경염증**: NF-κB 억제, IL-1β·IL-6·TNF·IFN-γ↓. **NLY01**이 미세아교→반응성(A1) 성상교세포 전환 차단(5xFAD·3xTG-AD). **AMPK** 활성→미세아교 phagocytosis·BACE1↓.
-- **뇌 침투의 미묘함**: liraglutide 흡수는 GLP-1R 의존·**뇌실주위기관(circumventricular)·혈관 근접부에 국한**. **tanycyte Glp1r**가 liraglutide 뇌 수송 매개(silencing→수송·식욕효과↓). CSF 내 liraglutide는 미량. 큰 분자(maridebart, albiglutide)도 제한적 침투에도 CNS FOS 유발 → **접근 가능한 CNS GLP-1R가 미정의 세포간 경로로 신호 중계**.
+- **뇌 침투의 미묘함**: liraglutide 흡수는 GLP-1R 의존·**circumventricular organ(circumventricular)·혈관 근접부에 국한**. **tanycyte Glp1r**가 liraglutide 뇌 수송 매개(silencing→수송·식욕효과↓). CSF 내 liraglutide는 미량. 큰 분자(maridebart, albiglutide)도 제한적 침투에도 CNS FOS 유발 → **접근 가능한 CNS GLP-1R가 미정의 세포간 경로로 신호 중계**.
 
 ### 임상 근거 — AD
 - **실사용/역학(양성)**: 5개 연구 RR 0.47–0.90; 메타분석 **치매 28%↓(RR 0.72, 95%CI 0.54–0.97)**. FAERS(exenatide aROR 0.22 등). Nørgaard(RCT+덴마크 레지스트리) 치매 HR 0.47/OR 0.89. **target trial emulation**: semaglutide 첫 AD 진단 40–70%↓(vs 타 혈당강하제); 1.7M 코호트 HR 0.54(vs insulin). 참전용사 1.4M에서 AD 12%↓.
 - **RCT(대체로 음성)**:
   - liraglutide 38인 FDG-PET 보존(Gejl 2017, biomarker 미확인·소규모).
   - exenatide 21인 18개월 인지·영상·CSF 무효.
-  - **[[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]** 204인: 1차 FDG 음성, 2차 ADAS-EXEC·측두엽/피질 부피 유리, 그러나 ADCS-ADL(−0.58, P=0.65)·CDR-SB(−0.06, P=0.81) 무효.
-  - **[[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]]** 각 3,808인(경구 sema 14mg, amyloid 확인 초기 AD): **CDR-SB 진행 감소 없음** — 바이오마커는 감소했음에도. → 이 리뷰가 꼽는 **실패 원인**: 경구 sema의 순환농도 부족·**해마 등 뇌 침투 제한**·**이미 진행된 병기**(예방 창 지남)·바이오마커-임상 연결 불확실·최적 시점/기간 미상.
+  - **[[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]** 204인: 1차 FDG 음성, 2차 ADAS-EXEC·temporal lobe/cortex 부피 유리, 그러나 ADCS-ADL(−0.58, P=0.65)·CDR-SB(−0.06, P=0.81) 무효.
+  - **[[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]]** 각 3,808인(경구 sema 14mg, amyloid 확인 초기 AD): **CDR-SB 진행 감소 없음** — 바이오마커는 감소했음에도. → 이 리뷰가 꼽는 **실패 원인**: 경구 sema의 순환농도 부족·**hippocampus 등 뇌 침투 제한**·**이미 진행된 병기**(예방 창 지남)·바이오마커-임상 연결 불확실·최적 시점/기간 미상.
 - 안전성: ≥65세에서 sema 체중 −3.8%(52주), 새 안전신호 없음 → 노인 투여 가능성.
 
 ### 임상 근거 — PD·ALS

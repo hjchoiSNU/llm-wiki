@@ -15,7 +15,7 @@ updated: 2026-10-04
 음식 가치가 낮아진 뒤에도 유지되는 DLS 세포군 패턴이 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는지, 종단 Miniscope 기록과 후속 인과 조작으로 검증하는 연구 제안이다.
 
 > [!note] 제안의 상태와 근거 범위
-> **검증된 선행 결과와 아직 검증되지 않은 연구 가설을 구분한 설계안**이다. 성체 자유행동 생쥐를 잠정 가정하며 종·계통·장비·Cre 라인·표본수·최종 절차는 미확정이다(위키 안 선례는 §5). 위키 보유 PDF에 대한 서술은 2026-10-04에 원문 텍스트와 대조했다. **위키 밖 문헌 10편은 `raw/`에 원문이 없어 이 위키에서 확인되지 않았다.** 본문에서 "위키 밖·미확인"으로 표시하고 맨 아래에 목록을 둔다. 체계적 문헌고찰이나 신규성의 최종 판정은 아니다. 여기서 DLS는 **dorsolateral striatum(배외측 선조체)**을 뜻한다.
+> **검증된 선행 결과와 아직 검증되지 않은 연구 가설을 구분한 설계안**이다. 성체 자유행동 생쥐를 잠정 가정하며 종·계통·장비·Cre 라인·표본수·최종 절차는 미확정이다(위키 안 선례는 §5). 위키 보유 PDF에 대한 서술은 2026-10-04에 원문 텍스트와 대조했다. **위키 밖 문헌 10편은 `raw/`에 원문이 없어 이 위키에서 확인되지 않았다.** 본문에서 "위키 밖·미확인"으로 표시하고 맨 아래에 목록을 둔다. 체계적 문헌고찰이나 신규성의 최종 판정은 아니다. 여기서 DLS는 **dorsolateral striatum**을 뜻한다.
 
 ## 1. 먼저 세 가지 결과를 분리해야 합니다
 
@@ -53,7 +53,7 @@ updated: 2026-10-04
 
 Gordon의 결과는 특히 중요합니다. DLS·DMS 도파민 말단 자극에서 bout 수는 늘고 bout당 lick 수는 줄었으며 총 lick 수는 유의하게 변하지 않았습니다(PDF 14–15). 이 셋은 lick 수 지표이며 섭취 용량이나 kcal가 아닙니다(PDF 30). **먹기 시작 횟수와 bout 크기가 상쇄돼 총량이 유지될 수 있다**는 것은 이 자료에서 도출한 해석이고, 저자 결론은 도파민이 licking 개시를 강화한다는 것입니다(PDF 14·17). 이 연구의 free-access는 head-fixed 상태에서 spout에 지속적으로 접근할 수 있는 조건이며, 자유행동 동물의 고형식 과섭취 실험과는 다릅니다(PDF 17·23–24·26). 또한 그 연구의 도파민 측정·말단 조작과, 이번에 제안하는 GCaMP 세포체 칼슘 기록은 다른 신호입니다. Miniscope GCaMP로 도파민 방출이나 시냅스 LTP를 직접 측정했다고 해석할 수 없습니다.
 
-해부학도 고정해야 합니다. 여기서 DLS는 **dorsolateral striatum(배외측 선조체)**입니다. 위키 일부의 DLS/dLS는 **dorsolateral septum(배외측 중격, [[concept-lateral-septum|외측중격]]의 하위 영역)**을 뜻합니다. 배측 선조체 전체의 결과를 DLS 결과로 바꾸거나, 중격의 맥락 섭식 회로를 같은 DLS 회로로 합치면 안 됩니다.
+해부학도 고정해야 합니다. 여기서 DLS는 **dorsolateral striatum**입니다. 위키 일부의 DLS/dLS는 **dorsolateral septum(dorsolateral septum, [[concept-lateral-septum|lateral septum]]의 하위 영역)**을 뜻합니다. dorsal striatum 전체의 결과를 DLS 결과로 바꾸거나, septum의 맥락 섭식 회로를 같은 DLS 회로로 합치면 안 됩니다.
 
 ## 3. Miniscope로 구별할 경쟁 가설
 
@@ -154,8 +154,8 @@ Miniscope의 calcium event는 직접 측정한 spike가 아닙니다. 정확한 
 
 - **DLS miniscope와 세포형 구분:** Fallon 2026은 D1-Cre·A2a-Cre 생쥐의 DLS에서 자유행동 miniscope로 dSPN 888개, iSPN 547개를 기록했습니다(PDF 7·12–13). Weinreb 2026도 Drd1a-Cre·A2a-Cre로 DLS를 기록했습니다(PDF 19–20). 장비와 Cre 라인을 정할 때 출발점으로 쓸 수 있습니다.
 - **두 경로의 비교:** Fallon에서 전체 평균으로는 두 경로의 차이가 없었고, 기능 집단 안에서만 dSPN−iSPN 차가 lever·port까지 거리와 상관했습니다(PDF 8–9·27). 두 색은 서로 다른 세션에 기록했습니다(PDF 13). Weinreb은 일부 동물에서 두 경로를 함께 기록했지만 경로를 합쳐 분석했습니다(PDF 19–20). 과제 수행 중 두 경로를 같은 세션에서 구분해 비교한 선례는 위키에서 찾지 못했습니다.
-- **렌즈 손상:** Fallon은 렌즈 삽입 전 피질을 흡인했고, 위쪽 감각운동 피질의 광범위한 손상을 한계로 적습니다(PDF 10·12).
-- **날짜 간 세포 추적:** DLS에서는 선례가 없습니다. 다른 영역 선례는 종류가 다릅니다. Leow 2026은 전전두 투사 뉴런을 자유행동 miniscope로 기록하며 같은 시야를 유지하고 모든 세션에 있는 뉴런만 분석했습니다(PDF 18–19·21). [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]의 세션 간 추적은 머리 고정 두광자 영상이어서 1-photon 선례가 아닙니다(PDF 5·23). [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]] 페이지에는 LH miniscope의 종단 세포 등록이 기록돼 있습니다(원문 미확인).
+- **렌즈 손상:** Fallon은 렌즈 삽입 전 cortex를 흡인했고, 위쪽 감각운동 cortex의 광범위한 손상을 한계로 적습니다(PDF 10·12).
+- **날짜 간 세포 추적:** DLS에서는 선례가 없습니다. 다른 영역 선례는 종류가 다릅니다. Leow 2026은 prefrontal 투사 뉴런을 자유행동 miniscope로 기록하며 같은 시야를 유지하고 모든 세션에 있는 뉴런만 분석했습니다(PDF 18–19·21). [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]의 세션 간 추적은 머리 고정 두광자 영상이어서 1-photon 선례가 아닙니다(PDF 5·23). [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]] 페이지에는 LH miniscope의 종단 세포 등록이 기록돼 있습니다(원문 미확인).
 - **lab 경험:** Lee 2023이 LH에서 miniscope 단일세포 기록과 CNMF-E 추출을 수행했습니다(PDF 11·13–14).
 - **발화가 드문 구간:** Piette 2026의 단일유닛 기록에서 짧은 접촉 중 DLS 발화 중앙값은 1–3 Hz였고 일부 뉴런은 침묵했습니다(PDF 6). 이런 구간에서는 칼슘 영상의 민감도 한계를 고려해야 합니다.
 
@@ -183,7 +183,7 @@ Miniscope의 calcium event는 직접 측정한 spike가 아닙니다. 정확한 
 |---|---|---|---|
 | 1 | 먹기 시작, 종료, 재시작 중 무엇이 바뀌는가? | 주 프로젝트에서 bout 단위 miniscope 분석과 시점별 조작 | 총량 변화와 행동 구조 변화의 분리 |
 | 2 | 같은 동작을 다른 맥락에서 하면 패턴과 습관이 달라지는가? | 익숙한 두 맥락, cue omission/변경, 동일 음식·동작 대조 | novelty·위치·불안·일반 동기 차이 |
-| 3 | BLA 입력이 음식 관련 DLS 패턴의 형성 또는 표현에 필요한가? | BLA→DLS 입력 조작을 학습기와 검사기로 분리, DLS 영상은 검증된 별도 조건 | Hobel은 섭식 연구가 아니며, 입력 조작이 정서/운동도 바꿀 수 있음. CeA 섬유는 DLS에서 관찰되지 않았으므로(Giovanniello PDF 22) DLS에서 직접 조작할 편도 입력으로 위키에 기록된 것은 BLA→DLS뿐 |
+| 3 | BLA 입력이 음식 관련 DLS 패턴의 형성 또는 표현에 필요한가? | BLA→DLS 입력 조작을 학습기와 검사기로 분리, DLS 영상은 검증된 별도 조건 | Hobel은 섭식 연구가 아니며, 입력 조작이 정서/운동도 바꿀 수 있음. CeA 섬유는 DLS에서 관찰되지 않았으므로(Giovanniello PDF 22) DLS에서 직접 조작할 amygdala 입력으로 위키에 기록된 것은 BLA→DLS뿐 |
 | 4 | 변화가 DLS 내부인지 DMS의 가치 정보 사용 실패인지? | 동일 과제의 matched DMS 기록, 필요시 DMS 조작 | DLS 신호만으로 두 영역 간 통제권 이동을 증명할 수 없음. 위키의 습관 전환 인과 자료는 DMS 입력에 있음(Giovanniello PDF 4·6·8) |
 | 5 | 한 번의 현저한 음식 경험이 장기 패턴을 남기는가? | 최초 노출 전후 종단 영상 + 이후 독립 habit 검사; 비음식 novelty 대조. Piette에서 가소성은 짧은 접촉에 한정됐으므로(PDF 5) 노출 길이를 설계 변수로 둠 | 신경 변화 자체가 habit은 아님([[concept-one-shot-learning]]). [[concept-endocannabinoid-system\|eCB/CB1]] 기전은 별도 분자·인과 검증 필요 |
 
@@ -193,7 +193,7 @@ Miniscope의 calcium event는 직접 측정한 spike가 아닙니다. 정확한 
 
 **첫 단계는 행동 파일럿입니다.** 현재 사용하는 생쥐·보상에서 outcome devaluation이 확실히 작동하고, 선택한 노출 조건에 따라 추구의 민감도가 달라지는지 확인합니다. 동시에 실제 섭취 증가가 있는지도 별도 시험으로 봅니다.
 
-그 다음 장착·영상 파일럿에서 먹기 행동을 방해하지 않는지, 같은 세포를 필요한 기간 동안 등록할 수 있는지, 구강·앞발 동작이 영상에 잡히는지 확인합니다. 렌즈 삽입에 따른 피질 손상이 학습과 습관 행동을 바꾸지 않는지도 봅니다(Fallon 저자가 밝힌 한계; PDF 10). 이 두 단계가 통과되면 DLS 본 코호트로 진행합니다.
+그 다음 장착·영상 파일럿에서 먹기 행동을 방해하지 않는지, 같은 세포를 필요한 기간 동안 등록할 수 있는지, 구강·앞발 동작이 영상에 잡히는지 확인합니다. 렌즈 삽입에 따른 cortex 손상이 학습과 습관 행동을 바꾸지 않는지도 봅니다(Fallon 저자가 밝힌 한계; PDF 10). 이 두 단계가 통과되면 DLS 본 코호트로 진행합니다.
 
 - **절하 효능 실패:** habit 연구를 진행하기보다 가치 조작부터 수정합니다.
 - **추구 변화만 있고 과섭취 없음:** food-seeking habit 연구로 범위를 정직하게 유지합니다.
@@ -233,7 +233,7 @@ Miniscope의 calcium event는 직접 측정한 spike가 아닙니다. 정확한 
 - [[concept-compulsion]] — 강박적 섭식(불리한 결과에도 지속)을 습관성·과섭취와 별개 결과로 분리하는 근거.
 - [[concept-medium-spiny-neuron]] — dSPN·iSPN(D1·A2a) 세포형 구분의 배경.
 - [[concept-one-shot-learning]] · [[concept-endocannabinoid-system]] — 후속 질문 5(한 번의 음식 경험)의 가설 출발점과 eCB/CB1 기전.
-- [[concept-lateral-septum]] — 약어 주의: 그쪽의 DLS/dLS는 배외측 중격이며 본 제안의 DLS(배외측 선조체)와 다른 구조.
+- [[concept-lateral-septum]] — 약어 주의: 그쪽의 DLS/dLS는 dorsolateral septum며 본 제안의 DLS(dorsolateral striatum)와 다른 구조.
 - [[overview-research-proposals]] — 기존 연구계획서 비교와 연계.
 - [[person-choi-hyung-jin]] — 연구책임자.
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — DLS dSPN·iSPN miniscope 선례. 횟수·방향 제어와 사전 급식 가치 절하(행동만). 날짜 간 추적은 없음.
@@ -244,7 +244,7 @@ Miniscope의 calcium event는 직접 측정한 spike가 아닙니다. 정확한 
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 짧은 경험의 DLS 가소성(보상 없는 회피 과제). 후속 질문 5의 출발점.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — lab의 LH miniscope 선례(CNMF-E)와 seeking·consummatory 분리 과제.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — 정크푸드 노출이 접근만 키우고 섭취량·체중은 바꾸지 않음. 식이 노출 파일럿에서 추구와 섭취를 따로 재는 근거.
-- [[leow-2026-a-cortical-hypothalamic-neural]] — 자유행동 miniscope의 세션 간 추적 선례(전전두)와 음식 접촉 bout 정의. 강박적 섭취를 습관과 구별.
+- [[leow-2026-a-cortical-hypothalamic-neural]] — 자유행동 miniscope의 세션 간 추적 선례(prefrontal)와 음식 접촉 bout 정의. 강박적 섭취를 습관과 구별.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 세션 간 동일 뉴런 추적(머리 고정 두광자)과 턱 움직임 공변량 모형.
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — LH miniscope의 종단 세포 등록 사례(원문 미확인).
 - [[xu-2020-behavioral-state-coding-by]] — 비교 조건이 적으면 특정 상태 전속 세포를 과대 추정한다는 주의.

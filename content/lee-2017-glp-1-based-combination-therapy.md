@@ -19,7 +19,7 @@ journal: "Journal of Obesity & Metabolic Syndrome 2017;26:155-160; doi:10.7570/j
 
 ## 배경·문제의식
 - 비만·2형 당뇨에 대한 **단독요법(GLP-1 agonist)의 한계**: 일부 환자만 충분한 체중·혈당 조절 달성, 흔히 용량제한 부작용(오심, 췌장염 위험).
-- GLP-1 = 원위 회장·대장 L cell에서 영양소 자극 시 분비되는 anorectic incretin. GLP-1R은 췌도 α/β/δ cell, 폐·심장·신장·위장관·뇌하수체·미주신경 nodose ganglion, **시상하부·뇌간** 등 광범위 발현.
+- GLP-1 = 원위 회장·대장 L cell에서 영양소 자극 시 분비되는 anorectic incretin. GLP-1R은 췌도 α/β/δ cell, 폐·심장·신장·gastrointestinal tract·pituitary·vagus nerve nodose ganglion, **hypothalamus·brainstem** 등 광범위 발현.
 - Exendin-4(GLP-1 agonist)는 위 배출 지연·포만 증가로 식이↓; insulin 분비 강화로 혈당 개선.
 - → **GLP-1 + 다른 펩타이드 병용**으로 multi-organ 기전을 동시에 표적해 시너지를 노린다(Fig. 1: BAT·WAT·circulation·brain·liver·pancreas).
 
@@ -49,7 +49,7 @@ journal: "Journal of Obesity & Metabolic Syndrome 2017;26:155-160; doi:10.7570/j
 
 ### 5. GLP-1 + 기타 (leptin·CCK·amylin·naltrexone·gastrin)
 - **CCK**: GLP-1+CCK-33 인간 주입 시 식전 공복감 시너지↓ (Gutzwiller 2004).
-- **Leptin**: GLP-1+leptin IP 병용이 hindbrain→시상하부 상행 신경경로로 식이↓ (Akieda-Asai 2014); Ex-4+leptin 가산 효과 (Bojanowska 2007).
+- **Leptin**: GLP-1+leptin IP 병용이 hindbrain→hypothalamus 상행 신경경로로 식이↓ (Akieda-Asai 2014); Ex-4+leptin 가산 효과 (Bojanowska 2007).
 - **Naltrexone**(opioid antagonist, reward계): Ex-4+naltrexone 용량의존 시너지 식이↓ + conditioned taste aversion 빠른 획득 (Liang 2013).
 - **Amylin analog(salmon calcitonin)**: Ex-4+calcitonin 시너지 식이↓·체중↓ (영장류, Bello 2010).
 - **Gastrin**: Ex-4+gastrin이 db/db·NOD mouse에서 β cell 증식·분화 촉진·정상혈당 회복 (Tamaki 2010, Suarez-Pinzon 2008) — 항당뇨/β cell 보존 축.
@@ -77,7 +77,7 @@ journal: "Journal of Obesity & Metabolic Syndrome 2017;26:155-160; doi:10.7570/j
 - [[concept-pomc-neurons]] — 중추 병용 시 ARC POMC↑.
 - [[concept-pyy-3-36]] — GLP-1+PYY 병용(GLP-1R 비의존 시너지).
 - [[concept-dopamine-reward-system]] — GLP-1+naltrexone reward계 작용.
-- [[concept-leptin]] — GLP-1+leptin hindbrain→시상하부 경로.
+- [[concept-leptin]] — GLP-1+leptin hindbrain→hypothalamus 경로.
 - [[concept-cck]] — GLP-1+CCK 식전 공복감 시너지↓.
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 동일 lab 인체 GLP-1RA fMRI(계보).
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 동일 lab DMH GLP-1R Science 2024(계보).

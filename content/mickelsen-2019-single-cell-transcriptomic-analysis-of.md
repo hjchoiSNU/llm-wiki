@@ -18,7 +18,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - **저널**: Nature Neuroscience 22(4):642–656 (2019-04; 접수 2018-03-17, 채택 2019-01-30). DOI: 10.1038/s41593-019-0349-8. 유형은 **Resource**.
 - **소속**: University of Connecticut, Dept. of Physiology & Neurobiology + CT Institute for the Brain and Cognitive Sciences (**Alexander C. Jackson** lab) × The Jackson Laboratory for Genomic Medicine (**Paul Robson** lab, 단일세포 플랫폼). 공동 제1저자 L.E. Mickelsen·M. Bolisetty. 교신 paul.robson@jax.org / alexander.jackson@uconn.edu.
 - **데이터**: GEO **GSE125065**. 전용 분석 코드는 없고 CellView RShiny로 탐색.
-- **대상·방법**: P30 C57BL/6 수컷 3 + 암컷 2(동배). Bregma −1.34·−1.58·−1.82 mm의 225 μm 절편에서 LHA를 1.0 mm biopsy punch + iridectomy scissors로 양측 microdissection(fornix 포함, mammillothalamic tract 복측, cerebral peduncle 복내측). 저자 정의로 이 영역은 **caudal LHA + tuberal nucleus 일부**(Paxinos의 peduncular LH·medial tuberal·terete hypothalamic nucleus)이고 일부 표본에 **VZI·DMH 외측이 섞일 수 있다**고 명시한다. 검증은 RNAscope 2.5 FISH(수컷 P25–38, 30마리)와 FACS 정렬 단일세포 qPCR(TaqMan 30 유전자, Fluidigm Biomark 48.48).
+- **대상·방법**: P30 C57BL/6 수컷 3 + 암컷 2(동배). Bregma −1.34·−1.58·−1.82 mm의 225 μm 절편에서 LHA를 1.0 mm biopsy punch + iridectomy scissors로 양측 microdissection(fornix 포함, mammillothalamic tract ventral, cerebral peduncle ventromedial). 저자 정의로 이 영역은 **caudal LHA + tuberal nucleus 일부**(Paxinos의 peduncular LH·medial tuberal·terete hypothalamic nucleus)이고 일부 표본에 **VZI·DMH lateral가 섞일 수 있다**고 명시한다. 검증은 RNAscope 2.5 FISH(수컷 P25–38, 30마리)와 FACS 정렬 단일세포 qPCR(TaqMan 30 유전자, Fluidigm Biomark 48.48).
 
 ## 한 줄 요약
 마우스 LHA의 첫 종합 단일세포 전사체 census로, **비뉴런 + GABAergic 15 + glutamatergic 15 클러스터**를 정의하고 각 클러스터의 marker를 FISH·sc-qPCR로 검증했다. 알려진 집단(Hcrt·Pmch·Trh·Nts)의 **내부 하위분할**까지 보였고, 새로 찾은 **Sst⁺ 4집단**을 해부·전기생리·화학유전·투사추적으로 추적해 **perifornical LHA^Glut Sst → dorsal lateral septum(dLS)** 투사와 반복 운동(gnawing·digging·rearing) 표현형을 보고했다.
@@ -56,11 +56,11 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - **두 subcluster**: ① Cartpt·Tacr3·Nptx1·Lypd1·Parm1·Amigo2 ② Cartpt 음성 + Scg2·Nrxn3. 삼중 FISH로 Pmch⁺Cartpt⁺ 세포 중 **Tacr3 71.1%**(283/3)·**Nptx1 69.0%**(261/3)인데 **Nrxn3는 28.0%**(309/3)였다.
 - 이 이분법은 rat 신경해부(MCH의 약 절반이 CART 공발현, Tacr3는 CART⁺ MCH에 분포, 출생순서·투사 패턴 상이)와 정합한다.
 
-### Fig 5 — Trh 뉴런: Syt2형(전측) vs Cbln2형(후측)
+### Fig 5 — Trh 뉴런: Syt2형(anterior) vs Cbln2형(posterior)
 - LHA^Glut cluster 8(Trh+Cbln2)·12(Trh+Syt2), 합 n=131. 두 집단 모두 **Otp·Onecut2** 발현(공통 발생계보 시사). Onecut2는 Trh 두 집단에만, Otp는 다른 4개 LHA^Glut에도 나온다. Asic4·Sall3·Mdga1도 공통.
 - **FISH**: Trh⁺ 중 Slc17a6 **93.6%**(299/3), Otp **80.7%**(732/4), Onecut2 **67.9%**(274/3).
 - 구분 marker: cluster 8 = Cbln2·Gpr101, cluster 12 = **Syt2·Cplx1**(둘 다 시냅스 단백질 — 전달물질 방출 특성의 세포타입 특이성을 시사).
-- **삼중 FISH(1,177 세포/4 마우스)**: Syt2·Cbln2 중 하나 이상을 발현한 Trh⁺ 중 **둘 다 11.5%, Syt2만 33.4%, Cbln2만 55.1%**. **전후축 구배** — Trh/Syt2는 전측, Trh/Cbln2는 후측 우세(Supplementary Fig 7).
+- **삼중 FISH(1,177 세포/4 마우스)**: Syt2·Cbln2 중 하나 이상을 발현한 Trh⁺ 중 **둘 다 11.5%, Syt2만 33.4%, Cbln2만 55.1%**. **전후축 구배** — Trh/Syt2는 anterior, Trh/Cbln2는 posterior 우세(Supplementary Fig 7).
 
 ### Fig 6 — Nts/Cartpt GABA 뉴런과 Lepr의 실체
 - LHA^GABA cluster 3(Nts+Cartpt, n=75). marker Gal·Calcr·Rasgrp1·Acvr1c·Serpina3n·Crem·Gpr101·Jak1. Slc32a1·Gad1·Gad2 강발현, Slc17a6 미미 = 전형적 GABA 표현형.
@@ -68,7 +68,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - 이 예상 밖 결과를 scRNA-seq에서 재검: Nts 발현을 Gaussian mixture로 이분하자 Nts⁺ 세포의 **70.8%가 GABA·29.2%가 glutamate**였다. Nts는 단일 LHA^Glut 클러스터의 marker로는 뜨지 않지만 여러 Glut 클러스터에 **얇게 퍼져** 있다.
 - **FISH**: Nts⁺ 중 Gpr101 68.5%(553/3), Jak1 78.7%(361/3), **Cartpt는 18.1%**(408/3). scRNA-seq 재분석에서도 Nts⁺Cartpt⁺는 전체 Nts⁺의 **19.5%** 뿐 → **"Nts/Cartpt 공발현"은 Nts⁺ GABA의 한 부분집합의 서명**이다. 공발현 비율은 전후축에서 변하고 **mid-LHA에서 최대**다.
 - **cluster 3 내부도 둘로 갈린다**: subcluster 1 = **Crh**, subcluster 2 = **Tac1**(Gal은 구분력 없음). 삼중 FISH(1,016 세포/3 마우스): **둘 다 9.9%, Tac1만 50.4%, Crh만 39.7%** → 거의 상호배타. Gal은 Nts⁺Slc32a1⁺의 **59.0%**에, Nts⁺Slc32a1⁻에서는 **0%**(308/3)로 GABA 쪽에 선택적이다.
-- **Lepr·Mc4r(★ 사용자 lab 연결점)**: 기존 해부 연구는 LHA의 Nts·Gal 뉴런이 LepRb·MC4R을 상당히 공발현한다고 보고했다. 그러나 이 논문의 scRNA-seq에서는 **cluster 3을 포함해 LHA^GABA 전반에서 Lepr·Mc4r 발현이 낮거나 희박**했다(Supplementary Fig 9a). 저자들은 Lepr 풍부 영역을 다룬 선행 시상하부 scRNA-seq(Romanov 2017)에서도 같은 저검출이 있었다고 적고, **Lepr-Cre;EYFP FACS + sc-qPCR**(마우스 2마리)로 우회해 **Lepr 발현 LHA 뉴런의 대다수가 GABAergic(Slc32a1⁺·Gad1⁺·Gad2⁺)이고 Nts·Gal·Cartpt가 풍부**함을 보였다 = 선행 해부 결과의 광범위한 재확인.
+- **Lepr·Mc4r(★ 사용자 lab 연결점)**: 기존 해부 연구는 LHA의 Nts·Gal 뉴런이 LepRb·MC4R을 상당히 공발현한다고 보고했다. 그러나 이 논문의 scRNA-seq에서는 **cluster 3을 포함해 LHA^GABA 전반에서 Lepr·Mc4r 발현이 낮거나 희박**했다(Supplementary Fig 9a). 저자들은 Lepr 풍부 영역을 다룬 선행 hypothalamus scRNA-seq(Romanov 2017)에서도 같은 저검출이 있었다고 적고, **Lepr-Cre;EYFP FACS + sc-qPCR**(마우스 2마리)로 우회해 **Lepr 발현 LHA 뉴런의 대다수가 GABAergic(Slc32a1⁺·Gad1⁺·Gad2⁺)이고 Nts·Gal·Cartpt가 풍부**함을 보였다 = 선행 해부 결과의 광범위한 재확인.
 
 ### Fig 7 — Sst⁺ 뉴런 4집단과 perifornical/tuberal 지형
 - **4개 Sst⁺ 집단**: LHA^Glut cluster 15(Sst; n=40) + LHA^GABA cluster 6(Sst+Col25a1; n=27), 10(Sst+Meis2; n=60), 13(Sst+Otp; n=70).
@@ -76,7 +76,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
   - GABA 6: Col25a1·Otp·Cbln4 / GABA 10: Meis2·Cbln2·Dlk1·Tac1·Calb2·Gda / GABA 13: Otp·Dlk1·Calb1·Ptk2b·Pthlh·Nrgn·Rprml·Icam5.
 - Sst⁺ 전체(n=197) 재군집화의 1차 분기는 **전달물질 표현형**이고, Slc32a1⁺(n=157)은 다시 3개로 갈려 1차 군집화를 재현했다.
 - **sc-qPCR**(Sst-Cre;EYFP, 87 세포/3 마우스): Slc32a1 **73.6%**, Slc17a6 **32.6%**(거의 상호배타), Meis2 **51.7%**(GABA 쪽에 치우치고 Slc17a6⁺에서는 사실상 없음). Npy·Npw는 Sst⁺Slc17a6⁺에서 거의 검출되지 않았다(→ cluster 15 서명의 FISH·qPCR 재현성 한계).
-- **FISH 지형(★)**: **perifornical LHA** Sst⁺ = Slc32a1⁺ **56.1%** / Slc17a6⁺ **43.6%** / 둘 다 0.3%(952 세포/5 마우스), 후측으로 가면 Slc17a6⁺가 **최대 71.1%**. **tuberal 영역** Sst⁺ = Slc32a1⁺ **97.3%** / Slc17a6⁺ **1.6%** / 둘 다 1.1%(1,116 세포/5 마우스).
+- **FISH 지형(★)**: **perifornical LHA** Sst⁺ = Slc32a1⁺ **56.1%** / Slc17a6⁺ **43.6%** / 둘 다 0.3%(952 세포/5 마우스), posterior로 가면 Slc17a6⁺가 **최대 71.1%**. **tuberal 영역** Sst⁺ = Slc32a1⁺ **97.3%** / Slc17a6⁺ **1.6%** / 둘 다 1.1%(1,116 세포/5 마우스).
 - Meis2(GABA cluster 10 marker)는 perifornical Sst⁺Slc32a1⁺의 **50.4%** 에 있고 tuberal에서는 검출되지 않았다 → tuberal에는 cluster 6·13만 있다는 추론. 반면 Sst⁺Slc17a6⁺의 Nkx2-1 **7.8%**·Npy **5.8%**·Calcr **12.6%** 로 낮아 "marker가 나쁘거나 FISH 검출한계 이하"라고 저자들이 직접 한정한다.
 - **전기생리**(Sst-Cre;EYFP; perifornical 40 세포 vs tuberal 19 세포, 각 수컷 4·암컷 4 — Methods 첫 문장·Reporting Summary는 동물 수를 수컷 4·암컷 6으로 적는다): perifornical 뉴런이 **AP half-width가 짧고 decay가 빠르고 AHP가 깊으며**, repolarization latency가 낮고 최대 발화율이 높다(unpaired two-sample Wilcoxon). 전사체 비율 차이와 정합하는 내재적 성질 차이다.
 
@@ -95,7 +95,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - 전사인자: **Meis2**(LHA^Glut 1개 + LHA^GABA 3개, entopeduncular nucleus의 Sst/Slc17a6 집단 marker와 공유), **Lhx6**(LHA·DMH·ventral ZI; ZI에서는 수면촉진 GABA)가 세포타입 축으로 반복 등장한다.
 - LHA^GABA 쪽에서는 **Gal·Nts 집단**(LepRb·MC4R 공발현 보고, 섭식·에너지 균형·보상·스트레스 관련)의 분자 해상도를 올렸고, LHA^Glut 쪽에서는 **Trh 2집단**(ARC AgRP·POMC 입력을 받음)이 섭식 관련 후보로 지목된다.
 - Sst⁺ 화학유전 표현형은 LHA^GABA 활성화 문헌의 각성·섭취·탐색 표현형 + **고전 LHA 자극 실험의 비식용 물체 물어뜯기**, CeA 자극의 유사 gnawing(Han 2017), tuberal Sst GABA 활성화의 섭식 유도(Luo 2018 Science)와 나란히 놓인다.
-- **한계(원문 명시 + 설계상)**: ① P30 juvenile 단일 시점, ② microdissection에 VZI·DMH 외측이 섞일 수 있음, ③ 2019년형 droplet scRNA-seq의 저검출(Lepr·Mc4r), ④ scRNA-seq는 양성·sc-qPCR/FISH/행동은 대부분 수컷, ⑤ 행동·추적의 n이 작다(hM3Dq 4 vs 6; 투사 2–5마리), ⑥ Sst⁺ 조작은 **4개 하위집단을 한꺼번에** 켠 것이어서 어느 집단이 어느 행동을 내는지 미분해, ⑦ 표본 크기를 사전 산정하지 않고 정규성도 검정하지 않았다(모두 Wilcoxon rank-sum).
+- **한계(원문 명시 + 설계상)**: ① P30 juvenile 단일 시점, ② microdissection에 VZI·DMH lateral가 섞일 수 있음, ③ 2019년형 droplet scRNA-seq의 저검출(Lepr·Mc4r), ④ scRNA-seq는 양성·sc-qPCR/FISH/행동은 대부분 수컷, ⑤ 행동·추적의 n이 작다(hM3Dq 4 vs 6; 투사 2–5마리), ⑥ Sst⁺ 조작은 **4개 하위집단을 한꺼번에** 켠 것이어서 어느 집단이 어느 행동을 내는지 미분해, ⑦ 표본 크기를 사전 산정하지 않고 정규성도 검정하지 않았다(모두 Wilcoxon rank-sum).
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **"LH^LepR 92% GABA"의 근거 등급을 낮춰 인용해야 한다**: 이 논문에서 Lepr의 GABA 편중은 **Lepr-Cre;EYFP 정렬세포 qPCR(마우스 2마리)** 에서 나오고, 같은 논문의 scRNA-seq는 LHA^GABA에서 Lepr을 거의 못 잡았다. 따라서 "전사체가 92% GABA"가 아니라 "**Lepr-Cre 계통으로 표지된 LHA 뉴런의 대다수가 GABA 표현형**"이 정확한 진술이다. [[rossi-2021-transcriptional-and-functional-divergence|Rossi 2021]]의 LHA^Vglut2 투사뉴런 내 Lepr⁺ subset과도 그래서 양립 가능하다(검출감도 문제 + Cre 계통 범위 문제).
@@ -103,7 +103,7 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - **NMPU 축 매핑 가설**: [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]의 Motivation 노드를 분자 클러스터로 내리면, Need 의존 gate 후보는 Lepr·Calcr·Prlr 같은 **호르몬 수용체 보유 클러스터**(GABA 3·1, Glut 15)이고, 운동 출력 쪽은 Sst/dLS 축이다. [[kim-2024-normative-framework-dissociates-need|Kim 2024]]의 need/motivation 분리를 **수용체 발현 프로파일로 사전 예측**하는 설계가 가능하다.
 - **gnawing = "consummatory 운동 프로그램"의 분자 핸들**: [[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]]가 NHP에서 **없다**고 보고한 aberrant gnawing이, 설치류에서는 **LHA Sst⁺ 4집단 혼합 활성화**로 재현된다. 종간 차이를 "자기통제"로만 설명하기 전에, **tuberal/perifornical Sst 비율과 Meis2 아형의 종간 차이**를 먼저 확인할 필요가 있다는 가설이 선다. [[liu-2023-an-iterative-neural-processing|Liu 2023]]의 "비식용 물체 탐침 충동"과도 같은 현상의 다른 해석이다.
 - **LH→dLS 상행 축의 세포타입 해상도**: [[concept-lateral-septum|LS]] 페이지는 LHA→LS 상행을 "LHAsf → LS^Crhr2"로, 하행을 DLS^Pdyn→LHA^Vgat·LS^Nts→LH로 적는다. 이 논문은 그 상행 섬유의 **분자 정체가 perifornical LHA^Glut Sst**일 가능성을 준다(CTb⁺Sst⁺의 75.3%가 Slc17a6⁺). dLS→LHA(식이 추구)와 LHA^Sst→dLS가 **되먹임 고리**인지가 미검증 질문이다.
-- **Trh 전후축 구배와 LH 하위구역**: Trh/Syt2(전측) vs Trh/Cbln2(후측)는 [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]]의 am/al vs pm/pl 격자와 **같은 축으로 정렬**된다. 사용자 lab이 쓰는 좌표 구획을 분자 marker로 "주소 확인"하는 데 쓸 수 있는 몇 안 되는 쌍이다.
+- **Trh 전후축 구배와 LH 하위구역**: Trh/Syt2(anterior) vs Trh/Cbln2(posterior)는 [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]]의 am/al vs pm/pl 격자와 **같은 축으로 정렬**된다. 사용자 lab이 쓰는 좌표 구획을 분자 marker로 "주소 확인"하는 데 쓸 수 있는 몇 안 되는 쌍이다.
 - **Prlr·Prokr1 보유 Sst^Glut**: prolactin receptor를 가진 LHA 흥분성 집단은 모체 섭식·수유기 과식 연구([[concept-lateral-hypothalamus|LH]] 모체 비만 항목)의 후보 노드다. 원문은 발현만 보고했고 기능은 보지 않았다.
 
 ## ⚠️ 위키 내 충돌·긴장
@@ -123,12 +123,12 @@ journal: "Nature Neuroscience 22(4):642–656 (2019-04); doi:10.1038/s41593-019-
 - [[rossi-2019-obesity-remodels-activity-and]] — 같은 시기 독립 LHA scRNA-seq(Stuber lab; 본 논문을 note added in proof로 인용). 대조군 2,087 cells가 같은 통합에 들어갔다.
 - [[rossi-2021-transcriptional-and-functional-divergence]] — LHA^Vglut2 투사 아형. ⚠️ Lepr mRNA가 glutamatergic 투사뉴런 일부에 있다는 결과로 본 논문의 "Lepr=GABA 대다수" 서술을 보완·긴장.
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 인과 데이터(Aponte lab). 본 논문이 남긴 "Lepr 클러스터의 분자 정체" 공백 쪽.
-- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LepR 시상하부 뉴런 39아형(snRNA+snATAC). 본 논문이 scRNA-seq로 못 잡은 Lepr을 LepR 표지 기반으로 해결한 후속 계열.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — LepR hypothalamus 뉴런 39아형(snRNA+snATAC). 본 논문이 scRNA-seq로 못 잡은 Lepr을 LepR 표지 기반으로 해결한 후속 계열.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat 기능 ensemble(salience vs value-scaled consumption). 그 논문이 미해결로 남긴 **분자 정체(Lepr·Nts·Crh·Gal)** 의 참조 census가 본 논문이다.
 - [[concept-neurotensin]] — LH^Nts 분해. ⚠️ 70.8% GABA / 29.2% Glut, Cartpt 공발현 18–19%, Crh형 vs Tac1형 상호배타.
 - [[concept-orexin-neurons]] — Hcrt marker(Rfx4·Nptx2·Pcsk1·Slc2a13)와 ⚠️ "전사체로는 하위집단이 안 보인다"는 음성 결과.
 - [[concept-lateral-septum]] — perifornical LHA^Glut Sst → dLS 투사(CTb⁺Sst⁺의 75.3% Slc17a6⁺). LS↔LHA 상호 회로의 상행 섬유 분자 정체 후보.
-- [[concept-hypomap]] — 시상하부 단일세포 atlas 계보. 본 논문(GSE125065)은 HypoMap 통합에 들어간 LHA 단독 census 중 하나.
+- [[concept-hypomap]] — hypothalamus 단일세포 atlas 계보. 본 논문(GSE125065)은 HypoMap 통합에 들어간 LHA 단독 census 중 하나.
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — ⚠️ NHP에서 aberrant gnawing 부재. 본 논문은 설치류 gnawing을 LHA Sst⁺ 활성화로 재현(P=0.011)해 종간 차이 해석에 세포타입 변수를 추가한다.
 - [[liu-2023-an-iterative-neural-processing]] — LH^GABA 활성 시 비식용 물체 물어뜯기("탐침 충동"). 본 논문의 Sst⁺ gnawing과 같은 현상군.
 - [[leow-2026-a-cortical-hypothalamic-neural]] — TN^SST(tuberal nucleus Sst). ⚠️ 본 논문 기준 tuberal Sst는 97.3%가 GABA로 perifornical(56%)과 다르다 — 직접 비교 금지.

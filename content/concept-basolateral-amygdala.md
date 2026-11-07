@@ -1,5 +1,5 @@
 ---
-title: Basolateral amygdala (BLA, 기저외측편도체)
+title: "Basolateral amygdala (BLA)"
 type: concept
 created: 2026-05-01
 updated: 2026-10-25
@@ -13,10 +13,10 @@ updated: 2026-10-25
 > 4. **VTA-DA-CCK+ subset**이 source — [[concept-cck|CCK]]가 분자 marker.
 > 사용자 연구 활용: [[lee-2025-hijacked-brain-modern-obesity-cue|Hijacked Brain]]의 cue/habit/addiction (NAc) vs nutrient 가치 (BLA) 분리, [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]의 Utility 회로 candidate, GLP-1 agonist의 행동 변화 표적.
 
-# Basolateral amygdala (BLA, 기저외측편도체)
+# Basolateral amygdala (BLA)
 
 ## 정의·해부
-- 편도체 (amygdala) 의 한 핵 — pyramidal neuron이 우세한 cortex-like 구조.
+- amygdala 의 한 핵 — pyramidal neuron이 우세한 cortex-like 구조.
 - Mouse에서 **rostro-caudal 2.5 mm** 연장.
 - 두 subdivision: anterior (aBLA) vs posterior (pBLA) — cytoarchitecture·연결성 다름 (Krettek 1978, Hintiryan 2021).
 
@@ -26,14 +26,14 @@ updated: 2026-10-25
 
 ### 입력
 - **VTA-DA**: 특히 **CCK+ subset이 anterior BLA로 투사** (Poulin 2018, Grove 2025).
-- 시상 (thalamus): emotion-relevant.
+- thalamus: emotion-relevant.
 - Cortex: prefrontal, insular.
 - LH (Lutas 2019): salient cue gating.
 
 ### 출력
 - NAc, prefrontal cortex.
 - Hypothalamus, hippocampus.
-- **배측 선조체 — 두 집단 분업** ([[hobel-2026-a-basolateral-amygdala-to-dorsolateral|Hobel 2026]]): DMS 투사 = 배내측·BLAm/BLAc(연합·변연 피질로 측부지), **DLS 투사 = 문측·복외측 BLAl**(운동피질로 측부지); 이중 표지 <2%. DLS 입력은 드물고 원위 수상돌기 표적 → 행동 '구동'이 아닌 S-R '조절'.
+- **dorsal striatum — 두 집단 분업** ([[hobel-2026-a-basolateral-amygdala-to-dorsolateral|Hobel 2026]]): DMS 투사 = dorsomedial·BLAm/BLAc(연합·변연 cortex로 측부지), **DLS 투사 = rostral·ventrolateral BLAl**(motor cortex로 측부지); 이중 표지 <2%. DLS 입력은 드물고 원위 수상돌기 표적 → 행동 '구동'이 아닌 S-R '조절'.
 - 본 wiki 맥락에선 nutrient 가치 → 이후 행동 선택 회로로 전달.
 
 ## Anterior vs Posterior BLA 분리 ([[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]])
@@ -120,7 +120,7 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 임상 type 분리.
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU framework.
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — GLP-1 평행 회로.
-- [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 환자에서 좌 편도 활성 ↔ 음식 주의지향 상관(사용자 lab 인간 fMRI).
+- [[lee-2023-obesity-mechanism-after-hypothalamic]] — hypothalamus 손상 환자에서 좌 amygdala 활성 ↔ 음식 주의지향 상관(사용자 lab 인간 fMRI).
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — BLA→DMS=action-outcome/agency 경로; 만성 스트레스가 이를 약화시켜 habit으로 전환 (Nature 2025).
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework.
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 인접 **central amygdala(CeA)** Glp1r→VTA→NAc 회로 (BLA와 별개 nucleus, 대비; Nature 2026).
@@ -128,21 +128,21 @@ aBLA-D1R 침묵 → flavor-nutrient learning 차단, but Ensure 섭취·CTA 정�
 - [[duran-2026-the-central-amygdala-integrates]] — 인접 **central amygdala(CeA)** 세포종류별 GLP-1RA hypophagia 분업(BLA와 별개 nucleus; bioRxiv 2026).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 지연 post-ingestive DA 회로의 핵심 노드로 BLA 동정 (Cell Metab 2019).
 - [[concept-central-amygdala-glp1r]] — 인접 **central amygdala(CeA)**의 GLP-1R hedonic 노드 개념 hub(BLA와 별개 nucleus).
-- [[concept-insula]] — BLA가 입력을 보내는 인간 섬-덮개 음식 cue 부호화 피질 (Halpern 2021).
-- [[huang-2021-the-insulo-opercular-cortex-encodes]] — 섬엽 입력원으로 BLA 인용 (Nat Commun 2021).
+- [[concept-insula]] — BLA가 입력을 보내는 인간 섬-덮개 음식 cue 부호화 cortex (Halpern 2021).
+- [[huang-2021-the-insulo-opercular-cortex-encodes]] — insula 입력원으로 BLA 인용 (Nat Commun 2021).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — dopamine→BLA의 identity-specific reward(Sias 2024, Wassum lab)와 대비되는 **LH**의 outcome-specific 역할; BLA가 LH에 동기적으로 유의한 감각-특이 정보 제공(저자 가설) (Neuron 2026, Sharpe lab).
 - [[chen-2026-striatal-control-of-amygdalar]] — BLA **아세틸콜린(ACh)** 이 현저성(salience)을 표상; NAc D1/D2→SI 콜린성이 양방향 통제 (Nat Neurosci 2026).
 - [[concept-basal-forebrain-cholinergic]] — BLA ACh를 공급하는 SI 콜린성 시스템 개념 hub(도파민과 별도 modulator).
-- [[wang-2018-coding-of-valence-and-identity]] — 단맛피질→전방 BLA(BLAa) 유인 표적.
-- [[concept-cortical-amygdala]] — 구분되는 후각 전용 편도(plCoA).
-- [[concept-taste-valence-coding]] — 미각 valence의 편도 분업 hub.
-- [[ghashghaei-2002-pathways-for-emotion-interactions]] — BL/BLmc가 OFC·전측두 입력의 주 표적(rhesus 배선도).
+- [[wang-2018-coding-of-valence-and-identity]] — 단맛cortex→전방 BLA(BLAa) 유인 표적.
+- [[concept-cortical-amygdala]] — 구분되는 후각 전용 amygdala(plCoA).
+- [[concept-taste-valence-coding]] — 미각 valence의 amygdala 분업 hub.
+- [[ghashghaei-2002-pathways-for-emotion-interactions]] — BL/BLmc가 OFC·anterior temporal 입력의 주 표적(rhesus 배선도).
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — BLA 글루타메이트가 상태의존 reward value 부호화·인출을 매개; OFC→BLA 이중해리(Nat Neurosci 2019, Wassum lab).
 - [[person-wassum-kate]] — BLA reward valuation 연구 프로그램 hub.
-- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **BLA→외측중격 LS^Glp1r·LS^Foxp2 아형에 선택적 입력**(rabies+STPT). 한편 BLA는 CS 제시 중 LS가 수행하는 cue-outcome 계산을 하지 않아, 위협 평가 위계에서 LS와 역할이 갈린다 (Nature 2026).
-- [[concept-lateral-septum]] — BLA 입력을 아형 선택적으로 받는 변연계 평가 노드.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **BLA→lateral septum LS^Glp1r·LS^Foxp2 아형에 선택적 입력**(rabies+STPT). 한편 BLA는 CS 제시 중 LS가 수행하는 cue-outcome 계산을 하지 않아, 위협 평가 위계에서 LS와 역할이 갈린다 (Nature 2026).
+- [[concept-lateral-septum]] — BLA 입력을 아형 선택적으로 받는 limbic system 평가 노드.
 - [[luscher-2021-consolidating-the-circuit-model-for]] — BLA→NAc가 보상·혐오를 모두 전달하되 **혐오는 CCK⁺ BLA 뉴런이 D2R-MSN으로** 전달(Shen 2019); Ppp1r1b⁺=보상 / Rspo2⁺=혐오(Kim 2016). BLA→D2R-MSN 강화가 **incubation of craving**의 기질 (Annu Rev Neurosci 2021).
 - [[hoang-2021-the-basolateral-amygdala-and]] — BLA vs LH 학습 편향 리뷰(Curr Opin Behav Sci 2021, Sharpe lab). BLA = 감각 특이 결과 표상(specific PIT 담당, general PIT는 BLA 손상 후에도 보존)·cue-onset phasic/unsigned salience. 원위 cue는 **이미 동기적으로 유의할 때만** 학습한다(SOC·위험 맥락 ○, sensory preconditioning ×). BLA→LH 흥분성 투사로 정보를 넘기고, VTA로는 직접 투사하지 않는다(Watabe-Uchida 2012). ⚠️ (1) 그 리뷰는 Reppucci & Petrovich 2016을 들어 **LH→BLA 상호 투사가 없다**고 쓴다. 본 페이지 입력 목록의 'LH (Lutas 2019)' 항목은 출처 확인이 필요하다. (2) 'BLA 억제는 보상 학습을 없애지 않는다'·phasic 신호 서술은 Grove 2025의 aBLA-D1R 분 단위 ramp·flavor–nutrient 학습 차단과 과제가 달라 병기한다.
-- [[sharpe-2021-past-experience-shapes-the]] — rat LH^GABA가 **cue–보상 수반성 경험 후에만** 공포 학습에 필요해진다(Nat Neurosci 2021). 저자들은 공포 **가소성의 자리는 편도체 회로**(Fanselow & LeDoux 1999, Maren 1999)에 두고 LH는 **학습 중재자(arbitrator)**로 남겨 둔다 — BLA와 LH의 분업은 원문이 미해결로 명시한다. ⚠️ 같은 lab 리뷰 [[hoang-2021-the-basolateral-amygdala-and|Hoang & Sharpe 2021]]의 "BLA는 원위 cue를 이미 유의할 때만(SOC) 학습" 도식과 달리, 원전은 **SOC에서도 LH 억제가 학습을 촉진**했다(병기).
-- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **BLA→DLS(배외측 선조체) 직접 투사**: DMS 투사(BLAm·BLAc)와 다른 **BLAl** 집단에서 기원, SPN 원위 수상돌기 표적; 감각유발 행동과 짝지을 때 S-R 반응을 가소적으로 증폭, OCD 모델 Sapap3에서 강화 (Neuron 2026).
-- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — BLA의 AHN 투사 뉴런(BLA^AHN)이 충격·소리 강도에 비례 반응하고, 편도체(주로 BLA, BMA·MEA·CEA로 번짐)→AHN 말단 억제가 과거 스트레스로 민감화된 freezing을 줄임. 음성 자극만 시험해 valence/salience는 미판별 (Nature 2026).
+- [[sharpe-2021-past-experience-shapes-the]] — rat LH^GABA가 **cue–보상 수반성 경험 후에만** 공포 학습에 필요해진다(Nat Neurosci 2021). 저자들은 공포 **가소성의 자리는 amygdala 회로**(Fanselow & LeDoux 1999, Maren 1999)에 두고 LH는 **학습 중재자(arbitrator)**로 남겨 둔다 — BLA와 LH의 분업은 원문이 미해결로 명시한다. ⚠️ 같은 lab 리뷰 [[hoang-2021-the-basolateral-amygdala-and|Hoang & Sharpe 2021]]의 "BLA는 원위 cue를 이미 유의할 때만(SOC) 학습" 도식과 달리, 원전은 **SOC에서도 LH 억제가 학습을 촉진**했다(병기).
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **BLA→DLS(dorsolateral striatum) 직접 투사**: DMS 투사(BLAm·BLAc)와 다른 **BLAl** 집단에서 기원, SPN 원위 수상돌기 표적; 감각유발 행동과 짝지을 때 S-R 반응을 가소적으로 증폭, OCD 모델 Sapap3에서 강화 (Neuron 2026).
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — BLA의 AHN 투사 뉴런(BLA^AHN)이 충격·소리 강도에 비례 반응하고, amygdala(주로 BLA, BMA·MEA·CEA로 번짐)→AHN 말단 억제가 과거 스트레스로 민감화된 freezing을 줄임. 음성 자극만 시험해 valence/salience는 미판별 (Nature 2026).

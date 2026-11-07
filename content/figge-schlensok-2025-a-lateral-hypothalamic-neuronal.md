@@ -56,8 +56,8 @@ LH의 leptin 수용체 발현 뉴런(LH^LepR)은 불안을 일으키는 자극�
 - **맥락 특이성(핵심 대조)**: 익숙하고 어두운 free feeding enclosure에서는 food-excited LepR 비율이 낮고(n=166 neurons/5 mice, NS), **광유전 활성화가 섭식 개시 지연을 전혀 바꾸지 못한다**(ctl 8, ChR2 11, NS). → **"LepR 활성화 = 섭식 촉진"이 아니라 "anxiogenic 맥락에서만 섭식 가능"**이다.
 
 ### Fig 4 — LepR⁺ 하위집단의 분자 정체: Gal/Ebf1 vs Tac1/Htr2c/Opcml
-- 공개 scRNA-seq **GSE188646**(Hajdarovic 2022 Nat Aging, 암컷 시상하부) 재분석. 최종 6개 클러스터(세포수 0: 2,290 / 1: 1,174 / 2: 347 / 3: 314 / 4: 231 / 5: 169).
-- **Lepr⁻ 클러스터**: 0 = **Mch**(+ orexin/hypocretin 포함) 최대 집단, 1 = **Npy/Sst**, 2 = **VIP/Nrg1**(ErbB4 리간드, 편도 불안 조절), 5 = **Pde4b**(PTSD·불안 위험 유전자). → LH에는 Lepr 없는 불안 관련 분자 프로필도 흩어져 있다.
+- 공개 scRNA-seq **GSE188646**(Hajdarovic 2022 Nat Aging, 암컷 hypothalamus) 재분석. 최종 6개 클러스터(세포수 0: 2,290 / 1: 1,174 / 2: 347 / 3: 314 / 4: 231 / 5: 169).
+- **Lepr⁻ 클러스터**: 0 = **Mch**(+ orexin/hypocretin 포함) 최대 집단, 1 = **Npy/Sst**, 2 = **VIP/Nrg1**(ErbB4 리간드, amygdala 불안 조절), 5 = **Pde4b**(PTSD·불안 위험 유전자). → LH에는 Lepr 없는 불안 관련 분자 프로필도 흩어져 있다.
 - **Lepr⁺ 클러스터 3** = **Gal⁺**(GABAergic, LH 뉴런의 12–15%) 계열이며 **Ebf1** 고발현. **Lepr⁺ 클러스터 4** = **Tac1⁺/Htr2c⁺**(Tac1 집단은 LH의 약 30%, 금식 민감) 이며 **Opcml** 고발현.
 - **Ebf1은 anorexia nervosa·불안장애 위험 유전자**(Himmerich 2019, Li 2017)이고, **Opcml은 anorexia nervosa 위험 유전자**(Himmerich 2019, Huckins 2018)다 — 원문은 Opcml을 불안장애 위험 유전자로는 기술하지 않는다. Ebf1 결손 마우스는 **leptin 수치가 낮다**(Fretz 2010).
 - **조직 검증**: LepR⁺ 세포 n=1,560 중 Ebf1 공발현, Ebf1⁺ 세포 n=2,428 중 LepR 공발현을 정량(12 hemispheres / 6 mice). **LepR⁺Ebf1⁺ 공발현이 클수록 불안이 낮다** — 면역염색 기준 경향(P=0.082, n=6), multilabel ISH(RNAscope Lepr×Ebf1) 기준 **유의**(P=0.029, n=6).
@@ -79,7 +79,7 @@ LH의 leptin 수용체 발현 뉴런(LH^LepR)은 불안을 일으키는 자극�
 - → **에너지 보존이라는 적응적 반응**을 회복시킨다는 해석.
 
 ### Discussion에서 저자들이 스스로 단 한계·유보
-- ABA에서는 **leptin 수치가 오히려 낮다**(Pardo 2010). 그럼에도 LepR 반응·항불안 효과가 남는 이유로 ① **저렙틴 상태의 감수성 증가**(Perakakis 2024), ② **leptin과 무관한 입력**(BNST — Giardino 2018, 복측해마 — Jimenez 2018, PFC)을 제시한다. 즉 **본 논문의 조작은 "leptin 작용"이 아니라 "LepR 발현 세포 활동"**이다(단, LepR-flox 제거 실험만은 수용체 자체의 필요성을 보인다).
+- ABA에서는 **leptin 수치가 오히려 낮다**(Pardo 2010). 그럼에도 LepR 반응·항불안 효과가 남는 이유로 ① **저렙틴 상태의 감수성 증가**(Perakakis 2024), ② **leptin과 무관한 입력**(BNST — Giardino 2018, ventralhippocampus — Jimenez 2018, PFC)을 제시한다. 즉 **본 논문의 조작은 "leptin 작용"이 아니라 "LepR 발현 세포 활동"**이다(단, LepR-flox 제거 실험만은 수용체 자체의 필요성을 보인다).
 - PFC→LepR 억제는 **다시냅스로 추정**(기전 미규명).
 - **LepR vs Gal vs Crh vs Nts 비교**: 일반 Gal^LH 활성화는 포만 동물의 자발 운동을 **늘리는데**(Qualls-Creekmore 2017) LepR 활성화에서는 그런 효과가 없었고, Crh^LH 활성화는 비-anxiogenic 조건에서 섭식을 늘리지만(Li 2023) LepR는 그렇지 않았다. → "항불안 역할은 **LepR 집단(그중 anxiety-responsive Gal⁺ 부분집합 포함 가능)에 특이**, Nts·Crh 집단의 성질이 아니다."
 - **운동 효과의 상태 의존성을 명시**: LepR 활성화는 EPM·OF에서 운동량을 바꾸지 않고(본 연구·Schiffino 2019), 새 홈케이지의 포만 동물에서는 **늘리며**(de Vrind 2019), 먹이를 찾는 공복 동물에서도 **늘리고**(Lee 2023), ABA 제한기에서는 **줄인다**(본 연구).
@@ -102,7 +102,7 @@ LH의 leptin 수용체 발현 뉴런(LH^LepR)은 불안을 일으키는 자극�
 - **[[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]](SNU 김성연 lab) "LH^Vgat salience ensemble = valence 무관"** — 본 논문의 LH^LepR도 혐오적 맥락(open arm·밝은 중앙)과 음식에 **함께** 반응하므로 방향이 수렴한다. ⚠️ 다만 본 논문은 **저불안 개체에서는 두 anxiogenic 자극을 변별**한다고 보고한다(중첩 46%). 즉 "valence 무관 비변별 salience"는 **고불안 개체의 특징**일 수 있다 — 두 논문은 세포 정의(LepR vs 전체 Vgat)·과제(자유행동 vs head-fixed)가 달라 직접 비교는 안 된다(병기).
 - **[[bonnavion-2016-hubs-and-spokes-of|Bonnavion 2016]] "LH^LepR = leptin이 켜는 포만·Hcrt 억제 노드"** — 본 논문은 같은 세포를 **항불안·적응행동 허가 노드**로 그린다. 두 서술은 배타적이지 않다(그 리뷰도 LHA^LepR를 불안장애×섭식장애 교차점으로 지목했고, ob/ob에서 섭식을 바꾸지 않고 corticosterone만 정상화한 Bonnavion 2015 결과와 본 논문의 "섭취량보다 개시 지연이 바뀐다"는 결과는 같은 방향이다). 단 **"leptin이 켠다"는 서술은 본 논문에서 검증되지 않았다** — ABA는 오히려 **저렙틴** 상태인데 효과가 유지된다(병기).
 - **[[wang-2026-a-hypothalamic-circuit-links|Wang 2026]] "ArcAgRP→PVNCRH→LHA^Glu가 불안과 과식을 커플링"** — 그쪽은 **불안과 과식이 함께 간다**(HFD 조건), 본 논문은 **불안이 섭식을 막고 LH^LepR가 그것을 푼다**. 세포타입이 다르고(LHA glutamatergic vs LH^LepR GABAergic) 식이 조건도 다르지만(만성 HFD vs ABA·NSFT), **LH 안에서 불안-섭식 커플링의 부호가 세포타입별로 갈린다**는 그림으로 병기할 수 있다.
-- **[[concept-emotional-eating]]의 "스트레스 → 보상계 편향 → 과식" 프레임** — 본 논문은 같은 시상하부에서 **불안 → 섭식 억제**라는 반대 방향 축을 보여 준다. 임상 현상(정서적 과식 vs 불안성 회피·제한)이 두 축의 상대 우세로 갈릴 수 있다는 가설로 병기.
+- **[[concept-emotional-eating]]의 "스트레스 → 보상계 편향 → 과식" 프레임** — 본 논문은 같은 hypothalamus에서 **불안 → 섭식 억제**라는 반대 방향 축을 보여 준다. 임상 현상(정서적 과식 vs 불안성 회피·제한)이 두 축의 상대 우세로 갈릴 수 있다는 가설로 병기.
 
 ## 관련 페이지
 - [[concept-lateral-hypothalamus]] — 개념 hub. "Figge-Schlensok 2025" 2차 서술의 1차 수치 출처.

@@ -7,7 +7,7 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **[[concept-need-motivation-pleasure-utility|NMPU framework]]의 Pleasure(=liking)·Motivation(=wanting) 축에 직접 대응하는 이론 backbone.** 보상은 단일하지 않고 **‘좋아함’(쾌락적 충격, 오피오이드/[[concept-hedonic-hotspot|쾌락 핫스폿]])**과 **‘갈망’(유인 현저성, 중변연계 [[concept-dopamine-reward-system|도파민]])**으로 분리된다. **도파민은 ‘좋아함’에 불필요** — 이 해리가 ‘즐겁지도 않은데 강박적으로 원하는’ [[concept-food-addiction|중독·과식]]([[concept-incentive-sensitization|유인-감작]])의 핵심. 비만 치료를 ‘무엇이 과활성인가(원함 vs 즐거움)’로 진단하는 출발점.
+> **[[concept-need-motivation-pleasure-utility|NMPU framework]]의 Pleasure(=liking)·Motivation(=wanting) 축에 직접 대응하는 이론 backbone.** 보상은 단일하지 않고 **‘좋아함’(쾌락적 충격, 오피오이드/[[concept-hedonic-hotspot|쾌락 핫스폿]])**과 **‘갈망’(유인 현저성, 중limbic system [[concept-dopamine-reward-system|도파민]])**으로 분리된다. **도파민은 ‘좋아함’에 불필요** — 이 해리가 ‘즐겁지도 않은데 강박적으로 원하는’ [[concept-food-addiction|중독·과식]]([[concept-incentive-sensitization|유인-감작]])의 핵심. 비만 치료를 ‘무엇이 과활성인가(원함 vs 즐거움)’로 진단하는 출발점.
 
 # ‘좋아함(liking)’과 ‘갈망(wanting)’
 
@@ -17,8 +17,8 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 | 성분 | 정의 | 핵심 신경화학 | 측정 |
 |---|---|---|---|
 | **‘좋아함’ (liking)** | 쾌락적 충격(hedonic impact), 실제 즐거움의 정서 반응 | **오피오이드·엔도카나비노이드·오렉신·GABA** ([[concept-hedonic-hotspot|핫스폿]]) | 미각 반응 검사(taste reactivity) |
-| **‘갈망’ (wanting)** | 유인 현저성(incentive salience), 접근·획득·소비 동기 | **중변연계 [[concept-dopamine-reward-system|도파민]]** | 추구·섭취량, 노력, 갈구 평정 |
-| **학습 (learning)** | 파블로프·도구적 연합, 예측 표상 | 피질-선조체, 도파민 RPE | 조건반응, sign-/goal-tracking |
+| **‘갈망’ (wanting)** | 유인 현저성(incentive salience), 접근·획득·소비 동기 | **중limbic system [[concept-dopamine-reward-system|도파민]]** | 추구·섭취량, 노력, 갈구 평정 |
+| **학습 (learning)** | 파블로프·도구적 연합, 예측 표상 | cortex-striatum, 도파민 RPE | 조건반응, sign-/goal-tracking |
 
 따옴표를 붙인 ‘좋아함’·‘갈망’은 **객관적으로 측정 가능한 핵심 과정(core process)**으로, 의식적으로 느끼는 주관적 ‘좋다’·‘원한다’와 구별된다 ([[nguyen-2021-positive-affect-nature-and-brain|Nguyen et al. 2021]]). 핵심 과정은 의식 자각 없이도 행동에 영향을 줄 수 있다.
 
@@ -28,22 +28,22 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - 단순 반사가 아닌 쾌락적 ‘충격’: 배고픔↑/포만↓(alliesthesia), 나트륨 결핍 시 진한 소금 ‘disgust’→‘liking’ 전환, CTA로 역전 ([[morales-2020-liking-and-wanting-in-eating|Morales & Berridge 2020]]).
 
 ## 결정적 해리 — 도파민은 ‘좋아함’에 필요하지 않다
-- **6-OHDA로 선조체 도파민 98–99% 고갈** → ‘갈망’·섭식 추구 소실, **단맛 ‘좋아함’ 반응은 보존**.
+- **6-OHDA로 striatum 도파민 98–99% 고갈** → ‘갈망’·섭식 추구 소실, **단맛 ‘좋아함’ 반응은 보존**.
 - **암페타민/DAT 녹다운/감작으로 도파민 상승** → 단서 유발 ‘갈망’ 증폭, **‘좋아함’ 불변** (Wyvell & Berridge 2000; Peciña et al. 2003).
 - 도파민이 고갈된 파킨슨병 환자도 단맛·초콜릿 ‘좋아함’ 평정 정상 ([[robinson-2025-incentive-sensitization-30-years|Robinson & Berridge 2025]]).
 - → **‘도파민 = 쾌락 물질’은 부정확**. 도파민은 즐거움이 아니라 ‘원함’을 만든다. 도파민의 정확한 기능은 동기의 **노력·활성화** 측면 ([[salamone-2012-mysterious-motivational-functions-mesolimbic|Salamone & Correa 2012]]).
 
 ## 비대칭 — fragile liking vs robust wanting
 - **‘좋아함’ 회로**: 작고(~1 mm³ 단위) 깨지기 쉬우며 여러 [[concept-hedonic-hotspot|핫스폿]]의 ‘만장일치’를 요구. 오피오이드/엔도카나비노이드는 NAc shell rostrodorsal hotspot에서만 ‘좋아함’↑.
-- **‘갈망’ 회로**: 넓고(NAc 전체·등쪽 선조체·[[concept-basolateral-amygdala|편도]]·[[concept-lateral-hypothalamus|LH]]) 견고하며 단서·맥락·생리 상태로 쉽게 증폭. 도파민은 NAc 어디서나 ‘갈망’↑.
+- **‘갈망’ 회로**: 넓고(NAc 전체·dorsal striatum·[[concept-basolateral-amygdala|amygdala]]·[[concept-lateral-hypothalamus|LH]]) 견고하며 단서·맥락·생리 상태로 쉽게 증폭. 도파민은 NAc 어디서나 ‘갈망’↑.
 
 ## 회로·세포 수준 substrate
-- **중심 편도(CeA)**: ‘갈망’을 한 표적에 ‘승자독식’으로 집중; ‘좋아함’ 불변; ‘아픈 것을 원하기’ ([[warlow-2021-incentive-motivation-wanting-roles|Warlow & Berridge 2021]]).
+- **central amygdala(CeA)**: ‘갈망’을 한 표적에 ‘승자독식’으로 집중; ‘좋아함’ 불변; ‘아픈 것을 원하기’ ([[warlow-2021-incentive-motivation-wanting-roles|Warlow & Berridge 2021]]).
 - **[[concept-nucleus-accumbens|NAc]] D1/D2 세포**: D1=‘좋아함’+‘갈망’ 모두 양으로 유도; D2=‘갈망’ 부호화·‘좋아함’ 음으로 유도 ([[guillaumin-2023-disentangling-the-role-of-nac|Guillaumin et al. 2023]]).
 - **쾌락 주기(pleasure cycle)**: appetitive(wanting, 도파민) → consummatory(liking, 오피오이드) → satiety ([[kringelbach-2015-the-pleasure-of-food|Kringelbach 2015]], [[concept-appetitive-consummatory-phases]]).
 
 ## 인간 약리학 검증
-- [[soutschek-2021-opioid-antagonism-modulates-wanting|Soutschek et al. 2021]]: naltrexone(opioid 길항)이 ‘갈망’ 선택적 감소·DLPFC–선조체 결합↑; amisulpride(D2/D3) 무효.
+- [[soutschek-2021-opioid-antagonism-modulates-wanting|Soutschek et al. 2021]]: naltrexone(opioid 길항)이 ‘갈망’ 선택적 감소·DLPFC–striatum 결합↑; amisulpride(D2/D3) 무효.
 - [[korb-2020-dopaminergic-and-opioidergic-regulation|Korb et al. 2020]]: 동기/기대 쾌락=도파민+오피오이드 공동; 소비 ‘좋아함’(미소근)=오피오이드 특이적 → **국면 특이적** 조절. 주관 평정은 둔감, 암묵 측정(EMG·노력) 필요.
 
 ## 임상 — 음식·비만
@@ -62,7 +62,7 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[berridge-2023-separating-desire-from-prediction-of]] — ‘갈망’이 결과가치 예측으로 환원되지 않음(‘혐오/고통을 원하기’ 반례); 예측·RL 이론에 대한 동기-기반 반론 (TiCS 2023).
 - [[concept-food-addiction]] — ‘갈망’ 폭주의 임상 출구.
 - [[person-choi-hyung-jin]] — 사용자 연구 맥락.
-- [[wang-2018-coding-of-valence-and-identity]] — 편도가 부여하는 미각 valence(=liking 축).
+- [[wang-2018-coding-of-valence-and-identity]] — amygdala가 부여하는 미각 valence(=liking 축).
 - [[concept-taste-valence-coding]] — 미각 valence 부호화 hub.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 liking 불변(인간 RCT, **preprint·n=44·저검정력**); 효과는 wanting 쪽이라는 해석의 간접 근거.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — hedonic(VS)/energy(DS) 회로 분리.
@@ -74,8 +74,8 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **반대 방향의 축**: 만성 HFD가 lateral NAc→VTA neurotensin 신호를 낮춰 고칼로리 음식의 **hedonic value 자체를 떨어뜨린다**(무노력 섭취·선호 감소). wanting↑ 프레임과의 긴장점 (Nature 2025).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — eCB가 핫스폿에서 'liking'을, aPVT–NAc에서 'wanting/engagement'를 매개하는 **이중 역할**의 증거 (Nature 2026).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — Wyvell & Berridge 2000이 **NAc shell 도파민 = 사건의 현저성** 해석의 근거로 인용되는 지점. 단 본 논문의 shell 도파민은 hedonic 가치가 아니라 **유관성 변화·경보 신호**로 읽힌다.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 선조체 DA=wanting(bout 수) 강화, liking(bout 길이)은 분리. DA 자극이 섭취 개시만 늘리고 진행 중 섭취는 못 바꿈(분산 동시 방출만 변화) — Berridge식 wanting/liking 해리의 선조체 전역 버전 (Neuron 2026, Stuber lab).
-- [[rangel-2008-a-framework-for-studying-the]] — 'liking'을 **결과평가(outcome evaluation)** 단계의 신호로 배치한 신경경제학 틀: NAc·배쪽 창백의 오피오이드 작용제가 liking 표현을 늘리고 그 뒤 짝지어진 보상의 섭취를 늘린다는 자료를, 결과평가 신호가 학습에 쓰인다는 근거로 인용. 뇌가 **선택 시점 가치와 경험 시점 가치를 따로 부호화**해야 한다는 예측은 wanting/liking 해리와 같은 방향(대응은 위키 해석) (Nat Rev Neurosci 2008).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — striatum DA=wanting(bout 수) 강화, liking(bout 길이)은 분리. DA 자극이 섭취 개시만 늘리고 진행 중 섭취는 못 바꿈(분산 동시 방출만 변화) — Berridge식 wanting/liking 해리의 striatum 전역 버전 (Neuron 2026, Stuber lab).
+- [[rangel-2008-a-framework-for-studying-the]] — 'liking'을 **결과평가(outcome evaluation)** 단계의 신호로 배치한 신경경제학 틀: NAc·ventral 창백의 오피오이드 작용제가 liking 표현을 늘리고 그 뒤 짝지어진 보상의 섭취를 늘린다는 자료를, 결과평가 신호가 학습에 쓰인다는 근거로 인용. 뇌가 **선택 시점 가치와 경험 시점 가치를 따로 부호화**해야 한다는 예측은 wanting/liking 해리와 같은 방향(대응은 위키 해석) (Nat Rev Neurosci 2008).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — bout 길이(liking 지표)를 도파민이 양방향으로 움직인다 — Berridge "DA는 liking에 불필요"와의 층위 차이(주관적 쾌락 vs 소비 운동 출력) 병기.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — '학습' 성분(도파민 RPE)의 정리; 유인 현저성과 PE는 비교가 어렵고 상호배타적이지 않을 수 있다는 RPE 진영의 평가.
 - [[concept-reward-prediction-error]] — '학습' 성분의 도파민 RPE와 '원함'(유인 현저성)의 관계, 위키 원전 속 '현저성'의 여러 뜻.

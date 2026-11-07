@@ -17,7 +17,7 @@ year: 2022
 [[concept-responsive-neurostimulation|responsive DBS]]가 위우회술(LRYGB) 대비 비용효과적이 되는 **BMI 감소 성공 임계값(≈13.7–15.2 kg/m²/5년)**을 결정수형 모델로 산출한 보건경제 연구(Obesity 2022).
 
 ## 핵심 내용
-- **모델**: TreeAge 결정수형(rollback), 사회적 관점, 5년 지평, 2020 USD(Medicare). LRYGB 효능(메타분석 23연구·1,671명)·합병증(MBSAQIP 39,782명), rDBS 안전성(피질 RNS 뇌전증 256명·OCD DBS 314명) 입력. BMI 감소→효용→QALY, ICER를 $50,000/QALY 의사지불의향(WTP)과 비교. Monte Carlo·민감도 분석.
+- **모델**: TreeAge 결정수형(rollback), 사회적 관점, 5년 지평, 2020 USD(Medicare). LRYGB 효능(메타분석 23연구·1,671명)·합병증(MBSAQIP 39,782명), rDBS 안전성(cortex RNS 뇌전증 256명·OCD DBS 314명) 입력. BMI 감소→효용→QALY, ICER를 $50,000/QALY 의사지불의향(WTP)과 비교. Monte Carlo·민감도 분석.
 - **결과**:
   - LRYGB 장기(5–10년) 평균 BMI 감소 13.75 kg/m².
   - 치료비: LRYGB $14,366 < rDBS $29,951(기기비 제외, Medicare 미상환).

@@ -9,7 +9,7 @@ year: 2023
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 장기지속형 GIP(acyl-GIP)와 GIPR–GLP-1R 이중작용제(MAR709)의 체중·식이 감소 효과가 **Vgat(Slc32a1)+ 억제성 GABA 뉴런의 GIPR 신호**에 결정적으로 의존함을 유전적으로 증명. 최형진 랩(시상하부 식욕회로·incretin 항비만) 관점에서, 차세대 GIP 기반 항비만제의 중추 표적세포를 "GABAergic GIPR 뉴런"으로 좁힌 핵심 근거이며, tirzepatide류 이중작용제의 우월성 기전을 회로 수준에서 뒷받침한다.
+> 장기지속형 GIP(acyl-GIP)와 GIPR–GLP-1R 이중작용제(MAR709)의 체중·식이 감소 효과가 **Vgat(Slc32a1)+ 억제성 GABA 뉴런의 GIPR 신호**에 결정적으로 의존함을 유전적으로 증명. 최형진 랩(hypothalamus 식욕회로·incretin 항비만) 관점에서, 차세대 GIP 기반 항비만제의 중추 표적세포를 "GABAergic GIPR 뉴런"으로 좁힌 핵심 근거이며, tirzepatide류 이중작용제의 우월성 기전을 회로 수준에서 뒷받침한다.
 
 # GIP는 GABAergic 뉴런을 통해 체중과 식이를 조절한다 (Liskiewicz 2023)
 
@@ -25,7 +25,7 @@ Vgat+ 억제성 GABA 뉴런에서 GIPR을 선택 결손시킨 생쥐(Vgat-Gipr K
 **Result**
 - HFD Vgat-Gipr KO는 야생형 대비 **체중↓·지방량↓·식이↓·내당능 개선**(흡수·에너지소비 변화 없이 식이 감소 매개).
 - **약리 핵심**: acyl-GIP는 야생형 HFD에서 체중·식이↓, **Vgat-Gipr KO에서는 효과 소실**. MAR709의 acyl-GLP-1 대비 **우월성도 KO에서 소실**(acyl-GLP-1 수준으로 회귀).
-- Cy5-acyl-GIP는 [[concept-area-postrema]]에 축적·cFos 유도, 정중융기·[[concept-arcuate-nucleus]]·PVN cFos↑. KO에서 AP cFos 유도 크게 감쇠.
+- Cy5-acyl-GIP는 [[concept-area-postrema]]에 축적·cFos 유도, median eminence·[[concept-arcuate-nucleus]]·PVN cFos↑. KO에서 AP cFos 유도 크게 감쇠.
 
 **Claim** — 장기지속형 GIPR 작용제의 체중·식이 감소 및 이중작용제 우월성은 **Vgat+ 억제성 GABAergic 뉴런의 GIPR 신호에 결정적으로 의존**한다.
 
@@ -34,11 +34,11 @@ Vgat+ 억제성 GABA 뉴런에서 GIPR을 선택 결손시킨 생쥐(Vgat-Gipr K
 - [[concept-glp-1]] — 이중작용제의 다른 축; GIP 효과와 대비·상승작용.
 - [[concept-incretin-effect]] — GIP·GLP-1 두 인크레틴의 상위 개념.
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 동일 1저자 후속(5중작용제); GIP/GLP-1R 계열 확장.
-- [[concept-area-postrema]] · [[concept-dorsal-vagal-complex]] — acyl-GIP cFos 유도 후뇌 표적부.
-- [[concept-arcuate-nucleus]] · [[concept-melanocortin-system]] — 시상하부 식욕회로 맥락.
-- [[zhang-2022-brainstem-circuit-for-nausea]] — GIPR–후뇌 회로(오심/식이 억제) 관련.
+- [[concept-area-postrema]] · [[concept-dorsal-vagal-complex]] — acyl-GIP cFos 유도 hindbrain 표적부.
+- [[concept-arcuate-nucleus]] · [[concept-melanocortin-system]] — hypothalamus 식욕회로 맥락.
+- [[zhang-2022-brainstem-circuit-for-nausea]] — GIPR–hindbrain 회로(오심/식이 억제) 관련.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 인크레틴 항비만제 종합.
-- [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] — **경쟁·보완 설명**: 같은 '이중작용제 우월성'을 뉴런이 아니라 정중융기 **올리고덴드로사이트 GIPR**(혈관 투과성↑ → GLP-1RA 뇌 접근↑)로 설명. 직렬인지 병렬인지 미검증.
+- [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] — **경쟁·보완 설명**: 같은 '이중작용제 우월성'을 뉴런이 아니라 median eminence **올리고덴드로사이트 GIPR**(혈관 투과성↑ → GLP-1RA 뇌 접근↑)로 설명. 직렬인지 병렬인지 미검증.
 - [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR을 **길항**하는 접합체도 중추 GIPR·GLP-1R을 요구(Syn-Cre·Wnt1-Cre KO) — 작용/길항 양방향 모두 중추 요구성.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — 본 논문을 중추 GABAergic GIPR 근거로 인용한 상위 리뷰(GIPR는 다수가 비뉴런이라는 발현 지도와 대조).
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] · [[jastreboff-2025-once-monthly-maridebart-cafraglutide-for]] — 반대 방향(길항) 임상 전략.

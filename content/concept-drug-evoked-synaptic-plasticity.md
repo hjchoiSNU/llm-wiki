@@ -23,12 +23,12 @@ aliases: [drug-evoked synaptic plasticity, CP-AMPAR, calcium-permeable AMPAR, me
 - 기능은 그 자체의 행동 효과가 아니라 **permissive metaplasticity** — 이후 하류(NAc, 그다음 DST)에서 일어날 가소성을 **허용**하는 상태를 만든다.
 - 제거 경로: **mGluR(대사성 글루탐산 수용체)** 가 CP-AMPAR 제거를 통제 → mGluR 작용제·PAM이 치료 후보가 되는 근거(Bellone & Lüscher 2006; McCutcheon 2011).
 
-### 2. 단계적 확장 (staged process) — 배쪽에서 등쪽으로
+### 2. 단계적 확장 (staged process) — ventral에서 dorsal로
 ```
-VTA (수 시간)  →  NAc (수일)  →  DST (더 많은 피질선조체 루프 동원 후)
+VTA (수 시간)  →  NAc (수일)  →  DST (더 많은 cortexstriatum 루프 동원 후)
 ```
-- VTA에서 며칠간 가소성이 유지되면 NAc의 흥분성 입력도 강화되고(Mameli 2009), 이후 등쪽 선조체까지 확장 = **dorsalization**.
-- **전파 경로 = spiraling connectivity**(Haber 2000): NAc D1R-MSN → 중뇌 GABA 뉴런 강화 → tonic DA 발화↑ → VTA뿐 아니라 **SNc**까지 disinhibition → SNc → 더 등쪽 선조체. 이 나선형 되먹임이 배쪽 회로의 RPE를 등쪽으로 실어 나른다.
+- VTA에서 며칠간 가소성이 유지되면 NAc의 흥분성 입력도 강화되고(Mameli 2009), 이후 dorsal striatum까지 확장 = **dorsalization**.
+- **전파 경로 = spiraling connectivity**(Haber 2000): NAc D1R-MSN → midbrain GABA 뉴런 강화 → tonic DA 발화↑ → VTA뿐 아니라 **SNc**까지 disinhibition → SNc → 더 dorsal striatum. 이 나선형 되먹임이 ventral 회로의 RPE를 dorsal로 실어 나른다.
 - 이것이 [[luscher-2021-consolidating-the-circuit-model-for|Lüscher & Janak 2021]] Figure 4의 조립 논리 — **양성강화(D1 축) + 음성강화(D2 축) → dorsalization → compulsion**.
 
 ### 3. 시냅스별 인과 실험 — 되돌리기와 만들어 내기 ★
@@ -46,10 +46,10 @@ VTA (수 시간)  →  NAc (수일)  →  DST (더 많은 피질선조체 루프
 - 광유전 depotentiation을 임상 도구로 옮기려는 시도: **저주파 DBS + D1R 길항제(SCH 23390 / SCH 31166)** 병용이 locomotor sensitization을 광유전 depotentiation과 **동등하게** 역전(Creed 2015). 둘 다 **mGluR-LTD**에 의존하며, 전기자극은 도파민도 함께 방출시키므로 **D1R 차단이 필수**.
 - 통상 DBS 프로토콜과 다른 3가지: ① **간헐·저주파**(고주파 연속 아님), ② **약리 보조제 병용**, ③ **지속적 효과**(자극 중에만이 아님).
 - 한계: mGluR 접근은 이미 성립된 **compulsion에는 효과 근거가 없고**, 저자들은 "이 모델에 기반한 신규 중독 치료는 아직 등장하지 않았다"고 명시.
-- 피질 표적은 **TMS**로도 접근 가능(Terraneo 2015 pilot); 쥐에서 **OFC >100 Hz DBS**가 morphine place preference 소거를 촉진·재발 차단(Fakhrieh-Asl 2020).
+- cortex 표적은 **TMS**로도 접근 가능(Terraneo 2015 pilot); 쥐에서 **OFC >100 Hz DBS**가 morphine place preference 소거를 촉진·재발 차단(Fakhrieh-Asl 2020).
 
 ## 위키 안의 이웃 — 다른 문법의 가소성
-- **[[piette-2026-striatal-endocannabinoids-drive-one-shot|eCB-LTP]]**: DLS SPN의 피질선조체 입력에서 **presynaptic CB1R + D2R 의존 LTP**가 단일 시행 학습을 각인. DMS에서는 유도 불가 → **부위별 가소성 규칙의 분업**. 여기서는 도파민이 보상 신호가 아니라 **가소성 규칙 자체를 gating**한다. → [[concept-one-shot-learning]]
+- **[[piette-2026-striatal-endocannabinoids-drive-one-shot|eCB-LTP]]**: DLS SPN의 cortexstriatum 입력에서 **presynaptic CB1R + D2R 의존 LTP**가 단일 시행 학습을 각인. DMS에서는 유도 불가 → **부위별 가소성 규칙의 분업**. 여기서는 도파민이 보상 신호가 아니라 **가소성 규칙 자체를 gating**한다. → [[concept-one-shot-learning]]
 - **[[concept-epigenetic-priming|후성유전 priming]]**: 시냅스 강도 대신 **크로마틴**에 잠재 취약성을 저장하는 병렬 기전(H3K4me1/SETD7). Lüscher & Janak은 강박 개체차의 유력 후보로 **compulsion 회로 뉴런의 후성유전 리모델링**을 지목한다 — 즉 두 층은 연결돼 있을 가능성이 높다.
 
 ## 관련 페이지
@@ -58,14 +58,14 @@ VTA (수 시간)  →  NAc (수일)  →  DST (더 많은 피질선조체 루프
 - [[concept-orbitofrontal-cortex]] — OFC→DST가 강박의 결정적 시냅스.
 - [[concept-lateral-habenula]] — LHb→RMTg GluA1 삽입(금단기 정서의 시냅스 인과).
 - [[concept-medium-spiny-neuron]] — D1/D2-MSN이 가소성의 무대.
-- [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 배쪽 회로에서 시작되는 단계적 확장.
+- [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — ventral 회로에서 시작되는 단계적 확장.
 - [[concept-deep-brain-stimulation]] · [[concept-responsive-neurostimulation]] — depotentiation 원리를 임상 자극 프로토콜로 옮기는 경로.
-- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] · [[concept-one-shot-learning]] — 선조체의 또 다른 가소성 규칙(eCB-LTP).
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] · [[concept-one-shot-learning]] — striatum의 또 다른 가소성 규칙(eCB-LTP).
 - [[concept-epigenetic-priming]] — 시냅스 아래층에 취약성을 저장하는 병렬 기전.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — 같은 lab; 가소성의 상류 입력(cue 도파민)을 개체 수준에서 측정.
 - [[person-luscher-christian]] — 이 연구 프로그램의 주도자.
 - [[concept-incentive-sensitization]] — 감작의 행동 이론; 여기서는 그 시냅스 기질.
-- [[concept-agrp-synaptic-plasticity]] — **섭식 회로판 자매 개념**. 같은 논리 구조(병리·상태가 시냅스 강도에 저장되고, 그 강도를 되돌리면 행동이 되돌아온다)가 시상하부 배고픔 회로에서도 성립한다: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서는 **오피오이드**가 depotentiation 역할을 하고, [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]에서는 **NMDAR 차단**이 증폭 유도를 막아 체중 증가를 없앤다.
+- [[concept-agrp-synaptic-plasticity]] — **섭식 회로판 자매 개념**. 같은 논리 구조(병리·상태가 시냅스 강도에 저장되고, 그 강도를 되돌리면 행동이 되돌아온다)가 hypothalamus 배고픔 회로에서도 성립한다: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]에서는 **오피오이드**가 depotentiation 역할을 하고, [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]에서는 **NMDAR 차단**이 증폭 유도를 막아 체중 증가를 없앤다.
 - [[concept-circuit-bistability-hysteresis]] — "되돌릴 수 있는 래치"라는 공통 프레임.
 - [[thoeni-2020-depression-of-accumbal-to]] — **같은 lab이 같은 문법을 섭식에 적용한 사례**(Neuron 2020, Lüscher). 억제성 시냅스(NAcSh D1-MSN→LH)가 급성 식이제한·고지방식에서 **eCB–CB1R 의존적으로 depress**되고, 반대로 **in vivo 광유전 HFS(4 ms × 100 Hz × 100 pulse, 20 s 간격 4회)로 potentiate하면 24 h 금식 마우스의 섭취가 줄어든다** — 자극은 **식사 15분 전에만** 주고 식사 중에는 주지 않았으므로 위 3원칙 중 **③ 지속(lasting) 효과**의 섭식판 실증이다. ⚠️ 그러나 **① ②와는 도파민 보조제의 방향이 반대다**: Creed 2015의 흥분성 시냅스 depotentiation은 **D1R 길항제 병용**이 필수인데, 이 억제성 i-LTP는 **전시냅스 D1R 활성이 필요**해 슬라이스에서는 D1 작용제 SKF38393(10 µM)을 넣어야 유도된다(in vivo에서는 내인성 도파민이 그 역할). → DBS 프로토콜 설계에서 **표적 시냅스의 극성(흥분성 되돌리기 vs 억제성 강화)을 먼저 정해야** 한다는 함의(병기).
 - [[linders-2022-stress-driven-potentiation-of-lateral]] — ★ **이 문법(잘못 강화된 시냅스 → depotentiate → 행동 복귀)이 약물이 아니라 "스트레스 섭식"에서 성립한 사례**(Nat Commun 2022, Meye·Adan lab). 이틀 사회 패배가 LHA^glut→VTA^DA 시냅스를 **후시냅스 GluA1-AMPAR 증가 + rectification↑(= GluA2-결손형 쪽 전환)** 으로 강화하고(PPR 불변), **VTA 내 dexamethasone이 이를 모사**한다. 핵심은 되돌림 — **1 Hz × 30 min in vivo 광유전 LFS**가 opto-유발 AMPAR 진폭을 낮추고(KS D=0.61, p=0.0002) **스트레스성 지방 과식을 소멸**시킨다(interaction stress×virus F(1,96)=7.16, p=0.009), 반대로 20 Hz HFS는 스트레스 없이 과식을 만든다. CP-AMPAR 삽입·depotentiation 축을 **섭식 회로**로 확장하는 자료이며, 저주파 DBS 번역 논의(Creed 2015)와 같은 설계 논리를 공유한다.

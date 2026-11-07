@@ -9,7 +9,7 @@ year: 2024
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 최형진 랩 관점의 **incretin 조합 역설**: tirzepatide는 GIPR **작용(agonism)**으로, AMG 133은 GIPR **길항(antagonism)**으로 — 정반대인데 **둘 다 GLP-1R 작용과 결합하면 체중을 더 뺀다**. GIPR loss-of-function이 낮은 BMI와 연관된다는 GWAS와 정합적인 쪽은 오히려 antagonism이며, 저자도 "agonism이 왜 효과 내는지 미해결"이라 명시. GIPR agonism vs antagonism의 기전 해리는 랩의 시상하부·후뇌 incretin 회로 연구가 파고들 핵심 미결 질문. mAb 접합체라 반감기가 길어(intact t½ ~21일) **4주 1회 투여**·150일 지속 감량이 가능.
+> 최형진 랩 관점의 **incretin 조합 역설**: tirzepatide는 GIPR **작용(agonism)**으로, AMG 133은 GIPR **길항(antagonism)**으로 — 정반대인데 **둘 다 GLP-1R 작용과 결합하면 체중을 더 뺀다**. GIPR loss-of-function이 낮은 BMI와 연관된다는 GWAS와 정합적인 쪽은 오히려 antagonism이며, 저자도 "agonism이 왜 효과 내는지 미해결"이라 명시. GIPR agonism vs antagonism의 기전 해리는 랩의 hypothalamus·hindbrain incretin 회로 연구가 파고들 핵심 미결 질문. mAb 접합체라 반감기가 길어(intact t½ ~21일) **4주 1회 투여**·150일 지속 감량이 가능.
 
 # AMG 133 (maridebart cafraglutide): GIPR 길항–GLP-1 작용 이중특이 분자
 
@@ -26,7 +26,7 @@ year: 2024
 - **비만 시노몰거스 원숭이**: 주 1회 6주로 체중·에너지섭취·인슐린·지질 감소.
 - **뇌 침투 최소**(mAb plasma의 0.1–0.4%) → 식이 감소는 BBB 밖(AP 등) 말초 작용으로 해석.
 
-> ⚠️ **'BBB 밖' ≠ '말초'**. 같은 GIPR 길항+GLP-1 작용 전략을 마우스(surrogate 항체)에서 해부한 [[liu-2025-gipr-ab-glp-1-peptide|Liu 2025]]는 접합체가 **CVO(OVLT·SFO·정중융기·[[concept-area-postrema|AP]])에서 검출**되고, **mGIPR-Ab 단독 ICV 투여만으로도** 전신 투여와 유사하게 체중·섭식이 줄며, **중추 GIPR KO에서는 GIPR 차단의 부가효과가 소실**되고 **중추 GLP-1R KO에서는 접합체 감량이 크게 감쇠**함을 보고했다. 즉 뇌실질 침투가 최소여도 작용점은 **BBB 밖의 중추 신경조직(CVO)**일 수 있다. 본 페이지의 '말초 작용' 해석은 phase 1 단계의 항체 분포 데이터에 근거한 잠정 해석으로 읽을 것.
+> ⚠️ **'BBB 밖' ≠ '말초'**. 같은 GIPR 길항+GLP-1 작용 전략을 마우스(surrogate 항체)에서 해부한 [[liu-2025-gipr-ab-glp-1-peptide|Liu 2025]]는 접합체가 **CVO(OVLT·SFO·median eminence·[[concept-area-postrema|AP]])에서 검출**되고, **mGIPR-Ab 단독 ICV 투여만으로도** 전신 투여와 유사하게 체중·섭식이 줄며, **중추 GIPR KO에서는 GIPR 차단의 부가효과가 소실**되고 **중추 GLP-1R KO에서는 접합체 감량이 크게 감쇠**함을 보고했다. 즉 brain parenchyma 침투가 최소여도 작용점은 **BBB 밖의 중추 신경조직(CVO)**일 수 있다. 본 페이지의 '말초 작용' 해석은 phase 1 단계의 항체 분포 데이터에 근거한 잠정 해석으로 읽을 것.
 
 ### Phase 1 (NCT04478708, 비만 성인)
 - SAD(21–840 mg) + MAD(140/280/420 mg Q4W×3). 안전성 허용(대부분 경증 GI 오심·구토, 8–12h 발현·~72h 지속; 저혈당 없음).
@@ -45,7 +45,7 @@ year: 2024
 - [[concept-incretin-effect]] — 두 incretin 수용체를 한 분자로 조작.
 - [[liu-2025-gipr-ab-glp-1-peptide]] — 같은 GIPR 길항+GLP-1 작용 전략의 기전(중추 KO) 논문.
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 반대로 GIPR **작용** 5중작용제; 두 논문 대조가 곧 역설.
-- [[gao-2026-semaglutide-drives-weight-loss-through]] — 후뇌 GLP-1R 기전과 대비(BBB 미투과 말초 작용 가설).
+- [[gao-2026-semaglutide-drives-weight-loss-through]] — hindbrain GLP-1R 기전과 대비(BBB 미투과 말초 작용 가설).
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — antibody–peptide 접합·GIPR 길항 전략의 위치.
 - [[concept-dorsal-vagal-complex]] — AP/NTS 등 BBB 밖 말초 incretin 작용 무대.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — `GIPR` **기능↓ → tirzepatide 구토↑**라는 인간 유전 근거. GIPR **길항** 전략의 내약성 우려와 직접 맞물림 (Nature 2026).

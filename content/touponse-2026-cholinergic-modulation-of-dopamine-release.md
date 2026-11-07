@@ -10,7 +10,7 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 위키의 **"local control = 동기"** 가설([[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]])이 지목한 후보 기전, 곧 **NAc 콜린성 개재뉴런(ChI) → 도파민 축삭의 니코틴 수용체 → VTA 발화와 무관한 방출 증폭**이 행동 중에 실제로 작동하는 조건을 처음 보였다. 그 조건은 **"고노력"** 이다. 같은 설탕물(또는 **완전히 같은 광자극**)도 더 많이 일해서 얻으면 NAc core 도파민이 더 크게 나왔다. 그 증폭은 VTA를 꺼도 남았고, NAc의 ACh를 막으면 사라졌다. 저노력 보상의 도파민과 섭취는 그대로였다.
+> 위키의 **"local control = 동기"** 가설([[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]])이 지목한 후보 기전, 곧 **NAc 콜린성 interneuron(ChI) → 도파민 축삭의 니코틴 수용체 → VTA 발화와 무관한 방출 증폭**이 행동 중에 실제로 작동하는 조건을 처음 보였다. 그 조건은 **"고노력"** 이다. 같은 설탕물(또는 **완전히 같은 광자극**)도 더 많이 일해서 얻으면 NAc core 도파민이 더 크게 나왔다. 그 증폭은 VTA를 꺼도 남았고, NAc의 ACh를 막으면 사라졌다. 저노력 보상의 도파민과 섭취는 그대로였다.
 > 사용자 연구에 닿는 지점 셋. (1) **노력과 보상 크기가 다른 채널로 들어온다**: NAc ACh는 노력만 따라가고 설탕 농도(5% vs 32%)에는 거의 반응하지 않았다. 도파민은 둘 다 반영한다. [[concept-need-motivation-pleasure-utility|NMPU]]의 Motivation(비용·지속) 성분을 Pleasure/Utility(크기)와 세포 수준에서 가를 수 있는 손잡이다. (2) **노력 과제 설계**: 사람 노력 의사결정 모델([[concept-effort-based-decision-making]])은 노력을 빼야 할 비용으로만 다룬다. 이 논문은 **이미 들인 노력이 보상 신호를 키운다**(effort paradox)를 보였다. 섭식 DTx에서 "노력해서 얻은 음식·보상"이 다른 가치를 갖는지 따질 근거다. (3) **니코틴과 섭식**: 막힌 수용체(α4·α6 함유 nAChR)는 니코틴 강화에 필요한 바로 그 수용체다. 흡연·금연과 체중, 노력 기반 음식 추구가 같은 수용체를 공유할 수 있다(저자 제안 + 연결 가설).
 
 # Cholinergic modulation of dopamine release drives effortful behaviour (Touponse, Pomrenze et al. 2026)
@@ -50,8 +50,8 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 - **수용체 스크리닝**(광자극 과제, 각 n=4): NAc 국소 α1 아드레날린(terazosin), 무스카린 전반(scopolamine)·M5(ML375), NK3(osanetant) 차단은 효과가 없었다. 전신 A1(DPCPX)·A2A(istradefylline)·NK1(aprepitant)·NTS1(SR 48692) 차단도 효과가 없었다. GABA_A(bicuculline)·GABA_B(CGP 35348)를 NAc에 넣으면 경련·운동 장애가 생겨 시험할 수 없었다.
 - **DHβE**(α4·α6 함유 nAChR 길항제, NAc 30 µg/반구, n=6): 고FR의 증폭을 **완전히 막았다**(FR21·46 P<0.0001). FR1 방출은 그대로였다 → 광유발 방출 자체가 아니라 **고노력에서의 추가분**만 사라졌다.
   - 설탕물 과제에서도 같은 방향이었다(n=6). peak는 FR21 P=0.0058, FR46 P=0.0035로 유의했다. AUC는 사후비교에서 유의하지 않았다(P=0.062, 0.11).
-- **절편 전기생리**(ChAT–Cre;DAT–Flp, NAc 도파민 축삭 bleb의 perforated patch): ChI를 광자극하면 축삭에 EPSP·단일 활동전위·복합전위·이중 활동전위가 생겼다. 1 µM DHβE가 이를 막았다(n=3 축삭/3마리, P=0.0063). 니코틴성 축삭 직접 흥분은 그동안 **배측 선조체에서만** 보고됐고, 이 실험이 NAc로 넓혔다.
-- **단일세포 RNA**(Allen 자료, ED7): Chrna4·Chrna6는 VTA DA 뉴런에 많고 NAc의 다른 세포형에는 대부분 적다. 그러나 NAc로 투사하는 피질 세포(PL-ILA-ORB L2/3·L5 IT, ACC L5 IT)도 α4를 발현한다 → DHβE의 행동 효과 일부는 피질 입력을 거칠 수 있다(저자 한계).
+- **절편 전기생리**(ChAT–Cre;DAT–Flp, NAc 도파민 축삭 bleb의 perforated patch): ChI를 광자극하면 축삭에 EPSP·단일 활동전위·복합전위·이중 활동전위가 생겼다. 1 µM DHβE가 이를 막았다(n=3 축삭/3마리, P=0.0063). 니코틴성 축삭 직접 흥분은 그동안 **dorsal striatum에서만** 보고됐고, 이 실험이 NAc로 넓혔다.
+- **단일세포 RNA**(Allen 자료, ED7): Chrna4·Chrna6는 VTA DA 뉴런에 많고 NAc의 다른 세포형에는 대부분 적다. 그러나 NAc로 투사하는 cortex 세포(PL-ILA-ORB L2/3·L5 IT, ACC L5 IT)도 α4를 발현한다 → DHβE의 행동 효과 일부는 cortex 입력을 거칠 수 있다(저자 한계).
 
 ### Fig 4·ED9–10 — NAc ACh도 노력을 부호화하고, 도파민보다 먼저 온다
 - **NAc GRAB_ACh**(gACh4m, n=8): 보상 직전 **완만한 상승(ramp)** 뒤 **삼상 파형**이 나왔다. 전달 직후 날카로운 1차 peak(0.25–0.75 s), 빠른 dip(0.75–1.25 s), 소비 무렵 2차 peak(1–2.5 s)다. **모든 성분이 FR을 따라 커졌다**.
@@ -71,10 +71,10 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 - **두 보상의 공통 기전**: 설탕물은 VTA 세포체를 포함한 넓은 뇌 영역을 동원하고, 축삭 광자극은 공간적으로 좁다. 그런데도 둘 다 고노력 증폭에 국소 ACh가 필요했다 → 노력 기반 보상 추구의 일반 기전일 수 있다.
 - **시험관–생체 화해**: 생체에서 ACh–DA 상호작용이 안 보였던 것은 기저 상태나 단순 과제만 봤기 때문일 수 있다. 신경조절물질 간 상호작용은 **행동 맥락에 강하게 의존**한다.
 - **중독**: 노력이 더하는 가치는 니코틴 강화를 매개하는 수용체와 같은 수용체에 의존한다. 중독 모델은 노력이 약물 추구를 강화하는 경로를 고려해야 한다고 제안한다.
-- **ChI의 반대 방향 기능**: ChI가 식욕 cue의 동기 효과에 **맞선다**는 영향력 있는 연구도 있다(Collins 2019 등). 이 결과는 보상 전달 시점과 니코틴 수용체에 한정된다. ACh–DA 상호작용은 진행 중 행동, 직전 활동, 선조체 부위, 수용체 종류에 따라 달라질 것이다.
+- **ChI의 반대 방향 기능**: ChI가 식욕 cue의 동기 효과에 **맞선다**는 영향력 있는 연구도 있다(Collins 2019 등). 이 결과는 보상 전달 시점과 니코틴 수용체에 한정된다. ACh–DA 상호작용은 진행 중 행동, 직전 활동, striatum 부위, 수용체 종류에 따라 달라질 것이다.
 - **이전 결과와의 긴장**: 이전 연구(Eshel 2024)는 FR과 무관하게 매 보상의 도파민 방출을 억제했더니 동물이 **더 열심히** 일했다. 이번에는 고FR 도파민만 선택적으로 줄였더니 **덜** 일했다. 저자 추측: FR 간 도파민의 **상대 균형**이 노력 배분을 정할 수 있다.
 - **광자극 조건의 기전 미상**: ACh가 ChRmine을 발현하지 않거나 빛이 닿지 않는 축삭을 추가 동원하거나, ChRmine 탈분극에 따른 전파 실패를 상쇄할 수 있다.
-- **삼상 파형의 입력**: 1차 peak는 노력 상태를 추적하는 피질·시상 글루탐산 입력일 가능성이 높다. dip도 노력에 비례해, ChI의 D2 수용체를 통한 도파민 매개일 수 있다. VTA GABA 뉴런의 ChI 억제(Brown 2012, Al-Hasani 2021)도 후보다. 2차 peak는 dip 뒤 반동이거나 두 번째 흥분 입력일 수 있다.
+- **삼상 파형의 입력**: 1차 peak는 노력 상태를 추적하는 cortex·thalamus 글루탐산 입력일 가능성이 높다. dip도 노력에 비례해, ChI의 D2 수용체를 통한 도파민 매개일 수 있다. VTA GABA 뉴런의 ChI 억제(Brown 2012, Al-Hasani 2021)도 후보다. 2차 peak는 dip 뒤 반동이거나 두 번째 흥분 입력일 수 있다.
 - **세포체–말단 논쟁**([[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]] vs de Jong 2024, [[person-lammel-stephan|Lammel lab]], 위키에 원전 없음): 설탕물에서 VTA DA 뉴런도 노력을 부호화해 방출 효과의 일부를 설명할 것이다. 그러나 세포체는 더 낮은 노력에서 포화했고, VTA 억제는 효과가 없었으며, NAc ACh 차단은 효과가 컸다. **맞는 맥락에서는 국소 ACh가 세포체가 만드는 것 이상으로 도파민 방출의 동적 범위를 넓힌다.**
 
 ### 방법 요약
@@ -94,8 +94,8 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 
 ## ⚠️ 위키 내 충돌·긴장 (병기 — 덮어쓰지 않음)
 - **local control의 신호 종류**: [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]]의 local control은 **보상률에 따른 접근 중 ramp**였다. 이 논문은 **보상 시점 transient의 노력 의존 증폭**이다. 둘 다 "VTA 발화 없는 NAc 방출"이지만 같은 신호라는 근거는 없다. ChI가 Mohebi의 ramp까지 만드는지는 위키에 자료가 없다(Mohebi 2023 *eLife*, ref 27, 위키에 원전 없음).
-- **ChI의 구동자**: [[mingote-2019-dopamine-glutamate-neuron-projections-to|Mingote 2019]]는 NAc ChI의 최강 흥분 입력을 **VTA DA-GLU**로 본다("local이 VTA 독립은 아닐 수 있다"). 이 논문에서는 VTA 전체를 muscimol로 꺼도(DA-GLU 포함) 광자극 과제의 노력 부호화가 남았다. 저자는 피질·시상 글루탐산 입력을 후보로 든다. 두 결과는 다른 과제·다른 shell/core 부위라 직접 모순은 아니다.
-- **NAc core의 nAChR 탈감작**: [[concept-striatal-cholinergic-interneuron]]은 "core·배측에서는 nAChR 탈감작 때문에 빈도 합산이 안 되고, shell에서만 양성 되먹임이 성립한다"고 적는다. 이 논문은 **NAc core**에서 고노력 때 nAChR 의존 증폭을 생체로 보였다. 앞의 서술은 반복 자극의 빈도 합산 문제이고 이 논문은 보상 순간의 단발 증폭이라, 조건이 다르다.
+- **ChI의 구동자**: [[mingote-2019-dopamine-glutamate-neuron-projections-to|Mingote 2019]]는 NAc ChI의 최강 흥분 입력을 **VTA DA-GLU**로 본다("local이 VTA 독립은 아닐 수 있다"). 이 논문에서는 VTA 전체를 muscimol로 꺼도(DA-GLU 포함) 광자극 과제의 노력 부호화가 남았다. 저자는 cortex·thalamus 글루탐산 입력을 후보로 든다. 두 결과는 다른 과제·다른 shell/core 부위라 직접 모순은 아니다.
+- **NAc core의 nAChR 탈감작**: [[concept-striatal-cholinergic-interneuron]]은 "core·dorsal에서는 nAChR 탈감작 때문에 빈도 합산이 안 되고, shell에서만 양성 되먹임이 성립한다"고 적는다. 이 논문은 **NAc core**에서 고노력 때 nAChR 의존 증폭을 생체로 보였다. 앞의 서술은 반복 자극의 빈도 합산 문제이고 이 논문은 보상 순간의 단발 증폭이라, 조건이 다르다.
 - **nAChR 아단위 표기**: 위키의 Mohebi·Rice·ChI 페이지는 "α7/β2"라고 적는다(Threlfell 2012·Cachope 2012 경유). 이 논문은 도파민 말단 수용체를 **α4·α6 함유**로 특정하고(Zoli 2002, scRNA Chrna4·Chrna6), DHβE로 막았다.
 - **ACh와 보상률**: [[hamid-2016-mesolimbic-dopamine-signals-value-work|Hamid 2016]]의 미세투석에서 ACh는 분 단위 보상률과 상관이 없었다. 이 논문은 초 단위 보상 시점 ACh가 노력을 따른다고 본다. 시간척도와 변수가 달라 모순은 아니다.
 - **ChI의 동기 효과 방향**: [[concept-striatal-cholinergic-interneuron]]의 "ChI 동기화 → SPN 순 억제 → 전환·소거 촉진", 원문이 인용하는 "ChI가 cue 동기에 맞선다"(Collins 2019)와 이 논문의 "ChI → 노력 유지"는 방향이 다르다. 저자는 시점(보상 전달)·수용체(니코틴성)·부위가 다르면 효과가 달라질 수 있다고 본다.
@@ -109,8 +109,8 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 
 ## 위키에 없는 것 (자료 없음)
 - **Eshel 2024 *Neuron***("Striatal dopamine integrates cost, benefit, and motivation") — 이 논문의 직접 선행연구. 원전 없음.
-- **Mohebi 2023 *eLife***(NAc ChI가 도파민 방출과 동기를 촉진)와 **Taniguchi 2024** 반론, **Krok 2023**·**Chantranupong 2023**(생체 ACh–DA), **Liu 2022**·**Kramer 2022**(배측 축삭 직접 흥분), **Zhang 2025**(ChI의 축삭 brake), **de Jong 2024**(세포체–말단 논쟁) — 모두 원전 없음.
-- NAc **shell**과 배측 선조체에서의 같은 실험, 사람 자료는 없다.
+- **Mohebi 2023 *eLife***(NAc ChI가 도파민 방출과 동기를 촉진)와 **Taniguchi 2024** 반론, **Krok 2023**·**Chantranupong 2023**(생체 ACh–DA), **Liu 2022**·**Kramer 2022**(dorsal 축삭 직접 흥분), **Zhang 2025**(ChI의 축삭 brake), **de Jong 2024**(세포체–말단 논쟁) — 모두 원전 없음.
+- NAc **shell**과 dorsal striatum에서의 같은 실험, 사람 자료는 없다.
 
 ## 관련 페이지
 - [[concept-striatal-cholinergic-interneuron]] — ChI → nAChR → 도파민 방출 경로의 개념 hub. 이 논문이 행동 중 작동 조건(고노력)을 보탰다.
@@ -124,7 +124,7 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 - [[concept-dopamine-reward-system]] · [[concept-reward-prediction-error]] — 체세포 발화와 말단 방출의 해리.
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — 도파민 해석 논쟁 리뷰(원문 ref 26).
 - [[concept-dopamine-learning-rate]] · [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 보정 자극 설계에 주는 맥락 의존성 경고.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 선조체 아구역마다 도파민이 국소 조립된다는 공간 버전의 국소 조절.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — striatum 아구역마다 도파민이 국소 조립된다는 공간 버전의 국소 조절.
 - [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] — 커널 회귀 방법의 인용 출처.
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — 사람 대사 질환의 노력 표현형(이 경로와의 연결은 자료 없음).
 - [[concept-need-motivation-pleasure-utility]] — Motivation 성분을 세포 수준에서 붙잡을 후보.

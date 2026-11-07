@@ -6,7 +6,7 @@ updated: 2026-05-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Interoception은 사용자 연구의 **upstream 통합 개념**. 시상하부 식욕 회로·gut-brain·NMPU·DTx 모두 interoception 분야의 한 부분. Knight × Liberles ([[knight-liberles-2025-interoception|2025 themed issue]])가 분야 정체성 확립한 시점이라 사용자 lab 연구 위치 정확히 매핑 가능. 핵심 활용:
+> Interoception은 사용자 연구의 **upstream 통합 개념**. hypothalamus 식욕 회로·gut-brain·NMPU·DTx 모두 interoception 분야의 한 부분. Knight × Liberles ([[knight-liberles-2025-interoception|2025 themed issue]])가 분야 정체성 확립한 시점이라 사용자 lab 연구 위치 정확히 매핑 가능. 핵심 활용:
 > 1. **Reward 자체가 interoceptive** ([[weber-2025-interoceptive-origin-reinforcement-learning|Weber 2025]]) — 외부 자극이 아니라 신체 내부 신호.
 > 2. **Drive (Need)는 anticipatory interoception** ([[concept-need-motivation-pleasure-utility|NMPU]]) — 실제 결핍 아닌 예측된 결핍.
 > 3. 임상 응용: GLP-1 mimetics, electroceutical, vagus nerve stimulation 모두 interoception 회로 표적.
@@ -41,7 +41,7 @@ updated: 2026-05-01
 - 체액 균형 ([[grove-2022-dopamine-subsystems-track-internal|Grove 2022]] LH→VTA, Oka thirst).
 
 ### B. 식이·소화
-- EEC chemosensor (Gribble) → vagus → NTS → 시상하부 ([[concept-arcuate-nucleus]], [[concept-lateral-hypothalamus]]).
+- EEC chemosensor (Gribble) → vagus → NTS → hypothalamus ([[concept-arcuate-nucleus]], [[concept-lateral-hypothalamus]]).
 - 위 stretch + nutrient sensing (Berthold).
 - Gut hormone: [[concept-ghrelin]], [[concept-cck]], [[concept-glp-1]], [[concept-pyy-3-36]], [[concept-leptin]].
 - Bariatric 외과 (Sandoval) — interoception 회로 redesign.
@@ -106,23 +106,23 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[concept-dopamine-reward-system]] — DA의 자원별 분리.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — interoception 임상 응용.
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — 내수용(미주) tone이 보상·동기 DA를 형성한다는 인과 증거 (Sci Adv 2026).
-- [[concept-insula]] — 내수용감각의 피질 허브; 인간 음식 cue 부호화 (Halpern 2021).
-- [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 섬엽이 음식 anticipation을 선제적으로 평가 (Nat Commun 2021).
+- [[concept-insula]] — 내수용감각의 cortex 허브; 인간 음식 cue 부호화 (Halpern 2021).
+- [[huang-2021-the-insulo-opercular-cortex-encodes]] — 인간 insula가 음식 anticipation을 선제적으로 평가 (Nat Commun 2021).
 - [[concept-bed-nucleus-stria-terminalis]] · [[guerrero-hreins-2026-bed-nucleus-of-the-stria]] — dmINS↔BNST 내수용 축; 스트레스가 인간 BNST 내수용·보상 연결성을 gating (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — 통합 hub.
 - [[woods-1991-the-eating-paradox-how]] — 예측적 항상성의 고전 원전.
 - [[concept-cephalic-phase-response]] — 예측적 대사반응 hub.
 - [[dong-2026-nose-to-brain-axis-spoiled-food]] — 구역/retching 방어의 후각(exteroceptive) 트리거.
-- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — 위협/wellness 지각의 뇌간 relay(PBN).
+- [[palmiter-2018-parabrachial-nucleus-cgrp-neurons-function]] — 위협/wellness 지각의 brainstem relay(PBN).
 - [[zhang-2021-area-postrema-cell-types-that]] — 순환 독소·호르몬 감지 관문(AP).
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — 장 화학감지→뇌 valence 내수용 경로.
 - [[florsheim-2023-immune-sensing-of-food-allergens]] — 면역→뇌(류코트리엔·GDF15) 내수용 위험 감지.
-- [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 현재·미래 생리상태 예측 부호화(anticipatory interoception 세포 증거).
-- [[gehrlach-2019-aversive-state-processing-in-the]] — 후측 섬엽 혐오상태→CeA/BNST 하향제어.
+- [[livneh-2020-estimation-of-current-and-future]] — insula의 현재·미래 생리상태 예측 부호화(anticipatory interoception 세포 증거).
+- [[gehrlach-2019-aversive-state-processing-in-the]] — posterior insula 혐오상태→CeA/BNST 하향제어.
 - [[hickman-2025-breaking-through-the-mind-body]] — 정신건강 interoception의 **당사자 주도 연구 우선순위**; 심장·호흡 편중을 넘어 위장·근긴장·배고픔 등 multimodal 강조.
 - [[concept-metabolic-interoception]] — 저연구된 **대사(glucose·insulin) modality** hub.
 - [[fleming-2026-metabolism-and-the-mind]] — 대사신호→보상학습→기분(metabolic interoception 실증).
 - [[mehrhof-2025-an-interoceptive-model-of-energy]] — interoceptive **energy allostasis** 이론(예측적 내수용으로 대사–정신 공존 설명).
-- [[nord-2021-disrupted-dorsal-mid-insula]] — 내수용 손상의 transdiagnostic 신경 locus(좌측 등쪽 중간섬엽) 메타분석.
+- [[nord-2021-disrupted-dorsal-mid-insula]] — 내수용 손상의 transdiagnostic 신경 locus(좌측 dorsal 중간insula) 메타분석.
 - [[kaduk-2026-glucose-levels-are-associated]] — interoceptive accuracy(대사상태 지각)가 혈당–기분 매개·기분 변동 조절.
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — 내부 상태를 **뇌 상태의 master regulator**로 세우는 리뷰. hypothalamus를 내수용 정보가 분산 신경계로 들어가는 1차 관문으로 본다.

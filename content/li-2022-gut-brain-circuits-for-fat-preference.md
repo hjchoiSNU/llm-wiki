@@ -33,7 +33,7 @@ year: 2022
 2. **두 병렬 미주 경로**:
    - **Generalist(당·지방·아미노산 공통)**: **CCK-의존**. **VIP⁺(UTS2b) nodose** 뉴런; CCKAR 길항으로 세 영양소 반응 모두 차단. VIP 뉴런 침묵→선호 형성 실패, 인공활성(DREADD)→새 선호 창출.
    - **Fat-only**: **CCK-비의존**. **TRPA1⁺ nodose** 뉴런; CCKAR 길항 무효. TRPA1 뉴런 침묵→지방 선호만 소실(당 선호 보존).
-3. **장 지방 수용체 = GPR40 + GPR120**: 삼중/이중 결손 imaging·행동에서 **GPR40/GPR120 이중결손(및 삼중결손)만** 지방 미주 반응·지방 선호를 소실. **CD36 단독결손·CD36 포함 이중결손은 정상** → 장의 gut-brain 지방 선호엔 **GPR40/GPR120이 필수, CD36는 불요**(구강 미뢰와 대비!). 당 반응은 모든 결손에서 보존(SGLT1 별도).
+3. **장 지방 수용체 = GPR40 + GPR120**: 삼중/이중 결손 imaging·행동에서 **GPR40/GPR120 이중결손(및 삼중결손)만** 지방 미주 반응·지방 선호를 소실. **CD36 단독결손·CD36 포함 이중결손은 정상** → 장의 gut-brain 지방 선호엔 **GPR40/GPR120이 필수, CD36는 불요**(구강 taste bud와 대비!). 당 반응은 모든 결손에서 보존(SGLT1 별도).
 
 ### Claim
 - 당·지방 모두 **미각을 넘어 전용 gut-brain 회로**로 소비를 구동. 지방 선호 형성의 4단계(수용체 결합→EEC-CCK 신호→미주 활성→cNST 방송) 어디를 막아도 선호 차단.
@@ -41,7 +41,7 @@ year: 2022
 - Discussion 명제(사용자 핵심): **"Liking sweet and fat(선천적 매력)은 미각계의 활성; Wanting sugar and fat은 gut-brain 축의 결과."**
 
 ## 방법·해석 유의
-- 본 회로는 **post-oral** 지방(장 수용체 GPR40/GPR120). 구강 미뢰의 [[concept-cd36|CD36]]([[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]])와 **분자적으로 분리** — 같은 지방이라도 감지 부위별 수용체가 다름.
+- 본 회로는 **post-oral** 지방(장 수용체 GPR40/GPR120). 구강 taste bud의 [[concept-cd36|CD36]]([[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]])와 **분자적으로 분리** — 같은 지방이라도 감지 부위별 수용체가 다름.
 - [[grove-2025-lateralized-pathway-associating-nutrients|Grove 2025]](Knight)는 같은 fat gut sensor를 **GPR40/120 + CD36**로 기술 — 본 논문은 CD36 불요를 CRISPR로 명시(경미한 문헌 강조 차이; 향후 조율 필요).
 - global(비-조건부) knockout — 발달 보상 가능성은 저자도 명시.
 

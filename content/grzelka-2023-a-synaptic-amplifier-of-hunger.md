@@ -1,5 +1,5 @@
 ---
-title: "체중을 되찾기 위한 시상하부의 배고픔 시냅스 증폭기 (Grzelka 2023)"
+title: "체중을 되찾기 위한 hypothalamus의 배고픔 시냅스 증폭기 (Grzelka 2023)"
 type: paper
 created: 2026-09-11
 updated: 2026-10-11
@@ -12,7 +12,7 @@ year: 2023
 > **"다이어트 후 왜 다시 찌는가"에 회로 수준의 답을 처음 내놓은 논문.** 체중 감소는 AgRP로 들어오는 흥분성 입력을 **골고루** 키우는 게 아니라, **PVH^TRH → ARC^AgRP 하나만** 골라 강화한다(입력 특이성). 이 증폭은 **잃은 체중을 되찾을 때까지 능동적으로 유지**되고, 단 **10분의 고빈도 자극 한 번** 또는 **CNO 1회**만으로도 **NMDAR 의존적으로** 만들어져 **수주간 지속되는 체중 증가**를 일으킨다.
 > 사용자 lab 관점의 값어치는 세 가지다 — ① [[concept-weight-regain-defended-adiposity|체중 재증가]]를 "호르몬이 돌아와서"가 아니라 **"시냅스가 강화된 채 남아서"** 로 재정의하고, **끊을 수 있는 표적**(PVH^TRH→AgRP, NMDAR)을 제시한다. ② [[concept-glp1ra-response-variability|GLP-1RA 중단 rebound]]의 기전 가설이 [[proposal-glp1ra-rebound-microbiota|기존 제안]]의 microbiota·set-point 축 옆에 **시냅스 가소성 축**을 추가한다. ③ [[walker-2026-a-hypothalamic-circuit-for|Walker 2026]]·[[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]와 **같은 PVH→AgRP 경로**이므로, 사용자 lab의 [[kim-2024-normative-framework-dissociates-need|Need]] 회로 연구에 **"Need의 gain을 결정하는 가소성 층"** 을 직접 붙일 수 있다.
 
-# 체중을 되찾기 위한 시상하부의 배고픔 시냅스 증폭기
+# 체중을 되찾기 위한 hypothalamus의 배고픔 시냅스 증폭기
 
 - **저널/연도**: *Cell Metabolism* 35:770–785 (2023년 5월 2일). DOI: 10.1016/j.cmet.2023.03.002. Open access (CC BY-NC-ND).
 - **소속**: Max Planck Institute for Metabolism Research(Cologne) · BIDMC/Harvard. 교신 **[[person-fenselau-henning|Henning Fenselau]]** · **[[person-lowell-bradford|Bradford B. Lowell]]**.

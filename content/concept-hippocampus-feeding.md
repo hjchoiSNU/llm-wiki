@@ -1,17 +1,17 @@
 ---
-title: 해마와 섭식 (Hippocampus & Feeding) — orexigenic dlHPC
+title: "Hippocampus & Feeding — orexigenic dlHPC"
 type: concept
 created: 2026-06-01
 updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 해마는 기억 구조물로만 알려져 있지만, **외측 시상하부(LH)의 orexigenic 입력(MCH)**을 받는 **배외측 해마(dlHPC) 아구역**이 음식 cue 가치를 학습·표상하는 **orexigenic subnetwork**임이 인간에서 입증됐다([[barbosa-2023-an-orexigenic-subnetwork-within-the|Barbosa 2023, Nature]]). 사용자의 LH·MCH·시상하부-기억 회로 관심을 **인간 해마-시상하부 직접 연결**로 잇는 결절점이며, 비만에서 이 연결이 약해진다는 점에서 치료 표적 가능성도 시사.
+> hippocampus는 기억 구조물로만 알려져 있지만, **lateral hypothalamus(LH)의 orexigenic 입력(MCH)**을 받는 **dorsolateral hippocampus(dlHPC) 아구역**이 음식 cue 가치를 학습·표상하는 **orexigenic subnetwork**임이 인간에서 입증됐다([[barbosa-2023-an-orexigenic-subnetwork-within-the|Barbosa 2023, Nature]]). 사용자의 LH·MCH·hypothalamus-기억 회로 관심을 **인간 hippocampus-hypothalamus 직접 연결**로 잇는 결절점이며, 비만에서 이 연결이 약해진다는 점에서 치료 표적 가능성도 시사.
 
-# 해마와 섭식 (Hippocampus & Feeding) — orexigenic dlHPC
+# Hippocampus & Feeding — orexigenic dlHPC
 
 ## 한 줄 요약
-해마는 외부·내부 자극을 통합하는 고차 노드로 **식이 욕구 처리(orexigenic appetitive processing)**에도 관여. 특히 **LH streamline이 수렴하는 배외측 해마(dorsolateral hippocampus, dlHPC)** 아구역이 sweet-fat 음식 cue에 특이적 저주파 반응을 보이며, LH로부터 **MCH(melanin-concentrating hormone) 양성 투사**를 받는다. 비만/폭식 경향군에서 LH–dlHPC 연결성↓.
+hippocampus는 외부·내부 자극을 통합하는 고차 노드로 **식이 욕구 처리(orexigenic appetitive processing)**에도 관여. 특히 **LH streamline이 수렴하는 dorsolateral hippocampus(dlHPC)** 아구역이 sweet-fat 음식 cue에 특이적 저주파 반응을 보이며, LH로부터 **MCH(melanin-concentrating hormone) 양성 투사**를 받는다. 비만/폭식 경향군에서 LH–dlHPC 연결성↓.
 
 ## 핵심 내용
 
@@ -25,23 +25,23 @@ updated: 2026-09-19
 ### 회로 맥락
 > ⚠️ **근거 등급**: [[barbosa-2023-an-orexigenic-subnetwork-within-the]]의 인간 근거는 (i) sweet-fat cue anticipation 저주파(뇌전증 9인, 상관), (ii) LH↔dlHPC evoked potential(1인, 연결 존재), (iii) post-mortem MCH+ 섬유, (iv) 34인 횡단 연결성–BMI 연관이다. dlHPC를 조작해 인간 섭식이 변한다는 인과 데이터와 연결성 감소의 방향(원인 vs 결과)은 미검증이므로, '치료 표적'은 가설 단계로 인용할 것.
 
-- **LH–해마 orexigenic 축**: 설치류에서 LH MCH·orexin이 해마를 통해 식이·충동을 조절(Noble 2019, Hsu 2015). Barbosa는 이를 **인간**에서 확립.
+- **LH–hippocampus orexigenic 축**: 설치류에서 LH MCH·orexin이 hippocampus를 통해 식이·충동을 조절(Noble 2019, Hsu 2015). Barbosa는 이를 **인간**에서 확립.
 - **저주파의 역할**: theta 범위와 겹치며, 원거리 영역 간 정보 전달(LH↔dlHPC) 매개 가설.
 
 ## 관련 페이지
 - [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — 인간 orexigenic dlHPC 원전.
-- [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 환자에서 좌 해마 활성 ↔ 음식 주의편향·주의지향(+)·체중변화(−) 상관(사용자 lab).
+- [[lee-2023-obesity-mechanism-after-hypothalamic]] — hypothalamus 손상 환자에서 좌 hippocampus 활성 ↔ 음식 주의편향·주의지향(+)·체중변화(−) 상관(사용자 lab).
 - [[concept-lateral-hypothalamus]] — dlHPC에 MCH orexigenic 입력을 주는 핵.
 - [[person-halpern-casey]] — 인간 식이 회로 다중모달 매핑 주도.
 - [[concept-insula]] — 같은 sweet-fat/milkshake 패러다임 계열 인간 식이 cortex 연구.
-- [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 해마는 NAc로 투사하는 reward 회로 입력원.
+- [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — hippocampus는 NAc로 투사하는 reward 회로 입력원.
 - [[concept-melanocortin-system]] — MCH는 melanocortin 계열과 구분되는 LH orexigenic neuropeptide(맥락 비교).
-- [[walker-2026-a-hypothalamic-circuit-for]] — 마우스 **복측 해마(CA1/ProS-v)가 PVH^Sim2의 최상위 입력처**(ProS-v→PVH^Sim2 특이); 맥락 cue→hunger(AgRP) 경로 — 해마-섭식 축을 시상하부 hunger 회로로 직접 연결 (Neuron 2026, Lowell lab).
+- [[walker-2026-a-hypothalamic-circuit-for]] — 마우스 **ventral hippocampus(CA1/ProS-v)가 PVH^Sim2의 최상위 입력처**(ProS-v→PVH^Sim2 특이); 맥락 cue→hunger(AgRP) 경로 — hippocampus-섭식 축을 hypothalamus hunger 회로로 직접 연결 (Neuron 2026, Lowell lab).
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc가 공간 식욕기억을 매개(마우스).
-- [[azevedo-2019-a-role-of-drd2]] — 해마 hilus Drd2(LEC→해마→중격)가 맥락 의존 섭식 조절.
-- [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP의 먹이-거리 신호가 **공간 기억 회상**에 연동(암 조건에서 행동 선호·거리 신호 동반 소실); 저자 제안 경로 **해마→LS→LH→DMH→AgRP**가 해마-섭식 축을 hunger 회로에 직접 연결 (bioRxiv 2026, 미검증 가설).
-- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 배측 해마 형성체(dHF)·subiculum이 **생식 경험의 최대 전사 재편 부위**이며, 도파민 의존 히스톤 변형이 그 지속성을 매개 (Nature 2026). 섭식이 주제는 아니나 dHF 가소성의 분자 기준선.
-- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **복측 해마(vCA1·vCA3·prosubiculum)→외측중격(LS)** 이 위협 cue의 **결과 예측(cue-outcome)** 정보를 나름(vCA1=성공 선호, vCA3=실패 선호; Av-run에는 무반응). 해마→피질하 축에 LS 경유지를 추가하며, [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]] 가설의 첫 구간을 실증 (Nature 2026).
-- [[concept-lateral-septum]] — 해마의 최대 피질하 표적 중 하나. 해마-섭식 축이 시상하부로 이어지는 관문 후보.
-- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ **배측** 해마 CA3/2→DLS^Pdyn→LHA 축이 맥락 조건화 섭식을 게이팅(복측 입력은 미미). [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 **복측** HPC→LS^Crhr2(cue-결과)와 대비돼, **해마 배측=맥락 / 복측=목표 분업이 LS 안에서 세포군 수준으로 보존**됨을 보인다 (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — **subiculum(S; DS·VS)이 ARC POMC의 주요 전뇌 입력원**(시상하부 밖 전뇌 입력 ~15%를 LS·BST와 분담)이며, **배측 subiculum(DS)은 POMC 전용 17영역**에 포함돼 AgRP에는 투사하지 않는다. 저자는 이 subiculum 입력을 통상 추적이 놓쳤던 것으로 명시. 해마-섭식 축이 시상하부 first-order 뉴런에 **직접** 닿는 가장 오래된 해부 근거이며, AgRP가 아니라 **POMC 쪽으로 선택적**이라는 점이 [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|해마→LS→LHA]] 경로와 대비된다 (Front Neuroanat 2015).
+- [[azevedo-2019-a-role-of-drd2]] — hippocampus hilus Drd2(LEC→hippocampus→septum)가 맥락 의존 섭식 조절.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP의 먹이-거리 신호가 **공간 기억 회상**에 연동(암 조건에서 행동 선호·거리 신호 동반 소실); 저자 제안 경로 **hippocampus→LS→LH→DMH→AgRP**가 hippocampus-섭식 축을 hunger 회로에 직접 연결 (bioRxiv 2026, 미검증 가설).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — dorsal hippocampus 형성체(dHF)·subiculum이 **생식 경험의 최대 전사 재편 부위**이며, 도파민 의존 히스톤 변형이 그 지속성을 매개 (Nature 2026). 섭식이 주제는 아니나 dHF 가소성의 분자 기준선.
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **ventral hippocampus(vCA1·vCA3·prosubiculum)→lateral septum(LS)** 이 위협 cue의 **결과 예측(cue-outcome)** 정보를 나름(vCA1=성공 선호, vCA3=실패 선호; Av-run에는 무반응). hippocampus→subcortical 축에 LS 경유지를 추가하며, [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]] 가설의 첫 구간을 실증 (Nature 2026).
+- [[concept-lateral-septum]] — hippocampus의 최대 subcortical 표적 중 하나. hippocampus-섭식 축이 hypothalamus로 이어지는 관문 후보.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — ★ **dorsal** hippocampus CA3/2→DLS^Pdyn→LHA 축이 맥락 조건화 섭식을 게이팅(ventral 입력은 미미). [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 **ventral** HPC→LS^Crhr2(cue-결과)와 대비돼, **hippocampus dorsal=맥락 / ventral=목표 분업이 LS 안에서 세포군 수준으로 보존**됨을 보인다 (Neuron 2026, Sahay lab). → [[concept-lateral-septum]]
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **subiculum(S; DS·VS)이 ARC POMC의 주요 forebrain 입력원**(hypothalamus 밖 forebrain 입력 ~15%를 LS·BST와 분담)이며, **dorsal subiculum(DS)은 POMC 전용 17영역**에 포함돼 AgRP에는 투사하지 않는다. 저자는 이 subiculum 입력을 통상 추적이 놓쳤던 것으로 명시. hippocampus-섭식 축이 hypothalamus first-order 뉴런에 **직접** 닿는 가장 오래된 해부 근거이며, AgRP가 아니라 **POMC 쪽으로 선택적**이라는 점이 [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|hippocampus→LS→LHA]] 경로와 대비된다 (Front Neuroanat 2015).

@@ -6,7 +6,7 @@ updated: 2026-06-02
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 본 페이지는 위키에 축적된 자료에서 **명시적으로 드러난 공백·"함의"·미해결 긴장**만을 근거로 사용자 lab(최형진: 시상하부 회로·[[concept-need-motivation-pleasure-utility|NMPU]]·DMH GLP-1R·LH·DTx·NHP·인간 fMRI) 관점의 향후 연구를 종합한 것이다. 외부 검색 없이 wiki 내부 근거로만 구성했으며, 각 제언은 출처 페이지로 연결된다. 핵심 베팅 3가지: ① **비침습 심부자극(tTIS)으로 시상하부·보상 회로 접근**(현재 완전 공백), ② **NMPU 4-component의 인간 번역 + closed-loop 신경조절**, ③ **회로 표현형별 맞춤 DTx × 약물 × electroceutical 병용**.
+> 본 페이지는 위키에 축적된 자료에서 **명시적으로 드러난 공백·"함의"·미해결 긴장**만을 근거로 사용자 lab(최형진: hypothalamus 회로·[[concept-need-motivation-pleasure-utility|NMPU]]·DMH GLP-1R·LH·DTx·NHP·인간 fMRI) 관점의 향후 연구를 종합한 것이다. 외부 검색 없이 wiki 내부 근거로만 구성했으며, 각 제언은 출처 페이지로 연결된다. 핵심 베팅 3가지: ① **비침습 심부자극(tTIS)으로 hypothalamus·보상 회로 접근**(현재 완전 공백), ② **NMPU 4-component의 인간 번역 + closed-loop 신경조절**, ③ **회로 표현형별 맞춤 DTx × 약물 × electroceutical 병용**.
 
 # 향후 연구 방향 제언 (Future Research Directions)
 
@@ -25,7 +25,7 @@ updated: 2026-06-02
 ### 2. DMH GLP-1R cognitive satiation의 인간 영상 검증
 > 📋 구체화된 연구계획서: [[proposal-dmh-glp1r-human-imaging]] (7T 음식 cue fMRI × GLP-1RA RCT, 3–5년).
 - **근거**: [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]] — 마우스 DMH GLP-1R→ARC AgRP 회로가 GLP-1RA preingestive satiation 매개 + 인간 RCT satiation index↑. 회로의 **인간 직접 영상 증거는 아직 간접**.
-- **제언**: GLP-1RA 투여 전후 **음식 cue fMRI**([[bae-2019-glucagon-like-peptide-1-receptor]] 패러다임 확장)로 시상하부(DMH/ARC) 반응·cognitive satiation 상관을 인간에서 매핑.
+- **제언**: GLP-1RA 투여 전후 **음식 cue fMRI**([[bae-2019-glucagon-like-peptide-1-receptor]] 패러다임 확장)로 hypothalamus(DMH/ARC) 반응·cognitive satiation 상관을 인간에서 매핑.
 - **lab 적합성**: 인간 fMRI + GLP-1 약물 라인 보유.
 
 ### 3. GLP-1RA rebound을 막는 microbiota 공동중재
@@ -41,7 +41,7 @@ updated: 2026-06-02
 ### 4. NMPU 4-component의 인간 번역
 > 📋 구체화된 연구계획서: [[proposal-nmpu-human-translation]] (Aim 1 계산모델→Aim 2 7T fMRI→Aim 3 인간 침습+NHP, 5년).
 - **근거**: [[kim-2024-normative-framework-dissociates-need|Need=AgRP / Motivation=LH LepR]]·[[lee-2023-lateral-hypothalamic-leptin-receptor]]는 **마우스**에서 검증; [[concept-need-motivation-pleasure-utility|NMPU]] 4축의 인간 신경 substrate는 미확립. Halpern 인간 침습 전기생리([[person-halpern-casey]])가 NAc(Pleasure)·OFC를 이미 들여다봄.
-- **제언**: 인간 침습 기록(수술 환자)·고해상 영상에서 **Need(시상하부)·Motivation(LH)·Pleasure(NAc)·Utility(BLA/OFC) 축을 분리 측정**하는 패러다임 설계. [[liu-2026-granular-motivational-interaction-and|granular motivational states]]·[[weber-2025-interoceptive-origin-reinforcement-learning|interoceptive RL]]을 계산 모델 backbone으로.
+- **제언**: 인간 침습 기록(수술 환자)·고해상 영상에서 **Need(hypothalamus)·Motivation(LH)·Pleasure(NAc)·Utility(BLA/OFC) 축을 분리 측정**하는 패러다임 설계. [[liu-2026-granular-motivational-interaction-and|granular motivational states]]·[[weber-2025-interoceptive-origin-reinforcement-learning|interoceptive RL]]을 계산 모델 backbone으로.
 - **lab 적합성**: 이론(NMPU)·NHP·인간 코호트 삼각 보유.
 
 ### 5. NHP 플랫폼을 통한 LH/DMH 회로 + 약물 번역
@@ -57,23 +57,23 @@ updated: 2026-06-02
 
 ## Tier 3 — 장기·야심 (패러다임 전환 베팅)
 
-### 7. ★ 비침습 심부자극(tTIS)으로 시상하부·VTA·NAc 섭식·보상 회로
+### 7. ★ 비침습 심부자극(tTIS)으로 hypothalamus·VTA·NAc 섭식·보상 회로
 > 📋 구체화된 연구계획서: [[proposal-ttis-feeding-reward-circuits]] (Aim 1 montage→Aim 2 NHP→Aim 3 인간 pilot, 5년).
-- **근거(공백)**: TI/tTIS 리뷰 전반([[concept-temporal-interference-stimulation]]·[[zhu-2023-a-mini-review-recent-advancements]]·[[guo-2023-a-novel-non-invasive-brain]]·[[hummel-2024-non-invasive-deep-brain]])이 다룬 심부 표적은 **해마·선조체·STN뿐 — 시상하부·VTA·NAc는 어느 논문도 안 다룬 완전 공백**. 선조체 도파민 조절은 실증됨([[kwak-2023-effect-of-temporal-interference]] ~40%↓, [[violante-2023-non-invasive-temporal-interference]] 인간 해마).
-- **제언**: 사용자의 심부 섭식·보상 회로 전문성 + tTIS를 결합해 **수술 없는 시상하부/NAc 신경조절** 개척. Halpern식 침습 rDBS([[shivacharan-2022-pilot-study-of-responsive-nucleus]])의 비침습 대안.
+- **근거(공백)**: TI/tTIS 리뷰 전반([[concept-temporal-interference-stimulation]]·[[zhu-2023-a-mini-review-recent-advancements]]·[[guo-2023-a-novel-non-invasive-brain]]·[[hummel-2024-non-invasive-deep-brain]])이 다룬 심부 표적은 **hippocampus·striatum·STN뿐 — hypothalamus·VTA·NAc는 어느 논문도 안 다룬 완전 공백**. striatum 도파민 조절은 실증됨([[kwak-2023-effect-of-temporal-interference]] ~40%↓, [[violante-2023-non-invasive-temporal-interference]] 인간 hippocampus).
+- **제언**: 사용자의 심부 섭식·보상 회로 전문성 + tTIS를 결합해 **수술 없는 hypothalamus/NAc 신경조절** 개척. Halpern식 침습 rDBS([[shivacharan-2022-pilot-study-of-responsive-nucleus]])의 비침습 대안.
 - **냉정한 현실(필수 고려)**: [[vieira-2024-temporal-interference-stimulation-disrupts]] — 영장류에서 tTIS는 발화율 못 바꾸고 timing만, **tACS보다 ~80% 약**. ⟹ 초기 frame은 "활성화"가 아니라 **병적 동기(synchrony) 차단**; dose/montage 혁신([[luff-2024-pulse-width-modulated-temporal|PWM-TI]]·multi-electrode) 선결.
 
 ### 8. NMPU 축 표적 closed-loop 신경조절
 - **근거**: [[concept-responsive-neurostimulation]]·[[shivacharan-2022-pilot-study-of-responsive-nucleus]](NAc 저주파 biomarker로 LOC eating −80%대); [[hummel-2024-non-invasive-deep-brain]]가 closed-loop·state-dependent tTIS 미래 명시.
-- **제언**: NMPU 특정 축(예: Pleasure=NAc, Need=시상하부)의 **biomarker 검출 시에만 자극하는 폐루프** 시스템 — 침습(rDBS)에서 비침습(tTIS)으로의 로드맵.
+- **제언**: NMPU 특정 축(예: Pleasure=NAc, Need=hypothalamus)의 **biomarker 검출 시에만 자극하는 폐루프** 시스템 — 침습(rDBS)에서 비침습(tTIS)으로의 로드맵.
 
 ### 9. 미주(gut-brain) tone을 통한 보상 gating의 치료 응용
 - **근거**: [[onimus-2026-the-gut-brain-vagal-axis-governs]](미주절단이 mesolimbic DA·보상 약화) + [[neuser-2020-vagus-nerve-stimulation-boosts]](taVNS가 reward drive↑). 미주 tone이 보상 DA를 gating.
 - **제언**: **taVNS로 음식 보상 drive를 양방향 조절**하는 비만 중재(GLP-1RA 병용 가능성).
 
 ### 10. 발달 프로그래밍(DOHaD) 협업
-- **근거**: [[freire-agulleiro-2026-early-life-programming-of]]·[[concept-maternal-programming-hypothalamus]] — 모체 비만이 자손 시상하부 회로 programming(postnatal leptin surge critical window).
-- **제언**: SNU 산부인과·소아청소년과 협업으로 **모체 비만→자손 시상하부 회로** 인간 코호트.
+- **근거**: [[freire-agulleiro-2026-early-life-programming-of]]·[[concept-maternal-programming-hypothalamus]] — 모체 비만이 자손 hypothalamus 회로 programming(postnatal leptin surge critical window).
+- **제언**: SNU 산부인과·소아청소년과 협업으로 **모체 비만→자손 hypothalamus 회로** 인간 코호트.
 
 ---
 

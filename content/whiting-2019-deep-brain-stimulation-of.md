@@ -9,7 +9,7 @@ year: 2019
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[whiting-2013-lateral-hypothalamic-area-deep|2013 LHA pilot]]의 정밀 후속. **최적화된 LHA 고주파 자극이 급성 RMR을 16–20% 올리고, 그 효과가 야간 수면 에너지소비(SEE)까지 4.8–10.5% 지속**됨을 대사챔버로 보였다 — 인간에서 시상하부 자극이 전신 에너지소비를 인과적으로 조절한다는 드문 증거. 사용자 [[concept-lateral-hypothalamus|LH]] 연구의 "energy expenditure 출력"을 임상 readout으로 확증.
+> [[whiting-2013-lateral-hypothalamic-area-deep|2013 LHA pilot]]의 정밀 후속. **최적화된 LHA 고주파 자극이 급성 RMR을 16–20% 올리고, 그 효과가 야간 수면 에너지소비(SEE)까지 4.8–10.5% 지속**됨을 대사챔버로 보였다 — 인간에서 hypothalamus 자극이 전신 에너지소비를 인과적으로 조절한다는 드문 증거. 사용자 [[concept-lateral-hypothalamus|LH]] 연구의 "energy expenditure 출력"을 임상 readout으로 확증.
 
 # DBS of the hypothalamus leads to increased metabolic rate in refractory obesity (Whiting 2019)
 

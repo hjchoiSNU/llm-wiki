@@ -11,7 +11,7 @@ journal: "Nature Metabolism 8:778–794 (April 2026; published online 24 Mar 202
 
 > [!takeaway] 연구 방향 관점의 핵심
 > 비만 유전학을 **monogenic(>85개 형태) → oligogenic(희귀·중간 효과) → polygenic(GWAS >1,000 loci, PRS)** 의 **연속체**로 재정리하고, 그것이 어떻게 **정밀의학**(leptin 대체, setmelanotide, diazoxide choline, PRS 기반 예방)으로 번역됐는지 정리한 Lille(Froguel·Bonnefond)–CHOP(Grant) 리뷰. 사용자 연구에 닿는 지점 세 곳:
-> (1) **단일유전자 비만 유전자의 절반 이상이 시상하부 leptin–[[concept-melanocortin-system|melanocortin]] 경로 위에 있다** — 즉 인간 유전학이 [[concept-pomc-neurons|ARC POMC]] → α-MSH → [[concept-mc4r|PVN MC4R]] 축을 [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]의 **Need/항상성 축의 인과 backbone**으로 확정한다. 반면 **흔한(polygenic) 비만 유전자는 hypothalamus가 아니라 insula·substantia nigra(보상·중독 영역)에 농축**된다는 저자들의 주장은 "흔한 비만 = Pleasure/Motivation 축의 개인차"라는 해석과 맞물린다(단, 위키 내 [[johansen-2025-brain-control-of-energy|Johansen 2025]]의 '시상하부 preferential' 서술과 긴장 — 아래 ⚠️).
+> (1) **단일유전자 비만 유전자의 절반 이상이 hypothalamus leptin–[[concept-melanocortin-system|melanocortin]] 경로 위에 있다** — 즉 인간 유전학이 [[concept-pomc-neurons|ARC POMC]] → α-MSH → [[concept-mc4r|PVN MC4R]] 축을 [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]의 **Need/항상성 축의 인과 backbone**으로 확정한다. 반면 **흔한(polygenic) 비만 유전자는 hypothalamus가 아니라 insula·substantia nigra(보상·중독 영역)에 농축**된다는 저자들의 주장은 "흔한 비만 = Pleasure/Motivation 축의 개인차"라는 해석과 맞물린다(단, 위키 내 [[johansen-2025-brain-control-of-energy|Johansen 2025]]의 'hypothalamus preferential' 서술과 긴장 — 아래 ⚠️).
 > (2) **GLP-1RA 반응 예측**: calorie-to-satiation(CTS) 유전점수가 **낮은** 사람(포만 신호는 온전, 식후 satiety·craving이 문제)이 liraglutide에 잘 반응 → [[concept-glp1ra-response-variability|GLP-1RA 반응 이질성]]의 유전 층에 [[su-2026-genetic-predictors-of-glp1-receptor|Su 2026]](약물 표적 GLP1R 변이)와 **다른 종류의 예측자**(표현형-유전 혼합 점수)를 추가. 사용자 lab의 [[kim-2024-glp-1-increases-preingestive-satiation|preingestive satiation]] 축과 직접 대응.
 > (3) **setmelanotide의 한계** — 상류 결손(POMC·PCSK1·LEPR·BBS)엔 극적이지만 **이형접합 MC4R 결손엔 ~3 kg**에 그침 → 수용체 자체가 손상되면 agonist가 우회 못 한다는 회로 논리. 개념 hub는 [[concept-obesity-genetics]].
 
@@ -28,7 +28,7 @@ journal: "Nature Metabolism 8:778–794 (April 2026; published online 24 Mar 202
 
 ### 2. Monogenic obesity — leptin–melanocortin 경로가 중심 (Table 1, Fig. 1)
 - 1990년대 leptin·LEPR·processing 효소의 positional cloning 이후 **>85개 단일유전자 형태** 동정. 표에는 "obesity 동반이 증례의 절반 초과(일반인 대비 OR >3)"인 syndromic 형태까지 포함. NCOA1·ASIP·HTR2C·TRPC5 등 신규 후보는 소수 증례·단일 연구라 **확정 필요**.
-- **절반 이상이 시상하부 leptin–melanocortin 경로 위에서 직접 작동**:
+- **절반 이상이 hypothalamus leptin–melanocortin 경로 위에서 직접 작동**:
   - LEP(지방량 비례 분비) → POMC 뉴런 LEPR → **JAK2–STAT3** → POMC 전사↑. 급성 탈분극은 **TRPC5** 경유. SH2B1이 LEPR–JAK2 증폭, **MAGEL2**가 LEPR 재순환(→ leptin 반응성 유지). LEPR의 막 국재엔 **primary cilia**(BBSome·ALMS1·INPP5E·CEP19) 필요.
   - **NCOA1**이 pSTAT3의 POMC promoter 동원↑; **HTR2C**(5-HT, Gαq/11)·**GHR**(성장호르몬)도 POMC 발현 강화.
   - POMC → **PCSK1·CPE** 절단 → **α-MSH** → MC4R(섭식↓·EE↑).
@@ -36,7 +36,7 @@ journal: "Nature Metabolism 8:778–794 (April 2026; published online 24 Mar 202
 - **MC4R 결손 = 유럽에서 가장 흔한 단일유전자 비만**(우성). LEP 결손 등은 열성.
 - 유전 기전: 점 변이, 구조변이(16p11.2 결실 — 222-kb[SH2B1 포함]/592-kb), 후성유전 결손(15q11–q13 부계 발현 소실 → **Prader–Willi syndrome**).
 - **'isolated vs syndromic' 이분법 폐기 주장**: LEP/LEPR 결손 아동조차 학습장애·신경발달 이상 빈도↑ → 연속체로 봐야 한다.
-- 경로 밖 유전자: 신경발달 전사조절자(RAI1·TBX3·MYT1L·KDM6A·KMT2D·EHMT1 — 시상하부 발생/유지), 과성장(BRWD3·DNMT3A·SETD2), 1차 대사 기능(CELA2A·PGM2L1·P4HTM).
+- 경로 밖 유전자: 신경발달 전사조절자(RAI1·TBX3·MYT1L·KDM6A·KMT2D·EHMT1 — hypothalamus 발생/유지), 과성장(BRWD3·DNMT3A·SETD2), 1차 대사 기능(CELA2A·PGM2L1·P4HTM).
 
 ### 3. 침투도·표현도 — 환경과 polygenic 배경
 - 같은 **SIM1** p.Thr714Ala 가족 내에서도 PWS-like 중증부터 과체중만까지 다양.
@@ -61,7 +61,7 @@ journal: "Nature Metabolism 8:778–794 (April 2026; published online 24 Mar 202
 - 초기부터 GWAS 신호가 **CNS 영향 loci**에 몰림; 저자 lab(Ndiaye 2020)은 비만 유전자 발현이 **insula·substantia nigra**(보상·중독)에 농축됨을 보고; 이후 조절요소 매핑에서도 **뇌·CNS 농축** 확립.
 - **FTO 교훈**: 원래 인과 유전자로 여겨졌으나 Fto KO 표현형 모순 → FTO intron 1 locus는 뇌·지방의 **enhancer로 IRX3·IRX5**(및 RPGRIP1L)를 조절; 시간 의존 작용.
 - eQTL 근처 유전자는 기능 주석·선택 제약이 약해(Mostafavi 2023) **eQTL만으로는 effector gene 전부 못 찾음** → ATAC-seq + Hi-C 등 3D 크로마틴 통합([[concept-cis-regulatory-element-obesity]]).
-- 사례: 아동 비만 chr12q13 → 시상하부 3D 유전체로 **FAIM2 3′UTR rs7132908**을 인과 변이로 지목·기능 검증(Littleton 2024). MPRA·CRISPRi/a·단일세포 판독.
+- 사례: 아동 비만 chr12q13 → hypothalamus 3D 유전체로 **FAIM2 3′UTR rs7132908**을 인과 변이로 지목·기능 검증(Littleton 2024). MPRA·CRISPRi/a·단일세포 판독.
 
 ### 6. Oligogenic obesity (Table 2)
 - 희귀/저빈도 변이, 단독으론 불충분 — 추가 환경·polygenic·다른 희귀 변이 필요. 세 전략:
@@ -84,7 +84,7 @@ journal: "Nature Metabolism 8:778–794 (April 2026; published online 24 Mar 202
 ### 8. 전망 — polygenic 비만의 개인화 예방
 - 비만 예방에 필요한 신체활동량은 **PRS 의존**: 25 vs 75 백분위 비교 시 기저 BMI 22에서 **+3,460보/일**, BMI 24에서 **+6,350보**, BMI 28에서 **>11,000보** 추가 필요 → 유전 배경 무시한 공중보건 권고는 고위험군의 필요량을 과소평가.
 - PRS + 수정인자(장내미생물 포함) + 생활·사회경제 요인을 AI로 통합한 위험 예측 모델 제안.
-- **저 CTS 유전점수 → liraglutide 반응↑**: 최고 반응자는 *포만(satiation) 신호는 온전하지만 식후 satiety 저하·craving이 문제*인 사람. 저자들은 이를 "흔한 비만 유전자가 포만 조절 시상하부보다 **중독·보상·행동 영역**에 주로 발현"된다는 관찰과 연결 → satiation 측정·중독 특성·유전 모델 통합 제안.
+- **저 CTS 유전점수 → liraglutide 반응↑**: 최고 반응자는 *포만(satiation) 신호는 온전하지만 식후 satiety 저하·craving이 문제*인 사람. 저자들은 이를 "흔한 비만 유전자가 포만 조절 hypothalamus보다 **중독·보상·행동 영역**에 주로 발현"된다는 관찰과 연결 → satiation 측정·중독 특성·유전 모델 통합 제안.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 1. **NMPU의 유전적 분해**: 단일유전자 비만(leptin–melanocortin) = **Need 축 결손**(항상성 신호 자체가 없음 → 극심한 과식), 흔한 polygenic 비만(insula·SN 농축) = **Pleasure/Motivation 축의 개인차**. 이 분해가 맞다면 PRS 고위험군은 [[concept-cue-reactivity|cue 반응성]]·[[concept-food-addiction|food addiction]] 표현형과 상관해야 하고, 단일유전자군은 cue 반응성보다 interoceptive Need 신호(AgRP 탈억제)가 우세해야 한다 — [[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]] 코호트에서 PRS를 공변량으로 넣으면 검증 가능.
@@ -94,7 +94,7 @@ journal: "Nature Metabolism 8:778–794 (April 2026; published online 24 Mar 202
 5. **MC4R 침투도의 환경 의존(파키스탄 이형접합 부모 무비만)**은 [[concept-food-insecurity|식품 불안정]]·환경 요인이 유전 위험을 **켜고 끄는** 스위치임을 시사 — gene×food environment 상호작용 축.
 
 ## ⚠️ 위키 내 충돌·긴장
-- **흔한 비만 유전자의 발현 부위**: [[johansen-2025-brain-control-of-energy|Johansen 2025]]는 GWAS 신호가 "뇌(**특히 시상하부**)에 preferential 발현"이라 요약. 본 리뷰는 저자 자신의 데이터(Ndiaye 2020)를 근거로 "흔한 비만 유전자는 포만 조절 **시상하부보다 insula·substantia nigra(보상·중독)**에 주로 발현"이라 주장 → [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]]의 "polygenic = mesolimbic reward 상류" 서술과는 정합. 둘 다 '뇌 농축'엔 동의하나 **시상하부 vs 보상 영역 강조가 다름**. 병기; 조직 패널·세포해상도(예: [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]] 시상하부 LepR CRE)에 따라 결론이 갈릴 수 있음.
+- **흔한 비만 유전자의 발현 부위**: [[johansen-2025-brain-control-of-energy|Johansen 2025]]는 GWAS 신호가 "뇌(**특히 hypothalamus**)에 preferential 발현"이라 요약. 본 리뷰는 저자 자신의 데이터(Ndiaye 2020)를 근거로 "흔한 비만 유전자는 포만 조절 **hypothalamus보다 insula·substantia nigra(보상·중독)**에 주로 발현"이라 주장 → [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]]의 "polygenic = mesolimbic reward 상류" 서술과는 정합. 둘 다 '뇌 농축'엔 동의하나 **hypothalamus vs 보상 영역 강조가 다름**. 병기; 조직 패널·세포해상도(예: [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]] hypothalamus LepR CRE)에 따라 결론이 갈릴 수 있음.
 - **MC4R G-protein 결합**: [[concept-mc4r]] 개요는 "Gq-coupled"로 기술. 본 리뷰(및 [[stuber-2025-the-neurobiology-of-overeating|Stuber 2025]])는 **Gαs-coupled → GNAS–ADCY3–cAMP**를 정준 경로로 제시(MC4R은 Gq·Kir7.1 등 다중 신호도 보고됨). 병기 노트 추가.
 - **setmelanotide의 MC4R 결손 효과**: [[concept-mc4r]]는 "MC4R-deficient 환자도 agonist 작동 시 효과(회로 보존)"로 서술; 본 리뷰는 **이형접합 MC4R 결손에선 ~3 kg로 미미**하다고 정리 → 병기.
 - **수치 차이(모순 아님)**: 유전율 40–75%(본 리뷰) vs ~40–80%([[johansen-2025-brain-control-of-energy|Johansen]]); GWAS ">1,000 loci"(본 리뷰) vs "1500+ 유전자"([[stuber-2025-the-neurobiology-of-overeating|Stuber]]) vs "500+ loci·~1000 SNP"(Johansen) — 집계 단위(loci/SNP/유전자)·시점 차이.

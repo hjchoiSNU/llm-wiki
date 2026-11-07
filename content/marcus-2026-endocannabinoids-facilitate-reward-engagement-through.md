@@ -18,7 +18,7 @@ doi: 10.1038/s41586-026-10967-w
 # Endocannabinoids facilitate reward engagement through retrograde gain control (Marcus 2026)
 
 ## 한 줄 요약
-자유행동 마우스의 [[concept-nucleus-accumbens|측좌핵]]에서 보상 추구 중 **2-AG가 활동 의존적으로 방출**되어, 시상(aPVT)→NAc 흥분성 말단의 **CB1R을 통한 역행성 억제**로 글루타메이트 입력을 깎아내며, 이 되먹임이 **보상 추구에 대한 관여(engagement)를 유지**시킨다 (Nature 2026, Bruchas lab / Univ. of Washington).
+자유행동 마우스의 [[concept-nucleus-accumbens|nucleus accumbens]]에서 보상 추구 중 **2-AG가 활동 의존적으로 방출**되어, thalamus(aPVT)→NAc 흥분성 말단의 **CB1R을 통한 역행성 억제**로 글루타메이트 입력을 깎아내며, 이 되먹임이 **보상 추구에 대한 관여(engagement)를 유지**시킨다 (Nature 2026, Bruchas lab / Univ. of Washington).
 
 ## 핵심 내용
 
@@ -74,7 +74,7 @@ doi: 10.1038/s41586-026-10967-w
 
 ## 관련 페이지
 - [[concept-endocannabinoid-system]] — 본 논문이 추가하는 **세 번째 축**: 말초 지방 섭취(gut) · 중추 학습 규칙(eCB-LTP) 에 이어 **in vivo 행동 지속성의 gain control**.
-- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 같은 해 선조체 eCB 논문(가소성/학습 축). 본 논문은 **학습이 아니라 진행 중 행동의 실시간 조율**을 다뤄 상보적.
+- [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 같은 해 striatum eCB 논문(가소성/학습 축). 본 논문은 **학습이 아니라 진행 중 행동의 실시간 조율**을 다뤄 상보적.
 - [[concept-paraventricular-thalamus]] — 본 논문의 상류 노드(aPVT)와 그 개념 hub.
 - [[concept-nucleus-accumbens]] — 2-AG 생산지이자 회로의 수렴점.
 - [[concept-medium-spiny-neuron]] — D1R⁻/D2R-Penk MSN의 분업이 eCB 생산·DSE 표현의 기질.

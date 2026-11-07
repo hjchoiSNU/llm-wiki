@@ -7,7 +7,7 @@ aliases: [melanocortin pathway, POMC-MC4R system]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Melanocortin system = **POMC·MC4R·MC3R·AgRP가 형성하는 시상하부 식욕 조절의 분자 backbone**. 인간 단일유전자 비만의 대부분 원인 회로 + setmelanotide 표적. 사용자 lab의 임상 환자 정밀의학·DTx의 회로 기반.
+> Melanocortin system = **POMC·MC4R·MC3R·AgRP가 형성하는 hypothalamus 식욕 조절의 분자 backbone**. 인간 단일유전자 비만의 대부분 원인 회로 + setmelanotide 표적. 사용자 lab의 임상 환자 정밀의학·DTx의 회로 기반.
 
 # Melanocortin system
 
@@ -71,7 +71,7 @@ aliases: [melanocortin pathway, POMC-MC4R system]
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 비만약 hub.
 - [[concept-hippocampus-feeding]] — MCH(LH orexigenic neuropeptide)는 melanocortin 계열과 명칭만 유사할 뿐 별개 시스템(대비; Halpern 2023 인간 dlHPC).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[azevedo-2020-a-limbic-circuit-selectively-links]] — 외측중격 LS^Nts의 20%가 `Mc3r`⁺ — 멜라노코르틴 수용체의 변연계 좌표(인과 미검증) (eLife 2020).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — lateral septum LS^Nts의 20%가 `Mc3r`⁺ — 멜라노코르틴 수용체의 limbic system 좌표(인과 미검증) (eLife 2020).
 - [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ 멜라노코르틴 **세 갈래 투사 뉴런(ARC POMC·NTS POMC·ARC AgRP)을 하나의 배선 지도**로 정렬한 해부 backbone. **12개 핵(BST·DM·LH·Rch·TC·PVN·ARC·PAG·EW·LPB·RMg·ROb)이 셋 모두에 직접 투사** = 계 전체를 동시에 조율할 수 있는 공통 상류. 세 집단 모두 주요 입력원으로 **역방향 투사**를 되보냄 (Front Neuroanat 2015).
 - [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 단일유전자 비만 >85형 중 절반 이상이 leptin–melanocortin 경로; setmelanotide 3상(POMC/PCSK1 80%·LEPR 53%가 ≥10% 감량), FDA ≥2세 POMC·PCSK1·LEPR·BBS 승인, 이형접합 MC4R·PWS에선 미미 (Nat Metab 2026).
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — melanocortin 계를 **몸–뇌 소통의 관문**으로 재서술한 Neuron 리뷰. AgRP/POMC가 보상·학습·실행기능·사회행동까지 조형하고 말초에 대사 상태를 부과한다. ⚠️ MC4R **작용**이 AD 유사 모형 인지를 개선하는데 일부 기분·불안 패러다임에서는 **길항**이 유리 — 저자들은 회로 특이성으로 설명하되 집단을 특정하지 않는다.

@@ -6,12 +6,12 @@ updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 사용자 lab 이론 [[concept-need-motivation-pleasure-utility|NMPU]](Need·Motivation·Pleasure·Utility)의 두 핵심 노드 **외측시상하부(LH, Motivation)** 와 **측좌핵(NAc, Pleasure/state-value)** 에서, **활성↔분자정체↔투사↔인과**를 한 파이프라인으로 잇는다. 도구 3종을 역할 분담: **[[xu-2020-behavioral-state-coding-by|CaRMA]]**(활성 뉴런에 분자정체 부여)·**[[wang-2026-multimodal-alignments-of-in|TRU-FACT]]**(+MERFISH·projection·통계·freely-behaving)로 **발굴** → **[[hyun-2022-tagging-active-neurons-by|Cal-Light]]**(NMPU epoch 활성 태깅)로 **인과 검증**. 목표: LH·NAc의 어떤 **분자 세포타입이 어떤 NMPU 성분을 담당**하는지 cell-type·projection 해상도로 발굴. [[kim-2024-normative-framework-dissociates-need|LH LepR=Motivation]]·[[jung-2024-dopamine-mediated-formation-of-a|NAc state-value]]를 cell-type 지도로 확장.
+> 사용자 lab 이론 [[concept-need-motivation-pleasure-utility|NMPU]](Need·Motivation·Pleasure·Utility)의 두 핵심 노드 **lateral hypothalamus(LH, Motivation)** 와 **nucleus accumbens(NAc, Pleasure/state-value)** 에서, **활성↔분자정체↔투사↔인과**를 한 파이프라인으로 잇는다. 도구 3종을 역할 분담: **[[xu-2020-behavioral-state-coding-by|CaRMA]]**(활성 뉴런에 분자정체 부여)·**[[wang-2026-multimodal-alignments-of-in|TRU-FACT]]**(+MERFISH·projection·통계·freely-behaving)로 **발굴** → **[[hyun-2022-tagging-active-neurons-by|Cal-Light]]**(NMPU epoch 활성 태깅)로 **인과 검증**. 목표: LH·NAc의 어떤 **분자 세포타입이 어떤 NMPU 성분을 담당**하는지 cell-type·projection 해상도로 발굴. [[kim-2024-normative-framework-dissociates-need|LH LepR=Motivation]]·[[jung-2024-dopamine-mediated-formation-of-a|NAc state-value]]를 cell-type 지도로 확장.
 
 # [연구계획서] LH·NAc의 NMPU 식욕 담당 신경 발굴
 
 ## 1. 연구 제목
-**외측시상하부·측좌핵의 NMPU(Need–Motivation–Pleasure–Utility) 식욕 담당 신경 발굴: 활성–분자정체–투사 정합(CaRMA·TRU-FACT)과 활성 의존 태깅(Cal-Light)의 통합 파이프라인**
+**lateral hypothalamus·nucleus accumbens의 NMPU(Need–Motivation–Pleasure–Utility) 식욕 담당 신경 발굴: 활성–분자정체–투사 정합(CaRMA·TRU-FACT)과 활성 의존 태깅(Cal-Light)의 통합 파이프라인**
 
 ## 2. 배경 및 필요성
 - **NMPU framework**: 식욕·동기를 4 성분으로 분해([[kim-2024-unified-theoretical-framework-underlying-regulation|BioEssays 2024]]·[[concept-need-motivation-pleasure-utility]]). 마우스 검증: **AgRP=Need, [[lee-2023-lateral-hypothalamic-leptin-receptor|LH LepR=Motivation]]**([[kim-2024-normative-framework-dissociates-need|Sci Adv 2024]]), NAc=Pleasure.
@@ -59,7 +59,7 @@ flowchart LR
 
 ### Aim 1 — LH: NMPU 성분별 세포타입·투사 발굴 *(CaRMA + TRU-FACT)*
 - **과제**: NMPU 성분을 분리하는 섭식 패러다임(공복=Need / 노력·seeking=Motivation / palatable consummatory=Pleasure / 가치-비용=Utility; [[liu-2026-granular-motivational-interaction-and|granular states]] 활용).
-- **방법**: GRIN microendoscope Ca²⁺ 영상 중 행동 → **CaRMA**(사후 RNA-FISH로 LepR/Vgat/Vglut2/Hcrt/Pmch/Gal/Nts 정체) + **TRU-FACT**(MERFISH high-plex + retroAAV barcode로 **투사 표적**: VTA·NAc·PVN·뇌간).
+- **방법**: GRIN microendoscope Ca²⁺ 영상 중 행동 → **CaRMA**(사후 RNA-FISH로 LepR/Vgat/Vglut2/Hcrt/Pmch/Gal/Nts 정체) + **TRU-FACT**(MERFISH high-plex + retroAAV barcode로 **투사 표적**: VTA·NAc·PVN·brainstem).
 - **성공지표**: "Motivation-tuned LH 뉴런 = 어떤 분자형·어디로 투사" 지도. [[kim-2024-normative-framework-dissociates-need|LH LepR=Motivation]]의 세포타입·회로 해상도 확장.
 
 ### Aim 2 — NAc: Pleasure/state-value 세포타입·입출력 발굴 *(CaRMA + TRU-FACT)*

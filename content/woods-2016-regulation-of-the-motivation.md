@@ -30,8 +30,8 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - 인공감미료·HFCS는 distal cue의 신뢰도를 떨어뜨려 과식·대사질환 위험↑.
 
 ### Homeostatic ↔ Non-homeostatic: 거의 모든 노드에서 crosstalk (Fig 1–2)
-- **과거 통설**: homeostatic(시상하부·NTS)와 non-homeostatic(보상) 회로가 분리, hindbrain 운동출력 직전에만 통합.
-- **현재**: cell-type·수용체 매핑 결과 거의 모든 노드에서 광범위 crosstalk. 예) leptin·insulin 수용체가 [[concept-dopamine-reward-system|VTA]]·피질·해마에도 존재 → VTA의 hedonic 신호를 dampening.
+- **과거 통설**: homeostatic(hypothalamus·NTS)와 non-homeostatic(보상) 회로가 분리, hindbrain 운동출력 직전에만 통합.
+- **현재**: cell-type·수용체 매핑 결과 거의 모든 노드에서 광범위 crosstalk. 예) leptin·insulin 수용체가 [[concept-dopamine-reward-system|VTA]]·cortex·hippocampus에도 존재 → VTA의 hedonic 신호를 dampening.
 
 ### Homeostatic 회로 (Fig 3)
 - **Adiposity 신호**: leptin·insulin(체지방 비례, BBB 통과) → [[concept-arcuate-nucleus|ARC]].
@@ -42,8 +42,8 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 
 ### Non-homeostatic 회로
 - VTA→[[concept-nucleus-accumbens|NAc]] 도파민 보상; Berridge **[[concept-liking-wanting|liking/wanting]]**.
-- **[[concept-lateral-hypothalamus|LH]]** = 단순 "hunger center"가 아니라 **항상성·보상 통합 hub**: orexin → VTA → NAc; LH → PVT(시상 실방핵). 각성·vigilance와 음식 보상가치 통합(Sakurai).
-- **스트레스성 섭식(comfort food)**: 편도·피질 회로가 기호식 소비로 스트레스 반응을 dampening → 강화. 반복 시 편도 시냅스 강화(Ulrich-Lai). → [[tomiyama-2019-stress-and-obesity]]·[[concept-bed-nucleus-stria-terminalis]]와 연결.
+- **[[concept-lateral-hypothalamus|LH]]** = 단순 "hunger center"가 아니라 **항상성·보상 통합 hub**: orexin → VTA → NAc; LH → PVT(paraventricular thalamus). 각성·vigilance와 음식 보상가치 통합(Sakurai).
+- **스트레스성 섭식(comfort food)**: amygdala·cortex 회로가 기호식 소비로 스트레스 반응을 dampening → 강화. 반복 시 amygdala 시냅스 강화(Ulrich-Lai). → [[tomiyama-2019-stress-and-obesity]]·[[concept-bed-nucleus-stria-terminalis]]와 연결.
 
 ### set-point/homeostasis 용어 비판
 - Ramsay & Woods 2014: set-point·central controller·error-signal 용어는 오해 소지. 체지방·체온 수준은 **모든 영향의 균형(balance)**이지 고정 목표가 아님 → 사용자의 **Need=예측된 결핍**(고정 결핍 아님) 관점과 정합.

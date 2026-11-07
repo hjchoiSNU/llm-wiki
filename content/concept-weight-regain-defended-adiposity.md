@@ -21,7 +21,7 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 |---|---|---|
 | [[aronne-2023-continued-treatment-with-tirzepatide-for\|SURMOUNT-4]] | 티르제파타이드 36주(−20.9%) 후 위약 전환 | 52주간 **+14.0%** (지속군 −5.5%, 군간 차 −19.4%p) |
 | [[barros-2026-from-diet-to-hypothalamic-dysfunction\|Barros 2026]]이 인용한 Wang 2026 (**3차 인용, 원논문 미확보**) | 세마글루타이드 중단 | **여성 28명 전향 연구에서 71.4%가 중단 12주 내 유의한 체중 재증가** — 재증가한 *사람의 비율*이지 재증가한 *체중의 %가 아님*. 재증가 폭은 이 출처로 말할 수 없다. |
-| [[hankir-2015-distinctive-striatal-dopamine-signaling-after\|Hankir 2015]] | 다이어트 vs 위우회술 | 다이어트만 **중변연계 도파민 tone 우세 → 요요**; RYGB는 등쪽 우세로 재설정 |
+| [[hankir-2015-distinctive-striatal-dopamine-signaling-after\|Hankir 2015]] | 다이어트 vs 위우회술 | 다이어트만 **중limbic system 도파민 tone 우세 → 요요**; RYGB는 dorsal 우세로 재설정 |
 
 > 유지 지표를 기록할 때는 **"감량분의 몇 %를 유지했는가"** 와 **"기저 대비 최종 체중"** 을 구분할 것. SURMOUNT-4에서 위약군도 종료 시점에 기저 대비 −9.9%였다(legacy effect 논쟁).
 
@@ -39,8 +39,8 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 ### 함께 읽을 축
 - **호르몬 래치**: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]] — ghrelin이 켠 시냅스 상태가 호르몬이 사라진 뒤에도 유지되고, **leptin이 POMC 오피오이드를 통해서만** 끈다. → [[concept-circuit-bistability-hysteresis|set point가 아니라 set range]].
 - **AgRP가 감량 자체에도 필요**: [[davila-2026-agrp-neurons-are-required-for|d'Ávila 2026]] — 세마글루타이드는 AgRP를 **모집**하며, AgRP 회로가 망가지면 식이 억제는 남되 **체중 감량이 무너지고 기저 체중으로 rebound**(암컷 특이). 즉 AgRP는 **감량과 재증가 양쪽의 관문**이다.
-- **microbiota·담즙산 reset 실패**: [[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] — 중단 시 microbiota·SCFA·TGR5·시상하부 AgRP/POMC가 **동시에** 원상 복귀.
-- **보상계 재설정 방향**: [[hankir-2015-distinctive-striatal-dopamine-signaling-after|Hankir 2015]] — 감량 *방식*이 선조체 도파민 tone의 방향을 가른다.
+- **microbiota·담즙산 reset 실패**: [[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] — 중단 시 microbiota·SCFA·TGR5·hypothalamus AgRP/POMC가 **동시에** 원상 복귀.
+- **보상계 재설정 방향**: [[hankir-2015-distinctive-striatal-dopamine-signaling-after|Hankir 2015]] — 감량 *방식*이 striatum 도파민 tone의 방향을 가른다.
 - **쾌락 가치의 변화**: [[concept-hedonic-devaluation]] — 만성 고지방식·비만에서의 쾌락 가치 하락과 그 회복.
 
 ### 상류 세포체를 끄면 12주 동안 유지된다 ★
@@ -98,4 +98,4 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[nusinovich-2026-going-beyond-glp-1]] — 특집 서문이 '재증가를 막으려 약에 계속 의존해야 하는가'를 중심 긴장으로 세운다.
 - [[shadlen-2026-expanding-global-access-to]] — 차세대 약의 기대 이점으로 '중단 후 재증가 감소'가 꼽힌다(시장이 값을 치르는 속성).
 - [[volkow-2026-glp-1-receptor-agonists-in]] — 중독에서도 중단 후 재발·유지 전략이 같은 구조의 미해결 질문.
-- [[horvath-2026-hypothalamus-driven-brain-health-through]] — ⚠️ **설정점 틀과 긴장하는 관점**: 생물학적 목표는 방어되는 값(constancy)이 아니라 **지속 적응**이라고 본다([[concept-metabolic-flexibility]] §4). 치료 함의는 직접적이다 — 칼로리 제한(배고픔 적응 프로그램)과 약리적 포만(semaglutide)이 같은 감량을 내도 **같은 시상하부·면역·생체에너지 상태가 아닐 수 있다**.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — ⚠️ **설정점 틀과 긴장하는 관점**: 생물학적 목표는 방어되는 값(constancy)이 아니라 **지속 적응**이라고 본다([[concept-metabolic-flexibility]] §4). 치료 함의는 직접적이다 — 칼로리 제한(배고픔 적응 프로그램)과 약리적 포만(semaglutide)이 같은 감량을 내도 **같은 hypothalamus·면역·생체에너지 상태가 아닐 수 있다**.

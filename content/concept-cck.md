@@ -7,7 +7,7 @@ aliases: [CCK, cholecystokinin]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **인간에서 6가지 physiological criteria를 모두 충족하는 유일한 endocrine satiation 신호.** 단백질·long-chain FA → I-cell 영양소 감지 → vagal afferent → 뇌간 NTS의 회로가 paradigmatic. 식사 단위 시간척도 회로 연구의 표준 entry point — 광유전 ghrelin과 마주 보는 짝.
+> **인간에서 6가지 physiological criteria를 모두 충족하는 유일한 endocrine satiation 신호.** 단백질·long-chain FA → I-cell 영양소 감지 → vagal afferent → brainstem NTS의 회로가 paradigmatic. 식사 단위 시간척도 회로 연구의 표준 entry point — 광유전 ghrelin과 마주 보는 짝.
 
 # Cholecystokinin (CCK)
 
@@ -26,7 +26,7 @@ aliases: [CCK, cholecystokinin]
 - 간접 자극: pancreatic monitor peptide / intestinal CCK-releasing factor (단백분해 효소가 단백질·지방에 결합되어 CCK-RF 분해가 줄면 CCK 분비 ↑).
 
 ## 수용체
-- **CCK1R** (=CCKAR): 말초 우세 + 뇌간(NTS, area postrema). 7-aa C-말단 + tyrosine sulfation 필요. **식욕 억제와 위 배출 지연의 주 매개**.
+- **CCK1R** (=CCKAR): 말초 우세 + brainstem(NTS, area postrema). 7-aa C-말단 + tyrosine sulfation 필요. **식욕 억제와 위 배출 지연의 주 매개**.
 - **CCK2R** (=gastrin receptor): 말초 + 중추 광범위. 미술포화 헥사펩타이드 인식. CCK-8이 신경전달물질.
 
 ## 작용

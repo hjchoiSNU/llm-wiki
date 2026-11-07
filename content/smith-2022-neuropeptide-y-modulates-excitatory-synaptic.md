@@ -1,5 +1,5 @@
 ---
-title: "NPY가 측좌핵 흥분성 시냅스 전달을 조절하고 사회행동을 촉진"
+title: "NPY가 nucleus accumbens 흥분성 시냅스 전달을 조절하고 사회행동을 촉진"
 type: paper
 created: 2026-07-05
 updated: 2026-07-05
@@ -11,7 +11,7 @@ year: 2022
 > [!takeaway] 연구 방향 관점의 핵심
 > NPY가 NAc shell의 D1/D2 MSN 흥분성 시냅스를 **수용체·세포타입 특이적(Y1r/Y5r=강화, Y2r=억제)**으로 재조율하고, NAc 내 NPY 주입만으로 **사회 상호작용을 증가**시킨다. 특히 DPP-IV 억제제(sitagliptin, incretin 약물)가 NPY 신호를 Y1r 우세로 이동시킨다는 점은 NPY 시냅스 튜닝을 **기존 대사약물로 약리 조작**하는 번역 전략을 제시.
 
-# NPY가 측좌핵 흥분성 시냅스 전달을 조절하고 사회행동을 촉진
+# NPY가 nucleus accumbens 흥분성 시냅스 전달을 조절하고 사회행동을 촉진
 
 ## 한 줄 요약
 [[concept-nucleus-accumbens|NAc]] shell에서 NPY가 [[concept-medium-spiny-neuron|MSN]] 세포타입별로 흥분성 시냅스를 양방향(Y1r/Y5r↑, Y2r↓) 조절하고, NAc 내 NPY/Y1r 작용제 주입이 사회 상호작용을 늘리며, DPP-IV 억제가 균형을 Y1r 우세로 이동시킨다(whole-cell patch + 행동, Neuropharmacology 2022).

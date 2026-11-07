@@ -7,7 +7,7 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **in vivo 기능 영상(무엇을 하는가)** 과 **공간전사체/scRNA-seq(누구인가)** 를 같은 뉴런에서 잇는 방법론 — 기능 동역학을 분자 cell-type·투사 정체에 매핑한다. 사용자에게 결정적: GRIN·miniscope로 기록하는 **시상하부 feeding 회로 뉴런(AgRP/POMC/LH LepR 등)에 사후 분자정체를 부여** → [[concept-hypomap|인간/마우스 atlas]]와 functional dynamics를 연결하고, [[concept-need-motivation-pleasure-utility|NMPU]] 4축을 세포타입에 mapping하는 [[proposal-nmpu-human-translation|NMPU 인간 번역]]의 핵심 측정 기술. 위키에 두 구현이 있다: **CaRMA**([[xu-2020-behavioral-state-coding-by|Sternson 2020]], 칼슘+RNA-FISH 직접) vs **TRU-FACT**([[wang-2026-multimodal-alignments-of-in|Schnitzer 2026]], 범용·통계적·투사 포함).
+> **in vivo 기능 영상(무엇을 하는가)** 과 **공간전사체/scRNA-seq(누구인가)** 를 같은 뉴런에서 잇는 방법론 — 기능 동역학을 분자 cell-type·투사 정체에 매핑한다. 사용자에게 결정적: GRIN·miniscope로 기록하는 **hypothalamus feeding 회로 뉴런(AgRP/POMC/LH LepR 등)에 사후 분자정체를 부여** → [[concept-hypomap|인간/마우스 atlas]]와 functional dynamics를 연결하고, [[concept-need-motivation-pleasure-utility|NMPU]] 4축을 세포타입에 mapping하는 [[proposal-nmpu-human-translation|NMPU 인간 번역]]의 핵심 측정 기술. 위키에 두 구현이 있다: **CaRMA**([[xu-2020-behavioral-state-coding-by|Sternson 2020]], 칼슘+RNA-FISH 직접) vs **TRU-FACT**([[wang-2026-multimodal-alignments-of-in|Schnitzer 2026]], 범용·통계적·투사 포함).
 
 # 활성–분자정체 정합 (Activity–Molecular Registration)
 
@@ -29,7 +29,7 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 ### TRU-FACT (Total Registration Under Functional Activity, Connectivity, Transcriptomics) — [[wang-2026-multimodal-alignments-of-in|Wang/Schnitzer 2026]]
 - **Optomechanical tissue-handling**(6 자유도 평행화) + **Soma-print**(이웃 기하 graph fingerprint 매칭) + **per-match 통계**(확률·p·likelihood ratio).
 - 2P·microendoscope·microprism·**mesoscope·freely-behaving miniature 2P** ↔ **HCR-FISH·MERFISH** + **RNA-barcode retroAAV projection**.
-- 신피질에서 10,522 cells 정합(precision 98%·recall 97%). 범용·대규모·통계적 신뢰도·투사 포함.
+- neocortex에서 10,522 cells 정합(precision 98%·recall 97%). 범용·대규모·통계적 신뢰도·투사 포함.
 
 ## 비교
 | | CaRMA (Xu 2020) | TRU-FACT (Wang 2026) |
@@ -40,12 +40,12 @@ aliases: [activity-molecular registration, CaRMA, TRU-FACT, calcium-RNA registra
 | 규모 | PVH 수백 뉴런 | **10,522 cells**·13 mice |
 | freely-behaving | (head-fixed) | **지원**(miniature 2P) |
 | 신뢰도 지표 | — | **per-cell p·likelihood** |
-| 시연 영역 | 시상하부 PVH | 신피질(심부 prep 기술 적용 가능) |
+| 시연 영역 | hypothalamus PVH | neocortex(심부 prep 기술 적용 가능) |
 
 > 주의: bioRxiv 파일이 "CaRMA"로 명명됐으나 **그 논문의 방법은 TRU-FACT**다(CaRMA는 Xu 2020). 두 방법은 같은 목표의 별개 구현.
 
 ## 사용자 lab 함의
-- 시상하부 feeding 회로 in vivo 영상([[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]]·[[cheon-2025-lateral-hypothalamus-and-eating-cell|LH]])에 **분자 cell-type·projection 부여** → atlas([[concept-hypomap]]·[[littleton-2025-from-identity-to-function-unveiling]])와 활성 연결.
+- hypothalamus feeding 회로 in vivo 영상([[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]]·[[cheon-2025-lateral-hypothalamus-and-eating-cell|LH]])에 **분자 cell-type·projection 부여** → atlas([[concept-hypomap]]·[[littleton-2025-from-identity-to-function-unveiling]])와 활성 연결.
 - [[proposal-nmpu-human-translation|NMPU 인간 번역]] Aim의 측정 backbone: Need/Motivation/Pleasure/Utility 활성을 세포타입에 mapping.
 
 ## 인접 계열 — 활성 의존 태깅 (prospective)

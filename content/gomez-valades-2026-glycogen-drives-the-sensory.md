@@ -25,7 +25,7 @@ year: 2026
 ### 핵심 발견
 - **감각(sight/smell) 활성 = 글리코겐 의존**: POMC에서 글리코겐 합성(Gys1) 또는 분해 조절(Ppp1r3c)을 교란하면 음식 감각 cue에 대한 POMC 활성이 선택적으로 사라짐.
 - **선택성**: 글루코스·[[concept-ghrelin|ghrelin]] 등 체액성 신호에 대한 POMC 반응은 보존 → sensory branch 전용 연료.
-- **감각 modality(해부 근거)**: ARC에 pseudorabies virus(PRV)를 주입한 다시냅스 추적에서 **후각 영역**(anterior olfactory area, 대각선조 복측지 핵)에는 연결이 검출됐고 **시각피질에서는 검출되지 않았다**. ⚠️ 이는 "anatomical connectivity"의 유무이지 두 modality의 **기여 크기를 기능적으로 비교한 결과가 아니다** — 시각·후각 cue를 분리 조작한 실험은 없으므로 "후각이 시각보다 주로 구동한다"로 인용하지 말 것.
+- **감각 modality(해부 근거)**: ARC에 pseudorabies virus(PRV)를 주입한 다시냅스 추적에서 **후각 영역**(anterior olfactory area, 대각선조 ventral limb 핵)에는 연결이 검출됐고 **시각cortex에서는 검출되지 않았다**. ⚠️ 이는 "anatomical connectivity"의 유무이지 두 modality의 **기여 크기를 기능적으로 비교한 결과가 아니다** — 시각·후각 cue를 분리 조작한 실험은 없으므로 "후각이 시각보다 주로 구동한다"로 인용하지 말 것.
 - **국소성**: 글리코겐 풀이 POMC **축삭 투사(예: PVN 표적부)** 에 위치 — 말단에서 빠른 활성에 즉시 동원.
 - **하류 생리**: sensory POMC 활성 결손 → **[[concept-cephalic-phase-response|cephalic-phase insulin release(CPIR)]] 감소**, 간 **AKT–mTOR** 신호·포도당 처리 손상, **[[concept-appetitive-consummatory-phases|consummatory(소비기)]] 섭식** 변화.
 - **장기 결과(조건부)**: **표준식·젊은 성체에서는 체중·혈당이 대조군과 차이 없고**, 정상 내당능 하의 경미한 인슐린 저항성 = **prediabetic 상태**에 머문다. **고칼로리 식이 또는 노화**가 더해질 때 비로소 과체중·지방량↑·공복 고혈당·현성 당뇨로 진행(원문 초록: "progresses into overweight and overt diabetes **with a high-calorie diet or ageing**").
@@ -39,7 +39,7 @@ year: 2026
 ## 한계·주의 (원본 확인)
 - **조건 의존성**: 비만·당뇨로의 진행은 **고칼로리 식이 또는 노화**가 더해질 때만 관찰된다. 표준식 젊은 성체에서는 체중·혈당 정상이고 경미한 인슐린 저항성만 있다.
 - **성별·종**: 보고된 모든 실험이 **성체 수컷 마우스**(3–7개월) 단독. 성차 미검정이며 **인간 데이터 없음**.
-- **발달 혼입은 상당 부분 통제됨**(한계가 아니라 강점으로 읽어야 하는 항목): Cre 발현이 배아 후기부터 검출되지만, ARC의 POMC 세포 수·분포가 동등하고, iDISCO+/TrailMap 전뇌 투사 지도에서 starter 세포 수와 투사 밀도(특히 PVH)가 유전형 간 동등하며, **성체기 shRNA(Gys1·Ppp1r3c) 녹다운이 표현형을 재현**하고 **MGS 재도입이 rescue**한다. 다만 mutant에서 **PVH 시냅스 밀도 감소**는 관찰되므로 하류 구조적 연결성 변화 자체는 존재한다.
+- **발달 혼입은 상당 부분 통제됨**(한계가 아니라 강점으로 읽어야 하는 항목): Cre 발현이 배아 후기부터 검출되지만, ARC의 POMC 세포 수·분포가 동등하고, iDISCO+/TrailMap forebrain 투사 지도에서 starter 세포 수와 투사 밀도(특히 PVH)가 유전형 간 동등하며, **성체기 shRNA(Gys1·Ppp1r3c) 녹다운이 표현형을 재현**하고 **MGS 재도입이 rescue**한다. 다만 mutant에서 **PVH 시냅스 밀도 감소**는 관찰되므로 하류 구조적 연결성 변화 자체는 존재한다.
 - **인과 사슬의 남은 빈 칸**: 급성 화학유전 POMC 억제(hM4Di)가 consummatory 결손·CPIR 저하를 phenocopy하므로 **단기 표현형**은 감각 활성 소실로 귀속할 수 있다. 그러나 **만성 대사 표현형(비만·당뇨)은 글리코겐 결손 모델에서만 측정**돼, 감각 활성 소실 경로만의 기여로 분리되지는 않았다.
 → [[concept-pomc-neurons]] · [[concept-cephalic-phase-response]]
 

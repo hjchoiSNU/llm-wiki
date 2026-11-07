@@ -10,12 +10,12 @@ journal: Reviews in Endocrine and Metabolic Disorders
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 모체 비만이 자손의 시상하부 회로 발달을 **분자·회로·sex 특이적**으로 reshape — 비만의 transgenerational 매개. **6 메커니즘**: neuroinflammation, fatty acid·ER stress, BBB/tanycyte, leptin postnatal surge, insulin, epigenetics. 사용자 lab의 임상(서울대 비만 환자)에서 modifiable preconception 인자로서 직접 함의. Quarta lab의 두 번째 작품 — Ghost POMC와 함께 POMC plasticity 시리즈.
+> 모체 비만이 자손의 hypothalamus 회로 발달을 **분자·회로·sex 특이적**으로 reshape — 비만의 transgenerational 매개. **6 메커니즘**: neuroinflammation, fatty acid·ER stress, BBB/tanycyte, leptin postnatal surge, insulin, epigenetics. 사용자 lab의 임상(서울대 비만 환자)에서 modifiable preconception 인자로서 직접 함의. Quarta lab의 두 번째 작품 — Ghost POMC와 함께 POMC plasticity 시리즈.
 
 # Early-life programming of hypothalamic circuits by maternal obesity
 
 ## 한 줄 요약
-임신 전·중·수유기 모체 obesogenic 환경이 자손 시상하부 회로 (특히 melanocortin·PVN·LH·kisspeptin)의 발달을 sex-dependent 방식으로 손상 → 비만·대사·생식·스트레스 dysregulation lifelong 위험. Quarta lab.
+임신 전·중·수유기 모체 obesogenic 환경이 자손 hypothalamus 회로 (특히 melanocortin·PVN·LH·kisspeptin)의 발달을 sex-dependent 방식으로 손상 → 비만·대사·생식·스트레스 dysregulation lifelong 위험. Quarta lab.
 
 ## 역학 / 임상
 
@@ -73,7 +73,7 @@ ARC melanocortin system (POMC vs AgRP/NPY + MC3R·MC4R)이 가장 sensitive. PVN
 - Melatonin이 obese dam 처치 시 NPY ↑·POMC ↓ 정상화.
 
 ### 2. Fatty acid · ER stress
-- 모체 SFA → fetal 시상하부 통과.
+- 모체 SFA → fetal hypothalamus 통과.
 - Newborn hypothalamic mean diffusivity ↑ → 5세 child fat ↑.
 - ATF4·GRP78 ↑ in POMC·AgRP (P10).
 - **TUDCA (chemical chaperone)** 처치가 POMC projection·leptin sensitivity 복원 (Park 2020) — 약물 path.

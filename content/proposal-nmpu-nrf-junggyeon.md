@@ -43,7 +43,7 @@ NMPU 4 component(Need·Motivation·Pleasure·Utility)의 **인간 신경 substra
 | 연차 | 목표 | 대응 Aim |
 |---|---|---|
 | **1–2년** | 4축을 분리하는 계산모델 + 인간 행동 패러다임 확립 | Aim 1 |
-| **2–4년** | 7T fMRI로 4축의 비침습 신경 지도(시상하부 아핵 포함) | Aim 2 |
+| **2–4년** | 7T fMRI로 4축의 비침습 신경 지도(hypothalamus 아핵 포함) | Aim 2 |
 | **3–5년** | 인간 침습 전기생리 component biomarker + NHP 세포 접지 | Aim 3 |
 
 ## 4. 연구개발 내용 및 방법 (연차별)
@@ -53,17 +53,17 @@ NMPU 4 component(Need·Motivation·Pleasure·Utility)의 **인간 신경 substra
 - **성공지표**: 4 component identifiable 분리(parameter recovery 통과) + 행동 readout.
 
 ### Aim 2 (2–4년) — 7T fMRI 비침습 매핑
-- **내용**: 건강인+비만([[lee-2023-obesity-mechanism-after-hypothalamic|HD 코호트]] 포함)에서 7T로 시상하부 아핵(ARC/DMH/LH) 분해, 4축 가설 매핑([[bae-2019-glucagon-like-peptide-1-receptor]]·[[thanarajah-2019-food-intake-recruits-orosensory]] 패러다임).
+- **내용**: 건강인+비만([[lee-2023-obesity-mechanism-after-hypothalamic|HD 코호트]] 포함)에서 7T로 hypothalamus 아핵(ARC/DMH/LH) 분해, 4축 가설 매핑([[bae-2019-glucagon-like-peptide-1-receptor]]·[[thanarajah-2019-food-intake-recruits-orosensory]] 패러다임).
 - **성공지표**: 마우스 유래 축 배정의 인간 재현(또는 인간 특이 재배치 정량).
 
 ### Aim 3 (3–5년) — 인간 침습 + NHP 접지
-- **내용**: 이식 전극 환자([[person-halpern-casey|Halpern]] 협업) NAc·OFC·(가능 시)시상하부 기록으로 component biomarker 검증; [[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]] 단일뉴런으로 세포 접지.
+- **내용**: 이식 전극 환자([[person-halpern-casey|Halpern]] 협업) NAc·OFC·(가능 시)hypothalamus 기록으로 component biomarker 검증; [[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]] 단일뉴런으로 세포 접지.
 - **성공지표**: 4축 인간 침습 biomarker 확립 + NHP 정합.
 
 ## 5. 연구 추진전략 및 위험관리
 - **전략**: 계산모델(Aim1)→비침습 영상(Aim2)→침습·세포(Aim3)의 해상도 상향. 마우스·NHP·인간 종간 삼각.
 - **위험·대응**:
-  - 인간 시상하부 심부·소형 → 7T fMRI·NHP 세포 접지.
+  - 인간 hypothalamus 심부·소형 → 7T fMRI·NHP 세포 접지.
   - component 표상 중첩([[liu-2026-granular-motivational-interaction-and]]) → 과제 직교화 + 모델 identifiability 분석.
   - 인간 iEEG 접근 제한([[person-halpern-casey]]) → 수술 환자 piggyback·국제 협업.
 

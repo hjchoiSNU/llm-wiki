@@ -7,12 +7,12 @@ aliases: [Scott Sternson, S.M. Sternson]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 시상하부 섭식 회로를 **"어떤 뉴런이 무엇을 계산하는가"** 수준으로 끌어올린 그룹. 본 위키에는 세 축으로 등장한다 — **출력 배선의 병렬·중복 원리**([[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]]), **시냅스가 배고픔 상태를 기억한다는 flip-flop 모델**([[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]), **PVH 세포타입 앙상블의 행동상태 부호화와 CaRMA 영상**([[xu-2020-behavioral-state-coding-by|Xu 2020]]). 사용자 lab 관점에서 특히 값어치 있는 것은 **회로를 공학적 논리(래치·병렬 중복·앙상블 부호)로 기술하는 어법** 자체다 — [[concept-need-motivation-pleasure-utility|NMPU]]처럼 계산 수준의 이론을 세우려는 작업에 그대로 쓰인다.
+> hypothalamus 섭식 회로를 **"어떤 뉴런이 무엇을 계산하는가"** 수준으로 끌어올린 그룹. 본 위키에는 세 축으로 등장한다 — **출력 배선의 병렬·중복 원리**([[betley-2013-parallel-redundant-circuit-organization-for|Betley 2013]]), **시냅스가 배고픔 상태를 기억한다는 flip-flop 모델**([[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]), **PVH 세포타입 앙상블의 행동상태 부호화와 CaRMA 영상**([[xu-2020-behavioral-state-coding-by|Xu 2020]]). 사용자 lab 관점에서 특히 값어치 있는 것은 **회로를 공학적 논리(래치·병렬 중복·앙상블 부호)로 기술하는 어법** 자체다 — [[concept-need-motivation-pleasure-utility|NMPU]]처럼 계산 수준의 이론을 세우려는 작업에 그대로 쓰인다.
 
 # Scott M. Sternson
 
 - **소속**: Janelia Farm Research Campus, HHMI (본 위키 수록 논문 당시) → 이후 University of California, San Diego / HHMI.
-- **분야**: 시상하부 섭식·항상성 회로. 세포타입 특이 광유전·화학유전, 회로 매핑, 심부 2-광자 영상, 활성–분자정체 정합.
+- **분야**: hypothalamus 섭식·항상성 회로. 세포타입 특이 광유전·화학유전, 회로 매핑, 심부 2-광자 영상, 활성–분자정체 정합.
 
 ## 본 위키 수록 작업
 
@@ -37,4 +37,4 @@ aliases: [Scott Sternson, S.M. Sternson]
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — Lowell lab이 Yang 2011의 **전시냅스 해석을 기각**한 논문. 두 그룹이 같은 현상을 다르게 읽는 위키 내 대표 사례.
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 네 번째 축: **두꺼운 조직 공간전사(EASI-FISH)로 LHA 9개 분자 하위구역을 정의**했다(Tillberg와 공동 교신, bioRxiv 2021 → Cell 2021). 'LHA에는 해부 구획이 없다'는 통념에 맞선 분자 지도다.
-- [[zhu-2025-hedonic-eating-is-controlled-by]] — 네 번째 축 — 시상하부 항상성 회로에서 **중뇌 보상(VTA DA)** 으로 확장. 소비 국면 전용 폐루프 조작으로 "도파민 자극이 섭취를 줄인다"는 선행 모순을 해소.
+- [[zhu-2025-hedonic-eating-is-controlled-by]] — 네 번째 축 — hypothalamus 항상성 회로에서 **midbrain 보상(VTA DA)** 으로 확장. 소비 국면 전용 폐루프 조작으로 "도파민 자극이 섭취를 줄인다"는 선행 모순을 해소.

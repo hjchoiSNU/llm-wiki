@@ -10,7 +10,7 @@ updated: 2026-10-03
 
 # [중견연구·상세] LH·NAc의 NMPU 식욕 담당 신경 발굴
 
-- **국문 과제명**: 외측시상하부·측좌핵의 NMPU 식욕 담당 신경 발굴 — 활성–분자정체–투사 정합(CaRMA·TRU-FACT)과 활성 의존 태깅(Cal-Light)의 통합 파이프라인
+- **국문 과제명**: lateral hypothalamus·nucleus accumbens의 NMPU 식욕 담당 신경 발굴 — 활성–분자정체–투사 정합(CaRMA·TRU-FACT)과 활성 의존 태깅(Cal-Light)의 통합 파이프라인
 - **영문 과제명**: Discovering NMPU appetite-coding neurons in the lateral hypothalamus and nucleus accumbens by integrating activity–molecular–projection registration (CaRMA, TRU-FACT) with activity-dependent tagging (Cal-Light)
 - **사업유형**: 개인기초연구 — **중견연구** (5년, 연 3억원 이내 가정) · **연구책임자**: [[person-choi-hyung-jin|최형진]] (서울대 의대)
 - **연구분야**: 신경과학 / 식욕·동기 회로 / 분자-기능 정합 방법론
@@ -20,13 +20,13 @@ updated: 2026-10-03
 ## 1. 연구개발과제의 필요성 (배경)
 
 ### 1-1. 식욕·동기의 다요소 분해 — NMPU 패러다임
-식욕은 단일 "배고픔"이 아니라 분리 가능한 심리·신경 성분의 합이다. 연구책임자 lab은 이를 **Need(예측된 에너지 결핍) · Motivation(행동 추동) · Pleasure(쾌락) · Utility(가치-비용 통합)** 4 성분으로 분해한 **NMPU framework**를 제안했다([[kim-2024-unified-theoretical-framework-underlying-regulation|Kim et al. 2024, BioEssays]]·[[concept-need-motivation-pleasure-utility]]). 이 분해는 단순 이론이 아니라 **정량 검증**되었다 — normative model fitting + 광유전학으로 **궁상핵(ARC) AgRP=Need**(motivation 아님), **외측시상하부(LH) LepR=Motivation**임을 분리 입증했다([[kim-2024-normative-framework-dissociates-need|Kim et al. 2024, Science Advances]]). 동시대 연구들도 동기를 입자화된 상태열(seeking→approach→investigation→sustained eating→satiation→aversion)로 분해하며([[liu-2026-granular-motivational-interaction-and|Liu & Wang 2026, Neuron]]) 수렴하고 있다.
+식욕은 단일 "배고픔"이 아니라 분리 가능한 심리·신경 성분의 합이다. 연구책임자 lab은 이를 **Need(예측된 에너지 결핍) · Motivation(행동 추동) · Pleasure(쾌락) · Utility(가치-비용 통합)** 4 성분으로 분해한 **NMPU framework**를 제안했다([[kim-2024-unified-theoretical-framework-underlying-regulation|Kim et al. 2024, BioEssays]]·[[concept-need-motivation-pleasure-utility]]). 이 분해는 단순 이론이 아니라 **정량 검증**되었다 — normative model fitting + 광유전학으로 **arcuate nucleus(ARC) AgRP=Need**(motivation 아님), **lateral hypothalamus(LH) LepR=Motivation**임을 분리 입증했다([[kim-2024-normative-framework-dissociates-need|Kim et al. 2024, Science Advances]]). 동시대 연구들도 동기를 입자화된 상태열(seeking→approach→investigation→sustained eating→satiation→aversion)로 분해하며([[liu-2026-granular-motivational-interaction-and|Liu & Wang 2026, Neuron]]) 수렴하고 있다.
 
 그러나 NMPU의 두 핵심 노드 — **Motivation의 LH**와 **Pleasure/state-value의 NAc** — 가 **어떤 분자 세포타입으로 각 성분을 부호화하는지**는 미해결이다.
 
 ### 1-2. LH·NAc의 세포 다양성과 미해결 문제
 - **LH**는 극도로 이질적이다: LepR·GABA(Vgat)·glutamate(Vglut2)·Hcrt(orexin)·Pmch(MCH)·Gal(galanin)·Nts(neurotensin) 등이 섞여 seeking·consummatory·각성·보상·정서를 분담한다([[concept-lateral-hypothalamus]]·[[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon et al. 2025, EMM]]). LH는 hunger×anxiety×사회성을 중재하는 arbitration hub이기도 하다([[korotkova-2026-balancing-acts-lateral-hypothalamic]]).
-- **NAc**는 D1/D2 medium spiny neuron·ChAT 개재뉴런과 다수 하위형으로 구성되며, 인간에서 loss-of-control eating 직전 저주파 biomarker를 보이고([[shivacharan-2022-pilot-study-of-responsive-nucleus]]·[[concept-nucleus-accumbens]]), 최근 VTA 도파민이 **state-value** 신호로서 NAc에 목표 기억(memory module)을 형성함이 밝혀졌다([[jung-2024-dopamine-mediated-formation-of-a|Jung et al. 2024, Nat Neurosci]]).
+- **NAc**는 D1/D2 medium spiny neuron·ChAT interneuron와 다수 하위형으로 구성되며, 인간에서 loss-of-control eating 직전 저주파 biomarker를 보이고([[shivacharan-2022-pilot-study-of-responsive-nucleus]]·[[concept-nucleus-accumbens]]), 최근 VTA 도파민이 **state-value** 신호로서 NAc에 목표 기억(memory module)을 형성함이 밝혀졌다([[jung-2024-dopamine-mediated-formation-of-a|Jung et al. 2024, Nat Neurosci]]).
 - **핵심 공백**: (i) 어떤 분자형이 어떤 NMPU 성분에 tuning되는가, (ii) 그 세포의 **투사 표적/입력**은 무엇인가, (iii) 그 세포가 식욕에 **인과적**인가 — 세 질문이 동시에 풀린 적이 없다.
 
 ### 1-3. 방법론적 전환점 — 활성·정체·투사·인과의 통합
@@ -89,7 +89,7 @@ GLP-1RA 시대에도 hedonic 과식·약물 무반응·rebound은 미충족 수�
 |---|---|---|---|
 | **D1 MSN** | Pleasure·Motivation(approach)·state-value | VTA-DA→ / →VP·VTA | (발굴; Jung 2024 활성 48% Drd1) |
 | **D2 MSN** | Utility(cost)·avoidance | →VP(indirect) | (발굴) |
-| **ChAT 개재뉴런** | state/salience gating | local | (발굴; Jung 2024 활성도 최고) |
+| **ChAT interneuron** | state/salience gating | local | (발굴; Jung 2024 활성도 최고) |
 
 **그림 1. NMPU 흐름 × LH/NAc 회로 × 방법 적용 개략도**
 ```mermaid
@@ -129,7 +129,7 @@ flowchart LR
 ### Aim 1 (1–2년) — LH: NMPU 성분별 세포타입·투사 발굴
 - **영상**: GRIN microendoscope 1p/2p GCaMP6 volumetric Ca²⁺(본 lab LH microendoscopy 경험 [[lee-2023-lateral-hypothalamic-leptin-receptor]]); freely-behaving은 TRU-FACT 호환 miniature 2p.
 - **분자정체 — CaRMA**: 영상 후 ex vivo↔in vivo 정합 → 반복 다중 RNA-FISH로 **LH 패널**(Lepr·Vgat·Vglut2·Hcrt·Pmch·Gal·Nts·Slc17a6·Gad2 등) 부여. 분자 cluster별 NMPU tuning purity 분석(grouped-ensemble 틀).
-- **투사 — TRU-FACT**: MERFISH high-plex(수백 유전자)로 세포형 정밀화 + **RNA-barcode retroAAV**(VTA·NAc·PVN·뇌간 주입)로 영상 뉴런의 **투사 표적** 동정; soma-print 매칭 + per-cell 통계(p·likelihood).
+- **투사 — TRU-FACT**: MERFISH high-plex(수백 유전자)로 세포형 정밀화 + **RNA-barcode retroAAV**(VTA·NAc·PVN·brainstem 주입)로 영상 뉴런의 **투사 표적** 동정; soma-print 매칭 + per-cell 통계(p·likelihood).
 - **산출**: "Motivation-tuned LH 뉴런 = 분자형 × 투사" 지도; [[kim-2024-normative-framework-dissociates-need|LH LepR=Motivation]]의 세포·회로 해상도 확장 및 신규 세포타입 발굴.
 
 ### Aim 2 (2–4년) — NAc: Pleasure/state-value 세포타입·입출력 발굴

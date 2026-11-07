@@ -6,7 +6,7 @@ updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Halpern은 **인간 측두엽·기저전뇌 침습 전극(sEEG/DBS)으로 식욕·충동·강박의 회로 biomarker를 읽고, 그 biomarker가 뜰 때만 자극하는 closed-loop(responsive) DBS**를 개척한 신경외과의다. 사용자의 시상하부·NMPU 회로 연구가 **동물·세포 수준**에서 동기 회로를 분해한다면, Halpern은 **살아있는 인간 NAc/OFC/insula/해마**에서 동일한 reward 회로의 전기신호를 직접 측정·조작하는 번역의 반대쪽 끝을 채운다. NMPU의 **Pleasure(NAc/IC/VP)** 축과 DTx·electroceutical 임상 라인([[lee-2025-hijacked-brain-modern-obesity-cue]])에 직접 연결되는 인물 hub.
+> Halpern은 **인간 temporal lobe·basal forebrain 침습 전극(sEEG/DBS)으로 식욕·충동·강박의 회로 biomarker를 읽고, 그 biomarker가 뜰 때만 자극하는 closed-loop(responsive) DBS**를 개척한 신경외과의다. 사용자의 hypothalamus·NMPU 회로 연구가 **동물·세포 수준**에서 동기 회로를 분해한다면, Halpern은 **살아있는 인간 NAc/OFC/insula/hippocampus**에서 동일한 reward 회로의 전기신호를 직접 측정·조작하는 번역의 반대쪽 끝을 채운다. NMPU의 **Pleasure(NAc/IC/VP)** 축과 DTx·electroceutical 임상 라인([[lee-2025-hijacked-brain-modern-obesity-cue]])에 직접 연결되는 인물 hub.
 
 # Casey H. Halpern
 
@@ -32,11 +32,11 @@ updated: 2026-09-19
 - **[[wu-2022-local-accumbens-in-vivo]]** (PNAS 2022) — 자극 중 photometry로 NAc D1-MSN ramp가 hedonic feeding을 추진함을 직접 보고, **폐루프 rDBS가 상시 cDBS보다 지속·저용량**임을 입증(rDBS 우월성의 마우스 mechanism).
 - **[[barbosa-2022-aberrant-impulse-control-circuitry]]** (Mol Psychiatry 2022) — vmPFC→NAc shell 충동조절 회로가 비만에서 약화(BMI 역상관·우울 무관); tractography-유도 개인맞춤 NAc-shell rDBS 1례로 LOC↓(이 1례는 [[shivacharan-2022-pilot-study-of-responsive-nucleus]] subject 2의 12주 시점 결과로 판단 — 별도 사례로 합산하지 말 것).
 - **[[mahajan-2022-can-responsive-deep-brain]]** (Obesity 2022) — rDBS가 위우회술 대비 비용효과적이 되는 BMI 감소 임계값(≈13.7–15.2 kg/m²/5년) 모델링.
-- **[[parvizi-2022-complex-negative-emotions-induced]]** (Brain Stimul 2022) — 인간 복내측 시상하부 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발; DBS-for-obesity의 시상하부 정동 부작용 경고. (교신저자는 Josef Parvizi; Halpern은 최종저자로 협력 — 그의 rDBS 프로그램 논문은 아님.)
+- **[[parvizi-2022-complex-negative-emotions-induced]]** (Brain Stimul 2022) — 인간 ventromedial hypothalamus 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발; DBS-for-obesity의 hypothalamus 정동 부작용 경고. (교신저자는 Josef Parvizi; Halpern은 최종저자로 협력 — 그의 rDBS 프로그램 논문은 아님.)
 
 ### 인간 식이 cortex 회로 매핑 (별도 축)
 - **[[huang-2021-the-insulo-opercular-cortex-encodes]]** (Nat Commun 2021) — insulo-opercular cortex가 음식 cue 특이적 고주파 신호를 anticipation·자연 식사에서 encode.
-- **[[barbosa-2023-an-orexigenic-subnetwork-within-the]]** (Nature 2023) — 인간 해마 dlHPC가 LH-MCH 입력을 받는 orexigenic subnetwork; 비만에서 연결성↓.
+- **[[barbosa-2023-an-orexigenic-subnetwork-within-the]]** (Nature 2023) — 인간 hippocampus dlHPC가 LH-MCH 입력을 받는 orexigenic subnetwork; 비만에서 연결성↓.
 
 ### OCD/강박으로의 확장
 - **[[nho-2026-human-orbitofrontal-neural-activity-is]]** (Cell 2026) — trOCD 3인에서 **anteromedial OFC low-gamma**가 증상 biomarker, NAc-VeP 자극이 OFC gamma·증상 동반 감소. closed-loop 논리를 섭식→강박으로 이식.
@@ -56,4 +56,4 @@ updated: 2026-09-19
 - [[concept-dopamine-reward-system]] — NAc는 mesolimbic reward 회로의 핵심 노드; Halpern은 인간에서 그 전기신호를 직접 측정.
 - [[concept-need-motivation-pleasure-utility]] — 사용자 lab 이론의 **Pleasure(NAc)** 축에 인간 침습 데이터 제공.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] · [[concept-digital-therapeutics]] — electroceutical/neuromodulation을 비만 치료 스펙트럼에 두는 사용자 lab 관점과 직접 맞닿음.
-- [[person-choi-hyung-jin]] — 사용자. 동기 회로의 동물·세포 쪽 끝(시상하부·LH·NMPU)을 담당, Halpern은 인간 reward 회로 쪽 끝.
+- [[person-choi-hyung-jin]] — 사용자. 동기 회로의 동물·세포 쪽 끝(hypothalamus·LH·NMPU)을 담당, Halpern은 인간 reward 회로 쪽 끝.

@@ -7,14 +7,14 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **DVC는 gut·혈류 신호가 뇌로 들어가는 1차 hindbrain 관문**이자 GLP-1RA 약리의 핵심 무대. 세 핵의 분업이 약물 설계에 직결: **AP**(circumventricular, BBB 밖) = 말초 GLP1RA·세마글루타이드의 1차 작용부위이자 **혐오(nausea/CTA)** 축, **NTS** = vagal afferent 종착·non-aversive satiety + baseline 에너지항상성 brake, **DMX** = 부교감 운동 출력. 사용자 연구의 시상하부(DMH GLP-1R cognitive satiation) 경로와 **상보적**이며, 본 wiki의 [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]·[[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]·[[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]]가 모두 이 무대를 공유. **AP↔NTS 분업으로 메스꺼움을 분리**하는 것이 차세대 항비만 약물의 핵심 목표.
+> **DVC는 gut·혈류 신호가 뇌로 들어가는 1차 hindbrain 관문**이자 GLP-1RA 약리의 핵심 무대. 세 핵의 분업이 약물 설계에 직결: **AP**(circumventricular, BBB 밖) = 말초 GLP1RA·세마글루타이드의 1차 작용부위이자 **혐오(nausea/CTA)** 축, **NTS** = vagal afferent 종착·non-aversive satiety + baseline 에너지항상성 brake, **DMX** = 부교감 운동 출력. 사용자 연구의 hypothalamus(DMH GLP-1R cognitive satiation) 경로와 **상보적**이며, 본 wiki의 [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]·[[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]·[[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]]가 모두 이 무대를 공유. **AP↔NTS 분업으로 메스꺼움을 분리**하는 것이 차세대 항비만 약물의 핵심 목표.
 
 # Dorsal vagal complex (DVC)
 
 ## 정의
-뇌간 medulla 등쪽의 식이·내장 신호 통합 구조. 세 핵으로 구성:
+brainstem medulla dorsal의 식이·내장 신호 통합 구조. 세 핵으로 구성:
 - **AP (area postrema)** — circumventricular organ. BBB가 불완전 → 혈중 호르몬·약물에 직접 노출. GLP1R·GFRAL(GDF15)·CASR 발현.
-- **NTS (nucleus tractus solitarius / nucleus of the solitary tract)** — vagal afferent의 1차 종착. GLP-1·CCK·PYY·leptin 등 satiation 신호 통합, PBN·시상하부로 중계. 일부 뉴런이 자체 GLP-1(Gcg) 발현.
+- **NTS (nucleus tractus solitarius / nucleus of the solitary tract)** — vagal afferent의 1차 종착. GLP-1·CCK·PYY·leptin 등 satiation 신호 통합, PBN·hypothalamus로 중계. 일부 뉴런이 자체 GLP-1(Gcg) 발현.
 - **DMX (dorsal motor nucleus of vagus)** — 부교감 운동 출력(위장 운동·분비).
 
 ## 기능 분업 (약리 관점)
@@ -37,10 +37,10 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 ## downstream
 - DVC → **external lateral PBN (elPBN)** → CGRP satiety/aversion hub.
 - NTS^Gcg → **CeA^Glp1r** → VTA → NAc (hedonic feeding brake).
-- DVC → 시상하부(PVH·ARC·DMH·LH).
+- DVC → hypothalamus(PVH·ARC·DMH·LH).
 
-## 시상하부 경로와의 관계
-사용자 lab의 **DMH GLP-1R pre-ingestive cognitive satiation**([[park-2025-glucagon-like-peptide-1-and-hypothalamic]]·[[kim-2024-glp-1-increases-preingestive-satiation]])은 음식 cue 기반 인지·시상하부 경로 — DVC의 post-oral/혈중 신호 기반 hindbrain 경로와 **상보적**. 말초 large-peptide GLP1RA는 BBB 투과가 적어 주로 DVC(AP)를 통해 작용.
+## hypothalamus 경로와의 관계
+사용자 lab의 **DMH GLP-1R pre-ingestive cognitive satiation**([[park-2025-glucagon-like-peptide-1-and-hypothalamic]]·[[kim-2024-glp-1-increases-preingestive-satiation]])은 음식 cue 기반 인지·hypothalamus 경로 — DVC의 post-oral/혈중 신호 기반 hindbrain 경로와 **상보적**. 말초 large-peptide GLP1RA는 BBB 투과가 적어 주로 DVC(AP)를 통해 작용.
 
 ## 관련 페이지
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — AP=세마글루타이드 1차 표적·Gs–cAMP 필수 (Nat Metab 2026).
@@ -51,8 +51,8 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 - [[concept-basolateral-amygdala]] — CeA(DVC downstream aversion·hedonic) 구분.
 - [[duran-2026-the-central-amygdala-integrates]] — NTS^Gcg가 상류로 중계하는 CeA에서 말초 GLP-1RA 통합·세포종류 분업 (bioRxiv 2026).
 - [[concept-central-amygdala-glp1r]] — NTS^Gcg의 하류 GLP-1R 노드(CeA^Glp1r→VTA→NAc) 개념 hub.
-- [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제가 AP·NTS FOS는 GLP-1–GIP와 동일·BBB 미투과 → hindbrain이 incretin 약물 1차 무대 (Nature 2026).
-- [[concept-dorsomedial-hypothalamus]] — 상보적 시상하부 GLP-1R 경로.
+- [[liskiewicz-2026-glp-1r-gipr-ppar]] — 5중작용제가 AP·NTS FOS는 GLP-1–GIP와 동일·BBB 미투과 → hindbrain가 incretin 약물 1차 무대 (Nature 2026).
+- [[concept-dorsomedial-hypothalamus]] — 상보적 hypothalamus GLP-1R 경로.
 - [[liu-2026-granular-motivational-interaction-and]] — DVC(AP·NTS·DMV)·PBN이 feeding termination phase의 satiation/aversion hub; cNTS subtype별 timescale 분업 (Neuron 2026).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 리뷰; AP=aversion vs NTS=satiation dissociation(Huang 2024) 등 hindbrain GLP-1R 부위별 분업 정리 (APEM 2025, 본 lab).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 식이 즉시 단계 NTS DA 분비(+120%)로 orosensory 경로 표상 (Cell Metab 2019).
@@ -64,12 +64,12 @@ aliases: [DVC, dorsal vagal complex, area postrema, AP, NTS, nucleus tractus sol
 - [[zhang-2021-area-postrema-cell-types-that]] — DVC의 AP(CVO 독소감지) 세포 아틀라스.
 - [[zhang-2022-brainstem-circuit-for-nausea]] — AP GIP-GIPR 억제뉴런 오심 off-switch.
 - [[concept-area-postrema]] — DVC 내 AP 독소감지 hub.
-- [[concept-parabrachial-cgrp-alarm]] — NTS 하류 뇌간 일반경보.
-- [[cao-2024-hunting-for-heroes-brain]] — 후뇌 NTS/AP GLP-1R 기능 분리 종합.
-- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1/GIP 후뇌 무대.
+- [[concept-parabrachial-cgrp-alarm]] — NTS 하류 brainstem 일반경보.
+- [[cao-2024-hunting-for-heroes-brain]] — hindbrain NTS/AP GLP-1R 기능 분리 종합.
+- [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1/GIP hindbrain 무대.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 medulla(NTS/AP) GLP-1R 발현.
 - [[concept-glp1ra-cns-access]] — "말초 large-peptide GLP-1RA는 BBB 투과가 적어 주로 DVC(AP)를 통해 작용한다"는 본 페이지 서술의 증거등급·약물별 근거 hub. DVC를 GLP-1RA 접근 **①층(CVO)** 으로 배치하고, 'AP=**접근** 부위 / NTS=**중계** 부위'라는 읽기가 [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]] ↔ [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem|Blid Sköldheden 2026]] 긴장(아래 병기)의 봉합 후보임을 정리한다. 약물 분포 지도와 FOS 지도가 원칙적으로 달라야 하는 이유도 함께(BBB 미투과 분자가 AP·NTS·ARC·DMH FOS를 다 올린다 — [[liskiewicz-2026-glp-1r-gipr-ppar|Liskiewicz 2026]]).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — 그 서술을 뒷받침하는 수치: liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않고 exendin-4(0.4231 μL/g-min)·lixisenatide(0.3271)는 측정된다 (Neurol Ther 2025).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **NTS POMC의 배선 실체**: 입력의 ~80%가 뇌교·연수(Su5·IRt 최다 밀도, LC·Gi·RMg·Rn·PnO/PnC)이고 **소뇌핵**까지 포함, 전뇌 입력은 ~10%(CeM·PVN·PSTh)에 불과. 축삭은 뇌간(PCRt·MdD/MdV·SubC·Gi·IRt·Su5·LPB) 중심이되 문측 **Acb까지** 도달. **ARC POMC와는 다른 회로에 사는 세포**임을 확정 (Front Neuroanat 2015).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — ★ **NTS POMC의 배선 실체**: 입력의 ~80%가 pons·medulla(Su5·IRt 최다 밀도, LC·Gi·RMg·Rn·PnO/PnC)이고 **cerebellar nuclei**까지 포함, forebrain 입력은 ~10%(CeM·PVN·PSTh)에 불과. 축삭은 brainstem(PCRt·MdD/MdV·SubC·Gi·IRt·Su5·LPB) 중심이되 rostral **Acb까지** 도달. **ARC POMC와는 다른 회로에 사는 세포**임을 확정 (Front Neuroanat 2015).
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — **NTS Adcyap1⁺(PACAP) 뉴런 → ARC / → DMH** 두 상행 투사가 DVC 출력 목록에 추가. 공통: 단식 재급식·초콜릿 폭식만 비혐오적 억제(CTA 없음)·단식 AgRP 활성 억제. 분업: **→ARC = 섭취 무관 ketone↑·체중↓**, **→DMH = EE↓**. 세마글루타이드 반응 Adcyap1^NTS의 ~절반이 `Slc32a1`⁺(억제성) (bioRxiv preprint 2026, Engström Ruud lab).
-  - ⚠️ **[[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]과의 긴장(병기)**: Gao는 'NTS^Glp1r의 Gs 신호는 세마글루타이드 체중감량에 무상관'을, 본 preprint는 'Adcyap1^NTS와 그 시상하부 투사가 약효 relay'를 말한다. 조작 층위가 다르다(수용체 G단백 vs AP 하류 회로) — "NTS는 약물을 직접 감지하지 않아도 중계는 한다"로 봉합 가능하나 **같은 실험 안에서 검증된 봉합은 아직 없다**.
+  - ⚠️ **[[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]과의 긴장(병기)**: Gao는 'NTS^Glp1r의 Gs 신호는 세마글루타이드 체중감량에 무상관'을, 본 preprint는 'Adcyap1^NTS와 그 hypothalamus 투사가 약효 relay'를 말한다. 조작 층위가 다르다(수용체 G단백 vs AP 하류 회로) — "NTS는 약물을 직접 감지하지 않아도 중계는 한다"로 봉합 가능하나 **같은 실험 안에서 검증된 봉합은 아직 없다**.

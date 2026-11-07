@@ -9,17 +9,17 @@ year: 2011
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **혀의 지방 수용체가 식사 중 실시간으로 조절된다** — 구강 지방 감지가 고정 상수가 아니라 **감각특이적 포만(sensory-specific satiety)** 처럼 식사 진행에 따라 감쇠. 미뢰의 [[concept-cd36|CD36]]은 섭식·식이지방에 의해 **후전사적으로 급감**(재급식 1h 내 2–3배↓, 후 회복)하나 [[concept-free-fatty-acid-receptors|GPR120]]은 불변. 즉 CD36 = "food-sensitive" 지방 센서, GPR120 = 항상성 센서. 사용자 [[proposal-oral-fat-taste-pleasure-desire|구강 지방 맛 연구]]에서 **지방 wanting/liking의 초기 高→식사 중 減** 동역학의 말초 기질이자, 두 수용체를 분리해 표적화하는 근거.
+> **혀의 지방 수용체가 식사 중 실시간으로 조절된다** — 구강 지방 감지가 고정 상수가 아니라 **감각특이적 포만(sensory-specific satiety)** 처럼 식사 진행에 따라 감쇠. taste bud의 [[concept-cd36|CD36]]은 섭식·식이지방에 의해 **후전사적으로 급감**(재급식 1h 내 2–3배↓, 후 회복)하나 [[concept-free-fatty-acid-receptors|GPR120]]은 불변. 즉 CD36 = "food-sensitive" 지방 센서, GPR120 = 항상성 센서. 사용자 [[proposal-oral-fat-taste-pleasure-desire|구강 지방 맛 연구]]에서 **지방 wanting/liking의 초기 高→식사 중 減** 동역학의 말초 기질이자, 두 수용체를 분리해 표적화하는 근거.
 
 # The Lipid-Sensor Candidates CD36 and GPR120 in Mouse Taste Buds (Martin 2011)
 
 ## 한 줄 요약
-미뢰의 두 지방 센서 중 **[[concept-cd36|CD36]]만 식이지방에 의해 후전사적으로 하향조절**(GPR120은 불변)되며, 이 감소가 지방 선호를 바꾸기에 **충분할 것**으로 저자가 추론한다(원문 "should be sufficient"/"seems sufficient" — 직접 검증 아님; 근거는 유전적 CD36⁺/⁻의 선호 소실) — 구강 지방 감지의 **sensory-specific satiety** 유사 기전. *PLoS ONE* 6(8):e24014 (Besnard lab).
+taste bud의 두 지방 센서 중 **[[concept-cd36|CD36]]만 식이지방에 의해 후전사적으로 하향조절**(GPR120은 불변)되며, 이 감소가 지방 선호를 바꾸기에 **충분할 것**으로 저자가 추론한다(원문 "should be sufficient"/"seems sufficient" — 직접 검증 아님; 근거는 유전적 CD36⁺/⁻의 선호 소실) — 구강 지방 감지의 **sensory-specific satiety** 유사 기전. *PLoS ONE* 6(8):e24014 (Besnard lab).
 
 ## 핵심 내용
 
 ### Background
-- 미뢰에는 지방(LCFA) 센서 후보가 둘: **[[concept-cd36|CD36]]**(scavenger receptor, 비-GPCR)과 **[[concept-free-fatty-acid-receptors|GPR120]]**(=FFAR4, GPCR). 각각 결손 시 지방 선호↓ → 둘의 역할 분담이 문제.
+- taste bud에는 지방(LCFA) 센서 후보가 둘: **[[concept-cd36|CD36]]**(scavenger receptor, 비-GPCR)과 **[[concept-free-fatty-acid-receptors|GPR120]]**(=FFAR4, GPCR). 각각 결손 시 지방 선호↓ → 둘의 역할 분담이 문제.
 
 ### Method
 - 생쥐 circumvallate papillae(CVP)에서 CD36·GPR120 mRNA/단백질의 **일주기 리듬**, **금식/재급식**, **식이지방 함량(0%·0.5%·30%)**, **혀 직접 유지 도포** 조건별 측정.
@@ -31,22 +31,22 @@ year: 2011
 3. **CD36 용량이 지방 선호 결정**: CD36⁻/⁻뿐 아니라 **CD36⁺/⁻(단백질 절반)** 도 linoleic acid 선호 소실 → CD36 2배 감소만으로 선호 차단. GPR120 발현은 CD36 결손과 무관하게 유지.
 
 ### Claim
-- **CD36 = 식사에 반응하는(food-sensitive) 미뢰 지방 센서**; GPR120 = 안정적 센서. 둘의 coding 역할 분리.
+- **CD36 = 식사에 반응하는(food-sensitive) taste bud 지방 센서**; GPR120 = 안정적 센서. 둘의 coding 역할 분리.
 - 식사 중 지방지질 유발 CD36 감소 → **지방 동기(motivation for fat)가 식사 시작엔 高, 진행하며 減** = **sensory-specific satiety** 유사 음성 되먹임.
 - 함의: 구강 지방 매력을 조절해 비만 위험을 낮추는 **약리 전략**(CD36 표적) 가능성.
 
 ## 방법·해석 유의
 - CD36 하류: LCFA→CD36→Src-PTK→Ca²⁺↑→세로토닌/NE 방출→미주·설인 구심성→NST(El-Yassimi 2008, Gaillard 2008). GPR120의 지방 선호 기전은 미확립.
 - 장(intestine)에서도 동일한 지방 유발 CD36 후전사 감소가 관찰 → CD36가 **구강-장 연속체(oro-intestinal continuum)** 의 지방 센서라는 가설(Martin 2011 *Physiol Behav* "CD36 as a lipid sensor").
-- ⚠️ **인과 사슬의 빈칸**: '식사로 유발된 미뢰 CD36 감소 → 지방 선호 저하'는 본 논문이 **직접 실험으로 보이지 않았다**. 저자는 fed vs fasted 비교가 **내분비 상태와 자율신경 활동의 큰 변화** 때문에 지방 선호 자체를 함께 바꿔 "질문에 온전히 답할 수 없다"고 명시하고(p.5, 해당 Results 절), 그 한계를 우회해 **유전적으로** CD36 단백이 절반인 CD36⁺/⁻가 0.5% linoleic acid 선호를 잃는다(4배 농도인 2%에서도 동일)는 사실로 "should be sufficient"라고 추론한다. 즉 급성·가역적 단백 감소와 만성·유전적 감소가 같은 행동 효과를 낸다는 가정이 검증되지 않은 채 남아 있다.
-- 이 빈칸은 [[proposal-oral-fat-taste-pleasure-desire|구강 지방 연구계획서]] Aim 1의 검증 대상 그 자체다(식사 중 미뢰 CD36 단백 감소를 시간해상도로 측정하면서 wanting을 동시에 재는 설계).
+- ⚠️ **인과 사슬의 빈칸**: '식사로 유발된 taste bud CD36 감소 → 지방 선호 저하'는 본 논문이 **직접 실험으로 보이지 않았다**. 저자는 fed vs fasted 비교가 **내분비 상태와 자율신경 활동의 큰 변화** 때문에 지방 선호 자체를 함께 바꿔 "질문에 온전히 답할 수 없다"고 명시하고(p.5, 해당 Results 절), 그 한계를 우회해 **유전적으로** CD36 단백이 절반인 CD36⁺/⁻가 0.5% linoleic acid 선호를 잃는다(4배 농도인 2%에서도 동일)는 사실로 "should be sufficient"라고 추론한다. 즉 급성·가역적 단백 감소와 만성·유전적 감소가 같은 행동 효과를 낸다는 가정이 검증되지 않은 채 남아 있다.
+- 이 빈칸은 [[proposal-oral-fat-taste-pleasure-desire|구강 지방 연구계획서]] Aim 1의 검증 대상 그 자체다(식사 중 taste bud CD36 단백 감소를 시간해상도로 측정하면서 wanting을 동시에 재는 설계).
 
 ## 관련 페이지
-- [[concept-cd36]] — 본 논문의 주역(미뢰 food-sensitive 센서).
+- [[concept-cd36]] — 본 논문의 주역(taste bud food-sensitive 센서).
 - [[concept-free-fatty-acid-receptors]] — 대조군 GPR120(=FFAR4); 지방 선호에 필요하나 식이 무반응.
 - [[concept-fat-taste]] — 구강 지방 감지 hub; 본 논문이 동역학(sensory-specific satiety) 추가.
 - [[laugerette-2005-cd36-involvement-in-orosensory-detection]] — CD36 구강 지방 센서 최초 규명(본 논문의 토대).
-- [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — 시상하부 CD36 지방산 감지.
+- [[moulle-2013-fatty-acid-transporter-cd36-mediates]] — hypothalamus CD36 지방산 감지.
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — 장(post-oral) 지방 선호 회로.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 wanting/liking 동역학의 근거.
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer 논리.

@@ -7,14 +7,14 @@ aliases: [HypoMap, hypothalamus single-cell atlas, human hypothalamus atlas]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **시상하부 single-cell sequencing era의 표준 resource**. Mouse HypoMap (Steuernagel 2022 Nat Metab) + 인간 atlas (Tadross 2025 Nature)가 cell type-level resolution 제공. 사용자 lab의 LH·DMH·ARC 회로를 분자 cluster 수준으로 정의 + **인간에서 GLP-1R·LepR 공발현 POMC** 등 종간 차이 확립 → 약물 표적 인간 번역 ground truth.
+> **hypothalamus single-cell sequencing era의 표준 resource**. Mouse HypoMap (Steuernagel 2022 Nat Metab) + 인간 atlas (Tadross 2025 Nature)가 cell type-level resolution 제공. 사용자 lab의 LH·DMH·ARC 회로를 분자 cluster 수준으로 정의 + **인간에서 GLP-1R·LepR 공발현 POMC** 등 종간 차이 확립 → 약물 표적 인간 번역 ground truth.
 
 # HypoMap & 인간 hypothalamus atlas
 
 ## Mouse HypoMap (Steuernagel et al. 2022 Nat Metab)
 - 18 single-cell/single-nucleus RNA-seq dataset 통합.
 - **384,925 세포**, 465 unique cluster.
-- 전 시상하부 영역 (preoptic → ventroposterior).
+- 전 hypothalamus 영역 (preoptic → ventroposterior).
 - Annotation: glutamatergic·GABAergic neuron + astrocyte·ependymal·oligodendrocyte·microglia·endothelial.
 - bacTRAP으로 Glp1r+·Pnoc+ 등 cross-region heterogeneity 매핑.
 - Yeo·Brüning lab.
@@ -56,7 +56,7 @@ HypoMap·atlas 시대의 발견:
 |---|---|
 | Whole-brain imaging | tissue clearing + light-sheet |
 | Projectomics | 7,180 peptidergic neuron projection (Jiao 2025) |
-| RAMPANT | 시상하부 input neuron snRNA-seq (Webster 2024) |
+| RAMPANT | hypothalamus input neuron snRNA-seq (Webster 2024) |
 | scRNA / snRNA-seq | transcriptome |
 | SUM-PAINT / cycleHCR | single-protein imaging |
 | Spatial: Xenium·MERFISH·TRISCO | image-based |
@@ -73,12 +73,12 @@ HypoMap·atlas 시대의 발견:
 - [[concept-pomc-neurons]] · [[concept-npy-agrp-neurons]] — heterogeneity.
 - [[concept-ghost-pomc-neurons]] — atlas-defined subtype.
 - [[littleton-2025-from-identity-to-function-unveiling]] — 본 atlas review.
-- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA); DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026).
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 hypothalamus 공간전사체 3D 아틀라스(serial ST+HD+MERFISH+snRNA); DMH 비보존·Ltu 인간특이·GWAS 질환 niche (preprint 2026).
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC atlas integration.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-yeo-giles]] — atlas 책임자.
-- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **상보적 접근**(IHC/LCM-Seq bulk): snRNA-seq의 ~2,000 transcript/cell 대비 14,000–16,000 검출로 희귀 수용체·lncRNA 포착; HypoMap의 POMC-CALCR(C4-374) 제3뇌실 근접 분포를 RNAscope로 독립 검증. 대가는 세포 이질성 분해 불가 (Nat Commun 2026).
+- [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **상보적 접근**(IHC/LCM-Seq bulk): snRNA-seq의 ~2,000 transcript/cell 대비 14,000–16,000 검출로 희귀 수용체·lncRNA 포착; HypoMap의 POMC-CALCR(C4-374) third ventricle 근접 분포를 RNAscope로 독립 검증. 대가는 세포 이질성 분해 불가 (Nat Commun 2026).
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — atlas에 **크로마틴 접근성 층**을 추가: LepR 뉴런 39아형의 세포타입 특이 OCR → 인간 비만 GWAS/eQTL 교차. 본 atlas를 label transfer reference로 사용(19 클러스터 대응) (bioRxiv 2025).
 - [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — HypoMap 통합에 들어간 **LHA 단독 census**(Nat Neurosci 2019, Jackson lab; GEO **GSE125065**). 7,129 세포 → 비뉴런 + **GABAergic 15 + glutamatergic 15** 클러스터, marker를 RNAscope FISH와 FACS 단일세포 qPCR로 교차검증. ⚠️ 원문 본문은 비뉴런을 13개, Discussion은 11개로 적는다(내부 불일치). 또 2019년형 droplet 방식의 **저검출 한계**를 보여주는 사례다 — LHA^GABA에서 **Lepr·Mc4r이 거의 안 잡혀** Lepr-Cre 정렬세포 qPCR로 우회했다(cf. [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]]의 LepR 표지 기반 39아형).
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — 사람 hypothalamus 지도 **HypoAD**(노화·AD)를 인용: 대사·스트레스·circadian 조절 하위영역의 취약성, 염증·circadian 경로가 AD의 핵심 세포 예측인자. 전사체만으로는 대사 상태가 온전히 포착되지 않는다는 한계도 지적(lipizone).

@@ -58,12 +58,12 @@ journal: "bioRxiv 2021.03.08.434304 (posted 2021-03-08; preprint, 동료심사 �
 - **알고리즘**: ① Otp/Meis2·Slc17a6/Slc32a1 이웃 농축으로 뉴런을 4 class로 나눈다. ② Gaussian mixture로 3D 분할한다. ③ 세 마리를 rigid 정합한다(ZI·EP·fornix 랜드마크 IoU 0.71·0.76). ④ **STAPLE**로 consensus를 만든다.
 - **결과**: 4유전자만으로 **5개 zone**이 나왔다. 대부분 보고된 적 없는 구역이다.
   - **LHAd-db**(dorsal diagonal band): ZI 바로 아래, 흥분성 우세.
-  - **LHAs-db**(suprafornical diagonal band): fornix 등쪽·외측, 억제성 우세. LHAd-db와 서로 약 60° 각도를 이루며 비스듬히 달리는 띠다(원문은 '교차'가 아니라 "at an approximately 60-degree angle from each other"이며, 두 띠가 LHAdl 쐐기를 둘러싼다).
-  - **LHAdl**: 두 띠 사이의 Meis2 쐐기형 흥분성 구역, 외측에 EP가 있다.
+  - **LHAs-db**(suprafornical diagonal band): fornix dorsal·lateral, 억제성 우세. LHAd-db와 서로 약 60° 각도를 이루며 비스듬히 달리는 띠다(원문은 '교차'가 아니라 "at an approximately 60-degree angle from each other"이며, 두 띠가 LHAdl 쐐기를 둘러싼다).
+  - **LHAdl**: 두 띠 사이의 Meis2 쐐기형 흥분성 구역, lateral에 EP가 있다.
   - **LHAfm**(medial fornical): 혼합, 억제성 비율이 더 높다.
   - **LHAfl**(lateral fornical): 흥분성 우세.
   - 꼬리쪽에는 Hcrt⁺가 LHAd-db와 같은 방향의 띠를 이룬다 → **LHAhcrt-db**(6번째).
-- 세포타입 분포로 LHAs-db를 내측/외측, LHAfl을 mv/dl/vl로 더 나누면 **총 9개 하위구역**이다.
+- 세포타입 분포로 LHAs-db를 medial/lateral, LHAfl을 mv/dl/vl로 더 나누면 **총 9개 하위구역**이다.
 - 쥐에서 세포밀도로 정의된 "suprafornical LHA"(Hahn & Swanson)는 분자 기준으로 **LHAfm·LHAs-db·LHAd-db 세 층판**으로 갈라진다.
 
 ### Figure 5 — 하위구역별 세포타입 구성과 축삭 입력
@@ -80,17 +80,17 @@ journal: "bioRxiv 2021.03.08.434304 (posted 2021-03-08; preprint, 동료심사 �
 - **축삭 입력(Allen Connectivity Atlas를 CCF에 정합)**: 대부분의 입력은 LHA 전체에 퍼지지 않는다. **CEA→LHAd-db, VTA→LHAdl, MEA→LHAfm, MM·NDB→LHAfl**. 특히 LHAdl과 LHAfl은 입력 패턴이 거의 상호배타적이다.
 
 ### Figure 6 — 펩타이드 집단의 분자·공간 아형
-- **Pmch(MCH)**: 영상 볼륨 안에서 83%는 LHA, 17%는 ZI에 있다. **Cartpt⁺ 77%(388/501) vs Cartpt– 22%(113/501)**이고, ZI의 Pmch는 99%가 Cartpt⁺다. LHA 안에서 **Pmch/Cartpt–는 LHAdl**, Pmch/Cartpt⁺는 내측·복외측 두 무리로 나뉜다. **92% 이상이 Gad1과 Slc17a6을 함께 발현**한다(van den Pol 2004와 정합). 77%가 비만 관련 GPCR **Gpr83**을 발현한다(Cartpt⁺ 87% vs Cartpt– 43%).
-- **Hcrt(orexin)**: LHAd-db 꼬리쪽의 등쪽 diagonal band에 국한된다. **Calb2⁺ 93%(593/640)**, **Nts⁺ 5%(31/640)**, 둘 다 음성 2%(16/640, 더 꼬리쪽)다. 아형끼리는 대체로 섞여 있다.
+- **Pmch(MCH)**: 영상 볼륨 안에서 83%는 LHA, 17%는 ZI에 있다. **Cartpt⁺ 77%(388/501) vs Cartpt– 22%(113/501)**이고, ZI의 Pmch는 99%가 Cartpt⁺다. LHA 안에서 **Pmch/Cartpt–는 LHAdl**, Pmch/Cartpt⁺는 medial·ventrolateral 두 무리로 나뉜다. **92% 이상이 Gad1과 Slc17a6을 함께 발현**한다(van den Pol 2004와 정합). 77%가 비만 관련 GPCR **Gpr83**을 발현한다(Cartpt⁺ 87% vs Cartpt– 43%).
+- **Hcrt(orexin)**: LHAd-db 꼬리쪽의 dorsal diagonal band에 국한된다. **Calb2⁺ 93%(593/640)**, **Nts⁺ 5%(31/640)**, 둘 다 음성 2%(16/640, 더 꼬리쪽)다. 아형끼리는 대체로 섞여 있다.
 - **Trh**: 네 흥분성 타입이 있다. **Ex-3**(LHAfm, Trh 고발현, Calb1·Tac1), **Ex-4**(LHAfl-mv, Th·Calb2), **Ex-8**(LHAfl-dl, Gpr83), **Ex-11**(LHAfl-dl, Synpr). **97.6%(1,483/1,519)가 Otp⁺**이고 Otp zone(LHAfm·LHAfl)에 있다. scRNA-seq는 Trh 클러스터를 2개만 찾았다. soma는 Ex-3·Ex-8이 크다.
 - **Sst**: 흥분성 Ex-5(LHAs-db·LHAfl)와 억제성 Inh-1(LHAfm, Sst 최고, Gpr101·Nrgn), Inh-2(LHAs-db), Inh-5(분산)가 있다. Ex-5와 Inh-2의 soma가 크고, Ex-5는 덜 볼록하다.
-- **Nts**: 흥분성 1개 + 억제성 3개다. **Ex-16**(등내측·더 앞쪽), **Inh-9**(ZI·LHAs-db, Meis2), **Inh-14**(Hcrt 띠와 **33% 공간 중첩**, Gpr101·**Galanin** 공발현), **Inh-18**(분산).
+- **Nts**: 흥분성 1개 + 억제성 3개다. **Ex-16**(등medial·더 앞쪽), **Inh-9**(ZI·LHAs-db, Meis2), **Inh-14**(Hcrt 띠와 **33% 공간 중첩**, Gpr101·**Galanin** 공발현), **Inh-18**(분산).
 - **Vglut2/Vgat 공발현**: Ex-12는 대부분 **EP**에 있고(EP의 Slc17a6/Slc32a1 뉴런 중 62%(742/1,188)가 Sst⁺), **LHAd-db 앞쪽에 작은 무리**가 있다(Fig S7A–C).
 
 ### Figure 7 — 형태 다양성과 반복 정제(iterative refinement)로 찾은 Oxt⁺ 아형
 - **대형 뉴런**: Pmch⁺ **3,412±76.1 µm³**, Hcrt⁺ **3,690±40.6 µm³**. 나머지 LHA 평균은 1,533±3.5 µm³로 약 2.5배 차이다. 이 둘을 빼면 **Slc17a6⁺ 1,624±6 > Slc32a1⁺ 1,389±3 µm³**(p<0.0001). soma 부피는 cytoDAPI 총 RNA(r=0.93)·Map1b(r=0.82)와 상관한다.
 - **비정형 soma**(aspect ratio <0.7 & solidity <0.7)는 Slc17a6⁺ 6% vs Slc32a1⁺ 2%이고, LHAfl에 농축된다.
-- **Ex-10(Slc17a6/Gal)**은 soma 크기 분포에 큰 꼬리가 있고 두 곳(LHAd-db·LHAfl-vl)에 분포한다. 큰 세포는 LHAfl-vl에 있다. → 대응 scRNA-seq 클러스터를 다시 나누자 **Oxt(oxytocin)**가 최상위 차등 유전자로 나왔다. → 새 샘플에 Slc17a6·Gal·Oxt를 탐침하자 복외측 LHA에서 **대형(3,089±140 µm³) Oxt⁺ 뉴런**이 검증됐고, **13/13이 Slc17a6·Gal을 공발현**했다.
+- **Ex-10(Slc17a6/Gal)**은 soma 크기 분포에 큰 꼬리가 있고 두 곳(LHAd-db·LHAfl-vl)에 분포한다. 큰 세포는 LHAfl-vl에 있다. → 대응 scRNA-seq 클러스터를 다시 나누자 **Oxt(oxytocin)**가 최상위 차등 유전자로 나왔다. → 새 샘플에 Slc17a6·Gal·Oxt를 탐침하자 ventrolateral LHA에서 **대형(3,089±140 µm³) Oxt⁺ 뉴런**이 검증됐고, **13/13이 Slc17a6·Gal을 공발현**했다.
 - 공간·형태 이상치 → scRNA-seq 재분석 → 새 marker 재탐침으로 이어지는 **EASI-FISH ↔ scRNA-seq 반복 루프**로 희귀 아형을 찾은 사례다. Discussion에서는 Ex-10을 "(Th/Gal)"로 적어 본문 표기와 다르다.
 
 ### Discussion 요점·한계
@@ -105,7 +105,7 @@ journal: "bioRxiv 2021.03.08.434304 (posted 2021-03-08; preprint, 동료심사 �
 - **NMPU × 하위구역 입력 가설**: 하위구역별 입력이 갈린다는 결과(CEA→LHAd-db, MEA→LHAfm, VTA→LHAdl)를 [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]에 겹쳐 볼 수 있다. 예컨대 **LHAd-db = 정서·위협(CEA) 변조를 받는 Motivation 조절 구역**, **LHAfm = 사회·성 신호(MEA)와 Need를 통합하는 구역**이라는 가설이다. [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]의 hunger×anxiety×social arbitration을 해부학적으로 분업하는 후보다. 검증은 하위구역별 표적 주입 + 상태(금식·스트레스·사회) 조작이다.
 - **활성–분자 정합 실험 설계**: [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]의 salience vs consumption ensemble이나 Lee 2023의 seeking vs consummatory LepR 아집단은 **2-photon/GRIN 기록 후 300 µm 절편 EASI-FISH**로 사후 정체를 붙일 수 있다([[xu-2020-behavioral-state-coding-by|CaRMA]] 계보). 이때 "기능 ensemble이 분자 클러스터와 일치하는가, 하위구역과 일치하는가"를 분리해 물을 수 있다. [[proposal-lh-nac-nmpu-neuron-discovery]]의 사후 분자정체 단계에 바로 들어가는 선택지다.
 - **MCH 아형과 consummatory 'sustain'**: Cheon 2025의 "Mch = consumption sustain"은 Pmch를 한 집단으로 본 서술이다. 이 논문은 **Cartpt⁺(Gpr83 87%) vs Cartpt–(LHAdl, Gpr83 43%)**의 공간·분자 분리를 보인다. 섭식 중 MCH 반응이 두 아형 중 한쪽에서만 나오는지가 검증 가능한 질문이다.
-- **인간 번역**: 발생 전사인자(Otp·Meis2)로 정의된 구역은 종간 보존 가능성이 높다. [[yang-2026-spatial-transcriptomics-identifies-the-molecular|인간 시상하부 공간전사체]]에서 LH 구획을 정렬할 앵커 유전자 후보다.
+- **인간 번역**: 발생 전사인자(Otp·Meis2)로 정의된 구역은 종간 보존 가능성이 높다. [[yang-2026-spatial-transcriptomics-identifies-the-molecular|인간 hypothalamus 공간전사체]]에서 LH 구획을 정렬할 앵커 유전자 후보다.
 
 ## ⚠️ 위키 내 충돌·긴장
 - **[[concept-lateral-hypothalamus]]의 "단일 세포가 Vgat·Vglut2 동시 발현 (Wang 2021 Cell EASI-FISH) — 전통적 dichotomy 약화"** 서술과의 긴장. preprint 본문은 오히려 "scRNA-seq처럼 **Slc17a6/Slc32a1 이분이 있다**"고 쓰고 뉴런을 45:55로 나눴다. 공발현 클러스터(Ex-12)는 **대부분 EP**에 있고 LHA(LHAd-db 앞쪽)에는 **작은 무리**뿐이다. Pmch⁺의 이중 marker는 **Gad1**+Slc17a6이지 Slc32a1이 아니다. → "이분법은 대체로 유지되고, 소수 예외(EP 인접 Ex-12, MCH)가 있다"로 병기하는 편이 원문에 가깝다. 출판판(Cell) 서술은 확인하지 못했다. (concept 페이지 수정은 synthesis 단계에 맡김.)
@@ -132,7 +132,7 @@ journal: "bioRxiv 2021.03.08.434304 (posted 2021-03-08; preprint, 동료심사 �
 - [[concept-zona-incerta]] — LHAs-db와 억제성 타입 공유, ZI의 Pmch는 99% Cartpt⁺.
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — scRNA-seq 해부 표적으로 쓴 AgRP→suprafornical LHA 축삭.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — 다중 동기 arbitration의 해부학적 분업 후보(하위구역별 입력).
-- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간 아틀라스. Otp/Meis2 구역의 종간 정렬 후보.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 hypothalamus 공간 아틀라스. Otp/Meis2 구역의 종간 정렬 후보.
 - [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — 통합 consensus 클러스터에 들어간 **Mickelsen 2019(4,418 cells)** 의 원전 페이지(Nat Neurosci 2019, Jackson lab). 그쪽은 흥분성 15 + 억제성 15로 센다(해상도·알고리즘·샘플 영역 차이 — caudal LHA+tuberal vs tuberal LHA). Sst의 구조는 **흥분성 1 + 억제성 3**으로 두 논문이 일치하지만 하위 이름 대응표는 없다. ⚠️ Vgat/Vglut2 이분법 긴장에 **셋째 패턴**을 추가: Mickelsen은 **Slc17a6⁺·Slc32a1⁻이면서 Gad1 강발현인 LHA^Glut 클러스터 4개**(Pmch 포함)를 보고하고 Gad2가 Gad1보다 Slc32a1 패턴과 잘 맞는다고 적는다 → "GABA marker를 Gad1으로 잡으면 공발현이 흔해 보이고 Slc32a1로 잡으면 드물어 보인다"는 이 페이지의 MCH 분류 긴장과 같은 뿌리(병기).
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — **기능 쪽에서 본 "LH는 섞여 있다"의 선행 관찰**(Cell 2015, Stuber lab): LH^Vgat 743 뉴런의 cell map에서 음식 구역 흥분(FZe)·억제(FZi), appetitive·consummatory 반응 세포가 **공간적으로 뒤섞여 클러스터로 분리되지 않았다**. 본 논문의 "반경 50 µm 안에 평균 16개 세포타입, 최다 타입도 27%"가 그 기능적 섞임의 분자적 대응이다. ⚠️ 단 본 논문은 그 섞임 **위에** Otp/Meis2 × Vglut2/Vgat의 재현성 있는 층판(diagonal band)이 있다고 보므로, 그쪽의 "해부학적 패턴 없음"은 **단일 FOV·GRIN 시야 한계** 안의 진술로 한정해 병기할 것.
 - [[de-vrind-2019-effects-of-gaba-and]] — 본 지도의 **해상도 교훈이 바로 적용되는 좌표 기반 LH 조작**(Obesity 2019): AP −1.2 양측 주입(끝점 ML 약 1.0 추정)을 격자형 아영역으로 읽어 "anterior LepR 활성 = 섭식↓"을 주장하지만, 본 논문의 비스듬한 분자 층판(9 구역)·패널에 **Lepr 부재**·ZI–LHA 경계의 분자 연속성 때문에 ① LH^LepR의 구역 귀속이 미해결이고 ② 그쪽의 "ZI 확산 기여는 작다"는 판단도 분자적으로는 뒷받침되지 않는다(병기).

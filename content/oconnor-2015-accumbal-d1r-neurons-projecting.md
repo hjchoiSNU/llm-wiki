@@ -27,7 +27,7 @@ NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며
 ## 핵심 내용
 
 ### Figure 1 — LH 투사 accumbens 뉴런의 93.6%가 D1R-MSN
-- CTB(-488/-555/-647) 100–200 nl을 **peduncular LH**(fornix 바로 외측, zona incerta 복측)에 단측 주입하고 11일 후 NAcSh 관상절편에서 공국재를 셌다.
+- CTB(-488/-555/-647) 100–200 nl을 **peduncular LH**(fornix 바로 lateral, zona incerta ventral)에 단측 주입하고 11일 후 NAcSh 관상절편에서 공국재를 셌다.
 - **Drd1a-tdTomato (n=3)**: medial NAcSh 전후축 전체에서 CTB⁺(=LH 투사) 세포 **1,246개** 중 **1,173개(93.6% ± 0.8%)가 tdTomato⁺**. 가장 rostral·caudal 부위에서도 최소 **89.7%**가 D1R-MSN → **전후축 gradient 없음**.
 - 역방향 수치도 보고: **D1R-MSN의 60.3% ± 7.7%는 CTB⁻** (LH 외 표적으로 투사하거나 주입이 LH 전체를 덮지 못함).
 - **Drd2-eGFP (n=2)**: CTB⁺ 593개 중 eGFP⁺는 **29개(5.2% ± 1.1%)** 뿐.
@@ -73,16 +73,16 @@ NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며
 - → D1R-MSN 말단 자극의 효과가 **후시냅스 세포 직접 억제로 완전히 재현**된다. 단 저자들은 VP 등 다른 **collateral의 기여를 형식적으로 배제하지 못한다**고 명시한다(Tripathi 2010의 단일축삭 분지).
 
 ### Discussion — 저자들이 직접 배제·유보한 것
-- **VP 대안**: D1R-MSN은 VP(Kupchik 2015)·VTA(Bocklisch 2013)로도 투사한다. VP는 섭식에서 오래 기술되었으나 D1/D2 분업이 불명. "LH 투사 MSN과 VP 투사 MSN 사이에 기능적 collateral이 얼마나 있는가"는 미해결.
+- **VP 대안**: D1R-MSN은 VP(Kupchik 2015)·VTA(Bocklisch 2013)로도 투사한다. VP는 섭식에서 오래 기술되었으나 D1/D2 분업이 불명. "LH 투사 MSN과 VP 투사 MSN 사이에 기능적 collateral가 얼마나 있는가"는 미해결.
 - **VTA 대안은 배제**: ① medial NAcSh에서 VTA는 LH보다 소수 출력(Thompson & Swanson 2010), ② **VTA GABA 뉴런 직접 활성은 섭취를 멈춘다**(van Zessen 2012) — 본 논문의 "D1R-MSN 활성↓ = 섭식 촉진"과 **부호가 반대**라서 VTA 경로로는 설명 불가.
-- **Rostro-caudal gradient 문제**: Richard & Berridge 2011은 rostral NAcSh의 AMPAR 길항이 D1R 의존 섭식, caudal은 D1R+D2R 의존 공포를 낸다고 보고했다. 본 논문의 투사 조성은 rostral·caudal 모두 D1R 우세였으므로, 그 기능 gradient는 **caudal NAcSh에 인접한 BNST가 섞여 들어간 결과**일 수 있다(BNST는 D1R 소수 + LH glutamate 뉴런 억제로 섭식↑, Jennings 2013).
+- **Rostro-caudal gradient 문제**: Richard & Berridge 2011은 rostral NAcSh의 AMPAR 길항이 D1R 의존 섭식, caudal는 D1R+D2R 의존 공포를 낸다고 보고했다. 본 논문의 투사 조성은 rostral·caudal 모두 D1R 우세였으므로, 그 기능 gradient는 **caudal NAcSh에 인접한 BNST가 섞여 들어간 결과**일 수 있다(BNST는 D1R 소수 + LH glutamate 뉴런 억제로 섭식↑, Jennings 2013).
 - **임상 가설**: NAcSh→LH 경로의 오조정이 **anorexia의 조기 섭취 종료**(Sunday & Halmi 1996) 또는 **기호성 음식의 반복·연장 bout → 비만**(Spiegel 2000)에 기여할 수 있다. 근거로 ① 만성 구속 스트레스 유발 anorexia에서 **D1R-MSN에 선택적인 흥분성 전달 변화**(Lim 2012), ② 비만 성향 rat의 고지방·고당 식이 후 **NAcSh D1R mRNA 하향**(Alsiö 2010)을 든다. 둘 다 **상관 수준**이다.
 - **범위 한계**: NAcSh→LH 투사는 섭취 통제에 국한되지 않을 것이며(조건강화·PIT·혐오·공포·사회적 놀이), LH GABA 뉴런도 기능적으로 이질적(Jennings 2015)이므로 **대규모 집단 기록**이 필요하다고 명시한다.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **NMPU의 threshold K를 움직이는 회로**: [[kim-2024-normative-framework-dissociates-need|Kim 2024]]의 모델에서 행동은 Motivation M(t)이 threshold K를 넘을 때 개시된다. 본 논문의 D1R-MSN→LH^Vgat 게이트는 **Need·Motivation을 건드리지 않고 K만 순간적으로 올리는** 외부-자극 채널로 해석할 수 있다. 검증: AgRP 광자극으로 Need를 올린 상태에서 D1R-MSN 말단을 자극하면 **섭식이 중단되지만 자극 종료 후 즉시 재개**되어야 한다(Need는 유지되므로). 본 논문은 금식 조건(Figure S5C)에서 세션 전체의 섭취 억제만 보였고 **자극 종료 후 재개 동역학을 보고하지 않았다**.
 - **LH^LepR가 이 억제를 받는가**: 본 논문의 표적은 LH^Vgat 전체(78% 연결)다. [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]의 LH^LepR는 LH GABA의 4%지만 food-specific 집단의 79%를 차지한다. **D1R-MSN → LH^LepR 단시냅스 억제가 있는지**(rabies 또는 LepR-Cre 조건 기록), 그리고 그것이 seeking subset과 consummatory subset 중 어디에 붙는지가 직접 실험 가능한 질문이다. 예측: 본 논문의 효과가 **섭취(consummatory)에 즉각적**이므로 consummatory subset 우세.
-- **NPY disinhibition gate와 2단 게이트 가설**: Lee 2023은 AgRP/NPY → NPYR⁺ LH 개재뉴런 → **LH^LepR 탈억제**(상류 허가)를 보였다. 본 논문은 NAc D1R-MSN → LH^Vgat **직접 억제**(하류 차단)를 보였다. 두 게이트가 직렬이면 "배고픔이 문을 열고, 외부 자극이 문을 닫는다"는 **2단 AND-NOT 구조**가 된다 — [[concept-appetitive-consummatory-phases]]의 phase 전환을 회로로 쓸 수 있는 틀.
+- **NPY disinhibition gate와 2단 게이트 가설**: Lee 2023은 AgRP/NPY → NPYR⁺ LH interneuron → **LH^LepR 탈억제**(상류 허가)를 보였다. 본 논문은 NAc D1R-MSN → LH^Vgat **직접 억제**(하류 차단)를 보였다. 두 게이트가 직렬이면 "배고픔이 문을 열고, 외부 자극이 문을 닫는다"는 **2단 AND-NOT 구조**가 된다 — [[concept-appetitive-consummatory-phases]]의 phase 전환을 회로로 쓸 수 있는 틀.
 - **"먹기를 멈추는 능력"의 회로 표현형**: 방해자극 효율(3-lick burst 빈도 증가분)은 **섭취 중단 가능성의 정량 지표**다. 사람 쪽 [[concept-inhibitory-control-demand|억제통제 부하]]·[[concept-cue-reactivity|cue reactivity]] 측정에 "식사 중 외부 방해자극에 대한 중단 잠복"을 넣으면 같은 축을 잴 수 있다. [[concept-digital-therapeutics|DTx]]에서 meal-interruption 과제의 설계 근거.
 - **Loss-of-control eating = 종료 신호 결손**: [[concept-loss-of-control-eating]]·[[concept-compulsion]]은 대개 "개시·추구의 과잉"으로 조작화된다. 본 논문은 같은 표현형이 **종료 신호(D1R-MSN 재활성) 결손**으로도 생길 수 있음을 함축한다. [[guillaumin-2023-disentangling-the-role-of-nac|Guillaumin 2023]]의 lick microstructure(bout 길이 = liking, bout 수 = wanting) 지표와 결합하면 "bout 길이 연장 = 종료 결손 / bout 수 증가 = 개시 과잉"으로 분해해 볼 수 있다(원문은 bout 길이를 liking으로 해석하지 않는다).
 - **GLP-1RA와의 접점은 미측정**: 본 논문의 게이트는 호르몬 조작 없이 **외부 자극**만으로 작동했다. [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]은 Ex-4가 LH^Vgat의 cue·섭취 반응을 둘 다 깎음을 보였다. 두 결과를 합치면 **GLP-1RA가 "LH^Vgat 신호 크기"를 줄이는 쪽이고, D1R 게이트는 "언제 끊을지"를 정하는 쪽**이라는 분업 가설이 가능하다 — 같은 하류 세포에서 두 조작이 가산적인지 상호작용적인지는 미검증.
@@ -93,7 +93,7 @@ NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며
 - **[[sharpe-2024-the-cognitive-lateral-hypothalamus]] — 학습 locus 논쟁**: Sharpe는 본 논문([49])을 "**학습은 PL·NAc 같은 상위 구조가 하고 LH는 선천적 섭식 추동일 뿐**"이라는 모델의 대표 사례로 들어 비판한다. 다만 **본 논문 자체는 학습에 대한 주장을 하지 않는다** — 다루는 것은 학습된 cue가 아니라 **무예고 방해자극과 광유전 조작에 대한 순간적 섭취 통제**다. 즉 Sharpe의 비판 대상은 본 논문 결과가 아니라 그것이 함축한다고 읽힌 **위계 모델**이다. 두 주장은 섭식 on/off 데이터에서는 양립하며, 충돌은 **"cue–음식 연합이 어디서 저장되는가"** 에 한정된다(병기).
 - **[[jennings-2013-the-inhibitory-circuit-architecture]] — 같은 LH, 반대 부호의 두 억제성 입력**: Jennings 2013(Stuber lab)은 **BNST^GABA → LH^Vglut2 억제 → 섭식 개시**를 보였다. 본 논문은 **NAcSh D1R → LH^Vgat 억제 → 섭식 중단**(역으로 D1R 억제 → 섭식 개시)을 보인다. 본 논문의 CTB 데이터가 그 분자적 근거를 제공한다: **LH 투사 뉴런의 D1R 발현이 NAcSh(93.6%)와 BNST(15–23%)에서 뒤집힌다.** 두 경로는 모순이 아니라 **표적 세포형(Vglut2 vs Vgat)이 다른 병렬 게이트**다.
 - **[[jennings-2015-visualizing-hypothalamic-network-dynamics]]·[[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — "LH^Vgat"를 단일 집단으로 취급한 한계**: 본 논문은 LH^Vgat의 78%가 accumbal 억제를 받고, 그 직접 억제가 섭취를 멈춘다고 본다. 그러나 Jennings 2015는 LH^Vgat 안에 appetitive/consummatory 비중첩 subset이 있음을, Lee 2026(SNU 김성연 lab)은 **valence 무관 salience ensemble vs value-scaled consumption ensemble**이 있음을 보였다. 따라서 본 논문의 "LH^Vgat 억제 = 섭취 중단"은 **ensemble 평균 효과**이며, 어느 ensemble이 D1R 입력을 받는지는 미해결이다(병기).
-- **[[gordon-2026-lateral-hypothalamic-control-of-the]]·[[stuber-2025-the-neurobiology-of-overeating]] — "게이트"가 유일한 LH 기능이 아니다**: Stuber 2025 리뷰는 본 논문을 "feeding authorization"으로 확정 기술한다. Gordon 2026은 같은 LH^GABA/Glut 균형이 **선조체 DA 지형을 설정하는 조절기**로 작동하고, 그 DA는 섭취 **개시만** 강화함을 보였다. 본 논문의 on/off 게이트 프레임과 Gordon의 연속 조절기 프레임은 **층위가 다른 상보 기술**로 병기한다. 또한 본 논문은 **NAc → LH 방향**이고 Gordon은 **LH → 선조체 DA 방향**이라, 둘을 합치면 Stuber 2016이 그린 **LH^GABA → VTA → NAc → LH^GABA 음성 되먹임 고리**의 두 변이 각각 1차 데이터로 채워진다.
+- **[[gordon-2026-lateral-hypothalamic-control-of-the]]·[[stuber-2025-the-neurobiology-of-overeating]] — "게이트"가 유일한 LH 기능이 아니다**: Stuber 2025 리뷰는 본 논문을 "feeding authorization"으로 확정 기술한다. Gordon 2026은 같은 LH^GABA/Glut 균형이 **striatum DA 지형을 설정하는 조절기**로 작동하고, 그 DA는 섭취 **개시만** 강화함을 보였다. 본 논문의 on/off 게이트 프레임과 Gordon의 연속 조절기 프레임은 **층위가 다른 상보 기술**로 병기한다. 또한 본 논문은 **NAc → LH 방향**이고 Gordon은 **LH → striatum DA 방향**이라, 둘을 합치면 Stuber 2016이 그린 **LH^GABA → VTA → NAc → LH^GABA 음성 되먹임 고리**의 두 변이 각각 1차 데이터로 채워진다.
 - **[[onimus-2026-dopamine-ensembles-regulating-appetite]] — D1R-SPN→LH의 부호가 보고마다 다르다**: 그 리뷰는 D1R-SPN 활성화가 "대체로 food intake↓"이지만 상반 보고(감미료에 활성, rostral NAc AMPA 차단 시 D1R만으로 food seeking)도 있다고 병기하고, **NAc^Sh D1R^Serpinb2 → LH LepR 투사가 leptin의 anorectic 효과를 override**(Liu 2024 Nat Metab)한다고 소개한다. 후자는 "D1R→LH 활성 = 섭식 억제"와 **부호가 반대**로 읽힌다. 아집단(Serpinb2⁺) 차이·표적 세포형(LepR vs Vgat 전체)·조작 시간척도가 모두 달라 직접 비교는 안 되며, 본 논문은 **D1R-MSN을 아집단으로 쪼개지 않았다**(병기).
 - **D1/D2 = direct/indirect 이분법의 한계(원문 인용)**: 저자들이 직접 인용한 **Kupchik 2015**(Nat Neurosci 18:1230)는 "accumbens 투사에서 D1/D2의 direct/indirect 부호화는 성립하지 않는다"고 보고한다. 따라서 본 논문의 "93.6% D1R"은 **direct pathway 소속의 증거가 아니라 수용체 표지의 분포**로 읽어야 한다 → [[concept-medium-spiny-neuron]]의 이분법 서술과 함께 병기.
 
@@ -102,13 +102,13 @@ NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며
 - [[concept-nucleus-accumbens]] — "NAc shell → LH hedonic eating 회로(Kelley·O'Connor)" 서술의 1차 원전. CTB 93.6%·IPSC 56%·BNST 부호 반전 수치 제공.
 - [[concept-medium-spiny-neuron]] — D1R/D2R-MSN 정체. ⚠️ 원문이 인용한 Kupchik 2015는 accumbens에서 direct/indirect 이분법이 성립하지 않는다고 본다.
 - [[stuber-2025-the-neurobiology-of-overeating]] — 본 논문을 "feeding authorization gate"(ref47)로 확정 기술한 리뷰(Lüscher 공저). 급성 식이제한이 이 시냅스를 depress시킨다는 후속(Thoeni 2020)도 그쪽에 정리됨.
-- [[stuber-2016-lateral-hypothalamic-circuits-for]] — 본 논문 결과를 LHA 입력 지도에 배치한 리뷰(D1R 섬유가 LHA 복외측 지배, Orx·MCH 비표적).
+- [[stuber-2016-lateral-hypothalamic-circuits-for]] — 본 논문 결과를 LHA 입력 지도에 배치한 리뷰(D1R 섬유가 LHA ventrolateral 지배, Orx·MCH 비표적).
 - [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — ⚠️ 본 논문([49])을 "상위 구조가 LH 스위치를 지시한다" 모델의 사례로 비판. 학습 locus 쟁점 병기.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ⚠️ medial shell SPN 활성의 부호 상반(Stay on task vs 섭식 중단).
 - [[jennings-2013-the-inhibitory-circuit-architecture]] — BNST^GABA → LH^Vglut2 억제 = 섭식 개시. 본 논문의 BNST D1R 15–23% 데이터가 두 경로의 분자적 분기점.
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — LH^Vgat의 appetitive/consummatory 비중첩 subset. 본 논문이 표적을 LH^Vgat 전체로 다룬 한계의 대조점.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat의 salience vs value-scaled consumption ensemble(SNU 김성연 lab). 어느 ensemble이 D1R 입력을 받는지가 다음 질문.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형 → 선조체 DA 지형(Stuber lab 2026). 본 논문과 **반대 방향**의 LH↔선조체 축.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형 → striatum DA 지형(Stuber lab 2026). 본 논문과 **반대 방향**의 LH↔striatum 축.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab LH^LepR seeking/consummatory 2 subpopulation + NPY disinhibition gate. 본 논문 D1R 억제의 분자 표적 후보.
 - [[kim-2024-normative-framework-dissociates-need]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[concept-need-motivation-pleasure-utility]] — threshold K를 외부 자극이 올리는 기전 후보로서의 게이트.
 - [[liu-2026-granular-motivational-interaction-and]] — "NAc^D1-MSN → LH^GABA 억제(licking 차단)" 서술의 원전. feeding phase별 전용 회로 분해 프레임.

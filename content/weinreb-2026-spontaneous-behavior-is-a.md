@@ -71,11 +71,11 @@ year: 2026
 
 ## 관련 페이지
 - [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
-- [[xu-2020-behavioral-state-coding-by]] — PVH ensemble의 **behavioral state coding**(Sternson, CaRMA); "행동 상태를 신경 앙상블이 부호화"라는 같은 개념 가족, 여기선 시상하부·항상성 상태 vs Weinreb의 dmPFC·수 초 task 상태.
+- [[xu-2020-behavioral-state-coding-by]] — PVH ensemble의 **behavioral state coding**(Sternson, CaRMA); "행동 상태를 신경 앙상블이 부호화"라는 같은 개념 가족, 여기선 hypothalamus·항상성 상태 vs Weinreb의 dmPFC·수 초 task 상태.
 - [[concept-need-motivation-pleasure-utility]] — 자발적 행동을 self-directed task(목표)의 연속으로 보는 관점은 NMPU의 goal/utility 프레임과 접점; 섭식을 상태화된 과제로 분해.
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — goal-directed vs habit(BLA→DMS/CeA→DMS) 전환; dmPFC 상태 제어와 상보적인 "행동 제어 시스템 간 arbitration" 축.
 - [[concept-orbitofrontal-cortex]] — OFC/vmPFC의 가치·목표 부호화; dmPFC의 상태 부호화와 함께 PFC의 goal-directed 표상 지도를 구성.
-- [[fallon-2026-striatal-pathways-dissociably-control-action]] — 선조체 경로의 action counting·goal-directed steering 해리; 본 논문의 DLS=syllable 시간척도와 대비되는 선조체 관점.
+- [[fallon-2026-striatal-pathways-dissociably-control-action]] — striatum 경로의 action counting·goal-directed steering 해리; 본 논문의 DLS=syllable 시간척도와 대비되는 striatum 관점.
 - [[mueller-2025-privi-towards-general-purpose-video]] — NHP 자연주의 행동 정량화 foundation model; 자유행동을 상태로 분해하는 도구 계열(방법 인프라).
 - [[zong-2022-large-scale-two-photon-calcium]] — 자유행동 마우스 대규모 자연주의 이미징(MINI2P); 상태-신경 매핑 확장 인프라.
 - [[concept-dopamine-reward-system]] — self-directed task·보상 추구의 회로 기반; 상태별 affordance 강조와 도파민 보상 학습의 접점.

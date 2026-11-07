@@ -11,12 +11,12 @@ aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-T
 > ① **"입력이 있다"는 강한 주장, "입력이 없다"는 약한 주장.** 이 방법은 통상 tract tracing보다 민감해 새 입력을 찾아내지만([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]가 subiculum·[[concept-zona-incerta|ZI]]를 새로 검출), **음성 결과는 해석이 갈린다** — 같은 논문에서 통상 추적이 보고한 SCN→ARC가 표지되지 않았다.
 > ② **영역 수준 공유 ≠ 세포 수준 공유.** 두 세포타입이 "같은 핵에서 입력을 받는다"는 결과는, **그 핵 안의 같은 뉴런에서 오는지 다른 뉴런에서 오는지 말해 주지 않는다**. 판정하려면 한 개체에 두 시작세포군을 다른 색으로 넣는 이중색 실험이 필요하다. 이 위키에서 [[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]](영역 수준: POMC·AgRP 입력 35영역 공유)와 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]](세포 수준: vDMH^LepR이 AgRP 100% vs POMC 9%)이 정확히 이 두 층위의 대비다.
 > ③ **수는 시작세포 수에 종속된다.** 절대 입력 뉴런 수는 무의미하고 **수렴비(입력/시작세포)** 와 **총 입력 대비 비율**만 논문 간 비교 가능하다.
-> 사용자 lab 관점: 시상하부 표적(ARC·DMH·LH)의 상류를 물을 때 1차 도구이며, [[concept-activity-molecular-registration|CaRMA·TRU-FACT]](활성↔분자정체)와 **짝을 이루는 축**이다. 이쪽은 "누가 입력을 주는가", 저쪽은 "이 활성 세포가 누구인가"를 답한다.
+> 사용자 lab 관점: hypothalamus 표적(ARC·DMH·LH)의 상류를 물을 때 1차 도구이며, [[concept-activity-molecular-registration|CaRMA·TRU-FACT]](활성↔분자정체)와 **짝을 이루는 축**이다. 이쪽은 "누가 입력을 주는가", 저쪽은 "이 활성 세포가 누구인가"를 답한다.
 
 # 단시냅스 광견병 역행추적 (Monosynaptic rabies tracing)
 
 ## 한 줄 요약
-유전적으로 규정된 특정 세포집단("시작세포")에만 감염하도록 조작한 광견병 바이러스를 써서, 그 집단에 **직접(단 한 시냅스 건너) 시냅스하는 상류 뉴런만** 전뇌 규모로 표지·계수하는 회로 해부 방법.
+유전적으로 규정된 특정 세포집단("시작세포")에만 감염하도록 조작한 광견병 바이러스를 써서, 그 집단에 **직접(단 한 시냅스 건너) 시냅스하는 상류 뉴런만** whole-brain 규모로 표지·계수하는 회로 해부 방법.
 
 ## 원리 — 왜 딱 한 시냅스만 건너는가
 
@@ -38,7 +38,7 @@ aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-T
 |---|---|---|
 | **시작세포 (starter cell)** | 광견병 리포터 **와** TVA 리포터를 **함께** 발현하는 세포 | 분모. 이 수를 보고하지 않은 입력 지도는 정량 비교 불가 |
 | **수렴비 (convergence ratio)** | 입력 뉴런 수 ÷ 시작세포 수 | 논문·집단 간 비교 가능한 유일한 절대량. [[wang-2015-whole-brain-mapping-of-the-direct\|Wang 2015]]: ARC POMC **~49** vs ARC AgRP **~21** vs NTS POMC **~74** |
-| **정규화 비율** | 특정 핵의 입력 뉴런 수 ÷ 전뇌 총 입력 수 | 주입량·발현 효율 차이를 흡수. [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]의 "ARC 38%·DMH 26%·PVH 18%"가 이 형식 |
+| **정규화 비율** | 특정 핵의 입력 뉴런 수 ÷ whole-brain 총 입력 수 | 주입량·발현 효율 차이를 흡수. [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]의 "ARC 38%·DMH 26%·PVH 18%"가 이 형식 |
 | **세포 밀도 (cells/mm²)** | 핵 부피로 보정한 표지 밀도 | 큰 핵이 비율에서 과대평가되는 것을 보정. 비율과 밀도의 순위가 어긋날 수 있음(Wang 2015: DM이 수 1위, SO가 밀도 1위) |
 
 ## 필수 대조군
@@ -57,7 +57,7 @@ aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-T
 
 **2. 영역 수준 공유를 세포 수준 공유로 승격하지 말 것**
 같은 핵이 두 세포타입 모두에 투사한다는 결과는, 그 핵의 **같은 뉴런**이 둘 다에 투사하는지 **다른 뉴런**이 각각 투사하는지 구분하지 못한다. 구분하려면 **한 동물 안에서 두 시작세포군을 서로 다른 색으로 표지**하는 이중색 단시냅스 추적이 필요하다([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]] 저자 명시).
-> 저자 주: 최근 추적 연구들은 같은 구조 안의 **비중첩 세포타입이 유사한 입력 패턴**을 갖는 경우를 자주 보고한다(선조체 D1 vs D2 [[concept-medium-spiny-neuron|MSN]], 배측 봉선의 세로토닌성 vs GABA성). 즉 "입력 패턴이 비슷하다"는 결과 자체가 그리 놀랍지 않다.
+> 저자 주: 최근 추적 연구들은 같은 구조 안의 **비중첩 세포타입이 유사한 입력 패턴**을 갖는 경우를 자주 보고한다(striatum D1 vs D2 [[concept-medium-spiny-neuron|MSN]], dorsal 봉선의 세로토닌성 vs GABA성). 즉 "입력 패턴이 비슷하다"는 결과 자체가 그리 놀랍지 않다.
 
 **3. 해부는 기능이 아니다**
 표지는 **시냅스가 있음**을 말할 뿐 부호(흥분/억제)·강도·행동적 필요성은 말하지 않는다. 이 위키에서 그 다음 단계를 밟은 사례:
@@ -79,8 +79,8 @@ aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-T
 | ★ [[wang-2015-whole-brain-mapping-of-the-direct\|Wang 2015]] | 3-바이러스 + **순행 AAV 이중색 병행** + 3D 재구성 | POMC·AgRP·NTS POMC **입력과 출력을 같은 개체·같은 기준**으로. 상호 연결 발견 |
 | [[campos-2016-parabrachial-cgrp-neurons-control-meal\|Campos 2016]] | Calca-Cre 시작 | CGRP^PBN 상류에서 **AgRP** 확인 |
 | [[douglass-2017-central-amygdala-circuits-modulate-food\|Douglass 2017]] | Htr2a-Cre 시작 + 역행추적 | CeA^Htr2a 회로 매핑 |
-| [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral\|Goode 2026]] | 단시냅스 + snRNA-seq + 순행 mWGA | DLS^Pdyn 최다 상류 = **배측/중간 CA3·CA2**, 복측 해마 미미 |
-| [[leow-2026-a-cortical-hypothalamic-neural\|Leow 2026]] | **VITALISTIC** = 광견병 + 조직투명화 + light-sheet 전뇌 | rZI^GABA 입력의 **mPFC(PL·ORBm·ACAd) 우세**·압도적 동측 |
+| [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral\|Goode 2026]] | 단시냅스 + snRNA-seq + 순행 mWGA | DLS^Pdyn 최다 상류 = **dorsal/중간 CA3·CA2**, ventral hippocampus 미미 |
+| [[leow-2026-a-cortical-hypothalamic-neural\|Leow 2026]] | **VITALISTIC** = 광견병 + 조직투명화 + light-sheet whole-brain | rZI^GABA 입력의 **mPFC(PL·ORBm·ACAd) 우세**·압도적 동측 |
 | [[bhatti-mazo-2026-feature-specific-threat-coding-in\|Bhatti Mazo 2026]] | **CVS-N2c ΔG**(h2B-GFP) + **serial two-photon tomography** 자동 계수 + rabies-Flp로 입력핵별 photometry·광억제 | 입력 지도에서 끝내지 않고 **표지된 입력에 기능·인과까지** 부여 |
 | [[godschall-2026-a-brain-reward-circuit-inhibited\|Godschall 2026]] · [[duran-2026-the-central-amygdala-integrates\|Duran 2026]] | VTA DA 시작 단시냅스 | CeA^Glp1r → VTA DA 투사 확증 |
 | [[chen-2026-striatal-control-of-amygdalar\|Chen 2026]] | SI ChAT 시작 | 표지 입력 다수가 Drd2⁺ |
@@ -107,11 +107,11 @@ aliases: [rabies tracing, monosynaptic rabies, 광견병 추적, SAD-ΔG, EnvA-T
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] · [[betley-2013-parallel-redundant-circuit-organization-for]] — AgRP 회로의 입력·출력 정량 선행.
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — 영역 수준 지도를 **세포 수준 선택성**으로 좁힌 대비 사례.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — CVS-N2c + STPT + 입력별 photometry·광억제로 **해부를 기능·인과까지** 확장한 최신형.
-- [[leow-2026-a-cortical-hypothalamic-neural]] — VITALISTIC(광견병+투명화+light-sheet) 전뇌 입력 매핑.
+- [[leow-2026-a-cortical-hypothalamic-neural]] — VITALISTIC(광견병+투명화+light-sheet) forebrain 입력 매핑.
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] · [[campos-2016-parabrachial-cgrp-neurons-control-meal]] · [[douglass-2017-central-amygdala-circuits-modulate-food]] · [[godschall-2026-a-brain-reward-circuit-inhibited]] · [[duran-2026-the-central-amygdala-integrates]] · [[chen-2026-striatal-control-of-amygdalar]] · [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — 위키 내 적용 사례.
 - [[concept-activity-molecular-registration]] — 직교 축(활성↔분자정체 정합).
 - [[concept-spatial-transcriptomics]] · [[concept-hypomap]] — 배선 지도에 세포 정체를 채우는 층.
 - [[concept-computational-ethology]] — 회로 조작의 행동 판독 층.
 - [[concept-arcuate-nucleus]] · [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] — 이 방법이 가장 많이 적용된 표적.
 - [[concept-enteroendocrine-cells]] — 말초(neuropod) 역행 수송 입증에도 사용; 비특이 발현 통제 경고.
-- [[jung-2022-a-forebrain-neural-substrate-for]] — 적용 사례: LH^Vgat의 단시냅스 입력 지도에서 LPB 외측 하위핵이 온도 입력원으로 확인 (Neuron 2022)
+- [[jung-2022-a-forebrain-neural-substrate-for]] — 적용 사례: LH^Vgat의 단시냅스 입력 지도에서 LPB lateral 하위핵이 온도 입력원으로 확인 (Neuron 2022)

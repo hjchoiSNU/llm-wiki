@@ -67,8 +67,8 @@ LH의 **CaMKIIα 프로모터로 표지되는 뉴런**은 신규 물체 접촉·
 - → 저자 결론: **포식·섭식 촉진의 주역은 LH CaMKIIα⁺vGluT2⁻ 뉴런**이며, 선행 연구의 "LH^vGluT2 활성 → 섭식 억제"와의 모순은 LH glutamatergic 집단의 **극단적 이질성** 때문이라고 본다.
 
 ### Figures 4–5 — 상류 MPOA^CaMKIIα: 탐색·사냥은 몰지만 **섭취는 몰지 않는다**
-- **CT-B 647을 LH에 국한 주입** → 전뇌 역추적에서 **MPOA의 조밀한 투사**를 확인. **LH 투사 MPOA 뉴런 340개 중 284개(83.53%)가 CaMKIIα⁺**.
-- **기능 연결**: MPOA에 `AAV-CaMKIIα-hChR2-EYFP` → 세포체 30분 자극 후 전뇌 Fos. LH와 PAG에 축삭·Fos 풍부. **LH 내 Fos⁺ 243개 중 88.06%가 CaMKIIα⁺** → MPOA^CaMKIIα는 LH의 **CaMKIIα 뉴런을 선택적으로 켠다**.
+- **CT-B 647을 LH에 국한 주입** → whole-brain 역추적에서 **MPOA의 조밀한 투사**를 확인. **LH 투사 MPOA 뉴런 340개 중 284개(83.53%)가 CaMKIIα⁺**.
+- **기능 연결**: MPOA에 `AAV-CaMKIIα-hChR2-EYFP` → 세포체 30분 자극 후 whole-brain Fos. LH와 PAG에 축삭·Fos 풍부. **LH 내 Fos⁺ 243개 중 88.06%가 CaMKIIα⁺** → MPOA^CaMKIIα는 LH의 **CaMKIIα 뉴런을 선택적으로 켠다**.
 - **직접 흥분 입증**: **CaMKIIα-cre** 마우스 MPOA에 `AAV-hSyn-DIO-ChrimsonR-mCherry`, LH에 `AAV-EF1α-DIO-GCaMP6s` → MPOA 광자극이 LH CaMKIIα 칼슘을 즉시 상승(paired t-test ****P<0.0001).
 - **MPOA 세포체 자극**(Fig S3): 신규 물체 탐색·"CL" 추격·솜뭉치 물기·물체 > 암컷 주의 이동은 LH와 **동일**. 그러나 결정적 차이 — **사료 펠릿을 옮기기만 하고 먹지 않았다**(Fig S3(r)). MPOA GCaMP 특이성은 243개 중 **96.71%**.
 - **MPOA 포식 활동·필요성**(Fig S4): 크리켓 포식 중 활성 ↑ → 사체 소비 중 ↓ → 종료 시 기저선. 광자극은 인공 먹이·실제 크리켓 추격·물기·포획을 유발하지만 **자기가 죽인 크리켓을 먹지 않고 그 위에 버티고 서 있었다**. `AAV-CaMKIIα-ArchT-EGFP`(AAV2/8, 1.61×10¹³ vg/mL; 특이성 **552개 중 547개 = 99.09%**) 광억제는 **본능적 식욕에 의한 포식을 폐지**했으나 **이동거리·속도는 불변**. 추가로 **MPOA 전기 병소(direct current)** → 12 h 금식 후에도 5분 내 추격·사냥 시도 없음, 그러나 **정상 사료 섭취는 보존**.

@@ -16,7 +16,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 # Lateral hypothalamus (LH)
 
 ## 위치
-시상하부 lateral 영역. 사용자 lab 기준 4 subdivisions ([[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025 EMM]]):
+hypothalamus lateral 영역. 사용자 lab 기준 4 subdivisions ([[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025 EMM]]):
 - **amLH** (anteromedial): AP −0.8~−1.5, ML <1.0
 - **alLH** (anterolateral): AP −0.8~−1.5, ML >1.0
 - **pmLH** (posteromedial): AP −1.5~−2.2, ML <1.0
@@ -37,7 +37,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **좌표 격자가 아니라 발생 전사인자 기반 분자 층판**: Otp/Meis2 × Slc17a6/Slc32a1 네 유전자로 5 zone, 세포타입 분포로 세분하면 9개(LHAd-db·LHAs-db가 약 60° 각도, 그 사이 Meis2 쐐기, 꼬리쪽 LHAhcrt-db). 48 세포타입 중 45개가 특정 zone에 농축되고, Allen Connectivity와 정합(CEA→LHAd-db, VTA→LHAdl, MEA→LHAfm, MM·NDB→LHAfl). 24유전자로 위치 분산의 60±2% 설명 ([[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]).
 - 그러면서도 **국소적으로는 심하게 섞여 있다** — 반경 50 µm 안 평균 16개 타입, 최다 타입도 27%. 기능 쪽 대응으로 [[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]의 743 LH^Vgat 뉴런에서도 appetitive/consummatory 세포가 공간 클러스터로 분리되지 않았다.
 - ⚠️ **ZI 경계는 분자적으로 연속** — LHAs-db가 Inh-9(Nts/Meis2)·Inh-13·17·19를 ZI와 공유하고, 영상 볼륨 내 Pmch⁺의 17%가 ZI다. LH 좌표 주입의 'ZI 확산 기여는 작다'는 판단은 보류해야 한다([[de-vrind-2019-effects-of-gaba-and|de Vrind 2019]]도 ZI 확산을 보고하면서 Zhang & van den Pol 2017과 패턴이 반대라는 논거로 기여를 작게 보았다). [[concept-zona-incerta]] 참조.
-- **LHA Sst**는 아영역에 전적으로 의존: perifornical Sst⁺는 Slc32a1 56% / Slc17a6 44%(후측에선 Slc17a6 최대 71%)인데 tuberal Sst⁺는 Slc32a1 97%. dorsal lateral septum으로 가는 perifornical Sst는 75%가 Slc17a6⁺이고, 활성 시 비식용 물체 갉기·이동거리↑ ([[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]; [[concept-lateral-septum]]).
+- **LHA Sst**는 아영역에 전적으로 의존: perifornical Sst⁺는 Slc32a1 56% / Slc17a6 44%(posterior에선 Slc17a6 최대 71%)인데 tuberal Sst⁺는 Slc32a1 97%. dorsal lateral septum로 가는 perifornical Sst는 75%가 Slc17a6⁺이고, 활성 시 비식용 물체 갉기·이동거리↑ ([[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]; [[concept-lateral-septum]]).
 
 ### Neuropeptide 기반
 | Cell type | 특성 | 식이 효과 |
@@ -59,7 +59,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **LH^LepR의 분자 주소는 아직 확정되지 않았다**: [[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]] scRNA-seq은 LHA^GABA 전반에서 *Lepr*·*Mc4r* 발현이 낮거나 희박하다고 명시하고 Lepr-Cre;EYFP FACS 단일세포 qPCR로 우회했다(흔히 인용되는 '92% GABA'라는 수치는 원문 본문에 없다). [[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]의 24-유전자 EASI-FISH 패널에도 *Lepr*·*Crh*·*Penk*·*Pdyn*가 없다(후보는 Inh-14 Nts/Gal/Gpr101, Inh-11 Gal).
 - **Lepr⁺ LH 뉴런은 최소 두 분자 하위집단** — *Gal*⁺/*Ebf1*⁺ 와 *Tac1*⁺/*Htr2c*⁺/*Opcml*⁺ — 이고 **Ebf1·Opcml은 anorexia nervosa 위험 유전자**다. LepR⁺Ebf1⁺ 공발현이 클수록 불안이 낮다(RNAscope P=0.029) ([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]; [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]).
 - **LHA LepRb와 LHA Nts는 별개 집단이 아니다** — LepRb의 약 60%가 Nts⁺, Nts의 약 30%가 LepRb⁺이고 이 공존은 LHA에만 국한된다 ([[leinninger-2011-leptin-action-via-neurotensin|Leinninger 2011]]). 즉 **LH^LepR 문헌과 LH^Nts 문헌은 상당 부분 같은 세포를 다른 Cre로 조작하고 있다**.
-- **LHA LepRb는 MCH·orexin과 완전 비중첩인 GABAergic 집단**이고(pSTAT3⁺의 81±4%가 LepRb-EGFP⁺, 전부 GAD67⁺) VTA로 조밀 투사하되 선조체·NAc로는 투사하지 않는다 — 단 이는 **dorsal perifornical LHA에 국한된 추적**이다 ([[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]). 같은 좌표에 orexigenic OX/MCH와 anorexigenic LepRb가 **상호 배타적으로 공존**한다는 점이 비선택적 자극·DBS 결과 비일관성의 해부학적 근거다.
+- **LHA LepRb는 MCH·orexin과 완전 비중첩인 GABAergic 집단**이고(pSTAT3⁺의 81±4%가 LepRb-EGFP⁺, 전부 GAD67⁺) VTA로 조밀 투사하되 striatum·NAc로는 투사하지 않는다 — 단 이는 **dorsal perifornical LHA에 국한된 추적**이다 ([[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]). 같은 좌표에 orexigenic OX/MCH와 anorexigenic LepRb가 **상호 배타적으로 공존**한다는 점이 비선택적 자극·DBS 결과 비일관성의 해부학적 근거다.
 - ⚠️ **LepR-Cre 조작의 순도 confound**: *Lepr* mRNA는 LHA^Vglut2 투사뉴런 일부에도 있고 LHb 투사에서 비율이 유의하게 높다(X²=121.67, p<0.0001; *Ghsr*은 차이 없음) ([[rossi-2021-transcriptional-and-functional-divergence|Rossi 2021]]).
 - **LH^Nts는 하나가 아니다** — 전달물질은 약 **70:30**(GABA:Glut; Mickelsen sc-qPCR Slc32a1 78% / Slc17a6 26%)이고 공간적으로 흥분성 1 + 억제성 3 클러스터이며, cluster 내부는 **Crh형 vs Tac1형으로 거의 상호배타**(둘 다 9.9%, Tac1만 50.4%, Crh만 39.7%)다 ([[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]·[[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]; [[concept-neurotensin]]).
 - ⚠️ **위 표의 'Nts 95% Gal 공발현'은 리포터·IHC 기반 리뷰 수치**([[bonnavion-2016-hubs-and-spokes-of|Bonnavion 2016]]가 정리한 Laque 2013)이고, 1차 census에서는 **Gal 공발현이 Nts⁺Slc32a1⁺의 59.0%**이며 Nts⁺Slc32a1⁻에서는 0%다. Cartpt 공발현도 Nts⁺ 전체의 18–20%에 그친다 — 'Nts = Nts/Cartpt 집단'이라는 등치도 과대다 ([[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]). 같은 이유로 **MC4R⁺의 약 75%가 Nts**(Cui 2012)·LepRb 중 Gal⁺ 20–44% 같은 수치도 근거 종류를 밝혀 인용해야 한다([[concept-mc4r]]).
@@ -67,7 +67,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **MCH 뉴런은 Cartpt 기준으로 두 아형**: LHA 내 Cartpt⁺ 77% vs Cartpt⁻ 22%(Cartpt⁻는 LHAdl에 모여 있음), 비만 관련 GPCR *Gpr83*을 아형별로 다르게 발현(Cartpt⁺ 87% vs Cartpt⁻ 43%) ([[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]).
 - ⚠️ **해리 기반 단일세포 데이터 함정**: *Pmch*·*Hcrt* 전사체는 손상 뉴런의 ambient mRNA로 모든 클러스터에 번지므로 '%Pmch⁺/%Hcrt⁺ 세포'를 그대로 읽으면 안 된다([[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]·[[rossi-2019-obesity-remodels-activity-and|Rossi 2019]] 상호 인용).
 - **LH^Vgat의 기능 ensemble과 분자 정체는 아직 연결되지 않았다**: Vgat-eYFP는 MCH·Orexin과 **0% 중첩**이고([[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]), 두 기능 ensemble(salience vs value-scaled consumption)은 Cal-Light 투사 추적으로도 구분되지 않았다([[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]).
-- **LH^Vglut2 '단일 섭식 브레이크'는 최소 두 투사 정의 집단의 합**이다 — 전측 *Pax6*⁺/*Sostdc1*⁺→**LHb**, 후측 *Pdyn*⁺/*Hcrt*⁺→**VTA**(106 DEG). LHb 투사가 더 흥분성이고, **leptin이 두 경로를 반대 부호로 민다**(LHb 투사 반응↓·VTA 투사 반응↑, interaction p=1.6e-14) ([[rossi-2021-transcriptional-and-functional-divergence|Rossi 2021]]).
+- **LH^Vglut2 '단일 섭식 브레이크'는 최소 두 투사 정의 집단의 합**이다 — anterior *Pax6*⁺/*Sostdc1*⁺→**LHb**, posterior *Pdyn*⁺/*Hcrt*⁺→**VTA**(106 DEG). LHb 투사가 더 흥분성이고, **leptin이 두 경로를 반대 부호로 민다**(LHb 투사 반응↓·VTA 투사 반응↑, interaction p=1.6e-14) ([[rossi-2021-transcriptional-and-functional-divergence|Rossi 2021]]).
 
 ## 시간 동역학 (appetitive vs consummatory)
 
@@ -96,7 +96,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **LH^GABA = 섭식 조각의 '개시' 신호, 유지는 DR^GABA** — 접촉 지속과의 반응 지속 상관이 LH^GABA R=0.387(긴 접촉에선 종료 전 소실) vs DR^GABA R=0.908. 실시간 폐쇄회로 억제는 접촉 잠복기↑·물기 비율↓↓이고 15분 연속 억제 시 섭취가 완전히 차단된다 ([[liu-2023-an-iterative-neural-processing|Liu 2023]]·[[liu-2026-granular-motivational-interaction-and|Liu 2026]]).
 - **LH^GABA는 비식용 물체에도 먹이와 같은 접근·접촉 반응**을 보여 '표적 탐침 충동'을 부호화한다(플라스틱 물체 접촉 지속 상관 R=0.556 > 먹이 R=0.387) ([[liu-2023-an-iterative-neural-processing|Liu 2023]]).
 - **가치·valence의 연속축**: 섭취 중 LH^GABA의 sustained 활동은 섭취물 가치에 비례하고 LH^Glut는 혐오 용액에서 반비례해, 두 집단의 **비율(LHA^Ratio)** 이 하나의 축으로 가치를 표현한다. 섭취 중 LH^GABA 광억제 → 물 섭취↓, LH^Glut 광억제 → NaCl 섭취↑ ([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]).
-- **선조체 DA는 섭취의 '개시(bout 수)'만 강화하고 '지속(bout 길이)'은 강화하지 않는다** → 지속은 비선조체 회로 담당 ([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]; [[concept-liking-wanting]]·[[concept-consumption-vigor]]).
+- **striatum DA는 섭취의 '개시(bout 수)'만 강화하고 '지속(bout 길이)'은 강화하지 않는다** → 지속은 비striatum 회로 담당 ([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]; [[concept-liking-wanting]]·[[concept-consumption-vigor]]).
 - **LH^Vgat는 개시 노드만이 아니라 진행 중 섭취의 허가 대상**이다: 상류 NAcSh **D1R-MSN** 입력이 섭취 개시에 꺼지고 종료에 켜지며(LH 투사 NAcSh 세포의 93.6%가 D1R-MSN), LH^Vgat 억제는 24 h 금식에도 진행 중 licking을 끊는다 ([[oconnor-2015-accumbal-d1r-neurons-projecting|O'Connor 2015]]).
 - ⚠️ **먹이통 무게 단일 지표는 phase를 혼동시킨다**: LH^Vgat hM3Dq의 'chow 섭취↑'는 **갉기 spillage**였고(나무 블록도 갉음, chow 가루 분리 칭량 시 실제 섭취 불변) lard 섭취·palatable 선호는 오히려 ↓, 수평 운동도 ↓였다. 같은 좌표·같은 hM3Dq로 **LepR subset**을 켜면 바닥 chow 섭취↓(7 h P=5.3e-8)·운동↑·체온↑로 **부호가 갈린다** ([[de-vrind-2019-effects-of-gaba-and|de Vrind 2019]]).
 - ⚠️ **대량(bulk) 활성 조작은 phase 다양성을 덮어쓴다**: hM3Dq/CNO는 lick(소비)만 크게 올리고 nose poke·break point는 바꾸지 못하는데, taCasp3 ablation은 lick·nose poke·break point를 모두 떨어뜨린다 ([[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]). 조작 양식이 phase 결론을 만든다.
@@ -107,7 +107,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - **MCH는 'consummatory 전담'이 아니라 통합형**: 학습된 cue CS+>CS−, 음식 맥락 진입, cue 반응이 핥기 잠복 예측(R²=0.50), 섭취 중 식사 초기 최대 후 감쇠하며 **누적 칼로리를 예측**(R²=0.93) ([[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons|Subramanian 2023]]). ⚠️ 기능 상실 실험 없음.
 - **상류 Need 신호도 조각난다**: 섭식 중 AgRP는 평탄히 꺼지는 게 아니라 **bout 단위로 진동**한다([[liu-2023-an-iterative-neural-processing|Liu 2023]]·[[aitken-2024-negative-feedback-control-of-hypothalamic|Aitken 2024]]: 각 licking bout마다 time-locked dip, τ≈9.5 s; dip을 막으면 satiation 지연·섭취↑).
 - **Need vs Motivation 분리는 광유전 시간 동역학 자체로 확인**된다 — AgRP 10 s 활성은 자극 후에도 섭식이 지속되지만 LH^LepR 10 s 활성은 **자극 종료와 함께 섭식이 즉시 중단**된다 ([[kim-2024-normative-framework-dissociates-need|Kim 2024]]; [[concept-need-motivation-pleasure-utility]]).
-- **appetitive→consummatory 전이는 drift-to-threshold로 읽을 수 있다** — 선조체 pVLS dSPN ramping 기울기가 licking 개시 시점을 예측하고(p=4.3e-11), 글루탐산 입력에는 ramping이 없어 선조체 국소 변환이다 ([[zhang-2026-inherited-input-and-local-transformations|Zhang 2026]]).
+- **appetitive→consummatory 전이는 drift-to-threshold로 읽을 수 있다** — striatum pVLS dSPN ramping 기울기가 licking 개시 시점을 예측하고(p=4.3e-11), 글루탐산 입력에는 ramping이 없어 striatum 국소 변환이다 ([[zhang-2026-inherited-input-and-local-transformations|Zhang 2026]]).
 - **GLP-1RA는 두 phase를 동시에 깎는다**: Ex-4가 LH^Vgat의 cue 반응 진폭과 섭취 흥분·억제 진폭을 모두 감소시키되 class 비율은 바꾸지 않는다 ([[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]). 후보 상류는 dLS^GLP-1R→LHA 억제 강화([[lu-2024-dorsolateral-septum-glp-1r-neurons|Lu 2024]]); 사용자 lab의 식전 포만([[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]])과 병렬인 LH 작용점이다.
 - **영장류 번역**: LHA GABA 비선택적 화학유전 활성화는 **palatable food 한정**으로 goal-directed 섭식·동기를 늘리고 설치류식 비정상 갉기를 만들지 않는다 ([[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]]) — bulk 조작의 phase 편향이 종에 따라 다를 수 있다.
 
@@ -119,7 +119,7 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 |---|---|---|---|
 | [[jung-2022-a-forebrain-neural-substrate-for\|Jung 2022]] (김성연) | 열 자극 vs 칼로리 | **thermal P&R 76개** vs 칼로리 보상 86개, 겹침 17개뿐. 집단 벡터가 거의 직교(칼로리–열 처벌 81°) | **실패** — Nts·Tac2·PAG 투사로 정의한 집단이 어느 쪽 반응 프로필과도 안 맞음 |
 | [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles\|Lee 2026]] (김성연) | salience vs 섭취 | **salience ensemble**(혐오 열 + 먹이 cue) vs **ingestion ensemble**(먹이·물·고형식 일반화, 가치 스케일) | **미시도** — 저자가 post hoc 전사체를 다음 단계로 제시 |
-| [[gordon-2026-lateral-hypothalamic-control-of-the\|Gordon 2026]] (Stuber) | GABA vs Glut의 **비** | 가치에 대해 부호가 반대(GABA 양 / Glut 음). 비가 선조체 전후축 DA 지형을 설정 | 해당 없음(전달물질 수준) |
+| [[gordon-2026-lateral-hypothalamic-control-of-the\|Gordon 2026]] (Stuber) | GABA vs Glut의 **비** | 가치에 대해 부호가 반대(GABA 양 / Glut 음). 비가 striatum 전후축 DA 지형을 설정 | 해당 없음(전달물질 수준) |
 
 **★ 투사 기반 표적화 경고 — 독립적으로 두 번 나왔다**
 - Jung 2022 Figure S7: 열 처벌 활성 뉴런과 칼로리 보상 활성 뉴런의 **투사 패턴이 구별되지 않았다**.
@@ -155,10 +155,10 @@ aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 - LH → PVH·DMH·DBB (다양한 효과)
 
 **2026-10 추가 — 출력 분지와 도파민 인터페이스**
-- **기전 확정**: LH^GABA→VTA 말단 자극은 VTA GABA 개재뉴런을 DA 뉴런보다 더 강하게 억제해 DA를 **탈억제**하고 NAc DA를 올리며, 접근·장소선호·ICSS·사회 상호작용·물체 조사를 가로질러 행동을 활성화한다. LH^Glut→VTA는 반대로 회피·NAc DA 감소를 만든다 ([[nieh-2016-inhibitory-input-from-the|Nieh 2016]]).
-- ⚠️ **출력은 VTA 단일 표적이 아니다**: 전뇌 지도에서 LH^GABA는 LH 국소·LHb·편도·BNST·중격·VTA(PBP)·vlPAG·IL/PL mPFC로 분기한다 — 말단 조작 결과의 해석 범위를 제한해야 한다 ([[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]]; [[stuber-2016-lateral-hypothalamic-circuits-for|Stuber 2016]]).
-- **LH^GABA/LH^Glut 비율이 선조체 DA를 전후축 gradient로 인과 설정**한다: GABA→전측(NAc) DA↑, Glut→전측↓·tail of striatum↑ (223 fibers/47 mice/7 subregions) ([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]).
-- **LH^MCH는 선조체 DA로 설탕의 '영양 가치'를 전달**한다 — MCH 자극+sucralose가 sucrose 선호를 82%→20%로 역전시키고 선조체 DA를 +69% 올리며, MCH 제거는 sucrose 유발 DA와 영양 조건화를 없앤다. 단 **MCH 자극 자체는 보상이 아니다** ([[domingos-2013-hypothalamic-melanin-concentrating-hormone|Domingos 2013]]).
+- **기전 확정**: LH^GABA→VTA 말단 자극은 VTA GABA interneuron를 DA 뉴런보다 더 강하게 억제해 DA를 **탈억제**하고 NAc DA를 올리며, 접근·장소선호·ICSS·사회 상호작용·물체 조사를 가로질러 행동을 활성화한다. LH^Glut→VTA는 반대로 회피·NAc DA 감소를 만든다 ([[nieh-2016-inhibitory-input-from-the|Nieh 2016]]).
+- ⚠️ **출력은 VTA 단일 표적이 아니다**: whole-brain 지도에서 LH^GABA는 LH 국소·LHb·amygdala·BNST·septum·VTA(PBP)·vlPAG·IL/PL mPFC로 분기한다 — 말단 조작 결과의 해석 범위를 제한해야 한다 ([[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]]; [[stuber-2016-lateral-hypothalamic-circuits-for|Stuber 2016]]).
+- **LH^GABA/LH^Glut 비율이 striatum DA를 전후축 gradient로 인과 설정**한다: GABA→anterior(NAc) DA↑, Glut→anterior↓·tail of striatum↑ (223 fibers/47 mice/7 subregions) ([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]).
+- **LH^MCH는 striatum DA로 설탕의 '영양 가치'를 전달**한다 — MCH 자극+sucralose가 sucrose 선호를 82%→20%로 역전시키고 striatum DA를 +69% 올리며, MCH 제거는 sucrose 유발 DA와 영양 조건화를 없앤다. 단 **MCH 자극 자체는 보상이 아니다** ([[domingos-2013-hypothalamic-melanin-concentrating-hormone|Domingos 2013]]).
 - **LH orexin→VTA는 학습된 소비성 보상 cue에 의한 추구·재발 채널**(NAc D1R→LH^Vgat 게이트와 비중첩): LH 국소 orexin이 소거된 morphine CPP를 복원하고 SB-334867로 완전 차단, VTA 내 orexin A 단독으로도 복원 ([[harris-2005-a-role-for-lateral|Harris 2005]]).
 - **LH^Lepr의 출력 분지가 기능을 가른다**: 초기역경 모델에서 폭식을 구동하는 것은 **LH^Lepr→vlPAG^Penk** 탈억제이고 VTA·MPA 분지는 무효다 ([[shin-2023-early-adversity-promotes-binge-like-eating|Shin 2023]]).
 - ⚠️ **투사 표적별 기능 부호는 측정 축에 따라 뒤집힌다**: 통증 축에서 LH^Glu→LHb는 통각과민이지만 →VTA·LPO·LPAG는 진통이고, LH^GABA→LHb는 진통이다 ([[jia-2026-novelty-exploration-activated-ensemble-in|Jia 2026]]; [[concept-lateral-habenula]]).
@@ -272,7 +272,7 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - **NAcSh D1-MSN→LH 억제 시냅스의 eCB 의존 depression**이 결핍·단기 HFD에서 과식 게이트를 열고 체중 회복 1주 후 사라진다 ([[thoeni-2020-depression-of-accumbal-to|Thoeni 2020]]; [[concept-weight-regain-defended-adiposity]]).
 - **지표 수준의 수렴**: 결핍 유발 과식과 그 약리적 차단은 전부 **bout 수(wanting)** 에만 나타나고 **bout당 lick 수(liking)** 는 어느 조건에서도 변하지 않는다 — 다이어트 후 재발은 liking이 아니라 wanting 축의 현상이다 ([[thoeni-2020-depression-of-accumbal-to|Thoeni 2020]]·[[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]·[[guillaumin-2023-disentangling-the-role-of-nac|Guillaumin 2023]]; [[concept-liking-wanting]]).
 - **초기 역경은 LH *Lepr*을 선택적으로 하향조절**해 LH^Lepr 흥분성을 높이고, LH^Lepr→vlPAG^Penk 재편으로 성체 HFD 재노출 시 폭식·비만을 만든다(LH *Lepr* shRNA/CRISPR KO만으로도 ELT 없이 폭식 재현) ([[shin-2023-early-adversity-promotes-binge-like-eating|Shin 2023]]·[[kim-2026-early-life-stress-alters-h3k4me1|Kim 2026]]; [[concept-early-life-adversity]]).
-- **연결 가설**: brake만 둔화되면 [[gordon-2026-lateral-hypothalamic-control-of-the|LHA^Ratio]]가 위로 치우쳐 전측(NAc) 가치 채널이 과대 설정된다는 예측이 나온다 — ⚠️ 비만 상태에서의 직접 검증은 아직 없다.
+- **연결 가설**: brake만 둔화되면 [[gordon-2026-lateral-hypothalamic-control-of-the|LHA^Ratio]]가 위로 치우쳐 anterior(NAc) 가치 채널이 과대 설정된다는 예측이 나온다 — ⚠️ 비만 상태에서의 직접 검증은 아직 없다.
 
 ## 임상
 
@@ -284,7 +284,7 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - ⚠️ **RMR 수치 병기**: [[whiting-2019-deep-brain-stimulation-of|Whiting 2019]] 원문은 급성 휴식대사율 **+20%(subject 1)·+16%(subject 2)** 와 야간 수면 에너지소비 **+10.4–10.5% / +4.8%** 를 보고한다(n=2, 둘 다 폐경 여성). **자극을 끄면 즉시 기저로 복귀**하고, 최적 설정은 개인마다 달라(185 Hz/5.5 V vs 60 Hz/3.8 V) **주파수보다 contact 위치·최대 내약 전압이 중요**했다. 체중·임상 효과는 평가되지 않았다 — 위 '16–28%'는 다른 요약 경로의 수치이므로 병기한다.
 - **열생산의 세포 후보**: LH^Vgat·LH^LepR 활성 모두 눈 온도(체온 proxy)를 올리고 3일 반복으로 체중을 줄이며, LH^Vgat에서는 **수평 운동이 줄어도 체온이 올라** 운동과 독립된 열생산을 시사한다(저자 제시 기전은 caudal PAG 경유 BAT thermogenesis) ([[de-vrind-2019-effects-of-gaba-and|de Vrind 2019]]). ⚠️ 눈 표면 온도 proxy이고 BAT 온도·UCP1·간접 열량 측정이 없다 → 인간 LHA DBS의 RMR↑를 매개할 **후보**일 뿐이다.
 - **인간 LHA 진동 서명**: 배고픔 중 food 이미지에 beta/low-gamma↑·theta↓, 포만에서 alpha↑·beta↓. 포만 리듬을 모사한 **8 Hz 자극은 주관적 fullness만 만들고 craving·실제 섭취량은 바꾸지 못했다** — homeostatic 포만과 non-homeostatic craving의 분리 ([[talakoub-2017-lateral-hypothalamic-activity-indicates|Talakoub 2017]], n=1 PWS; [[concept-responsive-neurostimulation]]·[[concept-loss-of-control-eating]]).
-- **인간 LH–배외측 해마(dlHPC) orexigenic 축**: 7T tractography로 LH streamline이 dlHPC에 수렴하고, 침습 전극에서 sweet-fat cue anticipation에 저주파(4–6 Hz)가 특이적으로 상승하며, LH↔dlHPC 양방향 evoked potential과 post-mortem MCH⁺ 투사가 확인된다. **폭식 경향군에서 LH–dlHPC 연결성이 감소**해 있고 독립 비만 예측인자다 ([[barbosa-2023-an-orexigenic-subnetwork-within-the|Barbosa 2023]]; [[concept-hippocampus-feeding]]). 표적화 쪽 짝은 NAc→LH tractography ([[parker-2022-appetitive-mapping-of-the-human|Parker 2022]]).
+- **인간 LH–dorsolateral hippocampus(dlHPC) orexigenic 축**: 7T tractography로 LH streamline이 dlHPC에 수렴하고, 침습 전극에서 sweet-fat cue anticipation에 저주파(4–6 Hz)가 특이적으로 상승하며, LH↔dlHPC 양방향 evoked potential과 post-mortem MCH⁺ 투사가 확인된다. **폭식 경향군에서 LH–dlHPC 연결성이 감소**해 있고 독립 비만 예측인자다 ([[barbosa-2023-an-orexigenic-subnetwork-within-the|Barbosa 2023]]; [[concept-hippocampus-feeding]]). 표적화 쪽 짝은 NAc→LH tractography ([[parker-2022-appetitive-mapping-of-the-human|Parker 2022]]).
 - **영장류 cell-type 특이 path**: AAV9-hDlx-hM3Dq CED + MRI 가이드로 LHA GABA를 활성화하면 **palatable food 한정**으로 goal-directed 섭식·동기가 늘고(unpalatable·물·비식품·만복·CNO 단독에서는 전부 무효), [18F]flumazenil PET·7T MRS로 생물학적 효능이 검증됐으며 설치류식 aberrant gnawing은 없었다 ([[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]], n=3). ⚠️ LH^Vgat 전체 비선택적 조작이고 rs-fMRI 소견은 상관 수준.
 - **GLP-1RA 시대의 접점**: 실사용 코호트에서 반응 개인차가 임상·유전 요인으로 약 25%만 설명된다 — 나머지가 행동 표현형·회로 마커가 들어갈 자리이고, **Ex-4에 의한 LH^Vgat cue·섭취 반응 진폭 감쇠 폭**이 후보 지표다([[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]) ⚠️ 인간에 직접 측정된 바 없는 **연결 가설** ([[concept-glp1ra-response-variability]]·[[concept-glp-1]]).
 
@@ -310,7 +310,7 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — VTADA→LH가 outcome-specific 학습·결정을 구동; 메스암페타민이 LH-VTA 강화 (Neuron 2026, Sharpe lab).
 - [[person-sharpe-melissa]] — "cognitive LH" framework 원전 인물 hub.
 - [[stuber-2025-the-neurobiology-of-overeating]] — NAc D1R-MSN→LHA GABA "feeding authorization" gate·LHA glutamate 억제 (Neuron 2025).
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **LHA의 위상 재정의**: LH^GABA/LH^Glut를 한 마우스에서 동시 기록하고 선조체 6–7곳 DA를 함께 측정했다. GABA/Glut를 "engine vs brake" 스위치가 아니라 **두 집단의 비(LHA^Ratio)라는 연속 gain 변수**로 보며, 이 비가 섭취물 가치·valence를 연속축으로 추적하고 선조체 **전후축 도파민 지형**(전방 가치 / 후방 감각운동 / TS 평행)을 인과적으로 세운다(GABA=전방 NAc DA↑, Glut=전반 DA↓·**TS DA↑**). 소비 중 GABA는 가치와 양으로(FR:Suc·WR:NaCl에서 뚜렷), Glut는 혐오 용액 조건(WR:NaCl)에서 음으로 scaling. 하류 도파민은 핥기의 **개시**를 강화한다. LH를 "먹을지 스위치"에서 "선조체 어디에 DA를 뿌릴지 조절기"로 재정의 (Neuron 2026, Stuber lab). 개념 [[concept-striatal-dopamine-gradient]] · 인물 [[person-stuber-garret]].
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] — **LHA의 위상 재정의**: LH^GABA/LH^Glut를 한 마우스에서 동시 기록하고 striatum 6–7곳 DA를 함께 측정했다. GABA/Glut를 "engine vs brake" 스위치가 아니라 **두 집단의 비(LHA^Ratio)라는 연속 gain 변수**로 보며, 이 비가 섭취물 가치·valence를 연속축으로 추적하고 striatum **전후축 도파민 지형**(전방 가치 / 후방 감각운동 / TS 평행)을 인과적으로 세운다(GABA=전방 NAc DA↑, Glut=전반 DA↓·**TS DA↑**). 소비 중 GABA는 가치와 양으로(FR:Suc·WR:NaCl에서 뚜렷), Glut는 혐오 용액 조건(WR:NaCl)에서 음으로 scaling. 하류 도파민은 핥기의 **개시**를 강화한다. LH를 "먹을지 스위치"에서 "striatum 어디에 DA를 뿌릴지 조절기"로 재정의 (Neuron 2026, Stuber lab). 개념 [[concept-striatal-dopamine-gradient]] · 인물 [[person-stuber-garret]].
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — RL framework로 LH→VTA 통합.
 - [[concept-primary-reward-signals]] — LH→VTA가 매개하는 state-driven reward.
 - [[concept-interoception]] — LH가 fluid interoception → reward 변환.
@@ -320,14 +320,14 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH Fos "novelty ensemble"이 통증·정서·보상을 아우르는 general salience hub; opioid 비의존 진통·항불안 (Nat Commun 2026).
 - [[liu-2026-granular-motivational-interaction-and]] — LH^GABA=feeding initiation hub, LH^VGLUT2=brake/interruption; 두 집단의 antagonistic 미세조정 (Neuron 2026).
 - [[person-korotkova-tatiana]] — 동행 lab.
-- [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — 인간 LH→배외측 해마(dlHPC) MCH orexigenic 투사; 비만에서 연결성↓ (Halpern, Nature 2023).
+- [[barbosa-2023-an-orexigenic-subnetwork-within-the]] — 인간 LH→dorsolateral hippocampus(dlHPC) MCH orexigenic 투사; 비만에서 연결성↓ (Halpern, Nature 2023).
 - [[parker-2022-appetitive-mapping-of-the-human]] — 인간 NAc→LH tractography로 rDBS 표적화 (Halpern).
 - [[concept-hippocampus-feeding]] — LH–dlHPC orexigenic 축 개념 hub.
 - [[concept-nucleus-accumbens]] — NAc shell→LH hedonic eating 회로.
 - [[freire-agulleiro-2026-early-life-programming-of]] — maternal obesity LH connectivity 강화.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 리뷰; LH 포함 GLP-1R 부위별 활성 정리 (APEM 2025, 본 lab).
-- [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 식이 즉시(감각) 단계에 시상하부(LH 추정) DA 분비 검출 (Cell Metab 2019).
+- [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 식이 즉시(감각) 단계에 hypothalamus(LH 추정) DA 분비 검출 (Cell Metab 2019).
 - [[concept-central-amygdala-glp1r]] — hedonic feeding의 또 다른 mesolimbic 상류(CeA^Glp1r→VTA→NAc)와 대비.
 - [[concept-deep-brain-stimulation]] — LHA를 표적하는 침습 DBS hub.
 - [[whiting-2013-lateral-hypothalamic-area-deep]] · [[whiting-2019-deep-brain-stimulation-of]] — 인간 LHA DBS(RMR↑).
@@ -349,12 +349,12 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[person-soden-marta]] — LH-Nts↔VTA 신경펩타이드 회로 연구자.
 - [[concept-zona-incerta]] · [[leow-2026-a-cortical-hypothalamic-neural]] — 인접 orexigenic 노드 ZI; rZI^GABA는 강박 섭식 전담(LH^GABA→VTA sucrose seeking과 병렬, TN^SST 일반 식욕과 해리).
 - [[concept-medial-preoptic-area]] · [[jamieson-2026-neural-circuits-for-mammalian-parental]] — LH가 중재하는 drive 목록의 **바깥쪽 확장**: 양육이 섭식과 경쟁하며, MPOA가 그 중재 노드. LH→PVN^OT 흥분성 입력이 부성 양육 전환에 관여 (NRN 2026).
-- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **LHA subfornical area(LHAsf)→외측중격(LS)** 이 LH의 새 출력 표적으로 확인. 이 상행 투사는 위협 회피에서 **행동 예고 신호**(CS 내내 ramp → Av-run까지)를 나르며, 억제 시 회피 확률↓. 시상하부 입력 전반이 LS에 **bottom-up 행동·현저성** 축을 공급한다 (Nature 2026, Fishell lab).
-- [[concept-lateral-septum]] — LH와 상호 연결되는 변연계 평가 노드. [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 해마→LS→LH→DMH→AgRP 가설과 방향성 쟁점.
-- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **LHA^Vgat 뉴런이 외측중격 DLS^Pdyn의 단시냅스 억제 표적**(광유발 IPSC, EPSC 없음; orexin·VTA는 비표적). 이 억제가 **맥락에 따라 얼마나 먹을지**를 정한다. [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 LHA→LS 상행과 합쳐 **LS↔LHA 상호 회로** 성립 (Neuron 2026).
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **LHA subfornical area(LHAsf)→lateral septum(LS)** 이 LH의 새 출력 표적으로 확인. 이 상행 투사는 위협 회피에서 **행동 예고 신호**(CS 내내 ramp → Av-run까지)를 나르며, 억제 시 회피 확률↓. hypothalamus 입력 전반이 LS에 **bottom-up 행동·현저성** 축을 공급한다 (Nature 2026, Fishell lab).
+- [[concept-lateral-septum]] — LH와 상호 연결되는 limbic system 평가 노드. [[gruzdeva-2026-hunger-neurons-track-available-food|Gruzdeva 2026]]의 hippocampus→LS→LH→DMH→AgRP 가설과 방향성 쟁점.
+- [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **LHA^Vgat 뉴런이 lateral septum DLS^Pdyn의 단시냅스 억제 표적**(광유발 IPSC, EPSC 없음; orexin·VTA는 비표적). 이 억제가 **맥락에 따라 얼마나 먹을지**를 정한다. [[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]의 LHA→LS 상행과 합쳐 **LS↔LHA 상호 회로** 성립 (Neuron 2026).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — LS^Nts→LH 종말 광자극만으로 섭취가 가역적으로 감소. LS→LH 억제의 **두 번째 병렬 채널**(DLS^Pdyn와 세포군 거의 비중첩) (eLife 2020).
 - [[concept-lateral-habenula]] — LH→LHb 공격성·서열 상실 투사의 하류 구조 개념 hub(혐오·음성강화 축).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — **LH가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나. ARC POMC·AgRP의 주요 시상하부 입력원이자 두 집단 축삭의 조밀한 표적 = 상호 연결. LH를 ARC의 하류로만 그리면 안 된다는 해부 근거 (Front Neuroanat 2015).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **LH가 멜라노코르틴 세 갈래 모두에 직접 투사하는 12개 공통 상류 핵** 중 하나. ARC POMC·AgRP의 주요 hypothalamus 입력원이자 두 집단 축삭의 조밀한 표적 = 상호 연결. LH를 ARC의 하류로만 그리면 안 된다는 해부 근거 (Front Neuroanat 2015).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — NAc medial shell SPN이 **순 억제**될 때 탈억제되는 하류 표적. O'Connor 2015의 D1-SPN→LHA 섭식 게이팅이 이 모델의 '섭식판'이며, 두 설명은 SPN 활성의 부호에서 반대 예측을 내므로 병기 필요.
 - ★ [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 같은 LH^Vgat 뉴런을 세션 간 2-photon으로 추적해 **두 기능 ensemble**로 분해했다: 혐오 열자극·먹이 cue·학습 cue에 함께 반응하는 **motivational salience ensemble**(중립 tone엔 무반응) vs 먹이·물·고형식 섭취에 공통으로 반응하며 금식·농도·Ex-4에 따라 진폭이 조절되는 **value-scaled ingestion(consumption) ensemble** (Cell Rep 2026, SNU 김성연 lab). ⚠️ 긴장 둘: 위내 먹이 주입에도 반응해 "calorie 아님" 서술과 맞지 않고, LH^Vgat 일부가 혐오 자극에 흥분해 "GABAergic = 식이 ↑" 단순 서술과도 맞지 않는다(활동 상관 vs 인과 조작 — 층위가 달라 병기).
 - [[person-kim-sung-yon]] — SNU. LH^Vgat의 체온조절 행동·salience/ingestion ensemble 연구(Jung 2022, Lee 2026)
@@ -367,8 +367,8 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — EASI-FISH 36,423 뉴런 공간 아틀라스. Slc32a1 55% vs Slc17a6 45%로 **이분법은 유지**되고, LHA는 좌표 격자가 아니라 **Otp/Meis2 기반 비스듬한 분자 층판 9구역**으로 분할되며 구역마다 받는 축삭 입력이 다르다. Hcrt·Pmch의 공간·분자 하위구역, ZI–LHA 연속성, 국소 혼합(반경 50 µm 안 16개 타입) (Cell 2021).
 - [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — LHA scRNA-seq 1차 census(흥분성 15 + 억제성 15) + 삼중 FISH 검증. Nts 70:30·Crh형/Tac1형 상호배타, Gal 공발현 59%, orexin 93% Slc17a6, Sst의 아영역 의존성, **Lepr·Mc4r는 잡히지 않음**(ambient mRNA 함정 명시) (Nat Neurosci 2019).
 - [[bonnavion-2016-hubs-and-spokes-of]] — "hubs and spokes" Topical Review. 자주 인용되는 공발현 수치(LepRb 60% Nts, Nts–LepRb 95% Gal, MC4R 75% Nts, LepRb→Hcrt 30% 접촉)의 **출처 정리** — 모두 리포터·IHC 근거이고 Mickelsen 2019가 전사체로 재정량했다 (J Physiol 2016).
-- [[rossi-2021-transcriptional-and-functional-divergence]] — LHA^Vglut2 brake가 **투사 표적에 따라 둘로 갈린다**: 전측 Pax6⁺→LHb, 후측 Pdyn/Hcrt⁺→VTA. **leptin이 두 경로를 반대 부호로** 민다(p=1.6e-14). Lepr mRNA가 LHb 투사에 더 많아 LepR-Cre 순도 confound (Neuron 2021, GSE169176).
-- [[leinninger-2009-leptin-acts-via-leptin]] — LHA LepRb가 MCH·orexin과 **완전 비중첩인 GABAergic 집단**이고 VTA로 조밀 투사(선조체·NAc 투사 없음). 같은 좌표에 orexigenic·anorexigenic 세포가 상호배타적으로 섞여 있다는 원전 (Cell Metab 2009).
+- [[rossi-2021-transcriptional-and-functional-divergence]] — LHA^Vglut2 brake가 **투사 표적에 따라 둘로 갈린다**: anterior Pax6⁺→LHb, posterior Pdyn/Hcrt⁺→VTA. **leptin이 두 경로를 반대 부호로** 민다(p=1.6e-14). Lepr mRNA가 LHb 투사에 더 많아 LepR-Cre 순도 confound (Neuron 2021, GSE169176).
+- [[leinninger-2009-leptin-acts-via-leptin]] — LHA LepRb가 MCH·orexin과 **완전 비중첩인 GABAergic 집단**이고 VTA로 조밀 투사(striatum·NAc 투사 없음). 같은 좌표에 orexigenic·anorexigenic 세포가 상호배타적으로 섞여 있다는 원전 (Cell Metab 2009).
 - [[leinninger-2011-leptin-action-via-neurotensin]] — LHA LepRb의 약 60%가 Nts⁺. Nts-LepRbKO는 섭식보다 **운동·에너지 지출**을 바꾸고 조기 비만. LH 내부 LepR→orexin micro-circuit 추적 (Cell Metab 2011).
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — LH^LepR의 **anxiety 축**: Gal/Ebf1형 vs Tac1/Htr2c/Opcml형 두 분자 하위집단(Ebf1·Opcml은 AN 위험 유전자), mPFC→LH 억제가 고불안 개체에서만, **anxiogenic 맥락에서만** 섭식 개시 앞당김 (Nat Neurosci 2025).
 
@@ -379,13 +379,13 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — (기존 링크) LH^Nts의 inverse value coding·총 섭취 불변 — 위 Leinninger 2011과 15년 간격의 같은 방향.
 - [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — orexin 뉴런의 포도당·leptin 억제 / ghrelin 흥분과 ataxin-3 ablation의 단식성 각성 소실 — orexin anticipation 패턴의 생리 기반 (Neuron 2003).
 - [[harris-2005-a-role-for-lateral]] — LH orexin Fos가 morphine·cocaine·food CPP 선호와 R=0.72–0.90 비례(PFA·DMH는 무상관), LH·VTA 내 orexin이 소거된 CPP 복원. **'LH=보상 / PFA·DMH=각성' 구획의 원전** (Nature 2005).
-- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — MCH가 **선조체 DA로 설탕의 영양 가치를 전달**(선호 82%→20% 역전, DA +69%). MCH 자극 자체는 보상이 아니다 (eLife 2013).
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — MCH가 **striatum DA로 설탕의 영양 가치를 전달**(선호 82%→20% 역전, DA +69%). MCH 자극 자체는 보상이 아니다 (eLife 2013).
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — MCH는 consummatory 전담이 아니라 **cue+섭취 통합형**이고 섭취 중 반응이 누적 칼로리를 예측(R²=0.93) (Nat Commun 2023).
-- [[zhang-2026-inherited-input-and-local-transformations]] — appetitive→consummatory 전이를 **drift-to-threshold**로 읽는 선조체 쪽 근거(pVLS dSPN ramp 기울기가 lick 개시 예측, 글루탐산 입력에는 ramp 없음).
+- [[zhang-2026-inherited-input-and-local-transformations]] — appetitive→consummatory 전이를 **drift-to-threshold**로 읽는 striatum 쪽 근거(pVLS dSPN ramp 기울기가 lick 개시 예측, 글루탐산 입력에는 ramp 없음).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — 각 licking bout마다 AgRP의 time-locked dip(τ≈9.5 s); dip을 막으면 satiation 지연 — Need 신호도 phase 분해된다.
 
 **학습·인지 (cognitive LH)**
-- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — cue 구간 한정 LH^GABA 광억제가 **연합 학습 자체**를 막되 보상 섭취는 건드리지 않는다. VTA 말단만 억제하면 학습이 **촉진** → '기대값 relay' 가설. 전뇌 출력 지도로 **VTA는 여러 표적 중 하나**임도 명시 (Neuron 2017).
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — cue 구간 한정 LH^GABA 광억제가 **연합 학습 자체**를 막되 보상 섭취는 건드리지 않는다. VTA 말단만 억제하면 학습이 **촉진** → '기대값 relay' 가설. forebrain 출력 지도로 **VTA는 여러 표적 중 하나**임도 명시 (Neuron 2017).
 - [[sharpe-2021-past-experience-shapes-the]] — 같은 억제가 보상 근접 cue 학습은 깎고 **중립·원위 cue 학습은 촉진**하며 latent inhibition을 없앤다. 공포 학습에서의 **경험 의존적 모집**(naive는 무영향) (Nat Neurosci 2021). ⚠️ 군당 n이 작고 일부 P가 단측값.
 - [[sharpe-2024-the-cognitive-lateral-hypothalamus]] — 위 두 편을 '학습 편향 dial'(과활성=중독, 저활성=조현병)로 확장한 Opinion. ⚠️ 신규 데이터 없음 — 이론 범위가 데이터 범위를 초과 (Trends Cogn Sci 2024).
 - [[hoang-2021-the-basolateral-amygdala-and]] — BLA(phasic salience)와 LH(동기 관련성·결과 근접도)가 **원위 예측자에서 반대 부호**로 갈린다는 종합. ⚠️ 신규 데이터 없고 BLA→LH 직접 조작 없음.
@@ -393,7 +393,7 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk food 경험이 **양성 예측 CS에 대한 접근만** 선택적으로 키우고 PR breakpoint는 오히려 낮춘다 — cue 통제력 강화의 음식판 대응.
 
 **회로·도파민 인터페이스**
-- [[nieh-2016-inhibitory-input-from-the]] — LH^GABA→VTA가 **VTA GABA 개재뉴런을 더 강하게 억제**해 DA를 탈억제(NAc DA↑·ICSS·선호), LH^Glut→VTA는 회피·DA↓ (Neuron 2016).
+- [[nieh-2016-inhibitory-input-from-the]] — LH^GABA→VTA가 **VTA GABA interneuron를 더 강하게 억제**해 DA를 탈억제(NAc DA↑·ICSS·선호), LH^Glut→VTA는 회피·DA↓ (Neuron 2016).
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — NAcSh **D1R-MSN→LH^Vgat 단시냅스 억제 = 섭식 허가 게이트**(LH 투사 NAcSh의 93.6%가 D1R; 표적에 orexin·MCH 없음). 말단 자극은 24 h 금식에도 섭취를 끊는다 (Neuron 2015).
 - [[thoeni-2020-depression-of-accumbal-to]] — 그 게이트의 **eCB–CB1R 의존 상태 가소성**: 결핍·3일 HFD가 depress시켜 과식 게이트를 열고, in vivo HFS potentiation은 금식 마우스의 섭취를 줄인다. 효과는 전부 **bout 수**에만 (Neuron 2020).
 - [[linders-2022-stress-driven-potentiation-of-lateral]] — 총 80초 사회 패배가 **LHA^glut→VTA^DA(mPFC 투사 한정)** 를 GluA1-AMPAR로 강화해 지방 과식을 만들고, **1 Hz depotentiation이 그 과식을 없앤다** (Nat Neurosci 2022).

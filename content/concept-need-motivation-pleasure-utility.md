@@ -92,7 +92,7 @@ aliases: [NMPU, Need Motivation Pleasure Utility]
 - **Emotional eating**: 부정 감정이 Need·Motivation reshape.
 - **Restrained eating**: 인지 통제가 Motivation 억제 → 역설적 disinhibition.
 
-## 2026 시상하부 cluster 통합
+## 2026 hypothalamus cluster 통합
 
 REMD 2026 special issue 7편 ingest 이후 NMPU 회로 매핑 갱신:
 
@@ -116,7 +116,7 @@ REMD 2026 special issue 7편 ingest 이후 NMPU 회로 매핑 갱신:
 ### Utility 회로 — Microbiota·BLA·VAN 통합
 - **Microbiota-hypothalamus axis** ([[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]]): SCFA·LPS·bile acid가 Utility 신호의 분자 매개자.
 - ARC acetate → POMC GPR43-AMPK 회로 = post-ingestive Utility의 새 회로.
-- TGR5 시상하부가 Utility-Pleasure decoding 매개 (Castellanos-Jankiewicz 2021).
+- TGR5 hypothalamus가 Utility-Pleasure decoding 매개 (Castellanos-Jankiewicz 2021).
 - **VAN neuropod → vagal afferent** (millisecond) = Utility의 빠른 입력 (이미 [[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]]에서 정립).
 
 ### Algorithm reshape — POMC 정체성 가소성
@@ -179,7 +179,7 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 임상 응용.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — DA의 multi-function (Pleasure 단일 아님).
 - [[kim-2024-normative-framework-dissociates-need]] — NMPU 정량 backbone (AgRP=Need, LH^LepR=Motivation).
-- [[walker-2026-a-hypothalamic-circuit-for]] — Need 축이 *내부 feedback*뿐 아니라 **외부 인지·맥락 예측**으로도 구동됨을 보이는 회로 증거(PVH^Sim2→AgRP, 피질 ACC·복측 해마 입력) (Neuron 2026, Lowell lab).
+- [[walker-2026-a-hypothalamic-circuit-for]] — Need 축이 *내부 feedback*뿐 아니라 **외부 인지·맥락 예측**으로도 구동됨을 보이는 회로 증거(PVH^Sim2→AgRP, cortex ACC·ventral hippocampus 입력) (Neuron 2026, Lowell lab).
 - [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — 음식의 **가치·질**(초콜릿>chow)을 식전에 부호화하는 vDMH^LepR→AgRP 억제 입력 = Utility/Pleasure 신호를 Need 회로로 전달 (Nat Neurosci 2016, Lowell lab).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — orosensory(맛)가 **Pleasure(liking=bout 크기)** 와 **satiation 음성 피드백(incentive value=bout 수)** 을 분리 부호화; 맛→DMH^LepR→AgRP (Neuron 2024, Knight lab).
 - [[proposal-nmpu-human-translation]] — NMPU 4축을 인간(침습 전기생리·7T fMRI·계산모델)으로 번역하는 연구계획서.
@@ -216,7 +216,7 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — Motivation arbitration framework.
 - [[faour-2025-emerging-role-of-agrp]] — Need 회로 4-modality integrator.
 - [[jouque-2025-beyond-satiety-unraveling-the]] — Pleasure β-endorphin paradox.
-- [[proposal-pomc-endorphin-food-pleasure]] — Pleasure 축의 시상하부 기원(POMC β-endorphin)을 정박하는 연구계획서; liking vs wanting 인과 분리.
+- [[proposal-pomc-endorphin-food-pleasure]] — Pleasure 축의 hypothalamus 기원(POMC β-endorphin)을 정박하는 연구계획서; liking vs wanting 인과 분리.
 - [[proposal-oral-fat-taste-pleasure-desire]] — Pleasure(구강 proxy)·Motivation(wanting)·Utility(post-oral) 분리를 지방 감각에서 실증하는 연구계획서.
 - [[freire-agulleiro-2026-early-life-programming-of]] — 발달 programming.
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — Utility 매개 microbiota.
@@ -242,15 +242,15 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] · [[concept-medial-preoptic-area]] — **동기 간 arbitration의 깔끔한 실험 사례**: 배고픔(AgRP/NPY)↔돌봄(MPOA)이 시냅스 수준에서 서로를 끄고, 호르몬 상태가 그 확률을 gating하며, 선행 사회 경험이 경쟁 결과를 안정화. NMPU가 다루는 "여러 Need 중 무엇이 이기는가"를 회로로 보여줌 (NRN 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-joint-brain-behaviour-modelling]] — Need/Motivation/Pleasure가 실제로 분리 가능한 신경 부분공간인지 **contrastive latent 정렬로 검정**하는 방법론 경로.
-- [[zhang-2026-inherited-input-and-local-transformations]] — Motivation→행동 개시 전이를 선조체 **accumulator**(pVLS dSPN ramp)로 읽을 가능성; 가치 신호의 상속 vs 국소 변환 해리 (bioRxiv 2026).
+- [[zhang-2026-inherited-input-and-local-transformations]] — Motivation→행동 개시 전이를 striatum **accumulator**(pVLS dSPN ramp)로 읽을 가능성; 가치 신호의 상속 vs 국소 변환 해리 (bioRxiv 2026).
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] · [[concept-hedonic-devaluation]] — **Pleasure 축의 분자·투사 정의 후보**: NAcLat^Nts→VTA. 만성 HFD에서 Pleasure는 내려가는데 섭취는 유지되는 해리를 회로로 인과 증명 (Nature 2025).
-- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **해마=경험 기반 결과 예측 / 시상하부=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 시상하부, 학습된 Utility는 피질-해마" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — 위협(비섭식) 도메인에서 **hippocampus=경험 기반 결과 예측 / hypothalamus=행동 구동·현저성** 분업이 입력 수준에서 실측됨. NMPU의 "Motivation은 hypothalamus, 학습된 Utility는 cortex-hippocampus" 배치와 **독립 도메인에서 수렴**하는 증거 (Nature 2026). → [[concept-lateral-septum]]
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — **맥락 게이팅이 Motivation 크기와 분리 가능**함을 보인 드문 인과 증거: DLS^Pdyn 억제는 총 섭취량을 바꾸지 않고 **보상 맥락 귀속만** 무너뜨렸다 (Neuron 2026). → [[concept-lateral-septum]]
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — **Motivation 축의 지속(engagement)**을 eCB가 매개; 총 섭취량(Need)과 해리된다는 점에서 두 축 분리의 실험적 사례 (Nature 2026).
 - [[davila-2026-agrp-neurons-are-required-for]] — Need 축(AgRP)이 **섭취량과 분리되어 체중 결과를 좌우**한 사례: AgRP 기능 결손 암컷에서 GLP-1RA의 칼로리 섭취 억제는 유지되나 전신 지방 이용 전환과 체중 감량이 약화됨 (PNAS 2026).
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — ***Stay on task* ↔ *Switch task***를 Motivation 축의 행동 화폐 후보로 제시. NAc medial shell을 Pleasure 축으로만 배정하면 **같은 구획의 유연성·전환 기능**을 담을 자리가 없다는 점에 주의.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Utility(지연 결과)→Motivation(순간 구동) 변환의 알고리즘 후보: 추상 가치→구체 목표→기본 보상 신호라는 **동기 비계(scaffolding)**. "기본 보상(배고픔) 목표는 몰입 표지가 약해야 한다"는 예측 포함.
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — **NMPU에 "어디"라는 공간 축을 더한다**: 소비 중 **가치·최근 이력**(Pleasure/Utility의 교사 신호 성격)은 전방·복측 선조체에, **핥기라는 행동 출력과 과제 타이밍**은 후방·배측에 실린다(GLM ΔR²). 상류 변수는 LHA^GABA/Glut의 **비**이고, 신호는 **절대 가치가 아니라 선택지 집합에 대한 상대 가치**를 싣는다. 행동적으로 도파민은 Motivation의 **개시** 성분을 강화한다 (Neuron 2026, Stuber lab).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — **NMPU에 "어디"라는 공간 축을 더한다**: 소비 중 **가치·최근 이력**(Pleasure/Utility의 교사 신호 성격)은 전방·ventral striatum에, **핥기라는 행동 출력과 과제 타이밍**은 후방·dorsal에 실린다(GLM ΔR²). 상류 변수는 LHA^GABA/Glut의 **비**이고, 신호는 **절대 가치가 아니라 선택지 집합에 대한 상대 가치**를 싣는다. 행동적으로 도파민은 Motivation의 **개시** 성분을 강화한다 (Neuron 2026, Stuber lab).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Motivation 뉴런 판정에 혐오 자극·물 대조가 필요하다는 설계 기준(salience ensemble은 valence 비특이, ingestion ensemble은 가치 스케일 섭취). 또 LH^Vgat 섭취 반응 진폭이 Need(금식)와 영양가(농도)에 따라 달라지고 Ex-4로 감소하므로 NMPU 곱셈 구조의 단일세포 검증 지표 후보다(연결 가설; 원문은 3조건이라 상호작용 미판정) (Cell Rep 2026).
 - [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat은 체온 동기 행동에도 필요하고 열 자극 집단과 칼로리 집단이 단일세포 수준에서 분리 → LH^Vgat 집단 활성을 Motivation으로 읽을 때의 주의점 (Neuron 2022)
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — GLP-1RA 약리의 **phase 선택성**: 세마글루타이드 반응 NTS→ARC·→DMH 경로가 **정상 암기 chow 섭취는 보존**하면서 단식 재급식·초콜릿 폭식만 억제하고 AgRP(=Need) 활성을 낮춘다 → "약물이 Need/Motivation 증폭 단계를 깎는다"는 NMPU 좌표 후보(연결 가설; 원문은 NMPU 비언급) (bioRxiv preprint 2026).
@@ -270,5 +270,5 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — NAc ACh = **노력만**, 도파민 = 크기 + 노력 → Motivation(비용·지속)과 Pleasure/Utility(크기)를 세포 수준에서 가를 후보(연결 해석).
 - [[burke-2026-duration-between-rewards-controls-the]] — Pleasure의 회고적 교사 신호 강도가 같은 결과의 드묾(보상 간격)에 비례한다는 정량 규칙(연결 해석).
 - [[concept-will-volition-motivation]] — '의지'의 두 뜻을 NMPU에 배치: 기본 준비성(일할 의지) = Motivation, 충동을 참는 자기통제 = Utility(연결 해석).
-- [[volkow-2026-glp-1-receptor-agonists-in]] — 내수용 신호(배고픔·스트레스·불편·각성)가 중변연계 도파민 학습을 거쳐 물질 추구와 묶인다는 서술. NMPU의 약리 검증 축.
+- [[volkow-2026-glp-1-receptor-agonists-in]] — 내수용 신호(배고픔·스트레스·불편·각성)가 중limbic system 도파민 학습을 거쳐 물질 추구와 묶인다는 서술. NMPU의 약리 검증 축.
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — Need 축을 '결핍의 크기'가 아니라 **전환 능력([[concept-metabolic-flexibility|대사 유연성]])** 으로 다시 쓸 수 있다는 제안. POMC의 opioid 분비는 Pleasure 축과도 얽힌다.

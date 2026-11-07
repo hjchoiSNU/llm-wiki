@@ -33,7 +33,7 @@ aliases: [food insecurity, FI, 식품 불안정, 식품 미보장, food insecuri
 
 ### 동물 모델 → 회로 (translational)
 - **불확실성 ≠ 굶주림**: 총칼로리 동일/감소에도 불확실 급식이 체중↑·palatable food motivation(progressive-ratio breakpoint)↑([[myers-2022-chronic-experience-with-unpredictable]]).
-- **회로 재프로그래밍**: 발달기 불확실성이 ARC melanocortin(POMC/AgRP) 발달창(P4–16)·**VTA→NAc 도파민**(AMPA:NMDA↓, 선조체 DA 분비↓)을 장기 변화([[wilbrecht-2024-experimental-biology-can-inform]]). HPA(corticosterone)는 비일관 — FI는 위협형 스트레스와 다른 종류의 stressor.
+- **회로 재프로그래밍**: 발달기 불확실성이 ARC melanocortin(POMC/AgRP) 발달창(P4–16)·**VTA→NAc 도파민**(AMPA:NMDA↓, striatum DA 분비↓)을 장기 변화([[wilbrecht-2024-experimental-biology-can-inform]]). HPA(corticosterone)는 비일관 — FI는 위협형 스트레스와 다른 종류의 stressor.
 - **번역 framework**: 설치류 불확실 급식 모델 ↔ 인간 FI를 잇는 7단계 모델·공통 readout(RRV, delay discounting, opportunistic eating)([[myers-2024-translational-science-approaches-for]]).
 
 ## 관련 페이지

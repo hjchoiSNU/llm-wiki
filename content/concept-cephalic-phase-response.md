@@ -17,7 +17,7 @@ aliases: [cephalic phase, cephalic insulin, cephalic-phase insulin release, CPIR
 ## 특징
 - **예측적·전향적(feed-forward)**: 혈중 연료가 오르기 전에 인슐린을 미리 분비 → 식후 고혈당을 완충.
 - **학습된(조건적)**: 임의 단서(소리·시각·하루 시각)와 음식을 연합해 조건화 가능(Pavlov 타액분비의 유비). 어린 시기부터 발달.
-- **신경 매개**: 미주신경(부교감) 경로. 미주 절단·췌장 탈신경으로 소실.
+- **신경 매개**: vagus nerve(부교감) 경로. 미주 절단·췌장 탈신경으로 소실.
 - **양적 조절**: 큰 식사를 학습·감당하려면 cephalic insulin 반응도 함께 커짐(habituation).
 
 ## 기능·증거 (Woods 1991)

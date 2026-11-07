@@ -10,7 +10,7 @@ journal: Reviews in Endocrine and Metabolic Disorders
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 비만을 **gut microbiota–시상하부–WAT 3 organ feedback loop의 dysfunction**으로 재정의. SCFA·LPS·bile acid·tryptophan·FGF21·T3가 매개. **Semaglutide·tirzepatide 효과의 microbiota 의존성** — Akk muciniphila Akk11과 synergy. 중단 시 **12주 이내 참가자 71.4%에서 체중 재증가**(여성 28명 코호트의 비율 지표)가 회로·microbiota·hypothalamic AgRP/POMC·bile acid TGR5 동시 reset 실패를 시사. 사용자 lab의 [[de-lartigue-2026-critical-role-gut-brain-signalling|gut-brain]] + [[lee-2025-hijacked-brain-modern-obesity-cue|DTx·obesity]] 작업 직접 합류.
+> 비만을 **gut microbiota–hypothalamus–WAT 3 organ feedback loop의 dysfunction**으로 재정의. SCFA·LPS·bile acid·tryptophan·FGF21·T3가 매개. **Semaglutide·tirzepatide 효과의 microbiota 의존성** — Akk muciniphila Akk11과 synergy. 중단 시 **12주 이내 참가자 71.4%에서 체중 재증가**(여성 28명 코호트의 비율 지표)가 회로·microbiota·hypothalamic AgRP/POMC·bile acid TGR5 동시 reset 실패를 시사. 사용자 lab의 [[de-lartigue-2026-critical-role-gut-brain-signalling|gut-brain]] + [[lee-2025-hijacked-brain-modern-obesity-cue|DTx·obesity]] 작업 직접 합류.
 
 # From diet to hypothalamic dysfunction: microbiota-hypothalamus-adipose tissue axis
 
@@ -19,7 +19,7 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 
 ## Core framework
 
-> ⚠️ **근거 등급**: 본 리뷰가 제시하는 dysbiosis → 시상하부 염증 → WAT 인과 루프는 **설치류 모델에 기반한 제안 기전**이며, 원문 스스로 "인간에서 현재 확립되지 않았다"고 적는다. 인간 자료는 영상 지표(시상하부 염증·기능이상 ↔ 비만·내장지방)와 **postmortem 연관 1건**뿐이고 모두 상관 수준이다. 티르제파타이드의 microbiota 의존성(Ma 2025, Front Mol Biosci)도 **광범위 항생제로 microbiota를 고갈시킨 전임상 당뇨병성 신장질환 모델**에서 공복혈당·식이량·신기능 지표(혈청 크레아티닌, 알부민/크레아티닌 비) 개선이 "현저히 약화"된 것으로, **인간 자료가 아니다**(리뷰 본문은 종을 명시하지 않음).
+> ⚠️ **근거 등급**: 본 리뷰가 제시하는 dysbiosis → hypothalamus 염증 → WAT 인과 루프는 **설치류 모델에 기반한 제안 기전**이며, 원문 스스로 "인간에서 현재 확립되지 않았다"고 적는다. 인간 자료는 영상 지표(hypothalamus 염증·기능이상 ↔ 비만·내장지방)와 **postmortem 연관 1건**뿐이고 모두 상관 수준이다. 티르제파타이드의 microbiota 의존성(Ma 2025, Front Mol Biosci)도 **광범위 항생제로 microbiota를 고갈시킨 전임상 당뇨병성 신장질환 모델**에서 공복혈당·식이량·신기능 지표(혈청 크레아티닌, 알부민/크레아티닌 비) 개선이 "현저히 약화"된 것으로, **인간 자료가 아니다**(리뷰 본문은 종을 명시하지 않음).
 
 - 비만 = **inter-organ signaling disorder**.
 - 단순 caloric excess로 설명 불가 — heterogeneity 큼.
@@ -55,9 +55,9 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 ## 2. Transmission beyond gut
 
 ### 3 pathway
-1. **Endocrine** — EEC가 GLP-1·PYY·CCK·ghrelin·leptin 분비 → 시상하부/뇌간.
+1. **Endocrine** — EEC가 GLP-1·PYY·CCK·ghrelin·leptin 분비 → hypothalamus/brainstem.
 2. **Immune-inflammatory** — LPS → TLR4-MyD88-NLRP3 → TNF/IL-6/IL-1β → BBB.
-3. **Neural** — EEC neuropod → vagal afferent (millisecond) → 뇌간.
+3. **Neural** — EEC neuropod → vagal afferent (millisecond) → brainstem.
 
 ### Metabolic endotoxemia
 - HFD가 1차로 **intestinal alkaline phosphatase (IAP) ↓** → LPS detox 손상 → 2–3 배 LPS 상승 (Cani 2007/2008 foundational).
@@ -82,33 +82,33 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 
 ### Thyroid (★ 사용자 lab 관심)
 - Microbial metabolite → deiodinase activity → T3 availability.
-- Microbiota → tauro-β-MCA (FXR antagonist) → 간 bile acid 변화 → 시상하부 T3 신호.
+- Microbiota → tauro-β-MCA (FXR antagonist) → 간 bile acid 변화 → hypothalamus T3 신호.
 - VMH SF1 T3 → liver de novo lipogenesis (parasym) + BAT thermogenesis (sym) (Martínez-Sánchez 2017).
 
-## 3. Immune-inflammatory · 시상하부 vulnerability
+## 3. Immune-inflammatory · hypothalamus vulnerability
 
-### 시상하부 표적
+### hypothalamus 표적
 - **ARC**가 median eminence 인접 BBB 약함 → 1차 표적.
 - Circadian × microbiota × CLOCK/BMAL1 × bile acid-FXR 상호작용 (Zhang 2025).
 
 ### Microinflammation
-- HFD 24–72시간 내 시상하부 inflammation (Thaler 2012 JCI ★) — 체중 ↑ 이전.
+- HFD 24–72시간 내 hypothalamus inflammation (Thaler 2012 JCI ★) — 체중 ↑ 이전.
 - Microglia → SOCS3 ↑ → leptin receptor signaling ↓.
 - IKKβ/NF-κB·JNK·ER stress·oxidative stress cascade.
 - **Insulin·leptin resistance + AgRP ↑/POMC↓ orexigenic 톤**.
 
-> ⚠️ 대조 관점: [[johansen-2025-brain-control-of-energy|Johansen 2025 Cell]]은 leptin-멜라노코르틴 축을 **저지방량(기아)을 방어하는 신호**로 규정하고, **과식·체중 증가에 대한 방어 신호는 leptin-멜라노코르틴과 독립적이며 아직 동정되지 않았다**고 본다. 두 서술이 실험으로 서로를 반박한 것은 아니고(양쪽 모두 리뷰 수준 종합), 축 배치가 다를 뿐이다 — 위 사슬의 '시상하부 leptin 저항'을 체중 증가의 상류 원인으로 읽을 때는 이 대조를 함께 볼 것.
+> ⚠️ 대조 관점: [[johansen-2025-brain-control-of-energy|Johansen 2025 Cell]]은 leptin-멜라노코르틴 축을 **저지방량(기아)을 방어하는 신호**로 규정하고, **과식·체중 증가에 대한 방어 신호는 leptin-멜라노코르틴과 독립적이며 아직 동정되지 않았다**고 본다. 두 서술이 실험으로 서로를 반박한 것은 아니고(양쪽 모두 리뷰 수준 종합), 축 배치가 다를 뿐이다 — 위 사슬의 'hypothalamus leptin 저항'을 체중 증가의 상류 원인으로 읽을 때는 이 대조를 함께 볼 것.
 
 ### 인간 증거
 - Brown 2023 Neuroimage Clin — hypothalamic volume ↔ BMI.
 - Rosenbaum 2022 Diabetes Care — hypothalamic gliosis ↔ glucose dysregulation.
-- Kreutzer 2017 — postmortem 인간 시상하부 조직의 **염증·gliosis ↔ 식이지방 유발 장내 Parasutterella sp 감소의 유의한 연관**. ⚠️ 원문은 이를 "potential association"·"strictly correlational"로 규정하고, **dysbiosis ↔ 시상하부 염증의 직접 증거는 없다**("we found no direct evidence")고 명시하며, 기전 근거를 위해서는 **전향적 종단 인간 코호트가 필요**하다고 덧붙인다..
+- Kreutzer 2017 — postmortem 인간 hypothalamus 조직의 **염증·gliosis ↔ 식이지방 유발 장내 Parasutterella sp 감소의 유의한 연관**. ⚠️ 원문은 이를 "potential association"·"strictly correlational"로 규정하고, **dysbiosis ↔ hypothalamus 염증의 직접 증거는 없다**("we found no direct evidence")고 명시하며, 기전 근거를 위해서는 **전향적 종단 인간 코호트가 필요**하다고 덧붙인다..
 
-### 시상하부 → 말초 control
+### hypothalamus → 말초 control
 - PVH SNS → WAT lipolysis (NE).
 - POMC·AgRP chemogenetic 활성이 수시간 내 gut microbiota 변화 — 식이 독립 (Toledo 2025 Nat Metab ★).
 - β2-adrenergic muscularis macrophage 매개 (Gabanyi 2016 Cell).
-- 인간: hypothalamic damage 시 bariatric surgery 효과 손상 (Dischinger 2023) — 시상하부 integrity 필수.
+- 인간: hypothalamic damage 시 bariatric surgery 효과 손상 (Dischinger 2023) — hypothalamus integrity 필수.
 
 ## 4. WAT immunometabolic remodeling
 
@@ -128,7 +128,7 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - TNF-α → IRS-1 inhibitory serine phosphorylation → GLUT4 ↓ → hyperglycemia.
 
 ### Feedback loop
-- WAT 시토카인 → 시상하부 inflammation 증폭.
+- WAT 시토카인 → hypothalamus inflammation 증폭.
 - TNF-α·IL-1β self-reinforcing (NF-κB·STAT1).
 - **체중 감소 시 trapped cytokines 방출** — 일시적 systemic inflammation surge → yo-yo dieting의 회로 기반.
 - Hinte 2024 Nature ★: adipose epigenetic memory of obesity even after weight loss (obesogenic memory phenotype).
@@ -137,7 +137,7 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 
 ### Semaglutide
 - Acetate-producer (Bacteroides acidifaciens, Blautia coccoides) ↑.
-- 시상하부 ARC acetate → **GPR43/IRS/PI3K/Akt/AMPK/SIRT/FoxO-1/POMC** 회로 → 식이 ↓.
+- hypothalamus ARC acetate → **GPR43/IRS/PI3K/Akt/AMPK/SIRT/FoxO-1/POMC** 회로 → 식이 ↓.
 - TLR4/MyD88/NF-κB·JNK 차단 → leptin·insulin sensitivity 복원.
 - Alistipes·Parabacteroides 증가 → hippocampal neuron 보호 (DACD).
 - FMT으로 phenotype 일부 이전.
@@ -177,7 +177,7 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - **gut-brain axis** ([[de-lartigue-2026-critical-role-gut-brain-signalling|de Lartigue 2026]] 사용자 공저)와 직접 합류 — neuropod·vagal·endocrine·immune transmission 모두.
 - **Hijacked brain 5 type** ([[lee-2025-hijacked-brain-modern-obesity-cue|Lee 2025 JOMES]])의 회로별 microbiota signature 가능성:
   - Cue·habit: NAc·VTA dopaminergic microbial influence (Tan 2024 drugs of abuse).
-  - Addiction: tryptophan-AHR-시상하부 회로.
+  - Addiction: tryptophan-AHR-hypothalamus 회로.
   - Emotion: stress-HPA-microbiota.
 - **GLP-1 cognitive satiation** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]])이 microbial acetate-POMC 회로와 정합.
 - **Discontinuation rebound** = DTx의 sustainability gap — 사용자 lab의 personalized DTx 차별점.
@@ -201,4 +201,4 @@ Obesogenic diet → microbial functional reprogramming → endocrine·neural·im
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 동반 editorial.
 - [[johansen-2025-brain-control-of-energy]] — leptin을 기아 신호로 보는 대조 관점(과식 방어 신호는 leptin-멜라노코르틴 독립·미동정) 및 뇌 표적 항비만 약물 종합.
-- [[wang-2026-a-hypothalamic-circuit-links]] — ⚠️ **상보/긴장**: HFD 시상하부 기능장애를 본 리뷰는 microbiota·염증·대사 재프로그래밍으로 설명하는 반면, Wang은 **순수 회로 재결합**(ArcAgRP→PVNCRH→LHAGlu "priming")으로 불안-과식 커플링을 설명하고 염증·gut 축은 다루지 않음. 같은 HFD 표현형의 다른 층인지 병기 (Nat Commun 2026).
+- [[wang-2026-a-hypothalamic-circuit-links]] — ⚠️ **상보/긴장**: HFD hypothalamus 기능장애를 본 리뷰는 microbiota·염증·대사 재프로그래밍으로 설명하는 반면, Wang은 **순수 회로 재결합**(ArcAgRP→PVNCRH→LHAGlu "priming")으로 불안-과식 커플링을 설명하고 염증·gut 축은 다루지 않음. 같은 HFD 표현형의 다른 층인지 병기 (Nat Commun 2026).

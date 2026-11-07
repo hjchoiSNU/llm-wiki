@@ -28,7 +28,7 @@ aliases: [hedonic devaluation, 쾌락 가치 저하, 기호성 저하, reward de
 ### 관찰 근거 (이 위키 안)
 - **동물**: 만성 HFD 마우스는 홈케이지에서 고지방 사료를 압도적으로 더 먹고 체중이 늘지만, **노력이 필요 없는 급성 섭취 검사에서 jelly·chocolate 등 고칼로리 음식 섭취가 거의 0으로 떨어진다** ([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]). sucrose preference 저하, hedonic 음식 operant 자가투여 감소, 음식 보상 CPP 저하도 함께 보고됨.
 - **표준 사료의 상대적 가치 하락**: HFD는 ARC^AgRP/NPY와 mesolimbic 회로를 동시에 재편해 **표준 사료의 보상 가치를 낮추고 energy-dense 음식 선호를 높인다** ([[onimus-2026-dopamine-ensembles-regulating-appetite]]).
-- **인간**: 비만·만성 HFD 섭취는 팔라터블 음식의 보상 효과에 대한 민감도를 낮추며, 선조체·전전두 보상 영역 반응이 blunted ([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]가 정리한 선행 인간 영상 근거). 인체 PET에서 섭취 유발 도파민 방출과 wanting의 관계는 [[thanarajah-2019-food-intake-recruits-orosensory]] 참조.
+- **인간**: 비만·만성 HFD 섭취는 팔라터블 음식의 보상 효과에 대한 민감도를 낮추며, striatum·prefrontal 보상 영역 반응이 blunted ([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]가 정리한 선행 인간 영상 근거). 인체 PET에서 섭취 유발 도파민 방출과 wanting의 관계는 [[thanarajah-2019-food-intake-recruits-orosensory]] 참조.
 - **LH 쪽 대응 현상**: LH^VGLUT2는 섭식 brake이지만 비만에서 보상 반응이 blunted ([[liu-2026-granular-motivational-interaction-and]]).
   - ⚠️ **병기 — 원전 [[rossi-2019-obesity-remodels-activity-and|Rossi 2019]]의 해석은 방향이 다르다**: LHA^Vglut2의 sucrose 반응은 **포만(prefed)일수록 크다**(먹이 동기↓ → brake↑). 따라서 HFD에서 이 반응이 둔화되면 **brake가 풀려 섭식↑**가 된다. 가치가 떨어진 상태라면 brake 반응은 오히려 **커져야** 하므로, 이 현상은 쾌락가치 저하의 LH판이라기보다 **brake 신호가 포만·가치 상태에서 탈동조화**된 것으로 읽는 편이 원문에 가깝다. 같은 "blunted reward response"가 NAc→VTA NTS 경로(섭식↓)와 LHA^Vglut2(섭식↑)에서 **반대 부호**를 갖는다.
 

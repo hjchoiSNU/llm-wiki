@@ -15,7 +15,7 @@ UC Berkeley(Department of Neuroscience · Helen Wills Neuroscience Institute)의
 
 ## 핵심 내용
 - **NAc 아구역 특이적 VTA 제어**: NAc의 여러 아구역이 VTA 도파민 아집단을 **직접 억제(medial shell)** 하거나 **탈억제(lateral shell)** 해 동기 행동을 서로 다르게 조절한다는 노선. NAcLat→VTA 자극은 place preference·두개내 자가자극 등 보상 행동을 유발한다.
-- **NAc lateral shell(NAcLat)이라는 해부 단위**: 전통적 shell/core 이분법 대신, core의 외측에 놓인 별개 아구역으로 정의해 다룬다. ([[concept-nucleus-accumbens]])
+- **NAc lateral shell(NAcLat)이라는 해부 단위**: 전통적 shell/core 이분법 대신, core의 lateral에 놓인 별개 아구역으로 정의해 다룬다. ([[concept-nucleus-accumbens]])
 - **비만의 hedonic devaluation 기전 규명** — [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni & Tose 2025, Nature]] (교신저자): 만성 HFD가 NAcLat→VTA 뉴런의 ***Nts* 발현·NTS 방출을 감소**시켜 hedonic feeding을 붕괴시키고, NTS 과발현이 이를 되돌린다.
 - **방법 협업**: Lin Tian(형광 GPCR 센서 ntsLight1.1/2.0), Csaba Földy(patch-seq), Byung Kook Lim(retrograde RG-EIAV-Cre) 등과 결합해 **회로–분자–방출을 한 논문 안에서 잇는** 설계를 쓴다.
 
@@ -24,5 +24,5 @@ UC Berkeley(Department of Neuroscience · Helen Wills Neuroscience Institute)의
 - [[concept-nucleus-accumbens]] · [[concept-dopamine-reward-system]] — 주제 hub.
 - [[concept-neurotensin]] · [[concept-hedonic-devaluation]] — 이 라인이 기여한 개념 축.
 - [[person-soden-marta]] — 같은 neurotensin 회로를 **LH 기원**에서 접근(출처가 다르면 방향도 반대).
-- [[person-knight-zachary]] — 시상하부·중뇌 dynamics를 세포타입 해상도로 다루는 인접 라인.
+- [[person-knight-zachary]] — hypothalamus·midbrain dynamics를 세포타입 해상도로 다루는 인접 라인.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 세포체–말단 해리 논쟁에서 반대편으로 인용된 de Jong 2024(Lammel lab, *Nat Neurosci*; 위키에 원전 없음).

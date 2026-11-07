@@ -26,7 +26,7 @@ Jung K … Costa RM, **Kwon H-B** (Allen Institute·Johns Hopkins·Columbia), *N
 ### 핵심 발견
 - **'Memory module'**: 은신처 위치 표상을 저장하는 충분한 NAc 하위집단 — 단독 활성화로 회피를 일으키진 않고, **회피 drive(위협·dPAG)가 있을 때 인출**되는 점에서 classic engram과 구분.
 - **도파민 = safety/relief**: phasic(tonic 아님) VTA^DA 자극 단독으로 회피를 유도하는 place memory 생성. 6-OHDA 고갈·**D1(D2 아님) 차단**이 은신처 기억 손상.
-- **회로**: VTA^DA + vHPC^Glu → NAc medial shell; ChAT 개재뉴런·Drd1·Drd2 MSN 포함.
+- **회로**: VTA^DA + vHPC^Glu → NAc medial shell; ChAT interneuron·Drd1·Drd2 MSN 포함.
 
 ### 주요 수치
 - NAc: outside-선호 61.5%·shelter-선호 19.3%·비특이 19.2%(704 cells). 6-OHDA가 shelter-선호를 23%로 감소.
@@ -41,7 +41,7 @@ Jung K … Costa RM, **Kwon H-B** (Allen Institute·Johns Hopkins·Columbia), *N
 - [[concept-dopamine-reward-system]] — DA를 state-value로 재정의(논쟁 보강).
 - [[concept-need-motivation-pleasure-utility]] — 목표 표상이 동기 상태로 인출(Utility·Need).
 - [[hyun-2022-tagging-active-neurons-by]] — 본 논문이 ensemble 태깅에 쓴 Cal-Light(같은 Kwon lab).
-- [[concept-hippocampus-feeding]] — vHPC→NAc 입력(해마-보상 축).
+- [[concept-hippocampus-feeding]] — vHPC→NAc 입력(hippocampus-보상 축).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — DA 다기능 논쟁 맥락.
 - [[person-kwon-hyung-bae]] — 교신저자.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — HPC→NAc 공간 목표·식욕기억(상보 회로).

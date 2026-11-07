@@ -13,7 +13,7 @@ aliases: [learning rate hypothesis, adaptive learning rate, dynamic learning rat
 # 도파민 = 적응적 학습률 가설
 
 ## 한 줄 요약
-**학습률(learning rate, α)** 은 한 번의 경험으로 추정치를 얼마나 크게 고칠지 정하는 비례상수다. 학습률 가설은 무경험 학습기의 phasic 중변연계 도파민이 이 α, 즉 피질선조체 가소성의 **크기 배율**을 구현하고, 변화의 **부호와 방향**은 선조체의 활동 상관·eligibility trace가 정한다고 본다. 높게 시작해 경험과 함께 감쇠하는 **동적·전역** 학습률이 빠른 초기 학습과 이후의 안정을 함께 만든다.
+**학습률(learning rate, α)** 은 한 번의 경험으로 추정치를 얼마나 크게 고칠지 정하는 비례상수다. 학습률 가설은 무경험 학습기의 phasic 중limbic system 도파민이 이 α, 즉 cortexstriatum 가소성의 **크기 배율**을 구현하고, 변화의 **부호와 방향**은 striatum의 활동 상관·eligibility trace가 정한다고 본다. 높게 시작해 경험과 함께 감쇠하는 **동적·전역** 학습률이 빠른 초기 학습과 이후의 안정을 함께 만든다.
 
 ## 핵심 내용
 
@@ -49,11 +49,11 @@ aliases: [learning rate hypothesis, adaptive learning rate, dynamic learning rat
 - **단계 의존 가설**: Grima 2026의 Krausz 2023 재분석(fig. S16)과 해석에 따르면, DA는 무경험기에는 주로 학습률과 상관하고, 장기 훈련 뒤에는 점점 선택지별 RPE를 반영하게 된다(Lak 2016 같은 훈련 동물의 가치 부호화). Gong 2026도 "오류 기반 DA 기전은 장기 훈련 후 나중에 나타날 수 있다"고 적는다.
 
 ### 4. 기전 제안 — 곱셈 배율로서의 도파민 (Grima 2026 model discussion B)
-- phasic DA는 피질선조체 가중치 변화의 **비례상수**를 정하고, 부호와 크기는 피질선조체 활동 상관(Shen 2008)·eligibility trace(Izhikevich 2007)가 정한다. Gong 2026도 "DA가 다른 선조체 회로가 계산한 eligibility trace를 포획한다"는 모델과 정합한다고 본다.
-- **ACTR(원전)의 β**: 보상 시점의 정책 변화(보상 관련 행동 개시의 efference copy) + 보상 감각 입력의 크기 + 기저 성분을 시그모이드로 묶은 값이다. mDA phasic 활동이 "행동 성분 + 감각 성분의 합"이라는 관찰에 맞췄다. eligibility trace는 DA burst 시점에 읽혀 가소성으로 전환된다([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]] Methods). 원전 Discussion은 복측 선조체를 actor–critic의 critic이 아니라 정책을 정하는 **actor**의 일부로 본다.
+- phasic DA는 cortexstriatum 가중치 변화의 **비례상수**를 정하고, 부호와 크기는 cortexstriatum 활동 상관(Shen 2008)·eligibility trace(Izhikevich 2007)가 정한다. Gong 2026도 "DA가 다른 striatum 회로가 계산한 eligibility trace를 포획한다"는 모델과 정합한다고 본다.
+- **ACTR(원전)의 β**: 보상 시점의 정책 변화(보상 관련 행동 개시의 efference copy) + 보상 감각 입력의 크기 + 기저 성분을 시그모이드로 묶은 값이다. mDA phasic 활동이 "행동 성분 + 감각 성분의 합"이라는 관찰에 맞췄다. eligibility trace는 DA burst 시점에 읽혀 가소성으로 전환된다([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]] Methods). 원전 Discussion은 ventral striatum를 actor–critic의 critic이 아니라 정책을 정하는 **actor**의 일부로 본다.
 - 보상 방문의 α → **DA burst → D1⁺ SPN 입력 가소성**. 비보상 방문의 β(≈1−α) → **DA pause → D2⁺ SPN 입력 가소성**. 근거로 D1은 DA 증가에만, D2는 감소에만 PKA로 반응한다는 결과(Lee 2021, Sabatini lab)와, D2 pause가 단순 Pavlovian이 아니라 **변별 학습**에 필수라는 결과(Iino 2020, Yagishita lab)를 든다. 선택 ≃ W_D1 − W_D2로, OpAL 모델과 개념적으로 비슷하다(→ [[concept-medium-spiny-neuron]]).
 - 같은 논리로 위키의 "도파민이 가소성 규칙 자체를 gating한다"는 서술([[piette-2026-striatal-endocannabinoids-drive-one-shot|Piette 2026]]: presynaptic D2R이 DLS eCB-LTP에 필수)과 "DA = 곱셈 배율"은 같은 방향의 생각이다. 단 Piette는 학습률 가설을 언급하지 않는다(연결 해석).
-- **학습률을 무엇이 낮추나**(Grima 2026 model discussion A, 추측): 경험에 따라 줄어드는 새로움 반응, VTA로 단시냅스 투사하는 전전두의 환경 변동성 신호, 보상 수거 중 감각운동 입력 변화, **포만**(Beeler 2012 인용; 위키에 원문 없음).
+- **학습률을 무엇이 낮추나**(Grima 2026 model discussion A, 추측): 경험에 따라 줄어드는 새로움 반응, VTA로 단시냅스 투사하는 prefrontal의 환경 변동성 신호, 보상 수거 중 감각운동 입력 변화, **포만**(Beeler 2012 인용; 위키에 원문 없음).
 
 ### 5. 학습률만이 아니다 — Gong 2026의 세 성분
 - 관찰되는 학습 효율 = **(I) 몰입 중 학습률 + (II) 세션 간 보존(capture) + (III) 관여 유지(engagement)**. 개체차의 최대 원천은 (III)이었고, 학습률의 개체차는 예상보다 작았다.

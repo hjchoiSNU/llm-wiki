@@ -17,7 +17,7 @@ affiliation: "Virginia Tech (Fralin Biomedical Research Institute at VTC, Roanok
 # Metabolic and neural responses to ultraprocessed foods (Hutelin 2026)
 
 ## 한 줄 요약
-건강체중 성인 57명(대사 32·fMRI 52·둘 다 29)에게 영양을 맞춘 UPF vs non-UPF 식사를 무작위 교차로 먹이고 4 h whole-room indirect calorimetry(WRIC)+정맥채혈을 했으며, 다른 날 BDM 경매 fMRI를 시행. UPF는 같은 혈당 AUC에서 더 큰 insulin·에너지 반응과 둔화된 carbohydrate oxidation을 보였고, 그 차이가 food-cue striatal 반응과 연관됐다. 주관가치(WTP)는 같았지만 시각피질·선조체의 value 신호 부호는 가공도에 따라 반대였다 → "가공은 칼로리·3대영양소 너머의 기전으로 식후 대사·뇌 반응에 영향"(저자 결론).
+건강체중 성인 57명(대사 32·fMRI 52·둘 다 29)에게 영양을 맞춘 UPF vs non-UPF 식사를 무작위 교차로 먹이고 4 h whole-room indirect calorimetry(WRIC)+정맥채혈을 했으며, 다른 날 BDM 경매 fMRI를 시행. UPF는 같은 혈당 AUC에서 더 큰 insulin·에너지 반응과 둔화된 carbohydrate oxidation을 보였고, 그 차이가 food-cue striatal 반응과 연관됐다. 주관가치(WTP)는 같았지만 시각cortex·striatum의 value 신호 부호는 가공도에 따라 반대였다 → "가공은 칼로리·3대영양소 너머의 기전으로 식후 대사·뇌 반응에 영향"(저자 결론).
 
 ## 핵심 내용
 
@@ -34,7 +34,7 @@ affiliation: "Virginia Tech (Fralin Biomedical Research Institute at VTC, Roanok
 - **영양 일치(non-UPF vs UPF)**: 156.4 vs 156.0 g, 300.3 vs 304.3 kcal, ED 1.9 vs 2.0 kcal/g, 탄수화물 40.2 vs 39.9 g, 지방 12.2 vs 12.3 g, 단백질 11.2 vs 11.1 g, available carbohydrate 36.9 vs 36.6 g, GI 62.0 vs 62.5, GL 22.9 vs 22.9, 섬유 3.3 vs 3.3 g, Na 716.3 vs 712.8 mg, 수분 89.7 vs 89.8 g. 최대 편차는 ED 1.6%(본문 "all ≤1.6%", Methods "<1.6%").
 - **대사 세션(무작위 교차 2회)**: 밤샘 공복 후 아침에 small-volume WRIC 4 h = 기저 50 min → 10분 안에 전량 섭취 → 식후 3 h. 채혈 −60(기저)·5·20·40·60·90·120·180분(glucose HemoCue 중복측정, insulin ELISA). WRIC 기저 = 섭취 전 −30~−15분 평균. 세션 간격 비고정(≤3일 7명, 4일–2주 14명, 15일–4주 7명, >4주 4명). 결과변수 = 기저 대비 변화의 AUC, LMM(조건 고정·참가자 random intercept), 시점×조건은 Holm–Bonferroni 사후검정.
 - **fMRI 세션(별도 날)**: "배고프지도 배부르지도 않게" 3 h 공복 후 도착. 사진 28장(non-UPF 14 = NOVA 1–3, UPF 14 = NOVA 4; 영양사 17명 포함 평가자 67명이 NOVA 채점 검증, 시각 9·영양 11·지각 6 = 26개 특성 일치; Hutelin 2024 Appetite)으로 BDM 경매 4 run: 사진 5 s → 입찰 $0–$5. 3T Prisma, TR 1.5 s, multiband 4, 2 mm. fMRI 시점은 대사 세션 전 16·사이 7·후 6명(n=29).
-- **fMRI 모델**: GLM1 = 5 s 사진 구간의 non-UPF>UPF 대비를 대사 지표별 **peak 반응 차(non-UPF−UPF)**에 회귀(carbohydrate oxidation·RER·metabolic rate·fat oxidation·glucose·insulin 6개 각각 별도 모델, 지표 간 다중비교 보정 없음 — 저자 명시). GLM2 = WTP·섭취빈도·건강성을 trial별 parametric modulator로. 전뇌 peak-level FWE P<0.05 + **사전 striatal mask**(caudate·putamen·NAc, Harvard–Oxford 양측 단일 mask) SVC. 나이·성별 공변량.
+- **fMRI 모델**: GLM1 = 5 s 사진 구간의 non-UPF>UPF 대비를 대사 지표별 **peak 반응 차(non-UPF−UPF)**에 회귀(carbohydrate oxidation·RER·metabolic rate·fat oxidation·glucose·insulin 6개 각각 별도 모델, 지표 간 다중비교 보정 없음 — 저자 명시). GLM2 = WTP·섭취빈도·건강성을 trial별 parametric modulator로. whole-brain peak-level FWE P<0.05 + **사전 striatal mask**(caudate·putamen·NAc, Harvard–Oxford 양측 단일 mask) SVC. 나이·성별 공변량.
 - **검정력·1차 결과**: 본문이 WTP를 **"primary outcome"**으로 명시 — n=52로 Cohen's f=0.40에 80% 검정력(GLMM Monte Carlo 5,000회 시 99%). 대사는 energy expenditure AUC d=0.57·n=27로 >80%. 대사×fMRI 연관은 Veldhuizen 2017의 r=0.83에 기댄 **ad hoc** 분석(α=0.0001·95% 검정력에 16명). 등록부의 2차 결과 목록은 PDF에 없음.
 
 ### 결과 1 — 조건 간 기저·섭식 행동은 동등
@@ -52,7 +52,7 @@ affiliation: "Virginia Tech (Fralin Biomedical Research Institute at VTC, Roanok
 - 저자 해석: UPF가 식후 fat→carbohydrate oxidation 전환을 **둔화(blunt)**하며, 이 둔화가 insulin 반응 증가에 기여할 수도 있다.
 
 ### 결과 4 — 대사 차이 ↔ food-cue 반응 (n=29)
-- Δpeak carbohydrate oxidation(non-UPF−UPF) ~ 사진 반응(non-UPF>UPF): 전뇌 **L superior temporal gyrus**(−44,−24,−8; t=7.33; P_FWE=0.013), SVC **R caudate**(6,10,4; t=6.11; P=0.007)·**L ventral striatum**(−8,6,−10; t=5.20; P=0.045).
+- Δpeak carbohydrate oxidation(non-UPF−UPF) ~ 사진 반응(non-UPF>UPF): whole-brain **L superior temporal gyrus**(−44,−24,−8; t=7.33; P_FWE=0.013), SVC **R caudate**(6,10,4; t=6.11; P=0.007)·**L ventral striatum**(−8,6,−10; t=5.20; P=0.045).
 - 방향은 **음(−)**: non-UPF 대비 UPF의 carbohydrate oxidation peak가 더 많이 둔화된 사람일수록 뇌 반응이 상대적으로 UPF 사진 쪽으로 기운다(Fig. 2 기울기; peak voxel r² 0.51–0.67).
 - Δpeak RER도 같은 양상: L STG(t=7.63; P_FWE=0.007), R caudate (4,8,2; t=5.77; SVC P=0.014)·(22,−12,24; t=5.48; SVC P=0.026).
 - **Δpeak metabolic rate·fat oxidation·glucose·insulin은 뇌 반응과 무관.** 스캔 전후 hunger(n=52 평균 56.46→70.00)·fullness·thirst 변화를 공변량으로 넣거나 BMI로 보정해도 결과 유지.
@@ -63,7 +63,7 @@ affiliation: "Virginia Tech (Fralin Biomedical Research Institute at VTC, Roanok
 
 ### 결과 6 — 그러나 뇌의 value 부호화는 가공도에 따라 반대
 - 조건 무관 WTP 상관(절차 점검): **L OFC**(−28,24,−34; t=6.27; P_FWE=0.001)·L pregenual ACC(−14,52,4; t=5.40; P=0.021)·R fusiform(46,−62,−14; t=5.64; P=0.008)·R lateral occipital(44,−78,−6; t=5.50; P=0.014) — BDM 메타분석과 일치.
-- 가치×조건(non-UPF>UPF): **L fusiform**(−32,−52,−14; t=7.89; P_FWE<0.0001), **L lingual**(−22,−84,−14; t=7.32; P<0.0001 / −24,−74,−8; t=6.69; P=0.0001), SVC **R putamen**(32,−4,12; t=4.62; P=0.017)·**R caudate**(14,16,4; t=4.34; P=0.043). 모든 부위에서 PE는 **non-UPF=양(가치↑→활성↑), UPF=음**. UPF>non-UPF 대비는 전뇌·SVC 모두 유의 voxel 없음. 시각 속성(complexity·object size) trial별 공변량에도 불변.
+- 가치×조건(non-UPF>UPF): **L fusiform**(−32,−52,−14; t=7.89; P_FWE<0.0001), **L lingual**(−22,−84,−14; t=7.32; P<0.0001 / −24,−74,−8; t=6.69; P=0.0001), SVC **R putamen**(32,−4,12; t=4.62; P=0.017)·**R caudate**(14,16,4; t=4.34; P=0.043). 모든 부위에서 PE는 **non-UPF=양(가치↑→활성↑), UPF=음**. UPF>non-UPF 대비는 forebrain·SVC 모두 유의 voxel 없음. 시각 속성(complexity·object size) trial별 공변량에도 불변.
 
 ### 저자 해석 (Discussion)
 - 혈당 정점은 비슷한데 insulin이 더 큼 → "상대적 insulin sensitivity 감소와 부합하는 패턴". 지연된 기질 산화 전환은 insulin resistance·T2D에서도 관찰된다. 만성 결과는 설계 밖이지만, 반복 노출이 역학에서 보고된 대사이상에 기여할 "그럴듯한 생리 기전"이라고 봄.
@@ -80,8 +80,8 @@ affiliation: "Virginia Tech (Fralin Biomedical Research Institute at VTC, Roanok
 ### 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 1. **NMPU 측정 분리**: liking·wanting·WTP(Pleasure·Motivation 행동 지표)는 같은데 post-ingestive 대사와 value 부호화가 갈림 → [[concept-need-motivation-pleasure-utility|NMPU]]의 Utility(식후 결과 학습) 축은 자기보고만으로 잴 수 없고 **WRIC/혈액 × food-cue fMRI**가 필요하다는 근거로 쓸 수 있음.
 2. **fusiform·visual cortex 노드**: 사용자 lab [[bae-2019-glucagon-like-peptide-1-receptor|Bae 2019]]에서 lixisenatide가 비만 T2DM의 food-cue fusiform 반응을 바꿨고, 여기서는 fusiform·lingual value 신호가 가공도에 따라 반대 → GLP-1RA가 UPF-특이 value 부호화(음의 PE)를 바꾸는지가 검증 가능한 질문.
-3. **carbohydrate oxidation = 인간 post-ingestive 교사 신호 후보**: 설치류 "glucose oxidation이 reinforcer"([[concept-flavor-nutrient-conditioning]]), 배측 선조체 = 영양 가치([[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]]), 인간 지연 post-ingestive caudate DA([[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019]], DiFeliceantonio 공저)와 caudate 연관이 정합. 단 본 연구는 DA를 재지 않았고 상관뿐.
-4. **insulin은 뇌 연관 없음**: 중추 insulin→선조체 DA 가설([[concept-metabolic-interoception]], [[fleming-2026-metabolism-and-the-mind|Fleming 2026]])과 달리 급성 insulin 차이는 cue 반응과 무관 → 급성 식후 insulin과 만성 insulin 신호(감수성)를 구분해 다뤄야 함.
+3. **carbohydrate oxidation = 인간 post-ingestive 교사 신호 후보**: 설치류 "glucose oxidation이 reinforcer"([[concept-flavor-nutrient-conditioning]]), dorsal striatum = 영양 가치([[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]]), 인간 지연 post-ingestive caudate DA([[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019]], DiFeliceantonio 공저)와 caudate 연관이 정합. 단 본 연구는 DA를 재지 않았고 상관뿐.
+4. **insulin은 뇌 연관 없음**: 중추 insulin→striatum DA 가설([[concept-metabolic-interoception]], [[fleming-2026-metabolism-and-the-mind|Fleming 2026]])과 달리 급성 insulin 차이는 cue 반응과 무관 → 급성 식후 insulin과 만성 insulin 신호(감수성)를 구분해 다뤄야 함.
 5. **DTx·식품환경**: 칼로리·3대영양소 기록으로 구분되지 않는 가공도 축 → [[concept-digital-therapeutics|DTx]] 식사기록에 NOVA를 별도 차원으로 둘 근거 후보. 영양·시각 일치 UPF/non-UPF 사진 세트는 [[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]] cue형 표현형 측정에 재사용 가능한 도구.
 
 ### ⚠️ 위키 내 충돌·긴장
@@ -90,7 +90,7 @@ affiliation: "Virginia Tech (Fralin Biomedical Research Institute at VTC, Roanok
 
 ## 관련 페이지
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — DiFeliceantonio 공저; 인간 지연 post-ingestive caudate DA. 본 논문 caudate 연관의 DA 측 짝(측정법 다름).
-- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 영양 가치 = 배측 선조체; carbohydrate oxidation–caudate 연관의 설치류 회로 배경.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 영양 가치 = dorsal striatum; carbohydrate oxidation–caudate 연관의 설치류 회로 배경.
 - [[concept-flavor-nutrient-conditioning]] — 본 논문 가설의 학습 틀(flavour-nutrient learning); glucose oxidation reinforcer.
 - [[concept-primary-reward-signals]] — fat+sugar supra-additive(DiFeliceantonio 2018)·post-oral 1차 보상; 본 연구는 조성을 일치시킨 대조.
 - [[concept-cue-reactivity]] — 인간 food-cue fMRI; 식후 대사 차이가 cue reactivity와 연관된 사례.

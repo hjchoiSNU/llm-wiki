@@ -7,7 +7,7 @@ aliases: [최형진, Hyung Jin Choi, HJ Choi]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **본 wiki 사용자.** 서울대학교 의과대학 해부학교실, 의과학과, 뇌인지과학과(Brain & Cognitive Sciences) 교수. 연구 lab은 **시상하부 식욕 회로** 중심으로 (1) 통합 이론 framework (Need-Motivation-Pleasure-Utility), (2) DMH GLP-1R cognitive satiation, (3) LH 세포 다양성, (4) 비만 임상 phenotyping (DTx·electroceutical), (5) 비인간영장류로의 번역까지 다층 연구. 이 wiki의 ingest 논문 14편 중 4편이 본인 senior author.
+> **본 wiki 사용자.** 서울대학교 의과대학 해부학교실, 의과학과, 뇌인지과학과(Brain & Cognitive Sciences) 교수. 연구 lab은 **hypothalamus 식욕 회로** 중심으로 (1) 통합 이론 framework (Need-Motivation-Pleasure-Utility), (2) DMH GLP-1R cognitive satiation, (3) LH 세포 다양성, (4) 비만 임상 phenotyping (DTx·electroceutical), (5) 비인간영장류로의 번역까지 다층 연구. 이 wiki의 ingest 논문 14편 중 4편이 본인 senior author.
 
 # Choi Hyung-jin (최형진)
 
@@ -28,7 +28,7 @@ ORCID: 0000-0003-0593-6978
 - **Need-Motivation-Pleasure-Utility (NMPU)** framework 제안 ([[kim-2024-unified-theoretical-framework-underlying-regulation|Kim YB et al. 2024 BioEssays]]).
 - 동기 행동의 4 심리 component를 분리·통합.
 
-### 2. 시상하부 회로 — 식이 cognitive satiation
+### 2. hypothalamus 회로 — 식이 cognitive satiation
 - **DMH GLP-1R 뉴런이 pre-ingestive cognitive satiation 매개** (Kim KS et al. 2024 Science).
 - 음식 시각 cue만으로 활성 → ARC AgRP 억제 → 식사 시작 전 미리 satiation.
 - Review: [[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS et al. 2025 DMJ]].
@@ -49,7 +49,7 @@ ORCID: 0000-0003-0593-6978
 ### 6. 인간 fMRI + GLP-1 약물 + 임상 phenotyping
 - Lixisenatide 효과 비만/마름 차이 (**Bae JH et al. 2020 Diabetes Metab J**).
 - Liraglutide·Saxenda 한국 real-world data (Park JS et al. 2021 Medicine).
-- **시상하부성 비만 다차원 코호트**: [[lee-2023-obesity-mechanism-after-hypothalamic|Lee M et al. 2023 Front Endocrinol]] (김용휘 공동교신) — 두개인두종 HD 환자 음식 cue fMRI(좌 미상핵↓)·음식 부주의·저포만·억제섭식.
+- **hypothalamic 비만 다차원 코호트**: [[lee-2023-obesity-mechanism-after-hypothalamic|Lee M et al. 2023 Front Endocrinol]] (김용휘 공동교신) — 두개인두종 HD 환자 음식 cue fMRI(좌 미상핵↓)·음식 부주의·저포만·억제섭식.
 
 ### 7. DTx (digital therapeutics) for 비만
 - DTx 개념 정립: [[kim-2021-digital-therapeutics-for-obesity|Kim M & Choi 2021 EnM 리뷰]].
@@ -73,7 +73,7 @@ ORCID: 0000-0003-0593-6978
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — GLP-1 cognitive satiation (DMJ 2025)
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 작용 기전 리뷰 (APEM 2025, Kim KS·Park JS·Choi)
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — Hijacked brain (JOMES 2025)
-- [[lee-2023-obesity-mechanism-after-hypothalamic]] — 시상하부 손상 후 비만 다차원 phenotyping (Front Endocrinol 2023, 공동교신)
+- [[lee-2023-obesity-mechanism-after-hypothalamic]] — hypothalamus 손상 후 비만 다차원 phenotyping (Front Endocrinol 2023, 공동교신)
 
 ### DTx·행동측정 라인 (senior/교신, 제1저자 [[person-kim-meelim|김미림]]/Lee YH) (4)
 - [[lee-2019-food-craving-seeking-and]] — craving/seeking/consumption phase framework (JOMES 2019, 교신)

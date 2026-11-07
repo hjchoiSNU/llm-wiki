@@ -7,12 +7,12 @@ aliases: [hypothalamic microinflammation, neuroinflammation hypothalamic, hypoth
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> HFD 24–72시간 내 시상하부 inflammation (Thaler 2012 JCI) — **체중 증가 이전** 발생. Microglia·astrocyte·tanycyte 매개 → leptin·insulin resistance + AgRP/POMC 균형 변형. 인간 MRI에서 mediobasal hypothalamic gliosis가 obesity·visceral fat·glucose dysregulation marker. 사용자 lab 임상 환자의 뇌영상 biomarker 후보.
+> HFD 24–72시간 내 hypothalamus inflammation (Thaler 2012 JCI) — **체중 증가 이전** 발생. Microglia·astrocyte·tanycyte 매개 → leptin·insulin resistance + AgRP/POMC 균형 변형. 인간 MRI에서 mediobasal hypothalamic gliosis가 obesity·visceral fat·glucose dysregulation marker. 사용자 lab 임상 환자의 뇌영상 biomarker 후보.
 
 # Hypothalamic inflammation (microinflammation)
 
 ## 시간 동역학
-- **24–72시간 HFD**: 시상하부 microglia 활성·IKKβ/NF-κB·JNK·SOCS3 ↑ (Thaler 2012 JCI ★).
+- **24–72시간 HFD**: hypothalamus microglia 활성·IKKβ/NF-κB·JNK·SOCS3 ↑ (Thaler 2012 JCI ★).
 - 체중 증가 **이전** 발생 — 인과적 driver 가설.
 - 만성 HFD: ER stress·oxidative stress·autophagy 손상.
 
@@ -39,7 +39,7 @@ aliases: [hypothalamic microinflammation, neuroinflammation hypothalamic, hypoth
 
 ## 인간 증거
 - **MRI mediobasal hypothalamic gliosis** ↔ obesity·visceral adiposity·glucose dysregulation (Brown 2023, Rosenbaum 2022).
-- **Postmortem 인간**: 시상하부 inflammation ↔ Parasutterella sp 감소 (Kreutzer 2017) — 유일한 직접 dysbiosis–inflammation 인체 자료.
+- **Postmortem 인간**: hypothalamus inflammation ↔ Parasutterella sp 감소 (Kreutzer 2017) — 유일한 직접 dysbiosis–inflammation 인체 자료.
 - 모체 GDM-exposed child (9–11세) — mediobasal gliosis (Chandrasekaran 2022, Olerich 2024).
 
 ## 치료 표적
@@ -64,7 +64,7 @@ aliases: [hypothalamic microinflammation, neuroinflammation hypothalamic, hypoth
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-glia-stress-plasticity]] — **같은 세포의 다른 얼굴**. 본 페이지가 미세아교세포를 *염증* 프레임으로 다룬다면, 저쪽은 **시냅스 가지치기·수초화·성상교세포 Ca²⁺** 프레임이다. ELS 연구에서는 미세아교세포를 화학유전으로 **활성화**하는 것이 오히려 회로·행동을 구제한다 — 활성화=해롭다는 단순 도식이 성립하지 않는 사례.
-- [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 1차 출처(NRN 2026). LBN이 PVN에서 CRH 뉴런 주위 미세아교세포의 시냅스 포식을 감소시킨다는 시상하부 사례 포함.
+- [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 1차 출처(NRN 2026). LBN이 PVN에서 CRH 뉴런 주위 미세아교세포의 시냅스 포식을 감소시킨다는 hypothalamus 사례 포함.
 - [[concept-maternal-programming-hypothalamus]] — neuroinflammation을 6 매개 기전의 첫째로 두는 모체 프로그래밍 hub.
 - [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — ⚠️ **인과 방향 반대 증거**: DIO LeprGlp1rKO는 더 먹고 더 무거운데도 ARC IBA1⁺ microglia가 적고(P<0.01), Lepr 뉴런 전사체에서 염증·ER stress 신호 근거가 없었다 → microgliosis가 식이가 아니라 **leptin 작용의 결과**라는 주장 (EMBO J 2026).
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — microinflammation을 **대사 경직의 표현**으로 읽는다. 또 melanocortin 회로가 염증에 반응만 하는 것이 아니라 **능동적으로 면역을 조절**한다고 본다(AgRP SIRT1 결손 → Treg 조절 손상·EAE 감수성↑, AgRP→bone marrow·thymus 교감 조절, AgRP→PVH→vagus 항염증 경로). hypothalamic 염증 차단이 생쥐 health span을 늘린 '회춘' 계열도 정리.

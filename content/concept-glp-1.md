@@ -7,7 +7,7 @@ aliases: [GLP-1, glucagon-like peptide-1, GLP1]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **두 역할의 호르몬**: (1) 인간 incretin 효과의 절반을 담당 (T2DM 1차 표적). (2) Satiation·hunger 신호. **DMH GLP-1R 뉴런이 인지 단계의 pre-ingestive cognitive satiation 매개** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025 DMJ; Kim KS 2024 Science]], 본 lab) — "신호등 보고 미리 브레이크". GLP-1RA는 vagus 우회로 작용하지만 인간에서 BBB 통과 적어 중추 작용 부위는 시상하부 (DMH·ARC·PVH·LH·VMH) + 뇌간 (NTS satiety vs AP aversion 분리). 차세대 약물·DTx 표적의 핵심.
+> **두 역할의 호르몬**: (1) 인간 incretin 효과의 절반을 담당 (T2DM 1차 표적). (2) Satiation·hunger 신호. **DMH GLP-1R 뉴런이 인지 단계의 pre-ingestive cognitive satiation 매개** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025 DMJ; Kim KS 2024 Science]], 본 lab) — "신호등 보고 미리 브레이크". GLP-1RA는 vagus 우회로 작용하지만 인간에서 BBB 통과 적어 중추 작용 부위는 hypothalamus (DMH·ARC·PVH·LH·VMH) + brainstem (NTS satiety vs AP aversion 분리). 차세대 약물·DTx 표적의 핵심.
 
 # Glucagon-like peptide-1 (GLP-1)
 
@@ -48,7 +48,7 @@ Proglucagon에서 절단된 30-31 aa peptide. 두 활성형: GLP-1(7-37), **GLP-
 가수분해 필요. 인공감미료는 GLP-1 자극 X.
 
 ## 수용체
-**GLP-1R** (Class B GPCR): 췌장 β-cell, 위, 미주신경 구심성, 뇌(area postrema, NTS, lateral parabrachial, VTA, PVN, NAcc, **DMH·ARC·PVH·LH·VMH**), 심방, 신장.
+**GLP-1R** (Class B GPCR): 췌장 β-cell, 위, vagus nerve 구심성, 뇌(area postrema, NTS, lateral parabrachial, VTA, PVN, NAcc, **DMH·ARC·PVH·LH·VMH**), 심방, 신장.
 
 ### 수용체 분자 프로필 (2026-10-03 추가 — 출처 [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]])
 - **클로닝**: rat GLP-1R 발현클로닝(Thorens 1992 PNAS) → **인간 GLP-1R 클로닝·기능발현**(Thorens et al., Diabetes 1993). human islet cDNA library 2차례 스크리닝 → 전장 cDNA, rat과 **~96% 상동**, **~2.6 kb** transcript, **463 아미노산**. 같은 시기 Boyd III(Tufts)·Merck가 독립 발표(교차확인: 463 aa, ~2.7 kb, rat 90–91% 상동).
@@ -56,9 +56,9 @@ Proglucagon에서 절단된 30-31 aa peptide. 두 활성형: GLP-1(7-37), **GLP-
 - **구조**: ECD 결정구조(Runge 2008) → cryo-EM 전장 GLP-1R–Gs 복합체. 펩타이드 작용제는 **C-말단으로 ectodomain에 결합**, 리간드 N-말단이 7TM에 관여(세포외 루프가 안정화); 활성화 시 **TM helix 6이 Gα의 α5 helix 쪽으로 굽음**. PDB **7LLL**(exendin-4)·**7VBI**(tirzepatide).
 - **Trafficking**: 구성적 활성 거의 없음 / exendin-4에 **빠르고 광범위한 내재화** → endosomal cAMP 신호 · 재활용 · lysosome 분해. **β-arrestin 회피 편향 리간드는 내재화↓·표면 유지↑·desensitization 방지** → [[concept-biased-agonism]]. ⚠️ 이 데이터는 **β세포·세포주 기반**이며 **뉴런 GLP-1R trafficking은 미탐색**.
 - **변이 효과의 결정 변수**: 희귀 GLP-1R 변이 ~60개의 효과가 **세포표면 발현**부터 경로특이 LoF/GoF까지 분포하고(Gao 2023 Nat Metab), **Gs 공역 강도가 변이 효과크기를 예측**(Lagou 2023 Nat Genet). → [[su-2026-genetic-predictors-of-glp1-receptor]]·[[concept-glp1ra-response-variability]]
-- **화학생물학**: 항체로 내인성 GPCR을 보기 어려워(detergent가 에피토프를 가림) **exendin-4/exendin-(9-39)에 형광단·PET/MRI·올리고를 접합한 probe**가 뇌·췌장 GLP-1R 지도의 1차 도구. β-cell 풍부·α-cell 희박, 그리고 말초 exendin-4·semaglutide의 시상하부·뇌간 접근이 이 probe로 확인됐다.
+- **화학생물학**: 항체로 내인성 GPCR을 보기 어려워(detergent가 에피토프를 가림) **exendin-4/exendin-(9-39)에 형광단·PET/MRI·올리고를 접합한 probe**가 뇌·췌장 GLP-1R 지도의 1차 도구. β-cell 풍부·α-cell 희박, 그리고 말초 exendin-4·semaglutide의 hypothalamus·brainstem 접근이 이 probe로 확인됐다.
 
-> ⚠️ **BBB — 대상을 구분할 것**: 이 페이지의 정박 리뷰([[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert Physiol Rev]])는 **내인성 GLP-1 펩타이드**에 대해 "뇌에 단순 확산으로 들어가는 것으로 보인다"(Kastin 2002 인용)고 적는다. 그러나 **GLP-1 의약(GLP-1RA)**은 다르다: 펩타이드 GLP-1RA는 BBB를 **효율적으로 통과하지 못하며**, 뇌 접근은 **뇌실주위기관(area postrema·subfornical organ·OVLT·정중융기)**과 혈관 근접부, 그리고 [[concept-tanycytes|tanycyte]] GLP-1R 매개 수송에 국한되고 CSF 농도는 미량(exenatide CSF는 혈중의 ~1/100)이다([[fang-2025-glucagon-like-peptide-1-medicines|Fang 2025]]·[[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]·[[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]). 단 Sabbagh는 liraglutide·semaglutide·exenatide의 BBB 통과를 시사하는 전임상도 병기하므로 "전혀 못 통과"가 아니라 **"효율적이지 않다"**가 정확한 표현이다. 예외적으로 경구 **소분자** danuglipron(555.6 Da)은 심부 CeA 뉴런을 직접 활성화함이 입증됐고, orforglipron은 AP보다 **NTS 편향 FOS**를 보였다([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]). → 이 항목은 [[concept-glp1-neuroprotection]]의 '뇌 도달 부족' 가설과 [[du-2026-oral-glp1-receptor-agonist-promotes|뇌투과형 설계]]의 전제다.
+> ⚠️ **BBB — 대상을 구분할 것**: 이 페이지의 정박 리뷰([[steinert-2017-ghrelin-cck-glp-1-pyy-secretory|Steinert Physiol Rev]])는 **내인성 GLP-1 펩타이드**에 대해 "뇌에 단순 확산으로 들어가는 것으로 보인다"(Kastin 2002 인용)고 적는다. 그러나 **GLP-1 의약(GLP-1RA)**은 다르다: 펩타이드 GLP-1RA는 BBB를 **효율적으로 통과하지 못하며**, 뇌 접근은 **circumventricular organ(area postrema·subfornical organ·OVLT·median eminence)**과 혈관 근접부, 그리고 [[concept-tanycytes|tanycyte]] GLP-1R 매개 수송에 국한되고 CSF 농도는 미량(exenatide CSF는 혈중의 ~1/100)이다([[fang-2025-glucagon-like-peptide-1-medicines|Fang 2025]]·[[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]·[[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]). 단 Sabbagh는 liraglutide·semaglutide·exenatide의 BBB 통과를 시사하는 전임상도 병기하므로 "전혀 못 통과"가 아니라 **"효율적이지 않다"**가 정확한 표현이다. 예외적으로 경구 **소분자** danuglipron(555.6 Da)은 심부 CeA 뉴런을 직접 활성화함이 입증됐고, orforglipron은 AP보다 **NTS 편향 FOS**를 보였다([[godschall-2026-a-brain-reward-circuit-inhibited|Godschall 2026]]). → 이 항목은 [[concept-glp1-neuroprotection]]의 '뇌 도달 부족' 가설과 [[du-2026-oral-glp1-receptor-agonist-promotes|뇌투과형 설계]]의 전제다.
 
 ## 작용
 
@@ -68,7 +68,7 @@ Proglucagon에서 절단된 30-31 aa peptide. 두 활성형: GLP-1(7-37), **GLP-
 - 정상 성인 incretin effect의 절반 이상.
 - 인간에서 PD/A 모두 충족 → physiological endocrine 입증.
 
-### 2) Cognitive satiation (시상하부)
+### 2) Cognitive satiation (hypothalamus)
 
 **핵심 발견** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025; Kim KS 2024 Science]] — 본 lab):
 
@@ -77,7 +77,7 @@ Proglucagon에서 절단된 30-31 aa peptide. 두 활성형: GLP-1(7-37), **GLP-
 - 인간 fMRI에서 DMH 영역 신호 일치.
 - "**신호등 보고 미리 브레이크**" 비유 — feed-forward cognitive control.
 
-### 3) 다른 시상하부 GLP-1R nucleus
+### 3) 다른 hypothalamus GLP-1R nucleus
 
 | 부위 | 주요 cell type | 효과 |
 |---|---|---|
@@ -128,7 +128,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - 전임상 AD 모델에서 β-amyloid·tau·신경염증·뇌 인슐린저항·시냅스 손실을 다면적으로 개선.
 - 관찰연구: dulaglutide 인지저하 지연(REWIND), liraglutide+semaglutide 치매 발생 감소, exenatide 파킨슨 개선.
 - **그러나 결정적 3상은 음성**: [[cummings-2026-efficacy-and-safety-of-oral|EVOKE/EVOKE+]](경구 sema, 초기 AD, n=3,808) 임상 종점 완전 음성·조기 중단; [[edison-2026-liraglutide-in-mild-to-moderate|ELAD]]도 1차 음성. → 증상성 AD 임상 이득 미확립.
-- 기전(세포종류 논쟁 중): **AD 관련 부위(해마·피질)를 본 마우스 연구**에서 GLP-1R가 성상교세포 표면에 우세하고 뉴런에는 소수로 관찰되며, AD 모델에서 성상교세포 GLP-1R가 **추가로 상향(보상성)**돼 약효 창을 만든다 — [[concept-astrocyte-neuron-lactate-shuttle|젖산 셔틀]]·H3K9la 경유([[du-2026-oral-glp1-receptor-agonist-promotes|OHP2, Cell Metab 2026]]; APP/PS1·5xFAD, **수컷 마우스만**. 저자 스스로 "선행 연구는 PVN·후각구에 집중했고 본 연구는 피질·해마를 본다"고 부위를 한정). 반면 [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]은 CNS GLP-1R가 **주로 뉴런**이고 성상교세포·희소돌기아교세포·내피·혈관평활근·주피세포에도 발현한다고 기술한다. 본 hub가 정리하는 DMH/AP/POMC의 **뉴런** GLP-1R 회로와 충돌하지 않도록, 성상교세포 우세는 **부위·모델·성별 한정 소견**으로 읽을 것. sema 임상 실패의 **뇌 도달 부족** 귀인도 여러 후보 중 하나인 가설이다([[concept-glp1-neuroprotection]] 참조).
+- 기전(세포종류 논쟁 중): **AD 관련 부위(hippocampus·cortex)를 본 마우스 연구**에서 GLP-1R가 성상교세포 표면에 우세하고 뉴런에는 소수로 관찰되며, AD 모델에서 성상교세포 GLP-1R가 **추가로 상향(보상성)**돼 약효 창을 만든다 — [[concept-astrocyte-neuron-lactate-shuttle|젖산 셔틀]]·H3K9la 경유([[du-2026-oral-glp1-receptor-agonist-promotes|OHP2, Cell Metab 2026]]; APP/PS1·5xFAD, **수컷 마우스만**. 저자 스스로 "선행 연구는 PVN·후각구에 집중했고 본 연구는 cortex·hippocampus를 본다"고 부위를 한정). 반면 [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 2026]]은 CNS GLP-1R가 **주로 뉴런**이고 성상교세포·희소돌기아교세포·내피·혈관평활근·주피세포에도 발현한다고 기술한다. 본 hub가 정리하는 DMH/AP/POMC의 **뉴런** GLP-1R 회로와 충돌하지 않도록, 성상교세포 우세는 **부위·모델·성별 한정 소견**으로 읽을 것. sema 임상 실패의 **뇌 도달 부족** 귀인도 여러 후보 중 하나인 가설이다([[concept-glp1-neuroprotection]] 참조).
 - 상세: [[concept-glp1-neuroprotection]].
 
 ## T2DM에서
@@ -165,10 +165,10 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 | Orforglipron | 경구 소분자, partial/biased agonist | **2026 FDA 승인**([[petersen-2026-the-evolving-landscape-of]]) |
 
 ### Tanycytes
-- 시상하부 tanycytes (3rd ventricle 벽)에 GLP-1R 발현 — liraglutide·semaglutide의 시상하부 transport 매개 (Imbernon 2022).
+- hypothalamus tanycytes (3rd ventricle 벽)에 GLP-1R 발현 — liraglutide·semaglutide의 hypothalamus transport 매개 (Imbernon 2022).
 
 ### 인간 fMRI 효과
-- GLP-1RA → **음식 cue 뇌 반응 감쇠** (시상하부, putamen, insula, OFC, NAc).
+- GLP-1RA → **음식 cue 뇌 반응 감쇠** (hypothalamus, putamen, insula, OFC, NAc).
 - 단순 위장 효과 아닌 cognitive reshape.
 
 ## 차세대 후보
@@ -182,7 +182,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - Semaglutide → acetate-producer (Bacteroides acidifaciens, Blautia coccoides) ↑ → ARC acetate → POMC GPR43 → 식이 ↓.
 - Semaglutide + **Akkermansia muciniphila Akk11** 시너지 (Gao 2026).
 - Tirzepatide 효과가 microbiota 의존 — antibiotic depletion 시 차단 (Ma 2025).
-- **중단 rebound** (Wang 2026, 비만 여성 28명 전향 코호트): **참가자의 71.4%가 12주 이내 유의한 체중 재증가**(사람 비율 지표이지 체중 변화율 아님) + ursodeoxycholic acid ↓ + 시상하부 TGR5 ↓.
+- **중단 rebound** (Wang 2026, 비만 여성 28명 전향 코호트): **참가자의 71.4%가 12주 이내 유의한 체중 재증가**(사람 비율 지표이지 체중 변화율 아님) + ursodeoxycholic acid ↓ + hypothalamus TGR5 ↓.
 
 ## 인간 hypothalamic atlas (Tadross 2025)
 - **인간 POMC = LepR + GLP1R 공발현** (마우스 분리). → dual agonist 효과 분자 정당성.
@@ -201,7 +201,7 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 ## 관련 페이지
 
 - [[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]] — physiological criteria 평가.
-- [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 시상하부 cognitive satiation (본 lab).
+- [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — hypothalamus cognitive satiation (본 lab).
 - [[concept-incretin-effect]] — 췌장 메커니즘.
 - [[concept-cck]] — synergy.
 - [[concept-pyy-3-36]] — L-cell 공발현.
@@ -238,12 +238,12 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[le-roux-2026-survodutide-once-weekly-for]] · [[kaplan-2026-survodutide-in-adults-with]] — glucagon/GLP-1 dual agonist phase 3(비만·MASLD).
 - [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-oral-small-molecule-glp]] — 경구 소분자 GLP-1RA phase 2.
 - [[campos-2016-parabrachial-cgrp-neurons-control-meal]] — GLP-1/Ex-4 식욕억제가 CGRP^PBel 활성화를 요구.
-- [[zhang-2021-area-postrema-cell-types-that]] — exendin-4 malaise가 뇌간 AP GLP1R 경유(vagal 아님).
+- [[zhang-2021-area-postrema-cell-types-that]] — exendin-4 malaise가 brainstem AP GLP1R 경유(vagal 아님).
 - [[concept-area-postrema]] — AP GLP1R 오심 관문 hub.
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1/GLP-1R 부위별 분포·연령·종특이성 1차 해부.
 - [[wan-2023-glp-1r-signaling-and-functional]] — GLP-1R 세포내 신호(Gαs/Gαq/β-arrestin)·biased agonism.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GLP-1 췌장외·중추 작용 대조 표준 리뷰.
-- [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 뉴런(DMH/후뇌/LS) 비판적 종합.
+- [[cao-2024-hunting-for-heroes-brain]] — GLP-1RA 매개 뇌 뉴런(DMH/hindbrain/LS) 비판적 종합.
 - [[coppin-2022-does-glp-1-receptor-agonist]] — liraglutide가 food liking을 바꾸지 않았다는 인간 RCT(**미심사 preprint·n=44·저검정력 null**); 효과는 wanting 축이라는 해석의 간접 근거.
 - [[concept-glp1-neuroprotection]] — GLP-1RA 신경퇴행 repurposing hub(대사 밖 뇌 작용).
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 경구 sema 초기 AD 3상 음성(EVOKE/EVOKE+, Lancet 2026).
@@ -258,10 +258,10 @@ DMH-LepR-GLP-1R 공발현 cluster는 **GLP-1/leptin dual agonist** 표적.
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — 인간 POMC의 `GLP1R` 발현 확인(단 마우스보다 낮음), 인간 AgRP도 저수준 `GLP1R` 검출; VL POMC 아집단에 농축 (Nat Commun 2026).
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — `GLP1R` 미스센스 **rs10305420 (p.Pro7Leu)**가 인간 치료반응을 좌우(사본당 추가 −0.76 kg); 같은 좌위 변이가 오심·구토도 좌우하고 **효능 신호와 co-localize**(H4 96.6%) (Nature 2026, 23andMe GWAS n=27,885).
 - [[concept-glp1ra-response-variability]] — 반응 이질성 hub(비유전 임상 ~21% + 유전 ~4%p + 행동 표현형 + 회로 4층).
-- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — 시상하부 **Lepr×Glp1r 공발현 뉴런 = Bnc2/Nkx2-4/Glp1r 3아형**(Ebf1/Trh/Tbx19); ARC는 Trh·Tbx19형, DMH는 Ebf1형 우세. PVH AVP 뉴런도 Glp1r 농축 (bioRxiv 2025).
-- [[concept-lateral-septum]] — **LS^Glp1r**: [[duran-2026-the-central-amygdala-gates|Duran 2026]]·[[johansen-2025-brain-control-of-energy|Johansen 2025]]이 "GLP-1R 풍부하나 역할 불명"으로 남긴 변연계 노드에 세포 좌표가 생긴 곳.
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — hypothalamus **Lepr×Glp1r 공발현 뉴런 = Bnc2/Nkx2-4/Glp1r 3아형**(Ebf1/Trh/Tbx19); ARC는 Trh·Tbx19형, DMH는 Ebf1형 우세. PVH AVP 뉴런도 Glp1r 농축 (bioRxiv 2025).
+- [[concept-lateral-septum]] — **LS^Glp1r**: [[duran-2026-the-central-amygdala-gates|Duran 2026]]·[[johansen-2025-brain-control-of-energy|Johansen 2025]]이 "GLP-1R 풍부하나 역할 불명"으로 남긴 limbic system 노드에 세포 좌표가 생긴 곳.
 - [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — LS^Crhr2의 **8.4%가 Glp1r 아형**이며, 위협 회피에서 **행동 개시(Av-run onset) 표상 1위**·SuM 최대 입력·BLA 선택적 입력을 받는 뚜렷한 세포군. ⚠️ 섭식·GLP-1RA는 시험되지 않음 (Nature 2026).
-- [[azevedo-2020-a-limbic-circuit-selectively-links]] — ★ **LS^Nts 뉴런의 70%가 `Glp1r`⁺**이고, **LS 국소 exendin-4 투여만으로 섭취가 강하게 감소**. LS를 GLP-1RA 변연계 작용점으로 보는 가장 오래된 직접 약리 증거 (eLife 2020, Friedman lab).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — ★ **LS^Nts 뉴런의 70%가 `Glp1r`⁺**이고, **LS 국소 exendin-4 투여만으로 섭취가 강하게 감소**. LS를 GLP-1RA limbic system 작용점으로 보는 가장 오래된 직접 약리 증거 (eLife 2020, Friedman lab).
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — LS snRNA-seq에서 `Glp1r`가 **`Pdyn`과 공발현**하며, DLS^Glp1r 자극이 섭식을 줄인다는 선행 보고와 수렴. → `Glp1r`는 LS의 **세 독립 좌표계**(Crhr2·Sst/Pdyn·Nts)에 모두 등장하는 수렴 마커 (Neuron 2026). → [[concept-lateral-septum]]
 - [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **GLP-1R 분자생물학의 기원**: 1993년 인간 GLP-1R 클로닝(463 aa, CHL 발현, GLP-1 EC50 93 pM·exendin-4 33 pM)과 **exendin-4(1-39)=full agonist / exendin-(9-39)=full antagonist** 규정. 이후 30년의 약리·신호·유전·구조·화학생물학(형광·PET exendin probe) 계보 (Diabetes 2024 Classics).
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — ★ **체중 감소로 설명되지 않는 GLP-1 작용** 총정리: SELECT(체중 9.4%에 MACE 20%↓·중심지방이 효과의 1/3만 매개)·ESSENCE(간 종료점 50–70% 비체중)·STRIDE(BMI<30 다수)·hsCRP 매개 20.6–61.8%. **신경 GLP-1R이 말초 염증 억제에 필수** (Cell Metab 2026, Drucker).

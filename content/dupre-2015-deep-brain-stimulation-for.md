@@ -25,7 +25,7 @@ year: 2015
   - 인지조절: dlPFC·thalamus·GPi·lateral OFC.
 - **기계론 근거**: BMI↑에 따라 striatal D2 가용성↓(Wang), operculum/OFC/striatum DA 활성 이상이 미래 체중증가 예측(Stice).
 - **합성**: orexin LHA가 thermogenesis·reward·항상성·포만을 아우르는 hub라 **LHA를 obesity DBS의 표적 of choice**로 제시. VTA·NAc·SCC도 유망. "compound obesity"엔 multinodal 자극 가능성.
-- **안전성 경고**: VMH 자극의 déjà vu·공황(전류 확산), ventral striatum의 웃음/정동 효과, 뇌간 표적(area postrema·NTS)의 높은 위험, DBS 위약효과 최대 39%.
+- **안전성 경고**: VMH 자극의 déjà vu·공황(전류 확산), ventral striatum의 웃음/정동 효과, brainstem 표적(area postrema·NTS)의 높은 위험, DBS 위약효과 최대 39%.
 
 ## 관련 페이지
 - [[concept-deep-brain-stimulation]] — 본 페이지가 표적 지도를 제공.
@@ -33,6 +33,6 @@ year: 2015
 - [[concept-lateral-hypothalamus]] — 제시된 1차 표적.
 - [[concept-ventromedial-hypothalamus]] · [[concept-nucleus-accumbens]] — 주요 표적.
 - [[whiting-2013-lateral-hypothalamic-area-deep]] — 핵심 인용(LHA pilot).
-- [[hamani-2008-memory-enhancement-induced-by]] — VMH/복측 시상하부 사례.
+- [[hamani-2008-memory-enhancement-induced-by]] — VMH/ventral hypothalamus 사례.
 - [[formolo-2019-deep-brain-stimulation-for]] · [[roh-2021-deep-brain-stimulation-for]] — 후속 종합 리뷰.
 - [[concept-dopamine-reward-system]] · [[concept-orbitofrontal-cortex]] · [[concept-insula]] — 미래 보상/인지 표적 회로.

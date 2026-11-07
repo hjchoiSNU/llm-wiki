@@ -10,12 +10,12 @@ journal: "Science Advances 12(5):eadz0828"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **장-뇌 미주신경(gut-brain vagal axis)의 상시적 tone이 중뇌변연계(VTA→NAc) 도파민 시스템을 "permissive하게 gating"한다**는 인과 증거. 횡격막하 미주절단(SDV) 마우스는 음식뿐 아니라 **코카인·모르핀 등 약물 보상까지** 약화 — DA 회로 자체가 말초 내수용 신호에 의존함을 다중스케일(행동·photometry·전기생리·형태)로 입증. 핵심: (1) NAc DA(VTA 매개)는 vagal tone 의존, **DS DA(nigrostriatal)는 비의존** → mesolimbic 선택성; (2) 시상하부(ARC·VMH) 항상성 노드는 불변 → 보상축만 표적; (3) 회로는 **vagus→NTS→PBN→VTA**(NTS 직접 투사는 미미). 사용자 연구의 [[concept-interoception|내수용]]·[[concept-dopamine-reward-system|보상]]·[[kim-2024-glp-1-increases-preingestive-satiation|preingestive]] 축에 "body→brain reward"의 인과 기반을 제공. 같은 Gangarossa 그룹의 [[onimus-2026-dopamine-ensembles-regulating-appetite|TEM 2026 리뷰]]의 실험적 backbone.
+> **장-뇌 vagus nerve(gut-brain vagal axis)의 상시적 tone이 midbrainlimbic system(VTA→NAc) 도파민 시스템을 "permissive하게 gating"한다**는 인과 증거. 횡격막하 미주절단(SDV) 마우스는 음식뿐 아니라 **코카인·모르핀 등 약물 보상까지** 약화 — DA 회로 자체가 말초 내수용 신호에 의존함을 다중스케일(행동·photometry·전기생리·형태)로 입증. 핵심: (1) NAc DA(VTA 매개)는 vagal tone 의존, **DS DA(nigrostriatal)는 비의존** → mesolimbic 선택성; (2) hypothalamus(ARC·VMH) 항상성 노드는 불변 → 보상축만 표적; (3) 회로는 **vagus→NTS→PBN→VTA**(NTS 직접 투사는 미미). 사용자 연구의 [[concept-interoception|내수용]]·[[concept-dopamine-reward-system|보상]]·[[kim-2024-glp-1-increases-preingestive-satiation|preingestive]] 축에 "body→brain reward"의 인과 기반을 제공. 같은 Gangarossa 그룹의 [[onimus-2026-dopamine-ensembles-regulating-appetite|TEM 2026 리뷰]]의 실험적 backbone.
 
 # The gut-brain vagal axis governs mesolimbic dopamine dynamics and reward events
 
 ## 한 줄 요약
-횡격막하 미주절단(subdiaphragmatic vagotomy, SDV)으로 장-뇌 미주 신호를 만성 차단하면, 음식·약물 보상 행동과 그 기저의 **mesolimbic VTA→NAc 도파민 동역학·VTA DA 뉴런 발화·NAc SPN 가소성**이 모두 약화되지만 **dorsal striatum(nigrostriatal) DA와 시상하부 항상성 노드는 보존**됨 — 미주 tone이 보상계 DA를 permissive하게 gating한다는 인과 증거 (Sci Adv 2026, Gangarossa lab).
+횡격막하 미주절단(subdiaphragmatic vagotomy, SDV)으로 장-뇌 미주 신호를 만성 차단하면, 음식·약물 보상 행동과 그 기저의 **mesolimbic VTA→NAc 도파민 동역학·VTA DA 뉴런 발화·NAc SPN 가소성**이 모두 약화되지만 **dorsal striatum(nigrostriatal) DA와 hypothalamus 항상성 노드는 보존**됨 — 미주 tone이 보상계 DA를 permissive하게 gating한다는 인과 증거 (Sci Adv 2026, Gangarossa lab).
 
 ## 모델·방법
 - **SDV(subdiaphragmatic vagotomy)** = 장-뇌 미주 구심/원심을 만성 차단(sham 대조). 성공 기준: CCK anorexia 소실, 위 팽창, DMV Fluorogold 역행표지 감소 등.
@@ -36,7 +36,7 @@ journal: "Science Advances 12(5):eadz0828"
 - 기호식 섭취 전 **NAc DA anticipatory 상승이 sham에만**(SDV 소실), 섭취 초기 수 초도 차이.
 - **위내 PS perfusion → NAc DA 즉시 상승(sham), SDV는 무반응**(fed·fasted 모두). **water perfusion은 무효**(기계적 신호 배제).
 - 위내 PS → **NTS·PBN·VTA(특히 TH+ DA 뉴런) cFos↑**. 추적: **PBN→VTA 강함, NTS→VTA는 소수·산발** → vagus→NTS→PBN→VTA 회로 시사.
-- 분자: SDV는 PS 후 NAc pS6·cFos↓; **시상하부(ARC·VMH) cFos는 불변** → 항상성 노드 보존.
+- 분자: SDV는 PS 후 NAc pS6·cFos↓; **hypothalamus(ARC·VMH) cFos는 불변** → 항상성 노드 보존.
 
 ### 4. 약물 유발 DA 동역학 — mesolimbic 선택성 (Fig 4)
 - 코카인-유발 **NAc DA 축적 SDV에서↓**(dLight 재현); **DS는 차이 없음**. amphetamine은 NAc 초기 10분 induction만 느림, DS 무차이.

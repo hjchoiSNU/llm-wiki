@@ -9,12 +9,12 @@ year: 2025
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> GIP+GLP-1 조합의 시너지 체중감소가 **뉴런이 아니라 정중융기(ME)의 올리고덴드로사이트(OL) GIPR**를 경유한다는 비신경세포 기전. GIPR 작용이 ME OL 신생을 촉진→VEGF-A↑·혈관 투과성↑→말초 GLP-1R 작용제의 뇌 접근(특히 PVH vasopressin 축삭)을 증가시켜 GLP-1R 효능을 끌어올린다. 최형진 랩의 GIP+GLP-1 조합 전략에서 "왜 조합이 단독보다 더 빠지는가"에 대한 새 CNS 접근성 축.
+> GIP+GLP-1 조합의 시너지 체중감소가 **뉴런이 아니라 median eminence(ME)의 올리고덴드로사이트(OL) GIPR**를 경유한다는 비신경세포 기전. GIPR 작용이 ME OL 신생을 촉진→VEGF-A↑·혈관 투과성↑→말초 GLP-1R 작용제의 뇌 접근(특히 PVH vasopressin 축삭)을 증가시켜 GLP-1R 효능을 끌어올린다. 최형진 랩의 GIP+GLP-1 조합 전략에서 "왜 조합이 단독보다 더 빠지는가"에 대한 새 CNS 접근성 축.
 
 # 올리고덴드로사이트 GIPR 신호가 GLP-1R 작용의 체중감소 효과를 증강한다 (Hansford et al. 2025)
 
 ## 한 줄 요약
-정중융기(median eminence, ME)의 성숙 올리고덴드로사이트에 발현된 GIPR가 성체 oligodendrogenesis를 양방향 조절하며, GIPR 작용이 ME 혈관 투과성을 높여 말초 GLP-1R 작용제의 뇌 접근을 증가시킴으로써 GLP-1R 체중감소 효능을 증강한다(Cell Metab 2025).
+median eminence(ME)의 성숙 올리고덴드로사이트에 발현된 GIPR가 성체 oligodendrogenesis를 양방향 조절하며, GIPR 작용이 ME 혈관 투과성을 높여 말초 GLP-1R 작용제의 뇌 접근을 증가시킴으로써 GLP-1R 체중감소 효능을 증강한다(Cell Metab 2025).
 
 ## 핵심 내용
 
@@ -41,7 +41,7 @@ year: 2025
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide 체중감소 뇌 기전 병렬.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — GLP-1 작용 기전 종설.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 incretin 종합.
-- [[concept-tanycytes]] — 같은 정중융기·제3뇌실 경계에서 GLP-1RA(liraglutide)의 시상하부 수송을 매개한다고 보고된 축(Imbernon 2022). 본 논문의 **OL→VEGF-A→혈관 fenestration** 경로와 병존·경쟁 관계로 아직 대조 실험 없음.
+- [[concept-tanycytes]] — 같은 median eminence·third ventricle 경계에서 GLP-1RA(liraglutide)의 hypothalamus 수송을 매개한다고 보고된 축(Imbernon 2022). 본 논문의 **OL→VEGF-A→혈관 fenestration** 경로와 병존·경쟁 관계로 아직 대조 실험 없음.
 - [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — 같은 '이중작용제 우월성'을 **Vgat⁺ 억제성 뉴런 GIPR**로 설명하는 경쟁 가설.
 - [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR **길항** 접합체의 중추 GIPR·GLP-1R 요구성과 CVO 경유 뇌 접근.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — "GIPR는 다수가 비뉴런(oligodendrocyte·pericyte)"이라는 발현 지도 상위 리뷰(본 논문과 정합).

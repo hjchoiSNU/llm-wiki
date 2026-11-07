@@ -20,7 +20,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 ### Nigrostriatal pathway
 - Substantia nigra pars compacta (SNc) → dorsal striatum
 - Motivated intake에 필수 — DA-deficient mouse는 aphagia (Zhou & Palmiter 1995; Palmiter 2008).
-- Dorsolateral striatum이 habit 학습 (Yin & Knowlton 2006).
+- Dorsolateral striatum가 habit 학습 (Yin & Knowlton 2006).
 
 ### 추가 표적
 - VTA → mPFC, amygdala, hippocampus
@@ -124,10 +124,10 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 
 ## 관련 페이지
 - [[concept-liking-wanting]] — 도파민은 ‘갈망(wanting)’을 매개하되 ‘좋아함(liking)’에는 불필요; 보상 이중 해리 hub.
-- [[concept-incentive-sensitization]] — 중변연계 도파민 감작이 ‘갈망’을 ‘좋아함’과 무관하게 폭주시키는 중독·과식 기전.
+- [[concept-incentive-sensitization]] — 중limbic system 도파민 감작이 ‘갈망’을 ‘좋아함’과 무관하게 폭주시키는 중독·과식 기전.
 - [[concept-hedonic-hotspot]] — 도파민 ‘갈망’ 회로와 대조되는 오피오이드 ‘좋아함’ 증폭 부위.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc D1/D2 세포의 좋아함–갈망 분리(세포 수준).
-- [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도가 중변연계(VTA·NAc)를 동원해 ‘갈망’을 표적에 집중.
+- [[warlow-2021-incentive-motivation-wanting-roles]] — central amygdala가 중limbic system(VTA·NAc)를 동원해 ‘갈망’을 표적에 집중.
 - [[onimus-2026-dopamine-ensembles-regulating-appetite]] — 이 hub를 'reward 너머 에너지항상성'으로 확장한 통합 리뷰(DA ensembles, TEM 2026).
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — RPE 도전 종합.
 - [[jeong-2022-mesolimbic-dopamine-release-conveys-causal]] · [[concept-anccr]] — **ANCCR 원전**: NAcc 도파민 방출이 TDRL RPE가 아닌 회고적 인과 연합(meaningful causal target)을 전달; 무예측 sucrose 반복 시 보상 반응↑·직전 IRI와 양의 상관·소거 후 cue 반응 잔존 등 11개 검증 (Science 2022).
@@ -148,7 +148,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — flavor-nutrient는 left aBLA DA 매개.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] — primary/proxy/secondary RL framework.
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — mPFC↔VTA DA가 contingency degradation을 meta-RPE(RPE의 rolling-gain)로 표상·구동 (Nature 2026).
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — **"단일 보상 broadcast" 가정에 대한 공간적 반례**. 소비 중 선조체 도파민은 전후축을 따라 기능이 갈리고(전방=가치·이력 / 후방=감각운동 / TS=평행 채널), **후→전 파동**으로 전개되며, **한 아구역의 방출이 다른 아구역을 끌어올리지 않는다**(초 단위에서 striato-nigro-striatal spiral 불성립). 상류는 [[concept-lateral-hypothalamus|LHA]] GABA/Glut 비로, 그 균형이 이 지형을 **인과적으로 설정**한다. 행동적으로 도파민은 소비의 **개시(bout 수)** 를 강화하고 지속은 강화하지 않는다 (Neuron 2026, Stuber lab).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — **"단일 보상 broadcast" 가정에 대한 공간적 반례**. 소비 중 striatum 도파민은 전후축을 따라 기능이 갈리고(전방=가치·이력 / 후방=감각운동 / TS=평행 채널), **후→전 파동**으로 전개되며, **한 아구역의 방출이 다른 아구역을 끌어올리지 않는다**(초 단위에서 striato-nigro-striatal spiral 불성립). 상류는 [[concept-lateral-hypothalamus|LHA]] GABA/Glut 비로, 그 균형이 이 지형을 **인과적으로 설정**한다. 행동적으로 도파민은 소비의 **개시(bout 수)** 를 강화하고 지속은 강화하지 않는다 (Neuron 2026, Stuber lab).
 - [[knight-liberles-2025-interoception]] — interoception × reward frontier.
 - [[concept-interoception]] — primary reward의 토대 개념.
 - [[concept-primary-reward-signals]] — post-oral interoceptive primary.
@@ -159,7 +159,7 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 비만 T2DM의 OFC·reward 영역 food cue 과반응을 인체 fMRI로 확인 (DMJ 2019, 본 lab).
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1+naltrexone(opioid antagonist)이 reward계 작용으로 식이 시너지↓; 병용요법 editorial (JOMES 2017, 본 lab).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 리뷰; mesolimbic 보상계 GLP-1R 작용을 부위별로 정리 (APEM 2025, 본 lab).
-- [[wilbrecht-2024-experimental-biology-can-inform]] — 발달기 식품 불안정이 VTA→NAc DA(AMPA:NMDA↓·선조체 DA 분비↓)를 장기 재프로그램 (J Exp Biol 2024).
+- [[wilbrecht-2024-experimental-biology-can-inform]] — 발달기 식품 불안정이 VTA→NAc DA(AMPA:NMDA↓·striatum DA 분비↓)를 장기 재프로그램 (J Exp Biol 2024).
 - [[concept-food-insecurity]] — 환경적 먹이 불확실성이 reward 회로를 reshape하는 상류.
 - [[concept-food-addiction]] — 초가공식품이 mesolimbic 보상을 약물 유사 활성한다는 가설.
 - [[tomiyama-2019-stress-and-obesity]] — cortisol/CRF가 NAc/dorsal striatum를 민감화해 palatable food wanting↑.
@@ -180,36 +180,36 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[dong-2026-reward-prediction-is-encoded-by]] — orexin의 reward prediction 부호화(도파민 PE와 비교).
 - [[concept-orexin-neurons]] — orexin→VTA/mesolimbic dopamine 연결.
 - [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin이 VTA→NAc 보상계 조율(food reward 종합).
-- [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 다이어트 vs 위우회술의 중변연계/흑질선조체 도파민 재설정.
-- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 선조체 도파민의 미각(VS)/영양(DS) 별개 부호화.
+- [[hankir-2015-distinctive-striatal-dopamine-signaling-after]] — 다이어트 vs 위우회술의 중limbic system/substantia nigrastriatum 도파민 재설정.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — striatum 도파민의 미각(VS)/영양(DS) 별개 부호화.
 - [[meye-2014-feelings-about-food-the]] — VTA 도파민이 팔라터블·스트레스·큐 섭식을 통합.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — junk-food가 cue-triggered incentive motivation 증폭.
 - [[yang-2026-a-sync-state-in-the]] — VTA DA 아집단의 0.8 Hz "sync state"가 RPE로 환원되지 않는 interoceptive 영양 학습(credit assignment)을 매개 (Neuron 2026).
-- [[fleming-2026-metabolism-and-the-mind]] — 중추 인슐린이 선조체 도파민·보상학습을 조율; 혈당 조절 악화→보상학습률↑(인간).
-- [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — VTA→선조체 도파민의 effort/vigor 동기; T2D에서 effort 편향↓.
+- [[fleming-2026-metabolism-and-the-mind]] — 중추 인슐린이 striatum 도파민·보상학습을 조율; 혈당 조절 악화→보상학습률↑(인간).
+- [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — VTA→striatum 도파민의 effort/vigor 동기; T2D에서 effort 편향↓.
 - [[concept-metabolic-interoception]] — 대사신호가 도파민 보상계를 재조정하는 상위 프레임.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — **부호 대비**: 원거리 보상으로 접근할수록 도파민 ramp는 상승, AgRP ramp는 하강. 해소되는 hunger와 다가오는 보상이 거울상 신호를 이룸 (bioRxiv 2026).
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — **presynaptic D2R이 DLS eCB-LTP에 필수** → 도파민이 보상 신호를 넘어 **가소성 규칙 자체를 gating**; D2R 결손 시 단일시행 학습 실패 (Nat Neurosci 2026). 개념 [[concept-one-shot-learning]].
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 초기 역경이 **VTA 도파민 뉴런의 크로마틴을 priming**해 성체 스트레스 시에만 흥분성·I_h·행동 취약성을 증폭(기저는 정상); SETD7/H3K4me1 양방향 인과 (Neuron 2026). 개념 [[concept-epigenetic-priming]].
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — MPOA→VTA→NAc가 **새끼 자극에 incentive salience**를 부여; 산후 쥐에서 새끼 강화가가 코카인을 넘을 수 있음. 도파민 보상계의 비-섭식 자연 보상 사례 (NRN 2026).
-- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 배측 해마 전사·모성 행동 적응을 인과 매개; 인간 subiculum에서 parity 의존 보존 (Nature 2026, Maze lab).
-- [[zhang-2026-inherited-input-and-local-transformations]] — 도파민 표적인 dSPN/iSPN에서 **경로 대립 가치·보상근접 ramping이 글루탐산 입력에 없음** → 선조체 국소 변환의 산물이며 도파민 의존 가소성이 유력 후보 (bioRxiv 2026).
+- [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 도파민의 **제3의 작용 양식**: 수용체 신호가 아닌 **히스톤 공유결합 변형(H3 dopaminylation)**이 dorsal hippocampus 전사·모성 행동 적응을 인과 매개; 인간 subiculum에서 parity 의존 보존 (Nature 2026, Maze lab).
+- [[zhang-2026-inherited-input-and-local-transformations]] — 도파민 표적인 dSPN/iSPN에서 **경로 대립 가치·보상근접 ramping이 글루탐산 입력에 없음** → striatum 국소 변환의 산물이며 도파민 의존 가소성이 유력 후보 (bioRxiv 2026).
 - [[concept-h3-dopaminylation]] — 도파민 작용의 **제3의 층**: 수용체를 거치지 않고 TG2가 히스톤 H3Q5에 도파민을 공유결합, 주–개월 시간척도의 전사 상태를 만든다.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 비만의 **도파민 저하에 대한 상류 원인**: 만성 HFD가 lateral NAc→VTA 뉴런의 *Nts* 발현·NTS 방출을 낮춰 NTSR1 매개 도파민 뉴런 흥분이 실패. 수용체는 온전한 **presynaptic 병변**이며, NTS 과발현으로 hedonic feeding·체중·활동성이 함께 정상화 (Nature 2025, Lammel lab). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].
 - [[luscher-2021-consolidating-the-circuit-model-for]] — 중독성 약물의 **약리적 공통분모=NAc 도파민 상승**과 그 결과: 자연 보상의 도파민은 예측되면 감쇠하지만 약물 도파민은 **지속** → 반복되는 **비정상 RPE 교사신호**가 cue·행동을 과대평가. VTA disinhibition motif(GABA 뉴런 억제→DA 활성)가 오피오이드 강화의 회로 문법 (Annu Rev Neurosci 2021). 개념 [[concept-drug-evoked-synaptic-plasticity]] · [[concept-compulsion]].
 - [[concept-lateral-habenula]] — 도파민을 **끄는** 상류 축(MRR→LHb→RMTg→VTA); negative RPE를 도파민 dip이 담당하지 않을 가능성의 유력 후보.
-- [[cunningham-2026-early-life-experiences-the-neural]] — 초기역경이 중변연계(VTA·NAc·PFC)를 재편하는 후성유전 경로 종합. NAc **Drd2⁺ MSN 특이 H3K79me2·DOT1L/KDM2B**가 취약성을 양방향으로 좌우(Dot1l 넉다운·약리 억제가 취약성을 되돌리고, 과발현이 재현). PFC→VTA 투사 과흥분성이 노출 직후 나타나 중변연계 취약성을 prime (NRN 2026, Maze lab).
+- [[cunningham-2026-early-life-experiences-the-neural]] — 초기역경이 중limbic system(VTA·NAc·PFC)를 재편하는 후성유전 경로 종합. NAc **Drd2⁺ MSN 특이 H3K79me2·DOT1L/KDM2B**가 취약성을 양방향으로 좌우(Dot1l 넉다운·약리 억제가 취약성을 되돌리고, 과발현이 재현). PFC→VTA 투사 과흥분성이 노출 직후 나타나 중limbic system 취약성을 prime (NRN 2026, Maze lab).
 - [[person-maze-ian]] — 도파민의 **후성유전 작용 축**(개월 시간척도)을 연 그룹.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 도파민 채널을 source·target이 아닌 **전달물질 정체**로 가르는 축. VGLUT2⁺ DA 뉴런의 빠른 시냅스 신호는 **CNQX-민감 글루타메이트**이고 표적은 NAc medial shell 한정 → '도파민이 무엇을 부호화하는가' 논쟁에 **일하는 물질이 도파민이 아닐 수 있다**는 항을 추가. 개념 [[concept-neurotransmitter-cotransmission]].
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 도파민 바깥의 동기 원천: 선택된 목표 자체가 만드는 **내재 보상(bonus)**·주의 필터·감시-임계값 알고리즘(인간 행동·계산 리뷰, 회로 자료 거의 없음).
-- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — **"예측 입력을 끊으면 오차가 커진다"는 RPE 논리를 행동으로 검증**: LH^GABA의 VTA 말단만 광억제하면 cue 학습이 **촉진**되고 레이저를 끈 뒤에도 유지된다(Curr Biol 2017). 저자들은 OFC(추론된 가치, Takahashi 2009)·복측 선조체(state 지속시간, Takahashi 2016)와 더불어 LH^GABA(기대 보상)가 VTA에 **질적으로 다른** 연합 정보를 준다고 보아 "도파민 입력은 분산·혼합되어 구분 불가"(Tian 2016) 주장에 반대한다. ⚠️ 도파민은 측정하지 않았고, "LH GABA→VTA GABA 억제→DA 탈억제" 통념과는 DA 부호 예측이 반대다(병기).
+- [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — **"예측 입력을 끊으면 오차가 커진다"는 RPE 논리를 행동으로 검증**: LH^GABA의 VTA 말단만 광억제하면 cue 학습이 **촉진**되고 레이저를 끈 뒤에도 유지된다(Curr Biol 2017). 저자들은 OFC(추론된 가치, Takahashi 2009)·ventral striatum(state 지속시간, Takahashi 2016)와 더불어 LH^GABA(기대 보상)가 VTA에 **질적으로 다른** 연합 정보를 준다고 보아 "도파민 입력은 분산·혼합되어 구분 불가"(Tian 2016) 주장에 반대한다. ⚠️ 도파민은 측정하지 않았고, "LH GABA→VTA GABA 억제→DA 탈억제" 통념과는 DA 부호 예측이 반대다(병기).
 - [[leinninger-2009-leptin-acts-via-leptin]] — ⚠️ **"NAc DA↑ = 섭식·wanting↑" 프레임에 대한 고전적 반례**(Cell Metab 2009, Myers lab). *Lep^ob/ob*의 LHA에 250 pg leptin을 주면 동측 **VTA *Th* mRNA ~2.5배·NAc 도파민 함량 ~40%↑**(p<0.05)인데 **섭식·체중 증가는 억제**된다. 저자들의 해소 시도는 두 갈래다 — ① 측정한 것은 **DA 생산 용량·조직 함량(tonic)** 이고 **방출(phasic)** 은 다르게 조절될 수 있다, ② mesolimbic DA는 섭식만이 아니라 여러 행동의 incentive를 부호화하므로 leptin이 성분별로 다르게 작용할 수 있다(코카인·암페타민도 NAc DA↑·섭식↓). **intra-VTA leptin은 *Th*를 바꾸지 못했다**(Fig 6G) → 이 축의 중계는 **LHA LepRb(GABA, VTA 투사)**. [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]의 초 단위 DA 지형과는 **시간척도가 다른 층위**로 병기.
 - [[leinninger-2011-leptin-action-via-neurotensin]] — ⚠️ **"leptin → mesolimbic DA" 서술의 종말점 수정**(Cell Metab 2011, Myers lab). 생리적 Nts-LepRbKO에서 **VTA *Th* mRNA·NAc DA 함량은 모두 불변**(대조 n=12, KO n=15)이고, 바뀌는 것은 **NAc shell의 유발 DA 방출 동역학**(carbon fiber amperometry: peak 진폭↓, t₁ᐟ₂↑ → DAT 기능 저하 추정)과 **AMPH 유발 운동 반응의 둔화**뿐이다. 즉 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]의 "leptin → *Th* ~2.5배·DA 함량 ~40%↑"는 **ob/ob(만성 leptin 결핍)에 한정**되며 저자들 스스로 보상 반응일 수 있다고 물러선다. "DA 저장량"과 "DA 수송·방출 kinetics"를 분리해 병기할 것.
 - [[nieh-2016-inhibitory-input-from-the]] — LH–VTA–NAc 절의 1차 원전. GABA성 LH→VTA가 VTA GABA를 억제해 DA를 disinhibition(NAc DA↑), glutamate성은 DA↓·회피 (Neuron 2016, Tye lab).
 - [[sharpe-2021-past-experience-shapes-the]] — LH^GABA 광억제를 **TD(λ)+Mackintosh 주의 모델에서 "cue에 쌓이는 연합 가중치 업데이트의 70% 차단"(η=0.3)**으로 모형화해, cue 학습 감소와 **맥락으로의 학습 이전**을 동시에 설명했다(Nat Neurosci 2021). RPE 틀 안에서 "무엇에 학습을 배분하는가"가 **값 계산과 별개의 조절 축**임을 보이는 사례. 같은 lab의 [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]](LH^GABA→VTA 기대값 relay)와 짝을 이룬다.
 
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR→VTA를 RPE·기대보상 틀의 교사 신호로 둔 인과 증거: 경로 억제(ArchT)가 Pavlovian 변별 학습을 강화하고 활성(ChR2)이 지운다(extinction까지 지속). VTA 비도파민 뉴런 경유의 간접 scaling 해석(Sharpe 2017 relay를 마우스 LepR subset에서 재현).
-- [[concept-habit]] — DLS 습관 학습(Yin & Knowlton)을 섭식 맥락에서 확장한 hub — 배측 도파민의 다음 섭취 예측, dorsalization 시간척도 단서.
+- [[concept-habit]] — DLS 습관 학습(Yin & Knowlton)을 섭식 맥락에서 확장한 hub — dorsal 도파민의 다음 섭취 예측, dorsalization 시간척도 단서.
 - [[rangel-2008-a-framework-for-studying-the]] — 예측 오차 학습을 **습관 가치계의 학습 규칙**(model-free: Q-learning·SARSA·actor–critic)으로 배치한 틀. 2008년의 열린 문제(음의 예측 오차의 부호화, 보상 크기 범위에 따른 발화 조정, fictive learning)와 "Pavlovian·목표지향계의 갱신 알고리즘은 미상"이라는 단서를 기록 (Nat Rev Neurosci 2008, 공저자 Montague).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — ★ 소비 국면(1–60초) 도파민이라는 **네 번째 시간척도**. 현재 임상 항목의 "GLP-1RA: hedonic eating 억제 (Zhu 2025 Science)" 한 줄은 **억제가 일시적이고 수일 내 회복된다**는 원문 결과로 보완 필요.
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — "RPE 가설 (classic)"의 2016년 정밀화: phasic 반응 = 비선택적 감지(현저성) 성분 → 주관적 가치·경제학적 효용 주성분, 혐오 활성은 물리적 충격 탓이라는 재해석 (Nat Rev Neurosci 2016).

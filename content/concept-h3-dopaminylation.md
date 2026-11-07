@@ -47,7 +47,7 @@ aliases: [H3 dopaminylation, H3Q5dop, H3K4me3Q5dop, histone dopaminylation, mono
 | **크로마틴 공유결합** | **TG2 → H3Q5dop** | **주–개월** | [[ochan-2026-dopamine-drives-persistent-remodelling-of]] |
 
 ## 열린 질문 (이 위키 자료 기준)
-- 섭식·에너지 항상성 회로에서 H3 dopaminylation이 측정된 자료는 **현재 이 위키에 없다**. 시상하부·NAc에서의 존재 여부·방향은 미지.
+- 섭식·에너지 항상성 회로에서 H3 dopaminylation이 측정된 자료는 **현재 이 위키에 없다**. hypothalamus·NAc에서의 존재 여부·방향은 미지.
 - 만성 고지방식이나 GLP-1RA 장기 투여가 이 표지를 바꾸는지 검증된 바 없음.
 - 세로토닌화·히스타민화와의 경쟁·교체 동역학(같은 Q5 잔기를 두고)이 대사 상태에 따라 달라지는지 불명.
 

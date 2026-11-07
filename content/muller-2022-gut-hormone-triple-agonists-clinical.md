@@ -9,7 +9,7 @@ year: 2022
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> GLP-1/GIP/glucagon **삼중작용제(LY3437943 = retatrutide)**의 phase 1b 안전성·대사효과를 정리한 Lancet Comment. glucagon 축 추가가 GIP/GLP-1 co-agonist(tirzepatide)를 능가할지가 핵심 미해결 질문 — 최형진 랩의 삼중작용제·시상하부 회로 연구에서 "glucagon 심박수 liability vs 감량 시너지" 트레이드오프의 출발점. (원문은 Lancet Vol 400, 2022-11-26 Comment.)
+> GLP-1/GIP/glucagon **삼중작용제(LY3437943 = retatrutide)**의 phase 1b 안전성·대사효과를 정리한 Lancet Comment. glucagon 축 추가가 GIP/GLP-1 co-agonist(tirzepatide)를 능가할지가 핵심 미해결 질문 — 최형진 랩의 삼중작용제·hypothalamus 회로 연구에서 "glucagon 심박수 liability vs 감량 시너지" 트레이드오프의 출발점. (원문은 Lancet Vol 400, 2022-11-26 Comment.)
 
 # Gut–hormone triple agonists: clinical safety and metabolic benefits (Müller & Tschöp, 2022)
 

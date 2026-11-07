@@ -24,9 +24,9 @@ year: 2025
 - Petzschner류 hierarchical Bayesian interoception·Barrett active-inference allostasis를 **대사 영역으로 확장**. 심장·호흡·위장 [[concept-interoception|interoception]]에 비해 저연구된 **대사 modality**를 중심에 둠.
 
 ### 경로 1 — 대사 → 정신건강
-- **인슐린**: BBB 통과, VTA/복측선조체 도파민 뉴런에 수용체 밀집. 인슐린 저항→중추 인슐린 신호 교란→선조체 도파민·보상학습 변화→우울 위험. 비만·단기 고지방식도 보상민감도·학습 손상.
+- **인슐린**: BBB 통과, VTA/ventral striatum 도파민 뉴런에 수용체 밀집. 인슐린 저항→중추 인슐린 신호 교란→striatum 도파민·보상학습 변화→우울 위험. 비만·단기 고지방식도 보상민감도·학습 손상.
 - **leptin·ghrelin·GLP-1**: 모두 중변연 도파민 경로에 작용해 보상·동기 조절. leptin 저항→비정형 우울; ghrelin→항우울양; GLP-1RA→항우울·중독 보상↓(도파민 매개).
-- **염증**: 대사 이상→말초 염증→neuroinflammation→선조체 도파민↓→effort/reward↓(anhedonia). 대안·상보 경로.
+- **염증**: 대사 이상→말초 염증→neuroinflammation→striatum 도파민↓→effort/reward↓(anhedonia). 대안·상보 경로.
 - 기타: vagal gut-brain 신호, 장내미생물.
 
 ### 경로 2 — 정신건강 → 대사 (reverse causality)

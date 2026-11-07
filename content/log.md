@@ -8,6 +8,18 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — other (위키 전체 해부 용어 영어화)
+사용자 지시로 **위키 전역의 한글 해부학 용어를 영어로 치환**했다(웹 미사용). 범위는 사용자가 고른 "aliases·검색 키까지 전부" — 본문 + frontmatter `title`/`aliases` + `index.md`의 🔑 검색 키. 예: `결합옆핵(PBN)` → `parabrachial nucleus(PBN)`, `시상하부` → `hypothalamus`, `선조체` → `striatum`.
+- **규모**: 446 / 558 페이지, 약 3,400줄. 구조명 115종 + 방향·위치 용어(ventral·dorsal·lateral·medial·anterior·posterior·rostral·caudal·ventromedial 등) + 단독어(편도→amygdala, 피질→cortex, 전전두→prefrontal). 치환 후 한글 해부 용어 **0건**.
+- **`log.md`는 제외**했다 — schema상 append-only 작업 이력이라 소급 수정하지 않는다. 그래서 이 로그의 과거 항목에는 한글 용어가 남아 있다.
+- **문맥 분기가 필요했던 용어**: `전뇌`는 이 위키에서 두 뜻으로 쓰였다 — 뇌교·연수와 대비되는 **forebrain**(예: "forebrain 입력은 ~10%")과 뇌 전체를 훑는 **whole-brain**(예: "whole-brain 배선 지도"). 문맥 규칙 47개로 갈랐고 잔여 0. `시상면`(sagittal plane)은 thalamus가 아니므로 별도 처리.
+- **조사 호응**: 이 위키의 기존 문체는 라틴 문자 뒤에 **항상 모음형 조사**(`semaglutide가`·`는`·`를`·`와`·`로`)다. 1차 치환이 영어 철자 기준으로 자음형(`hypothalamus은`·`striatum이`)을 넣어 문체가 깨진 것을 **212건 되돌렸다**.
+- **오매칭 교정 602건**: 한글 복합어가 잘려 생긴 반쪽 번역을 바로잡았다. 중요한 것들 — `미측정`(not measured)이 `caudal정`으로 깨진 것 **48건 복원**, `중복측정`→`중ventral정` 복원, `뇌척수액`→`cerebrospinal fluid`, `뇌척수염(EAE)`→`encephalomyelitis`, `뇌실질`→`brain parenchyma`(뇌실 ventricle이 아니다), `중뇌수도주위회백질`→`periaqueductal gray`, `외배측피개핵`→`laterodorsal tegmental nucleus`, `상삼차신경핵`→`supratrigeminal nucleus`, `복측피개야`→`ventral tegmental area`, `해마방회`→`parahippocampal gyrus`, `중뇌변연`→`mesolimbic`, `피질변연`→`corticolimbic`, `외측피막부`→`lateral capsular part`. 그 밖에 `· 🔑` 뒤 공백 476건 복원.
+- **제목 중복 정리**: `분계선조 침상핵 (Bed nucleus of the stria terminalis, BNST)`처럼 괄호 안/밖이 겹치게 된 18개 제목을 `Bed nucleus of the stria terminalis (BNST)` 식으로 접었고, 본문의 `한글(english)` 병기가 `english(english)`가 된 곳도 접었다(우리가 치환한 용어로만 이뤄진 구절에 한정 — `Yapici (Yapici·Oliva…)` 같은 저자 목록은 건드리지 않음).
+- ⚠️ **부수 발견**: [[concept-hypothalamic-obesity]]의 `시상대(LHA/VMH) 표적 DBS`는 LHA·VMH가 모두 hypothalamus 핵이므로 원문의 오기로 보고 `hypothalamus(LHA/VMH)`로 고쳤다. 치환 전부터 있던 오류다.
+- **검증**: wikilink 20,705개의 **대상이 달라진 파일 0개**(한글은 링크 별칭에만 있었고 대상은 모두 영어 kebab-case), 깨진 링크 21건으로 **변동 없음**(모두 기존 anchor 링크·과거 로그 참조), frontmatter 이상 0(플래그 6건은 `d'Ávila`·`Alzheimer's`·`O'Connor` 아포스트로피 오탐). 총 557페이지 유지, `index.md` 변경은 🔑 검색 키 영어화뿐.
+- **의도적으로 남긴 한글 49건**: `미측정` 48 + `중복측정` 1 — 해부 용어가 아니다.
+
 ## 2026-11-07 — other (PBN 영양소 입력 절 추가)
 위 query의 후속으로 사용자 승인을 받아 [[concept-parabrachial-cgrp-alarm]]에 **`## 영양소 정보 입력 — 받는 것과 받지 않는 것`** 절을 추가했다(5개 소절, 웹 미사용, 새 페이지 없음).
 - 소절: ① 미각 = 당 정보의 필수 중계점(rNST→PBN→thalamus→gustatory cortex, [[jin-2021-top-down-control-of-sweet]]) ② 장 영양소 = cNTS^GCG(nutrient)·TH(mechano)·PRLH(taste) 분업의 하류 satiation hub([[liu-2026-granular-motivational-interaction-and]]·[[johansen-2025-brain-control-of-energy]]·[[campos-2016-parabrachial-cgrp-neurons-control-meal]]) ③ 지질 = GDF15→GFRAL→lPBN-CGRP 내분비 우회로([[concept-gdf15-gfral-axis]]·[[garrido-2026-lipid-sensing-and-brain-hormone]]) ④ **PBN을 요구하지 않는 축**(PBN 병변이 CTA는 막고 conditioned flavor preference는 보존 — Reilly 1993, [[rossi-2018-overlapping-brain-circuits-for]]; [[concept-flavor-nutrient-conditioning]] 회로에 PBN 미명시) ⑤ 자료 없음(직접 glucose 감지·glucoprivic 반응, 지방산·아미노산 직접 감지, 단백질 식욕에서의 PBN 역할).

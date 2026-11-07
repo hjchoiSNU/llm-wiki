@@ -18,8 +18,8 @@ year: 2014
 
 ## 핵심 내용
 - **배경**: FA=craving·재발·금단·내성. YFAS가 SUD 기준의 음식 번안. DSM-5는 gambling만 비물질 장애로 포함, FA 미분류.
-- **동물모델 3해리(핵심)**: ① **Sugar-bingeing**=중독 유사(escalation·NAcc DA 반복분비·naloxone/자연 금단·교차민감화·D2↓)이나 **비만 유발 실패**. ② **Fat-bingeing**=DA↑는 있으나 **금단 부재**→신뢰할 중독모델 아님. ③ **Sweet-fat(cafeteria)**=**비만 유발**·D2 하향조절·보상 저민감성·편도 CRF↑(음성강화)이나 완전한 중독 phenotype은 혼재.
-- **인간**: YFAS(3+증상+고통), 치료추구 비만의 ~19%. cue craving 시 caudate·insula(약물갈망 공통). 비만은 선조체 D2↓·palatable 섭취 시 등쪽선조체 반응↓(기대↑·만족↓). 성차 설계 부재.
+- **동물모델 3해리(핵심)**: ① **Sugar-bingeing**=중독 유사(escalation·NAcc DA 반복분비·naloxone/자연 금단·교차민감화·D2↓)이나 **비만 유발 실패**. ② **Fat-bingeing**=DA↑는 있으나 **금단 부재**→신뢰할 중독모델 아님. ③ **Sweet-fat(cafeteria)**=**비만 유발**·D2 하향조절·보상 저민감성·amygdala CRF↑(음성강화)이나 완전한 중독 phenotype은 혼재.
+- **인간**: YFAS(3+증상+고통), 치료추구 비만의 ~19%. cue craving 시 caudate·insula(약물갈망 공통). 비만은 striatum D2↓·palatable 섭취 시 dorsal striatum 반응↓(기대↑·만족↓). 성차 설계 부재.
 - **결론(신중)**: 세 모델 discrepancy·FA-BMI 무상관으로 일반화 제한. FA는 (1) 독립 phenotype 불명확, (2) 금단 증거 부족으로 미분류(Ziauddeen & Fletcher 비판). 그러나 성급한 기각도 부적절.
 
 ## 관련 페이지

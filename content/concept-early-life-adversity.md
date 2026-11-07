@@ -7,7 +7,7 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 생후 초기의 스트레스(모성분리·역경)가 leptin·HPA축을 통해 **시상하부·보상 회로를 영구적으로 재프로그램**해 성체기 폭식·비만 취약성을 만든다. 최형진 랩 관점에서 LH^Lepr leptin 저항([[shin-2023-early-adversity-promotes-binge-like-eating]])·스트레스-비만([[tomiyama-2019-stress-and-obesity]])·정서적 섭식·모체 프로그래밍을 잇는 발달 축.
+> 생후 초기의 스트레스(모성분리·역경)가 leptin·HPA축을 통해 **hypothalamus·보상 회로를 영구적으로 재프로그램**해 성체기 폭식·비만 취약성을 만든다. 최형진 랩 관점에서 LH^Lepr leptin 저항([[shin-2023-early-adversity-promotes-binge-like-eating]])·스트레스-비만([[tomiyama-2019-stress-and-obesity]])·정서적 섭식·모체 프로그래밍을 잇는 발달 축.
 
 # Early-life adversity (초기 역경)
 
@@ -15,8 +15,8 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 발달 임계기의 스트레스(모성분리, 영양·정서 결핍 등)가 대사·보상 신경회로 형성을 교란해, 성체기에 잠재된 폭식·비만·정서적 섭식 취약성으로 발현되는 현상.
 
 ## 핵심 내용
-- **기전**: 초기 stress→leptin↓·corticosterone↑. Leptin은 발달기 시상하부 회로의 trophic factor여서, 그 교란이 회로 배선을 영구 변경.
-- **LH^Lepr 재편**([[shin-2023-early-adversity-promotes-binge-like-eating]]): 모성분리→성체 LH Lepr 하향조절(국소 leptin 저항)→LH^Lepr(80.7% GABA) 흥분성↑→**LH^Lepr→vlPAG^Penk 탈억제**→HFD 재노출 시 지속 폭식. 출력 특이성이 확인됨 — LH^Lepr→**vlPAG만** 폭식을 정상화/악화시키고 VTA·MPA 투사는 무효. ⚠️ 원논문 제목의 "brainstem"은 실제로는 **중뇌 vlPAG**이며 [[concept-dorsal-vagal-complex|DVC(AP·NTS·DMX)]]가 아니다 — 본 위키의 hindbrain 약리 경로와 혼동하지 말 것. vlPAG^Penk(proenkephalin)는 내인성 오피오이드 계열이라 [[concept-food-addiction]]·기호식 과섭취 축과 닿는다.
+- **기전**: 초기 stress→leptin↓·corticosterone↑. Leptin은 발달기 hypothalamus 회로의 trophic factor여서, 그 교란이 회로 배선을 영구 변경.
+- **LH^Lepr 재편**([[shin-2023-early-adversity-promotes-binge-like-eating]]): 모성분리→성체 LH Lepr 하향조절(국소 leptin 저항)→LH^Lepr(80.7% GABA) 흥분성↑→**LH^Lepr→vlPAG^Penk 탈억제**→HFD 재노출 시 지속 폭식. 출력 특이성이 확인됨 — LH^Lepr→**vlPAG만** 폭식을 정상화/악화시키고 VTA·MPA 투사는 무효. ⚠️ 원논문 제목의 "brainstem"은 실제로는 **midbrain vlPAG**이며 [[concept-dorsal-vagal-complex|DVC(AP·NTS·DMX)]]가 아니다 — 본 위키의 hindbrain 약리 경로와 혼동하지 말 것. vlPAG^Penk(proenkephalin)는 내인성 오피오이드 계열이라 [[concept-food-addiction]]·기호식 과섭취 축과 닿는다.
 - **모체 프로그래밍과 구분·연속**: 산전 모체 비만·과영양([[concept-maternal-programming-hypothalamus]])은 산전 축, ELT는 산후 stress 축 — 둘 다 발달 programming.
 - **잠재적(latent) 취약성**: baseline은 정상이나 유발자(HFD·stress) 노출 시 발현.
 - **크로마틴 층**([[kim-2026-early-life-stress-alters-h3k4me1]]): ELS(P10–17)가 성체 **VTA 히스톤 지형을 허용적 방향으로** 재편(변화한 변형의 75%가 permissive). 실행자는 H3K4 단일메틸화 효소 **SETD7**과 **H3K4me1** — **Setd7 과발현만으로 ELS 없이 취약성 재현(충분), ELS 후 Setd7 넉다운으로 차단(필요)**. 기저 상태에서는 전기생리·행동 모두 정상이고 **2차 스트레스가 와야 발현** → 위 "잠재적 취약성"의 분자 저장 기전. → [[concept-epigenetic-priming]]
@@ -39,7 +39,7 @@ aliases: [early life adversity, ELT, early life trauma, 초기 역경, 모성분
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — ELS→VTA SETD7/H3K4me1 epigenetic priming; 스트레스 민감성의 크로마틴 저장 기전 (Neuron 2026, Peña·Creed lab).
 - [[concept-epigenetic-priming]] — 허용적 크로마틴이 미래 자극 반응성을 증폭한다는 개념 hub.
 - [[concept-maternal-programming-hypothalamus]] — 산전 모체 프로그래밍(자매 축).
-- [[freire-agulleiro-2026-early-life-programming-of]] — 모체 비만 자손 시상하부 programming.
+- [[freire-agulleiro-2026-early-life-programming-of]] — 모체 비만 자손 hypothalamus programming.
 - [[tomiyama-2019-stress-and-obesity]] — stress→비만 통합 모델.
 - [[concept-emotional-eating]] — 스트레스·정서 유발 섭식.
 - [[concept-loss-of-control-eating]] — 폭식/BED 표현형.

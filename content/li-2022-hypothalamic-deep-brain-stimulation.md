@@ -24,13 +24,13 @@ year: 2022
   - 단서 공포 소거에서 freezing 지속 감소(3일); 공포 획득·맥락 freezing은 불변. DBS-off 4일째엔 차이 소실 → **급성·가역적, 원 공포기억 보존**.
   - real-time place preference: shhDBS 쪽 선호(양성 valence).
   - **orexin 의존**: SB-334867·광유전 HON 활성화가 place preference를 소거. HON 억제 진폭이 항불안 효과와 상관.
-- **안전성**: EEG/EMG·해마 LFP에서 발작파 없음, 이동·맥락기억·운동 정상, 체온·corticosterone 불변, 자극 중단 시 완전 가역.
+- **안전성**: EEG/EMG·hippocampus LFP에서 발작파 없음, 이동·맥락기억·운동 정상, 체온·corticosterone 불변, 자극 중단 시 완전 가역.
 - **주장**: 120 Hz 정현파 LH DBS가 불안유발성 orexin 뉴런을 가역적으로 잠재워 진정 없이 급성 항불안·양성 정동을 만든다 — 난치 불안/PTSD의 후보 전략.
 
 ## 관련 페이지
 - [[concept-lateral-hypothalamus]] — orexin/HON을 품은 표적 핵; affect·각성 축.
 - [[concept-deep-brain-stimulation]] — 방법론 hub(파형이 표적 효과를 좌우).
-- [[franco-2018-assessment-of-safety-and]] · [[parvizi-2022-complex-negative-emotions-induced]] — 시상하부 자극의 정동 부작용(인간) 대비.
+- [[franco-2018-assessment-of-safety-and]] · [[parvizi-2022-complex-negative-emotions-induced]] — hypothalamus 자극의 정동 부작용(인간) 대비.
 - [[concept-dopamine-reward-system]] — orexin→VTA 보상 연결.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH가 hunger×anxiety arbitration; 본 결과와 호응.
 - [[whiting-2013-lateral-hypothalamic-area-deep]] — 인간 LHA DBS(파형·전압 최적화 주제 공유).

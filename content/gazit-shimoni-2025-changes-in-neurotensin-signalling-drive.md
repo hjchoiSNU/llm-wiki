@@ -26,7 +26,7 @@ doi: 10.1038/s41586-025-08748-y
 - 저자들의 선행 연구는 **NAcLat→VTA 광자극이 place preference·두개내 자가자극 등 보상 행동을 유발**함을 보였으나(도파민 뉴런 disinhibition 추정), 이 활성이 실제 **hedonic feeding**과 연결되는지는 미지였다.
 
 ### 해부학적 정의 — NAc lateral shell (NAcLat)
-- 저자들은 NAc를 전통적 shell/core 이분법이 아니라, **core의 외측에 놓인 별개 아구역 "NAc lateral shell(NAcLat)"** 로 정의해 다룬다(bregma 1.34→0.74 좌표계). "lateral shell"이라는 명칭이 NAc shell의 일부로 오해될 수 있음을 스스로 인정하되, 해부 좌표에 근거해 유지.
+- 저자들은 NAc를 전통적 shell/core 이분법이 아니라, **core의 lateral에 놓인 별개 아구역 "NAc lateral shell(NAcLat)"** 로 정의해 다룬다(bregma 1.34→0.74 좌표계). "lateral shell"이라는 명칭이 NAc shell의 일부로 오해될 수 있음을 스스로 인정하되, 해부 좌표에 근거해 유지.
 - 대조적으로 **NAc medial shell** 자극은 VTA 도파민 뉴런을 억제하고 보상/혐오 비특이적 행동 억제를 유발해 섭식 해석이 어렵다고 명시. ([[concept-nucleus-accumbens]] 참조)
 
 ### Method
@@ -77,7 +77,7 @@ Cre-dependent **NTS 과발현(AAV-NTS-OE)** 을 NAcLat→VTA 투사 뉴런에 �
 ### Claim / Discussion
 - 만성 HFD는 **NAcLat→VTA의 NTS 신호를 교란**해 hedonic feeding을 붕괴시키고, 이것이 도파민 활성 저하·체중 증가와 함께 **비만 진행에 기여**한다.
 - 대안 설명(음식 획득 지연에 따른 일반적 동기 저하)은 노력이 불필요한 패러다임에서도 저하가 나타나고 sucrose preference도 감소한다는 점으로 반박된다.
-- **NTS의 출처에 따라 방향이 반대**임을 명시: LH→VTA NTS는 섭식 촉진, 반면 lateral septum·시상하부 일부·고립로핵(NTS)의 NTS 뉴런은 섭식 억제. VTA 안에서 여러 출처의 NTS가 어떻게 통합되는지는 미해결.
+- **NTS의 출처에 따라 방향이 반대**임을 명시: LH→VTA NTS는 섭식 촉진, 반면 lateral septum·hypothalamus 일부·nucleus tractus solitarius(NTS)의 NTS 뉴런은 섭식 억제. VTA 안에서 여러 출처의 NTS가 어떻게 통합되는지는 미해결.
 - 제안 기전 4가지: 출처별 VTA 아집단 표적 차이 / NTSR2·astrocyte 경로 / NTSR1의 biased signalling(다양한 G protein·세포내 effector) / **과잉 NTS의 NTSR1 desensitization**.
 - 치료 함의: NAcLat→VTA의 NTS 신호를 표적하면 **필수 NTS 기능을 깨지 않으면서** 섭취 조절·체중 유지가 가능할 수 있다.
 
@@ -110,9 +110,9 @@ Cre-dependent **NTS 과발현(AAV-NTS-OE)** 을 NAcLat→VTA 투사 뉴런에 �
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 차세대 체중감량 약물이 억제하는 보상 회로(NTS→CeA→VTA→NAc DA↓)와의 대비.
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] · [[grove-2022-dopamine-subsystems-track-internal]] — LH↔VTA 양방향 축.
 - [[person-lammel-stephan]] — 교신저자, mesolimbic 회로 이질성 연구.
-- [[concept-lateral-septum]] — 본 논문이 "LH→VTA NTS와 반대 방향(섭식 억제)"으로 지목한 **외측중격**의 분자·기능 지도. [[bhatti-mazo-2026-feature-specific-threat-coding-in]]이 LS^Crhr2를 10 아형으로 분해(NTS 아형은 미분류).
+- [[concept-lateral-septum]] — 본 논문이 "LH→VTA NTS와 반대 방향(섭식 억제)"으로 지목한 **lateral septum**의 분자·기능 지도. [[bhatti-mazo-2026-feature-specific-threat-coding-in]]이 LS^Crhr2를 10 아형으로 분해(NTS 아형은 미분류).
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 논문이 "LS의 NTS 뉴런은 섭식 억제"라고 적은 **그 1차 출처**. LS^Nts→LH 화학·광유전 조작으로 섭취·체중↓ (eLife 2020, Friedman lab).
-- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — medial/lateral shell 해리의 **입력원측 근거**: 두 shell을 지배하는 VTA 세포 계열이 다르다(medial=DA-GLU 전용, lateral=DA-only 혼재). 본 페이지가 기록한 '내측 shell 조작=보상/혐오 비특이적 행동 억제라 해석 어려움'에 대해, Mingote는 그 비특이적 억제를 **Stay-on-task 모드를 강제한 예측된 표현형**으로 읽는 대안 해석을 제시(방향은 NAc→VTA vs VTA→NAc로 다름).
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — medial/lateral shell 해리의 **입력원측 근거**: 두 shell을 지배하는 VTA 세포 계열이 다르다(medial=DA-GLU 전용, lateral=DA-only 혼재). 본 페이지가 기록한 'medial shell 조작=보상/혐오 비특이적 행동 억제라 해석 어려움'에 대해, Mingote는 그 비특이적 억제를 **Stay-on-task 모드를 강제한 예측된 표현형**으로 읽는 대안 해석을 제시(방향은 NAc→VTA vs VTA→NAc로 다름).
 - [[rossi-2019-obesity-remodels-activity-and]] — 만성 HFD가 **LHA^Vglut2 섭식 brake**의 sucrose 반응·내재 흥분성을 둔화시킨다(Science 2019, Stuber lab). ⚠️ 본 논문의 HFD "보상 반응 blunting"(NAcLat→VTA NTS↓ → hedonic 섭식↓)과 단어는 같지만 **행동 부호가 반대**(brake 약화 → 섭식↑) — 비만에서 보상 회로 둔화와 억제 회로 둔화가 병존한다는 병기.
 - [[leinninger-2011-leptin-action-via-neurotensin]] — **NTS의 다른 출처**: LHA Nts 뉴런(LepRb와 60% 중첩)도 **VTA로 직접 투사**하며, 그 세포의 leptin 수신을 지우면 조기 비만·운동량↓·AMPH 반응 둔화가 온다(Cell Metab 2011 — `Nts-ires-Cre`의 출처 논문). 같은 VTA 표적에 **LHA 기원 NTS**와 **NAcLat 기원 NTS**가 수렴하며, 둘의 통합은 미해결이다. ⚠️ 두 계열 모두 Nts-Cre 도구를 쓰므로 **Nts^cre 대립유전자 자체가 체중·지방을 낮춘다**는 보고(Table S1)를 대사 종말점 해석에 병기.
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 만성 고지방식 뒤 고칼로리 음식 섭취가 줄었다는 결과를, 식이 이력이 다른 군에서 가치 절하 효능을 따로 확인하는 근거로 인용.

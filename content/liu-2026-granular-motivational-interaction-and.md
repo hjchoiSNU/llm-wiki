@@ -71,10 +71,10 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - Leptin: ARC^AgRP 직접 억제 + ARC^BNC2 경유; LH·DMH^Lepr도 조절. 비만 → leptin 저항.
 - ARC^PNOC: HFD 시 hyperphagia·obesity 촉진(Lepr 결실 시 NPY↑).
 - LH^VGLUT2 = feeding "brake"이나 비만에서 reward 반응 blunted(Rossi 2019). aPVT 염증→compulsive sucrose-seeking. OFC disinhibition→satiety value update 손상. ACC→BLA reward devaluation.
-- aDCN-LAT(소뇌)→VTA^DA → basal DA↑로 식후 DA 반응 blunt → meal size 제어(Prader-Willi 함의). Neurotensin lateral NAc→VTA^DA가 비만 [[concept-hedonic-devaluation|hedonic devaluation]] 구동([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni 2025]]).
+- aDCN-LAT(cerebellum)→VTA^DA → basal DA↑로 식후 DA 반응 blunt → meal size 제어(Prader-Willi 함의). Neurotensin lateral NAc→VTA^DA가 비만 [[concept-hedonic-devaluation|hedonic devaluation]] 구동([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit Shimoni 2025]]).
 
 ## 방법론 제언
-- 고도통제 패러다임·food intake 단일 지표 → **자연주의 패러다임 + AI pose/behavior + 다영역/전뇌 calcium·fUSI + 망 분석(Granger·graph theory·persistent homology)**.
+- 고도통제 패러다임·food intake 단일 지표 → **자연주의 패러다임 + AI pose/behavior + 다영역/whole-brain calcium·fUSI + 망 분석(Granger·graph theory·persistent homology)**.
 - 같은 뉴런도 feeding stage별 타이밍 조작 시 상반된 결과(Zhu/Sternson 2025) → 단순화된 평가는 기능 오해석 위험.
 
 ## NMPU framework와의 관계 (★ 사용자 연구 직접 연결)
@@ -110,7 +110,7 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — lateral NAc→VTA neurotensin이 비만 hedonic devaluation을 구동 (Nature 2025). 개념 [[concept-hedonic-devaluation]].
 - [[lee-2019-food-craving-seeking-and]] — 본 리뷰가 세분한 appetitive/consummatory 분해의 위키 내 원전(craving→seeking→consumption, 사용자 lab JOMES 2019); 종별 측정법 표와 human seeking 측정 공백 지적을 함께 볼 것.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat의 cue/준비 ensemble vs sustained eating ensemble — granular phase 분해와 대응. ⚠️ 다만 "LH^GABA = initiation만"과는 긴장: LH^Vgat ingestion(consumption) ensemble은 섭취 10 s 내내 지속 반응하고 금식·농도·Ex-4에 따라 조절되어 maintenance 단계 표상을 시사한다(상관 관찰 vs 인과 분류 — 병기) (Cell Rep 2026).
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — "LH^GABA=feeding initiation hub, LH^Glut=brake"와 수렴: 선조체 DA가 섭취 **개시(bout 수)** 를 강화(지속은 비강화)하고, LH^GABA/Glut 균형이 그 DA 지형을 설정 (Neuron 2026, Stuber lab).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — "LH^GABA=feeding initiation hub, LH^Glut=brake"와 수렴: striatum DA가 섭취 **개시(bout 수)** 를 강화(지속은 비강화)하고, LH^GABA/Glut 균형이 그 DA 지형을 설정 (Neuron 2026, Stuber lab).
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — ⚠️ "LH^GABA=initiation만"과 긴장: Jennings는 microendoscope로 LH^Vgat의 **consummatory(lick) 반응 세포 75개**를 별도 식별했고 bulk 활성은 소비를 편향시킨다 → LH^Vgat이 소비(maintenance 쪽)에도 표상을 가짐을 시사(활동 상관 vs Liu의 인과 분류 — 병기) (Cell 2015, Stuber lab).
 - [[liu-2023-an-iterative-neural-processing]] — 본 리뷰의 preparation(ARC^AgRP)·initiation(LH^GABA)·maintenance(DR^GABA) 도식의 **1차 실험 원저**(같은 Wang lab, Neuron 2023). ML 행동 분절로 섭식이 C-W-n(E-W)-C로 조각나 있음을 보였다. LH^GABA 반응은 긴 접촉이 끝나기 전에 소실(접촉 지속과 R=0.387)되고, DR^GABA는 접촉 지속과 R=0.908. ⚠️ "LH^GABA = initiation만"은 GAD2 전체 bulk photometry 근거다 — 지속형 하위집단(LepR consummatory, Lee 2026 consumption ensemble)과 병기.
 - [[rossi-2019-obesity-remodels-activity-and]] — 비만 절의 "LH^VGLUT2 = brake이나 비만에서 reward 반응 blunted(Rossi 2019)"의 **원전**(Science 2019, Stuber lab). 같은 뉴런의 sucrose 반응이 **prefed > 24 h fast**(포만 상태 부호화, decoding P=0.002)이고, 12주 HFD에서 점진 둔화·내재 흥분성↓. ⚠️ 여기서 "blunted reward response"는 **brake 신호 약화 → 섭식↑**를 뜻하며 쾌락가치 저하(섭식↓)와 같은 의미가 아니다.

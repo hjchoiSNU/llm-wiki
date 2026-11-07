@@ -10,7 +10,7 @@ updated: 2026-09-19
 
 # [중견연구] GLP-1RA 중단 후 rebound의 microbiota–회로 기전과 공동중재
 
-- **국문 과제명**: GLP-1 수용체 작용제 중단 후 체중 rebound의 microbiota–시상하부 회로 기전 규명과 공동중재를 통한 체중 유지 전략 개발
+- **국문 과제명**: GLP-1 수용체 작용제 중단 후 체중 rebound의 microbiota–hypothalamus 회로 기전 규명과 공동중재를 통한 체중 유지 전략 개발
 - **영문 과제명**: Microbiota–hypothalamic circuit mechanisms of weight rebound after GLP-1RA discontinuation and a co-intervention strategy for weight maintenance
 - **사업유형**: 개인기초연구 — **중견연구** (5년, 연 3억원 이내 가정) · **연구책임자**: [[person-choi-hyung-jin|최형진]] (서울대 의대)
 - **연구분야**: 신경과학 / 신경내분비 / 미생물-뇌 축 / 비만 약리
@@ -23,11 +23,11 @@ updated: 2026-09-19
 - **공백·필요성**: rebound이 무엇이 먼저·어떻게 reset되어 일어나는지, 공동중재로 차단 가능한지 미규명. "약물 중단 후 유지" 전략은 GLP-1RA 시대 최대 미충족 수요.
 
 ## 2. 독창성·창의성 및 차별성
-> ① 대부분 연구가 GLP-1RA의 **작용**을 보는 데 반해 본 과제는 **중단 후 reset/rebound**의 기전을 정조준. ② microbiota·담즙산·SCFA 축과 **시상하부 set-point 회로**를 한 frame으로 통합. ③ 단순 기술이 아니라 **공동중재(co-intervention)** 로 rebound 차단을 시험. ④ 사용자 lab GLP-1 회로 라인([[kim-2024-glp-1-increases-preingestive-satiation]]·[[kim-2025-mechanisms-of-glucagon-like-peptide]])에 microbiome 축을 결합.
+> ① 대부분 연구가 GLP-1RA의 **작용**을 보는 데 반해 본 과제는 **중단 후 reset/rebound**의 기전을 정조준. ② microbiota·담즙산·SCFA 축과 **hypothalamus set-point 회로**를 한 frame으로 통합. ③ 단순 기술이 아니라 **공동중재(co-intervention)** 로 rebound 차단을 시험. ④ 사용자 lab GLP-1 회로 라인([[kim-2024-glp-1-increases-preingestive-satiation]]·[[kim-2025-mechanisms-of-glucagon-like-peptide]])에 microbiome 축을 결합.
 
 ## 3. 연구개발 목표
 ### 3-1. 최종 목표
-GLP-1RA 중단 rebound의 microbiota–시상하부 회로 기전을 규명하고, 중단 시점 공동중재로 체중 유지를 가능케 하는 전략을 개발·검증한다.
+GLP-1RA 중단 rebound의 microbiota–hypothalamus 회로 기전을 규명하고, 중단 시점 공동중재로 체중 유지를 가능케 하는 전략을 개발·검증한다.
 ### 3-2. 연차별 목표 (5년)
 | 연차 | 목표 | 대응 Aim |
 |---|---|---|
@@ -37,7 +37,7 @@ GLP-1RA 중단 rebound의 microbiota–시상하부 회로 기전을 규명하�
 
 ## 4. 연구개발 내용 및 방법 (연차별)
 ### Aim 1 (1–2년) — 기전 분해 *(mouse)*
-- GLP-1RA 투여→중단 종단 추적(DIO); microbiota(16S·metagenome)·메타볼롬(SCFA·담즙산)·시상하부 회로([[concept-pomc-neurons|POMC]]/AgRP photometry·GPR43·AMPK·TGR5)·체중. **인과**: FMT·GPR43/AMPK 조작([[person-lopez-miguel|López AMPK]])·gnotobiotic로 선후 분해.
+- GLP-1RA 투여→중단 종단 추적(DIO); microbiota(16S·metagenome)·메타볼롬(SCFA·담즙산)·hypothalamus 회로([[concept-pomc-neurons|POMC]]/AgRP photometry·GPR43·AMPK·TGR5)·체중. **인과**: FMT·GPR43/AMPK 조작([[person-lopez-miguel|López AMPK]])·gnotobiotic로 선후 분해.
 ### Aim 2 (2–4년) — 공동중재 *(mouse)*
 - 중단 시점 microbiome 공동중재(Akkermansia Akk11·SCFA·TGR5 agonist) ± 저용량 tapering ± 회로 표적; 판독: 체중 재증가율·POMC tone·microbiota 복원.
 ### Aim 3 (3–5년) — 번역
@@ -48,7 +48,7 @@ GLP-1RA 중단 rebound의 microbiota–시상하부 회로 기전을 규명하�
 - 위험·대응: microbiota vs 회로 인과 분리(FMT·gnotobiotic·GPR43/AMPK), 종간 microbiota 차이(NHP·인간 검증), rebound 다요인성(식이 통제·종단), microbiome 협업(미생물·대사체 코어).
 
 ## 6. 연구역량 및 인프라
-- 연구책임자([[person-choi-hyung-jin]]): GLP-1 뇌 회로([[kim-2024-glp-1-increases-preingestive-satiation]]·[[kim-2025-mechanisms-of-glucagon-like-peptide]])·인간 fMRI·시상하부 회로 영상 보유. 협력: 미생물·대사체·내분비. 인프라: photometry·microendoscope, 미생물·메타볼롬 코어, 7T MRI, 임상 코호트.
+- 연구책임자([[person-choi-hyung-jin]]): GLP-1 뇌 회로([[kim-2024-glp-1-increases-preingestive-satiation]]·[[kim-2025-mechanisms-of-glucagon-like-peptide]])·인간 fMRI·hypothalamus 회로 영상 보유. 협력: 미생물·대사체·내분비. 인프라: photometry·microendoscope, 미생물·메타볼롬 코어, 7T MRI, 임상 코호트.
 
 ## 7. 기대효과 및 활용방안
 - GLP-1RA 시대 최대 난제 **rebound의 기계적 규명** + 중단 후 유지 전략.

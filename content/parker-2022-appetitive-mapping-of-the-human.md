@@ -20,8 +20,8 @@ Biological Psychiatry (Correspondence), doi:10.1016/j.biopsych.2022.09.016. NAc 
 ## 핵심 내용
 - **맥락·가설**: LOC eating은 종종 pre-meal 음성정동 뒤에 온다 → **적시에 positive affect를 evoke**하면 치료적일 수 있다는 가설. 양측 NAc rDBS feasibility의 일부로, 3개 매핑 전략 중 2개가 편측 성공할 것을 a priori 기준으로.
 - **표적화**: 개인별 probabilistic tractography로 **NAc→lateral hypothalamus(LH) 투사가 가장 밀집한 NAc 아구역** 정의(hedonic eating 회로). CIT168 atlas 기반 NAc·LH ROI.
-- **수술 중 appetitive testing**: 깨어있는 환자, ~1 mm 간격 microelectrode recording(MER). 개인화 음식 이미지(appetitive rating >8) vs pixel-scramble 중립 이미지로 provocation. **NAc base 2 mm 상방(복측 NAc, LH streamline 밀집 예측 부위)**에서 음식 자극에 audibly 반응하는 unit을 검출, spike sorting으로 확인.
-- **자극 매핑**: quadripolar 리드(NeuroPace DL-330-3.5K), 단극 고주파(125 Hz, 80 μs, 10 s burst), 0.5→5.5 mA escalation. **복측 2개 contact 자극이 용량의존적 기분 상승**(10-point VAMS), 불안은 경미·비일관, 에너지 상승. 5.5 mA까지 불쾌·우울 현상 없음.
+- **수술 중 appetitive testing**: 깨어있는 환자, ~1 mm 간격 microelectrode recording(MER). 개인화 음식 이미지(appetitive rating >8) vs pixel-scramble 중립 이미지로 provocation. **NAc base 2 mm 상방(ventral NAc, LH streamline 밀집 예측 부위)**에서 음식 자극에 audibly 반응하는 unit을 검출, spike sorting으로 확인.
+- **자극 매핑**: quadripolar 리드(NeuroPace DL-330-3.5K), 단극 고주파(125 Hz, 80 μs, 10 s burst), 0.5→5.5 mA escalation. **ventral 2개 contact 자극이 용량의존적 기분 상승**(10-point VAMS), 불안은 경미·비일관, 에너지 상승. 5.5 mA까지 불쾌·우울 현상 없음.
 - **의의**: tractography-정의 회로의 기능적 engagement를 인간에서 생리적으로 확인 — 개인화 appetitive 표적화의 prospective 연구 도구.
 
 ## 관련 페이지

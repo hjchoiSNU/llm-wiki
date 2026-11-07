@@ -9,30 +9,30 @@ year: 2016
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 당의 **hedonic(맛) 가치**와 **nutritional(칼로리) 가치**가 **해부학적으로 분리된 선조체 회로**에서 각각 부호화된다는 직접 증거. 맛=**복측(VS→VP)**, 칼로리=**배측(DS→SnR)** 도파민 회로가 담당하며, **배측 회로가 우세**해 맛이 없거나 쓴 용액이라도 에너지가 있으면 섭취를 강제(taste quality보다 energy-seeking 우선). 최형진 랩의 "hedonic≠nutritional·wanting" 프레임·gut-brain 보상 분해의 핵심 참조.
+> 당의 **hedonic(맛) 가치**와 **nutritional(칼로리) 가치**가 **해부학적으로 분리된 striatum 회로**에서 각각 부호화된다는 직접 증거. 맛=**ventral(VS→VP)**, 칼로리=**dorsal(DS→SnR)** 도파민 회로가 담당하며, **dorsal 회로가 우세**해 맛이 없거나 쓴 용액이라도 에너지가 있으면 섭취를 강제(taste quality보다 energy-seeking 우선). 최형진 랩의 "hedonic≠nutritional·wanting" 프레임·gut-brain 보상 분해의 핵심 참조.
 
 # Separate circuitries encode the hedonic and nutritional values of sugar
 
 ## 한 줄 요약
-설탕의 미각(hedonic) 신호와 위장관 후-섭취(nutritional) 신호는 서로 다른 선조체 도파민 회로(복측 vs 배측)에서 부호화되며, 배측(DS) D1r 회로가 미각을 무시하고 에너지 확보를 우선하도록 섭취를 구동한다(Nat Neurosci 2016, de Araujo lab).
+설탕의 미각(hedonic) 신호와 gastrointestinal tract 후-섭취(nutritional) 신호는 서로 다른 striatum 도파민 회로(ventral vs dorsal)에서 부호화되며, dorsal(DS) D1r 회로가 미각을 무시하고 에너지 확보를 우선하도록 섭취를 구동한다(Nat Neurosci 2016, de Araujo lab).
 
 ## 핵심 내용
-- **미각↔VS, 영양↔DS 이중해리(microdialysis)**: sucralose licking만으로 **복측(VS) 도파민↑**(미각); 위내 glucose 동반 시에만 **배측(DS) 도파민↑**(에너지). denatonium(쓴맛)→VS 억제·DS 유지; L-glucose(영양 제거)→DS 억제·VS 유지.
+- **미각↔VS, 영양↔DS 이중해리(microdialysis)**: sucralose licking만으로 **ventral(VS) 도파민↑**(미각); 위내 glucose 동반 시에만 **dorsal(DS) 도파민↑**(에너지). denatonium(쓴맛)→VS 억제·DS 유지; L-glucose(영양 제거)→DS 억제·VS 유지.
 - **DS D1r=nutrient-seeking(ablation)**: VS-casp→쓴맛 민감(hedonic 손상); **DS-casp→위내 glucose 있어도 맛없는 용액 섭취·taste-nutrient conditioning 회복 실패**.
 - **DS D1r 자극이 설탕 대체(opto)**: DS D1r 자극→쓴 독소 억제·CTA까지 극복, 맛없는 용액 섭취 구동; VS 자극은 hedonic 한정.
-- **배측(DS→SnR)이 복측(VS→VP) 억제를 압도**: VS→VP 섭취 증가는 VP 활성으로 차단되나, DS→SnR 섭취 증가는 SnR 활성으로 **차단 안 됨**.
-- **claim**: 당 보상=hedonic(VS→VP)+metabolic(DS→SnR) 분리 부호화; 배측 우세가 **taste quality보다 energy-seeking 우선**을 강제. 초파리에도 보존.
+- **dorsal(DS→SnR)이 ventral(VS→VP) 억제를 압도**: VS→VP 섭취 증가는 VP 활성으로 차단되나, DS→SnR 섭취 증가는 SnR 활성으로 **차단 안 됨**.
+- **claim**: 당 보상=hedonic(VS→VP)+metabolic(DS→SnR) 분리 부호화; dorsal 우세가 **taste quality보다 energy-seeking 우선**을 강제. 초파리에도 보존.
 
 ## 관련 페이지
 - [[concept-liking-wanting]] — hedonic(VS)/nutritional·energy(DS) 분리의 회로 실증.
-- [[concept-dopamine-reward-system]] — 선조체 도파민의 미각·영양 별개 부호화.
-- [[concept-nucleus-accumbens]] — 복측 선조체(VS)=미각 hedonic 도파민.
-- [[concept-flavor-nutrient-conditioning]] — taste-nutrient conditioning에 배측 D1r 필수.
+- [[concept-dopamine-reward-system]] — striatum 도파민의 미각·영양 별개 부호화.
+- [[concept-nucleus-accumbens]] — ventral striatum(VS)=미각 hedonic 도파민.
+- [[concept-flavor-nutrient-conditioning]] — taste-nutrient conditioning에 dorsal D1r 필수.
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — 당 vs 지방의 gut-brain 후-섭취 보상(동일 계열).
 - [[grove-2022-dopamine-subsystems-track-internal]] — 도파민 하위계의 내부 대사상태 추적(상보).
 - [[person-friedman-jeffrey]] — de Araujo lab 계열 대사·섭식 보상 연구.
 - [[concept-medium-spiny-neuron]] — D1r MSN(VS/DS) 세포 표적.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — **접점(인과 아님)**: 섭취량이 같은 10% sucrose vs 20 mM saccharin 비교에서 **DMS·DLS 도파민이 무칼로리 saccharin에서 더 낮았고**(반대로 NAcCR·NAcCC·NAcShL은 더 높았다) — 본 논문의 "DS=영양 / VS=미각" 방향과 정합적이다. 단 Gordon의 측정은 **섭취 3초 내 구강 단계**라 post-ingestive 기전으로 설명할 수 없다 (Neuron 2026). 개념 [[concept-striatal-dopamine-gradient]].
-- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 같은 de Araujo 계열의 3년 앞선 논문(eLife 2013, Friedman lab; Tellez 공저). **LH MCH 뉴런**이 sucrose 섭취 중 "선조체" DA 방출(+118%)에 필요하고, sucralose와 짝지은 MCH 자극은 DA를 +69% 올린다. MCH가 본 논문 영양(DS) DA의 **상류 후보**다. ⚠️ Domingos는 sucralose 단독 섭취 시 선조체 DA 변화가 **+8%로 무의미**하다고 보고했다. 본 논문의 "sucralose → VS DA↑"와 어긋나는데, Domingos가 microdialysis 부위(DS/VS)를 명시하지 않아 판정할 수 없다. 병기한다.
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 같은 de Araujo 계열의 3년 앞선 논문(eLife 2013, Friedman lab; Tellez 공저). **LH MCH 뉴런**이 sucrose 섭취 중 "striatum" DA 방출(+118%)에 필요하고, sucralose와 짝지은 MCH 자극은 DA를 +69% 올린다. MCH가 본 논문 영양(DS) DA의 **상류 후보**다. ⚠️ Domingos는 sucralose 단독 섭취 시 striatum DA 변화가 **+8%로 무의미**하다고 보고했다. 본 논문의 "sucralose → VS DA↑"와 어긋나는데, Domingos가 microdialysis 부위(DS/VS)를 명시하지 않아 판정할 수 없다. 병기한다.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
-- [[hutelin-2026-metabolic-and-neural-responses-to]] — 인간 caudate(배측) 반응이 식후 carbohydrate oxidation 차이와 연관 → "DS=영양 가치"의 인간 상관 근거 후보(인과 아님).
+- [[hutelin-2026-metabolic-and-neural-responses-to]] — 인간 caudate(dorsal) 반응이 식후 carbohydrate oxidation 차이와 연관 → "DS=영양 가치"의 인간 상관 근거 후보(인과 아님).

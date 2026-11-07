@@ -16,7 +16,7 @@ lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune
 # Leptin-sensitive hypothalamic Lepr+/Glp1r+ neurons limit hyperphagia and weight gain in diet-induced obesity (Belmont-Rausch et al. 2026)
 
 ## 한 줄 요약
-공간전사체(Xenium + 동일 절편 pSTAT3)와 snRNA-seq로, DIO 마우스에서 LepR 신호가 *증가*하는 시상하부 뉴런은 사실상 **Lepr/Glp1r 공발현 GABA성 집단 하나뿐**임을 보이고, 이 집단에서만 Lepr를 조건부 삭제해 **DIO의 과식 제한·Agrp 탈감작·시상하부 microgliosis가 모두 "비만 자체"가 아니라 이 회로를 통한 지속적 leptin 작용의 결과**임을 입증한 논문.
+공간전사체(Xenium + 동일 절편 pSTAT3)와 snRNA-seq로, DIO 마우스에서 LepR 신호가 *증가*하는 hypothalamus 뉴런은 사실상 **Lepr/Glp1r 공발현 GABA성 집단 하나뿐**임을 보이고, 이 집단에서만 Lepr를 조건부 삭제해 **DIO의 과식 제한·Agrp 탈감작·hypothalamus microgliosis가 모두 "비만 자체"가 아니라 이 회로를 통한 지속적 leptin 작용의 결과**임을 입증한 논문.
 
 ## 핵심 내용
 
@@ -26,7 +26,7 @@ lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune
 - 가설: 이 뉴런이 leptin 반응성을 유지해 Agrp를 긴장성으로 억제하고 비만에서 과식을 줄인다.
 
 ### 방법 (요약)
-- **공간전사체 + pSTAT3**: custom 300-gene Xenium 패널, 동일 절편에 pSTAT3 면역형광. >312,000 시상하부 세포, chow vs DIO(15주 HFD) 각 **n = 3마리(총 6), 마우스당 2–3 절편**. 뉴런 17집단 중 기존 보고된 Lepr 집단 7개 식별.
+- **공간전사체 + pSTAT3**: custom 300-gene Xenium 패널, 동일 절편에 pSTAT3 면역형광. >312,000 hypothalamus 세포, chow vs DIO(15주 HFD) 각 **n = 3마리(총 6), 마우스당 2–3 절편**. 뉴런 17집단 중 기존 보고된 Lepr 집단 7개 식별.
 - **snRNA-seq(영양상태)**: >40,000 MBH 뉴런 핵(핵당 평균 12,401 transcripts). chow n = 7, 밤샘 단식 n = 3, 단식 후 **90분** 재급식 n = 4, DIO(15주 HFD) n = 8. 분석: scDist(전사체 거리), **LGS**(leptin gene signature — 독립 leptin 처치 데이터셋 3종에서 MINT-sPLS-DA로 도출; Socs3·Etv6·Atf3 등), edgeR/limma-voom pseudobulk, reference PCA projection.
 - **snRNA-seq(급성 leptin)**: 야생형에 **leptin 3 mg/kg IP**(vehicle = 20 mM Tris-HCl), **1·3·6·24 h** 후 희생, 시점·군당 n = 4–6, 총 >100,000 핵. 1·3 h 군은 주사 전 2 h 절식.
 - **마우스**: `Lepr^flox` × `Glp1r-ires-Cre` = **LeprGlp1rKO**. 역행 rabies 2종(`LeprCre-sun1Gfp;NpyFlp` / `AgrpCre;Glp1rFlp-TDT`). DREADD는 **Cre+Dre 교차**(`Glp1r-ires-Cre;Trh-p2a-Dre` + AAV1/2-FLEX-FREX-hM3Dq, caudal ARC/ventral DMH 단측 주입, 4주 후 행동) — **수컷만**.
@@ -83,7 +83,7 @@ lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune
 - 저자의 핵심 논증: KO가 대조보다 **더 비만함에도** 과식 억제가 사라졌으므로, 제약을 매개하는 것은 지방량 증가가 아니라 **Lepr/Glp1r에 대한 leptin 작용**이다.
 - ⚠️ 설계 주의: DIO 코호트는 혼성 성별이지만 비교에 쓰인 chow 집단은 Methods에 **8주령 수컷** chow LeprGlp1rKO로 기재되고, Fig EV9A는 chow·DIO 코호트가 **독립된 동물군**임을 명시.
 
-### Result 10 — 시상하부 microgliosis도 leptin 작용의 산물
+### Result 10 — hypothalamus microgliosis도 leptin 작용의 산물
 - IBA1 면역염색: **DIO LeprGlp1rKO의 ARC microglia 수가 DIO 대조보다 적다**(P < 0.01, unpaired t test) — **더 많이 먹고 더 무거운데도**.
 - 저자 결론: 비만 연관 MBH neuroinflammation은 적어도 부분적으로 **Lepr/Glp1r에 대한 leptin 작용**이 구동하며, 이는 leptin 결핍 Lep^ob/ob 마우스가 동등하거나 더 심한 비만에도 microgliosis를 보이지 않는다는 선행 결과(Briggs 2014; Gao 2014)와 부합.
 - ⚠️ 본문은 IBA1 정량을 "Fig. 6D"로 지칭하지만 범례상 6D는 FOS 정량, IBA1은 6E(대표 이미지)·6F(정량)다 — 패널 참조가 본문과 범례에서 어긋난다.
@@ -101,14 +101,14 @@ lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune
 
 ## ⚠️ 위키 내 충돌·긴장 (양쪽 병기, 상대 페이지는 수정하지 않음)
 1. **이 집단은 ARC인가 DMH인가** — 위키의 여러 페이지는 Webster 2024의 Trh⁺/Glp1r⁺/Lepr⁺ 집단을 **caudal ARC**로, [[rupp-2023-suppression-of-food-intake-by|Rupp 2023]]의 LepRb^Glp1r을 **DMH 중심**으로 기록하고, [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]]의 Xenium은 **ARC/VMH = Trh형, DMH = Ebf1형**으로 갈린다고 보고한다([[concept-dorsomedial-hypothalamus]]·[[concept-npy-agrp-neurons]]의 ⚠️ 블록 참조). 본 논문은 같은 세포를 **"ventral DMH와 caudal ARC에 걸친 하나의 집단"** 으로 다루고 **양쪽 모두** Agrp에 직접 입력한다고 보고(rabies 표지 중 Glp1r⁺ ARC ~36%·DMH ~48%)해, '어느 핵이냐' 논쟁에는 *양쪽*이라는 답을 준다. 단 Trh형/Ebf1형 아형 구분은 다루지 않으며, DREADD가 **Trh 교차**인 점은 이 긴장을 해소하지 못한다.
-2. **시상하부 염증의 인과 방향** — [[concept-hypothalamic-inflammation]]은 HFD 24–72시간 microglia 활성 → SOCS3·ER stress → leptin resistance라는 **염증이 원인** 사슬을 기록한다. 본 논문은 반대로 (a) DIO microgliosis가 **leptin 작용의 결과**이며 Lepr/Glp1r의 LepR를 지우면 감소하고, (b) Lepr 뉴런 전사체에서 염증·ER stress 신호의 근거를 **찾지 못했다**고 보고한다. 두 서술은 층위(교세포 vs 뉴런 전사체)와 시간척도(급성 24–72 h vs 15–19주)가 다르므로 한쪽을 폐기하지 말고 병기할 것.
+2. **hypothalamus 염증의 인과 방향** — [[concept-hypothalamic-inflammation]]은 HFD 24–72시간 microglia 활성 → SOCS3·ER stress → leptin resistance라는 **염증이 원인** 사슬을 기록한다. 본 논문은 반대로 (a) DIO microgliosis가 **leptin 작용의 결과**이며 Lepr/Glp1r의 LepR를 지우면 감소하고, (b) Lepr 뉴런 전사체에서 염증·ER stress 신호의 근거를 **찾지 못했다**고 보고한다. 두 서술은 층위(교세포 vs 뉴런 전사체)와 시간척도(급성 24–72 h vs 15–19주)가 다르므로 한쪽을 폐기하지 말고 병기할 것.
 3. **"비만에서 leptin은 무력하다"** — [[concept-leptin]]·[[perakakis-2021-leptin-in-leanness-and-obesity]]는 인간에서 leptin을 *결핍 상태에서만 작동하는 허용적 호르몬*으로, DIO 마우스를 'leptin tolerance'로 정리한다. 본 논문은 **마우스 DIO에서 내인성 leptin이 한 집단을 통해 계속, 오히려 더 강하게 작동**한다고 주장한다. 인간 외인성 leptin RCT 무효와 직접 모순은 아니지만(외인성 투여 ≠ 내인성 작용), "비만에서 렙틴 축은 꺼져 있다"는 단순 요약과는 충돌한다.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **GLP-1RA 표적 세포 = 마지막 렙틴 센서?** [[rupp-2023-suppression-of-food-intake-by|Rupp 2023]]·[[crunkhorn-2025-pairing-up-with-glp-1|GLP-1×렙틴 이중작용제]]·사용자 lab의 [[kim-2024-glp-1-increases-preingestive-satiation|DMH GLP-1R preingestive satiation]]·[[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]]가 가리키는 세포와 본 논문의 "비만에서 유일하게 leptin 민감성을 유지하는 집단"이 같은 세포라면, **GLP-1RA가 비만에서도 듣는 이유**를 '렙틴 저항을 우회'가 아니라 '**아직 렙틴에 반응하는 바로 그 세포를 함께 때린다**'로 다시 쓸 수 있다. 본 논문은 이를 주장하지 않는다(Discussion에서 "일부 gut peptide 기반 치료가 leptin 민감성을 올리는 효과가 여기서 올 수 있다"는 **가능성**까지만 언급).
 - **NMPU 배치** — 이 집단은 [[concept-need-motivation-pleasure-utility|NMPU]]의 **Need 축에 걸리는 brake**로 읽힌다: 지방량(leptin)에 비례해 Agrp 억제 톤을 걸어 '예측된 결핍' 알람의 이득을 낮춘다. [[kim-2024-normative-framework-dissociates-need|AgRP = Predicted Deficit]] 틀에서 보면, 본 논문은 그 Need 신호의 **gain을 체지방량에 맞춰 조정하는 상류 스케일러**를 지목한 셈.
 - **defended adiposity / rebound** — '유전적 병변이 있으면 HFD 초기 과식이 정상화되지 않는다'는 Result 8의 표현형은 [[concept-weight-regain-defended-adiposity|방어되는 지방량]]의 **설정 단계(set-up) 쪽** 현상이다. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]]의 PVH^TRH→AgRP 시냅스 증폭기(감량 후 *되돌아오는* 쪽)와 짝지으면, 같은 AgRP 노드에 **지방량 기반 억제 brake(본 논문)** 와 **결핍 기반 흥분 gain(Grzelka)** 이 양쪽에서 붙는 그림이 된다 — [[proposal-glp1ra-rebound-microbiota|GLP-1RA 중단 rebound 계획서]]에서 검증 가능한 대비.
-- **인간 번역·영상 가설** — "비만에서 렙틴 민감성이 전부 사라진 게 아니라 **한 세포형에 남아 있다**"는 명제는 [[proposal-dmh-glp1r-human-imaging|DMH GLP-1R 인간 영상 계획서]]의 표적 정의에 직접 들어간다. 또한 MRI의 시상하부 gliosis를 '식이 손상 지표'가 아니라 **'leptin 작용 강도의 간접 지표'** 로 읽는 대안 해석이 생긴다(원문의 마우스 결과에서 유추한 가설일 뿐, 인간 데이터 없음).
+- **인간 번역·영상 가설** — "비만에서 렙틴 민감성이 전부 사라진 게 아니라 **한 세포형에 남아 있다**"는 명제는 [[proposal-dmh-glp1r-human-imaging|DMH GLP-1R 인간 영상 계획서]]의 표적 정의에 직접 들어간다. 또한 MRI의 hypothalamus gliosis를 '식이 손상 지표'가 아니라 **'leptin 작용 강도의 간접 지표'** 로 읽는 대안 해석이 생긴다(원문의 마우스 결과에서 유추한 가설일 뿐, 인간 데이터 없음).
 - **DTx·electroceutical** — caudal ARC/ventral DMH의 이 brake를 모사하는 국소 신경조절은 사용자 lab의 electroceutical 노선과 직접 맞물린다. 단, 저자들은 **다른 Lepr 뉴런을 렙틴에 재민감화하는 전략의 위험**(교감신경 항진에 의한 혈압 상승 가능성)을 명시적으로 경고한다 — 표적 특이성이 안전성 문제이기도 하다.
 
 ## 관련 페이지
@@ -126,7 +126,7 @@ lab: "Novo Nordisk Foundation CBMR, University of Copenhagen (공동 교신 Tune
 - [[concept-hypothalamic-inflammation]] — ⚠️ 인과 방향 충돌(위 ⚠️ 2). 본 논문의 IBA1 결과는 microgliosis를 leptin 작용의 **결과** 쪽에 놓는다.
 - [[concept-ghrelin]] — 비만의 ghrelin 저항이 Agrp 세포 내재적 결함이 아니라 **상류 억제**라는 본 논문 주장의 상대 호르몬 hub.
 - [[concept-spatial-transcriptomics]] — 방법 축: Xenium 300-gene 패널 + 동일 절편 pSTAT3 면역형광이라는 **신호-전사체 동시 판독** 설계.
-- [[concept-hypomap]] — 시상하부 세포 아틀라스 hub. 본 논문의 label transfer 참조계(Campbell 2017·Rupp 2023)와 Allen Brain Cell Atlas 공발현 분석(Fig EV7B).
+- [[concept-hypomap]] — hypothalamus 세포 아틀라스 hub. 본 논문의 label transfer 참조계(Campbell 2017·Rupp 2023)와 Allen Brain Cell Atlas 공발현 분석(Fig EV7B).
 - [[concept-weight-regain-defended-adiposity]] — 새 방어 체중이 *어떻게 세워지는가*의 세포 기질 후보.
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — 같은 AgRP 노드의 반대편 축(결핍 기반 흥분 gain). 본 논문과 brake/gain 대비.
 - [[person-fenselau-henning]] — 공저(DREADD·MPI Cologne 파트). `Trh-p2a-Dre` 라인과 교차 recombinase 설계가 본 논문의 세포 특이 활성화를 가능케 함.

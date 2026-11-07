@@ -45,7 +45,7 @@ journal: "J Obes Metab Syndr 34:196–212"
 ### 2-4. Emotional eating
 - 부정적 감정 (스트레스·우울·외로움)이 칼로리 dense food 섭취 유발.
 - 회로: amygdala·insula·vmPFC hyperactive; dlPFC hypoactive.
-- HPA axis · cortisol → 시상하부 leptin 저항 (38% ↓), satiety 손상.
+- HPA axis · cortisol → hypothalamus leptin 저항 (38% ↓), satiety 손상.
 - 여성·낮은 SES·만성 스트레스에서 우세.
 
 ### 2-5. Restrained eating
@@ -73,9 +73,9 @@ journal: "J Obes Metab Syndr 34:196–212"
 
 | 기법 | 표적 | 깊이 | 임상 증거 |
 |---|---|---|---|
-| **tDCS** | dlPFC | 피질 | food craving·intake 약 ↓ |
-| **rTMS** | dlPFC | 피질 | BMI −1.14 ± 0.74 |
-| **tACS / tRNS** | 피질 | 피질 | 보완적 |
+| **tDCS** | dlPFC | cortex | food craving·intake 약 ↓ |
+| **rTMS** | dlPFC | cortex | BMI −1.14 ± 0.74 |
+| **tACS / tRNS** | cortex | cortex | 보완적 |
 | **TIS** (temporal interference) | hippocampus 등 심부 | 심부 | preclinical/early human |
 | **tFUS** (focused ultrasound) | 심부 | mm 정밀 | 안전성 검증 중 |
 | **taVNS** (auricular vagus) | NTS | 외부 신경 | 식이 'liking' ↓ in 만복 |
@@ -103,7 +103,7 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[kim-2020-multidimensional-cognitive-behavioral-therapy]] — 다차원 CBT-DTx RCT (본 framework가 인용하는 실증 backbone).
 - [[kim-2021-mental-health-of-people]] — restrained·emotional 표현형의 인구역학 근거 (왜곡 BWP·WCS-m 여성).
 - [[lee-2019-food-craving-seeking-and]] — craving/seeking/consumption phase framework 원전.
-- [[bae-2019-glucagon-like-peptide-1-receptor]] — 비만 T2DM의 food cue 과반응(시상하부·OFC·visual cortex)을 인체 fMRI로 **시사**(n=29·급성 단회·**다중비교 미보정 P<0.001**의 탐색적 결과) — cue-evoked eating type의 영상 근거이되 확증 아님 (DMJ 2019, 본 lab).
+- [[bae-2019-glucagon-like-peptide-1-receptor]] — 비만 T2DM의 food cue 과반응(hypothalamus·OFC·visual cortex)을 인체 fMRI로 **시사**(n=29·급성 단회·**다중비교 미보정 P<0.001**의 탐색적 결과) — cue-evoked eating type의 영상 근거이되 확증 아님 (DMJ 2019, 본 lab).
 - [[de-lartigue-2026-critical-role-gut-brain-signalling]] — gut-brain dysfunction 보완.
 - [[adam-2026-dopamine-takes-hit-how-neuroscience]] — DA 회로 재해석 맥락.
 - [[stuber-2025-the-neurobiology-of-overeating]] — food addiction 개념에 신중론 (긴장); circuit model은 공유.
@@ -123,11 +123,11 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — 같은 문제의 유전 층 근거 (Nature 2026).
 - [[concept-hedonic-devaluation]] · [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — 5-type 분류가 다루지 않는 축: 만성 HFD가 고칼로리 음식의 **쾌락 가치 자체를 낮추는** 회로 기전(NAcLat→VTA neurotensin). habit·restraint형이 쾌락 보고와 어긋나는 이유의 후보 설명 (Nature 2025).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — Restraint 표현형의 **상류 기제**: 사전 목표 선점이 주의 필터·가치 증폭으로 유혹을 애초에 덜 처리하게 함(간섭 차단); DTx 설계에 목표 확정 시점·진행률(momentum) 가시화 근거.
-- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 표현형별 약물 선택에 **이상반응 프로필 비대칭**을 변수로 넣을 재료(위장관 중단=semaglutide 5.6% vs 2.7%, 주사부위=tirzepatide 8.6% vs 0.3%) (NEJM 2025)
+- [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — 표현형별 약물 선택에 **이상반응 프로필 비대칭**을 변수로 넣을 재료(gastrointestinal tract 중단=semaglutide 5.6% vs 2.7%, 주사부위=tirzepatide 8.6% vs 0.3%) (NEJM 2025)
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — **emotion·restraint 표현형의 회로 후보 1차 자료**(Nat Neurosci 2025, Korotkova lab). LH^LepR는 불안 자극에 흥분해 **불안을 상쇄**하고, 그 결과 노출된 공간 탐색·**불안한 환경에서의 섭식 개시**(P=0.0286)·거식 모델의 과잉 running 억제(P=0.004)를 가능하게 한다. ⚠️ 축의 방향 주의: 5-type의 **emotional eating**은 '불안이 섭식을 밀어 올린다'인데 이 회로는 '불안이 섭식을 막고 LepR가 푼다'다 — 같은 세포의 양방향(과활성 = 정서적 과식 / 저활성 = 회피·제한)인지 검증 가능한 대립 가설이다. **restraint** 표현형은 그 논문의 고불안·**PFC 과억제** 프로파일(PFC→LH 자극 → open arm 체류↓ P=0.00039; 억제 크기 × 불안 R=−0.86)에 더 가깝고, DTx·비침습 자극의 종결점을 '식욕 감소'가 아니라 **'불안 맥락에서의 접근 행동 회복'**으로 잡을 근거가 된다.
 - [[liu-2023-an-iterative-neural-processing]] — 섭식의 fragmentation(접촉→이탈→재개)을 신경 수준에서 보인 동물 근거. 인간 bite 미세구조 fragmentation index를 5-type 표현형·mindful eating 매개 지표로 쓰는 가설의 토대(Neuron 2023, 연결 가설).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — cue-driven 표현형의 회로 근거: LH^LepR는 총 섭취량이 아니라 **Pavlovian 음식 cue 변별 학습·cue 유발 접근**을 조절. "hijacked" cue 과정의 LH 노드 후보이자, 개입 종결점을 섭취량 대신 cue 변별·접근으로 두어야 할 근거.
-- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **Emotion 유형 ↔ Habit 유형(DLS)의 회로 다리 후보**: 편도(BLA)가 DLS S-R 시냅스를 직접 증폭(섭식 미검증, 위키 가설) (Neuron 2026).
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — **Emotion 유형 ↔ Habit 유형(DLS)의 회로 다리 후보**: amygdala(BLA)가 DLS S-R 시냅스를 직접 증폭(섭식 미검증, 위키 가설) (Neuron 2026).
 - [[concept-habit]] — **Habit형의 회로 분해 hub** — 습관적 과식을 스트레스·정서·반복 노출·one-shot 각인·발달기 역경·식이 환경·쾌락 저하의 7경로로 나누고, Habit형을 devaluation으로 검증하는 제안 포함.
 - [[rangel-2008-a-framework-for-studying-the]] — 5 표현형의 **계산적 대응표**(대응은 위키 해석): Cue형 = Pavlovian계(눈앞 음식을 배고픔과 무관하게 소비), Habit형 = 습관계(맥락·시간에 묶인 S-R), Addiction형 = 습관 ↔ 목표지향 충돌, Restraint형 = 목표지향 ↔ 목표지향 충돌(다이어터 예); Emotion형은 이 틀에 대응 항목이 없다. 과식을 "통제권 배정 실패"로 본 원전 (Nat Rev Neurosci 2008).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 리뷰가 섭식 습관의 가치 절하 연구를 2차 인용한다는 점(원문 인용 56·57)을 식이 노출 모델의 선행 문헌 확인 근거로 인용.

@@ -34,7 +34,7 @@ year: 2023
 - [[concept-orexin-neurons]] — LepR→OX 축.
 - [[person-korotkova-tatiana]] — 교신저자.
 - [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — LH^Nts와 별개인 **NAcLat^Nts→VTA** 축; 같은 펩타이드가 출처에 따라 섭식 촉진/hedonic 매개로 갈린다 (Nature 2025).
-- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 같은 LH^LepR 광유전 활성인데 섭취 결과가 **제3의 부호(무변)** 다: 본 연구는 급성 제한 직후 feeding rebound **억제**, [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]은 phase-isolated 조건에서 **증가**, Siemian은 자유급식·먹이제한 2-boat 조건에서 활성·억제 **모두 무효**(p=0.21·0.32)이고 대신 Pavlovian cue 변별 학습·RTPP·sucrose CPP만 바뀐다 (Cell Rep 2021, NIDA Aponte lab). 좌표도 ML ±1.10으로 본 연구(ML 0.9–1.0)보다 외측이다 → 부호 충돌이 아니라 **조건 좌표계(상태·과제·아영역)** 문제로 병기.
+- [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 같은 LH^LepR 광유전 활성인데 섭취 결과가 **제3의 부호(무변)** 다: 본 연구는 급성 제한 직후 feeding rebound **억제**, [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]은 phase-isolated 조건에서 **증가**, Siemian은 자유급식·먹이제한 2-boat 조건에서 활성·억제 **모두 무효**(p=0.21·0.32)이고 대신 Pavlovian cue 변별 학습·RTPP·sucrose CPP만 바뀐다 (Cell Rep 2021, NIDA Aponte lab). 좌표도 ML ±1.10으로 본 연구(ML 0.9–1.0)보다 lateral다 → 부호 충돌이 아니라 **조건 좌표계(상태·과제·아영역)** 문제로 병기.
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 같은 LH^Nts 집단의 인과 **침묵**(TeTox) 실험: 음수·체온·각성·자발운동은 손상되나 **24 h 총 섭취는 불변**. 본 연구의 '갈증 우선' 해석에 정량적 제약을 더한다 (bioRxiv 2026, Soden lab).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — 먹이·물 공통 consummatory ensemble + LH^Lepr/LH^Nts 같은 모달리티 특이 병렬 채널이 공존한다는 종합 (Cell Rep 2026)
 - [[de-vrind-2019-effects-of-gaba-and]] — LH^LepR hM3Dq 활성(AP −1.2, ad lib) → 바닥 chow 섭취↓·운동↑·체온(눈 온도)↑·3일 반복 체중↓ (Obesity 2019, Adan lab). 본 연구(AP −1.3, 활성 → feeding rebound↓)와 같은 anterior 좌표·같은 부호. 단 cage-top chow에서는 무변 — 먹이 접근성 의존.

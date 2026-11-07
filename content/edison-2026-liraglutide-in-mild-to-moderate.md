@@ -12,7 +12,7 @@ trial: ELAD (NCT01843075)
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **GLP-1RA의 pleiotropy를 대사·섭식 너머 신경퇴행까지 확장한 최초의 대규모 임상 근거.** 1차 종점(뇌 포도당 대사 [18F]FDG-PET)은 **음성**이었으나, 2차(인지 ADAS-Exec, +0.15, P=0.01)·탐색(측두엽·전체 회백질 위축 감소, VBM)에서 **인지 저하·뇌 위축 둔화** 신호. 즉 liraglutide의 중추 작용은 [[concept-glp-1|섭식·체중 회로]]를 넘어 **neuroprotection**으로 이어질 수 있다는 가설을 지지. 사용자 lab의 "GLP-1R 뇌 작용" 프로그램에 **비만-당뇨 밖 GLP-1 뇌 효과**라는 축을 추가; 단 1차 음성의 방법론적 함정(**PET 3일 전 투약 중단**, attrition으로 검정력 부족, 다중비교 미보정)을 반드시 감안. 진짜 disease-modifying 여부는 대규모 확증시험 필요. [[concept-glp1-neuroprotection]] 참조.
+> **GLP-1RA의 pleiotropy를 대사·섭식 너머 신경퇴행까지 확장한 최초의 대규모 임상 근거.** 1차 종점(뇌 포도당 대사 [18F]FDG-PET)은 **음성**이었으나, 2차(인지 ADAS-Exec, +0.15, P=0.01)·탐색(temporal lobe·전체 회백질 위축 감소, VBM)에서 **인지 저하·뇌 위축 둔화** 신호. 즉 liraglutide의 중추 작용은 [[concept-glp-1|섭식·체중 회로]]를 넘어 **neuroprotection**으로 이어질 수 있다는 가설을 지지. 사용자 lab의 "GLP-1R 뇌 작용" 프로그램에 **비만-당뇨 밖 GLP-1 뇌 효과**라는 축을 추가; 단 1차 음성의 방법론적 함정(**PET 3일 전 투약 중단**, attrition으로 검정력 부족, 다중비교 미보정)을 반드시 감안. 진짜 disease-modifying 여부는 대규모 확증시험 필요. [[concept-glp1-neuroprotection]] 참조.
 
 # Liraglutide in mild to moderate Alzheimer's disease: a phase 2b trial (ELAD)
 
@@ -30,7 +30,7 @@ trial: ELAD (NCT01843075)
 ## 결과
 
 ### 1차 종점 — 음성
-- **뇌 포도당 대사율(rCMRglc / [18F]FDG-PET SUV)**, 복합 관심영역(해마+내측 측두엽+후측 대상피질) 변화.
+- **뇌 포도당 대사율(rCMRglc / [18F]FDG-PET SUV)**, 복합 관심영역(hippocampus+medial temporal lobe+posterior cingulate cortex) 변화.
 - 군간 유의차 **없음**: adjusted difference = **−0.17** (95% CI −0.39 ~ 0.06; **P = 0.14**). Spectral 분석 감도분석도 동일 결론.
 
 ### 2차 종점 — 인지에서 양성
@@ -39,13 +39,13 @@ trial: ELAD (NCT01843075)
 - **ADCS-ADL** (일상생활): 차이 없음 (−0.58; P = 0.65).
 
 ### 탐색적 — 뇌 위축 둔화
-- MRI 부피: 해마·내후각피질·뇌실은 무차, 그러나 **측두엽**(696 mm³; P<0.001)·**전체 회백질**(7,274 mm³; P=0.002)·두정엽·전두두정엽에서 **위축 감소**.
+- MRI 부피: hippocampus·entorhinal cortex·ventricle는 무차, 그러나 **temporal lobe**(696 mm³; P<0.001)·**전체 회백질**(7,274 mm³; P=0.002)·parietal lobe·전두parietal lobe에서 **위축 감소**.
 - VBM: 전두·두정·측두·전체 회백질·백질에서 **복셀 단위 감소 둔화** (P<0.05, 사전지정 P<0.01 부분 충족).
-- 피질 VBM 유의 복셀 분포가 **insulin receptor substrate-1(IRS-1)** 발현 분포와 유사 → 간접적 target engagement 시사.
+- cortex VBM 유의 복셀 분포가 **insulin receptor substrate-1(IRS-1)** 발현 분포와 유사 → 간접적 target engagement 시사.
 
 ### 안전성 — 양호
 - 비당뇨·비비만 집단에서 **일반적으로 안전·내약**.
-- 총 AE는 치료군 더 많음(541 vs 450); 최다 = 위장관(치료군 AE의 25.5%): 식욕부진·복부팽만·설사·소화불량·오심·체중감소.
+- 총 AE는 치료군 더 많음(541 vs 450); 최다 = gastrointestinal tract(치료군 AE의 25.5%): 식욕부진·복부팽만·설사·소화불량·오심·체중감소.
 - 체중감소 ≤5%: 치료군 39.2% vs 위약 12.6%.
 - **중대 AE는 오히려 위약군에서 더 흔함**(18/17.6% vs 7/6.9%). 생명위협 SAE 1건은 위약군.
 
@@ -67,7 +67,7 @@ trial: ELAD (NCT01843075)
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] — ELAD(ref #123 포함)를 근거지도에 배치한 종합 리뷰(Nature Aging 2026).
 - [[concept-glp-1]] — 호르몬·수용체·약리 hub. 여기서는 대사·섭식 밖 뇌 작용 축.
 - [[person-edison-paul]] — 교신저자, ELAD 총괄 PI(Imperial).
-- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(**frontal cortex 최대**, 간뇌·뇌간·해마 존재, **OFC·소뇌 미검출**; 시상하부 PVN은 중등도·종간 보존이나 GLP-1 리간드 단백은 시상하부에서 최소) → CNS target engagement의 해부학적 근거. 단 부검 IHC/RT-PCR 반정량(n=30)이고 원문 내부 ΔCt 표기 상충이 보고돼 **근거 등급은 약함**.
+- [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 분포(**frontal cortex 최대**, 간뇌·brainstem·hippocampus 존재, **OFC·cerebellum 미검출**; hypothalamus PVN은 중등도·종간 보존이나 GLP-1 리간드 단백은 hypothalamus에서 최소) → CNS target engagement의 해부학적 근거. 단 부검 IHC/RT-PCR 반정량(n=30)이고 원문 내부 ΔCt 표기 상충이 보고돼 **근거 등급은 약함**.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R brain-wide 작용·세포내 신호 종합(사용자 lab); 본 임상의 기전 프레임.
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — lixisenatide 인체 fMRI(사용자 lab); GLP-1RA 중추 작용의 인간 영상 선례.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — GLP-1 계열 약물 지형(비만·대사); 본 논문은 그 밖의 신경 응용.

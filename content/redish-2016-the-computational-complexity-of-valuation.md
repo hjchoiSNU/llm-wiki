@@ -29,10 +29,10 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - → 같은 선택지도 측정법 따라 순위 역전. 측정법이 **다른 시스템에 접근**하기 때문.
 
 ### 세 의사결정 시스템 = 세 측정법의 대응
-- **Deliberative(숙고)**: 미래결과 상상·평가(episodic future thinking; 해마 place-cell 미래 sweep + 복측선조체/NAc 평가). revealed preference의 알고리즘.
+- **Deliberative(숙고)**: 미래결과 상상·평가(episodic future thinking; hippocampus place-cell 미래 sweep + ventral striatum/NAc 평가). revealed preference의 알고리즘.
 - **Procedural(절차/습관)**: 학습된 action chain. 
 - **Pavlovian**: 즉시 가용 sensory cue 기반 종특이 반응(접근/회피). approach/avoidance에 대응. **즉시·구체 cue를 과대평가** → 즉시·구체 옵션 선호(할인·patch over-staying·endowment effect 일부).
-- **Macro-agent / motivation**: 결국 단일 행위자가 행동. 시스템 간 갈등 해소는 별도 valuation executive가 아니라 **표상 신뢰도(self-consistency)** 등으로 중재(win-out). 동기계(시상하부 등)가 hunger·thirst·CTA로 valuation을 변조.
+- **Macro-agent / motivation**: 결국 단일 행위자가 행동. 시스템 간 갈등 해소는 별도 valuation executive가 아니라 **표상 신뢰도(self-consistency)** 등으로 중재(win-out). 동기계(hypothalamus 등)가 hunger·thirst·CTA로 valuation을 변조.
 
 ### 임상 응용 ★
 - **Craving = 고가치 결과의 계산적 인식** — 항상 무언가를(transitive) 향함. Pavlovian(상황→음식 침흘림) 또는 deliberative(미래 상상)에서 발생. craving≠relapse(절차적 습관은 craving 없이 재발).
@@ -51,7 +51,7 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 - [[concept-need-motivation-pleasure-utility]] — 가치 다중성과 정합하는 lab framework.
 - [[weber-2025-interoceptive-origin-reinforcement-learning]] · [[berridge-2023-separating-desire-from-prediction-of]] — value/prediction 단일환원 거부 가족.
 - [[concept-dopamine-reward-system]] — value/RPE 계산의 신경기질.
-- [[concept-orbitofrontal-cortex]] — value 부호화 피질.
+- [[concept-orbitofrontal-cortex]] — value 부호화 cortex.
 - [[concept-digital-therapeutics]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] — CM·valuation 전환의 DTx 응용.
 - [[concept-incentive-sensitization]] · [[concept-food-addiction]] — craving·약물추구 계산 모델.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.

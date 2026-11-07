@@ -10,7 +10,7 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 lab(최형진 공동 1저자)의 인체 GLP-1RA fMRI 연구** — 동물 ICV 연구([[namkoong-2017-central-administration-of-glp-1|NamKoong 2017]])를 인간 임상으로 잇는 translational bridge. 핵심: (1) **비만 T2DM이 lean보다 음식 cue에 더 강한 시상하부·OFC·visual cortex 활성** → 비만의 "cue 과반응" 회로를 인간에서 확인 (사용자 lab의 [[lee-2025-hijacked-brain-modern-obesity-cue|cue-evoked eating type]] 임상 근거). (2) **lixisenatide(단기작용 GLP-1RA)가 lean·obese에서 뇌활성을 반대 방향으로 조절** — fusiform gyrus(고차 시각 객체인식·food cue 처리)·lateral ventricle(choroid plexus). (3) **칼로리 섭취 감소군에서만** PCC·mPFC·시상하부·OFC·temporal lobe에서 group×treatment 상호작용 → 약물 반응의 개인차를 뇌영상이 예측할 가능성. 흥미점: fusiform gyrus는 GLP-1R 비발현 → **간접 효과**; choroid plexus GLP-1R은 megalin(leptin transporter) 유사 CSF 수송 후보. 개인 맞춤 GLP-1RA 반응 예측 biomarker 탐색의 사용자 lab 초기 임상.
+> **사용자 lab(최형진 공동 1저자)의 인체 GLP-1RA fMRI 연구** — 동물 ICV 연구([[namkoong-2017-central-administration-of-glp-1|NamKoong 2017]])를 인간 임상으로 잇는 translational bridge. 핵심: (1) **비만 T2DM이 lean보다 음식 cue에 더 강한 hypothalamus·OFC·visual cortex 활성** → 비만의 "cue 과반응" 회로를 인간에서 확인 (사용자 lab의 [[lee-2025-hijacked-brain-modern-obesity-cue|cue-evoked eating type]] 임상 근거). (2) **lixisenatide(단기작용 GLP-1RA)가 lean·obese에서 뇌활성을 반대 방향으로 조절** — fusiform gyrus(고차 시각 객체인식·food cue 처리)·lateral ventricle(choroid plexus). (3) **칼로리 섭취 감소군에서만** PCC·mPFC·hypothalamus·OFC·temporal lobe에서 group×treatment 상호작용 → 약물 반응의 개인차를 뇌영상이 예측할 가능성. 흥미점: fusiform gyrus는 GLP-1R 비발현 → **간접 효과**; choroid plexus GLP-1R은 megalin(leptin transporter) 유사 CSF 수송 후보. 개인 맞춤 GLP-1RA 반응 예측 biomarker 탐색의 사용자 lab 초기 임상.
 
 # GLP-1RA differentially affects brain activation to visual food cues in lean and obese T2DM
 
@@ -26,7 +26,7 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 ## 핵심 결과
 
 ### 1. 비만 > lean: 음식 cue 과반응 (treatment 무관 baseline 차이)
-- High-cal vs low-cal: **시상하부·pineal gland·parietal cortex** 활성 obese > lean.
+- High-cal vs low-cal: **hypothalamus·pineal gland·parietal cortex** 활성 obese > lean.
 - High-cal vs nonfood: **OFC(orbitofrontal cortex)** 활성 obese > lean.
 - Food vs nonfood: **visual cortex** 활성 obese > lean.
 - → 비만 T2DM의 음식 cue에 대한 식욕·보상·시각 주의 회로 과반응.
@@ -38,17 +38,17 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 
 ### 3. 칼로리 섭취 감소군(n=17)에서 group×treatment 상호작용
 - High-cal vs low-cal: **posterior cingulate·medial frontal cortex**.
-- Food vs nonfood: **시상하부·temporal lobe·OFC**.
+- Food vs nonfood: **hypothalamus·temporal lobe·OFC**.
 - → 약물에 반응(섭취↓)하는 개인에서만 식욕·보상 영역의 약물×비만 상호작용 출현 → 치료 반응 개인차 설명 가능.
 
 ### 4. 뇌활성–식욕 상관
-- 시상하부·pineal: baseline fullness·post-fMRI satiety/fullness와 양의 상관.
+- hypothalamus·pineal: baseline fullness·post-fMRI satiety/fullness와 양의 상관.
 - Visual cortex: post-buffet satiety/fullness·post-fMRI satiety/craving와 음의 상관.
 - PCC·mPFC(섭취 감소군): baseline craving·post-fMRI hunger와 상관.
 
 ## 해석·함의
 - 비만 T2DM의 cue 과반응은 인간에서 [[lee-2025-hijacked-brain-modern-obesity-cue|cue-evoked·reward 회로]] 비정상의 직접 근거.
-- GLP-1RA의 뇌 작용은 GLP-1R 직접 발현 영역(시상하부·OFC)뿐 아니라 비발현 영역(fusiform)의 **간접 효과**까지 포함 — 인슐린·CSF 수송 등 다단계.
+- GLP-1RA의 뇌 작용은 GLP-1R 직접 발현 영역(hypothalamus·OFC)뿐 아니라 비발현 영역(fusiform)의 **간접 효과**까지 포함 — 인슐린·CSF 수송 등 다단계.
 - 약물 반응(섭취↓) 개인에서만 나타나는 상호작용 → 뇌영상이 GLP-1RA 반응 예측 biomarker가 될 가능성 → **개인 맞춤 항비만/당뇨 치료**.
 
 ## 한계 (저자 명시)
@@ -63,20 +63,20 @@ journal: "Diabetes & Metabolism Journal; doi:10.4093/dmj.2019.0018"
 - 공동 1저자 Jae Hyun Bae·Hyung Jin Choi; 교신 Young Min Cho.
 
 ## 관련 페이지
-- [[concept-glp-1]] — GLP-1R 작용·뇌 분포(시상하부·OFC·parietal·choroid plexus) hub.
+- [[concept-glp-1]] — GLP-1R 작용·뇌 분포(hypothalamus·OFC·parietal·choroid plexus) hub.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — cue-evoked eating type·food cue reactivity 임상 framework(본 fMRI가 인체 근거).
 - [[namkoong-2017-central-administration-of-glp-1]] — 동일 lab 동물 ICV GLP-1/GIP 식욕억제(translational 짝).
 - [[lee-2017-glp-1-based-combination-therapy]] — 동일 lab GLP-1 병용요법 editorial(같은 해 자매 paper, JOMES 2017).
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab DMH GLP-1R cognitive satiation(인간 포함 후속).
 - [[concept-dopamine-reward-system]] — OFC·reward 영역 cue 반응 맥락.
-- [[concept-arcuate-nucleus]] — GLP-1RA 시상하부 작용(liraglutide ARC, Secher 2014).
+- [[concept-arcuate-nucleus]] — GLP-1RA hypothalamus 작용(liraglutide ARC, Secher 2014).
 - [[person-choi-hyung-jin]] — 공동 1저자.
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 본 lab 뇌 GLP-1R brain-wide 리뷰; 인체 fMRI를 GLP-1 계보의 translational 중간 단계로 배치 (APEM 2025).
 - [[fang-2025-glucagon-like-peptide-1-medicines]] — Drucker 리뷰가 본 fMRI를 비만-cue 반응의 인체 근거로 인용(ref #9, Cell Rep Med 2025).
 - [[coppin-2022-does-glp-1-receptor-agonist]] — 소비/liking 단계 GLP-1RA fMRI(cue/wanting 단계와 대비).
 - [[koide-2025-association-between-eating-behavior]] — external eating이 GLP-1RA 반응 예측(cue 과반응 조절의 임상 짝).
 - [[gupta-2021-glucagon-like-peptide-1-and]] — 인간 뇌 GLP-1R 해부 분포.
-- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ 본 연구를 **GLP-1RA CNS 침투의 인간 간접 근거(ref #20)**로 인용한 narrative review이자, **본 연구가 속한 근거 범주를 메타적으로 규정하는 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편). 인간에서는 CNS 침투의 직접 측정이 없어 **뇌 영상 변화(연결성·활성)를 대리지표로 쓴다**는 논리이고, 본 fMRI의 방추이랑·측뇌실 소견이 그 "뇌 효과 proxy"로 분류된다. ⚠️ 동시에 본 연구는 그 논리의 한계 사례다 — 리뷰는 "비만 T2DM에서 활성 감소"만 옮기고, lean과 obese에서 조절 방향이 **반대**라는 점과 방추이랑이 GLP-1R **미발현** 영역이라는 점은 다루지 않는다. 같은 약물이 집단에 따라 부호를 바꾸고 수용체 없는 영역도 변하므로 단일 대리지표로는 침투를 읽을 수 없다(리뷰 자신의 유보: 표적 engagement의 재현성은 불완전하게 규명).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ 본 연구를 **GLP-1RA CNS 침투의 인간 간접 근거(ref #20)**로 인용한 narrative review이자, **본 연구가 속한 근거 범주를 메타적으로 규정하는 리뷰**(Neurol Ther 2025, McIntyre 그룹, 14편). 인간에서는 CNS 침투의 직접 측정이 없어 **뇌 영상 변화(연결성·활성)를 대리지표로 쓴다**는 논리이고, 본 fMRI의 fusiform gyrus·lateral ventricle 소견이 그 "뇌 효과 proxy"로 분류된다. ⚠️ 동시에 본 연구는 그 논리의 한계 사례다 — 리뷰는 "비만 T2DM에서 활성 감소"만 옮기고, lean과 obese에서 조절 방향이 **반대**라는 점과 fusiform gyrus가 GLP-1R **미발현** 영역이라는 점은 다루지 않는다. 같은 약물이 집단에 따라 부호를 바꾸고 수용체 없는 영역도 변하므로 단일 대리지표로는 침투를 읽을 수 없다(리뷰 자신의 유보: 표적 engagement의 재현성은 불완전하게 규명).
 - [[concept-glp1ra-cns-access]] — fMRI가 증거등급 F(간접 proxy)에 놓이는 이유와, 다음 단계로 지목된 인간 PET.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(Layer 3 임상).
 - [[hutelin-2026-metabolic-and-neural-responses-to]] — food-cue fusiform이 가공도에 따라 value를 반대 부호로 부호화(non-UPF 양/UPF 음) → lixisenatide fusiform 효과와 이어지는 후속 질문.

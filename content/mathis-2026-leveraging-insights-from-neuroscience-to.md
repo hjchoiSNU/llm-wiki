@@ -31,15 +31,15 @@ journal: Nature Neuroscience
 - **BMI 연구**: 폐루프에서 어떤 뉴런이 얼마나 빨리 적응 가능한지 직접 검증 가능. 뉴런 유형별 차이 존재(pyramidal tract vs intratelencephalic 뉴런의 학습 속도 차).
 
 ### 생물학적 교사 신호 — prediction error (Fig. 2)
-- **피질 예측오차 회로**: PV·SST·VIP 인터뉴런 아형별 기록으로 흥분·억제가 함께 학습 규칙을 구성. V1의 "mismatch" 뉴런(예상 시각 피드백 교란 시 반응), S1·M1·전두엽에도 유사 신호.
-- **중뇌 RPE 회로**: VTA 도파민 + **GABA 뉴런**이 RPE 계산의 핵심 억제 회로.
+- **cortex 예측오차 회로**: PV·SST·VIP 인터뉴런 아형별 기록으로 흥분·억제가 함께 학습 규칙을 구성. V1의 "mismatch" 뉴런(예상 시각 피드백 교란 시 반응), S1·M1·frontal lobe에도 유사 신호.
+- **midbrain RPE 회로**: VTA 도파민 + **GABA 뉴런**이 RPE 계산의 핵심 억제 회로.
 - **위계적 예측오차**: cue-guided reward 과제에서 L2/3 체감각 뉴런의 보상 예측 자극 반응이 증강 → RPE 감소·confidence 증가. 규칙 반전 시 lateral OFC가 VIP 인터뉴런을 통해 **context-prediction error**를 신호(confidence 상실).
 
 ### AI 쪽의 현재 대응책과 한계
 - **continual learning(평생학습)** — catastrophic forgetting 대응: local module composition, knowledge distillation, **EWC**(elastic weight consolidation), **synaptic intelligence**, memory replay.
-  - EWC는 뇌영감은 아니지만 파라미터 제약으로 간섭을 줄임 → 신경 대응물은 "일부 회로(1차 감각영역)는 고정, 다른 회로(해마·신피질)는 가소적".
+  - EWC는 뇌영감은 아니지만 파라미터 제약으로 간섭을 줄임 → 신경 대응물은 "일부 회로(1차 감각영역)는 고정, 다른 회로(hippocampus·neocortex)는 가소적".
   - **synaptic intelligence**는 명시적으로 뇌 가소성에서 영감을 얻어 온라인 수행 가능.
-- **memory replay**: 해마 sharp-wave ripple의 재생을 모사. Hopfield 네트워크의 연상기억과도 간접적으로 연결(2024 노벨상). LLM 쪽에선 AmadeusGPT(단·장기 메모리 모듈), MemGPT(벡터DB 지속 메모리), Voyager(Minecraft에서 과거 행동 재생) 등.
+- **memory replay**: hippocampus sharp-wave ripple의 재생을 모사. Hopfield 네트워크의 연상기억과도 간접적으로 연결(2024 노벨상). LLM 쪽에선 AmadeusGPT(단·장기 메모리 모듈), MemGPT(벡터DB 지속 메모리), Voyager(Minecraft에서 과거 행동 재생) 등.
 - **Box 1 — 신경발달과 inductive bias**: 세포 이주 타이밍, 활동 의존적 시냅스 가지치기(≈ knowledge distillation), Hox 유전자 기반 위계적 배선, 유전체 병목(genomic bottleneck ≈ 사전학습·전이학습), 발달기 **traveling wave**(트랜스포머 attention이 자연히 만드는 파동과의 유비).
 - **Box 2 — SNN**: 스파이킹 신경망은 시간 의존·에너지 효율·엣지 컴퓨팅 친화(Loihi·TrueNorth·SpiNNaker). 학습 난이도가 컸으나 ANN→SNN 전이·직접 gradient 계산으로 개선 중.
 

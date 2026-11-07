@@ -3,7 +3,7 @@ title: "Striatal subregion별 도파민의 역할 — vigor·cue value·RPE·ANC
 type: overview
 created: 2026-10-25
 updated: 2026-11-01
-aliases: [dopamine roles by striatal region, 선조체 아구역별 도파민, 부위별 도파민 역할, striatal dopamine map, NAc DMS DLS TS dopamine]
+aliases: [dopamine roles by striatal region, striatum 아구역별 도파민, 부위별 도파민 역할, striatal dopamine map, NAc DMS DLS TS dopamine]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -17,7 +17,7 @@ aliases: [dopamine roles by striatal region, 선조체 아구역별 도파민, �
 > [!note] 근거 범위
 > - 근거는 이 위키의 페이지뿐이다(웹 미사용). 각 칸의 주장은 2026-10-25에 해당 페이지 본문과 다시 대조했다. 원문 PDF까지 다시 대조하지는 않았다.
 > - "2차"는 위키가 원전 없이 리뷰·해설을 통해서만 가진 근거다.
-> - DLS는 dorsolateral striatum이다. 위키 일부에서 같은 약어로 쓰는 dorsolateral septum은 제외했다.
+> - DLS는 dorsolateral striatum다. 위키 일부에서 같은 약어로 쓰는 dorsolateral septum는 제외했다.
 
 ## 그림 — Striatal subregion별 도파민 역할 지도
 
@@ -53,14 +53,14 @@ flowchart TB
 | **VTA (soma 발화)** | RPE 학습 신호, 소비 중 맛의 좋음(기호성)에 비례한 bout 연장, 영양 학습용 sync state | 발화는 RPE를 싣고, NAc 방출은 학습과 동기를 함께 싣는다([[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation|Mohebi 2019]]). 핥기에 맞춘 폐루프 VTA 도파민 회로 조작이 기호성에 비례해 bout 길이를 늘린다([[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]]). 섭취 ~30초 뒤 0.8 Hz 동기 버스트(sync state)가 영양 학습을 맡는다([[yang-2026-a-sync-state-in-the|Yang 2026]]) | 발화와 terminal 방출은 따로 움직인다. 동기 ramp는 발화 없이 NAc 방출에서 나타난다(Mohebi 2019) |
 | **NAc core** | ANCCR(회고적 인과 학습), state value V, cue의 주관적 가치, 지각된 현저성 | ANCCR: 무예측 sucrose를 반복할수록 반응이 커지고, 직전 보상 간격(IRI)이 길수록 커지며, 소거 뒤에도 cue 반응이 남는다([[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]], [[concept-anccr]]). cue DA 학습 시행 수는 보상 간격에 반비례하고, 누락 dip은 cue 반응보다 훨씬 늦게 생긴다([[burke-2026-duration-between-rewards-controls-the\|Burke 2026]]). V의 절댓값은 동기, 급한 변화는 RPE([[hamid-2016-mesolimbic-dopamine-signals-value-work|Hamid 2016]]). cue 도파민은 객관적 보상 크기가 아니라 주관적 가치를 따른다([[pascoli-2026-conditioned-accumbal-dopamine-transients|Pascoli 2026]]). Anterior core(NAcCR)가 용액 가치·최근 이력을 가장 강하게 싣는다(Gordon 2026). 지각된 현저성은 Kutlu 2021의 해설로만 있다([[chen-2021-neuromodulation-a-model-for-dopamine|Chen 2021]], 2차) | NAc에서 RPE 모양 신호가 가장 뚜렷했지만, 결과 시점에 자극하거나 억제해도 다음 선택은 바뀌지 않았다([[blanco-pozo-2024-dopamine-independent-effect-rewards-choices|Blanco-Pozo 2024]]) |
 | **NAc shell** | 원함(wanting)과 hedonic 섭식. medial shell과 lateral shell은 서로 다른 subregion | CeA 자극이 원함을 만들 때 NAc medial shell Fos가 오른다([[warlow-2021-incentive-motivation-wanting-roles|Warlow 2021]]). DA-글루탐산 공동전달 뉴런(VGLUT2⁺)은 medial shell로 거의 전속 투사한다([[mingote-2019-dopamine-glutamate-neuron-projections-to|Mingote 2019]]). 혐오 자극에는 shell이 늦게(안도·회피 성공 예측 시점), core는 즉시 방출한다([[schultz-2016-dopamine-reward-prediction-error-signalling|Schultz 2016]], [[concept-reward-prediction-error]]) | medial shell(NAcShM) 도파민은 다음 핥기를 예측하지 못했다(OR 0.91, ns). 물 제한·sucrose 조건에서는 NAcCR·NAcShM이 다른 subregion과 부호가 반대였다(Gordon 2026). 좋아함(liking) hedonic hotspot은 도파민이 아니라 오피오이드 중심이다([[concept-hedonic-hotspot]]) |
-| **DMS** | 목표지향(행동–결과) 통제, 칼로리(영양) 가치 | Intragastric glucose가 있을 때만 오르는 "dorsal striatum" 도파민([[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]]; 저자 표기는 dorsal striatum이고, 좌표상 medial–central이라 DMS에 해당한다는 것은 [[overview-habitual-overeating-dls]]의 판독). 섭취량이 같을 때 saccharin이 10% sucrose보다 DMS·DLS 도파민이 작다. 다음 핥기 예측 OR 1.27(Gordon 2026) | 습관 전환의 인과 자료는 BLA→DMS·CeA→DMS **입력**에서 나왔고, 도파민 자료가 아니다([[concept-habit]], [[giovanniello-2025-a-dual-pathway-architecture-for|Giovanniello 2025]]) |
+| **DMS** | 목표지향(행동–결과) 통제, 칼로리(영양) 가치 | Intragastric glucose가 있을 때만 오르는 "dorsal striatum" 도파민([[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]]; 저자 표기는 dorsal striatum고, 좌표상 medial–central이라 DMS에 해당한다는 것은 [[overview-habitual-overeating-dls]]의 판독). 섭취량이 같을 때 saccharin이 10% sucrose보다 DMS·DLS 도파민이 작다. 다음 핥기 예측 OR 1.27(Gordon 2026) | 습관 전환의 인과 자료는 BLA→DMS·CeA→DMS **입력**에서 나왔고, 도파민 자료가 아니다([[concept-habit]], [[giovanniello-2025-a-dual-pathway-architecture-for|Giovanniello 2025]]) |
 | **DLS** | 과제 시간 정보(time-in-trial), 다음 섭취 개시, 가소성 규칙 gating, 습관(S–R) | GLM에서 time-in-trial 성분이 DLS에서 가장 강하고, 다음 핥기 예측 OR 1.32로 7개 subregion 중 최강(Gordon 2026). D2R 또는 presynaptic CB1R을 지우면 DLS eCB-LTP와 단일시행 회피 학습이 실패한다([[piette-2026-striatal-endocannabinoids-drive-one-shot|Piette 2026]]) | "DLS = 습관"은 위키에서 2차 인용(Yin & Knowlton 2006)에 기댄다. 습관 상태의 DLS 도파민을 기록한 자료는 없다([[overview-habitual-overeating-dls]]) |
 | **TS (tail of striatum)** | 위협·새로움, 행동 예측 오류(action PE) | labeled-line(tail = threat PE), action PE(Greenstreet 2022)([[gershman-2024-explaining-dopamine-prediction-errors-beyond|Gershman 2024]]). 가치·핥기 scaling이 약하고 다른 subregion과 상관이 낮으며, 다음 핥기를 예측하지 못한다(OR 1.00). LHA 글루탐산 뉴런 자극이 TS 도파민을 올린다(Gordon 2026) | Menegas 2017·Akiti 2022 등 원전이 위키에 없어 2차 인용이다 |
 
 > [!note] 2026-11-01 보강 — 학습 단계 축
 > - **NAc core, 학습 초기**: [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]의 무경험 6선택지 foraging에서 NAcC 보상 DA는 선택지 질(최대 80배)을 반영하지 않고 방문 수에 따라 모든 선택지에서 같은 속도로 감쇠했다. 이는 모델의 **전역 학습률 α(τ)** 와 일치하고, 회귀 dropout에서 α가 RPE보다 많이 설명했다. [[gong-2026-reward-magnitude-determines-reinforcement-learning|Gong 2026]]에서는 NAc DA 보상 반응이 5–100 µl 범위에서 크기·지속시간 모두 보상량에 비례했다. → 표 1의 NAc core 칸(ANCCR·V·주관적 가치)은 주로 훈련된 동물이나 용액 가치 차이에서 나온 서술이므로 **학습 단계**를 함께 적어야 한다. 개념 hub [[concept-dopamine-learning-rate]].
 > - **DMS, 무경험 foraging**: 같은 과제에서 DMS DA는 학습률·RPE 어느 예측변수를 빼도 설명력이 거의 변하지 않았고, 이동 중 반응이 공간에 넓게 분포했다(Grima 2026; 운동 측면 조절은 저자 추측).
-> - **NAc core vs DS, Pavlovian 무경험 학습**: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]에서 NAc core 보상 DA는 학습 중 줄지 않았고(0.82→1.16 z) cue 반응만 늘었다. 배측 선조체(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3). 같은 논문의 폐루프 보정 자극은 NAc core 투사 DA가 **학습률**로 작동한다는 근거다.
+> - **NAc core vs DS, Pavlovian 무경험 학습**: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023]]에서 NAc core 보상 DA는 학습 중 줄지 않았고(0.82→1.16 z) cue 반응만 늘었다. dorsal striatum(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3). 같은 논문의 폐루프 보정 자극은 NAc core 투사 DA가 **학습률**로 작동한다는 근거다.
 
 ## 표 2. 역할 × subregion
 
@@ -93,7 +93,7 @@ flowchart TB
 - TS 원전(Menegas 2017, Akiti 2022) — 현재는 Gershman 2024를 거친 2차 인용뿐.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원 답변에 덧붙인 정리)
-- [[concept-need-motivation-pleasure-utility|NMPU]]에 공간 축을 얹으면, 가치·이력(Pleasure/Utility의 교사 신호 성격)은 anterior·ventral, 행동 출력과 과제 타이밍은 posterior·dorsal이다. 같은 내용을 Gordon 2026 페이지가 "anterior–posterior axis를 따라 여러 지점을 샘플링해야 한다"는 설계 요구로 적어 두었다([[proposal-lh-nac-nmpu-neuron-discovery]]).
+- [[concept-need-motivation-pleasure-utility|NMPU]]에 공간 축을 얹으면, 가치·이력(Pleasure/Utility의 교사 신호 성격)은 anterior·ventral, 행동 출력과 과제 타이밍은 posterior·dorsal다. 같은 내용을 Gordon 2026 페이지가 "anterior–posterior axis를 따라 여러 지점을 샘플링해야 한다"는 설계 요구로 적어 두었다([[proposal-lh-nac-nmpu-neuron-discovery]]).
 - 습관적 과식 연구에서 DLS 도파민을 잴 때는 개시(bout 수)와 유지(bout 길이)를 따로 보고, 습관 상태를 가치 절하로 확인한 뒤 기록해야 위 표의 빈칸을 채울 수 있다([[proposal-habitual-overeating-dls-miniscope]]).
 
 ## 관련 페이지
@@ -112,6 +112,6 @@ flowchart TB
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — TS threat PE·action PE.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] · [[yang-2026-a-sync-state-in-the]] — VTA 쪽 소비 bout 연장과 영양 학습 sync state.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — NAc core 도파민의 학습 초기 역할 = 전역 학습률(표 1 아래 2026-11-01 보강). 무경험 foraging의 DMS 도파민은 학습률·RPE 어느 쪽과도 불일치.
-- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 학습 초기 NAc core 보상 DA는 줄지 않고 cue 반응만 증가했다. 배측 선조체(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3) → 초기 학습기에는 중변연계 신호가 주역.
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 학습 초기 NAc core 보상 DA는 줄지 않고 cue 반응만 증가했다. dorsal striatum(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3) → 초기 학습기에는 중limbic system 신호가 주역.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — NAc core '가치·노력' 칸의 국소 기전(ChI–α4/α6 nAChR)과 VTA 세포체 칼슘의 이른 포화.
 - [[burke-2026-duration-between-rewards-controls-the]] — NAc core ANCCR 칸 보강: cue DA 학습 시행 수 ∝ 1/IRI, 누락 dip 지연, 점근 cue DA가 IRI에 따라 3배 차이.

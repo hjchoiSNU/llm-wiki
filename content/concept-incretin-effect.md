@@ -14,7 +14,7 @@ aliases: [incretin, incretin effect, 인크레틴 효과]
 ## 정의
 Nauck 1986: 같은 혈당 곡선을 만드는 **경구 glucose vs 정맥 glucose isoglycemic infusion**에서 경구가 인슐린 분비를 더 크게 자극하는 현상. 인슐린 또는 C-peptide AUC 차이로 정량.
 
-> 매커니즘적으로: 위장관에서 분비되는 **GIP**와 **[[concept-glp-1|GLP-1]]**이 췌장 β-cell에서 glucose-dependent하게 인슐린 분비를 증폭.
+> 매커니즘적으로: gastrointestinal tract에서 분비되는 **GIP**와 **[[concept-glp-1|GLP-1]]**이 췌장 β-cell에서 glucose-dependent하게 인슐린 분비를 증폭.
 
 ## 매개체
 

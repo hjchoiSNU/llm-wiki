@@ -14,7 +14,7 @@ aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 # NPY / AgRP neurons
 
 ## 위치
-[[concept-arcuate-nucleus|시상하부 arcuate nucleus]]에 거주. 두 종류의 orexigenic 펩타이드(Neuropeptide Y, Agouti-related peptide)를 공동 발현.
+[[concept-arcuate-nucleus|hypothalamus arcuate nucleus]]에 거주. 두 종류의 orexigenic 펩타이드(Neuropeptide Y, Agouti-related peptide)를 공동 발현.
 
 ## 작용 메커니즘
 - **NPY**: Y1/Y5 receptor 매개 식이 자극.
@@ -29,20 +29,20 @@ aliases: [AgRP neurons, NPY neurons, agouti-related peptide neurons]
 | [[concept-leptin\|Leptin]] | 억제 |
 | Insulin | 억제 |
 | PYY | 억제 |
-| 위장관 post-ingestive 영양 | 억제 ([[concept-vagal-afferent-neurons\|VAN]]→AgRP; [[de-lartigue-2026-critical-role-gut-brain-signalling]]) |
-| Fructose(영양소 정체 특이) | 억제 — PYY→말초 Y2R·미주 (glucose=척수와 분리; [[mcknight-2026-attenuated-hypothalamic-response-to\|McKnight 2026]]) |
+| gastrointestinal tract post-ingestive 영양 | 억제 ([[concept-vagal-afferent-neurons\|VAN]]→AgRP; [[de-lartigue-2026-critical-role-gut-brain-signalling]]) |
+| Fructose(영양소 정체 특이) | 억제 — PYY→말초 Y2R·미주 (glucose=spinal cord와 분리; [[mcknight-2026-attenuated-hypothalamic-response-to\|McKnight 2026]]) |
 
 ## ★ 입력 회로 지도 (synaptic afferents) — 흥분/억제 × 예측/실시간
 
 rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]): AgRP 입력의 **ARC 국소 38% · DMH 26% · PVH 18%**. 핵심 fast-synaptic 입력:
 
-> **전뇌 좌표계** ([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]): AgRP는 **35개 뇌영역**에서 직접 입력을 받고 그 **전부가 [[concept-pomc-neurons|POMC]]의 52개 입력영역 안에 포함**된다(시상하부 ~70%). 즉 **AgRP 전용 입력원은 없다**. 수렴비는 AgRP ~21 vs POMC ~49로, 공유 영역 대부분에서 POMC 쪽 입력 밀도가 유의하게 높다. **유일한 AgRP 우세 입력원이 SO(supraoptic nucleus)** 이며 AgRP 개체에서 가장 조밀하게 표지된 핵이다.
+> **whole-brain 좌표계** ([[wang-2015-whole-brain-mapping-of-the-direct|Wang 2015]]): AgRP는 **35개 뇌영역**에서 직접 입력을 받고 그 **전부가 [[concept-pomc-neurons|POMC]]의 52개 입력영역 안에 포함**된다(hypothalamus ~70%). 즉 **AgRP 전용 입력원은 없다**. 수렴비는 AgRP ~21 vs POMC ~49로, 공유 영역 대부분에서 POMC 쪽 입력 밀도가 유의하게 높다. **유일한 AgRP 우세 입력원이 SO(supraoptic nucleus)** 이며 AgRP 개체에서 가장 조밀하게 표지된 핵이다.
 > ⚠️ 아래 표의 "선택성"(예: vDMH^LepR이 AgRP 100% vs POMC 9%)은 **세포 수준**이고, 위 "35영역 공유"는 **영역 수준**이다. 같은 핵의 같은 뉴런이 둘 다에 투사하는지는 이중색 추적이 필요하며 아직 미해결(저자 명시). 두 층위를 뒤섞으면 안 된다. → [[concept-monosynaptic-rabies-tracing]]
 
 | 입력원 | 전달 | 부호 | 무엇에 반응 | 출처 |
 |---|---|---|---|---|
 | **PVH TRH/PACAP** | Glu+PACAP→PAC1 | **흥분 ↑** | hunger 기저 흥분 드라이브 | [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]] |
-| **PVH^Sim2** (위의 분자 정제 subset) | Glu+PACAP | **흥분 ↑** | **미래 결핍 예측**(먹이 부재·탐색 실패); 식전 cue엔 ↓. 자신은 피질 ACC·복측 해마·LS·BNST·MeA 입력 | [[walker-2026-a-hypothalamic-circuit-for\|Walker 2026]] |
+| **PVH^Sim2** (위의 분자 정제 subset) | Glu+PACAP | **흥분 ↑** | **미래 결핍 예측**(먹이 부재·탐색 실패); 식전 cue엔 ↓. 자신은 cortex ACC·ventral hippocampus·LS·BNST·MeA 입력 | [[walker-2026-a-hypothalamic-circuit-for\|Walker 2026]] |
 | **DMH glutamatergic** | Glu | 흥분 ↑(약) | — (PVH보다 ~3배 약·high failure) | [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]] |
 | **vDMH^LepR/pDYN** | GABA | **억제 ↓** | 음식 **sight/availability·가치**(초콜릿>chow), 식전 | [[garfield-2016-dynamic-gabaergic-afferent-modulation\|Garfield 2016]] |
 | **DMH^LepR** | GABA | **억제 ↓** | 음식 **맛(taste, sweet/fat)**, 섭취 bout마다, meal termination | [[aitken-2024-negative-feedback-control-of-hypothalamic\|Aitken 2024]] |
@@ -154,15 +154,15 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — AgRP를 켜는 상류 **흥분성** 입력 **TRH⁺/PACAP⁺ PVH→AgRP**(글루타메이트+PACAP-PAC1) 동정; AgRP→PVH satiety GABA 역방향 = 상호 hunger 회로 (Nature 2014, Lowell lab).
 - [[aitken-2024-negative-feedback-control-of-hypothalamic]] — AgRP가 hunger뿐 아니라 **bout-by-bout meal dynamics**도 조절: 음식 **맛(taste)**이 매 섭취 bout마다 AgRP를 일시 억제(DMH^LepR 매개)→satiation 앞당김 (Neuron 2024, Knight lab).
 - [[kaduk-2026-glucose-levels-are-associated]] — AgRP가 신호하는 배고픔의 negative valence가 기분으로 번역되는 단계에 **의식적 지각(interoception)**이 매개(인간 CGM+EMA, Kroemer 랩).
-- [[zhao-2026-direct-interoceptive-input-to-the]] — 섬엽 INS^LepR의 한 클러스터가 **섭취 직전↑·섭취 시↓**(AgRP와 유사)하며 포만상태 추적; AgRP hunger 회로의 피질 대응물.
+- [[zhao-2026-direct-interoceptive-input-to-the]] — insula INS^LepR의 한 클러스터가 **섭취 직전↑·섭취 시↓**(AgRP와 유사)하며 포만상태 추적; AgRP hunger 회로의 cortex 대응물.
 - [[gruzdeva-2026-hunger-neurons-track-available-food]] — AgRP가 부호화하는 변수 목록에 **학습된 공간 거리**를 추가: 자유 foraging에서 먹이 접근 시 하강·이탈 시 상승하는 양방향 ramp, 단식 상태·학습 이후에만 출현하며 기억 회상 중에도 유지 (bioRxiv 2026, Yapici lab).
-- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ **AgRP를 '섭식 뉴런'에서 '경쟁 동기 억제 스위치'로 재규정**: 절식 또는 ARC AgRP 활성화가 **GABA·NPY 방출로 MPOA 뉴런을 억제**해 처녀 암컷의 새끼 방치·공격을 유발하고, 역으로 새끼의 존재·흥분성 MPOA 활성은 배고픔 유발 섭식을 억제. 발정주기 프로게스테론:에스트라디올 비가 이 억제의 확률을 gating하며, **새끼 감작 경험이 있으면 절식해도 공격이 안 나타남**. 시상하부 밖에서는 절식이 **배측 봉선핵 Y1** 경유 NPY로 모성 돌봄을 억제 (NRN 2026). 개념 [[concept-medial-preoptic-area]].
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — ★ **AgRP를 '섭식 뉴런'에서 '경쟁 동기 억제 스위치'로 재규정**: 절식 또는 ARC AgRP 활성화가 **GABA·NPY 방출로 MPOA 뉴런을 억제**해 처녀 암컷의 새끼 방치·공격을 유발하고, 역으로 새끼의 존재·흥분성 MPOA 활성은 배고픔 유발 섭식을 억제. 발정주기 프로게스테론:에스트라디올 비가 이 억제의 확률을 gating하며, **새끼 감작 경험이 있으면 절식해도 공격이 안 나타남**. hypothalamus 밖에서는 절식이 **dorsal 봉선핵 Y1** 경유 NPY로 모성 돌봄을 억제 (NRN 2026). 개념 [[concept-medial-preoptic-area]].
 - [[concept-medial-preoptic-area]] — AgRP/NPY의 억제 표적이자 양육 허브(동기 경쟁의 상대편).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[davila-2026-agrp-neurons-are-required-for]] — ★ **통념 역전**: GLP-1RA(세마글루타이드)가 AgRP를 억제·우회하는 게 아니라 **모집**하며, AgRP 회로가 망가지면 식이 억제는 남되 **체중 감량이 무너진다**(지방 동원·β₃-교감신경 실패). 매개축 glucocorticoid→AgRP-GR, 암컷 특이 (PNAS 2026, Horvath lab).
 - [[takacs-2026-transcriptome-profiling-of-human-hypothalamic]] — **인간** AgRP 뉴런 전사체: `ACVR1C`(최고 발현)·`GHSR`·`INSR`·`GHR`·`NR3C1`(GR)·`IL1R1`/`IL18R1`·`MC3R`·`AVPR1A`·`AGTR1`·후각수용체 3종; CART·GAL·TAC1·CRH·TRH 공동발현(rodent와 상이) (Nat Commun 2026).
-- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — AgRP 뉴런이 **Agrp/Sst형(ARC 배측)** 과 **Agrp/Acvr1c(ALK7)형(ARC 복측)** 으로 분할; Xenium 검증 각 ~42%. Acvr1c는 마우스 기능상실 시 DIO 방어·인간 SNP는 저체중 연관 (bioRxiv 2025).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — **AgRP 입력의 전뇌 좌표계**: 35개 입력영역 전부가 POMC의 52개 영역 안에 포함(= AgRP 전용 입력원 없음), 수렴비 AgRP ~21 vs POMC ~49, **SO(supraoptic)만 AgRP 우세**. AgRP 축삭의 주요 표적(aBNST·PVH·LHA·PVT·LS·MPO)이 **동시에 AgRP의 입력원**이기도 함(상호 연결) (Front Neuroanat 2015, Luo·Zhan lab).
+- [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — AgRP 뉴런이 **Agrp/Sst형(ARC dorsal)** 과 **Agrp/Acvr1c(ALK7)형(ARC ventral)** 으로 분할; Xenium 검증 각 ~42%. Acvr1c는 마우스 기능상실 시 DIO 방어·인간 SNP는 저체중 연관 (bioRxiv 2025).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **AgRP 입력의 whole-brain 좌표계**: 35개 입력영역 전부가 POMC의 52개 영역 안에 포함(= AgRP 전용 입력원 없음), 수렴비 AgRP ~21 vs POMC ~49, **SO(supraoptic)만 AgRP 우세**. AgRP 축삭의 주요 표적(aBNST·PVH·LHA·PVT·LS·MPO)이 **동시에 AgRP의 입력원**이기도 함(상호 연결) (Front Neuroanat 2015, Luo·Zhan lab).
 - [[concept-monosynaptic-rabies-tracing]] — 위 입력 지도들이 나온 방법의 원리·정량 단위(시작세포·수렴비)·해석 함정 hub. 영역 수준 공유와 세포 수준 선택성을 가르는 기준.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — ★ AgRP 흥분성 시냅스가 **배고픔 상태를 기억한다**(ghrelin→전시냅스 AMPK 양성 되먹임·hysteresis), leptin은 **POMC 오피오이드 경유로만** 그것을 끈다. 단식 시 AgRP와 POMC의 시냅스 변화가 정반대 (Cell 2011, Sternson lab).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ 체중 감소가 **PVH^TRH→AgRP 시냅스만 선택 증폭**(입력 특이성), 저체중이 유지되는 한 지속되며 **잃은 체중 회복에 필요·충분**, **NMDAR 의존**(MK-801 차단). 단회 자극으로 수주 지속 체중 증가 (Cell Metab 2023, Fenselau·Lowell).
@@ -173,7 +173,7 @@ rabies 정량([[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — ★ **AgRP는 수상돌기 가시가 풍부하고 POMC는 사실상 없다**는 구조적 비대칭을 확립. 24시간 단식이 가시를 **67% 증가**시키고, AgRP에서만 `Grin1`(NMDAR)을 지우면 **단식 반응 전체**(가시형성·EPSC 빈도·탈분극·발화·c-Fos·`Agrp`/`Npy` mRNA)가 사라지며 저체중·저지방·저섭취·RER 감소가 나타난다. POMC에서 지우면 대사 표현형 없음 (Neuron 2012, Lowell lab).
 - [[wang-2026-a-hypothalamic-circuit-links]] — ★ **AgRP의 불안 조절 능력은 만성 HFD 상태에서만 창발**(CD에선 억제=섭취↓·불안 무변, 활성=과식·불안 무변). HFD-취약군에서 ArcAgRP가 feeding-locked로 모집되어 **PVNCRH로 단일시냅스 투사**(oEPSC+oIPSC, net 흥분; AgRP ~30% glutamate 공발현). ⚠️ AgRP→PVNCRH 흥분성은 [[krashes-2014-an-excitatory-paraventricular-nucleus-to\|Krashes 2014]]의 AgRP=GABA성·PVH^CRH 무연결 틀과 긴장 (Nat Commun 2026).
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — ★ **AgRP 출력 배선의 1차 자료**: 서로 다른 AgRP 부분군이 축 담보 거의 없이(penetrance 4–27%) aBNST·PVH·LHA·PVT로 독립 투사하고, **aBNST·PVH·LHA는 각각 단독으로 섭식 충분**(PVT 부분적, CEA·PAG 불가). 정량 조직 PVH ~29.7% · aBNST ~18.3% · PBN ~3.3% · PVT ~2.1%. PVH 차단이 AgRP 유발 섭식을 ~50% 억제 (Cell 2013, Sternson lab). 본 페이지 "Projection별 segregation" 절의 수치는 이 논문을 1차로 확인할 것.
-- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — AgRP 억제의 **상류가 뇌간에도 있다**: 세마글루타이드가 ghrelin(1 mg/kg)·단식으로 켜진 AgRP 활성을 억제하고(DIO·8일 투여에서도 유지), 이 억제는 **Adcyap1^AP/NTS 뉴런이 필요**(taCasp3 삭제 시 소실). AgRP^Gq를 CNO로 켜면 세마글루타이드의 섭취 감소가 **완전 역전·체중은 증가 전환**. NTS→ARC·NTS→DMH 두 투사 모두 단식 AgRP Fos를 억제 (bioRxiv preprint 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — AgRP 억제의 **상류가 brainstem에도 있다**: 세마글루타이드가 ghrelin(1 mg/kg)·단식으로 켜진 AgRP 활성을 억제하고(DIO·8일 투여에서도 유지), 이 억제는 **Adcyap1^AP/NTS 뉴런이 필요**(taCasp3 삭제 시 소실). AgRP^Gq를 CNO로 켜면 세마글루타이드의 섭취 감소가 **완전 역전·체중은 증가 전환**. NTS→ARC·NTS→DMH 두 투사 모두 단식 AgRP Fos를 억제 (bioRxiv preprint 2026).
   - ⚠️ [[davila-2026-agrp-neurons-are-required-for|d'Avila 2026]]과 병기: 저쪽은 세마글루타이드가 AgRP를 **모집**하고 AgRP 없으면 체중 감량이 붕괴(암컷). 본 preprint는 **급성 활성 억제**(수컷 DIO) — 시간척도·성별·판독이 다르며 저자들도 '맥락 의존'으로 유보.
 - [[liu-2023-an-iterative-neural-processing]] — ARC^AgRP = 섭식 **준비(preparation)** 단계: 배고플 때만 접촉 사이 비섭식 탐색 중 재활성되어 탐색을 누르고 다음 접근을 준비한다(hM4Di 억제 시 E→Wn 전이↑·섭취↓, 자유급식 ChR2 시 Wa 전이↑·섭취↑). valence 논쟁(Betley 2015 음성 vs Chen 2016 양성)을 "비섭식 행동의 검출·억제"로 통합 시도 (Neuron 2023, Wang lab). ⚠️ "food sight로 즉시 억제된 뒤 유지" 그림과 달리 조각 단위로 진동한다 — 공간 규모·탐색 기회가 조건 변수.
 - [[rossi-2018-overlapping-brain-circuits-for]] — AgRP의 **맥락 의존 valence**(먹이 없으면 회피, 있으면 자기자극; Betley 2015 vs Chen 2016)를 "먹이 존재 의존"으로 묶은 Stuber lab 리뷰. ARC=ventricular 진입점·"식욕 촉진 세포 활성=보상" 경험칙의 대표 예외 (Cell Metab 2018).

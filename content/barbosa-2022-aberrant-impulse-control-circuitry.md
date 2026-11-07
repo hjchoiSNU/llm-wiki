@@ -9,7 +9,7 @@ year: 2022
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **vmPFC→[[concept-nucleus-accumbens|NAc]] shell 충동조절 회로가 비만에서 약화**(연결성↓·vmPFC 피질 얇아짐이 BMI와 비례, 우울과 무관)되고, 그 회로를 개인맞춤 [[concept-responsive-neurostimulation|폐루프 NAc-shell DBS]]로 자극하면 loss-of-control eating이 줄어든다는 first-in-human 개념증명. 비만을 **개인별로 매핑 가능한 충동조절 biomarker**로 환원한 Halpern 그룹 작품. NMPU의 Utility/억제 축과 직접 연결.
+> **vmPFC→[[concept-nucleus-accumbens|NAc]] shell 충동조절 회로가 비만에서 약화**(연결성↓·vmPFC cortex 얇아짐이 BMI와 비례, 우울과 무관)되고, 그 회로를 개인맞춤 [[concept-responsive-neurostimulation|폐루프 NAc-shell DBS]]로 자극하면 loss-of-control eating이 줄어든다는 first-in-human 개념증명. 비만을 **개인별로 매핑 가능한 충동조절 biomarker**로 환원한 Halpern 그룹 작품. NMPU의 Utility/억제 축과 직접 연결.
 
 # Aberrant impulse control circuitry in obesity (Barbosa 2022)
 
@@ -26,7 +26,7 @@ year: 2022
   - vmPFC 두께 BMI 역상관(우 rho=−0.42). **우울(BDI) 보정 후에도 유지** → 우울로 설명 안 됨.
   - DBS 1례: 주당 통제상실 섭식 ~12→~5(12주, p=.049); ELOCS 빈도 12.9→3·중증도 5.6→3.4; 체중 141.5→139.2 kg(BMI 48.9→48.1). BDI 불변.
     > ⚠️ **동일 피험자 주의**: 이 1례(Methods 'Case illustration': 56세 여성, BED, RYGB 실패, BMI 48.9, NCT03868670/IRB-46563/IDE G180079, **좌측 lead 단측 맹검 1주 → off 1주 → open-label 양측 10주**, 0.5 mA·80 µs·125 Hz)는 [[shivacharan-2022-pilot-study-of-responsive-nucleus]]의 **subject 2**(Methods 'Subjects': 56세 여성, 등록 시 BMI 47, RYGB 2005, **0.5 mA 단측 1주 → off 1주 → 1 mA 양측 4주**)와 연령·병력·자극 스케줄·진폭이 모두 일치하므로 같은 사람의 **12주 시점 결과**로 읽어야 한다(같은 trial의 subject 1은 45세·BMI 46·3→5 mA로 불일치). BMI 47 대 48.9는 등록 시점과 자극 시작 시점 사이의 체중 재증가로 설명된다. 6개월 시점 결과는 LOC −87%·체중 −8.2 kg. 따라서 인간 폐루프 NAc 자극 효능 근거는 두 논문을 합쳐도 **n=2**이며 독립 사례로 합산하지 말 것.
-- **안전성**: AE 보고 없음. 1주 on/1주 off 맹검 안전성 평가 후 open-label. 자극: 양극 0.5 mA·80 µs·125 Hz, 최복측 contact.
+- **안전성**: AE 보고 없음. 1주 on/1주 off 맹검 안전성 평가 후 open-label. 자극: 양극 0.5 mA·80 µs·125 Hz, 최ventral contact.
 - **주장**: vmPFC→NAc shell 충동조절 회로가 disinhibited eating 비만에서 구조·기능적으로 손상돼 있고(우울과 독립), 이 회로를 개인맞춤 NAc-shell 신경조절로 직접 조절하면 LOC eating·비만을 완화할 수 있다.
 
 ## 관련 페이지
@@ -34,7 +34,7 @@ year: 2022
 - [[concept-loss-of-control-eating]] — 표적 행동(본 논문이 충동조절 회로로 기계론화).
 - [[concept-responsive-neurostimulation]] — 개인맞춤 폐루프 NAc-shell DBS.
 - [[person-halpern-casey]] — 그룹(번역 아크의 영상-회로 축).
-- [[concept-orbitofrontal-cortex]] — vmPFC/전전두 충동조절 인접.
+- [[concept-orbitofrontal-cortex]] — vmPFC/prefrontal 충동조절 인접.
 - [[shivacharan-2022-pilot-study-of-responsive-nucleus]] · [[choi-2025-brain-activity-associated-with-breakthrough]] — 같은 NCT03868670 라인.
 - [[concept-deep-brain-stimulation]] — 방법론 hub.
 - [[concept-need-motivation-pleasure-utility]] — 충동조절/Utility 축.

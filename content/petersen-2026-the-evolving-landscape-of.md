@@ -9,7 +9,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 사용자 lab의 GLP-1 중추회로·incretin 병용·[[park-2025-glucagon-like-peptide-1-and-hypothalamic|DMH GLP-1R]] 연구가 위치하는 **약물개발 지형 전체의 2026 좌표계**. "appetite suppression을 넘어" **에너지소비·조직특이 표적·제지방 보존·유지생물학(defended adiposity)** 으로 확장되는 프론티어를 명시하며, NMPU/시상하부 회로 연구가 "왜 durable하지 않은가"라는 미해결 질문에 직접 연결된다. 신경정신·신경퇴행·SUD 적응증 확장은 사용자의 보상회로·[[concept-digital-therapeutics|DTx]] 라인과 직결.
+> 사용자 lab의 GLP-1 중추회로·incretin 병용·[[park-2025-glucagon-like-peptide-1-and-hypothalamic|DMH GLP-1R]] 연구가 위치하는 **약물개발 지형 전체의 2026 좌표계**. "appetite suppression을 넘어" **에너지소비·조직특이 표적·제지방 보존·유지생물학(defended adiposity)** 으로 확장되는 프론티어를 명시하며, NMPU/hypothalamus 회로 연구가 "왜 durable하지 않은가"라는 미해결 질문에 직접 연결된다. 신경정신·신경퇴행·SUD 적응증 확장은 사용자의 보상회로·[[concept-digital-therapeutics|DTx]] 라인과 직결.
 
 # 비만 약물치료의 진화하는 지형 (Petersen 2026)
 

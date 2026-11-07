@@ -9,12 +9,12 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 지방 감지를 "구강–장–중추 3층"에서 **소장·신장·미주·뇌간·시상하부**를 잇는 통합 **gut–kidney–brain 축**으로 확장한 종합 리뷰. 사용자 lab의 [[park-2025-glucagon-like-peptide-1-and-hypothalamic|DMH GLP-1R]]·시상하부 회로 연구와 직접 맞물리며, 특히 **NTS GABAergic GLP1R(비혐오 포만) vs [[concept-area-postrema|AP]] GLP1R/GFRAL(혐오)** 이분법, GIPR co-agonism의 GABAergic 의존성, 신장 GDF15–GFRAL 축은 차세대 다중작용제·[[concept-digital-therapeutics|DTx]] 표적 지도로 바로 활용 가능.
+> 지방 감지를 "구강–장–중추 3층"에서 **소장·신장·미주·brainstem·hypothalamus**를 잇는 통합 **gut–kidney–brain 축**으로 확장한 종합 리뷰. 사용자 lab의 [[park-2025-glucagon-like-peptide-1-and-hypothalamic|DMH GLP-1R]]·hypothalamus 회로 연구와 직접 맞물리며, 특히 **NTS GABAergic GLP1R(비혐오 포만) vs [[concept-area-postrema|AP]] GLP1R/GFRAL(혐오)** 이분법, GIPR co-agonism의 GABAergic 의존성, 신장 GDF15–GFRAL 축은 차세대 다중작용제·[[concept-digital-therapeutics|DTx]] 표적 지도로 바로 활용 가능.
 
 # 지질 감지와 뇌 호르몬 수용체: gut–kidney–brain 축 (Garrido 2026)
 
 ## 한 줄 요약
-소장·신장의 지질 감지가 CCK·GLP-1·PYY·GIP·GDF15의 **시간차 다호르몬 분비**를 촉발하고, 이들이 미주·중추(NTS·AP·시상하부) 수용체를 통해 포만·혈당을 조율한다는 gut–kidney–brain 축 종합. (Nature Reviews Endocrinology 2026, Tony Lam lab)
+소장·신장의 지질 감지가 CCK·GLP-1·PYY·GIP·GDF15의 **시간차 다호르몬 분비**를 촉발하고, 이들이 미주·중추(NTS·AP·hypothalamus) 수용체를 통해 포만·혈당을 조율한다는 gut–kidney–brain 축 종합. (Nature Reviews Endocrinology 2026, Tony Lam lab)
 
 ## 핵심 내용
 - **시간 계층**: 지질 섭취 → CCK 가장 먼저(~5–10분, 상부 소장 I세포) → GLP-1·PYY·GIP(~15분) → **GDF15 지연(1–6h)**. GDF15만 gut-independent(신장·간 유래).

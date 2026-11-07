@@ -10,29 +10,29 @@ journal: Reviews in Endocrine and Metabolic Disorders
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 시상하부 single-cell atlas era의 **methodological·conceptual roadmap**. **HypoMap mouse** (Steuernagel 2022, 385k 세포) + **인간 atlas** (Tadross 2025 Nature, 433k 세포)가 신경내분비 연구의 새 standard. 종간 차이 (인간 POMC = LepR+GLP1R **co-express**, 마우스는 분리) — **GLP-1·dual agonist 인간 임상 효과의 분자 기반**. 사용자 lab의 인간 → 임상 번역 시 필수 reference.
+> hypothalamus single-cell atlas era의 **methodological·conceptual roadmap**. **HypoMap mouse** (Steuernagel 2022, 385k 세포) + **인간 atlas** (Tadross 2025 Nature, 433k 세포)가 신경내분비 연구의 새 standard. 종간 차이 (인간 POMC = LepR+GLP1R **co-express**, 마우스는 분리) — **GLP-1·dual agonist 인간 임상 효과의 분자 기반**. 사용자 lab의 인간 → 임상 번역 시 필수 reference.
 
 # From identity to function: unveiling the cellular complexity of hypothalamic feeding circuits
 
 ## 한 줄 요약
-HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature)를 중심으로 시상하부 cell type 정의 기술과 functional 발견을 종합. Yeo lab.
+HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature)를 중심으로 hypothalamus cell type 정의 기술과 functional 발견을 종합. Yeo lab.
 
 ## 핵심 기술 (Fig 2)
 
 ### Cell mapping
 - **Whole-brain imaging** — iDISCO·CUBIC·CLARITY tissue clearing + light-sheet.
-- **Single-neuron projectomics** (Jiao 2025 Nat Neurosci): 7,180 시상하부 peptidergic 뉴런의 whole-brain projection map. 31 distinct projection types. POMC → 뇌간/midbrain, AgRP → 시상하부+median eminence.
+- **Single-neuron projectomics** (Jiao 2025 Nat Neurosci): 7,180 hypothalamus peptidergic 뉴런의 whole-brain projection map. 31 distinct projection types. POMC → brainstem/midbrain, AgRP → hypothalamus+median eminence.
 - **Molecular connectomics** (RAMPANT, Webster 2024 Nat Metab) ★: AgRP 뉴런으로의 synaptic input을 single-nucleus RNA-seq로. **14 input neuron types** — 그 중 **Trh+/Glp1r+/Lepr+ caudal ARC inhibitory subset**이 새로 발견. Liraglutide의 satiation·체중 감소 효과를 직접 매개.
 
 ### Single-cell 'omics
 - scRNA-seq vs snRNA-seq — snRNA가 뇌조직에서 표준 (dissociation 편향 감소, 동결 sample 사용 가능).
 - **HypoMap (Steuernagel 2022, Yeo·Brüning lab)**: 18 데이터셋, 384,925 세포, 465 cluster. Glp1r+·Pnoc+ subset cross-region 분포 매핑.
-- Single-cell proteomics (SUM-PAINT, cycleHCR): 아직 시상하부 적용 안 됨.
+- Single-cell proteomics (SUM-PAINT, cycleHCR): 아직 hypothalamus 적용 안 됨.
 - Single-cell epigenomics (chromatin accessibility, methylation) — sex-specific ARC pattern (MacKay 2022).
 
 ### Spatial transcriptomics
 - Xenium·MERFISH·TRISCO (이미지 기반), Visium·Slide-seq·Stereo-seq·DBiT-seq (sequencing 기반).
-- 시상하부 적용: macaque (Lei 2024 Cell Metab), mouse, **human (Tadross 2025 Nature)**.
+- hypothalamus 적용: macaque (Lei 2024 Cell Metab), mouse, **human (Tadross 2025 Nature)**.
 
 ## 3D Multiomic Atlas
 
@@ -56,7 +56,7 @@ HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature
 ## Functional 발견 (Animal models)
 
 ### Maternal HFD (Huang 2024 Nat Commun)
-- P15 자손 시상하부 snRNA-seq: 30 neuronal subpop, AVP/Rorb·histamine·AgRP/NPY가 male-특이 변화.
+- P15 자손 hypothalamus snRNA-seq: 30 neuronal subpop, AVP/Rorb·histamine·AgRP/NPY가 male-특이 변화.
 
 ### Sexual dimorphism — VMH
 - ERα 매개 distinct neuron pop (Hpcal1·Tac1·Pdyn·Gal·Sst·Rprm).
@@ -76,7 +76,7 @@ HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature
 - NPY → PVN^MC4R cAMP ↓, α-MSH → cAMP ↑.
 
 ### VMH^BDNF → feeding (Kosse 2024 Nature)
-- VMH^BDNF Glut 뉴런이 ARC AgRP·POMC downstream + 뇌간 premotor jaw movement 표적 → **homeostatic + hedonic feeding 동시 억제** ★.
+- VMH^BDNF Glut 뉴런이 ARC AgRP·POMC downstream + brainstem premotor jaw movement 표적 → **homeostatic + hedonic feeding 동시 억제** ★.
 - BDNF/TrkB 인간 변이 비만 메커니즘 해명.
 
 ### AgRP·POMC 동시 조절 (De Solis 2024 Nat Metab)
@@ -107,7 +107,7 @@ HypoMap (mouse) + 인간 hypothalamus spatio-cellular atlas (Tadross 2025 Nature
 
 ## 관련 페이지
 - [[concept-hypomap]] — mouse + human atlas 자세히.
-- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체 3D 아틀라스(독립 group, Jun Yan lab); DMH 비보존·Ltu 인간특이·GWAS niche (preprint 2026).
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 hypothalamus 공간전사체 3D 아틀라스(독립 group, Jun Yan lab); DMH 비보존·Ltu 인간특이·GWAS niche (preprint 2026).
 - [[concept-arcuate-nucleus]] — 본 paper 핵심 영역.
 - [[concept-paraventricular-nucleus]] — PVN MC4R·OXT·CRH.
 - [[concept-ventromedial-hypothalamus]] — VMH^BDNF / SF1.

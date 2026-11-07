@@ -42,7 +42,7 @@ BLA와 LH는 둘 다 음식(조건에 따라 통증) **근접 예측자**의 학
 | 원위 학습: SPC | **BLA는 sensory preconditioning에 관여하지 않는다**. A→B(둘 다 중립) 학습 중 BLA를 억제해도, B→shock 이후 A에 대한 freezing은 그대로 나타난다 | [8,9,21,22] (Parkes & Westbrook 2010 [8]) |
 | 원위 학습: 조건부 동원 | ① A→B를 배우는 **맥락에서 전에 shock를 경험**했거나 [9], ② B가 **먼저 shock 예측자가 된 뒤** A→B를 배우면(second-order conditioning) [3,8], BLA가 동원된다. 이때는 A→B 중 BLA를 비활성하면 A에 대한 freezing이 **줄어든다** [8] | Holmes 2018 *eNeuro* [9••]: "위험한" 맥락에서만 BLA가 cue–cue 관계를 부호화한다(perirhinal cortex와 비교) |
 | 전기생리 ① | 두 냄새가 각각 sucrose와 quinine을 예측하는 변별 과제에서 수반성을 **역전**하면, BLA 뉴런은 **냄새가 아니라 선호하는 결과를 따라** 발화 선호를 바꾼다 | Schoenbaum 1999 [23] |
-| 전기생리 ② | 보상 **크기·지연이 예상 밖으로 바뀌면**, 더 좋아지든 나빠지든, 더 빨라지든 느려지든 BLA 발화가 짧게 burst한다 → **부호 없는(unsigned) 주의 신호**(Pearce-Hall형) | Esber 2012 [24] (이 신호에는 중뇌 도파민계가 필요하다) |
+| 전기생리 ② | 보상 **크기·지연이 예상 밖으로 바뀌면**, 더 좋아지든 나빠지든, 더 빨라지든 느려지든 BLA 발화가 짧게 burst한다 → **부호 없는(unsigned) 주의 신호**(Pearce-Hall형) | Esber 2012 [24] (이 신호에는 midbrain 도파민계가 필요하다) |
 | 칼슘 영상 | 공포 조건화 초기에 **shock 시작 시점**에 BLA가 phasic 흥분한다. 광억제는 shock-paired 자극에 귀속되는 salience를 낮추는 방식으로 학습을 줄인다 | Sengupta 2018 [17•] |
 - 저자 결론: BLA는 **동기적으로 유의한 사건의 감각 특이 정보**(현재 예측 지위 포함)를 부호화해 그 사건에 대한 학습을 돕는 **연합 구조**다.
 
@@ -65,7 +65,7 @@ BLA와 LH는 둘 다 음식(조건에 따라 통증) **근접 예측자**의 학
 - 섭식·ICSS를 매개하는 바로 그 뉴런이 cue–보상 관계도 부호화하는지, 아니면 다른 집단이 과정의 다른 측면을 나누는지는 아직 모른다.
 - 근거 ①: LH GABA 뉴런에는 **아형이 많다** [46]([[bonnavion-2016-hubs-and-spokes-of|Bonnavion 2016]]).
 - 근거 ②: **비-GABA orexin 뉴런**도 보상 학습에 관여한다 [47](Aston-Jones 2009). 다만 GABA 뉴런의 역할과는 아직 해리되지 않았다.
-- 근거 ③: **Nieh 2015 [43]**에 따르면 LH 안의 서로 다른 집단(GABA성이든 아니든)이 중뇌와 **다른 연결**을 가진다. 한 집단은 VTA로 **투사**하고, 다른 집단은 VTA에서 **입력을 받는다**. → 연결 프로필이 다른 집단이 행동의 다른 측면을 부호화할 수 있다. (이 질문은 5년 뒤 같은 제1저자의 [[hoang-2026-methamphetamine-potentiates-the-use-of|Hoang 2026 Neuron]]에서 "VTA^DA 입력을 받는 LH 표적은 비-GABA, VTA로 보내는 쪽은 LH^GABA"라는 평행 스트림으로 이어진다.)
+- 근거 ③: **Nieh 2015 [43]**에 따르면 LH 안의 서로 다른 집단(GABA성이든 아니든)이 midbrain와 **다른 연결**을 가진다. 한 집단은 VTA로 **투사**하고, 다른 집단은 VTA에서 **입력을 받는다**. → 연결 프로필이 다른 집단이 행동의 다른 측면을 부호화할 수 있다. (이 질문은 5년 뒤 같은 제1저자의 [[hoang-2026-methamphetamine-potentiates-the-use-of|Hoang 2026 Neuron]]에서 "VTA^DA 입력을 받는 LH 표적은 비-GABA, VTA로 보내는 쪽은 LH^GABA"라는 평행 스트림으로 이어진다.)
 
 ### BLA–LH 회로 — 해부·시간·발화 패턴 근거
 | 근거 유형 | BLA | LH | 원문 번호 |
@@ -87,7 +87,7 @@ BLA와 LH는 둘 다 음식(조건에 따라 통증) **근접 예측자**의 학
   3. LH는 이 정보를 **기대값 신호(expectation signal)** 로 VTA에 relay한다. 그 결과 VTA에서 뇌 전역으로 퍼지는 **예측오차**가 바뀌어 진행 중 학습이 조절된다.
 - **VTA 단계의 근거**: LH^GABA는 VTA로 조밀하게 투사한다 [26,43–45]. 저자 lab은 LH^GABA가 VTA로 **기대값 신호를 relay**한다는 인과 증거를 냈다 [26]. 보상 예측 cue가 나오면 LH^GABA가 보상 기대를 VTA에 전하고, 그래서 이미 예상된 보상이 전달될 때 **예측오차가 발화하지 않게** 한다.
 - **BLA가 VTA를 직접 건드리지 않는 이유**: BLA는 VTA로 **직접 투사하지 않는 것으로 보인다** [55,56](Watabe-Uchida 2012; Breton 2019). 따라서 BLA는 cue 정보를 LH에 넘기고, LH가 VTA 신호를 통해 진행 중 학습에 영향을 준다는 그림과 정합한다.
-- **도파민 쪽 맥락**: LH는 중뇌 도파민 회로에 **고유한 입력**을 준다. 그 도파민 회로는 점점 더 복잡하고 다양한 강화학습에 관여한다고 알려지고 있다 [57–60](Sharpe 2017 *Nat Neurosci* model-based 연합; Gardner 2018 generalized PE; Engelhard 2019 VTA DA의 감각·운동·인지 변수 부호화; Keiflin 2019 보상 정체 예측).
+- **도파민 쪽 맥락**: LH는 midbrain 도파민 회로에 **고유한 입력**을 준다. 그 도파민 회로는 점점 더 복잡하고 다양한 강화학습에 관여한다고 알려지고 있다 [57–60](Sharpe 2017 *Nat Neurosci* model-based 연합; Gardner 2018 generalized PE; Engelhard 2019 VTA DA의 감각·운동·인지 변수 부호화; Keiflin 2019 보상 정체 예측).
 
 ### 결론 · 제안 실험
 - LH와 BLA가 함께 학습과 행동을 **중요한 결과를 가장 잘 예측하는 cue** 쪽으로 조절한다는 **검증 가능한 이론**으로 제시된다.

@@ -9,7 +9,7 @@ year: 2025
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 만성 스트레스가 **편도-선조체 두 경로의 "one-two punch"**로 행동을 goal-directed에서 habit으로 뒤집는다: 보상-행동 학습의 [[concept-basolateral-amygdala|BLA]]→DMS(흥분성·agency)를 끄고, habit의 CeA→DMS(억제성)를 키운다. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]] 관점에서 **스트레스가 outcome-value/Utility 연산을 무력화하고 자극-구동 습관을 고착**시키는 회로 모델 — stress eating·비만의 습관화·통제 상실을 설명하는 직접 기질.
+> 만성 스트레스가 **amygdala-striatum 두 경로의 "one-two punch"**로 행동을 goal-directed에서 habit으로 뒤집는다: 보상-행동 학습의 [[concept-basolateral-amygdala|BLA]]→DMS(흥분성·agency)를 끄고, habit의 CeA→DMS(억제성)를 키운다. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]] 관점에서 **스트레스가 outcome-value/Utility 연산을 무력화하고 자극-구동 습관을 고착**시키는 회로 모델 — stress eating·비만의 습관화·통제 상실을 설명하는 직접 기질.
 
 # A dual-pathway architecture for stress to disrupt agency and promote habit (Giovanniello 2025)
 
@@ -24,7 +24,7 @@ year: 2025
   - **BLA→DMS**: 대조에서 획득 보상에 강하게 활성(보상-행동 연결); 스트레스가 이 반응을 약화(F=24.13, P<0.0001).
   - **CeA→DMS**: 대조에선 보상 무반응; 스트레스가 학습 경과에 따라 보상 반응을 점진 동원(장기 지속, ~30초).
   - 인과: BLA→DMS 억제→대조도 agency 상실; BLA→DMS 활성→스트레스군 agency 복원. CeA→DMS 억제→스트레스군 goal-directed 복원(자연 habit 형성도 차단); CeA→DMS 활성→역치하 스트레스에서도 조기 습관 충분.
-- **주장**: 만성 스트레스는 편도-선조체 dual-pathway로 BLA→DMS(agency)를 끄고 CeA→DMS(habit)를 켜서 미숙·경직된 습관을 촉진 — 편도의 DMS 입력을 뒤집는 "one-two punch".
+- **주장**: 만성 스트레스는 amygdala-striatum dual-pathway로 BLA→DMS(agency)를 끄고 CeA→DMS(habit)를 켜서 미숙·경직된 습관을 촉진 — amygdala의 DMS 입력을 뒤집는 "one-two punch".
 
 ## 관련 페이지
 - [[proposal-habitual-overeating-dls-miniscope]] — 음식 추구의 습관화와 포만 후 실제 섭취를 연결하는 DLS Miniscope 종단 기록·인과 검증 제안(2026-10-04).
@@ -42,7 +42,7 @@ year: 2025
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — habit의 무대로 알려진 **DLS가 단 1회 짧은 경험의 초기 각인에도 관여**(eCB-LTP); "짧은 1회 = eCB-LTP / 반복 = NMDA-LTP" 분업은 습관 고착의 **초기 단계에 별도 규칙**이 있음을 시사 (Nat Neurosci 2026).
 - [[kim-2026-early-life-stress-alters-h3k4me1]] — 본 논문이 만성 스트레스의 **회로 수준** 전환을 다룬다면, 저 논문은 초기 역경이 스트레스 **반응성 자체를 크로마틴에 미리 프로그램**하는 상류 층 (Neuron 2026).
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal-directed↔habit 전환을 시스템 수준이 아닌 **단계 수준**(습관적 목표 선택 + 목표지향 실행)으로 보는 인간 계산 관점; 스트레스가 어느 단계를 무너뜨리는지 질문 제공.
-- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA의 또 다른 선조체 출력: **BLA→DLS**(DMS 투사와 별개 집단)는 agency가 아니라 **감각자극-반응 결합을 이종시냅스 가소성으로 증폭** — BLA가 표적별로 목표지향(DMS)·S-R(DLS) 양쪽에 관여 (Neuron 2026).
+- [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA의 또 다른 striatum 출력: **BLA→DLS**(DMS 투사와 별개 집단)는 agency가 아니라 **감각자극-반응 결합을 이종시냅스 가소성으로 증폭** — BLA가 표적별로 목표지향(DMS)·S-R(DLS) 양쪽에 관여 (Neuron 2026).
 - [[concept-habit]] — 습관 개념 hub — 본 논문을 **습관적 과식 경로 A(스트레스: 목표지향 끄기 + 습관 켜기)**의 핵심으로 정리하고, 자유 섭식으로의 일반화는 미검증임을 명시.
-- [[rangel-2008-a-framework-for-studying-the]] — 통제권 배정의 계산 원안(추정 불확실성이 낮은 가치계가 통제, 경험이 쌓이면 습관계가 인계; Daw 2005 인용). 본 논문은 그 배정을 **스트레스가 편도–DMS 두 경로로 앞당긴다**는 회로 수준의 답을 준 셈 (Nat Rev Neurosci 2008).
+- [[rangel-2008-a-framework-for-studying-the]] — 통제권 배정의 계산 원안(추정 불확실성이 낮은 가치계가 통제, 경험이 쌓이면 습관계가 인계; Daw 2005 인용). 본 논문은 그 배정을 **스트레스가 amygdala–DMS 두 경로로 앞당긴다**는 회로 수준의 답을 준 셈 (Nat Rev Neurosci 2008).
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.

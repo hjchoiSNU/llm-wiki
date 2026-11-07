@@ -19,7 +19,7 @@ journal: Trends in Cognitive Sciences
 
 ## 배경 — 욕망 = 예측? (이론 쟁점)
 - 통념: 사람은 ‘좋아할 것으로 예측’되는 것을 원한다(학습된 예측 = affective memory 기반). 일부 PP·계산 RL 진영은 **욕망을 ‘이득 예측’으로 치환**해 별도 동기과정을 제거.
-- Berridge 반론: **‘갈망’(incentive salience)은 중뇌-변연계(VTA→[[concept-nucleus-accumbens|NAc]]·선조체+피질변연 glutamate) 회로의 고유 규칙**으로 작동. 의식/무의식 모두 가능 → 따옴표 ‘wanting’으로 표기. 인지적 wanting(피질 의존)과 구별.
+- Berridge 반론: **‘갈망’(incentive salience)은 midbrain-limbic system(VTA→[[concept-nucleus-accumbens|NAc]]·striatum+corticolimbic glutamate) 회로의 고유 규칙**으로 작동. 의식/무의식 모두 가능 → 따옴표 ‘wanting’으로 표기. 인지적 wanting(cortex 의존)과 구별.
 
 ## ‘갈망’(incentive salience)의 4규칙
 1. **단서 = 동기적 자석**: 보상 CS가 주의 포획·접근 유발(sign-tracking; 보상 손실을 감수해도 지속). 인간 eye-tracking 주의 편향, cocaine 사용자의 ‘chase ghosts’.
@@ -34,7 +34,7 @@ journal: Trends in Cognitive Sciences
 - 신경기질: VTA·NAc Fos(mesolimbic incentive salience). 맥락의존 학습으로 설명 불가(긍정 맥락기억 없음). 감각짠맛 기억 × 상태가 incentive salience를 즉석 재계산(MAIS 모델).
 
 ### ② ‘아플 줄 알면서 원하기’ (Warlow et al. 2020)
-- **CeA(중심편도) ChR2 광자극을 전기충격봉(shock rod) 접촉과 짝지음** → 쥐가 충격봉을 반복 접촉·장벽 넘어 추구·충격-CS 소리를 얻으려 새 반응 학습(‘wanting what hurts’).
+- **CeA(central amygdala) ChR2 광자극을 전기충격봉(shock rod) 접촉과 짝지음** → 쥐가 충격봉을 반복 접촉·장벽 넘어 추구·충격-CS 소리를 얻으려 새 반응 학습(‘wanting what hurts’).
 - 충격은 여전히 아픔(flinch), 레이저 끄면 즉시 회피 복귀 → 예측은 정확. 그런데도 **정확히 ‘아플 줄 예측’되는 대상을 원함** → 예측기반 욕망론에 탈출구 없음.
 - counterconditioning 아님(보상 UCS 없음, 레이저 단독 자가자극도 약함). **‘좋아함’ 증가 아님**(설탕 미각반응 무변). CeA ChR2 + 설탕/코카인 → 한 표적에 ‘중독’처럼 ‘갈망’ 집중(승자독식). 신경기질: VTA·NAc Fos.
 
@@ -44,7 +44,7 @@ journal: Trends in Cognitive Sciences
 
 ## 임상 함의
 - **incentive-sensitization**: 취약 개인의 mesolimbic 감작 → cue-triggered ‘wanting’이 기억·예측·경험된 ‘좋아함’을 초과. 약 끊고 수개월~수년 뒤에도, 즐겁지 않아도, 부작용 알아도 재발 충동.
-- **행동중독**: 도박·폭식·성·쇼핑 + Parkinson 도파민 직접작용제 유발 충동(선조체 도파민 과반응). fMRI에서 mesolimbic cue 과반응 서명.
+- **행동중독**: 도박·폭식·성·쇼핑 + Parkinson 도파민 직접작용제 유발 충동(striatum 도파민 과반응). fMRI에서 mesolimbic cue 과반응 서명.
 - **avolition vs anhedonia**: 조현병·우울·Parkinson의 무동기를 ‘쾌락 결핍’이 아닌 **‘갈망’의 선택적 상실**(pleasure capacity는 보존)로 재해석.
 
 ## 사용자 lab 관점

@@ -9,7 +9,7 @@ year: 2016
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 두개인두종 절제로 시상하부가 손상된 [[concept-hypothalamic-obesity|시상하부성 비만]] 환자에서 **손상된 시상하부 대신 [[concept-nucleus-accumbens|NAc]](보상 회로)를 표적**해 감량을 얻은 단일 사례 — homeostatic 회로가 망가져도 reward 회로는 남아있어 표적이 된다는 [[concept-need-motivation-pleasure-utility|NMPU]] 분업의 임상 증거. 자극 off 시 craving 재발이 NAc의 food craving 매개를 시사.
+> 두개인두종 절제로 hypothalamus가 손상된 [[concept-hypothalamic-obesity|hypothalamic 비만]] 환자에서 **손상된 hypothalamus 대신 [[concept-nucleus-accumbens|NAc]](보상 회로)를 표적**해 감량을 얻은 단일 사례 — homeostatic 회로가 망가져도 reward 회로는 남아있어 표적이 된다는 [[concept-need-motivation-pleasure-utility|NMPU]] 분업의 임상 증거. 자극 off 시 craving 재발이 NAc의 food craving 매개를 시사.
 
 # Nucleus accumbens stimulation in pathological obesity (Harat 2016)
 
@@ -17,7 +17,7 @@ year: 2016
 두개인두종 후 [[concept-hypothalamic-obesity|HO]] 19세 여성에 양측 [[concept-nucleus-accumbens|NAc]] DBS로 3개월 19.6 kg 감량(부분 재증가, 인지·정동 보존)을 보고한 단일 사례.
 
 ## 핵심 내용
-- **대상**: 19세 여성, 2004년 두개인두종 수술로 시상하부 손상 → 난치 비만(기저 151.4 kg, BMI 52.9). bariatric 거부.
+- **대상**: 19세 여성, 2004년 두개인두종 수술로 hypothalamus 손상 → 난치 비만(기저 151.4 kg, BMI 52.9). bariatric 거부.
 - **방법**: 전신마취·X-ray 유도로 양측 NAc 전극(전각 anterolateral 경유), CT-MRI fusion 확인. 양극 자극(208 µs, 130 Hz, 2→3.75 mA). BMI·신경심리(BDI/WCST/TMT/Stroop) 14개월 추적.
 - **결과**:
   - 3개월 132 kg(BMI 46.2), **−19.6 kg**. 14개월 138 kg(BMI 48.3).
@@ -26,7 +26,7 @@ year: 2016
   - **우발적 기기 off 2회 동안 음식 갈망↑** — NAc의 craving 매개 시사.
   - 신경심리 보존(TMT 정상화, WCST 정상범위, BDI 호전).
 - **안전성**: 자극 내약 양호, 치료 부작용 없음. 유일한 사건은 우발적 off 2회.
-- **주장**: 수술로 왜곡된 시상하부 대신 즉각 보상 회로(NAc)를 조절하면 HO에서 인지·정동 악화 없이 의미있는 감량 가능(N=1, 일부 일시적).
+- **주장**: 수술로 왜곡된 hypothalamus 대신 즉각 보상 회로(NAc)를 조절하면 HO에서 인지·정동 악화 없이 의미있는 감량 가능(N=1, 일부 일시적).
 
 ## 관련 페이지
 - [[concept-hypothalamic-obesity]] — 두개인두종 HO; NAc 표적의 유일 감량 사례.

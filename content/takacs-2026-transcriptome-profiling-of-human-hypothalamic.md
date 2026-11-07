@@ -71,7 +71,7 @@ RNA 보존 면역조직화학 + 레이저 캡처 미세절제 + bulk RNA-seq(**I
 - 오렉신 수용체 전환: 마우스 POMC는 OX-1R, **인간은 `HCRTR2`(OX-2R)** 가능성.
 
 ### 발견 5 — 공간이 전사체를 만든다 (POMC DM vs VL)
-- RNAscope(`CALCR`) + POMC 면역형광: **CALCR⁺ POMC는 소수(361개 중 54개, 14.96%)**. 배내측(DM) 21.14% vs 복외측(VL) 11.76% → HypoMap의 C4-374 클러스터 위치와 일치.
+- RNAscope(`CALCR`) + POMC 면역형광: **CALCR⁺ POMC는 소수(361개 중 54개, 14.96%)**. dorsomedial(DM) 21.14% vs ventrolateral(VL) 11.76% → HypoMap의 C4-374 클러스터 위치와 일치.
 - DM·VL POMC를 각각 LCM(부위·피험자당 300–500 세포) → **1,052개 transcript가 2배 이상 차등**(DM 339 / VL 713).
 - DM 농축: `CALCR`, `SSTR1`, **`RAMP1`**. VL 농축: `LEPR`, `RXFP2`, `GPR101`, `GLP1R`, **`RAMP3`**.
 - 함의: CALCR+RAMP1 → **AMY1**, CALCR+RAMP3 → **AMY3** 아밀린 수용체가 각 아집단에서 형성될 수 있음 → **cagrilintide류 아밀린 작용제의 인간 표적 아집단이 공간적으로 분리**.
@@ -92,12 +92,12 @@ RNA 보존 면역조직화학 + 레이저 캡처 미세절제 + bulk RNA-seq(**I
 - [[concept-hypomap]] — 상보적 snRNA-seq 아틀라스; 본 연구가 깊이로 보완하고 CALCR 공간 패턴을 독립 검증.
 - [[concept-spatial-transcriptomics]] — 방법론 계열; IHC/LCM-Seq는 "단백 정의 + 공간 보존 + bulk 깊이" 조합.
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas 기반 세포정체 리뷰; 본 연구는 그 정체를 **단백 기준**으로 재정의.
-- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 3D 공간전사체; 좌표계 상보.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 hypothalamus 3D 공간전사체; 좌표계 상보.
 - [[concept-glp-1]] — 인간 POMC의 `GLP1R`이 semaglutide 식욕억제 표적임을 지지, 단 마우스보다 낮음.
 - [[concept-amylin-receptor-agonists]] — `CALCR`+`RAMP1/3` → AMY1/AMY3; cagrilintide·병용요법의 인간 세포 근거.
 - [[concept-melanocortin-system]] · [[concept-mc4r]] — AgRP의 `MC3R` 발현(MC3R/MC4R dual agonism 맥락).
 - [[concept-endocannabinoid-system]] — 인간 POMC `CNR1`; CB1이 POMC를 통해 식욕을 조절한다는 마우스 모델의 인간 대응.
-- [[concept-ectopic-olfactory-receptors]] — AgRP의 `OR52N5`·`OR52N1`·`OR52H1`; 이소성 후각수용체 개념의 시상하부 사례.
+- [[concept-ectopic-olfactory-receptors]] — AgRP의 `OR52N5`·`OR52N1`·`OR52H1`; 이소성 후각수용체 개념의 hypothalamus 사례.
 - [[concept-ghrelin]] · [[concept-leptin]] — `GHSR`·`LEPR` 인간 발현 확인.
 - [[davila-2026-agrp-neurons-are-required-for]] — AgRP의 `NR3C1`(GR) 고발현이 GC→AgRP-GR 축에 인간 근거를 제공.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] · [[liskiewicz-2026-glp-1r-gipr-ppar]] — 약물 측; 본 연구는 표적 세포 측.

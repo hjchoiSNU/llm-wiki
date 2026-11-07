@@ -9,7 +9,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **방법론 도구** — 같은 개별 뉴런의 **in vivo 활성 + 분자 정체(MERFISH/HCR-FISH) + 투사 표적(RNA-barcode retroAAV)**을 세포 단위·통계적 신뢰도로 연결하는 TRU-FACT 파이프라인. 사용자에게의 핵심: 시상하부 feeding 회로를 흔히 기록하는 **GRIN-렌즈·microendoscope·freely-behaving miniscope** 영상 뉴런에 사후 분자 cell-type(AgRP/POMC/LH 등)·projection을 부여 가능 → 섭식 상태 의존 활성을 분자정체에 매핑. [[proposal-nmpu-human-translation|NMPU 인간 번역]]·인간 atlas cross-validation([[concept-hypomap]])의 실험 도구이며, Sternson [[xu-2020-behavioral-state-coding-by|CaRMA]]의 차세대 일반화. ⚠️ raw 파일명 "CaRMA"는 오기 — 본 논문의 방법명은 **TRU-FACT**(CaRMA는 Xu 2020의 방법).
+> **방법론 도구** — 같은 개별 뉴런의 **in vivo 활성 + 분자 정체(MERFISH/HCR-FISH) + 투사 표적(RNA-barcode retroAAV)**을 세포 단위·통계적 신뢰도로 연결하는 TRU-FACT 파이프라인. 사용자에게의 핵심: hypothalamus feeding 회로를 흔히 기록하는 **GRIN-렌즈·microendoscope·freely-behaving miniscope** 영상 뉴런에 사후 분자 cell-type(AgRP/POMC/LH 등)·projection을 부여 가능 → 섭식 상태 의존 활성을 분자정체에 매핑. [[proposal-nmpu-human-translation|NMPU 인간 번역]]·인간 atlas cross-validation([[concept-hypomap]])의 실험 도구이며, Sternson [[xu-2020-behavioral-state-coding-by|CaRMA]]의 차세대 일반화. ⚠️ raw 파일명 "CaRMA"는 오기 — 본 논문의 방법명은 **TRU-FACT**(CaRMA는 Xu 2020의 방법).
 
 # Wang et al. 2026 — TRU-FACT (bioRxiv)
 
@@ -28,7 +28,7 @@ Wang L, Jiang X, Sun X … **Schnitzer MJ**(Stanford/HHMI), bioRxiv 2026 (doi 10
 
 ### 정합 modality·검증
 - 2-photon Ca²⁺(2P·microendoscope·microprism·**2P mesoscope ~4 mm²·freely-behaving miniature 2P**) ↔ **HCR-FISH(low-plex)·MERFISH(high-plex)** + **RNA-barcode retroAAV(8종)**로 projection mapping.
-- 시연 영역: **신피질/운동피질**(skilled reaching). (시상하부 작업은 없음.)
+- 시연 영역: **neocortex/motor cortex**(skilled reaching). (hypothalamus 작업은 없음.)
 - 검증: Drd1a-Cre×Ai14 희소 red(ground truth) + dense green jGCaMP8s.
 
 ### 주요 수치

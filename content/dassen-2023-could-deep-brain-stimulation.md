@@ -9,7 +9,7 @@ year: 2023
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[concept-hypothalamic-obesity|시상하부성 비만(HO)]] [[concept-deep-brain-stimulation|DBS]]를 모은 체계적 고찰: 6명 중 **유일한 감량 사례가 NAc 표적(craniopharyngioma)**, **LHA(PWS) 5명은 무효/증가**. 시상하부가 손상된 HO에서도 **잔존 reward 회로(NAc)가 표적이 된다**는 [[concept-need-motivation-pleasure-utility|Need vs Pleasure]] 분업의 임상 근거. 단 근거는 극히 희박(case report 수준).
+> [[concept-hypothalamic-obesity|hypothalamic 비만(HO)]] [[concept-deep-brain-stimulation|DBS]]를 모은 체계적 고찰: 6명 중 **유일한 감량 사례가 NAc 표적(craniopharyngioma)**, **LHA(PWS) 5명은 무효/증가**. hypothalamus가 손상된 HO에서도 **잔존 reward 회로(NAc)가 표적이 된다**는 [[concept-need-motivation-pleasure-utility|Need vs Pleasure]] 분업의 임상 근거. 단 근거는 극히 희박(case report 수준).
 
 # Could DBS be a possible solution for acquired hypothalamic obesity? (Dassen 2023)
 

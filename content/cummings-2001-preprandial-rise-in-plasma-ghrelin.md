@@ -11,7 +11,7 @@ journal: "Diabetes 50:1714–1719"
 
 > [!takeaway] 연구 방향 관점의 핵심
 > **위에서 분비되는 ghrelin이 식사 시작의 생리적 신호일 수 있음을 사람에서 처음 보인 논문.**
-> 시상하부 NPY/AgRP 회로의 말초 입력이 단순한 굶음 반응이 아니라 **식사 단위 시간척도(분~시간)** 에서 작동한다는 증거. Gut–brain axis나 섭식 회로 모델링의 출발점으로 인용 가치가 높음.
+> hypothalamus NPY/AgRP 회로의 말초 입력이 단순한 굶음 반응이 아니라 **식사 단위 시간척도(분~시간)** 에서 작동한다는 증거. Gut–brain axis나 섭식 회로 모델링의 출발점으로 인용 가치가 높음.
 
 # Cummings 2001 — Preprandial ghrelin surge
 
@@ -21,7 +21,7 @@ journal: "Diabetes 50:1714–1719"
 ## 배경
 [[concept-ghrelin]]은 위 oxyntic gland에서 분비되는 acylated peptide로 GH secretagogue receptor의 내인성 ligand. 설치류에서:
 - 외인성 투여 시 식이섭취/체중 증가 (NPY 다음으로 강력)
-- [[concept-arcuate-nucleus|시상하부 arcuate nucleus]]의 [[concept-npy-agrp-neurons|NPY/AgRP 뉴런]] 활성화 (94%가 ghrelin 수용체 발현)
+- [[concept-arcuate-nucleus|hypothalamus arcuate nucleus]]의 [[concept-npy-agrp-neurons|NPY/AgRP 뉴런]] 활성화 (94%가 ghrelin 수용체 발현)
 - 단식 시 발현 증가, 재섭식 시 억제
 
 저자들은 **인간에서 ghrelin이 개별 식사의 생리적 initiator인지** 검증하고자 했다.
@@ -46,7 +46,7 @@ journal: "Diabetes 50:1714–1719"
 
 ## 함의
 - 위는 단기 에너지 균형을 감지하기에 적합한 위치 (해부적/생리적).
-- Ghrelin → 시상하부 [[concept-npy-agrp-neurons|NPY/AgRP]] → 식이 시작 가설을 인간에서 강하게 지지.
+- Ghrelin → hypothalamus [[concept-npy-agrp-neurons|NPY/AgRP]] → 식이 시작 가설을 인간에서 강하게 지지.
 - Cancer/AIDS/노화 anorexia에 ghrelin agonist, 비만에 ghrelin antagonist가 치료 후보.
 
 ## 관련 페이지

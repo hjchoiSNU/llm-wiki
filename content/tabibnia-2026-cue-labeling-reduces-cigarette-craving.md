@@ -21,7 +21,7 @@ year: 2026
 - **표본**: 매일 흡연 성인, 최종 fMRI N=50(craving N=46). 평균 45.9세, FTND ~5.0(중등도~고도 의존), scan 전 12h 금연.
 - **이론**: affect labeling(감정/자극에 단어 붙이기)은 amygdala 활성·distress를 낮춘다. gender labeling 같은 non-affective labeling은 그러지 못함 → 효과는 "labeling 일반"이 아닌 **salient/affective labeling 특이**. craving과 negative affect는 medial parietal(DMN) substrate를 공유한다는 전제.
 - **행동**: cue matching이 craving↑(manipulation check, g=0.46, p=0.0002). **cue labeling이 cue matching보다 craving↓**(p=0.049, g=−0.11). gender labeling은 유의한 감소 없음.
-- **신경**: cue labeling < cue matching에서 **precuneus 포함 후측 클러스터 활성↓**(peak Z=−4.8). cue labeling·gender labeling 모두 ventrolateral PFC(IFG/OFC)↑. cue labeling > gender labeling에서 precuneus가 더 낮음(특이성).
+- **신경**: cue labeling < cue matching에서 **precuneus 포함 posterior 클러스터 활성↓**(peak Z=−4.8). cue labeling·gender labeling 모두 ventrolateral PFC(IFG/OFC)↑. cue labeling > gender labeling에서 precuneus가 더 낮음(특이성).
 - **뇌–craving 매개**: cue labeling 중 precuneus 활성이 craving과 양의 상관(β=0.43, p=0.017); 매개분석상 labeling의 craving 감소가 precuneus 활성 감소를 경유. PPI: precuneus seed가 PCC·dACC·OFC·thalamus/caudate와 연결.
 - **연령 조절(핵심)**: 나이 많을수록 labeling 시 craving·precuneus/dACC 활성 더 감소(craving F=5.28, p=0.03). **≥47세 서브샘플**에서 cue labeling이 craving↓(g=−0.29, p=0.015)이며 **cue-유발 craving을 neutral 수준까지 회복**(p=0.60). sex·FTND·pack-years는 조절 안 함 → 단순 흡연노출량으로 설명 안 됨.
 - **해석**: precuneus/PCC(DMN core)를 addiction·internalizing 공통 치료표적으로 제시. labeling은 reappraisal보다 cognitive demand가 낮아 저 cognitive reserve(고령·withdrawal)에 유리한 transdiagnostic 개입.

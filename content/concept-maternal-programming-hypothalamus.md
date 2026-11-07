@@ -7,7 +7,7 @@ aliases: [maternal obesity programming, developmental programming hypothalamus, 
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 모체 비만·GDM이 자손 시상하부 회로 발달을 sex-specific하게 reshape — 비만의 transgenerational 매개. **Pre-pregnancy + lactation period가 critical window**. POMC promoter hypermethylation·postnatal leptin surge blunting·ER stress·tanycyte morphology 손상이 핵심 매개. 사용자 lab의 임상 preconception intervention path.
+> 모체 비만·GDM이 자손 hypothalamus 회로 발달을 sex-specific하게 reshape — 비만의 transgenerational 매개. **Pre-pregnancy + lactation period가 critical window**. POMC promoter hypermethylation·postnatal leptin surge blunting·ER stress·tanycyte morphology 손상이 핵심 매개. 사용자 lab의 임상 preconception intervention path.
 
 # Maternal programming of hypothalamic circuits
 
@@ -43,7 +43,7 @@ aliases: [maternal obesity programming, developmental programming hypothalamus, 
 - **Pre-pregnancy** (maternal BMI 결정).
 - **Gestational** (placental nutrient·hormone transfer).
 - **Lactational** (postnatal leptin surge P0–P14 in mouse, 인간은 prenatal).
-- 인간: prenatal 가장 결정적 (시상하부 maturation timeline).
+- 인간: prenatal 가장 결정적 (hypothalamus maturation timeline).
 
 ## Rescue / intervention path
 - **TUDCA (chemical chaperone)**: ER stress 차단 → POMC projection 복원 (Park 2020).

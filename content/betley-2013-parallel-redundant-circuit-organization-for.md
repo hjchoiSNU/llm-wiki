@@ -9,7 +9,7 @@ year: 2013
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **AgRP 배고픔 회로의 배선 원리 = 병렬·중복.** 궁상핵(ARC) AgRP 뉴런은 aBNST·PVH·LHA·PVT 등으로 **거의 축 담보(collateral) 없이 서로 다른 부분군이 독립 투사**하며, 각 투사(aBNST·PVH·LHA)가 **단독으로도 섭식을 유발**한다(one-to-all 아님). 생존 필수 행동에 다중 안전장치를 부여하는 구조. 최형진 랩에는 (1) 시상하부 섭식회로 타깃팅 시 **한 경로 차단이 보상되는 redundancy**를 알려주고, (2) 소수(~3%)이지만 존재하는 **AgRP→PBN 투사가 배고픔 회로와 혐오/경보 회로의 접점**임을 시사한다.
+> **AgRP 배고픔 회로의 배선 원리 = 병렬·중복.** arcuate nucleus(ARC) AgRP 뉴런은 aBNST·PVH·LHA·PVT 등으로 **거의 축 담보(collateral) 없이 서로 다른 부분군이 독립 투사**하며, 각 투사(aBNST·PVH·LHA)가 **단독으로도 섭식을 유발**한다(one-to-all 아님). 생존 필수 행동에 다중 안전장치를 부여하는 구조. 최형진 랩에는 (1) hypothalamus 섭식회로 타깃팅 시 **한 경로 차단이 보상되는 redundancy**를 알려주고, (2) 소수(~3%)이지만 존재하는 **AgRP→PBN 투사가 배고픔 회로와 혐오/경보 회로의 접점**임을 시사한다.
 
 # 섭식 항상성 제어의 병렬·중복 회로 조직 (Betley 2013)
 
@@ -18,7 +18,7 @@ ARC AgRP 뉴런은 서로 다른 부분군이 aBNST·PVH·LHA·PVT로 축 담보
 
 ## 핵심 내용
 
-**Background.** AgRP 뉴런은 에너지결핍에 반응하는 분자적으로 정의된 궁상핵 집단으로 강력한 섭식을 구동한다. 종전의 단순 선형 모델을 넘어 **AgRP 축 투사의 실제 조직 원리**를 체계적으로 규명.
+**Background.** AgRP 뉴런은 에너지결핍에 반응하는 분자적으로 정의된 arcuate nucleus 집단으로 강력한 섭식을 구동한다. 종전의 단순 선형 모델을 넘어 **AgRP 축 투사의 실제 조직 원리**를 체계적으로 규명.
 
 **Method.** 투사특이 광유전학으로 표적별 섭식유발 검증. Pseudotyped rabies(SADG-mCherry) 축 추적·세포표지. 이중색 역행표지(Fluoro-Gold·Retrobeads)로 축 담보화 정량. 단시냅스 rabies로 PVH 입력층 분석. 표적: aBNST·PVH·PVT·CEA·PAG·PBN·LHA.
 

@@ -6,7 +6,7 @@ updated: 2026-10-28
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 2-AG·anandamide–CB1/CB2 축은 시상하부·미주·gut 수준에서 섭식(특히 지방 선호)과 보상을 조절하는 지질 신호 시스템. 최형진 lab의 식욕·gut-brain 회로 연구에서 **말초(gut) endocannabinoid가 지방 섭취를 구동하는 기전**과 **말초 한정 CB1 표적 항비만 전략**의 개념 hub.
+> 2-AG·anandamide–CB1/CB2 축은 hypothalamus·미주·gut 수준에서 섭식(특히 지방 선호)과 보상을 조절하는 지질 신호 시스템. 최형진 lab의 식욕·gut-brain 회로 연구에서 **말초(gut) endocannabinoid가 지방 섭취를 구동하는 기전**과 **말초 한정 CB1 표적 항비만 전략**의 개념 hub.
 
 # Endocannabinoid system (내인성 카나비노이드 시스템)
 
@@ -24,7 +24,7 @@ Arachidonic acid에서 요구 시 생성되어 CB1·CB2 G단백질 결합 수용
 
 ### 두 번째 얼굴 — 중추 시냅스 학습 규칙 (eCB-LTP)
 같은 리간드·수용체가 중추에서는 **시냅스 가소성 규칙 자체**로 작동한다 (→ [[piette-2026-striatal-endocannabinoids-drive-one-shot]], [[concept-one-shot-learning]]).
-- **eCB-LTP**: 등외측 선조체(DLS) corticostriatal 시냅스에서 **~15회 post-pre 짝짓기**(1 Hz)만으로 유도되는 장기 강화. 100회 짝짓기가 필요한 NMDA-LTP와 분업.
+- **eCB-LTP**: 등lateral striatum(DLS) corticostriatal 시냅스에서 **~15회 post-pre 짝짓기**(1 Hz)만으로 유도되는 장기 강화. 100회 짝짓기가 필요한 NMDA-LTP와 분업.
 - **요건**: **presynaptic CB1R + D2R 모두 필요**(둘 중 하나만 결손돼도 소실). 낮은 빈도(0.1 Hz)에서도 작동하고 **spike-timing jitter에 강건**.
 - **부위 특이성**: DLS에서만 유도, **DMS에서는 불가**.
 - **행동적 역할**: 단 한 번 수 초의 경험으로 만들어지는 **one-shot 기억의 필수 기질**. CB1R 조건부 KO·DLS 국소 AM251이 단일시행 학습을 막고, NMDAR 차단(D-AP5)은 무영향. 두 번째 인출 시점엔 불필요 → **최초 각인(priming) 전용**.
@@ -35,7 +35,7 @@ Arachidonic acid에서 요구 시 생성되어 CB1·CB2 G단백질 결합 수용
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — gut endocannabinoid가 CB1 경유로 지방 섭취를 구동함을 규명한 대표 논문(말초 축).
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 같은 시스템의 **중추 축**: DLS eCB-LTP가 one-shot learning의 시냅스 기질 (Nat Neurosci 2026, Venance lab).
 - [[concept-one-shot-learning]] — eCB-LTP가 속한 비고전적 가소성 규칙 개념 hub.
-- [[concept-medium-spiny-neuron]] — eCB-LTP가 표현되는 선조체 주 뉴런.
+- [[concept-medium-spiny-neuron]] — eCB-LTP가 표현되는 striatum 주 뉴런.
 - [[concept-hedonic-hotspot]] — NAc shell 핫스폿에서 엔도카나비노이드가 '좋아함'을 증폭하는 세 번째 축.
 - [[concept-fat-taste]] — 구강 지방 감각이 gut endocannabinoid 동원의 상류 자극.
 - [[concept-vagal-afferent-neurons]] — CB1은 vagal fiber에 존재하며 gut-brain 신호 조절.
@@ -46,5 +46,5 @@ Arachidonic acid에서 요구 시 생성되어 CB1·CB2 G단백질 결합 수용
 - [[thoeni-2020-depression-of-accumbal-to]] — **네 번째 축 — 억제성 시냅스의 상태 의존 i-LTD**(Neuron 2020, Lüscher lab). NAcSh D1-MSN→LH **억제성** 시냅스에서 CB1R 작용제(WIN55,212-2 2 µM)가 i-LTD를 만들고, **급성 식이제한·3일 고지방식 상태에서는 tonic CB1R 신호가 이 시냅스를 이미 눌러 두고 있어** FSK나 길항제 SR141716A로 i-LTP가 "드러난다". 체중 회복 후 1주면 소실. 전신(10 mg/kg i.p.)·**LH 국소(1.5 µg/side)** CB1R 차단이 보상 과식과 HFD 체중 증가를 함께 막는다. ⚠️ 두 가지 병기: ⑴ 위 [[piette-2026-striatal-endocannabinoids-drive-one-shot|eCB-LTP]]는 **흥분성 시냅스 강화·CB1R+D2R 필요**인데 이쪽은 **억제성 약화**이고 반대 방향(i-LTP)에 **D1R**이 필요하다 — 같은 리간드가 시냅스 종류별로 정반대 규칙을 쓴다. ⑵ 이 논문이 쓴 약물이 곧 **rimonabant(SR141716A)** 이고 효능만 보고한다(행동 부작용 미평가) — 본 페이지의 철회 서술과 함께 읽어야 하며, LH 국소 데이터는 오히려 **말초 한정·국소 접근**의 근거로 읽는 것이 정합적이다.
 - [[concept-oxylipins]] — 같은 PUFA(아라키돈산·EPA) 계열의 **또 다른 지질 messenger**이나 대사 출력은 대조적: gut eCB–CB1은 지방 섭취를 **늘리고**([[dipatrizio-2011-endocannabinoid-signal-in-the-gut]]), 12(S)-HEPE–Or5v1/Olfr110은 간 지방산화를 **켠다**([[ge-2026-identification-of-or5v1-olfr110]]).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 후속 질문 5에서 eCB/CB1 기전은 별도의 분자·인과 검증이 필요하다고 명시.
-- ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **다섯 번째 축 — 섭식이 아닌 "맥락 저울"을 쥔 CB1R**: POMC 뉴런의 CB1R(POMC-CB1-KO, 시상하부 POMC의 80%+ *Cnr1* 결손)이 **학습된 위협과 배고픔 사이의 선택**과 HPA 반응(ACTH·CORT)을 조절한다. ⚠️ 결정적으로 이 KO는 **체중·섭취·재급식이 전부 정상**이라 위 축들의 섭식·보상 효과와 **해리**되고, 기저 HPA(일주기 CORT)·공포 학습도 정상이며 효과는 **수컷 한정**이다. 같은 CB1R-POMC 모듈이 cannabinoid hyperphagia(β-endorphin 경유)로도 알려져 있으므로 **한 문장으로 합치지 말 것**(β-endorphin은 미측정). rimonabant류 정신과 부작용을 읽는 세포 좌표(본 논문은 약물을 다루지 않음 — 연결 가설) (Adv Sci 2026, Cota·Marsicano lab).
+- ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **다섯 번째 축 — 섭식이 아닌 "맥락 저울"을 쥔 CB1R**: POMC 뉴런의 CB1R(POMC-CB1-KO, hypothalamus POMC의 80%+ *Cnr1* 결손)이 **학습된 위협과 배고픔 사이의 선택**과 HPA 반응(ACTH·CORT)을 조절한다. ⚠️ 결정적으로 이 KO는 **체중·섭취·재급식이 전부 정상**이라 위 축들의 섭식·보상 효과와 **해리**되고, 기저 HPA(일주기 CORT)·공포 학습도 정상이며 효과는 **수컷 한정**이다. 같은 CB1R-POMC 모듈이 cannabinoid hyperphagia(β-endorphin 경유)로도 알려져 있으므로 **한 문장으로 합치지 말 것**(β-endorphin은 미측정). rimonabant류 정신과 부작용을 읽는 세포 좌표(본 논문은 약물을 다루지 않음 — 연결 가설) (Adv Sci 2026, Cota·Marsicano lab).
 - [[person-cota-daniela]] — Marsicano와 공동으로 ARC POMC의 CB1 축을 다루는 lab. rimonabant 부작용의 세포 좌표 연결 가설([[miralpeix-2026-hypothalamic-pomc-neurons-gate]])의 출처.

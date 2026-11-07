@@ -6,7 +6,7 @@ updated: 2026-07-09
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Wassum은 **편도(BLA)와 그 피질 입력(OFC)이 보상의 ‘가치’를 어떻게 배우고·저장하고·꺼내 쓰는가**를 실시간 글루타메이트 생체센서 + 투사특이 광유전/화학유전으로 분해하는 UCLA 연구자다. 그의 [[malvaez-2019-distinct-cortical-amygdala-projections-drive|lOFC→BLA(부호화)/mOFC→BLA(인출) 이중해리]]와 opioid ‘좋아함’ vs ‘갈망’ 분리(Wassum 2009)는 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]]·[[concept-liking-wanting]] 이론에 **상태의존 reward value의 회로 기질**을 제공. 동물 reward-valuation 회로 쪽 끝을 채우는 hub 인물.
+> Wassum은 **amygdala(BLA)와 그 cortex 입력(OFC)이 보상의 ‘가치’를 어떻게 배우고·저장하고·꺼내 쓰는가**를 실시간 글루타메이트 생체센서 + 투사특이 광유전/화학유전으로 분해하는 UCLA 연구자다. 그의 [[malvaez-2019-distinct-cortical-amygdala-projections-drive|lOFC→BLA(부호화)/mOFC→BLA(인출) 이중해리]]와 opioid ‘좋아함’ vs ‘갈망’ 분리(Wassum 2009)는 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]]·[[concept-liking-wanting]] 이론에 **상태의존 reward value의 회로 기질**을 제공. 동물 reward-valuation 회로 쪽 끝을 채우는 hub 인물.
 
 # Kate M. Wassum
 
@@ -27,4 +27,4 @@ updated: 2026-07-09
 - [[concept-liking-wanting]] — palatability vs value 분리(Wassum 2009).
 - [[concept-need-motivation-pleasure-utility]] — Need→reward value 상태의존 갱신 기질.
 - [[person-sharpe-melissa]] — LH outcome-specific 학습(BLA identity-specific와 대비·협업 맥락).
-- [[person-choi-hyung-jin]] — 사용자. 시상하부 Need 회로 쪽 끝; Wassum은 편도-피질 value 쪽 끝.
+- [[person-choi-hyung-jin]] — 사용자. hypothalamus Need 회로 쪽 끝; Wassum은 amygdala-cortex value 쪽 끝.

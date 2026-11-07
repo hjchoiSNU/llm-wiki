@@ -12,7 +12,7 @@ aliases: [MSN, medium spiny neuron, D1 MSN, D2 MSN, direct pathway, indirect pat
 # Medium spiny neuron (MSN)
 
 ## 한 줄 요약
-Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 주 투사 뉴런으로, dendrite에 dendritic spine이 조밀한 GABAergic 뉴런. 발현 도파민 수용체에 따라 **D1형(DRD1) direct pathway MSN**과 **D2형(DRD2) indirect pathway MSN**으로 크게 나뉜다.
+Striatum(dorsal) 및 [[concept-nucleus-accumbens|nucleus accumbens]](ventral)의 주 투사 뉴런으로, dendrite에 dendritic spine이 조밀한 GABAergic 뉴런. 발현 도파민 수용체에 따라 **D1형(DRD1) direct pathway MSN**과 **D2형(DRD2) indirect pathway MSN**으로 크게 나뉜다.
 
 ## 핵심 내용
 - **분자 표지**:
@@ -20,12 +20,12 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
   - **D2 MSN**: DRD2, ADORA2A(A2A 수용체), enkephalin(PENK). indirect pathway(억제 경향).
 - **회로**: D1 MSN은 basal ganglia output 핵으로 직접 투사(direct), D2 MSN은 external globus pallidus 경유(indirect). NAc에서는 이 이분법이 보상 접근 vs 회피/혐오와 연결되나 shell/core·subtype에 따라 복잡.
 - **이질성**: 전통적 D1/D2 이분법을 넘어 다수의 전사적 subtype이 존재하며, 인간 NAc에서는 discrete cluster + **연속 공간 gradient**로 조직됨(→ [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]]). OPRM1+ D1 island 같은 특화 구획도 포함.
-- **기능적 해리**: NAc shell의 D1/D2 MSN이 섭식·동기에서 서로 다른 역할을 함(→ [[guillaumin-2023-disentangling-the-role-of-nac]]). 등외측 선조체에서는 dSPN(D1)/iSPN(D2)가 방향 조종(steering)과 행동 횟수 세기(counting)를 push–pull(accumulator vs leak)로 해리 제어(→ [[fallon-2026-striatal-pathways-dissociably-control-action]]).
+- **기능적 해리**: NAc shell의 D1/D2 MSN이 섭식·동기에서 서로 다른 역할을 함(→ [[guillaumin-2023-disentangling-the-role-of-nac]]). 등lateral striatum에서는 dSPN(D1)/iSPN(D2)가 방향 조종(steering)과 행동 횟수 세기(counting)를 push–pull(accumulator vs leak)로 해리 제어(→ [[fallon-2026-striatal-pathways-dissociably-control-action]]).
 
 - **학습률의 D1/D2 구현 제안**: [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]](STAR model discussion B)은 보상 방문의 학습률 α를 DA burst → D1 SPN 입력 가소성으로, 비보상 방문의 감쇠 β(≈1−α)를 DA pause → D2 SPN 입력 가소성으로 구현하고, 선택 ≃ W_D1 − W_D2(OpAL과 유사)로 본다. 도파민은 가중치 변화의 **부호가 아니라 배율**을 정한다는 해석이다(검증 전 가설; [[concept-dopamine-learning-rate]]).
 
 ## 관련 페이지
-- [[concept-nucleus-accumbens]] — MSN이 주 뉴런인 배쪽 striatum 구조.
+- [[concept-nucleus-accumbens]] — MSN이 주 뉴런인 ventral striatum 구조.
 - [[concept-dopamine-reward-system]] — D1/D2 MSN이 도파민 신호를 받는 최종 표적.
 - [[ravichandran-2026-spatiomolecular-mapping-reveals-anatomical]] — 인간 NAc MSN subtype의 공간·분자 정체 규명.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1/D2 MSN 기능 해리.
@@ -36,17 +36,17 @@ Striatum(등쪽) 및 [[concept-nucleus-accumbens|nucleus accumbens]](배쪽)의 
 - [[concept-one-shot-learning]] — SPN 시냅스에서 작동하는 비고전적 가소성 규칙(eCB-LTP vs NMDA-LTP) 개념 hub.
 - [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — D1r MSN(VS/DS)이 미각/영양 보상 부호화.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1이 PV+FSI 매개 feedforward inhibition으로 MSN assembly 조직.
-- [[zhang-2026-inherited-input-and-local-transformations]] — dSPN/iSPN 신호가 **어디서 만들어지는가**: 선조체 전역 칼슘 × 글루탐산 입력 병렬 측정으로 cue 위치·licking은 **상속**, pDMS 경로대립 가치·pVLS dSPN ramping은 **국소 변환**임을 해리 (bioRxiv 2026, Howe lab).
+- [[zhang-2026-inherited-input-and-local-transformations]] — dSPN/iSPN 신호가 **어디서 만들어지는가**: striatum 전역 칼슘 × 글루탐산 입력 병렬 측정으로 cue 위치·licking은 **상속**, pDMS 경로대립 가치·pVLS dSPN ramping은 **국소 변환**임을 해리 (bioRxiv 2026, Howe lab).
 - [[concept-dynorphin-kappa-opioid]] — D1 MSN의 정의 마커 `PDYN`이 속한 dynorphin/KOR 개념 hub.
-- [[luscher-2021-consolidating-the-circuit-model-for]] — **D1/D2-MSN 분업이 중독의 두 축에 대응**: D1R-MSN=양성강화(중뇌 GABA 되먹임·locomotor sensitization·cue 추구, 만성 노출 후 투사 강화), D2R-MSN=음성강화(BLA CCK⁺·PVT 입력, VP 투사 presynaptic depression=[[concept-anhedonia|anhedonia]], BLA 입력 강화=incubation of craving). 둘의 수렴점이 [[concept-ventral-pallidum|VP]]. OFC→DST potentiation은 예외적으로 **양 SPN 계열에서 동시에** 일어난다 (Annu Rev Neurosci 2021).
+- [[luscher-2021-consolidating-the-circuit-model-for]] — **D1/D2-MSN 분업이 중독의 두 축에 대응**: D1R-MSN=양성강화(midbrain GABA 되먹임·locomotor sensitization·cue 추구, 만성 노출 후 투사 강화), D2R-MSN=음성강화(BLA CCK⁺·PVT 입력, VP 투사 presynaptic depression=[[concept-anhedonia|anhedonia]], BLA 입력 강화=incubation of craving). 둘의 수렴점이 [[concept-ventral-pallidum|VP]]. OFC→DST potentiation은 예외적으로 **양 SPN 계열에서 동시에** 일어난다 (Annu Rev Neurosci 2021).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — D2R-Penk MSN = **2-AG 생산 세포**; D1R⁻ 시냅스에서 DSE·tonic eCB가 흥분성 편향을 형성 (Nature 2026).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — 추적 문헌 일반 원칙의 참조점: 같은 구조 안의 **비중첩 세포타입이 유사한 입력 패턴**을 갖는 사례로 선조체 **D1 vs D2 MSN**이 인용된다. 즉 '입력 지형이 비슷하다'는 결과는 두 집단이 기능적으로 같음을 뜻하지 않는다 (Front Neuroanat 2015 Discussion).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — 추적 문헌 일반 원칙의 참조점: 같은 구조 안의 **비중첩 세포타입이 유사한 입력 패턴**을 갖는 사례로 striatum **D1 vs D2 MSN**이 인용된다. 즉 '입력 지형이 비슷하다'는 결과는 두 집단이 기능적으로 같음을 뜻하지 않는다 (Front Neuroanat 2015 Discussion).
 - [[cunningham-2026-early-life-experiences-the-neural]] — **D1 vs D2 MSN의 스트레스 분업**: D1 MSN 활성화는 만성 스트레스 **회복력**, D2 MSN 활성화는 **취약성**을 촉진. 초기역경에서 NAc **H3K79me2** 변화와 DOT1L·KDM2B 발현 변화가 **Drd2⁺ 세포에 특이적**으로 일어나며, Drd2-MSN에서 Dot1l을 넉다운하면 취약성이 되돌아가고 과발현하면 표현형이 재현된다 (NRN 2026, Maze lab).
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — MSN이 받는 **도파민 입력 자체가 공간적으로 조직**돼 있다: 전방·복측은 가치·이력, 후방·배측은 핥기·감각운동 신호를 받고, **아구역 간 도파민 전파는 초 단위에서 일어나지 않는다**(한 부위 말단 자극이 다른 부위 DA를 거의 올리지 않음) → 선조체 아구역별 MSN 가소성 규칙의 차이를 "도파민이 흘러왔다"로 설명하기 어렵다 (Neuron 2026, Stuber lab).
-- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — SPN이 중뇌 글루타메이트 입력에 **직접 흥분되면서도 순 억제**되는 경로(DA-GLU→[[concept-striatal-cholinergic-interneuron|ChI]]→nAChR→GABA 개재뉴런→GABA_A). D1/D2 수용체 논리 **밖**의 SPN 출력 제어 축.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — MSN이 받는 **도파민 입력 자체가 공간적으로 조직**돼 있다: 전방·ventral는 가치·이력, 후방·dorsal는 핥기·감각운동 신호를 받고, **아구역 간 도파민 전파는 초 단위에서 일어나지 않는다**(한 부위 말단 자극이 다른 부위 DA를 거의 올리지 않음) → striatum 아구역별 MSN 가소성 규칙의 차이를 "도파민이 흘러왔다"로 설명하기 어렵다 (Neuron 2026, Stuber lab).
+- [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — SPN이 midbrain 글루타메이트 입력에 **직접 흥분되면서도 순 억제**되는 경로(DA-GLU→[[concept-striatal-cholinergic-interneuron|ChI]]→nAChR→GABA interneuron→GABA_A). D1/D2 수용체 논리 **밖**의 SPN 출력 제어 축.
 - [[oconnor-2015-accumbal-d1r-neurons-projecting]] — ⚠️ **NAc에서 D1/D2 = direct/indirect 이분법이 왜 성립하지 않는지**를 보여주는 투사 데이터(Neuron 2015, Lüscher lab). NAc medial shell에서 **LH로 가는 억제성 투사는 D1R-MSN이 93.6%**(CTB⁺ 1,246개 중 1,173개; D2R-MSN은 5.2%)이고, D1R-MSN의 60.3%는 LH로 가지 않는다 → 수용체 표지는 **투사 표적을 하나로 지정하지 않는다**. 저자들은 본문에서 **Kupchik 2015**(Nat Neurosci 18:1230, "accumbens 투사에서 D1/D2의 direct/indirect 부호화는 성립하지 않는다")를 직접 인용한다. 기능도 아집단별로 갈린다: 이 LH 투사 D1R-MSN의 활성은 **섭취를 중단**시키고 억제는 **포만 상태에서 섭취를 개시**시킨다.
 - [[thoeni-2020-depression-of-accumbal-to]] — ⚠️ 위 이분법 비판을 **투사군 분리 + 가소성 규칙**으로 확장(Neuron 2020, 같은 lab). 이중 CTB 역추적에서 **LH 투사 MSN은 VP 투사와 3.6%, VTA 투사와 11.1%만 중복**(세포체는 섞임)이고, D1 비율은 **VP 45.6% < LH 81.3%**, **LH 76.5% < VTA 96.6%** — 표적이 멀어질수록 D1 지배. 더 중요한 것은 **같은 D1-MSN의 말단이 표적별로 다른 가소성 규칙을 쓴다**는 점이다: forskolin이 D1-MSN→VP에서는 억제성 i-LTP를 만들지만 D1-MSN→LH에서는 못 만들고, **급성 식이제한·고지방식 상태에서만**(eCB–CB1R 의존 i-LTD가 선행했기 때문에) 드러난다. 저자들이 인용한 **Pardo-Garcia 2019**는 VP·VTA 투사는 서로 크게 겹친다고 보고하므로, 이 분리는 **LH 투사에 특유**하다. → "D1-MSN"은 전사·투사뿐 아니라 **시냅스 가소성 수준에서도 단일 집단이 아니다**.
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA 입력은 dSPN/iSPN 비특이, **striosome에서 NMDA/AMPA 비↑**, DLS에서 **원위 수상돌기(~100 μm) 편향** → upstate gating으로 수렴 입력 증폭 (Neuron 2026).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. DLS dSPN·iSPN(D1-Cre·A2a-Cre) 단일세포 종단 기록으로 음식 추구의 습관화와 실제 섭취의 연결을 검증하는 설계.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — DA burst → D1 SPN(α) / DA pause → D2 SPN(β) 가소성으로 학습률을 구현한다는 기전 제안(검증 전 가설).
-- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — actor–critic과 달리 **복측 선조체를 정책을 정하는 actor의 일부**로 보는 제안. DA는 피질선조체 가소성의 학습률(eligibility trace를 DA burst 시점에 읽음).
+- [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — actor–critic과 달리 **ventral striatum를 정책을 정하는 actor의 일부**로 보는 제안. DA는 cortexstriatum 가소성의 학습률(eligibility trace를 DA burst 시점에 읽음).

@@ -9,7 +9,7 @@ year: 2023
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> GIP·GLP-1의 **조직별 수용체 발현 지도**와 **작용 대조표**의 표준 레퍼런스. 핵심: (1) 중추에서 **GIPR agonism과 antagonism이 둘 다 체중을 줄이는 역설**을 정리, (2) 두 수용체가 대부분 조직에서 **간접(신경·혈류·면역세포 경유)** 작동, (3) **GIPR는 다수가 비뉴런(oligodendrocyte·pericyte)**. 사용자 lab의 시상하부·후뇌 회로 가설과 tirzepatide 기전 논의의 개념 뼈대(Nature Reviews Endocrinology 2023).
+> GIP·GLP-1의 **조직별 수용체 발현 지도**와 **작용 대조표**의 표준 레퍼런스. 핵심: (1) 중추에서 **GIPR agonism과 antagonism이 둘 다 체중을 줄이는 역설**을 정리, (2) 두 수용체가 대부분 조직에서 **간접(신경·혈류·면역세포 경유)** 작동, (3) **GIPR는 다수가 비뉴런(oligodendrocyte·pericyte)**. 사용자 lab의 hypothalamus·hindbrain 회로 가설과 tirzepatide 기전 논의의 개념 뼈대(Nature Reviews Endocrinology 2023).
 
 # Beyond the pancreas: contrasting cardiometabolic actions of GIP and GLP1 (Hammoud & Drucker 2023)
 
@@ -31,6 +31,6 @@ GIP와 GLP-1의 췌장 밖(근육·간·지방·뼈·면역·신장·심혈관·
 - [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — 중추 GABAergic GIPR 의존성(본 리뷰 Neural actions 근거).
 - [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] — 비뉴런(oligodendrocyte) GIPR(본 리뷰 발현 지도와 정합).
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — AMG-133(본 리뷰가 임상 진입 예고).
-- [[concept-dorsal-vagal-complex]] — GLP-1/GIP 후뇌(NTS·AP) 무대.
+- [[concept-dorsal-vagal-complex]] — GLP-1/GIP hindbrain(NTS·AP) 무대.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 다중작용·경구 흐름의 개념 선행.
 - [[gonzalez-rellan-2026-weight-loss-independent-actions-of]] — 같은 저자의 후속 논지 심화: 췌장외 작용을 **체중 감소 독립성**의 관점으로 재정리 (Cell Metab 2026).

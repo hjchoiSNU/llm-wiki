@@ -11,7 +11,7 @@ journal: "Nature Communications 17:4620 (접수 2024-07-30, 채택 2026-03-09); 
 
 > [!takeaway] 연구 방향 관점의 핵심
 > 위키가 바로 어제 "**mPFC→LH 전용 1차 원전 없음**"이라고 공백으로 기록한 자리를 메우는 논문이다([[concept-prefrontal-cortex-feeding]]). 핵심 주장은 **mPFC→LHA가 스트레스를 과식으로 번역하는 데 필수적이되, 평상시 섭식에는 불필요한 "조건부(conditional)" 경로**라는 것이다. ① 경로 **5 Hz** 광자극이 기호성 지방 섭취를 늘리고(1 Hz·10 Hz는 무효), chow는 안 늘린다 — 효과는 **세션 초반이 아니라 후반**, 즉 음식 흥미가 꺼질 때 "계속 먹게" 하는 쪽이다. ② 사회 패배가 mPFC-LHA 뉴런을 **즉시 양방향으로** 변조한다(26 cells: 억제 13 / 흥분 7 / 무변 6). ③ hM4Di로 이 경로를 억제하면 **스트레스성 과잉 섭취만 완전히 사라지고**(비스트레스군 섭식은 불변, chow 불변), 운동량·불안은 그대로다. ④ 회로 지도상 mPFC는 **LHA^VGAT·LHA^VGLUT2·LHA^OREX·LHA^MCH 네 집단 모두에** 단시냅스 흥분성 입력을 주지만, 스트레스가 변화시키는 곳은 **LHA^VGLUT2 시냅스뿐**(EPSC↓ U=342 p=0.0152, PPR↑ = 전시냅스 방출확률↓; VGAT·OREX는 무변). ⑤ 그 변화가 **투사 표적별로 부호가 갈린다** — 섭식을 끄는 **peri-PVN 투사 LHA^VGLUT2로 가는 mPFC 시냅스는 약화**되고, 스트레스 과식을 매개하는 **VTA 투사 LHA^VGLUT2로 가는 시냅스는 강화**된다. ⑥ TRAP2로 태깅한 **mPFC^SOCIAL-STRESS 앙상블은 glutamatergic LHA에 선택적으로 연결**되고(LHA^VGAT에는 거의 입력 없음), 그 앙상블→LHA 5 Hz 자극만으로 지방 섭취가 늘어난다. ⑦ **스트레스 중 LHA^VGLUT2를 억제하면 이후의 폭식이 예방**된다.
-> 사용자 연구에 닿는 지점 넷. (1) **[[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]와의 부호 충돌이 "세포타입별 분기"로 해소될 수 있다** — 그쪽은 PFC→LH가 LH^LepR(대부분 GABAergic)를 **억제**하는 anxiogenic brake이고(저자들도 다시냅스 추정), 이쪽은 mPFC→LHA^VGLUT2가 **단시냅스 흥분성** drive다. 본 논문의 스트레스 앙상블이 **LHA^VGAT에 거의 입력을 주지 않는다**는 결과가 그 분기를 지지한다(연결 해석 — 두 논문 모두 이렇게 쓰지 않았다). (2) **주파수가 좁다**: 5 Hz만 듣고 10 Hz는 이미 실패하며 20 Hz·연속 화학유전은 chow 섭취를 **줄인다**(선행 연구). [[concept-transcranial-electrical-stimulation|tES]]·[[concept-temporal-interference-stimulation|tTIS]] 설계에서 "mPFC-LHA를 켠다/끈다"가 아니라 **어느 주파수로 어떤 분기를 켜는가**가 결과 부호를 정한다. (3) **[[linders-2022-stress-driven-potentiation-of-lateral|Linders 2022]]와 한 사슬로 이어진다**(같은 Utrecht Adan·Meye lab): 본 논문 = mPFC→LHA^VGLUT2-VTA 시냅스 강화, Linders = 그 하류 LHA^glut→VTA^DA 시냅스 강화·1 Hz LFS로 역전 가능. **피질에서 중뇌까지 세 시냅스가 같은 스트레스 과식 축으로 정렬된다.** (4) **종결점 설계**: 본 논문의 효과는 총 섭취량보다 **"흥미가 꺼질 시점에 계속 먹는가"**(post-binge phase)에서 드러난다 — 인간 DTx·신경조절 종결점을 식사량이 아니라 **식사 후반의 지속성·bout 구조**로 두어야 할 근거.
+> 사용자 연구에 닿는 지점 넷. (1) **[[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]]와의 부호 충돌이 "세포타입별 분기"로 해소될 수 있다** — 그쪽은 PFC→LH가 LH^LepR(대부분 GABAergic)를 **억제**하는 anxiogenic brake이고(저자들도 다시냅스 추정), 이쪽은 mPFC→LHA^VGLUT2가 **단시냅스 흥분성** drive다. 본 논문의 스트레스 앙상블이 **LHA^VGAT에 거의 입력을 주지 않는다**는 결과가 그 분기를 지지한다(연결 해석 — 두 논문 모두 이렇게 쓰지 않았다). (2) **주파수가 좁다**: 5 Hz만 듣고 10 Hz는 이미 실패하며 20 Hz·연속 화학유전은 chow 섭취를 **줄인다**(선행 연구). [[concept-transcranial-electrical-stimulation|tES]]·[[concept-temporal-interference-stimulation|tTIS]] 설계에서 "mPFC-LHA를 켠다/끈다"가 아니라 **어느 주파수로 어떤 분기를 켜는가**가 결과 부호를 정한다. (3) **[[linders-2022-stress-driven-potentiation-of-lateral|Linders 2022]]와 한 사슬로 이어진다**(같은 Utrecht Adan·Meye lab): 본 논문 = mPFC→LHA^VGLUT2-VTA 시냅스 강화, Linders = 그 하류 LHA^glut→VTA^DA 시냅스 강화·1 Hz LFS로 역전 가능. **cortex에서 midbrain까지 세 시냅스가 같은 스트레스 과식 축으로 정렬된다.** (4) **종결점 설계**: 본 논문의 효과는 총 섭취량보다 **"흥미가 꺼질 시점에 계속 먹는가"**(post-binge phase)에서 드러난다 — 인간 DTx·신경조절 종결점을 식사량이 아니라 **식사 후반의 지속성·bout 구조**로 두어야 할 근거.
 
 # A prefrontal cortex-lateral hypothalamus circuit controls stress-driven increased food intake (Supiot et al. 2026)
 
@@ -59,7 +59,7 @@ mPFC→LHA 경로는 평상시 섭식에는 불필요하지만 **스트레스성
 - **기전은 전시냅스**: mPFC→LHA^VGLUT2에서 **PPR 증가**(두방향 RM ANOVA 군 주효과 F(1,37)=4.55; IPI 60·100·200 ms; control 19/10, stress 20/11) = **방출확률 저하**. 후시냅스 glutamate 수용체 분포 불변, LHA 세포 흥분성·기본 막특성 불변.
 - **다른 modality로 재현**: **restraint stress**도 이후 지방 섭취를 늘리고, mPFC→LHA^VGLUT2 EPSC를 줄이고 PPR을 올린다 → 사회 스트레스에 국한된 현상이 아니다.
 - ★ **투사 표적별로 부호가 갈린다**(역행 표지로 LHA^VGLUT2 하위집단 구분):
-  - **peri-PVN 투사**(제3뇌실 주변 midline hypothalamic; 혐오 처리·섭식 **억제**와 연관, 자극 시 섭취를 끈다): 스트레스 후 **PPR↑ = mPFC 시냅스 약화**.
+  - **peri-PVN 투사**(third ventricle 주변 midline hypothalamic; 혐오 처리·섭식 **억제**와 연관, 자극 시 섭취를 끈다): 스트레스 후 **PPR↑ = mPFC 시냅스 약화**.
   - **VTA 투사**: 스트레스 후 **PPR↓ = mPFC 시냅스 강화**(방출확률 상승).
   - **LHb 투사**: PPR 변화 없음.
 - 저자 해석: **섭식을 줄이는 쪽으로 가는 mPFC 시냅스는 약화, 섭식을 늘리는 쪽으로 가는 시냅스는 강화** → 네트워크 전체가 기호식 과식을 선호하도록 이동.
@@ -83,8 +83,8 @@ mPFC→LHA 경로는 평상시 섭식에는 불필요하지만 **스트레스성
 ### Discussion에서 저자들이 스스로 세운 틀과 유보
 - **"조건부 경로"**: 평상시 섭식에 불필요(선행 연구와 일치)하고 스트레스로만 역할이 드러난다. 또 ad libitum 상태였기 때문에 음식 흥미가 빨리 꺼져 경로의 역할이 더 잘 보였을 수 있으므로, **금식 여부에 따라 결과가 달라질 것**이라고 명시.
 - **"단일 경로가 아니라 multi-branched network"**: mPFC는 LHA^VGAT·VGLUT2·OREX·MCH에 모두 들어가고, mPFC가 접촉하는 glutamatergic LHA는 다시 **VTA·LHA 국소·peri-PVN**으로 분기한다. 전역 경로 조작·측정은 **여러 하위경로의 순합**을 본다는 점을 반드시 고려해야 한다.
-- **완전 collateral은 아니다**: 앙상블 실험에서 **glutamatergic에는 시냅스를 주되 GABAergic에는 주지 않는** mPFC 뉴런, 혹은 LHA^MCH 같은 특정 펩타이드 집단에만 주는 뉴런이 관찰됨.
-- **"섭식 중 dip"의 해석 두 가지**: ① ARC AgRP 뉴런처럼(자극하면 섭식↑, 실제 섭취 중에는 활동 dip) **조건부 에너지 요구 신호**일 수 있다. ② 혹은 **"다른 활동으로 넘어가지 말고 기호식에 계속 관여하라"는 engagement 신호**이고, 실제 소비를 위해서는 그 활동이 잠시 내려가야 한다(seeking↔consumption 전환). 여기서 저자들은 **피질→LHA 입력이 행동 전환 부호화에 참여한다**는 최근 근거를 인용한다(ref 44 = **Chen C. et al., "The dynamic state of a prefrontal–hypothalamic–midbrain circuit commands behavioral transitions", Nat Neurosci 2024**, doi:10.1038/s41593-024-01598-3 — 위키에 1차 페이지 없음).
+- **완전 collateral는 아니다**: 앙상블 실험에서 **glutamatergic에는 시냅스를 주되 GABAergic에는 주지 않는** mPFC 뉴런, 혹은 LHA^MCH 같은 특정 펩타이드 집단에만 주는 뉴런이 관찰됨.
+- **"섭식 중 dip"의 해석 두 가지**: ① ARC AgRP 뉴런처럼(자극하면 섭식↑, 실제 섭취 중에는 활동 dip) **조건부 에너지 요구 신호**일 수 있다. ② 혹은 **"다른 활동으로 넘어가지 말고 기호식에 계속 관여하라"는 engagement 신호**이고, 실제 소비를 위해서는 그 활동이 잠시 내려가야 한다(seeking↔consumption 전환). 여기서 저자들은 **cortex→LHA 입력이 행동 전환 부호화에 참여한다**는 최근 근거를 인용한다(ref 44 = **Chen C. et al., "The dynamic state of a prefrontal–hypothalamic–midbrain circuit commands behavioral transitions", Nat Neurosci 2024**, doi:10.1038/s41593-024-01598-3 — 위키에 1차 페이지 없음).
 - **자극 방식이 결과를 가른다**: 선행 연구에서 **100 Hz burst는 평상 섭식에 무효**, **연속 화학유전 또는 20 Hz는 chow 섭취를 감소**시켰다. 본 연구의 **연속 5 Hz는 증가**, 1 Hz·10 Hz는 무효. LHA→VTA에서도 **5 Hz가 2.5 Hz·20 Hz보다 강하게** 섭식을 구동한다는 선행 보고가 있다. 10 Hz 실패는 ex vivo에서 **10 Hz mPFC 입력을 LHA^VGAT가 LHA^VGLUT2보다 덜 충실히 따라간다**는 소견과 함께, **주파수 자체보다 연속 전달 방식** 탓일 수 있다고 유보.
 - **명시한 미해결**: 개체별 취약성(stress-susceptible vs unsusceptible 분류)을 다루지 않았고, 투사 표적 분석은 **망라적이지 않으며**, "어느 하나의 하위분기가 단독으로 스트레스 과식을 책임진다고 주장하지 않는다".
 
@@ -105,7 +105,7 @@ mPFC→LHA 경로는 평상시 섭식에는 불필요하지만 **스트레스성
 
 ## 관련 페이지
 - [[concept-prefrontal-cortex-feeding]] — **PFC hub**. 이 페이지가 그 hub에 기록된 "mPFC→LH 전용 1차 원전 없음" 공백을 해소한다. drive 축의 LHA 분기 근거.
-- [[linders-2022-stress-driven-potentiation-of-lateral]] — **같은 lab의 하류 짝**(LHA^glut→VTA^DA 강화, 1 Hz LFS 역전). 본 논문과 합치면 피질→시상하부→중뇌 세 시냅스가 같은 축으로 정렬.
+- [[linders-2022-stress-driven-potentiation-of-lateral]] — **같은 lab의 하류 짝**(LHA^glut→VTA^DA 강화, 1 Hz LFS 역전). 본 논문과 합치면 cortex→hypothalamus→midbrain 세 시냅스가 같은 축으로 정렬.
 - [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — ⚠️ PFC→LH를 **brake**로 보는 1차 자료. 세포타입·시냅스 차수·성별·측정 축으로 분해해 병기.
 - [[concept-lateral-hypothalamus]] — 개념 hub. 상류 목록의 "mPFC → 식이 억제" 분류를 양방향으로 정밀화할 근거.
 - [[overview-lateral-hypothalamus-synthesis]] — LH 입출력 종합. 본 논문은 mPFC→LHA 행을 세포타입 4종·투사 3종으로 세분한다.
@@ -114,7 +114,7 @@ mPFC→LHA 경로는 평상시 섭식에는 불필요하지만 **스트레스성
 - [[hjort-2026-prefrontal-to-ventral-tegmental-area]] — mPFC→VTA 직접 경로. 본 논문의 mPFC→LHA→VTA 간접 경로와 **같은 종착점·다른 경유지**.
 - [[rossi-2021-transcriptional-and-functional-divergence]] · [[rossi-2019-obesity-remodels-activity-and]] — ⚠️ "LHA^Vglut2 = brake" 통념의 출처. 본 논문은 필요조건 반례.
 - [[nieh-2016-inhibitory-input-from-the]] — LH→VTA GABA/glutamate 이분법 원전. 본 논문의 VTA 투사 분기 해석의 배경.
-- [[concept-paraventricular-nucleus]] — **peri-PVN**(제3뇌실 주변) 투사 분기가 섭식 억제 쪽. 본 논문에서 이 분기로 가는 mPFC 시냅스가 약화된다.
+- [[concept-paraventricular-nucleus]] — **peri-PVN**(third ventricle 주변) 투사 분기가 섭식 억제 쪽. 본 논문에서 이 분기로 가는 mPFC 시냅스가 약화된다.
 - [[concept-lateral-habenula]] — LHb 투사 분기는 PPR 변화 없음(음성 결과).
 - [[concept-orexin-neurons]] · [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — LHA^OREX·LHA^MCH도 mPFC 입력을 받는다. 스트레스 앙상블은 OREX에 선택적으로 연결(Z=8.37, p=0.004).
 - [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] · [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — OREX·MCH가 VGLUT2+ 하위집단이라는 전사체 근거(본 논문의 세포 분류 전제).

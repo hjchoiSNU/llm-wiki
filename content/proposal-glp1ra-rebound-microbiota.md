@@ -1,17 +1,17 @@
 ---
-title: "[연구계획서] GLP-1RA 중단 후 체중 rebound의 microbiota–시상하부 회로 기전과 공동중재"
+title: "[연구계획서] GLP-1RA 중단 후 체중 rebound의 microbiota–hypothalamus 회로 기전과 공동중재"
 type: proposal
 created: 2026-06-02
 updated: 2026-09-19
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> [[overview-future-research-directions|향후 연구 방향]] Tier 1 #3의 구체화. GLP-1RA 시대 최대 미충족 수요 = **중단 후 rebound**([[barros-2026-from-diet-to-hypothalamic-dysfunction|중단 12주 내 참가자 71.4% 재증가]]). 핵심 가설: rebound은 단일 원인이 아니라 **① microbiota·담즙산·SCFA 신호의 reset 실패 + ② 시상하부 POMC/AMPK set-point 회로의 원상 복귀**가 동반된 현상이며, **중단 시점 microbiome 공동중재**(Akkermansia·SCFA·TGR5)가 이 reset을 막아 rebound을 완화한다. 사용자 lab의 GLP-1 뇌 회로 전문성([[kim-2024-glp-1-increases-preingestive-satiation|Science]]·[[kim-2025-mechanisms-of-glucagon-like-peptide|brain-wide 리뷰]])에 microbiome 축을 결합 — "약물 중단 후 유지" 전략 개척.
+> [[overview-future-research-directions|향후 연구 방향]] Tier 1 #3의 구체화. GLP-1RA 시대 최대 미충족 수요 = **중단 후 rebound**([[barros-2026-from-diet-to-hypothalamic-dysfunction|중단 12주 내 참가자 71.4% 재증가]]). 핵심 가설: rebound은 단일 원인이 아니라 **① microbiota·담즙산·SCFA 신호의 reset 실패 + ② hypothalamus POMC/AMPK set-point 회로의 원상 복귀**가 동반된 현상이며, **중단 시점 microbiome 공동중재**(Akkermansia·SCFA·TGR5)가 이 reset을 막아 rebound을 완화한다. 사용자 lab의 GLP-1 뇌 회로 전문성([[kim-2024-glp-1-increases-preingestive-satiation|Science]]·[[kim-2025-mechanisms-of-glucagon-like-peptide|brain-wide 리뷰]])에 microbiome 축을 결합 — "약물 중단 후 유지" 전략 개척.
 
-# [연구계획서] GLP-1RA 중단 후 rebound의 microbiota–시상하부 회로 기전과 공동중재
+# [연구계획서] GLP-1RA 중단 후 rebound의 microbiota–hypothalamus 회로 기전과 공동중재
 
 ## 1. 연구 제목
-**GLP-1 수용체 작용제(GLP-1RA) 중단 후 체중 rebound의 microbiota–시상하부 회로 기전 규명과 공동중재(co-intervention)를 통한 체중 유지 전략 개발**
+**GLP-1 수용체 작용제(GLP-1RA) 중단 후 체중 rebound의 microbiota–hypothalamus 회로 기전 규명과 공동중재(co-intervention)를 통한 체중 유지 전략 개발**
 
 ## 2. 배경 및 필요성
 - **rebound 문제**: semaglutide·tirzepatide는 강력하나 **중단 시 빠른 체중 재증가**가 핵심 한계 — [[barros-2026-from-diet-to-hypothalamic-dysfunction]]은 중단 후 **12주 71% rebound**과 microbiota·담즙산 동시 reset 실패를 rebound 핵심 기전으로 지목.
@@ -25,13 +25,13 @@ updated: 2026-09-19
 - **공백**: rebound이 microbiota·회로·set-point 중 **무엇이 먼저·어떻게** reset되어 일어나는지, 그리고 **공동중재로 차단 가능한지** 미규명.
 
 ## 3. 연구 가설
-> **GLP-1RA 중단 후 rebound은 microbiota–담즙산–SCFA 신호의 reset 실패와 시상하부 POMC/AMPK set-point 회로의 원상 복귀가 결합된 현상이며, 중단 시점의 microbiome 공동중재(Akkermansia·SCFA·TGR5 agonist)가 이 reset을 지연·차단하여 체중 유지를 가능케 한다.** ([[concept-need-motivation-pleasure-utility|NMPU]] 관점: 약물이 누른 Need/Pleasure 회로의 복귀를 microbiota가 gating.)
+> **GLP-1RA 중단 후 rebound은 microbiota–담즙산–SCFA 신호의 reset 실패와 hypothalamus POMC/AMPK set-point 회로의 원상 복귀가 결합된 현상이며, 중단 시점의 microbiome 공동중재(Akkermansia·SCFA·TGR5 agonist)가 이 reset을 지연·차단하여 체중 유지를 가능케 한다.** ([[concept-need-motivation-pleasure-utility|NMPU]] 관점: 약물이 누른 Need/Pleasure 회로의 복귀를 microbiota가 gating.)
 
 ## 4. 연구 목표 (Specific Aims)
 
 ### Aim 1 — 기전 분해: rebound의 microbiota vs 회로 vs set-point *(mouse, 종단)*
 - **모델**: GLP-1RA(semaglutide) 투여 → 중단 종단 추적(DIO 마우스).
-- **측정**: microbiota(16S·metagenome)·메타볼롬(SCFA·acetate·담즙산), 시상하부 회로([[concept-pomc-neurons|POMC]]/[[concept-npy-agrp-neurons|AgRP]] photometry, GPR43·AMPK·TGR5), 체중·체조성·에너지수지.
+- **측정**: microbiota(16S·metagenome)·메타볼롬(SCFA·acetate·담즙산), hypothalamus 회로([[concept-pomc-neurons|POMC]]/[[concept-npy-agrp-neurons|AgRP]] photometry, GPR43·AMPK·TGR5), 체중·체조성·에너지수지.
 - **인과**: 중단 시 **무엇이 먼저 reset되는가**(microbiota vs POMC tone vs set-point)를 FMT·GPR43/AMPK 조작([[concept-hypothalamic-ampk]]·[[person-lopez-miguel|López AMPK]])·gnotobiotic로 분해.
 
 ### Aim 2 — 공동중재: rebound 차단 검증 *(mouse)*
@@ -83,7 +83,7 @@ updated: 2026-09-19
 
 ## 2026-09-11 보강 — 제3의 기전 축: 시냅스 가소성
 
-본 제안은 rebound을 **microbiota reset 실패 + 시상하부 set-point 복귀** 두 축으로 설계했다. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]] ingest로 **독립적으로 검증 가능한 세 번째 축**이 확보됐다.
+본 제안은 rebound을 **microbiota reset 실패 + hypothalamus set-point 복귀** 두 축으로 설계했다. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]] ingest로 **독립적으로 검증 가능한 세 번째 축**이 확보됐다.
 
 - **가설 추가**: 약물 중단 후 rebound기에 **PVH^TRH → ARC^AgRP 시냅스 증폭**(양자 빈도↑, 전시냅스 방출 부위 수 증가)이 재현되며, 이 증폭이 rebound 섭취의 **후반 성분(8–24시간 이후)** 을 매개한다.
 - **측정**: 광유전 **le-qEPSC**(Sr²⁺ 비동기 방출)로 PVH^TRH·DMH^Vglut2 입력을 **나란히** 측정 — PPR·CV·AMPAR/NMDAR 비를 함께 보고해 전·후시냅스를 분리.

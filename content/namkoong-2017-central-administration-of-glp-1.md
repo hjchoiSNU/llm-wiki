@@ -18,8 +18,8 @@ journal: "Biochemical and Biophysical Research Communications 490 (2017) 247–2
 ICV로 투여한 GLP-1과 GIP는 각각 고용량에선 식욕을 줄이지만, subeffective 저용량을 **병용**하면 시너지로 식욕·체중·음수를 유의하게 감소시키고 ARC의 c-fos·POMC 발현을 증가시킨다 — incretin 병용의 중추 신경기전을 처음 입증한 사용자 lab paper.
 
 ## Background
-- GLP-1(30-aa, 장 L-cell)·GIP(42-aa, 소장 K-cell)은 두 핵심 incretin 호르몬; GLP-1R·GIPR 모두 뇌(시상하부 포함) 발현.
-- ICV GLP-1이 식욕·체중↓는 기존 입증; liraglutide가 BBB 투과해 시상하부 작용([[concept-arcuate-nucleus|ARC]] 매개, Secher 2014).
+- GLP-1(30-aa, 장 L-cell)·GIP(42-aa, 소장 K-cell)은 두 핵심 incretin 호르몬; GLP-1R·GIPR 모두 뇌(hypothalamus 포함) 발현.
+- ICV GLP-1이 식욕·체중↓는 기존 입증; liraglutide가 BBB 투과해 hypothalamus 작용([[concept-arcuate-nucleus|ARC]] 매개, Secher 2014).
 - GIP는 pro-obesity vs anti-obesity 양론 — 중추 역할 미확립.
 - GLP-1+GIP 병용(twincretin)이 당뇨·비만 유망 전략으로 제시되던 시기(MAR709·NN9709 임상 진행 중)였으나 **중추 신경기전은 미연구** → 본 연구가 first.
 
@@ -46,7 +46,7 @@ ICV로 투여한 GLP-1과 GIP는 각각 고용량에선 식욕을 줄이지만, 
 - **결정적**: c-fos⁺ 세포와 β-endorphin⁺(POMC) 세포가 거의 **비공존**(scarcity of co-localization) → 활성화 뉴런은 POMC와 별개의 집단.
 
 ## 해석·함의
-- 병용으로 활성화되는 **non-POMC ARC 뉴런** 가설: GLP-1R/GIPR을 가진 비-POMC interneuron이 인근 POMC(anorexigenic)·AgRP(orexigenic)로 투사하거나, PVH로 직접 glutamatergic 투사하는 non-POMC anorexigenic 뉴런(Fenselau 2016 ARC→PVH satiety circuit 유사).
+- 병용으로 활성화되는 **non-POMC ARC 뉴런** 가설: GLP-1R/GIPR을 가진 비-POMC interneuron가 인근 POMC(anorexigenic)·AgRP(orexigenic)로 투사하거나, PVH로 직접 glutamatergic 투사하는 non-POMC anorexigenic 뉴런(Fenselau 2016 ARC→PVH satiety circuit 유사).
 - 음수 감소 → GIP의 drinking 역할은 추가 연구 필요.
 - 결론: 적정 고용량 단독 또는 저용량 병용 모두 중추에서 식욕억제; 병용이 시너지 → GLP-1/GIP 병용 치료제 개발의 신경기전적 근거.
 

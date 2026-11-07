@@ -20,7 +20,7 @@ year: 2026
 ## 핵심 내용
 
 ### 배경·가설
-- 동기는 도파민(VTA→복측선조체)에 의존; 이 경로 뉴런은 인슐린 수용체 발현 → 대사가 [[concept-effort-based-decision-making|effort-based decision-making]]을 조율(allostatic energy regulation). 인슐린 저항이 도파민·동기를 교란.
+- 동기는 도파민(VTA→ventral striatum)에 의존; 이 경로 뉴런은 인슐린 수용체 발현 → 대사가 [[concept-effort-based-decision-making|effort-based decision-making]]을 조율(allostatic energy regulation). 인슐린 저항이 도파민·동기를 교란.
 - 대사질환(T2D)–정신질환 공존; 에너지 절약 쪽 shift가 공통 기전일 가능성. **poor metabolic health 단독으로 동기 저하를 일으키는가? semaglutide는 회복시키는가?**
 
 ### 방법
@@ -51,7 +51,7 @@ year: 2026
 - [[person-nord-camilla]] — 교신 senior; 계산정신의학·동기·metabolic-mental health.
 - [[concept-glp-1]] — semaglutide; effort-DM 비회복이라는 반례.
 - [[concept-need-motivation-pleasure-utility]] — Motivation/Utility(effort·미래가치) 축의 대사적 손상.
-- [[concept-dopamine-reward-system]] — effort·vigor의 VTA→선조체 도파민 기질.
+- [[concept-dopamine-reward-system]] — effort·vigor의 VTA→striatum 도파민 기질.
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — 중변연 도파민 = "일(work)의 가치"; effort 동기의 신경신호.
 - [[concept-anhedonia]] — apathy/anhedonia와 acceptance bias 저하의 평행.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 동물에서 들인 노력이 NAc 보상 도파민을 키우는 국소 ACh–nAChR 기전. T2D의 노력 편향 저하와의 관계는 위키에 자료 없음.

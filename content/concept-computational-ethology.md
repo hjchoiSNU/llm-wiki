@@ -41,7 +41,7 @@ aliases: [computational ethology, 행동 정량화, markerless tracking, pose es
 사전 정의 클래스에 영상을 배정할 것인가, 클래스 자체를 데이터에서 찾을 것인가. 조작이 유발한 **새로운** 행동을 볼 목적이라면 발견 쪽이 필수 — 지도학습은 정의상 이미 아는 것만 센다.
 
 **(2) 라벨 타당성 검증 — 신경 디코딩을 기준으로**
-전문가 라벨은 골드 스탠더드가 아니라 **또 하나의 변동원**이다. [[liu-2025-castle-a-training-free-foundation-model|CASTLE]]은 감각운동피질 spiking으로부터의 디코딩 정확도를 심판으로 삼아, 자동 분류가 전문가 라벨보다 신경 표상과 더 잘 정렬됨을 보였다(grabbing·at mouth 모두 p<0.001). "사람이 붙인 이름"과 "뇌가 구분하는 상태"가 다를 수 있다는 점을 다루는 실용적 기준.
+전문가 라벨은 골드 스탠더드가 아니라 **또 하나의 변동원**이다. [[liu-2025-castle-a-training-free-foundation-model|CASTLE]]은 감각motor cortex spiking으로부터의 디코딩 정확도를 심판으로 삼아, 자동 분류가 전문가 라벨보다 신경 표상과 더 잘 정렬됨을 보였다(grabbing·at mouth 모두 p<0.001). "사람이 붙인 이름"과 "뇌가 구분하는 상태"가 다를 수 있다는 점을 다루는 실용적 기준.
 
 **(3) 시간 규모의 위계**
 밀리초 pose → sub-second syllable → 수 초 behavioral state → 수 분~수 시간 내부상태(hunger·thirst). [[weinreb-2026-spontaneous-behavior-is-a]]는 중간 3층을 명시적으로 모델링하고, 배고픔 같은 긴 항상성 상태는 이와 **구별되는 층**임을 강조한다. 섭식 연구에서는 이 최상위 층이 곧 관심 변수라, 도구가 다루는 층과 가설이 사는 층을 맞추는 일이 중요.

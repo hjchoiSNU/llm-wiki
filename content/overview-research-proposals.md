@@ -6,7 +6,7 @@ updated: 2026-10-04
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 위키에 축적된 자료에서 도출한 **사용자 lab 연구계획서 10개 과제**를 한눈에 비교하는 hub. 공통 spine은 lab 자체 이론 [[concept-need-motivation-pleasure-utility|NMPU]]이며, 각 과제는 NMPU를 ① 인간으로 번역(NMPU 인간 번역), ② 세포타입으로 분해(LH/NAc 발굴), ③ 특정 축을 표적(tTIS 신경조절·DMH GLP-1R), ④ 환경·약물 맥락으로 확장(식품 불안정·GLP-1RA rebound)한다. #10(습관적 과식 DLS miniscope)은 선조체의 습관 통제를 다루며 NMPU와의 대응은 가설이다. 실현가능성·기간·중견 양식 여부로 정렬해 **우선순위 의사결정**을 돕는다.
+> 위키에 축적된 자료에서 도출한 **사용자 lab 연구계획서 10개 과제**를 한눈에 비교하는 hub. 공통 spine은 lab 자체 이론 [[concept-need-motivation-pleasure-utility|NMPU]]이며, 각 과제는 NMPU를 ① 인간으로 번역(NMPU 인간 번역), ② 세포타입으로 분해(LH/NAc 발굴), ③ 특정 축을 표적(tTIS 신경조절·DMH GLP-1R), ④ 환경·약물 맥락으로 확장(식품 불안정·GLP-1RA rebound)한다. #10(습관적 과식 DLS miniscope)은 striatum의 습관 통제를 다루며 NMPU와의 대응은 가설이다. 실현가능성·기간·중견 양식 여부로 정렬해 **우선순위 의사결정**을 돕는다.
 
 # 연구계획서 비교 hub
 
@@ -17,25 +17,25 @@ updated: 2026-10-04
 
 | # | 과제 | 핵심 가설(1줄) | NMPU 축·표적 | 주요 방법 | 종 | 기간 | 실현가능성 | 중견양식 |
 |---|---|---|---|---|---|---|---|---|
-| 1 | [[proposal-dmh-glp1r-human-imaging\|DMH GLP-1R 인간 영상]] | GLP-1RA가 인간 DMH·ARC 반응으로 cognitive satiation 유발 | Need(cognitive 갱신)·시상하부 | 7T 음식 cue fMRI·GLP-1RA RCT | 인간(+마우스 정합) | 3–5y | ★★★ | ✔ [[proposal-dmh-glp1r-nrf-junggyeon\|중견]] |
+| 1 | [[proposal-dmh-glp1r-human-imaging\|DMH GLP-1R 인간 영상]] | GLP-1RA가 인간 DMH·ARC 반응으로 cognitive satiation 유발 | Need(cognitive 갱신)·hypothalamus | 7T 음식 cue fMRI·GLP-1RA RCT | 인간(+마우스 정합) | 3–5y | ★★★ | ✔ [[proposal-dmh-glp1r-nrf-junggyeon\|중견]] |
 | 2 | [[proposal-nmpu-human-translation\|NMPU 인간 번역]] | NMPU 4축이 인간 신경 substrate로 분리 매핑 | 4축 전체·LH/NAc/OFC | 계산모델·7T fMRI·인간 iEEG·NHP | 마우스→NHP→인간 | 5y | ★★★ | ✔ [[proposal-nmpu-nrf-junggyeon\|중견]] |
 | 3 | [[proposal-lh-nac-nmpu-neuron-discovery\|LH·NAc NMPU 세포 발굴]] | LH·NAc 분자 ensemble이 NMPU 성분 분리 부호화 | Motivation(LH)·Pleasure/Utility(NAc) | CaRMA·TRU-FACT·Cal-Light | 마우스·NHP | 5y | ★★★ | ✔ [[proposal-lh-nac-nmpu-nrf-junggyeon\|중견·상세]] |
-| 4 | [[proposal-ttis-feeding-reward-circuits\|비침습 tTIS 신경조절]] | tTIS가 NAc·시상하부 병적 동기를 비침습 차단 | Pleasure(NAc)·Need(시상하부) | tTIS·montage·NHP·인간 pilot | in silico→NHP→인간 | 5y | ★★(야심) | ✔ [[proposal-ttis-nrf-junggyeon\|중견]] |
-| 5 | [[proposal-glp1ra-rebound-microbiota\|GLP-1RA rebound 공동중재]] | 중단 rebound=microbiota·set-point reset; 공동중재로 차단 | 약물·대사·시상하부 | microbiome·메타볼롬·회로·공동중재 | 마우스·NHP/인간 | 5y | ★★ | ✔ [[proposal-glp1ra-rebound-nrf-junggyeon\|중견]] |
+| 4 | [[proposal-ttis-feeding-reward-circuits\|비침습 tTIS 신경조절]] | tTIS가 NAc·hypothalamus 병적 동기를 비침습 차단 | Pleasure(NAc)·Need(hypothalamus) | tTIS·montage·NHP·인간 pilot | in silico→NHP→인간 | 5y | ★★(야심) | ✔ [[proposal-ttis-nrf-junggyeon\|중견]] |
+| 5 | [[proposal-glp1ra-rebound-microbiota\|GLP-1RA rebound 공동중재]] | 중단 rebound=microbiota·set-point reset; 공동중재로 차단 | 약물·대사·hypothalamus | microbiome·메타볼롬·회로·공동중재 | 마우스·NHP/인간 | 5y | ★★ | ✔ [[proposal-glp1ra-rebound-nrf-junggyeon\|중견]] |
 | 6 | [[proposal-food-insecurity-cross-species\|식품 불안정 교차종]] | 예측불가 먹이가 ARC·보상 회로 재프로그램(insurance) | 환경 입력·Need/Motivation | 행동·photometry·NHP·인간 코호트 | 쥐→원숭이→사람 | 5y | ★★ | ✔ [[proposal-food-insecurity-nrf-junggyeon\|중견]] |
-| 7 | [[proposal-pomc-endorphin-food-pleasure\|POMC β-endorphin 쾌락]] | POMC β-endorphin이 음식 쾌락(liking)·만족을 부호화(satiety와 분리) | **Pleasure**(시상하부 기원)·ARC→PVT/NAc | CaRMA·TRU-FACT·Cal-Light·광유전·naltrexone·NHP | 마우스→NHP | 5y | ★★★ | ✗ |
+| 7 | [[proposal-pomc-endorphin-food-pleasure\|POMC β-endorphin 쾌락]] | POMC β-endorphin이 음식 쾌락(liking)·만족을 부호화(satiety와 분리) | **Pleasure**(hypothalamus 기원)·ARC→PVT/NAc | CaRMA·TRU-FACT·Cal-Light·광유전·naltrexone·NHP | 마우스→NHP | 5y | ★★★ | ✗ |
 | 8 | [[proposal-oral-fat-taste-pleasure-desire\|구강 지방 맛 쾌락·욕망]] | 구강 지방 맛(orosensory)이 쾌락·욕망 구동; post-oral 영양(Utility)과 분리 | **Pleasure/Motivation**(구강 proxy) vs **Utility**(post-oral) | sham-feeding·IG bypass·GRAB-DA(insula/aBLA)·CaRMA·Cal-Light·PET/fMRI | 마우스→NHP→인간 | 5y | ★★★ | ✗ |
-| 9 | [[proposal-hunger-need-encoding-human-translation\|배고픔 Need 부호화·인간 번역]] | 배고픔=영양소 정체 기반 미래 결핍 예측(Need); Motivation과 분리·인간 biomarker화 | **Need**(내측시상하부)·영양소 정체 | 확장 normative model·AgRP photometry·CaRMA·7T fMRI·ghrelin·인간 LHA LFP·NHP | 마우스→NHP→인간 | 5y | ★★★ | ✗ |
+| 9 | [[proposal-hunger-need-encoding-human-translation\|배고픔 Need 부호화·인간 번역]] | 배고픔=영양소 정체 기반 미래 결핍 예측(Need); Motivation과 분리·인간 biomarker화 | **Need**(medialhypothalamus)·영양소 정체 | 확장 normative model·AgRP photometry·CaRMA·7T fMRI·ghrelin·인간 LHA LFP·NHP | 마우스→NHP→인간 | 5y | ★★★ | ✗ |
 | 10 | [[proposal-habitual-overeating-dls-miniscope\|습관적 과식 DLS miniscope]] | 가치가 낮아진 뒤에도 유지되는 DLS 세포군 패턴이 음식 추구의 습관화와 포만 후 실제 섭취를 연결 | Motivation의 자동화(habit-context, 가설)·DLS(후속 DMS) | Miniscope 종단 기록·가치 절하·자유 섭취 bout 분석·시점별 인과 조작 | 마우스 | 미정 | 미평가(행동·영상 파일럿 선행) | ✗ |
 
 > 실현가능성: ★★★=기존 lab 역량 직접 확장 / ★★=플랫폼·협업·고위험 요소.
 
 ## 주제 축별 그룹
-- **이론(NMPU) 직접**: #2(4축 인간 번역)·#3(세포 발굴)·#7(POMC β-endorphin Pleasure 기원)·#8(구강 지방 Pleasure/Motivation/Utility 분리)·#9(Need=배고픔 축 심화·인간 번역) — lab 이론을 인간·세포·시상하부 기원·감각 단계·Need 정의로.
+- **이론(NMPU) 직접**: #2(4축 인간 번역)·#3(세포 발굴)·#7(POMC β-endorphin Pleasure 기원)·#8(구강 지방 Pleasure/Motivation/Utility 분리)·#9(Need=배고픔 축 심화·인간 번역) — lab 이론을 인간·세포·hypothalamus 기원·감각 단계·Need 정의로.
 - **약물(GLP-1)**: #1(cognitive satiation 영상)·#5(rebound) — lab GLP-1 라인 확장.
 - **신경조절(electroceutical)**: #4(tTIS) — 비침습 심부 치료.
 - **사회결정요인**: #6(식품 불안정) — 환경→회로.
-- **습관 통제(선조체)**: #10(습관적 과식 DLS miniscope) — 음식 추구의 습관화와 실제 섭취의 연결. NMPU와의 대응(Motivation의 자동화)은 가설.
+- **습관 통제(striatum)**: #10(습관적 과식 DLS miniscope) — 음식 추구의 습관화와 실제 섭취의 연결. NMPU와의 대응(Motivation의 자동화)은 가설.
 
 ## 과제 관계도
 ```mermaid

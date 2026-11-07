@@ -21,8 +21,8 @@ year: 2022
 - **섬유**: 치료효과는 **Aβ섬유** 활성에 의존(C섬유 아님); ABVN의 Aβ는 경부 미주보다 5–6배 적고 개인차 → 일부에서 taVNS 한계.
 - **파라미터**: 좌측 귀, 10–15 Hz, 250–500 µs, <5 mA(따끔 역치 이상·통증 이하). 부작용 경미(피부 발적).
 - **파라미터 특이 효과**: 500 µs·10–20 Hz가 심박↓; 30 Hz·200 µs가 HRV 부교감 우세·MSNA↓.
-- **중추**: ABVN→NTS(미주 구심성 ~95% 수용)→LC-NE 양측 활성→부교감↑·교감↓(CVLM→RVLM); 광범위 투사(raphe·시상하부·시상·편도·섬엽·PAG·BNST·parabrachial).
-- **비만 접점**: 침습 VNS가 비만 FDA 승인(2015), ReCharge %EWL +8.5%(2년 ~21%); NTS가 시상하부(PVN/LH)·NAc/편도로 투사 → taVNS가 식욕·에너지균형 조절 저위험 경로.
+- **중추**: ABVN→NTS(미주 구심성 ~95% 수용)→LC-NE 양측 활성→부교감↑·교감↓(CVLM→RVLM); 광범위 투사(raphe·hypothalamus·thalamus·amygdala·insula·PAG·BNST·parabrachial).
+- **비만 접점**: 침습 VNS가 비만 FDA 승인(2015), ReCharge %EWL +8.5%(2년 ~21%); NTS가 hypothalamus(PVN/LH)·NAc/amygdala로 투사 → taVNS가 식욕·에너지균형 조절 저위험 경로.
 - **주장**: taVNS는 침습 VNS와 같은 중추 경로를 쓰는 비침습·저비용·내약 양호 대안; 최적 부위·파라미터·기전은 미정의.
 
 ## 관련 페이지

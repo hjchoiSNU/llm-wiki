@@ -12,13 +12,13 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 # 습관적 과식과 DLS — 원문 대조 분석과 연구 제안
 
 ## 한 줄 요약
-[[concept-habit|습관적 과식]]에서 배외측 선조체(DLS)의 역할을 위키 보유 원문 PDF와 대조해 다시 정리하고, 과식을 bout 수와 bout 크기로 나눈 세 가설과 단일세포 miniscope 중심의 연구 제안 8개를 우선순위와 함께 제시한 종합 페이지다.
+[[concept-habit|습관적 과식]]에서 dorsolateral striatum(DLS)의 역할을 위키 보유 원문 PDF와 대조해 다시 정리하고, 과식을 bout 수와 bout 크기로 나눈 세 가설과 단일세포 miniscope 중심의 연구 제안 8개를 우선순위와 함께 제시한 종합 페이지다.
 
 > [!note] 읽는 법과 근거 범위
 > - 근거는 위키 페이지와 `raw/`의 원문 PDF뿐이다(웹 미사용). 쪽수는 PDF 뷰어 기준 1부터 센 번호다. "원문 미확인"은 위키 서술만 있고 PDF 대조를 못 한 항목이다.
 > - 근거 표기: `[섭식 직접]` 자유 섭취를 잰 것 / `[음식 추구 직접]` 음식을 얻는 도구·접근 행동을 잰 것 / `[타 행동→가설]` 다른 행동에서 온 근거.
 > - "위키에 없다"는 문헌 전체에 없다는 뜻이 아니다. 제안의 신규성은 별도 문헌 검토로 확인해야 한다.
-> - DLS = 배외측 선조체, DMS = 배내측 선조체. 위키 일부에서 DLS가 배외측 중격을 뜻하는 경우는 제외했다.
+> - DLS = dorsolateral striatum, DMS = dorsomedial striatum. 위키 일부에서 DLS가 dorsolateral septum를 뜻하는 경우는 제외했다.
 > - 2026-10-04에 인용 문장을 원문 텍스트와 대조했다. 그림은 범례 텍스트만 확인했다.
 > - 이 페이지의 서술이 [[concept-habit]] 등 기존 페이지와 다른 곳이 있다(Gordon의 예측 분석 조건, Tellez의 부위, Piette의 가소성 검사 등). 해당 페이지들의 정정은 검토 중이다.
 
@@ -26,7 +26,7 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 
 1. **위키 안에는 습관 상태의 DLS를 기록한 자료가 없다.** DLS 뉴런·시냅스를 직접 기록·조작한 1차 논문은 4편([[fallon-2026-striatal-pathways-dissociably-control-action|Fallon 2026]], [[weinreb-2026-spontaneous-behavior-is-a|Weinreb 2026]], [[piette-2026-striatal-endocannabinoids-drive-one-shot|Piette 2026]], [[hobel-2026-a-basolateral-amygdala-to-dorsolateral|Hobel 2026]])이고, DLS 도파민을 기록·자극한 [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]을 더하면 5편이다. 음식이 관여한 것은 Fallon(펠릿을 얻는 lever-press)과 Gordon(sucrose 핥기)이다. Weinreb·Piette·Hobel은 습관 검사를 하지 않았다. Fallon은 사전 급식 가치 절하 검사를 행동 수준에서만 했고(n=5, 영상·광유전과 결합하지 않음, 유관성 약화 없음), 누르는 속도가 줄어 저자는 목표지향으로 판정했다(PDF 2–3, 12).
 2. **습관 전환을 실제로 검증한 1차 자료는 DLS가 아니라 DMS다.** [[giovanniello-2025-a-dual-pathway-architecture-for|Giovanniello 2025]]는 BLA→DMS와 CeA→DMS를 다뤘고, CeA 섬유는 DMS에서만 보이고 DLS에서는 보이지 않았다(PDF 22). DLS와의 연결은 저자가 토론에서 인용으로 제안한 간접 가설이다(PDF 8).
-3. **"배측 선조체 = 칼로리 = 습관 회로"는 원문보다 강한 요약이다.** [[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]]의 저자 표기는 "배측 선조체"이고, 좌표로 보면 내측-중앙이어서 Gordon의 DMS 좌표와 거의 같다(이 문서의 판독; PDF 7). 저자는 그 기능을 목표지향 행동의 편향으로 기술한다(PDF 3, 6).
+3. **"dorsal striatum = 칼로리 = 습관 회로"는 원문보다 강한 요약이다.** [[tellez-2016-separate-circuitries-encode-hedonic-nutritional|Tellez 2016]]의 저자 표기는 "dorsal striatum"이고, 좌표로 보면 medial-중앙이어서 Gordon의 DMS 좌표와 거의 같다(이 문서의 판독; PDF 7). 저자는 그 기능을 목표지향 행동의 편향으로 기술한다(PDF 3, 6).
 4. **"DLS 도파민 = 다음 섭취 예측"은 조건이 붙는다.** Gordon 2026의 odds ratio 1.32는 갈증 상태의 물·NaCl 핥기에서 얻은 상관이다(PDF 14, 29). 같은 논문의 인과 자극에서 DLS 말단 자극은 섭취 bout 수를 늘리고 bout당 핥기 수는 줄였으며, 총 핥기 수는 바꾸지 못했다. 짧은 접근 과제에서는 핥기 확률을 올리지 못한 유일한 부위였다(PDF 14, 16).
 5. **그래도 DLS는 섭식 연구에서 값진 표적이다.** 위키 1차 자료가 지지하는 DLS의 역할은 "행동 단위의 선택·진행·종료와 감각운동 성분"이고, 이는 과식의 미세구조(bout 개시와 유지)와 맞닿는다.
 6. **가장 먼저 할 실험**은 같은 DLS 세포를 훈련 초기, 과훈련, 가치 절하 검사에 걸쳐 추적하면서 자유 섭식 미세구조를 함께 재는 것이다. DLS miniscope 영상과 세포형 구분은 위키에 선례가 있다(Fallon, Weinreb). 그러나 같은 세포의 날짜 간 추적과 가치 절하 검사 중 영상은 DLS 선례가 없고 다른 영역 선례만 있다(§5). 이 부분이 가장 큰 기술 위험이다.
@@ -41,10 +41,10 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 |---|---|---|---|---|---|
 | Fallon 2026 | 1-photon miniscope 단일세포. dSPN 888개(4마리), iSPN 547개(5마리), 훈련 후 10분 1회 (PDF 6–7, 12–13) | 정확히 5회 누른 뒤 2초 안에 port에 들어가야 펠릿 1개. 음식 제한 (PDF 3, 12) | lever 접근·횟수(count)·port 집단이 dSPN·iSPN 모두에 있음. 집단 안에서 dSPN−iSPN 차가 lever·port까지 거리와 상관(R² 0.89·0.90). 전체 평균을 쓰면 관계가 사라짐. 보상 전달에는 유의한 반응 없음 (PDF 6–10, 24, 27) | 가치 절하(사전 급식) 행동 검사만 있음(n=5): 속도 감소, 횟수 불변 → 저자 결론은 목표지향. 검사 중 영상 없음, 유관성 약화 없음 (PDF 2–3, 12) | `[음식 추구 직접]` |
 | Weinreb 2026 | 1-photon miniscope, dSPN·iSPN 합쳐 분석 (PDF 18–20) | DLS 기록은 과제·보상 없는 open field 조건(사회·물체 맥락 실험은 dmPFC 기록). 음식 언급 없음, 자유 급식 (PDF 18, 20–21) | 1초 미만 단위의 운동 조각(syllable)과 운동학. 수 초 단위 행동 상태는 dmPFC가 더 잘 담음 (PDF 6, 25) | 없음 | `[타 행동→가설]` |
-| Piette 2026 | 집단 시냅스 지표(LFP)와 급성 단일유닛 기록 (PDF 4–6, 17) | 끈끈이 테이프 회피. 보상도 처벌도 없음 (PDF 2, 16) | 단 한 번의 짧은 접촉 뒤 피질선조체 시냅스 강화. 전시냅스 CB1R·D2R 의존 (PDF 4–5, 9, 11) | 없음 | `[타 행동→가설]` |
-| Hobel 2026 | BLA 축삭 광계측, 광유전, 슬라이스 (PDF 9–11, 23–26) | 물방울 유발 grooming, 소리 유발 digging | 반복 짝 자극 뒤 grooming 증가, digging probe 감소. 이웃 피질·시상 시냅스의 변화 (PDF 9–11) | 없음 | `[타 행동→가설]` |
+| Piette 2026 | 집단 시냅스 지표(LFP)와 급성 단일유닛 기록 (PDF 4–6, 17) | 끈끈이 테이프 회피. 보상도 처벌도 없음 (PDF 2, 16) | 단 한 번의 짧은 접촉 뒤 cortexstriatum 시냅스 강화. 전시냅스 CB1R·D2R 의존 (PDF 4–5, 9, 11) | 없음 | `[타 행동→가설]` |
+| Hobel 2026 | BLA 축삭 광계측, 광유전, 슬라이스 (PDF 9–11, 23–26) | 물방울 유발 grooming, 소리 유발 digging | 반복 짝 자극 뒤 grooming 증가, digging probe 감소. 이웃 cortex·thalamus 시냅스의 변화 (PDF 9–11) | 없음 | `[타 행동→가설]` |
 | Gordon 2026 | 7개 아구역 도파민 광계측(223 fibers, 47마리) (PDF 7, 10, 12) | 머리 고정 핥기. 물·NaCl·sucrose | DLS 도파민에서는 time-in-trial 항(핥기·용액과 무관한 감각·과제 사건 성분)의 기여가 가장 컸음. 갈증 상태 NaCl 조건의 분석. 핥기 성분은 NAc 쪽 아구역이 최대 (PDF 11–12, 28–29) | 없음 | 일부 `[섭식 직접]`(액체) |
-| Tellez 2016 | 미세투석, 세포 제거, 광유전 | 핥기에 연동한 위내 주입 | 배측 선조체(좌표상 내측-중앙) 도파민이 위내 포도당에만 반응. D1 뉴런 제거 시 칼로리에 의한 섭취 증가 소실 (PDF 1–4, 7) | 정식 습관 검사 없음. 자극 중 포만·혐오 자극 민감성을 본 대조 실험은 있음(보충 그림, 원자료 미확인; PDF 3) | `[섭식 직접]` |
+| Tellez 2016 | 미세투석, 세포 제거, 광유전 | 핥기에 연동한 위내 주입 | dorsal striatum(좌표상 medial-중앙) 도파민이 위내 포도당에만 반응. D1 뉴런 제거 시 칼로리에 의한 섭취 증가 소실 (PDF 1–4, 7) | 정식 습관 검사 없음. 자극 중 포만·혐오 자극 민감성을 본 대조 실험은 있음(보충 그림, 원자료 미확인; PDF 3) | `[섭식 직접]` |
 | Giovanniello 2025 | 투사 특이 광계측, 광유전·화학유전 | 음식 펠릿 lever-press | **DMS**. BLA→DMS 약화, CeA→DMS 동원 (PDF 2–6) | 있음(가치 절하, 유관성 약화) | `[음식 추구 직접]` |
 
 ### 2-2. 여기서 나오는 세 가지 해석
@@ -59,13 +59,13 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 
 | 연결 | 위키에서 쓰이는 방식 | 원문이 지지하는 범위 |
 |---|---|---|
-| 반복 노출 → 배쪽에서 등쪽으로 이동 | 습관적 과식의 경로 | [[luscher-2021-consolidating-the-circuit-model-for\|Lüscher & Janak 2021]]은 약물 중독의 강박 회로를 등쪽 선조체에 두고, 나선형 연결을 따라 더 등쪽·외측 루프가 동원된다고 쓴다(PDF 5, 10). 다루는 대상은 습관이 아니라 강박이고, DLS를 습관의 기질로 특정하지 않는다. 구동 기전은 미해결 과제로 적혀 있다(PDF 17) |
+| 반복 노출 → ventral에서 dorsal로 이동 | 습관적 과식의 경로 | [[luscher-2021-consolidating-the-circuit-model-for\|Lüscher & Janak 2021]]은 약물 중독의 강박 회로를 dorsal striatum에 두고, 나선형 연결을 따라 더 dorsal·lateral 루프가 동원된다고 쓴다(PDF 5, 10). 다루는 대상은 습관이 아니라 강박이고, DLS를 습관의 기질로 특정하지 않는다. 구동 기전은 미해결 과제로 적혀 있다(PDF 17) |
 | 도파민의 나선형 전파 | 습관 형성 기전 | Gordon: 한 아구역의 도파민 말단을 3초간 광자극했을 때(소비 중이 아닌 머리 고정 자극 실험) 도파민은 주로 자극한 아구역에서만 올랐다. 예외로 TS 자극이 DLS 도파민을 작지만 유의하게 올렸다(PDF 7–8, 16). 저자는 모델을 반증한 것이 아니라 시간적으로 경계지었다고 쓴다. 학습 시간척도에서는 검사하지 않았다 |
-| 칼로리 신호 → 배측 선조체 | "맛없어도 먹는" 습관의 기질 | Tellez: 좌표상 내측-중앙 배측 선조체. 정식 습관 검사 없음. 저자는 포만·혐오 자극 민감성 대조 실험을 근거로 자극이 가치 절하 둔감을 만든 것이 아니라고 쓴다(PDF 3) |
-| 지방+당 조합 → 흑질선조체 도파민 | 초가공식품과 습관 회로 | [[onimus-2026-dopamine-ensembles-regulating-appetite\|Onimus 2026]]의 2차 인용(McDougle 2024; PDF 4). [[stuber-2025-the-neurobiology-of-overeating\|Stuber 2025]]에도 같은 내용 문장이 있으나(PDF 3) 인쇄된 인용 번호가 다른 문헌을 가리켜 출처는 추정이다. 원문이 위키에 없고 DLS인지 DMS인지 알 수 없다 |
+| 칼로리 신호 → dorsal striatum | "맛없어도 먹는" 습관의 기질 | Tellez: 좌표상 medial-중앙 dorsal striatum. 정식 습관 검사 없음. 저자는 포만·혐오 자극 민감성 대조 실험을 근거로 자극이 가치 절하 둔감을 만든 것이 아니라고 쓴다(PDF 3) |
+| 지방+당 조합 → substantia nigrastriatum 도파민 | 초가공식품과 습관 회로 | [[onimus-2026-dopamine-ensembles-regulating-appetite\|Onimus 2026]]의 2차 인용(McDougle 2024; PDF 4). [[stuber-2025-the-neurobiology-of-overeating\|Stuber 2025]]에도 같은 내용 문장이 있으나(PDF 3) 인쇄된 인용 번호가 다른 문헌을 가리켜 출처는 추정이다. 원문이 위키에 없고 DLS인지 DMS인지 알 수 없다 |
 | 쾌락 없이 지속되는 섭취 | 습관으로 설명 | [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive\|Gazit Shimoni 2025]]는 가치 절하 검사를 하지 않았다. 습관 설명은 저자가 토론에서 든 이론이다(PDF 9) |
 | 한 번의 경험이 DLS에 각인 | "폭식 한 번이 습관이 되는가" | Piette: 보상 없는 회피 과제. 긴 경험 조건의 기질은 저자도 미결로 남겼다(PDF 11, 13) |
-| LH가 DLS 도파민을 움직임 | 시상하부와 습관 회로의 접점 | Gordon: LHA GABA 자극은 DLS 도파민을 자극 초기에 일과성으로 올리고, LHA 글루탐산 자극은 자극 후반(sustained 구간)에 낮춘다(PDF 5–6, 25). 세포체 자극과 방출 측정이며 단시냅스 투사 근거는 아니다 |
+| LH가 DLS 도파민을 움직임 | hypothalamus와 습관 회로의 접점 | Gordon: LHA GABA 자극은 DLS 도파민을 자극 초기에 일과성으로 올리고, LHA 글루탐산 자극은 자극 후반(sustained 구간)에 낮춘다(PDF 5–6, 25). 세포체 자극과 방출 측정이며 단시냅스 투사 근거는 아니다 |
 
 ---
 
@@ -96,13 +96,13 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 - **영상 시점**: 훈련 초기, 과훈련 뒤, **가치 절하 probe 도중**. Fallon은 훈련 뒤 한 번만 기록했고 사전 급식 검사 중에는 영상을 찍지 않았으므로(PDF 12–13), 위키 안에는 이 세 시점을 비교한 자료가 없다. 문헌 전체에서의 신규성은 별도로 확인한다.
 - **분석**: Fallon의 기능 집단 분류와 dSPN−iSPN 차를 출발점으로 쓴다. 단 이 집단은 정확히 5회를 세는 과제에서 정의됐고, 저자는 일반 강화 일정에서도 같은 표상이 나오는지 미정이라고 적으므로(PDF 8–9) 분류 기준을 다시 세워야 한다. Weinreb의 해독 모델(1–5분 블록 단위 교차검증)과 부호화 모델(ridge 회귀, 순환 치환 대비 유의성; PDF 25)을 함께 쓴다. 가설 A·B·C의 예측표로 판정한다.
 - **판정 기준의 예**: 과훈련 뒤 가치 절하 probe에서 접근 집단의 활동이 대조 probe와 같으면 가설 C, DLS는 같고 DMS의 보상 수집 신호만 줄면 가설 B.
-- **주의**: 렌즈 삽입에 따른 피질 손상(Fallon 저자 명시, PDF 10), port 안 행동 미추적(같은 논문), 발화가 드문 구간에서 칼슘 영상이 놓칠 가능성(Piette의 단일유닛 자료에서 접촉 중 발화 중앙값 1–3 Hz, PDF 6), 날짜 간 세포 추적의 DLS 선례 부재(§5).
+- **주의**: 렌즈 삽입에 따른 cortex 손상(Fallon 저자 명시, PDF 10), port 안 행동 미추적(같은 논문), 발화가 드문 구간에서 칼슘 영상이 놓칠 가능성(Piette의 단일유닛 자료에서 접촉 중 발화 중앙값 1–3 Hz, PDF 6), 날짜 간 세포 추적의 DLS 선례 부재(§5).
 
 ### 제안 2. 자유 섭식 중 DLS는 무엇을 부호화하는가
 
 - **질문**: 음식이 있는 환경에서 DLS 단일세포가 핥기·물기 같은 운동 조각을 담는가, 식사라는 상태를 담는가.
 - **설계**: Weinreb의 위계적 행동 분할을 음식이 있는 arena에 적용한다. DLS와 함께 lab이 이미 영상 경험을 가진 LH를 기록한다(Lee 2023). 공복, 포만, 고지방식 노출 조건을 비교한다.
-- **예측**: Weinreb의 결과가 섭식에도 성립하면, 상태 변수를 더해도 DLS 부호화 모델은 나아지지 않고 느린 노드(LH 또는 전전두)만 나아진다.
+- **예측**: Weinreb의 결과가 섭식에도 성립하면, 상태 변수를 더해도 DLS 부호화 모델은 나아지지 않고 느린 노드(LH 또는 prefrontal)만 나아진다.
 - **추가 판독**: bout 개시 전 활동의 상승, bout 종료를 예고하는 신호. Fallon에서 iSPN 횟수 뉴런은 연속 행동이 끝나갈수록 활동이 올라갔다(PDF 6–7).
 - **주의**: 저자가 권한 자료량이 크다(최소 10시간, 가능하면 40시간 이상; PDF 22–24). 턱·구강 운동이 신호에 섞이는 문제는 [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]의 방식(턱 움직임을 고정효과로 넣은 선형 혼합효과 모형; PDF 10, 12, 24–25)을 참고한다. 그 방법은 머리 고정·구강 내 액체 주입 조건에서 쓴 것이어서 자유 섭식에는 턱 추적 방법을 따로 세워야 한다.
 
@@ -111,13 +111,13 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 - **질문**: LH의 seeking 관련 신호가 DLS 도파민을 거쳐 다음 bout의 개시로 이어지는가. 과훈련에 따라 그 의존성이 줄어드는가.
 - **근거**:
   - LH^LepR 집단 활성(광계측)의 onset은 자발적 seeking 개시를 평균 약 6초 앞선다(Lee 2023, PDF 2). 별도의 단일세포 영상에서 seeking에만 반응하는 세포(15개)와 consummatory에만 반응하는 세포(25개)가 구분됐다(4마리, PDF 5–6). seeking 세포만의 선행 시간은 보고되지 않았다.
-  - LHA GABA 활동은 갈증 상태 물·NaCl 섭취 중 NAcCC·DMS·DLS 도파민과 양의 상관이 강해졌고 TS에서는 아니었다(Gordon, PDF 14). 저자 요약으로는 결합이 가장 강한 곳은 전방·배쪽 아구역이다(PDF 16). 음식 조건의 자료는 아니다.
+  - LHA GABA 활동은 갈증 상태 물·NaCl 섭취 중 NAcCC·DMS·DLS 도파민과 양의 상관이 강해졌고 TS에서는 아니었다(Gordon, PDF 14). 저자 요약으로는 결합이 가장 강한 곳은 전방·ventral 아구역이다(PDF 16). 음식 조건의 자료는 아니다.
 - **설계**: lab의 단계 분리 과제(Lee 2023, PDF 11–12)에서 LH는 miniscope, DLS와 DMS는 도파민 센서로 동시 기록한다. Gordon의 "이번 시행 도파민 → 다음 시행 핥기" 회귀를 음식 조건에서 개체 효과와 시행 순서를 넣어 다시 한다.
-- **주의**: LH에서 DLS로 가는 단시냅스 투사는 위키에서 확인되지 않는다. 리뷰 한 문장(Onimus 2026, PDF 10: LH 뉴런이 등쪽 선조체로 투사한다는 일반 서술, 세포형·아구역 특정 없음)이 있고, LepRb 아집단에 대해서는 선조체 투사가 관찰되지 않았다는 위키 서술이 있다([[leinninger-2009-leptin-acts-via-leptin]] 페이지, 원문 미확인). 두 서술은 대상 집단이 달라 직접 충돌하지는 않는다. Gordon의 예측 분석은 음식 조건에서는 보고되지 않았다.
+- **주의**: LH에서 DLS로 가는 단시냅스 투사는 위키에서 확인되지 않는다. 리뷰 한 문장(Onimus 2026, PDF 10: LH 뉴런이 dorsal striatum로 투사한다는 일반 서술, 세포형·아구역 특정 없음)이 있고, LepRb 아집단에 대해서는 striatum 투사가 관찰되지 않았다는 위키 서술이 있다([[leinninger-2009-leptin-acts-via-leptin]] 페이지, 원문 미확인). 두 서술은 대상 집단이 달라 직접 충돌하지는 않는다. Gordon의 예측 분석은 음식 조건에서는 보고되지 않았다.
 
 ### 제안 4. 장 이후 칼로리 신호가 습관 전환을 앞당기는가 — DMS와 DLS의 분리
 
-- **질문**: 칼로리 짝지음이 반복될 때 칼로리 의존 도파민과 SPN 활동이 내측에서 외측으로 옮겨 가는가. 그 시점이 가치 절하 둔감의 시작과 맞는가.
+- **질문**: 칼로리 짝지음이 반복될 때 칼로리 의존 도파민과 SPN 활동이 medial에서 lateral로 옮겨 가는가. 그 시점이 가치 절하 둔감의 시작과 맞는가.
 - **설계**: Tellez의 설계(핥기에 연동한 위내 주입으로 칼로리 유무를 맛과 분리)를 수 주간 반복하면서 DMS와 DLS를 함께 기록하고, 구간마다 가치 절하 검사를 건다.
 - **의의**: Gordon이 "학습 시간척도"로 넘긴 전파 질문을 직접 검사한다. Tellez가 본 부위가 좌표상 DMS에 가깝다는 점 때문에 DLS에서 같은 신호가 나오는지는 열려 있다.
 - **주의**: 지방과 당의 조합 효과는 2차 인용뿐이다. 미주 신경 경로에 대해서는 위키 안에 방향이 다른 서술이 있다([[onimus-2026-the-gut-brain-vagal-axis-governs]] 페이지, 원문 미확인). 먼저 원문을 확보한다.
@@ -134,12 +134,12 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 - **질문**: 가치 절하에 둔감한 개체와 혐오 결과에도 섭취를 지속하는 개체가 같은 개체인가.
 - **근거**: [[leow-2026-a-cortical-hypothalamic-neural|Leow 2026]] 저자는 자신들이 본 강박적 섭취를 습관적 섭식과 구별된다고 적지만 가치 절하 검사를 하지는 않았다(PDF 11). 위키에 두 축을 한 동물에서 잰 섭식 자료가 없다.
 - **설계**: Leow의 폭식·강박 패러다임 뒤에 음식 추구의 가치 절하 검사를 걸어 교차표를 만든다. DLS 영상에는 Leow의 종단 추적 방식(같은 시야 유지, 모든 세션에 있는 세포만 분석; PDF 18–19, 21)을 쓴다.
-- **대립 예측**: Leow는 전전두-불확정대 집단에서 긴 시간상수의 지속 상태를 보고했다. DLS가 Weinreb의 결과처럼 1초 미만 단위로 움직인다면 DLS에서는 그런 지속 상태가 나오지 않아야 한다.
+- **대립 예측**: Leow는 prefrontal-불확정대 집단에서 긴 시간상수의 지속 상태를 보고했다. DLS가 Weinreb의 결과처럼 1초 미만 단위로 움직인다면 DLS에서는 그런 지속 상태가 나오지 않아야 한다.
 - **주의**: 개체 분포를 보려면 표본이 커야 한다(Lüscher & Janak은 강박 모델에서 통상 50–100마리가 필요하다고 적는다, PDF 7).
 
 ### 제안 7. DLS 가소성 규칙을 섭식으로 옮긴다
 
-- **질문**: 한 번의 짧은 기호식 경험이 DLS 시냅스에 흔적을 남기는가. 편도 입력이 음식 cue와 섭취의 결합을 바꾸는가.
+- **질문**: 한 번의 짧은 기호식 경험이 DLS 시냅스에 흔적을 남기는가. amygdala 입력이 음식 cue와 섭취의 결합을 바꾸는가.
 - **설계 1**: 짧은 기호식 경험 뒤 DLS에서 Piette의 판독(경험 뒤 가소성이 이미 소진됐는지 보는 검사, 내인성 카나비노이드 센서 광계측)을 반복한다. 먼저 "짧은 접촉"에 해당하는 섭취 길이를 정의해야 한다. Piette에서 시냅스 강화는 짧은 접촉에 한정됐다(PDF 5).
 - **설계 2**: Hobel의 짝 자극을 음식 cue와 섭취에 적용하고, probe 반응과 가치 절하 민감성을 같은 동물에서 잰다. grooming은 늘고 digging은 줄었으므로 방향을 미리 가정하지 않는다.
 - **주의**: Piette에서 반복·장시간 경험 조건의 기질은 밝혀지지 않았다(PDF 11, 13). 습관 형성은 바로 그 조건에 해당한다. DMS에서 같은 가소성이 유도되지 않았다는 결과는 절편 방향과 입력 경로가 함께 달라 분리되지 않는다(PDF 8, 18). Hobel의 자극 뒤 억제 창 약화는 DMS에서도 관찰됐다고 저자가 적는다(PDF 13, 자료는 제시되지 않음).
@@ -150,7 +150,7 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 - **개입이 바꾸는 것**: Lee 2025의 개인화 치료 예시(Fig. 6)에서 Cue-Habit형의 개입은 cue 노출 치료와 가정용 tDCS이고, 표지는 dlPFC 저하와 OFC 상승이다(PDF 11). 이 예시의 표지에는 DLS가 없다. tDCS가 갈망 척도가 아니라 가치 절하 민감성을 바꾸는지 sham 대조로 본다. 비교군으로 중재 영역(양측 vlPFC와 우측 frontopolar; Lee et al. 2014의 결과를 [[odoherty-2016-multiple-systems-for-the-motivational|O'Doherty 2016]]이 인용, PDF 312. 1차 문헌은 위키에 없음)을 둔다.
 - **약물**: GLP-1 수용체 작용제가 습관 성분에 미치는 효과는 위키에 근거가 없다. 외부 자극에 끌리는 섭식 성향이 체중 감소를 예측했다는 관찰 연구가 있다([[koide-2025-association-between-eating-behavior|Koide 2025]], 원문 미확인).
 - **인간 도파민**: [[thanarajah-2019-food-intake-recruits-orosensory|Thanarajah 2019]]에서 섭취 직후 양측 putamen 도파민 방출이 있었고(PET n=10, PDF 3–4), wanting이 높을수록 지연기 putamen 도파민이 낮았다(상관 분석 n=9, PDF 7, 11). 정상체중 중년 남성 표본이고 습관 척도는 없다. 비만·습관형 과식군에 같은 측정을 적용하는 것이 대응 실험이다.
-- **심부 자극**: Lee 2025는 기존 비침습 자극이 피질하에 닿지 못한다고 쓴다(PDF 9–11). 위키에는 인간 선조체를 겨냥한 시간간섭 자극이 운동학습과 강화학습을 바꿨다는 2차 기록이 있다([[hummel-2024-non-invasive-deep-brain|Hummel 2024]], 원문 미확인). 위키 기록에는 섭식이나 습관을 대상으로 한 시간간섭 자극 연구가 없다(문헌 전체는 미확인).
+- **심부 자극**: Lee 2025는 기존 비침습 자극이 subcortical에 닿지 못한다고 쓴다(PDF 9–11). 위키에는 인간 striatum를 겨냥한 시간간섭 자극이 운동학습과 강화학습을 바꿨다는 2차 기록이 있다([[hummel-2024-non-invasive-deep-brain|Hummel 2024]], 원문 미확인). 위키 기록에는 섭식이나 습관을 대상으로 한 시간간섭 자극 연구가 없다(문헌 전체는 미확인).
 - **영장류**: lab의 영장류 과제([[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]], 원문 미확인)에 과훈련과 특이 포만 가치 절하를 더하면 추구의 습관화와 자유 섭취를 함께 재는 중간 단계가 된다.
 
 ### 우선순위
@@ -172,22 +172,22 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 
 | 항목 | 선례 | 시사점 |
 |---|---|---|
-| DLS 접근 | Fallon 2026(자유행동 miniscope, 지름 1.8 mm 렌즈; PDF 12–13), Weinreb 2026(지름 1 mm 렌즈; PDF 19–20) | Fallon은 렌즈 삽입 전 피질을 흡인했고(PDF 12) 위쪽 감각운동 피질의 광범위한 손상을 한계로 적는다(PDF 10). 렌즈 지름에 따른 시야·손상 차이는 두 논문 어디에도 보고되지 않았다 |
+| DLS 접근 | Fallon 2026(자유행동 miniscope, 지름 1.8 mm 렌즈; PDF 12–13), Weinreb 2026(지름 1 mm 렌즈; PDF 19–20) | Fallon은 렌즈 삽입 전 cortex를 흡인했고(PDF 12) 위쪽 감각운동 cortex의 광범위한 손상을 한계로 적는다(PDF 10). 렌즈 지름에 따른 시야·손상 차이는 두 논문 어디에도 보고되지 않았다 |
 | 세포형 구분 | D1-Cre와 A2a-Cre(두 논문 공통) | Weinreb은 핵심 결과가 경로별로 다르지 않아 합쳐 분석했다. Fallon은 기능 집단으로 나눠야 차이가 보였다 |
 | 두 경로 동시 기록 | Weinreb: D1-Cre 5마리에서 Cre 의존·비의존 지시자를 섞어 두 경로를 한 세션에 함께 기록(PDF 19–20). Fallon: 두 색을 서로 다른 세션에 기록(PDF 9, 13) | Weinreb은 경로를 합쳐 분석했다. 과제 수행 중 두 경로를 같은 세션에서 구분해 비교한 선례는 위키에서 찾지 못했다. Fallon의 차 신호는 세션과 동물을 맞춘 사후 계산이다 |
 | 세포 추출 | Minian(Fallon), CNMF-E(Weinreb, Lee 2023) | lab은 CNMF-E 경험이 있다 |
-| 날짜 간 세포 추적 | DLS에서는 선례 없음. 다른 영역: Leow 2026(전전두 miniscope, 같은 시야 유지; PDF 19, 21), Lee 2026(LH, 머리 고정 두광자 영상. 자동 정합 뒤 수동 검증; PDF 5, 23. 1-photon 선례는 아님), [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal\|Figge-Schlensok 2025]](원문 미확인) | 제안 1의 가장 큰 기술 위험이다. [[shin-2023-early-adversity-promotes-binge-like-eating\|Shin & Lim 2023]]은 LH 세포를 장기간 추적하기 어려워 세션 내 변화만 분석했다고 적는다(PDF 17) |
+| 날짜 간 세포 추적 | DLS에서는 선례 없음. 다른 영역: Leow 2026(prefrontal miniscope, 같은 시야 유지; PDF 19, 21), Lee 2026(LH, 머리 고정 두광자 영상. 자동 정합 뒤 수동 검증; PDF 5, 23. 1-photon 선례는 아님), [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal\|Figge-Schlensok 2025]](원문 미확인) | 제안 1의 가장 큰 기술 위험이다. [[shin-2023-early-adversity-promotes-binge-like-eating\|Shin & Lim 2023]]은 LH 세포를 장기간 추적하기 어려워 세션 내 변화만 분석했다고 적는다(PDF 17) |
 | 섭취 순간의 혼입 | Lee 2026의 턱 움직임 공변량(머리 고정 조건), Leow 2026의 접촉 bout 정의(PDF 21), Gazit Shimoni 2025의 급식구 센서(PDF 11–13) | Fallon은 port 안 행동을 추적하지 못해 그 구간 신호의 의미를 정하지 못했다(PDF 8–9) |
 | 조건 수 | [[xu-2020-behavioral-state-coding-by\|Xu 2020]]: 비교하는 상태가 6개를 넘으면 특정 상태 전속 세포가 사라졌다(PDF 8) | 조건 2–3개로 "습관 세포"를 정의하면 과대 추정한다. 혐오 자극과 비칼로리 대조를 함께 넣는다 |
 | 집단 평균의 한계 | Fallon: 전체 뉴런을 합치면 dSPN과 iSPN의 차이가 사라진다(PDF 8–10, 27) | 광계측만으로는 이 질문에 답하기 어렵다. 단일세포 해상도가 필요한 이유다 |
-| 분자 정체 | [[wang-2026-multimodal-alignments-of-in\|Wang 2026]]: 배내측 선조체를 겨냥한 렌즈 두광자 영상(머리 고정)을 사후 분자 표지와 정합(정밀도 90%, 재현율 95%, 영상 쌍 3개; PDF 20, 89–90). DLS·자유행동 선례는 아니다 | 저자는 1-photon 영상에는 적용이 더 어렵다고 적고, 1-photon 세포를 2-photon 볼륨에 등록하는 우회로를 제안한다(PDF 31–32). striosome과 matrix 중 어느 쪽이 관여하는지는 Hobel도 미해결로 남겼다 |
+| 분자 정체 | [[wang-2026-multimodal-alignments-of-in\|Wang 2026]]: dorsomedial striatum를 겨냥한 렌즈 두광자 영상(머리 고정)을 사후 분자 표지와 정합(정밀도 90%, 재현율 95%, 영상 쌍 3개; PDF 20, 89–90). DLS·자유행동 선례는 아니다 | 저자는 1-photon 영상에는 적용이 더 어렵다고 적고, 1-photon 세포를 2-photon 볼륨에 등록하는 우회로를 제안한다(PDF 31–32). striosome과 matrix 중 어느 쪽이 관여하는지는 Hobel도 미해결로 남겼다 |
 | 성별 | Lee 2023은 수컷만. Giovanniello는 초기 실험에서만 성을 요인으로 넣었다 | 암수를 설계에 넣는다 |
 
 ---
 
 ## 6. 원문을 확인하지 못한 것
 
-- PDF가 `raw/`에 없는 논문(이 문서 본문에서 직접 쓰지는 않았고 `concept-habit`이 기대는 페이지 포함): Thoeni 2020, O'Connor 2015, Jennings 2015, Rossi 2019, Linders 2022, Wang 2026(시상하부 불안-과식 회로), Siemian 2021, Figge-Schlensok 2025.
+- PDF가 `raw/`에 없는 논문(이 문서 본문에서 직접 쓰지는 않았고 `concept-habit`이 기대는 페이지 포함): Thoeni 2020, O'Connor 2015, Jennings 2015, Rossi 2019, Linders 2022, Wang 2026(hypothalamus 불안-과식 회로), Siemian 2021, Figge-Schlensok 2025.
 - PDF는 있으나 추출하지 않아 위키 서술만 쓴 항목: Duran 2026, Koide 2025, Hummel 2024, Ha 2024, Weber 2025, Gershman 2024, Lee 2024(feature-specific prediction error), Leinninger 2009, Onimus 2026(미주 축 논문).
 - 위키에 페이지가 없고 2차 인용으로만 존재하는 문헌: Yin & Knowlton 2006(리뷰), Everitt & Robbins 2016(리뷰), Pierce-Messick & Corbit 2021(논문 종류 미확인), Epstein & Carr 2021, McDougle 2024, Johnson & Kenny 2010, Lee et al. 2014. 앞의 두 편은 리뷰이므로 실험 자료를 확인하려면 그 리뷰가 인용한 문헌까지 내려가야 한다.
 - 그림은 범례 텍스트만 읽었다. 보충 표·그림의 수치는 확인하지 못했다.
@@ -202,7 +202,7 @@ aliases: [habitual overeating DLS, 습관적 과식 DLS, DLS 심층 분석, dors
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — DLS dSPN·iSPN miniscope 단일세포 기록. 횟수·방향 제어, 사전 급식 가치 절하(행동만).
 - [[weinreb-2026-spontaneous-behavior-is-a]] — DLS는 운동 조각·운동학을 담고 행동 상태는 dmPFC가 담음.
 - [[gordon-2026-lateral-hypothalamic-control-of-the]] — DLS 도파민 말단 자극의 bout 구조 결과와 LH의 DLS 도파민 조절.
-- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 배측 선조체(좌표상 내측-중앙)의 칼로리 신호. 습관 검사는 없음.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — dorsal striatum(좌표상 medial-중앙)의 칼로리 신호. 습관 검사는 없음.
 - [[giovanniello-2025-a-dual-pathway-architecture-for]] — 습관 전환의 인과 자료(BLA→DMS, CeA→DMS)와 생쥐 가치 절하 절차.
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — 짧은 경험의 DLS 가소성(보상 없는 회피 과제).
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — BLA→DLS 짝 자극의 행동 의존적 효과.

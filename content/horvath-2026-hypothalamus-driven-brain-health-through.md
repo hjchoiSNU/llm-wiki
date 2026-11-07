@@ -12,9 +12,9 @@ journal: "Neuron 115 (2027-01-06 호), Review, in press 2026; doi:10.1016/j.neur
 > [!takeaway] 연구 방향 관점의 핵심
 > **이 리뷰는 위키에 없던 개념 하나를 들고 온다 — [[concept-metabolic-flexibility|대사 유연성(metabolic flexibility)]]을 개체 수준 속성으로 보고, hypothalamus를 그 조율 허브로 세운다.** 핵심은 항상성과의 대비다: 항상성은 설정점 주변의 유지이고, 대사 유연성은 **끊임없는 적응적 변화**다. 저자들의 문장: 생물학적 목표는 **항상성(constancy)이 아니라 성공적인 지속 적응**이다. [[concept-need-motivation-pleasure-utility|NMPU]]의 Need 축을 "결핍의 크기"가 아니라 "전환 능력"으로 다시 쓸 수 있는 틀이다.
 > 사용자 lab에 닿는 지점 넷.
-> (1) **치료 평가 기준을 바꾸는 한 문단**(§9). 칼로리 제한·약리적 포만·인공 영양 신호는 **섭취를 줄인다는 이유만으로 동등하다고 가정해선 안 된다**. 칼로리 제한은 협응된 적응 상태(배고픔 신호↑·AgRP 활성 유지·POMC 출력 억제·말초 연료 전환·AMPK/mTORC1 재조정)를 켜지만, semaglutide 같은 인크레틴은 **약리적 포만**으로 섭취를 줄여 같은 시상하부·면역·생체에너지 상태를 재현하지 않을 수 있다. 저자들의 질문: **"체중이 줄었나"가 아니라 "생리적 배고픔 적응 프로그램을 켰나, 인공 포만 상태를 켰나"**. [[proposal-glp1ra-rebound-microbiota]]·[[concept-weight-regain-defended-adiposity]]에 바로 쓸 수 있는 가설 축이다. 단 저자들은 **인크레틴 치료에 반대하는 논거가 아니라고 명시**한다.
+> (1) **치료 평가 기준을 바꾸는 한 문단**(§9). 칼로리 제한·약리적 포만·인공 영양 신호는 **섭취를 줄인다는 이유만으로 동등하다고 가정해선 안 된다**. 칼로리 제한은 협응된 적응 상태(배고픔 신호↑·AgRP 활성 유지·POMC 출력 억제·말초 연료 전환·AMPK/mTORC1 재조정)를 켜지만, semaglutide 같은 인크레틴은 **약리적 포만**으로 섭취를 줄여 같은 hypothalamus·면역·생체에너지 상태를 재현하지 않을 수 있다. 저자들의 질문: **"체중이 줄었나"가 아니라 "생리적 배고픔 적응 프로그램을 켰나, 인공 포만 상태를 켰나"**. [[proposal-glp1ra-rebound-microbiota]]·[[concept-weight-regain-defended-adiposity]]에 바로 쓸 수 있는 가설 축이다. 단 저자들은 **인크레틴 치료에 반대하는 논거가 아니라고 명시**한다.
 > (2) **POMC는 포만 뉴런만이 아니다** — melanocortin 외에 내인성 opioid를 분비해 섭취를 **촉진**하고 보상·기호성을 조절한다는 서술이 [[proposal-pomc-endorphin-food-pleasure]]의 전제를 리뷰 수준에서 뒷받침한다.
-> (3) **AgRP → cortex의 비시냅스 경로**: AgRP 뉴런이 **순환 lysophospholipid**를 통해 cortical 흥분성을 바꾼다. 또 발달기 AgRP 교란이 medial prefrontal cortex의 뉴런 수·진동 활동·sensorimotor gating을 바꾸고 **도파민 조절로 되돌려진다**. [[concept-prefrontal-cortex-feeding]]·[[concept-inhibitory-control-demand]]에 시상하부 상류를 붙인다.
+> (3) **AgRP → cortex의 비시냅스 경로**: AgRP 뉴런이 **순환 lysophospholipid**를 통해 cortical 흥분성을 바꾼다. 또 발달기 AgRP 교란이 medial prefrontal cortex의 뉴런 수·진동 활동·sensorimotor gating을 바꾸고 **도파민 조절로 되돌려진다**. [[concept-prefrontal-cortex-feeding]]·[[concept-inhibitory-control-demand]]에 hypothalamus 상류를 붙인다.
 > (4) **사람 바이오마커 하나**: metabolically unhealthy obesity에서 **CSF pregnenolone 농도가 인지 점수와 양의 상관**. ARC POMC → neurosteroid → hippocampal 기억 축의 인체 접점이다.
 > ⚠️ 저자들이 스스로 다는 한계가 둘. 근거 대부분이 설치류이고, **hypothalamus를 engineering 방법(opto/chemogenetics)으로 다루는 것 자체가 Cajal 뉴런 독트린에 기대 있어 이 영역에 잘 맞지 않는다**고 쓴다(§10).
 
@@ -33,7 +33,7 @@ journal: "Neuron 115 (2027-01-06 호), Review, in press 2026; doi:10.1016/j.neur
 - 들어오는 신호: 영양소 가용성, 호르몬, 삼투압, 온도, 염증·면역 상태, circadian 위상, 내장 입력.
 - **leptin**: adipose tissue가 장기 지방량을 보고 → ARC의 leptin 반응 뉴런이 AgRP·POMC를 조절. 그런데 leptin 수용체는 **hippocampus·cortex·midbrain**에도 있어 시냅스 가소성·수상돌기 구조·인지 수행에 영향을 주고, 탐색·학습·사회적 상호작용을 에너지 상태에 묶는다([[concept-leptin]]).
 - **insulin**: 말초의 포도당 흡수 역할을 넘어, hypothalamus·hippocampus·cortex·amygdala·mesolimbic 경로의 중추 insulin 신호가 섭식·보상·기억·실행기능을 조절한다. **뇌 insulin 저항성은 노화와 Alzheimer병의 hallmark**가 됐다.
-- **위장관**: 신경 구심성 섬유와 ghrelin·GLP-1·peptide YY·CCK로 영양 섭취와 소화 상태를 계속 보고([[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]]). 단식 중 분비되는 **ghrelin**은 AgRP 뉴런을 활성화해 섭식을 촉진하지만 보상·동기·학습·스트레스 반응도 조절한다 → 저자들의 해석: 장 신호는 단순한 배고픔·포만 cue가 아니라 **행동 상태의 조절자**다([[concept-ghrelin]]).
+- **gastrointestinal tract**: 신경 구심성 섬유와 ghrelin·GLP-1·peptide YY·CCK로 영양 섭취와 소화 상태를 계속 보고([[steinert-2017-ghrelin-cck-glp-1-pyy-secretory]]). 단식 중 분비되는 **ghrelin**은 AgRP 뉴런을 활성화해 섭식을 촉진하지만 보상·동기·학습·스트레스 반응도 조절한다 → 저자들의 해석: 장 신호는 단순한 배고픔·포만 cue가 아니라 **행동 상태의 조절자**다([[concept-ghrelin]]).
 - **면역계**: cytokine과 염증 매개체가 행동을 **"질병 행동(sickness)" 배치**로 재편한다 — 피로, 동기 감소, 사회적 위축, 식욕부진, 인지 변화. 이는 에너지와 행동을 방어·수선으로 재배분한다. 역으로 hypothalamic 회로에서의 cytokine 작용이 신경내분비 기능·자율 출력·섭식·체온조절을 조정한다.
 - 정리: hypothalamus는 **내부 상태가 분산된 신경계로 들어가는 1차 관문**이고, 생리 정보를 진행 중인 신경 연산에 끼워 넣어 인지·동기·정서 과정이 펼쳐지는 조건을 설정한다.
 
@@ -96,13 +96,13 @@ journal: "Neuron 115 (2027-01-06 호), Review, in press 2026; doi:10.1016/j.neur
 - **glia**:
   - astrocyte도 미토콘드리아 역학과 연관된 대사 유연성을 고유하게 갖고 AgRP 계 가소성에 역할을 한다.
   - ★ **astrocyte 양성 피드포워드 고리 (Fig. 6)**: AgRP 뉴런이 방출한 **GABA**가 astrocyte 적응과 **PGE2** 방출을 유도 → PGE2가 AgRP 뉴런의 **EP2 수용체**를 활성화 → AgRP 흥분성을 더 높인다. 이 glial 기전이 **배고픔 구동 섭식과 과식을 증폭**할 수 있다. 재급식은 이 적응을 되돌린다.
-  - microglia는 시냅스 재편과 염증 반응에 참여. **tanycyte**는 제3뇌실 일부를 이루며 CSF·순환·hypothalamic 조직의 계면에 있어 혈중 신호 감지에 이상적이다.
+  - microglia는 시냅스 재편과 염증 반응에 참여. **tanycyte**는 third ventricle 일부를 이루며 CSF·순환·hypothalamic 조직의 계면에 있어 혈중 신호 감지에 이상적이다.
 
 ### 6. 몸–뇌 단절 — 노화에서 신경퇴행으로
 - 노화·대사질환·신경퇴행은 모두 **대사 유연성의 점진적 상실**로 특징지어진다.
 - **염증은 필수적이지만 맥락 의존적** 성분이다. 급성·잘 통제된 염증은 숙주 방어와 조직 수선을 돕고 에너지·행동을 일시적으로 회복에 재배분한다. 이 과정은 **immunometabolic 재프로그래밍**과 긴밀히 결합한다 — 활성화된 면역세포는 산화적 인산화에서 **해당과정으로 전환**해 빠른 ATP와 cytokine 생산·증식·효과기 기능·세포 운명 결정에 필요한 대사 중간체를 얻는다.
 - **대사 신호가 면역 기능을 조형한다**:
-  - 배고픔 연관 인자(ghrelin·NPY·endocannabinoid)는 대체로 **항염증·조직 수선** 프로그램에 유리하다. ghrelin은 실험적 자가면역 뇌척수염(EAE)에서 encephalitogenic **Th1·Th17 반응을 줄이고 Treg 반응을 촉진**한다.
+  - 배고픔 연관 인자(ghrelin·NPY·endocannabinoid)는 대체로 **항염증·조직 수선** 프로그램에 유리하다. ghrelin은 실험적 자가면역 encephalomyelitis(EAE)에서 encephalitogenic **Th1·Th17 반응을 줄이고 Treg 반응을 촉진**한다.
   - 반대로 **leptin**과 지방량 연관 신호는 면역세포 활성화와 염증 cytokine(IFN-γ 포함) 생산을 **높인다** — 특히 만성 과영양과 고지방식 연관 EAE에서.
 - **melanocortin 회로는 면역을 능동적으로 조절한다**(염증 입력에 단순 반응하는 것이 아니라):
   - AgRP 뉴런에서 **SIRT1을 선택적으로 결손**시키면 적응면역이 바뀌고 항염증 Treg 조절이 손상되며 **EAE 감수성이 높아진다**.

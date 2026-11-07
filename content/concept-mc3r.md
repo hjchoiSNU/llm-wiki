@@ -17,7 +17,7 @@ aliases: [MC3R, melanocortin 3 receptor]
 - MC4R과 ligand·신호를 공유하나 **기능적으로 non-redundant** (중복 아님).
 
 ## 분포
-- ARC POMC·AgRP 뉴런 (autoreceptor 추정), VMH, 시상하부 광범위.
+- ARC POMC·AgRP 뉴런 (autoreceptor 추정), VMH, hypothalamus 광범위.
 - 말초: 대사 조직.
 - MC4R이 PVN 등 **출력(effector)** 핵에 분포하는 것과 대조적으로, MC3R은 회로 **상류·조절** 위치에 더 분포.
 
@@ -55,4 +55,4 @@ aliases: [MC3R, melanocortin 3 receptor]
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need encoder (NMPU).
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 차세대 약물·정밀의학.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[azevedo-2020-a-limbic-circuit-selectively-links]] — **외측중격 LS^Nts 뉴런의 20%가 `Mc3r`⁺**(viral-TRAP + FISH). 멜라노코르틴계의 변연계 좌표 후보이나 인과 검증은 없음 (eLife 2020).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — **lateral septum LS^Nts 뉴런의 20%가 `Mc3r`⁺**(viral-TRAP + FISH). 멜라노코르틴계의 limbic system 좌표 후보이나 인과 검증은 없음 (eLife 2020).

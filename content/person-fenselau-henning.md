@@ -12,7 +12,7 @@ aliases: [Henning Fenselau, H. Fenselau]
 # Henning Fenselau
 
 - **소속**: Max Planck Institute for Metabolism Research, Cologne — Synaptic Transmission in Energy Homeostasis 그룹 리더. CEDAD(University of Cologne) 연계. 이전 **[[person-lowell-bradford|Bradford Lowell]]** lab(BIDMC/Harvard).
-- **분야**: 에너지 항상성 회로의 **시냅스 전달·가소성**. 시상하부 섭식 회로에 시냅스 생리학의 정량 도구(양자 분석·PPR·CV·AMPAR/NMDAR 비)를 체계적으로 적용.
+- **분야**: 에너지 항상성 회로의 **시냅스 전달·가소성**. hypothalamus 섭식 회로에 시냅스 생리학의 정량 도구(양자 분석·PPR·CV·AMPAR/NMDAR 비)를 체계적으로 적용.
 
 ## 본 위키 수록 작업
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] (Cell Metabolism 2023, 공동교신 — Lowell과 공동) — **배고픔 시냅스 증폭기**. 입력 특이적 가소성(PVH^TRH=전시냅스 빈도 / DMH^Vglut2=후시냅스 진폭), 상류 활성 의존 유도, NMDAR 관문, 단회 자극으로 수주 지속 체중 증가.

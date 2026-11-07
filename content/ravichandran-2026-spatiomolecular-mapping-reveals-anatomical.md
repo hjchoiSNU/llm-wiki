@@ -63,7 +63,7 @@ year: 2026
 - [[concept-hedonic-hotspot]] — OPRM1+ D1 island가 rodent medial shell 오피오이드 hedonic hotspot의 인간 해부학적 상관.
 - [[concept-food-addiction]] — 물질사용장애(SUD)·drinks per week 유전율이 특정 MSN SpD에 농축, 약물반응 회로의 취약성.
 - [[concept-spatial-transcriptomics]] — 사용된 Visium/Xenium/RCTD/NMF 등 방법론 hub.
-- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 동일 계열(인간 SRT+snRNA-seq 아틀라스)로 시상하부 대상; rodent→human 번역·GWAS 공간 매핑 방법론 공유.
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 동일 계열(인간 SRT+snRNA-seq 아틀라스)로 hypothalamus 대상; rodent→human 번역·GWAS 공간 매핑 방법론 공유.
 - [[littleton-2025-from-identity-to-function-unveiling]] — single-cell atlas era의 종간 번역 roadmap; 인간-mouse subtype 차이라는 공통 주제.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1/D2 MSN의 기능 해리; 본 논문은 그 subtype의 인간 분자·공간 정체성 제공.
 - [[pascoli-2026-conditioned-accumbal-dopamine-transients]] — NAc 도파민·중독 취약성; 본 논문은 약물반응 MSN subtype을 공간 매핑.

@@ -50,4 +50,4 @@ year: 2025
 - [[concept-need-motivation-pleasure-utility]] — Need(배고픔·포만 등 내적 상태) 축을 당사자 관점에서 재정의.
 - [[concept-metabolic-interoception]] — 대사·신체신호→정신건강 축 hub.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] · [[concept-vagal-afferent-neurons]] — 장→뇌 내수용 경로(환자가 강조한 위장 modality의 회로 기반).
-- [[livneh-2020-estimation-of-current-and-future]] — 섬엽의 예측적 내수용 부호화(신체상태 추정).
+- [[livneh-2020-estimation-of-current-and-future]] — insula의 예측적 내수용 부호화(신체상태 추정).

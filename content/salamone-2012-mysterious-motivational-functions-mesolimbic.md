@@ -71,7 +71,7 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 
 - Foot shock·tail pinch·restraint·social defeat 등 aversive 자극이 DA 분비 ↑ (microdialysis 다수, Anstrom 2009 voltammetry).
 - VTA DA neuron 일부는 aversive 자극에 burst firing (Brischoux 2009 ventral VTA, Matsumoto 2009 두 type, Lammel 2011 projection-specific).
-- 인간 fMRI: ventral striatum이 aversive prediction error에도 반응 (Jensen 2007).
+- 인간 fMRI: ventral striatum가 aversive prediction error에도 반응 (Jensen 2007).
 - **결론**: DA는 hedonia 전용도, reward 전용도 아님.
 
 ## Fast phasic vs slow phasic 중요한 분리

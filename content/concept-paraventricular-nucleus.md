@@ -12,7 +12,7 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 # Paraventricular nucleus (PVN / PVH)
 
 ## 위치
-시상하부 3V 양옆 dorsal. ARC와 DMH의 ventral, magnocellular + parvocellular subdivision.
+hypothalamus 3V 양옆 dorsal. ARC와 DMH의 ventral, magnocellular + parvocellular subdivision.
 
 ## 주요 cell types
 | Type | 기능 |
@@ -32,8 +32,8 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - Sensory cue 즉시 신호 (Chen·Knight 2015).
 
 ## 출력
-- 뇌하수체 (HPA·HPT·HPG·HPO).
-- DMV (parasympathetic) → 위장관·췌장.
+- pituitary (HPA·HPT·HPG·HPO).
+- DMV (parasympathetic) → gastrointestinal tract·췌장.
 - IML (sympathetic) → BAT·WAT·심혈관·신장.
 - Brainstem·spinal locomotor 영역.
 
@@ -55,13 +55,13 @@ aliases: [PVN, PVH, paraventricular hypothalamus]
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas.
 - [[xu-2020-behavioral-state-coding-by]] — PVH 세포타입 ensemble의 grouped-ensemble 행동상태 부호화 + CaRMA imaging (Sternson 2020).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — PVH를 satiety 중추가 아닌 양극 회로로 재정의: TRH⁺/PACAP⁺ 글루타메이트성 PVH→AgRP 흥분 + AgRP→PVH satiety GABA 억제(상호 hunger 회로) (Nature 2014, Lowell lab).
-- [[walker-2026-a-hypothalamic-circuit-for]] — 전측 PVH의 **Sim2⁺ Trh/Adcyap1 흥분성 소집단**(satiety MC4R/Pdyn과 분리)이 ARC^AgRP를 흥분시켜 미래 에너지 결핍 예측 cue로 hunger 구동 (Neuron 2026, Lowell lab).
+- [[walker-2026-a-hypothalamic-circuit-for]] — anterior PVH의 **Sim2⁺ Trh/Adcyap1 흥분성 소집단**(satiety MC4R/Pdyn과 분리)이 ARC^AgRP를 흥분시켜 미래 에너지 결핍 예측 cue로 hunger 구동 (Neuron 2026, Lowell lab).
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 PVH 6 소구역·magnocellular(AVP/OXT)↔parvocellular(CRH/TRH/SST) 분리 (공간전사체, preprint 2026).
 - [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor]] — PVH vasopressin 뉴런이 GLP-1R 체중감소에 필수.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — PVN의 **비-섭식 축**: **PVN^OT**가 양육 감작·관찰학습의 핵심(인공 활성만으로 처녀 암컷 retrieval 촉진; PIL·SC 입력, PVN→A1 출력), **PVN^CRH**는 anti-parental PeFA^Ucn3로 투사해 스트레스가 돌봄을 끄는 통로. 주산기 성상교세포 돌기 후퇴가 OT 방출을 증대 (NRN 2026).
 - [[concept-medial-preoptic-area]] — PVN^OT/CRH가 수렴·길항하는 양육 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — **PVN이 멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP) 모두와 상호 연결**을 이루는 핵임을 전뇌 지도로 확정. PVN은 ARC 두 집단의 주요 시상하부 입력원이자 이들의 축삭 표적이고, 동시에 **NTS POMC의 전뇌 3대 입력원**(CeM·PVN·PSTh) 중 하나. 인접 **SO(supraoptic)는 전체 지도에서 유일하게 AgRP 우세** 입력원이며 AgRP 개체에서 가장 조밀하게 표지된 핵 (Front Neuroanat 2015).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **PVN이 멜라노코르틴 세 갈래(ARC POMC·NTS POMC·ARC AgRP) 모두와 상호 연결**을 이루는 핵임을 whole-brain 지도로 확정. PVN은 ARC 두 집단의 주요 hypothalamus 입력원이자 이들의 축삭 표적이고, 동시에 **NTS POMC의 forebrain 3대 입력원**(CeM·PVN·PSTh) 중 하나. 인접 **SO(supraoptic)는 전체 지도에서 유일하게 AgRP 우세** 입력원이며 AgRP 개체에서 가장 조밀하게 표지된 핵 (Front Neuroanat 2015).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — ★ **PVH^TRH/PACAP → ARC^AgRP 시냅스가 "배고픔 증폭기"**: 체중 감소 시 이 입력만 선택적으로 강화(양자 빈도↑=전시냅스 방출 부위 수)되고, 단식 중 PVH^TRH를 침묵시키면 증폭·과식·체중 회복이 모두 무너진다. 상류 PVH^TRH를 **편측만** 활성화하면 **동측 AgRP에서만** 시냅스가 강화 = 순환 호르몬이 아닌 **회로 특이·활성 의존** 현상. 글루타메이트 방출(Vglut2) 필수 (Cell Metab 2023, Fenselau·Lowell).
 - [[concept-agrp-synaptic-plasticity]] · [[concept-weight-regain-defended-adiposity]] — PVH^TRH 축의 가소성 개념 hub와 임상 표현형.
 - [[yang-2011-hunger-states-switch-a-flip-flop]] — PVH를 포함한 ghrelin 민감 흥분성 입력이 단식 상태를 시냅스에 기억한다는 선행 원리(당시 입력 세포 정체는 미규명) (Cell 2011).

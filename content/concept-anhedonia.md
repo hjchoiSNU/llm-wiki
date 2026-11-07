@@ -15,7 +15,7 @@ updated: 2026-11-03
 
 ## 핵심 내용
 - **Anticipatory vs consummatory 이분법**: 예측(wanting/incentive salience) vs 소비(liking/hedonic impact)를 구분. Schulz 2026은 음식 보상에서 MDD/anhedonia가 **anticipatory wanting↓, consummatory liking 보존**임을 보였고, 보상이 가까워지면 wanting이 회복됨을 관찰.
-- **신경 기질**: anticipatory wanting은 중변연계 [[concept-dopamine-reward-system|도파민]]/incentive salience에 의존; consummatory liking은 오피오이드 [[concept-hedonic-hotspot|핫스폿]]에 의존([[concept-liking-wanting]]). anhedonia = wanting 회로 결손 가설과 부합.
+- **신경 기질**: anticipatory wanting은 중limbic system [[concept-dopamine-reward-system|도파민]]/incentive salience에 의존; consummatory liking은 오피오이드 [[concept-hedonic-hotspot|핫스폿]]에 의존([[concept-liking-wanting]]). anhedonia = wanting 회로 결손 가설과 부합.
 - **대사 연동**: anhedonia는 공복혈당↑·인슐린저항과 연동(진단명보다 증상 수준), acyl [[concept-ghrelin|ghrelin]]은 incentive motivation과 연관 → 우울-비만/당뇨 공존의 gut-brain 접점.
 - **측정 주의**: SHAPS 등 자기보고 척도는 주로 소비적 쾌락을 물어 anticipatory 결손을 놓칠 수 있음.
 

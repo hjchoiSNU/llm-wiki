@@ -27,7 +27,7 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 ## 핵심 내용
 
 ### Fig. S1 — 선행 결과 재현: LH^Vglut2 자극은 6시간 각성을 만든다
-- **대상·도구**: Vglut2-IRES-Cre 마우스 **n=8**, LH에 **AAV8-hSyn-DIO-hM3D(Gq)-mCherry 100 nL** (bregma 기준 AP −1.4, ML ±1.2, DV −5.0). 감염 범위는 **fornix 외측 ~ cerebral peduncle 내측** 대부분.
+- **대상·도구**: Vglut2-IRES-Cre 마우스 **n=8**, LH에 **AAV8-hSyn-DIO-hM3D(Gq)-mCherry 100 nL** (bregma 기준 AP −1.4, ML ±1.2, DV −5.0). 감염 범위는 **fornix lateral ~ cerebral peduncle medial** 대부분.
 - **처치**: hM3Dq 작용제 **deschloroclozapine (DCZ) 0.3 mg/kg i.p.** vs saline, **ZT2**(수면 압력이 높은 시점), 교차설계(최소 1주 간격).
 - **결과**: DCZ는 **거의 끊김 없는 각성 6시간**을 유발. treatment × time 상호작용 **F(11,77)=9.88, P<0.001, n=8** (two-way RM-ANOVA + Bonferroni). naive 마우스에서 DCZ 단독 효과는 없음.
 - **EEG**: treatment × band 상호작용 **F(5,35)=7.32, P<0.001**. 각성 중 정규화 power가 **Hθ(8–10 Hz) 145%**, **Hγ(60–80 Hz) 180%**로 유의하게 증가. HθWP(각성 중 high-theta power) 상승이 수시간 지속(**F(11,77)=3.87, P<0.001**).
@@ -65,7 +65,7 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 - **RFP⁺ 세포의 20.1 ± 0.7%가 Gad2⁺** → "소수지만 유의한 비율의 LH CaMKIIα 뉴런이 억제성"이다.
 
 **(d) RNAscope FISH — promoter 자체는 Camk2a에 충실하지만 Camk2a⁺가 단일 전달물질 타입이 아니다 (Fig. S2)**
-- 동기: Veres 2023(eNeuro)이 **CaMKIIα promoter가 CaMKIIα 단백질이 없는 피질 interneuron에서도 transgene을 구동**한다고 보고했다(He 2021 RNAscope, Liu & Jones 1996, Sik 1998 면역표지와 대조). 즉 promoter 특이도 자체가 의심받았다.
+- 동기: Veres 2023(eNeuro)이 **CaMKIIα promoter가 CaMKIIα 단백질이 없는 cortex interneuron에서도 transgene을 구동**한다고 보고했다(He 2021 RNAscope, Liu & Jones 1996, Sik 1998 면역표지와 대조). 즉 promoter 특이도 자체가 의심받았다.
 - 검증: 3마리에서 **mCherry⁺ 934세포**를 계수 → **95.6 ± 0.4%가 Camk2a mRNA 공발현**(Fig. S2 상단). **promoter는 LH에서 Camk2a에 충실하다.**
 - 그런데 같은 mCherry 집단을 전달물질 marker로 나누면 **두 아집단**이 나온다:
   - **Vglut2(Slc17a6)⁺: 708 mCherry 세포 중 78.7 ± 3.7%** (Fig. S2 중단)
@@ -76,7 +76,7 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 **(e) 종합 — CaMKIIα는 "세포타입"이 아니라 "농축 마커"다**
 - 최종 정식화: **glutamatergic wake-promoting 집단 ~80% + GABAergic 집단 ~20%**.
 - 저자들의 자기 한정(Discussion 마지막): "향후 연구는 **CaMKIIα보다 더 특이적인** 이 glutamatergic wake-promoting 뉴런의 분자 마커와 입력 동정에 집중할 것이다." 또 "[[mickelsen-2019-single-cell-transcriptomic-analysis-of|지금까지 LH에서 최소 15개 GABAergic 집단]]이 동정되었으므로 평가할 후보 세포타입이 여럿 있다."
-- **해부학적 범위(subregion)**: 주입 좌표는 **AP −1.4 / ML ±1.0–1.2 / DV −4.7~−4.8 (pia 기준)** — perifornical ~ tuberal LH. Vglut2 대조군의 감염 범위는 **fornix 외측 ~ cerebral peduncle 내측**이고, 저자들은 각성 효과를 "**fornix와 optic tract 사이에 있는 glutamatergic 뉴런**"에 귀속시킨다. Histaminergic 계수는 **TMN**에서 이루어졌다(바이러스 확산이 TMN 근방까지 평가되었음).
+- **해부학적 범위(subregion)**: 주입 좌표는 **AP −1.4 / ML ±1.0–1.2 / DV −4.7~−4.8 (pia 기준)** — perifornical ~ tuberal LH. Vglut2 대조군의 감염 범위는 **fornix lateral ~ cerebral peduncle medial**이고, 저자들은 각성 효과를 "**fornix와 optic tract 사이에 있는 glutamatergic 뉴런**"에 귀속시킨다. Histaminergic 계수는 **TMN**에서 이루어졌다(바이러스 확산이 TMN 근방까지 평가되었음).
 
 ### Fig. 4 · Fig. S3–S5 — GABAergic 뉴런을 지우면 각성은 남고 운동만 사라진다
 - **전략**: Gad2-IRES-Cre;R26R-EYFP(**TG, n=10**)와 WT 형제(**n=9**) LH에 **AAV8-CaMKIIα-hM3D(Gq)-mCherry + AAV-CMV-FLEX-mCherry/DTA(Sr10) 50:50 혼합 100 nL** 공주입(AP −1.4, ML −1.2, DV −4.7 from pia). TG에서만 Cre 의존적으로 **Diphtheria Toxin A**가 발현되어 국소 GABAergic 뉴런이 소실되고, hM3Dq는 양 계통 모두에서 CaMKIIα 뉴런에 발현된다.
@@ -115,7 +115,7 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **NMPU의 Motivation을 "activational"과 "directional"로 쪼개는 세포타입 근거**. [[kim-2024-normative-framework-dissociates-need|Kim 2024]]의 B = M − K 틀에서 이 논문은 **M의 출력단이 단일하지 않음**을 보여 준다: 같은 CaMKIIα 라벨 안에서 **각성 상태(state)** 와 **운동 출력(vigor/locomotion)** 이 다른 전달물질 아집단에 실린다. [[salamone-2012-mysterious-motivational-functions-mesolimbic|Salamone 2012]]의 activational 성분을 LH 수준에서 **"각성 성분(glutamatergic)"과 "운동 성분(GABAergic)"으로 재분해**하는 *연결 가설*을 세울 수 있다. 검증: 사용자 lab의 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]] photometry 과제에 EEG/EMG를 붙여 seeking 구간의 각성 상태와 approach 속도가 **해리되는지** 본다.
-- **"AAV-CaMKIIα = excitatory"를 LH에서는 쓸 수 없다 — 사용자 lab 도구 감사 항목**. 피질에서 통용되는 이 전제가 LH에서는 **20–33% GABAergic 오염**을 뜻한다([[concept-neurotransmitter-cotransmission|마커 함정]]). LH에서 CaMKIIα promoter AAV로 얻은 섭식·보상 결과는 **LH^Vgat 성분의 기여를 배제하지 못한다**. 사용자 lab이 LH 조작 논문을 평가할 때의 체크리스트 항목으로 쓸 수 있다: ① transgenic line인가 AAV promoter인가, ② promoter 충실도(Camk2a 공발현)와 **전달물질 구성**을 따로 보고했는가.
+- **"AAV-CaMKIIα = excitatory"를 LH에서는 쓸 수 없다 — 사용자 lab 도구 감사 항목**. cortex에서 통용되는 이 전제가 LH에서는 **20–33% GABAergic 오염**을 뜻한다([[concept-neurotransmitter-cotransmission|마커 함정]]). LH에서 CaMKIIα promoter AAV로 얻은 섭식·보상 결과는 **LH^Vgat 성분의 기여를 배제하지 못한다**. 사용자 lab이 LH 조작 논문을 평가할 때의 체크리스트 항목으로 쓸 수 있다: ① transgenic line인가 AAV promoter인가, ② promoter 충실도(Camk2a 공발현)와 **전달물질 구성**을 따로 보고했는가.
 - **LH^Nts가 CaMKIIα-GABA/LMA 성분의 분자 정체 후보다**. [[sumarli-2026-multidimensional-control-of-ingestive-behavior|Sumarli 2026]]의 LH^Nts는 **총 섭식은 바꾸지 않고 licking 운동량·각성·자발적 운동·novelty seeking**을 조율한다. [[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]에서 Nts⁺는 **70.8% GABA**이고, 이 논문이 인용하는 Naganuma 2019(PLoS Biol)는 **LH neurotensin 뉴런이 각성과 고체온을 촉진**한다고 보고했다. → "CaMKIIα⁺/Vgat⁺/Nts⁺ = LMA 담당 아집단"이라는 검증 가능한 *연결 가설*. Nts-Cre × CaMKIIα promoter 교차 표지로 바로 셀 수 있다. [[concept-neurotensin]]·[[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]] 참조.
 - **섭식 회로 조작의 체중 효과에서 LMA를 분리해야 한다**. 활동기 보행 속도가 **GABAergic 절제만으로 68% 감소**하는데 수면 구조는 멀쩡하다는 결과는, LH 조작이 섭취량과 **독립적으로 에너지 소비 축**을 건드릴 수 있음을 뜻한다. [[concept-weight-regain-defended-adiposity|방어된 지방량]] 논의와 GLP-1RA 체중 효과 해석에서 **활동량 변화를 공변량으로 측정**해야 한다는 실무적 함의다.
 - **각성이 섭식 표현형의 교란변수다**. [[stuber-2016-lateral-hypothalamic-circuits-for|Stuber 2016]]은 "Orx의 섭식 표현형이 특정 각성 상태의 행동 패턴일 수 있다"고 가설했다. 이 논문은 그 각성 축을 **Hcrt 없이도** 켤 수 있음을 보였으므로, LH 조작 실험에서 **섭취량 변화가 각성·활동 증가의 2차 결과인지**를 분리하는 설계(동일 조작에서 EEG + food intake 동시 측정)가 필요하다. [[concept-appetitive-consummatory-phases]]와 연결된다.
@@ -129,7 +129,7 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 - **MCH는 GABAergic인가 — [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] · [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]]**: 이 논문 Discussion은 MCH 세포의 **~98%가 *Gad1*, 21%가 *Gad2*를 발현하지만 *Slc32a1*(Vgat)은 어떤 MCH 뉴런에서도 검출되지 않았고**, 거의 전부가 *Slc17a6*(Vglut2)⁺이라고 인용한다(Mickelsen 2017 eNeuro). ⚠️ "MCH = GABA 뉴런"이라는 통상 서술은 **GABA 합성효소 발현을 GABA 방출로 오독**한 결과일 수 있다. 다만 **이 논문은 MCH 공표지를 직접 측정하지 않았다** — MCH가 CaMKIIα-GABA 아집단의 정체인지는 **미검증**이며, 저자들도 암시만 한다. 또 MCH 뉴런은 REM·수면 촉진으로 알려져 있어, 이 논문의 "CaMKIIα 집단은 wake-active, NREM 선호 세포 거의 없음"(Fig. 2)과도 **잘 맞지 않는다** → MCH 후보 가설에 대한 반대 증거로 병기한다.
 - **Hcrt 뉴런의 전달물질 — [[concept-orexin-neurons]] · [[concept-neurotransmitter-cotransmission]]**: Mickelsen 2017 인용에 따르면 Hcrt 뉴런의 **56%가 *Gad1*, 16%가 *Gad2*** 를 발현하지만 **Vgat mRNA는 1.5%뿐**이다. 위키에서 "Hcrt = glutamatergic"으로만 적은 곳이 있다면 이 수치를 병기해 두는 것이 안전하다(저자들도 "GABA 방출 가능성을 시사할 수 있으나 Vgat가 거의 없다"고 양쪽을 적는다).
 - **LH GABA = 섭식·보상 engine이라는 틀 — [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[stuber-2016-lateral-hypothalamic-circuits-for]]**: 위키의 LH^Vgat 서술은 섭식·보상·motivational salience 중심이다. 이 논문은 같은 Gad2⁺ 집단(의 CaMKIIα⁺ 부분)을 **보행 운동·HθWP** 쪽에서 기술한다. ⚠️ 충돌이 아니라 **측정하지 않은 축**이다 — 이 논문은 **섭식량·보상 행동을 전혀 측정하지 않았고**, Lee 2026·Lee 2023은 **수면/각성과 보행 속도를 측정하지 않았다**. 두 문헌을 합쳐 "LH^Vgat는 섭식 engine이면서 LMA 조절자다"라고 **단일 문장으로 적지 않는다**(각 논문이 실제 측정한 축을 명시해 병기).
-- **CaMKIIα promoter의 특이도 — 외부 쟁점(위키에 아직 1차 페이지 없음)**: Veres 2023(eNeuro)은 CaMKIIα promoter가 **CaMKIIα 단백질이 없는 피질 interneuron에서도** transgene을 구동한다고 보고했다. 이 논문은 LH에서 **mCherry⁺의 95.6%가 *Camk2a* mRNA⁺**임을 보여 **promoter 충실도는 방어**했지만, 동시에 **Camk2a⁺ 자체가 LH에서는 혼합 전달물질 집단**임을 보였다. ⚠️ 두 문제(promoter 누출 vs 마커의 세포타입 비특이성)를 **구분해서** 적어야 한다 — 이 논문이 해결한 것은 전자뿐이다.
+- **CaMKIIα promoter의 특이도 — 외부 쟁점(위키에 아직 1차 페이지 없음)**: Veres 2023(eNeuro)은 CaMKIIα promoter가 **CaMKIIα 단백질이 없는 cortex interneuron에서도** transgene을 구동한다고 보고했다. 이 논문은 LH에서 **mCherry⁺의 95.6%가 *Camk2a* mRNA⁺**임을 보여 **promoter 충실도는 방어**했지만, 동시에 **Camk2a⁺ 자체가 LH에서는 혼합 전달물질 집단**임을 보였다. ⚠️ 두 문제(promoter 누출 vs 마커의 세포타입 비특이성)를 **구분해서** 적어야 한다 — 이 논문이 해결한 것은 전자뿐이다.
 
 ## 관련 페이지
 - [[concept-lh-camkii-neurons]] — ⚠️ **이 논문의 조성 감사(95.6% *Camk2a* / Vglut2 78.7% / Vgat 20–33%)를 "CaMKIIα는 세포 유형이 아니라 프로모터 표지"라는 판정으로 정식화한 개념 hub.** Vglut2 78.7 + Vgat 33 = 111.7% 초과분과 Tan 2022과의 GABA 분율 재현 불가를 병기한다.
@@ -153,4 +153,4 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 - [[concept-appetitive-consummatory-phases]] — 각성 축을 섭식 단계 구분의 교란변수로 다루기.
 - [[concept-weight-regain-defended-adiposity]] — LMA(에너지 소비) 축을 섭취량과 분리해 측정해야 하는 이유.
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — 대사 질환의 활동·effort 저하; CaMKIIα 표적 가설의 임상 연결.
-- [[concept-hypomap]] — 시상하부 세포타입 atlas 기준에서 CaMKIIα 라벨의 위치.
+- [[concept-hypomap]] — hypothalamus 세포타입 atlas 기준에서 CaMKIIα 라벨의 위치.

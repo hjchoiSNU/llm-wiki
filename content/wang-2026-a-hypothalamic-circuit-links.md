@@ -10,8 +10,8 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **만성 고지방식(HFD)이 왜 불안과 과식을 동시에 만드는가**를 회로 수준으로 분해한 논문. 세 개의 잘 알려진 시상하부 노드 — [[concept-npy-agrp-neurons|ARC^AgRP]] → [[concept-paraventricular-nucleus|PVN^CRH]] → [[concept-lateral-hypothalamus|LHA^Glu]] — 가 평소엔 각자 섭식·스트레스·섭식억제를 담당하지만, **만성 HFD라는 질병 맥락에서만 하나의 긴 회로로 "동적으로 재결합(state-dependent recruitment)"** 되어 anxiety-associated hyperphagia를 만든다는 주장이다. 핵심은 **상류(ArcAgRP-PVNCRH)는 불안+과식을 함께 나르고, 하류 LHA의 CRHR2 신호는 과식만 떼어 매개(불안엔 무관)** 한다는 분리 — 즉 정서 축과 섭식 축이 같은 회로의 다른 분절에 분산된다.
-> 사용자 연구([[concept-emotional-eating|정서적 섭식]]·[[tomiyama-2019-stress-and-obesity|스트레스-비만]]·[[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]])에 닿는 지점: (1) **HFD→HPA축 과활성→과식**이라는 사용자 lab emotional-eating 가설에 **순수 시상하부-내 회로 기질**을 제공(VTA→NAc 보상계를 거치지 않는 축). (2) **불안을 약으로 끄면(midazolam) HFD 과식이 준다** = 정서 상태가 섭식을 bias한다는 인과적 손잡이. (3) **CRHR2 = 과식 전용 분자 표적**(불안은 안 건드림) → 선택적 anti-hyperphagia 창. 단, 전부 **수컷 마우스**·HFD 맥락 한정이고, 보상계를 경유하는 사용자 lab의 기존 축과는 **상보/긴장** 관계(아래 ⚠️ 절).
+> **만성 고지방식(HFD)이 왜 불안과 과식을 동시에 만드는가**를 회로 수준으로 분해한 논문. 세 개의 잘 알려진 hypothalamus 노드 — [[concept-npy-agrp-neurons|ARC^AgRP]] → [[concept-paraventricular-nucleus|PVN^CRH]] → [[concept-lateral-hypothalamus|LHA^Glu]] — 가 평소엔 각자 섭식·스트레스·섭식억제를 담당하지만, **만성 HFD라는 질병 맥락에서만 하나의 긴 회로로 "동적으로 재결합(state-dependent recruitment)"** 되어 anxiety-associated hyperphagia를 만든다는 주장이다. 핵심은 **상류(ArcAgRP-PVNCRH)는 불안+과식을 함께 나르고, 하류 LHA의 CRHR2 신호는 과식만 떼어 매개(불안엔 무관)** 한다는 분리 — 즉 정서 축과 섭식 축이 같은 회로의 다른 분절에 분산된다.
+> 사용자 연구([[concept-emotional-eating|정서적 섭식]]·[[tomiyama-2019-stress-and-obesity|스트레스-비만]]·[[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]])에 닿는 지점: (1) **HFD→HPA축 과활성→과식**이라는 사용자 lab emotional-eating 가설에 **순수 hypothalamus-내 회로 기질**을 제공(VTA→NAc 보상계를 거치지 않는 축). (2) **불안을 약으로 끄면(midazolam) HFD 과식이 준다** = 정서 상태가 섭식을 bias한다는 인과적 손잡이. (3) **CRHR2 = 과식 전용 분자 표적**(불안은 안 건드림) → 선택적 anti-hyperphagia 창. 단, 전부 **수컷 마우스**·HFD 맥락 한정이고, 보상계를 경유하는 사용자 lab의 기존 축과는 **상보/긴장** 관계(아래 ⚠️ 절).
 
 # Wang et al. 2026 — HFD가 ArcAgRP-PVNCRH-LHAGlu 회로를 재결합해 불안·과식을 커플링
 
@@ -66,7 +66,7 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 - **한계**: ① **전부 수컷**(성차 미검); ② circadian phase 직접 측정 안 함; ③ AAV2/1 anterograde의 한계(단, 광견병·opto-ephys로 교차검증); ④ 흥분/억제 혼재의 분자 기전 미규명; ⑤ emotional feeding이 병리 아닌 적응적 보상 반응일 가능성, 장기 정서 결과 미평가.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
-- **Emotional eating의 "순수 시상하부-내" 축**: 사용자 lab의 [[concept-emotional-eating|정서적 섭식]] 모델은 HPA축(cort/CRF)·ghrelin·orexin이 **VTA→NAc 보상계**로 수렴한다고 본다. 본 논문은 **보상계를 경유하지 않는** Arc-PVN-LHA 내부 축을 제시 → 정서적 과식이 **보상-기반(VTA)** 과 **항상성-기반(시상하부 내)** 두 경로로 이중 구현될 가능성. 두 축이 LHA(또는 CRH)에서 만나는지 검증 가치.
+- **Emotional eating의 "순수 hypothalamus-내" 축**: 사용자 lab의 [[concept-emotional-eating|정서적 섭식]] 모델은 HPA축(cort/CRF)·ghrelin·orexin이 **VTA→NAc 보상계**로 수렴한다고 본다. 본 논문은 **보상계를 경유하지 않는** Arc-PVN-LHA 내부 축을 제시 → 정서적 과식이 **보상-기반(VTA)** 과 **항상성-기반(hypothalamus 내)** 두 경로로 이중 구현될 가능성. 두 축이 LHA(또는 CRH)에서 만나는지 검증 가치.
 - **[[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]] 매핑 가설**: AgRP=Need(Kim KS 2024), LHA=Motivation 통합 hub라는 틀에서, PVNCRH는 **스트레스/정서 입력을 Need-Motivation 변환에 주입하는 modulator**로 읽을 수 있다 — HFD가 이 modulator를 상시 켜 Need 신호를 정서로 오염.
 - **CRHR2 = 과식 전용 창**: 불안을 건드리지 않고 과식만 줄이는 분자 표적은 사용자 lab의 **선택적 anti-hyperphagia** 약리 전략(GLP-1RA 보조 등)에 흥미로운 후보. LHA^Glu 발현이라는 점에서 [[concept-lateral-hypothalamus|LH]] 표적화 가능.
 - **불안-층화(hierarchical clustering) 방법론**: "불안-취약 아형"만 표현형을 보인다는 설계는 사용자 lab의 비만 이질성([[lee-2025-hijacked-brain-modern-obesity-cue|5-type]]) 층화와 직접 호응 — HFD 반응의 개체차를 정서 축으로 나누는 틀.
@@ -74,8 +74,8 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 ## ⚠️ 위키 내 충돌·긴장 (병기 — 덮어쓰지 않음)
 - **AgRP→PVNCRH "흥분" vs [[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]**: Krashes는 **CRH·PDYN·OXT·AVP PVH 뉴런이 AgRP에 "무연결"** 이라고 보고했고(흥분성 입력은 TRH·PACAP 뉴런), 방향은 **PVH→AgRP 흥분 + AgRP→PVH satiety GABA 억제**(상호 hunger 회로)였다. 본 논문은 **반대 방향(AgRP→PVNCRH)** 에서 **단일시냅스 oEPSC+oIPSC** 를 보고 — Krashes 틀(AgRP=GABA성, PVN^CRH는 AgRP의 흥분 표적 아님)과 **직접 긴장**. 저자도 "예상 밖"으로 인정하며 AgRP 이질성·co-release로 설명. 두 결과는 방향·맥락(기아 vs 만성 HFD)이 달라 상호배타는 아니나, **AgRP→PVNCRH 흥분성의 분자 기질은 미해결**.
 - **LHA^Glu "섭식억제" 통설 vs [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]·[[concept-lateral-hypothalamus|LH concept]]**: 위키의 LH 틀은 LH^Vglut2=섭식 "brake", LH^Glu→LHb=aversive로 정리한다(Stamatakis 2016). 본 논문은 그 통설을 **유지하면서도** HFD에서 PVNCRH가 LHA^Glu를 **억제→brake 해제→과식**으로 뒤집어 읽는다(LHA^Glu가 과식을 "하는" 게 아니라 "덜 막는"). [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova]]의 LH=hunger×anxiety×loneliness arbitration 틀과는 **다른 cell type(LepR vs Vglut2)·다른 방향**이라 직접 충돌은 아니나, LH가 불안-섭식 교차의 노드라는 점에서 **같은 무대, 다른 세포**.
-- **[[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] (HFD→시상하부 기능장애)**: Barros는 HFD가 microbiota·염증·대사 재프로그래밍으로 시상하부를 손상시키는 축을 정리. 본 논문의 "HFD priming"은 그 분자 하류일 수 있으나, **본 논문은 염증·gut 축을 전혀 다루지 않고** 순수 회로 재결합으로 설명 → 두 설명이 **같은 HFD 표현형의 다른 층**(염증 vs 회로)인지 병기 필요.
-- **보상계 비경유 vs [[concept-emotional-eating|emotional eating]]·[[tomiyama-2019-stress-and-obesity|Tomiyama 2019]]**: 위키의 스트레스-섭식 축은 **VTA→NAc 도파민 보상 민감화** 중심. 본 논문은 그 축을 언급·검증하지 않고 시상하부-내 회로만 제시 → 정서적 과식의 **보상계 설명과 상보/경쟁** (어느 쪽이 지배적인지, 어디서 수렴하는지 미해결).
+- **[[barros-2026-from-diet-to-hypothalamic-dysfunction|Barros 2026]] (HFD→hypothalamus 기능장애)**: Barros는 HFD가 microbiota·염증·대사 재프로그래밍으로 hypothalamus를 손상시키는 축을 정리. 본 논문의 "HFD priming"은 그 분자 하류일 수 있으나, **본 논문은 염증·gut 축을 전혀 다루지 않고** 순수 회로 재결합으로 설명 → 두 설명이 **같은 HFD 표현형의 다른 층**(염증 vs 회로)인지 병기 필요.
+- **보상계 비경유 vs [[concept-emotional-eating|emotional eating]]·[[tomiyama-2019-stress-and-obesity|Tomiyama 2019]]**: 위키의 스트레스-섭식 축은 **VTA→NAc 도파민 보상 민감화** 중심. 본 논문은 그 축을 언급·검증하지 않고 hypothalamus-내 회로만 제시 → 정서적 과식의 **보상계 설명과 상보/경쟁** (어느 쪽이 지배적인지, 어디서 수렴하는지 미해결).
 - **brake 상실의 기전 층위 vs [[rossi-2019-obesity-remodels-activity-and|Rossi 2019]]**: Rossi(Stuber lab, Science 2019)도 만성 HFD에서 LHA^Vglut2 brake가 꺼짐을 보였다(같은 뉴런의 sucrose 반응·휴지기 활동 12주 점진 감소). 그러나 기전은 **세포 내재 흥분성 감소 + 활동 관련 유전자(ion homeostasis·synaptic·intracellular signaling) 전사 변화**이고, 불안-취약 아형 구분 없이 HFD 전체에서 관찰됐다. 본 논문의 **PVN^CRH→CRHR2 순억제(외부 시냅스 입력)** 와는 결론(brake 기능 상실)이 수렴하고 기전 층위·표본이 다르다 — 상보 가설로 병기(내재 흥분성↓가 CRHR2 신호의 하류인지 미검증).
 
 ## 관련 페이지
@@ -83,14 +83,14 @@ journal: "Nature Communications (2026, Article in Press); doi:10.1038/s41467-026
 - [[concept-paraventricular-nucleus]] — PVNCRH가 **정서·과식을 함께 나르는 통합 노드**. AgRP→PVNCRH 흥분성(Krashes 틀과 긴장)·PVNCRH→LHA 억제성 투사.
 - [[concept-lateral-hypothalamus]] — 하류 LHA^Glu(섭식억제)가 **과식 성분 전용**; CRHR2(not CRHR1) 발현이 과식 효과 매개.
 - [[concept-arcuate-nucleus]] — ArcAgRP 모집의 출발핵.
-- [[concept-emotional-eating]] — ★ 정서적 섭식의 **시상하부-내 회로 기질**(보상계 비경유 축); midazolam 실험=정서→섭식 인과.
+- [[concept-emotional-eating]] — ★ 정서적 섭식의 **hypothalamus-내 회로 기질**(보상계 비경유 축); midazolam 실험=정서→섭식 인과.
 - [[tomiyama-2019-stress-and-obesity]] — HFD→HPA축 과활성(corticosterone↑)→과식·비만 유지를 회로로 구현.
-- [[concept-negative-reinforcement-hyperkatifeia]] — 불안 상태 완화를 향한 과식(음성강화) 프레임과 호응(단 본 논문은 확장편도 대신 시상하부 축).
+- [[concept-negative-reinforcement-hyperkatifeia]] — 불안 상태 완화를 향한 과식(음성강화) 프레임과 호응(단 본 논문은 extended amygdala 대신 hypothalamus 축).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — NMPU: PVNCRH를 Need-Motivation 변환의 정서 modulator로 읽는 연결 가설.
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — ★ **직접 긴장**: PVH-AgRP 흥분의 방향·세포 정체가 본 논문(AgRP→PVNCRH)과 반대·충돌.
 - [[walker-2026-a-hypothalamic-circuit-for]] — 같은 PVH↔AgRP 무대의 **예측-hunger 축**(PVH^Sim2→AgRP). 본 논문은 정서-과식 축으로, 동일 핵의 상이한 소집단·방향.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH를 hunger×anxiety arbitration 노드로 본 틀과 **같은 무대, 다른 세포**(LepR vs Vglut2).
-- [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — HFD→시상하부 기능장애(염증·gut 축)와 **상보**(분자 상류 가능).
+- [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — HFD→hypothalamus 기능장애(염증·gut 축)와 **상보**(분자 상류 가능).
 - [[concept-hedonic-devaluation]] — 만성 HFD가 보상계·ARC를 재편하는 축(본 논문 회로 축과 병치).
 - [[concept-hypothalamic-obesity]] · [[concept-hypothalamic-inflammation]] — HFD priming의 대사·염증 맥락.
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 비만 이질성 층화(불안-취약 아형 설계와 호응).

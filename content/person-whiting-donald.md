@@ -6,7 +6,7 @@ updated: 2026-06-01
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Whiting은 **외측시상하부(LHA) DBS를 난치성 비만에 적용한 first-in-human 임상**을 이끈 기능신경외과의다. 그의 핵심 발견 — **LHA 고주파 자극이 식욕 억제가 아니라 휴식대사율(RMR)을 16–28% 끌어올린다** — 는 비만 신경조절의 표적 논리를 "intake"에서 "expenditure"로 확장했다. 사용자의 LH 회로 연구([[concept-lateral-hypothalamus]])가 인간 임상에서 어떻게 구현·한계에 부딪히는지 보여주는 번역 reference.
+> Whiting은 **lateral hypothalamus(LHA) DBS를 난치성 비만에 적용한 first-in-human 임상**을 이끈 기능신경외과의다. 그의 핵심 발견 — **LHA 고주파 자극이 식욕 억제가 아니라 휴식대사율(RMR)을 16–28% 끌어올린다** — 는 비만 신경조절의 표적 논리를 "intake"에서 "expenditure"로 확장했다. 사용자의 LH 회로 연구([[concept-lateral-hypothalamus]])가 인간 임상에서 어떻게 구현·한계에 부딪히는지 보여주는 번역 reference.
 
 # Donald M. Whiting
 

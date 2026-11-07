@@ -9,12 +9,12 @@ year: 2011
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 지방의 **구강 감각(orosensory) 신호**가 미주신경을 거쳐 **소장(공장, jejunum)의 [[concept-endocannabinoid-system|endocannabinoid]](2-AG·anandamide) 동원**을 유발하고, 이 장(gut) 내 신호가 다시 **CB1 수용체를 통해 지방 섭취를 증폭**시키는 뇌–장 양성 피드백 루프를 제시. 최형진 lab의 시상하부·미주 회로 기반 섭식 연구에서 **지방 선호(fat preference)의 말초(gut) 기전**과, 구강 지방 감각을 postingestive 신호와 분리하는 sham-feeding 패러다임의 활용 모델로 직접 연결됨. 말초 한정 CB1 길항제가 항비만 표적이 될 수 있다는 함의도 제공.
+> 지방의 **구강 감각(orosensory) 신호**가 vagus nerve를 거쳐 **소장(공장, jejunum)의 [[concept-endocannabinoid-system|endocannabinoid]](2-AG·anandamide) 동원**을 유발하고, 이 장(gut) 내 신호가 다시 **CB1 수용체를 통해 지방 섭취를 증폭**시키는 뇌–장 양성 피드백 루프를 제시. 최형진 lab의 hypothalamus·미주 회로 기반 섭식 연구에서 **지방 선호(fat preference)의 말초(gut) 기전**과, 구강 지방 감각을 postingestive 신호와 분리하는 sham-feeding 패러다임의 활용 모델로 직접 연결됨. 말초 한정 CB1 길항제가 항비만 표적이 될 수 있다는 함의도 제공.
 
 # Endocannabinoid signal in the gut controls dietary fat intake
 
 ## 한 줄 요약
-지방의 구강 노출이 미주신경 의존적으로 rat 공장(jejunum)에서 endocannabinoid(2-AG, anandamide) 동원을 선택적으로 일으키고, 이렇게 생성된 장 내 endocannabinoid가 국소 CB1 수용체를 자극해 지방 섭취를 촉진하는 뇌–장 양성 피드백 회로를 규명한 연구(DiPatrizio, Piomelli 등, PNAS 2011).
+지방의 구강 노출이 vagus nerve 의존적으로 rat 공장(jejunum)에서 endocannabinoid(2-AG, anandamide) 동원을 선택적으로 일으키고, 이렇게 생성된 장 내 endocannabinoid가 국소 CB1 수용체를 자극해 지방 섭취를 촉진하는 뇌–장 양성 피드백 회로를 규명한 연구(DiPatrizio, Piomelli 등, PNAS 2011).
 
 ## 핵심 내용
 
@@ -26,13 +26,13 @@ year: 2011
 ### Method
 - **Sham-feeding 패러다임**: 만성 위 cannula를 통해 액상 식이가 위에서 배출되도록 해, **구강 감각(orosensory) 신호를 postingestive 신호와 분리**. 지방 섭취의 구강 성분만 격리해 조사.
 - Rat에게 corn oil emulsion / 영양완전액(Ensure) / sucrose / peptone(protein)을 30분 sham feed → 다양한 뇌 영역·말초 조직에서 endocannabinoid를 LC/MS로 정량.
-- 개입: **완전 subdiaphragmatic vagotomy**(미주신경 절단), 십이지장 내(intraduodenal) **rimonabant**(CB1 길항제/역작용제) 국소 주입, 말초 한정 CB1 길항제 **URB447**(전신), CB2 작용제 **JWH-015**(전신) 투여.
+- 개입: **완전 subdiaphragmatic vagotomy**(vagus nerve 절단), 십이지장 내(intraduodenal) **rimonabant**(CB1 길항제/역작용제) 국소 주입, 말초 한정 CB1 길항제 **URB447**(전신), CB2 작용제 **JWH-015**(전신) 투여.
 - Endocannabinoid 생성·분해 효소 활성(DGL, FAAH, NAPE-PLD, 2-AG hydrolysis) 및 전구체 측정.
 
 ### Result
 - **지방 특이적 endocannabinoid 동원**: 지방·영양완전액 sham feeding은 **공장(jejunum)에서 2-AG와 anandamide를 선택적으로 증가**시킴. **당(sucrose)·단백질(protein) 단독은 효과 없음**. 다른 말초 조직·뇌 영역에서는 변화 없음.
 - **효소 조절**: 지방 sham 섭취는 공장에서 2-AG 분해를 감소시키고, anandamide 생성(NAPE-PLD 활성)·전구체를 증가시키며 anandamide 분해(FAAH 활성)를 감소 — 생성 촉진 + 분해 억제로 축적.
-- **미주신경 필수**: subdiaphragmatic vagotomy는 지방 sham feeding에 의한 소장 endocannabinoid 생성을 폐지. 구강→뇌→장으로 가는 **미주 원심성(efferent vagal) 신호**가 필요.
+- **vagus nerve 필수**: subdiaphragmatic vagotomy는 지방 sham feeding에 의한 소장 endocannabinoid 생성을 폐지. 구강→뇌→장으로 가는 **미주 원심성(efferent vagal) 신호**가 필요.
 - **oleoylethanolamide(OEA)와 무관**: 지방이 소장에 들어갈 때 enterocyte에서 생성되는 satiety factor OEA는 sham feeding으로 변하지 않음 — 반응이 구강(cephalic) 신호 특이적임을 뒷받침.
 - **장 CB1이 지방 섭취 구동**: 십이지장 내 rimonabant는 지방 sham 섭취를 **용량 의존적으로 억제**(ED50 ≈ 0.3 mg·kg⁻¹). 정상 chow 섭취에는 덜 강력. 말초 한정 CB1 길항제 URB447도 지방 sham 섭취 억제. CB2 작용제 JWH-015는 효과 없음 → CB1 매개 확인.
 
@@ -44,7 +44,7 @@ year: 2011
 - [[concept-endocannabinoid-system]] — 2-AG·anandamide–CB1 축 개념 hub.
 - [[li-2022-gut-brain-circuits-for-fat-preference]] — 지방 선호의 gut-brain 회로(미각 비의존·GPR40/GPR120·미주) 규명. ⚠️ **저자 계보는 무관**: 본 논문의 Xiaosong Li(Albert Einstein, G. Schwartz·Piomelli 협업)와 Li 2022의 제1저자 Mengtong Li(Columbia, Zuker lab)는 **성만 같은 별개 인물**이며 두 논문에 공유 저자는 없다. 두 연구는 '구강 지방 → 장 지질 신호 → 지방 섭취/선호'라는 **주제상**의 연속선으로만 읽을 것.
 - [[concept-fat-taste]] — 구강 지방 감각(orosensory fat)이 이 양성 피드백의 출발점.
-- [[concept-vagal-afferent-neurons]] — 소장 endocannabinoid 동원이 미주신경 의존적(vagotomy로 입증).
+- [[concept-vagal-afferent-neurons]] — 소장 endocannabinoid 동원이 vagus nerve 의존적(vagotomy로 입증).
 - [[concept-enteroendocrine-cells]] — 소장 상피에서 OEA 등 지질 신호를 만드는 세포; 본 논문은 endocannabinoid 반응이 OEA와 독립적임을 보임.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방의 hedonic('liking')·동기('wanting') 신호와 endocannabinoid의 연결이라는 제안적 맥락.
 - [[concept-interoception]] — 장에서 뇌로 가는 내수용 신호 맥락.

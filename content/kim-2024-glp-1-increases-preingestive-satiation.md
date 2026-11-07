@@ -108,7 +108,7 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[jouque-2025-beyond-satiety-unraveling-the]] — POMC heterogeneity (parallel framework).
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — semaglutide POMC·microbiota.
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 본 논문을 인용(ref16); DMH satiation = homeostatic 축, CeA = hedonic 축으로 분업 확장 (Nature 2026).
-- [[gao-2026-semaglutide-drives-weight-loss-through]] — 시상하부 cognitive satiation과 대비되는 hindbrain(AP) Gs–cAMP 약리 경로 (Nat Metab 2026).
+- [[gao-2026-semaglutide-drives-weight-loss-through]] — hypothalamus cognitive satiation과 대비되는 hindbrain(AP) Gs–cAMP 약리 경로 (Nat Metab 2026).
 - [[duran-2026-the-central-amygdala-integrates]] — 본 논문을 인용(ref37); homeostatic cognitive satiation과 대비되는 limbic CeA hedonic GLP-1RA 경로 (bioRxiv 2026).
 - [[concept-central-amygdala-glp1r]] — DMH GLP-1R(homeostatic)과 대비되는 hedonic 축 GLP-1R 노드 개념 hub.
 - [[concept-dorsal-vagal-complex]] — hindbrain GLP1R 약리 무대.
@@ -117,14 +117,14 @@ GLP-1RA가 인간에서 **preingestive satiation** (음식 cue만으로 포만�
 - [[bae-2019-glucagon-like-peptide-1-receptor]] — 동일 lab 인체 GLP-1RA fMRI; 본 DMH 회로와 GLP-1 translational 계보 중간 단계 (DMJ 2019).
 - [[lee-2017-glp-1-based-combination-therapy]] — 동일 lab GLP-1 병용요법 editorial; incretin combo 계보의 2017 로드맵 (JOMES 2017).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 동일 lab 뇌 GLP-1R 리뷰; 본 DMH GLP-1R preingestive satiation을 brain-wide GLP-1R 지도 안에 배치 (APEM 2025).
-- [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 식이 즉시(감각) 단계에 시상하부 DA 분비 — pre-ingestive 단계 시상하부 관여의 인체 DA 증거 (Cell Metab 2019).
+- [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; 식이 즉시(감각) 단계에 hypothalamus DA 분비 — pre-ingestive 단계 hypothalamus 관여의 인체 DA 증거 (Cell Metab 2019).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — anticipatory(섭취 전) NAc DA 상승이 미주 의존; 본 preingestive 단계와 호응 (Sci Adv 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[duran-2026-the-central-amygdala-gates]] — 대비되는 hedonic 축(Glp1r^CeA HFD 전담).
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH Glp1r/Lepr 공발현 뉴런(세포 접점).
 - [[cao-2024-hunting-for-heroes-brain]] — 본 논문(DMH^GLP-1R)을 세 논문 중 하나로 외부 평가.
-- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문이 쓴 **exendin 계열 GLP-1R 길항제**의 분자적 기원(1993년 exendin-(9-39)=full antagonist 규정). 더불어 **형광·PET exendin probe**가 인간 시상하부 GLP-1R 정량의 항체 대안이라는 화학생물학 계보 (Diabetes 2024 Classics).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — 본 논문이 쓴 **exendin 계열 GLP-1R 길항제**의 분자적 기원(1993년 exendin-(9-39)=full antagonist 규정). 더불어 **형광·PET exendin probe**가 인간 hypothalamus GLP-1R 정량의 항체 대안이라는 화학생물학 계보 (Diabetes 2024 Classics).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Ex-4(100 μg/kg)가 LH^Vgat의 **먹이 cue(식전) 반응과 섭취 반응을 모두 약화**하고 일부 하위집단의 기저 활동도 낮췄다(class 비율은 불변, 진폭만 ↓; 섭취 반응은 jaw 통제 후에도 유의). DMH GLP-1R→AgRP 식전 포만과 병렬인 LH 쪽 작용 지점이며, 원문이 말한 "GLP1R 발현 뉴런 → LH 억제 경로" 후보로 DMH GLP-1R을 검토할 수 있다(연결 가설) (Cell Rep 2026).
 - [[bonnefond-2026-the-genetics-of-obesity]] — 인간 **calorie-to-satiation(CTS)** 개인차(140–2,166 kcal; 공복 GLP-1·PYY·CCK·ghrelin과 무관)와 그 유전점수가 GLP-1RA 반응을 예측 — 저 CTS(satiation 경로 온전)가 liraglutide 최적 반응자. 본 논문의 preingestive satiation과의 대응은 연결 가설 (Nat Metab 2026).
-- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 본 논문의 **DMH^GLP-1R→ARC^AgRP GABA 억제와 같은 종착점에 도달하는 '상행 뇌간 입력'**을 보고: 세마글루타이드 반응 **NTS Adcyap1⁺→DMH**(및 →ARC) 광자극이 단식 AgRP Fos를 억제하고 motivated feeding만 비혐오적으로 억제. 즉 AgRP 억제가 **시상하부 국소 GLP-1R만의 산물이 아닐 수 있다** → DMH 조작 실험에서 뇌간 입력을 대조/공변량으로 다룰 근거 (bioRxiv preprint 2026, Engström Ruud lab).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ 본 논문의 **DMH^GLP-1R→ARC^AgRP GABA 억제와 같은 종착점에 도달하는 '상행 brainstem 입력'**을 보고: 세마글루타이드 반응 **NTS Adcyap1⁺→DMH**(및 →ARC) 광자극이 단식 AgRP Fos를 억제하고 motivated feeding만 비혐오적으로 억제. 즉 AgRP 억제가 **hypothalamus 국소 GLP-1R만의 산물이 아닐 수 있다** → DMH 조작 실험에서 brainstem 입력을 대조/공변량으로 다룰 근거 (bioRxiv preprint 2026, Engström Ruud lab).
 - [[liu-2023-an-iterative-neural-processing]] — 섭식을 preparation(AgRP)·initiation(LH^GABA)·maintenance(DR^GABA)로 분해. 본 논문의 GLP-1R→AgRP 식전 포만이 맞다면 GLP-1RA는 주로 **preparation phase**를 깎는다는 예측의 행동 미세구조 지표(Neuron 2023).

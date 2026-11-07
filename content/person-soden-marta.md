@@ -11,7 +11,7 @@ updated: 2026-10-03
 # Marta E. Soden
 
 ## 한 줄 요약
-University of Washington(Pharmacology / UW Medicine Diabetes Institute)의 신경과학자. 시상하부·중뇌의 신경펩타이드 회로(neurotensin 등)와 섭취·동기 행동의 관계를 photometry·화학유전·회로 도구로 연구.
+University of Washington(Pharmacology / UW Medicine Diabetes Institute)의 신경과학자. hypothalamus·midbrain의 신경펩타이드 회로(neurotensin 등)와 섭취·동기 행동의 관계를 photometry·화학유전·회로 도구로 연구.
 
 ## 핵심 내용
 - **LH neurotensin 뉴런**의 다차원 섭취행동 조율을 규명 — [[sumarli-2026-multidimensional-control-of-ingestive-behavior|Sumarli et al. 2026]](bioRxiv): LH-Nts가 licking 운동량·음수를 부호화하며 각성·자발적 운동·novelty seeking을 조율하되 총 섭식(hunger/satiety)은 거의 관장하지 않음.
@@ -21,6 +21,6 @@ University of Washington(Pharmacology / UW Medicine Diabetes Institute)의 신�
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — 대표 연구.
 - [[concept-neurotensin]] · [[concept-lateral-hypothalamus]] — 주제 hub.
 - [[person-korotkova-tatiana]] — LH-Nts 상보 arbitration 연구자(대응/보완).
-- [[person-knight-zachary]] — 시상하부 섭식·갈증 회로 dynamics(방법·개념 인접).
+- [[person-knight-zachary]] — hypothalamus 섭식·갈증 회로 dynamics(방법·개념 인접).
 - [[person-lammel-stephan]] — 같은 neurotensin 회로를 **NAc 기원**에서 접근([[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]]).
 - [[person-stuber-garret]] — 같은 UW·[[sumarli-2026-multidimensional-control-of-ingestive-behavior|Sumarli 2026]] 공저자. 동일한 OHRBETS 머리고정 과제 플랫폼을 공유하므로 LH 세포타입 간 변수 분업을 직접 비교할 수 있다([[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]).

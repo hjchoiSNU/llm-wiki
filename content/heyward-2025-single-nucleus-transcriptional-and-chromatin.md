@@ -11,23 +11,23 @@ doi: 10.1101/2025.10.06.680592
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 시상하부 세포타입 연구의 **다음 층위를 여는 자원** — 지금까지의 atlas가 "어떤 세포가 있는가"(전사체)를 답했다면, 이 연구는 같은 핵에서 **"그 세포의 유전자를 무엇이 켜는가"(열린 크로마틴·cis-조절요소)** 를 함께 읽었다. 결정적으로 그 마우스 조절요소를 **인간 게놈으로 liftOver → 비만 GWAS/eQTL/HuGE 점수와 교차**시켜, 비만 유전 변이를 **특정 시상하부 세포아형에 귀속**시키는 다리를 놓는다.
+> hypothalamus 세포타입 연구의 **다음 층위를 여는 자원** — 지금까지의 atlas가 "어떤 세포가 있는가"(전사체)를 답했다면, 이 연구는 같은 핵에서 **"그 세포의 유전자를 무엇이 켜는가"(열린 크로마틴·cis-조절요소)** 를 함께 읽었다. 결정적으로 그 마우스 조절요소를 **인간 게놈으로 liftOver → 비만 GWAS/eQTL/HuGE 점수와 교차**시켜, 비만 유전 변이를 **특정 hypothalamus 세포아형에 귀속**시키는 다리를 놓는다.
 > 최형진 lab 관점: (1) [[concept-glp1ra-response-variability|GLP-1RA 반응 이질성]]의 유전 성분을 "어느 유전자"가 아니라 **"어느 세포에서 작동하는 어느 enhancer"** 수준으로 내려서 물을 수 있는 틀. (2) DMH·ARC의 **Lepr×Glp1r 공발현 뉴런**이 세 개의 분자적으로 구별되는 아형(Ebf1 / Trh / Tbx19)으로 쪼개지며, 그중 DMH의 **Ebf1형이 Glp1r 최고 발현** — liraglutide 포만 매개 세포의 후보를 좁힌다. (3) AgRP가 **Sst형 / Acvr1c형** 두 아형으로 갈리고 Acvr1c는 인간에서 저체중 연관 변이가 알려진 유전자다.
 
 # Single-nucleus transcriptional and chromatin accessibility profiling of mouse hypothalamic LepRb neurons (Heyward et al. 2025, bioRxiv)
 
 ## 한 줄 요약
-NuTRAP^LepR 마우스에서 **LepR 발현 시상하부 핵만 선별(FANS)** 한 뒤 snRNA-seq + snATAC-seq **multiome**(22,581 핵)으로 39개 세포 클러스터를 정의하고, 각 클러스터 특이 **열린 크로마틴 영역(OCR)** 을 인간 게놈으로 보존 매핑해 **비만 GWAS·시상하부 eQTL·HuGE 점수와 겹치는 세포타입 특이적 조절 변이**를 지목한 연구 (Heyward, UT Southwestern).
+NuTRAP^LepR 마우스에서 **LepR 발현 hypothalamus 핵만 선별(FANS)** 한 뒤 snRNA-seq + snATAC-seq **multiome**(22,581 핵)으로 39개 세포 클러스터를 정의하고, 각 클러스터 특이 **열린 크로마틴 영역(OCR)** 을 인간 게놈으로 보존 매핑해 **비만 GWAS·hypothalamus eQTL·HuGE 점수와 겹치는 세포타입 특이적 조절 변이**를 지목한 연구 (Heyward, UT Southwestern).
 
 ## 핵심 내용
 
 **Background**
-- Leptin 작용의 핵심 표적은 시상하부 LepR 뉴런이지만, 이들에 대한 **세포타입 해상도의 크로마틴 접근성 지도**가 없었다.
-- 기존 접근의 한계: Inoue 2019는 bulk RNA/ATAC으로 LepR 뉴런 **전체**의 CRE만 봄. Heyward 2024는 AgRP 뉴런 한정. 시상하부 single-cell ATAC 데이터셋은 발생기(E11–P8)나 절식/재급식 조건에 국한.
+- Leptin 작용의 핵심 표적은 hypothalamus LepR 뉴런이지만, 이들에 대한 **세포타입 해상도의 크로마틴 접근성 지도**가 없었다.
+- 기존 접근의 한계: Inoue 2019는 bulk RNA/ATAC으로 LepR 뉴런 **전체**의 CRE만 봄. Heyward 2024는 AgRP 뉴런 한정. hypothalamus single-cell ATAC 데이터셋은 발생기(E11–P8)나 절식/재급식 조건에 국한.
 - **LepR 양성 세포를 선별 농축한 뒤 single-cell 크로마틴 프로파일링을 한 사례는 없었다** — 희귀 아형의 CRE 이질성이 통째로 가려져 있었다.
 
 **Method**
-- **LepR-ires-Cre × NuTRAP** 교배 → Cre 의존 eGFP 핵 표지. 1년령 암컷 6마리 시상하부 pooling, FANS로 120,000 핵 분리.
+- **LepR-ires-Cre × NuTRAP** 교배 → Cre 의존 eGFP 핵 표지. 1년령 암컷 6마리 hypothalamus pooling, FANS로 120,000 핵 분리.
 - 10x **Chromium Next GEM Single Cell Multiome ATAC + Gene Expression**, 4 라이브러리 병렬(각 ~5,000 핵) → QC 후 **22,581 핵**.
 - RNA(PCA 53 PC) + ATAC(LSI 100) → **WNN 통합 + Louvain 클러스터링** → **39 클러스터**. 클러스터당 51,011–129,838 peak.
 - **HypoMap**([[concept-hypomap]]) label transfer로 19개 클러스터가 기존 주석과 대응 확인.
@@ -40,12 +40,12 @@ NuTRAP^LepR 마우스에서 **LepR 발현 시상하부 핵만 선별(FANS)** 한
 - **ARC**: Pomc 2종 — **cluster 2: Pomc/Glipr1**(저 LepR), **cluster 7: Pomc/Prdm12**(cluster 2의 ~4배 LepR). AgRP 2종(아래), KNDy(Kiss1/Pdyn/Tac2; 16, 20), Ghrh(27), Pnoc/Htr3b(28), Tbx19/Anxa2(19), PNOC/NPY^ARC(33; Agrp 음성·Sst 최고).
 - **PVH**: Sim1 3종(4, 22, 23), AVP(37; **Glp1r 크게 농축**), Adcyap1/PACAP(12).
 - **DMH**: Prlh(8), Ppp1r17(24). **LH**: Nts(3), Tcf7l2(9, DMH와 공유), Meis2/Sst(21).
-- 기타: Irx5/Irx3 ventral premammillary 3종(5, 17, 29), Irx5/Elt4(25), Lef1/Tmem114(11; 인간 시상하부에서 보고된 집단의 마우스 대응 가능성), Hdc(34, tuberomammillary), Arx/Nr5a2(35), Pde11a(30, 신규), Bcl11b(32, 신규), ependymal(36; 비신경 LepR 세포), unknown(38).
+- 기타: Irx5/Irx3 ventral premammillary 3종(5, 17, 29), Irx5/Elt4(25), Lef1/Tmem114(11; 인간 hypothalamus에서 보고된 집단의 마우스 대응 가능성), Hdc(34, tuberomammillary), Arx/Nr5a2(35), Pde11a(30, 신규), Bcl11b(32, 신규), ependymal(36; 비신경 LepR 세포), unknown(38).
 - 신경전달물질: glutamatergic 0,1,5,9,12,14,16,17,20,22,23,24,25,26,29,31,37 / GABAergic 3,6,10,11,13,15,18,19,21,27,28,30,32,33,34,35,38. **POMC 클러스터(2,7)는 Gad1/2 상당량 + Slc17a6 소량** — POMC 뉴런의 ~40%가 GABAergic이라는 보고와 일치.
 
 **Result 2 — AgRP 두 아형**
-- **cluster 6: Agrp/Sst** (Sst·zfp804a·cntn5 농축, ARC **배측** 편향).
-- **cluster 13: Agrp/Acvr1c** (**Acvr1c = ALK7**, ARC **복측** 편향). 기존 Agrp/Gm8773 아형에 해당.
+- **cluster 6: Agrp/Sst** (Sst·zfp804a·cntn5 농축, ARC **dorsal** 편향).
+- **cluster 13: Agrp/Acvr1c** (**Acvr1c = ALK7**, ARC **ventral** 편향). 기존 Agrp/Gm8773 아형에 해당.
 - **Xenium 검증**: Agrp⁺ 뉴런의 ~42%가 Sst, ~42%가 Acvr1c, ~10%가 둘 다, ~7%가 둘 다 없음.
 - 함의: 마우스 **Acvr1c 기능상실은 식이유발비만에 방어적**이고 **인간 ACVR1C SNP는 낮은 체중과 연관** — 지방조직 밖 **AgRP 뉴런 내 Acvr1c 신호**가 에너지 항상성에 관여할 가능성.
 
@@ -75,10 +75,10 @@ NuTRAP^LepR 마우스에서 **LepR 발현 시상하부 핵만 선별(FANS)** 한
 
 **한계 (저자 명시)**
 - **LepR-ires-Cre 발현 세포만** 프로파일링 — 체중을 조절하는 **비-LepR ARC GABA 뉴런** 등이 분석에서 제외됨.
-- 시상하부 밖·인간 조직과의 크로마틴 비교가 없어, 보고된 OCR이 **진짜 세포타입 특이적**인지는 추가 검증 필요.
+- hypothalamus 밖·인간 조직과의 크로마틴 비교가 없어, 보고된 OCR이 **진짜 세포타입 특이적**인지는 추가 검증 필요.
 - **기저(ad libitum chow) 상태 단일 조건** — 저자 선행 연구에서 AgRP 뉴런에 절식 개방 2,452개·leptin 개방 203개 OCR이 있었듯, **자극 후에만 열리는 masked enhancer**는 잡히지 않음.
 - GWAS/eQTL 중첩은 **상관 수준**. 특정 SNP·eQTL이 실제로 발현·에너지 항상성·DIO 감수성을 바꾸는지는 in vitro/in vivo 검증 미수행.
-- eQTL은 bulk 시상하부 — 세포타입 귀속은 OCR 특이성에 의존한 **추론**.
+- eQTL은 bulk hypothalamus — 세포타입 귀속은 OCR 특이성에 의존한 **추론**.
 - Xenium에서 ARC·DMH Lepr/Glp1r 뉴런의 30–43%가 Bnc2 음성 — 검출 민감도 문제인지 진짜 이질성인지 미해결.
 
 ## 사용자 lab 관점 함의
@@ -92,7 +92,7 @@ NuTRAP^LepR 마우스에서 **LepR 발현 시상하부 핵만 선별(FANS)** 한
 ## 관련 페이지
 - [[concept-leptin]] — LepR 뉴런의 상위 개념. 본 연구는 그 뉴런 집단을 39개 아형으로 해부.
 - [[concept-hypomap]] — label transfer reference. 본 연구는 atlas에 **크로마틴 접근성** 층을 추가.
-- [[concept-npy-agrp-neurons]] — AgRP **Sst형 / Acvr1c형** 두 아형과 공간 분리(배측/복측).
+- [[concept-npy-agrp-neurons]] — AgRP **Sst형 / Acvr1c형** 두 아형과 공간 분리(dorsal/ventral).
 - [[concept-pomc-neurons]] — POMC **Glipr1형(저 LepR) / Prdm12형(고 LepR)** 분할; GABAergic 성분 확인.
 - [[concept-arcuate-nucleus]] — 대부분 아형의 소재지. Trh/Tbx19형 Lepr^Glp1r 편중.
 - [[concept-dorsomedial-hypothalamus]] — **Ebf1형 Lepr^Glp1r**의 소재지. liraglutide 포만 매개 세포 후보.

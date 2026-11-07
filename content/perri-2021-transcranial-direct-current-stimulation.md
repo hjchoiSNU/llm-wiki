@@ -1,5 +1,5 @@
 ---
-title: "tDCS of the prefrontal cortex reduces cigarette craving in not-motivated-to-quit smokers (Perri 2021)"
+title: "TDCS of the prefrontal cortex reduces cigarette craving in not-motivated-to-quit smokers (Perri 2021)"
 type: paper
 created: 2026-06-01
 updated: 2026-06-01
@@ -9,9 +9,9 @@ year: 2021
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> DLPFC [[concept-transcranial-electrical-stimulation|tDCS]] 5세션이 **동기 없는 흡연자에서도 갈망을 ~47% 낮춤**(소비는 불변; 니코틴 의존도가 moderator). 사용자에겐 craving이 reward(VTA-NAc)에 대한 **전전두 top-down 통제**로 조절된다는 증거이자, 저자가 명시한 **food craving 전이** 근거. 흡연↔음식 갈망 회로 공유.
+> DLPFC [[concept-transcranial-electrical-stimulation|tDCS]] 5세션이 **동기 없는 흡연자에서도 갈망을 ~47% 낮춤**(소비는 불변; 니코틴 의존도가 moderator). 사용자에겐 craving이 reward(VTA-NAc)에 대한 **prefrontal top-down 통제**로 조절된다는 증거이자, 저자가 명시한 **food craving 전이** 근거. 흡연↔음식 갈망 회로 공유.
 
-# tDCS of the prefrontal cortex reduces cigarette craving in not-motivated-to-quit smokers (Perri 2021)
+# TDCS of the prefrontal cortex reduces cigarette craving in not-motivated-to-quit smokers (Perri 2021)
 
 ## 한 줄 요약
 금연 동기 없는 흡연자 20명에 양측 DLPFC [[concept-transcranial-electrical-stimulation|tDCS]](우anode/좌cathode) 5세션으로 갈망이 감소함을 보인 sham 대조 RCT(Addict Behav).
@@ -32,5 +32,5 @@ year: 2021
 - [[concept-dopamine-reward-system]] · [[concept-nucleus-accumbens]] — DLPFC가 억제하는 VTA-NAc 보상.
 - [[concept-food-addiction]] · [[concept-loss-of-control-eating]] — 흡연↔음식 갈망 회로 공유(저자 명시 전이).
 - [[jeong-2024-efficacy-of-transcranial-direct]] — DLPFC tDCS의 food craving 대응.
-- [[concept-orbitofrontal-cortex]] — 전전두 갈망 통제.
+- [[concept-orbitofrontal-cortex]] — prefrontal 갈망 통제.
 - [[mantione-2010-smoking-cessation-and-weight]] — NAc DBS의 금연+감량(다른 modality, 같은 회로).

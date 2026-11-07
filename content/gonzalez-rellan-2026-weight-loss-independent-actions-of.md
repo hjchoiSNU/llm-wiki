@@ -56,7 +56,7 @@ GLP-1 약물의 광범위한 효능은 체중 감소만으로 설명되지 않�
 
 ### 근거 6 — 기타 적응증
 - **골관절염**: STEP 9(sema 2.4 mg) 체중 13.7%↓ + WOMAC 41.7점 개선; TRIUMPH-4(retatrutide) 체중 약 28%↓에 무릎 통증 최대 67%↓. 마우스 OA 모델에서 **섭식·체중 차이를 최소화한 식이 조건**에서도 sema가 연골 퇴행·골극·활막 병리·통증을 완화했고, 기전은 관절 내 **GLP-1R–AMPK–PFKFB3** 축으로 연골세포 대사를 해당과정→산화적 인산화로 전환.
-- **물질사용장애**: 중변연계 보상회로의 GLP-1R 발현을 근거로 **보상 처리 뉴런의 직접 조절** 가능성(체중 감소의 이차 결과가 아님).
+- **물질사용장애**: 중limbic system 보상회로의 GLP-1R 발현을 근거로 **보상 처리 뉴런의 직접 조절** 가능성(체중 감소의 이차 결과가 아님).
 - **암**: 비만 연관 악성종양(대장·간·유방·폐) 발생률 감소 관찰연구 — 가설 생성 단계.
 - **비만대사수술**도 상당한 체중 감소 **이전에** 내인성 GLP-1 분비를 늘리고 혈당 항상성을 개선 → 수술 효과의 일부도 같은 GLP-1R 경로로 매개될 수 있다.
 
@@ -73,7 +73,7 @@ GLP-1 약물의 광범위한 효능은 체중 감소만으로 설명되지 않�
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 뇌 GLP-1R 작용 종합; **신경 GLP-1R이 말초 염증 억제에 필수**라는 본 글의 축과 직결.
 - [[fang-2025-glucagon-like-peptide-1-medicines]] — 신경·정신 적응증(물질사용장애 포함) 확장 리뷰.
 - [[sabbagh-2026-repurposing-glucagon-like-peptide-1]] · [[concept-glp1-neuroprotection]] — 신경보호 repurposing 축; "관찰 양성 vs RCT 음성" 논쟁의 배경으로 본 글의 체중 독립 기전이 인용될 수 있음.
-- [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide의 체중 감소 쪽 기전(후뇌 GLP1R·cAMP). 본 글은 그 **반대편(체중 비의존 축)**을 다룸.
+- [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide의 체중 감소 쪽 기전(hindbrain GLP1R·cAMP). 본 글은 그 **반대편(체중 비의존 축)**을 다룸.
 - [[overview-next-gen-incretin-obesity-drugs-2026]] — 차세대 다중작용제 hub; 본 글의 미해결 질문(GLP-1R 생략 시 조직 보호는?)이 직접 연결.
 - [[aronne-2025-tirzepatide-as-compared-with-semaglutide]] — ⚠️ 방향 차이: 본 시험은 심대사 개선이 **감량 구간에 비례**해 커진다고 강조(≥20% 감량군 수축기혈압 −9.1~−17.5 mmHg vs <10%군 −3.4~−6.7). 체중 의존·독립 성분의 공존 가능성으로 병기 (NEJM 2025, SURMOUNT-5)
 - [[nauck-2026-glp-1-receptor-agonists-and-next-generation]] — 신장 이득 중 혈당·혈압 매개는 10–25%뿐이고, 체중–eGFR 관계도 없다. SELECT의 2차 종료점(22% = 신장 복합)은 위계적 검정상 비유의라고 명시.

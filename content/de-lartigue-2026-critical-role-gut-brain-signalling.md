@@ -10,12 +10,12 @@ journal: "Nature Reviews Gastroenterology & Hepatology (in press)"
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **사용자 lab + de Lartigue + Brierley 공동 NRGH 종합 리뷰.** 미주신경 구심성 뉴런(VAN)을 gut-brain 통신의 1차 conduit로 격상. **3-stage diet-induced obesity** framework: (1) reinforcement-driven 과식 → (2) compensatory 식사량 감소 (vagal 보호) → (3) vagal dysfunction (미주 방어 붕괴 → 지속적 과식·체중 증가; **비가역 여부는 원문이 미해결 질문으로 남김**). VAN subtype별 (Glp1r⁺·Oxtr⁺·Cckar⁺·Gpr65⁺·Vip⁺) 식이 단계 매핑. GLP-1RA는 vagus를 우회 → 근본 원인 미해결. 인간에서 미주신경이 obesity 치료의 underappreciated target.
+> **사용자 lab + de Lartigue + Brierley 공동 NRGH 종합 리뷰.** vagus nerve 구심성 뉴런(VAN)을 gut-brain 통신의 1차 conduit로 격상. **3-stage diet-induced obesity** framework: (1) reinforcement-driven 과식 → (2) compensatory 식사량 감소 (vagal 보호) → (3) vagal dysfunction (미주 방어 붕괴 → 지속적 과식·체중 증가; **비가역 여부는 원문이 미해결 질문으로 남김**). VAN subtype별 (Glp1r⁺·Oxtr⁺·Cckar⁺·Gpr65⁺·Vip⁺) 식이 단계 매핑. GLP-1RA는 vagus를 우회 → 근본 원인 미해결. 인간에서 vagus nerve가 obesity 치료의 underappreciated target.
 
-# de Lartigue, Brierley, Choi 2026 — Gut-brain signalling NRGH SOTA
+# De Lartigue, Brierley, Choi 2026 — Gut-brain signalling NRGH SOTA
 
 ## 한 줄 요약
-미주신경 구심성 뉴런(VAN)을 중심으로 식이의 3 phases (seeking, consumption, non-prandial)와 비만 진행의 3 stages를 통합 framework.
+vagus nerve 구심성 뉴런(VAN)을 중심으로 식이의 3 phases (seeking, consumption, non-prandial)와 비만 진행의 3 stages를 통합 framework.
 
 ## 1. 식이 3 phases (Box 1)
 
@@ -108,7 +108,7 @@ journal: "Nature Reviews Gastroenterology & Hepatology (in press)"
 - [[liu-2026-granular-motivational-interaction-and]] — gut→brain satiation 신호가 feeding termination phase를 구동하는 회로 정리; 본 gut-brain 종합과 상보 (Neuron 2026).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 PET; post-ingestive DA가 gut-brain 영양감지에 의존함을 보인 인체 증거 (Cell Metab 2019).
 - [[onimus-2026-the-gut-brain-vagal-axis-governs]] — SDV로 gut-brain 미주 신호를 차단하면 mesolimbic DA·음식/약물 보상이 약화; vagus-DA 계보의 인과 실험 (Sci Adv 2026).
-- [[mcknight-2026-attenuated-hypothalamic-response-to]] — 본 종합 공저(de Lartigue); 당 종류별 gut-brain 회선(glucose=척수 / fructose=PYY-Y2R-미주) 추가 (Neuron 2026).
+- [[mcknight-2026-attenuated-hypothalamic-response-to]] — 본 종합 공저(de Lartigue); 당 종류별 gut-brain 회선(glucose=spinal cord / fructose=PYY-Y2R-미주) 추가 (Neuron 2026).
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — gut-brain을 **원심성(뇌→장 SGLT1)**으로 확장한 짝 (Nat Commun 2026).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[lee-2019-food-craving-seeking-and]] — 본 리뷰 Box 1의 3 phase(food seeking·consumption·non-prandial)와 같은 lab 계보(교신저자 공통)의 선행 분해: craving→seeking→consumption (JOMES 2019). ⚠️ 본 리뷰 reference list에는 인용돼 있지 않음 — 개념적 계보이지 직접 인용 관계는 아니다.

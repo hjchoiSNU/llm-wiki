@@ -6,15 +6,15 @@ updated: 2026-10-03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Neurotensin(Nts)은 시상하부·중뇌에서 **섭식·음수·체온·각성·자발적 운동·보상**을 넘나드는 다면 신경펩타이드다. 특히 [[concept-lateral-hypothalamus|LH]]의 Nts 뉴런은 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]] 프레임에서 **Motivation의 운동/각성 성분**을 담당하는 후보 세포타입으로, LH^LepR(Need/seeking)과 대비되는 분업 축을 제공한다.
+> Neurotensin(Nts)은 hypothalamus·midbrain에서 **섭식·음수·체온·각성·자발적 운동·보상**을 넘나드는 다면 신경펩타이드다. 특히 [[concept-lateral-hypothalamus|LH]]의 Nts 뉴런은 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]] 프레임에서 **Motivation의 운동/각성 성분**을 담당하는 후보 세포타입으로, LH^LepR(Need/seeking)과 대비되는 분업 축을 제공한다.
 
 # Neurotensin (Nts)
 
 ## 한 줄 요약
-Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·편도)와 장(내분비세포)에 널리 분포하며, 도파민 조절·체온 하강·진통·섭식/음수 조절 등 다면적 기능을 한다. 수용체는 GPCR인 **NTSR1**(고친화)·NTSR2 및 sortilin(NTSR3).
+Neurotensin은 13-아미노산 신경펩타이드로, 뇌(hypothalamus·midbrain·amygdala)와 장(내분비세포)에 널리 분포하며, 도파민 조절·체온 하강·진통·섭식/음수 조절 등 다면적 기능을 한다. 수용체는 GPCR인 **NTSR1**(고친화)·NTSR2 및 sortilin(NTSR3).
 
 ## 핵심 내용
-- **회로 분포**: LH, DMH, preoptic area, VTA, central amygdala, NTS(뇌간) 등. LH-Nts와 VTA-DA 사이의 상호 연결이 보상·각성 조절의 핵심 축.
+- **회로 분포**: LH, DMH, preoptic area, VTA, central amygdala, NTS(brainstem) 등. LH-Nts와 VTA-DA 사이의 상호 연결이 보상·각성 조절의 핵심 축.
 - **LH neurotensin 뉴런**: 갈증(음수 촉진)·각성·자발적 운동·novelty seeking을 조율. [[sumarli-2026-multidimensional-control-of-ingestive-behavior|Sumarli 2026]]은 LH-Nts가 **licking 운동량**을 부호화하고(거의 inverse value coding: 물>sucrose), 침묵 시 음수·체온·체중·자발적 운동이 손상되나 총 먹이 섭취는 불변임을 보였다. [[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]](Korotkova)은 LH^Nts가 음수를 촉진하고 social behavior를 억제해 LH^LepR과 상보적으로 arbitration함을 보였다.
 - **체온·대사**: 중추 Nts는 저체온을 유발하며, LH-Nts 침묵은 core body temperature를 낮춘다(Sumarli 2026).
 - **도파민 조절**: VTA에서 Nts는 도파민 뉴런 흥분성을 조절 — 보상·동기 신호와 연결.
@@ -41,8 +41,8 @@ Neurotensin은 13-아미노산 신경펩타이드로, 뇌(시상하부·중뇌·
 - [[concept-lateral-septum]] — LS의 NTS 뉴런은 **섭식을 억제**하는 쪽(LH→VTA NTS의 촉진과 반대 방향; [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive|Gazit-Shimoni 2025]]). LS 자체의 분자 아형 지도는 [[bhatti-mazo-2026-feature-specific-threat-coding-in]] 참조.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — **LS^Nts = 섭식 억제 방향의 1차 근거**. 급성 구속 스트레스로 활성화되며, 화학유전 활성화 시 섭취·체중↓(불안·운동은 불변), LH 투사로 매개. 단 photometry는 **능동 도피에만** 켜짐을 보였다 (eLife 2020, Friedman lab).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — NTS가 aPVT를 pPVT에서 분리하는 marker로 쓰여, aPVT^NTS→NAc 회로를 유전적으로 특정 (Nature 2026).
-- [[concept-paraventricular-thalamus]] — NTS 발현으로 정의되는 전측 PVT의 개념 hub.
-- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — EASI-FISH가 tuberal LHA의 Nts⁺를 **흥분성 1 + 억제성 3 클러스터**로 나눴다: Ex-16(등내측·앞쪽), Inh-9(ZI·LHAs-db, Meis2), Inh-14(Hcrt 띠와 33% 중첩, Gpr101·**Gal** 공발현), Inh-18(분산). ⚠️ [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]]의 'LH Nts 95% Gal 공발현'과 비교하면 이 논문에서 Gal 공발현이 명시된 클러스터는 Inh-14뿐이다. 원문은 비율을 제시하지 않았고 한 AP 구간만 봤으므로 병기한다 (bioRxiv 2021).
+- [[concept-paraventricular-thalamus]] — NTS 발현으로 정의되는 anterior PVT의 개념 hub.
+- [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — EASI-FISH가 tuberal LHA의 Nts⁺를 **흥분성 1 + 억제성 3 클러스터**로 나눴다: Ex-16(등medial·앞쪽), Inh-9(ZI·LHAs-db, Meis2), Inh-14(Hcrt 띠와 33% 중첩, Gpr101·**Gal** 공발현), Inh-18(분산). ⚠️ [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]]의 'LH Nts 95% Gal 공발현'과 비교하면 이 논문에서 Gal 공발현이 명시된 클러스터는 Inh-14뿐이다. 원문은 비율을 제시하지 않았고 한 AP 구간만 봤으므로 병기한다 (bioRxiv 2021).
 - [[mickelsen-2019-single-cell-transcriptomic-analysis-of]] — LH^Nts의 **분자 분해 원전**(Nat Neurosci 2019, Jackson lab). ⚠️ 위 표의 "80% Vgat / 20% Vglut2"는 대략 맞지만(scRNA-seq binarize **70.8% GABA / 29.2% Glut**, sc-qPCR Slc32a1 78.1% / Slc17a6 26.0%), **"Nts 95%가 Gal 공발현"은 이 논문 수치보다 높다** — **Gal은 Nts⁺Slc32a1⁺의 59.0%**(308 세포/3 마우스)이고 Nts⁺Slc32a1⁻에서는 0%다. 또 **Cartpt 공발현은 Nts⁺ 전체의 18.1%(FISH)·19.5%(scRNA-seq)뿐**이어서 "LH Nts = Nts/Cartpt 집단"으로 읽으면 안 된다. 그 Nts/Cartpt 클러스터(LHA^GABA cluster 3; Gal·Calcr·Rasgrp1·Acvr1c·Gpr101·Jak1)는 내부가 **Crh형 vs Tac1형으로 거의 상호배타**(둘 다 9.9%)로 갈린다. 기준 집합(Nts⁺ 전체 vs Nts⁺GABA)과 기법(FISH 검출한계)이 달라 수치 충돌로 단정하지 않고 병기한다.
 - [[leinninger-2011-leptin-action-via-neurotensin]] — **LH^Nts 라인의 1차 원전이자 `Nts-ires-Cre` 마우스의 출처**(Cell Metab 2011, Myers·Leinninger). LHA LepRb의 **약 60%가 Nts⁺**(역으로 LHA Nts의 약 30%가 LepRb⁺)이고, Nts 뉴런 한정 LepRb 결손 → **조기 비만 + 운동량·VO₂↓**(섭식은 거의 불변), **26 h 단식이 OX c-Fos를 올리지 못함**, leptin이 *Ox* mRNA를 올리지 못함, AMPH 반응 둔화(NAc 유발 DA 진폭↓·t₁ᐟ₂↑). ⚠️ 두 가지 병기: ① 이 논문은 Nts를 **표지로만** 썼고 Nts 펩타이드 자체의 역할은 미검증, ② **Nts^cre/+ 대립유전자 자체가 체중·지방량을 낮춘다**(Table S1) → Nts-Cre 계열로 체중 종말점을 보는 모든 연구의 대조 요구.
 - [[bonnavion-2016-hubs-and-spokes-of]] — LHA LepRb 60% Nts⁺ / Nts 95% Gal / MC4R 75% Nts 공발현 수치와 LHA^Nts→VTA(glutamate 방출) 서술의 리뷰 경유 출처 (J Physiol 2016).

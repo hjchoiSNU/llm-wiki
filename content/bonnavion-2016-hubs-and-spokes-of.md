@@ -42,12 +42,12 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
 | 빠른 전달물질 | 말단이 **VGLUT2** 공존, LC에서 비대칭(흥분성) 시냅스. 광유전 공동방출: **저주파 → glutamate**(TMN HA 뉴런, Schöne 2012), **고주파 → Hcrt 펩타이드 추가**(Schöne 2014) |
 | GABA 가능성 | Hcrt 뉴런 **약 20%가 GABA 면역반응 양성이지만 VGAT는 없다**(Apergis-Schoute 2015). Hcrt 광활성 → 인접 **MCH 뉴런 발화 억제**. 이 IPSC는 glutamate 차단에 무반응, Hcrt 수용체 차단에 감쇠, **gabazine에 소실**된다 → 국소 GABA 중계 혹은 Hcrt 뉴런 자체 GABA 방출(단시냅스 조건 검증 필요) |
 | 전사인자 | **Lhx9**(종간 specifier 후보), **Dbx1**(여러 orexigenic LHA 집단 공통) |
-| 내부 이질성 | 전기생리 **D-type / H-type**(Schöne 2011), 콜린성 반응 차이, 내측 vs 외측 기능 이분(Harris & Aston-Jones 2006) ↔ 확산 투사(González 2012). 저자 결론: "monolithic하지 않을 것" |
+| 내부 이질성 | 전기생리 **D-type / H-type**(Schöne 2011), 콜린성 반응 차이, medial vs lateral 기능 이분(Harris & Aston-Jones 2006) ↔ 확산 투사(González 2012). 저자 결론: "monolithic하지 않을 것" |
 
 #### ② MCH 뉴런
 - Hcrt와 섞여 분포하지만 각기 다른 국소 분포를 보인다(Hahn & Swanson 2010). **nesfatin-1** 공발현. **약 50%가 CART 공발현**. Dbx1⁺·Lhx9⁻.
-- **GABA 근거**: GAD65·GAD67 공존. rat에서 MCH-IR 뉴런 **대다수가 GAD67⁺**. 시상하부 CART 뉴런의 **약 67%가 GAD67 mRNA⁺**. LC의 MCH-IR 말단 중 **약 6%만 VGAT 공존**(del Cid-Pellitero & Jones 2012). 광활성 시 TMN HA 뉴런에 **GABA 방출**(Jego 2013).
-- **Glutamate 근거**: 일부 MCH 뉴런이 VGLUT1·VGLUT2 발현. **외측중격(LS) 투사 MCH 뉴런은 VGLUT2⁺이고 광자극 시 GABA가 아니라 glutamate를 단시냅스 방출**(Chee 2015). 또 Vgat-Cre·Gad65-EGFP로 표지한 LHA GABA 뉴런은 **MCH-IR과 겹치지 않는다**(Chee 2015; Jennings 2015; Karnani 2013).
+- **GABA 근거**: GAD65·GAD67 공존. rat에서 MCH-IR 뉴런 **대다수가 GAD67⁺**. hypothalamus CART 뉴런의 **약 67%가 GAD67 mRNA⁺**. LC의 MCH-IR 말단 중 **약 6%만 VGAT 공존**(del Cid-Pellitero & Jones 2012). 광활성 시 TMN HA 뉴런에 **GABA 방출**(Jego 2013).
+- **Glutamate 근거**: 일부 MCH 뉴런이 VGLUT1·VGLUT2 발현. **lateral septum(LS) 투사 MCH 뉴런은 VGLUT2⁺이고 광자극 시 GABA가 아니라 glutamate를 단시냅스 방출**(Chee 2015). 또 Vgat-Cre·Gad65-EGFP로 표지한 LHA GABA 뉴런은 **MCH-IR과 겹치지 않는다**(Chee 2015; Jennings 2015; Karnani 2013).
 - 저자 해석: **표적 특이 신호(target-specific signalling)**의 가능성. MCH를 단순히 "GABAergic"으로 부를 수 없다.
 
 #### ③ 세 번째 집단 — leptin 감수성 펩타이드 뉴런(LepRb/Nts/Gal/MC4R)
@@ -68,11 +68,11 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
 
 ### Figure 2 — 장거리 연결성 (hub으로서의 LHA)
 - 고전 병변/자극 결과를 먼저 요약: LHA **병변 → lateral hypothalamic syndrome**(hypophagia·adipsia·hypoactivity·체중감소 + somnolence·sensory neglect). LHA **전기자극 → 폭식·체중증가·자기자극(ICSS)**, "food motivation의 pacemaker"(Bernardis & Bellinger 1993).
-- **입력(afferents)**: mPFC, 외측중격(LS), NAc, BNST, BLA, 외측고삐(LHb) / 중뇌·뇌간에서 중뇌수도주위회백질·VTA·DR·LC·외측팔곁핵(LPB).
-- **출력(efferents)**: 전뇌(인지·정서)로 상행 + 각성·섭식·자율·신경내분비 핵으로 하행 + 강한 시상하부 내 투사. 많은 표적이 LHA로 되먹임.
+- **입력(afferents)**: mPFC, lateral septum(LS), NAc, BNST, BLA, lateral이고삐(LHb) / midbrain·brainstem에서 periaqueductal gray·VTA·DR·LC·lateral parabrachial nucleus(LPB).
+- **출력(efferents)**: forebrain(인지·정서)로 상행 + 각성·섭식·자율·신경내분비 핵으로 하행 + 강한 hypothalamus 내 투사. 많은 표적이 LHA로 되먹임.
 
 ### Figure 3A — 섭식과 보상
-- **MCH계**: 뇌내(intracerebral) MCH 투여 → 섭식↑(Qu 1996), 과발현 → 비만(Ludwig 2001), 결손/세포제거 → 저식·마름(Shimada 1998; Alon & Friedman 2006). NAc shell에서 MCH는 섭식↑·cocaine 자가투여 조절. 설탕 보상의 선조체 DA 방출 조절([[domingos-2013-hypothalamic-melanin-concentrating-hormone|Domingos 2013]]). 단 **Jennings 2015는 LHA^GABA 광활성의 폭식·자기자극에서 MCH의 관여를 배제**했다.
+- **MCH계**: 뇌내(intracerebral) MCH 투여 → 섭식↑(Qu 1996), 과발현 → 비만(Ludwig 2001), 결손/세포제거 → 저식·마름(Shimada 1998; Alon & Friedman 2006). NAc shell에서 MCH는 섭식↑·cocaine 자가투여 조절. 설탕 보상의 striatum DA 방출 조절([[domingos-2013-hypothalamic-melanin-concentrating-hormone|Domingos 2013]]). 단 **Jennings 2015는 LHA^GABA 광활성의 폭식·자기자극에서 MCH의 관여를 배제**했다.
 - **Hcrt계**: 섭식 역할은 논쟁적(동기·각성 결핍의 2차 효과일 수 있음). 식이예측 각성 소실(Yamanaka 2003). VTA DA·GABA로 흥분성 투사. **LHA^Hcrt→VTA_DA에서 Hcrt와 Dyn이 공발현·공동방출되나 VTA_DA 흥분성에 반대 방향, 보상에도 반대**(Muschamp 2014). 보상·혐오 cue 단일단위 부호화(Hassani 2016).
 - **LHA^GABA·LHA^Glu 회로**(핵심):
   - **BNST^GABA→LHA** 광자극 → 빠른 폭식·자기자극. BNST는 **LHA^Glu(VGLUT2⁺)**를 우선 접촉. LHA^Glu 광자극 → 섭식 억제, 광억제 → 섭식 촉진(Jennings 2013) → BNST가 **anorexigenic LHA^Glu를 직접 억제하고, 섭식을 개시하는 orexigenic 뉴런은 탈억제**(Stuber & Wise 2016).
@@ -83,12 +83,12 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
   - **LHA^LepR/Nts/Gal**: Hcrt·mesolimbic DA 조절, leptin의 섭식 억제 매개. **LHA^Nts 화학유전 → VTA Nts↑ → NAc DA 연장·운동↑**(Patterson 2015). LHA^Nts는 VTA DA에 GABA보다 **2배 많은 시냅스**(Beier 2015). **LHA^Gal는 VTA로 투사하지 않는다**(Laque 2015). **LHA^Pdx1/GABA→PVN** 광자극 → 섭식 촉진(Wu 2015).
 
 ### Figure 3B — 수면·각성
-- **MCH 뉴런**: 각성 중 침묵, NREM에 간헐, **REM에 최대 발화(3–12 Hz)**. 광활성이 **REM을 선택적으로 조절**. NREM 중 활성 → REM 전이 촉진, 고주파 → REM 연장(Jego 2013). 24 h 만성 활성 → NREM·REM 모두↑(Konadhode 2013). 세포제거 → NREM↓(REM 불변)(Tsunematsu 2014). 경로: **LHA^MCH/GABA→TMN_HA**(HA 억제 유지로 각성 지연)·**→MS**(septo-hippocampal θ 안정)·→뇌간 GABA(REM 억제자 차단).
+- **MCH 뉴런**: 각성 중 침묵, NREM에 간헐, **REM에 최대 발화(3–12 Hz)**. 광활성이 **REM을 선택적으로 조절**. NREM 중 활성 → REM 전이 촉진, 고주파 → REM 연장(Jego 2013). 24 h 만성 활성 → NREM·REM 모두↑(Konadhode 2013). 세포제거 → NREM↓(REM 불변)(Tsunematsu 2014). 경로: **LHA^MCH/GABA→TMN_HA**(HA 억제 유지로 각성 지연)·**→MS**(septo-hippocampal θ 안정)·→brainstem GABA(REM 억제자 차단).
 - **Hcrt/Ox 뉴런**: 각성 중 활성(3–13 Hz), NREM·REM 침묵, **각성 개시 직전 발화**. 결핍 → narcolepsy(사람·동물). 광활성 → 수면→각성 전이·수면 분절(Adamantidis 2007), 기억 공고화 저해(Rolls 2011), HPA 교란(Bonnavion 2015). LC가 핵심 하류 효과기(Carter 2012). sleep-active POA GABA가 Hcrt를 억제(Saito 2013). → Hcrt = **행동 상태 안정성의 gatekeeper**.
-- **LHA^GABA 각성 뉴런**: 수면 중 발화하는 non-Hcrt·non-MCH GABA 집단(Hassani 2010). **LHA^GABA→TRN^GABA** 광자극(NREM 중)이 **빠른 각성** 유발 — 1 Hz는 전이, 20 Hz는 TRN 발화까지 억제해 빠른 피질 각성(Herrera 2016). LC·PVT 투사로도 각성. **대조적으로 LHA^LepR(LHA^GABA 추정 하위집단) 광활성은 수면→각성 전이를 지연** → LHA^GABA 안에서도 각성 촉진 vs 수면 촉진이 갈린다. LHA^LepR/Gal은 LC_NA로 조밀 투사(Laque 2015, 기능 미검증).
+- **LHA^GABA 각성 뉴런**: 수면 중 발화하는 non-Hcrt·non-MCH GABA 집단(Hassani 2010). **LHA^GABA→TRN^GABA** 광자극(NREM 중)이 **빠른 각성** 유발 — 1 Hz는 전이, 20 Hz는 TRN 발화까지 억제해 빠른 cortex 각성(Herrera 2016). LC·PVT 투사로도 각성. **대조적으로 LHA^LepR(LHA^GABA 추정 하위집단) 광활성은 수면→각성 전이를 지연** → LHA^GABA 안에서도 각성 촉진 vs 수면 촉진이 갈린다. LHA^LepR/Gal은 LC_NA로 조밀 투사(Laque 2015, 기능 미검증).
 
 ### Figure 3C — 스트레스·불안 (저자들의 Bonnavion 2015)
-- Hcrt계는 스트레스·불안·공황의 핵심 조절자. 신규/예측불가 자극·구속 스트레스에 Hcrt 발화↑(Mileykovskiy 2005; González 2016). 사람 공황/불안과 Hcrt 전달 상승 연관(Johnson 2010). Hcrt-1 수용체 결손 → 공포 freezing 손상·외측편도 활성↓, **LC_NA의 Hcrt-1R 복원이 cue 공포 정상화**(Soya 2013). LC 내 Hcrt 광활성이 편도 의존적으로 위협 기억 형성 강화(Sears 2013).
+- Hcrt계는 스트레스·불안·공황의 핵심 조절자. 신규/예측불가 자극·구속 스트레스에 Hcrt 발화↑(Mileykovskiy 2005; González 2016). 사람 공황/불안과 Hcrt 전달 상승 연관(Johnson 2010). Hcrt-1 수용체 결손 → 공포 freezing 손상·lateralamygdala 활성↓, **LC_NA의 Hcrt-1R 복원이 cue 공포 정상화**(Soya 2013). LC 내 Hcrt 광활성이 amygdala 의존적으로 위협 기억 형성 강화(Sears 2013).
 - **저자들의 인과 데이터(Bonnavion 2015)**: Hcrt 뉴런 in vivo 광자극 → **hypercorticosteronaemia(HPA↑)** + 심혈관 반응·수면 분절·freezing성 탐색 교란. PVN·PVT·LC·DR 경유로 추정.
   - **영양 상태 의존**: 식이 박탈이 Hcrt 의존 HPA 활성화를 증폭. **LHA 국소 leptin 주입이 Hcrt 활동을 둔화시키고, LHA^LepR 광활성도 같은 효과에 더해 corticosterone 방출과 스트레스 유발 Hcrt 활성화를 억제.**
   - **ob/ob 구제**: 내인성 hypercorticosteronaemia를 보이는 비만 leptin-결핍 마우스에서 **LHA^LepR 광활성이 corticosterone을 급성 정상화 — 섭식량·체중은 불변**(Bonnavion 2015).
@@ -96,7 +96,7 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
   - 저자 전망: LHA^LepR가 대사 상태에 따라 스트레스·각성·보상·섭식을 조율 → **불안장애와 섭식장애(AN·폭식) 공존의 교차점**(Kaye 2004).
 
 ### Concluding remarks
-**시상하부**(LHA가 아니라 시상하부 전체)는 인간 뇌 부피의 약 **0.3%**(Hofman & Swaab 1992)에 불과하지만 생존에 필수적이다. opto·chemogenetics가 필요·충분성 자료를 더하고 있으나, 열린 질문은 그대로다 — LHA 기능 세포타입의 **총 분류(taxonomy)**, 국소·장거리 회로의 시냅스 조직, 네트워크 동역학의 행동 부호화, 발달·질병에서의 변화. 치료 표적(신경정신·중독·수면장애·비만)의 전망.
+**hypothalamus**(LHA가 아니라 hypothalamus 전체)는 인간 뇌 부피의 약 **0.3%**(Hofman & Swaab 1992)에 불과하지만 생존에 필수적이다. opto·chemogenetics가 필요·충분성 자료를 더하고 있으나, 열린 질문은 그대로다 — LHA 기능 세포타입의 **총 분류(taxonomy)**, 국소·장거리 회로의 시냅스 조직, 네트워크 동역학의 행동 부호화, 발달·질병에서의 변화. 치료 표적(신경정신·중독·수면장애·비만)의 전망.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **LH^LepR 부호 논쟁의 "leptin 축" 뿌리**: 위키의 LH^LepR 섭식 부호 논쟁([[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]] 섭취↑ · [[siemian-2021-lateral-hypothalamic-lepr-neurons|Siemian 2021]] 무변 · de Vrind 2019·[[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]] 섭취↓)에서, 이 리뷰는 **네 번째 좌표 = "leptin이 켜는 포만·항스트레스 축"**을 제공한다. LepR를 "배고픔 구동 Motivation"으로 보는 사용자 lab 틀과, "leptin 감지 → Hcrt 억제 → HPA 진정"으로 보는 de Lecea 틀은 **같은 marker의 서로 다른 하위집단·방향**일 수 있다. 검증: Lepr-Cre × (Nts/Gal/MC4R) 교차 × phase-isolated paradigm으로 seeking subset(사용자 lab)과 Hcrt-억제 subset(이 리뷰)이 분자적으로 분리되는지.
@@ -130,10 +130,10 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH hunger×anxiety×social arbitration. 이 리뷰의 LepR–불안–섭식 교차점 지목의 현대 확장.
 - [[concept-paraventricular-nucleus]] — LHA^Pdx1/GABA→PVN 섭식(Wu 2015)·HPA 간접 억제.
 - [[concept-lateral-septum]] — MCH→LS glutamate 방출(Chee 2015)·LHA^MCH→MS REM θ 안정.
-- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — ★ 이 리뷰가 전망으로 적은 **"LHA^LepR = 불안장애×섭식장애 교차점"** 에 10년 뒤 붙은 인과 데이터(Nat Neurosci 2025, Korotkova lab). LH^LepR는 anxiogenic 자극에 **흥분**하고(EPM open arm-excited 34%), 활성화는 불안을 줄이고 **anxiogenic 맥락에서만** 섭식 개시를 앞당기며, ABA 거식 모델의 과잉 running을 차단한다. Lepr⁺ 클러스터는 **anorexia nervosa 위험 유전자 Ebf1·Opcml**을 발현한다. 이 리뷰의 'ob/ob에서 LH^LepR 활성이 섭식을 바꾸지 않고 corticosterone만 정상화'(Bonnavion 2015)와 **같은 방향**(섭취량보다 정서·개시가 바뀜)이다. ⚠️ 단 이 리뷰의 **"leptin이 켜는 포만 노드"** 서술은 그 논문에서 검증되지 않았다 — ABA는 저렙틴 상태인데 효과가 유지되고, 저자들은 BNST·복측해마·PFC 같은 leptin 비의존 입력을 든다(병기).
+- [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — ★ 이 리뷰가 전망으로 적은 **"LHA^LepR = 불안장애×섭식장애 교차점"** 에 10년 뒤 붙은 인과 데이터(Nat Neurosci 2025, Korotkova lab). LH^LepR는 anxiogenic 자극에 **흥분**하고(EPM open arm-excited 34%), 활성화는 불안을 줄이고 **anxiogenic 맥락에서만** 섭식 개시를 앞당기며, ABA 거식 모델의 과잉 running을 차단한다. Lepr⁺ 클러스터는 **anorexia nervosa 위험 유전자 Ebf1·Opcml**을 발현한다. 이 리뷰의 'ob/ob에서 LH^LepR 활성이 섭식을 바꾸지 않고 corticosterone만 정상화'(Bonnavion 2015)와 **같은 방향**(섭취량보다 정서·개시가 바뀜)이다. ⚠️ 단 이 리뷰의 **"leptin이 켜는 포만 노드"** 서술은 그 논문에서 검증되지 않았다 — ABA는 저렙틴 상태인데 효과가 유지되고, 저자들은 BNST·ventralhippocampus·PFC 같은 leptin 비의존 입력을 든다(병기).
 - [[yamanaka-2003-hypothalamic-orexin-neurons-regulate]] — 본 리뷰가 Fig 3A에서 "Hcrt 소실 마우스는 food restriction에 따른 **food-anticipatory arousal**이 없다"로 인용한 1차 자료(Neuron 2003). ⚠️ 실제 설계는 **30–31 h 총 단식** 중의 각성(EEG/EMG, n=6)·탐색 운동(open field, n=5–6) 증가이고 **제한 급식 스케줄의 예측 활동(FAA)은 측정하지 않았다** — "단식 유발 각성 소실"로 정밀화해 병기. 같은 논문이 OX 뉴런의 포도당·leptin 억제와 ghrelin 흥분(해리 세포)을 처음 보였다.
-- [[harris-2005-a-role-for-lateral]] — ★ 이 리뷰가 Hcrt 절 "내부 이질성" 행에서 **"내측 vs 외측 기능 이분(Harris & Aston-Jones 2006)"** 으로 인용한 그 이분법의 **1차 실험 근거**(Nature 2005). morphine·cocaine·food CPP 표현 중 **fornix 외측(LH) orexin 뉴런만** Fos가 48–52%로 오르고 선호와 **R=0.72–0.90** 비례하는데, **PFA·DMH orexin은 Fos 양성률 자체는 높아도(42–74%) 선호와 상관이 전혀 없다(P>0.20)**. 두 번째 축: **발바닥 전기충격은 DMH·PFA orexin만 켜고 LH orexin은 켜지 않는다**(Supplementary Table 1) → "PFA/DMH = 스트레스·각성, LH = 보상". 이 리뷰의 유보("확산 투사(González 2012) ↔ 이분법; orexin 집단은 monolithic하지 않을 것")가 바로 이 자료에 대한 평가다. ⚠️ 덧붙일 긴장: [[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]에서 Hcrt⁺는 **단일 하위구역(LHAhcrt-db)에 국한되고 Calb2⁺가 93%** 로 분자 이질성이 작다 — Harris의 LH/PFA/DMH 구분은 **fornix 기준 좌표 구획이지 분자 구획이 아님**을 명시해 인용할 것(병기).
-- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 이 리뷰 Fig 3A "설탕 보상의 선조체 DA 방출 조절(Domingos 2013)"의 **1차 원전**(eLife 2013, Friedman lab). Pmch-CRE;ChR2를 sucralose 섭취와 짝지어 20 Hz로 자극하면 sucrose 선호가 82% → 20%로 역전되고 선조체 DA가 +69% 오른다. DT로 MCH를 제거하면 sucrose DA(+118%)와 Trpm5⁻/⁻ 영양 조건화가 사라진다. MCH 자극만으로는(물과 짝지으면) 보상이 아니다. ⚠️ 이 리뷰 Fig 3B는 MCH가 **각성 중 침묵·REM 최대 3–12 Hz**라고 정리한다. Domingos는 생체 내 기록 없이 **깨어 있는 섭취 중 20 Hz** 자극을 썼다. 생리적 발화 범위와의 차이를 병기한다.
+- [[harris-2005-a-role-for-lateral]] — ★ 이 리뷰가 Hcrt 절 "내부 이질성" 행에서 **"medial vs lateral 기능 이분(Harris & Aston-Jones 2006)"** 으로 인용한 그 이분법의 **1차 실험 근거**(Nature 2005). morphine·cocaine·food CPP 표현 중 **fornix lateral(LH) orexin 뉴런만** Fos가 48–52%로 오르고 선호와 **R=0.72–0.90** 비례하는데, **PFA·DMH orexin은 Fos 양성률 자체는 높아도(42–74%) 선호와 상관이 전혀 없다(P>0.20)**. 두 번째 축: **발바닥 전기충격은 DMH·PFA orexin만 켜고 LH orexin은 켜지 않는다**(Supplementary Table 1) → "PFA/DMH = 스트레스·각성, LH = 보상". 이 리뷰의 유보("확산 투사(González 2012) ↔ 이분법; orexin 집단은 monolithic하지 않을 것")가 바로 이 자료에 대한 평가다. ⚠️ 덧붙일 긴장: [[wang-2021-expansion-assisted-iterative-fish-defines-lateral|Wang 2021]]에서 Hcrt⁺는 **단일 하위구역(LHAhcrt-db)에 국한되고 Calb2⁺가 93%** 로 분자 이질성이 작다 — Harris의 LH/PFA/DMH 구분은 **fornix 기준 좌표 구획이지 분자 구획이 아님**을 명시해 인용할 것(병기).
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 이 리뷰 Fig 3A "설탕 보상의 striatum DA 방출 조절(Domingos 2013)"의 **1차 원전**(eLife 2013, Friedman lab). Pmch-CRE;ChR2를 sucralose 섭취와 짝지어 20 Hz로 자극하면 sucrose 선호가 82% → 20%로 역전되고 striatum DA가 +69% 오른다. DT로 MCH를 제거하면 sucrose DA(+118%)와 Trpm5⁻/⁻ 영양 조건화가 사라진다. MCH 자극만으로는(물과 짝지으면) 보상이 아니다. ⚠️ 이 리뷰 Fig 3B는 MCH가 **각성 중 침묵·REM 최대 3–12 Hz**라고 정리한다. Domingos는 생체 내 기록 없이 **깨어 있는 섭취 중 20 Hz** 자극을 썼다. 생리적 발화 범위와의 차이를 병기한다.
 - [[subramanian-2023-hypothalamic-melanin-concentrating-hormone-neurons]] — 이 리뷰 §MCH계(뇌내 MCH→섭식↑·MCHR-1 길항제→섭식↓ 약리 계열)에 **세포 수준 생리·인과**를 붙인 rat 원저(Nat Commun 2023, Kanoski lab). MCH promoter GCaMP6s(LHA MCH의 70.9±3.5% 표지)로 학습된 cue(CS+>CS−, P=0.0042)와 섭취(식사 초기 최대·누적 칼로리 R²=0.9299)에 모두 반응함을 보이고, MCH DREADDs 활성이 PIT·CPP·식사량·IG glucose flavor 학습을 키운다. ⚠️ 이 리뷰가 정리한 **"MCH 수용체 약리"와 "MCH 뉴런 조작"은 등치되지 않는다** — MCH-1R 결손 마우스는 glucose 기반 flavor-nutrient 조건화가 정상(Sclafani 2016)인데, 본 논문은 뉴런 활성이 그 학습을 증폭한다고 보고한다(MCH 뉴런의 다중 전달물질 가능성으로 설명 시도).
 - [[de-vrind-2019-effects-of-gaba-and]] — 본 리뷰의 "세 번째 집단"(LepRb/Nts/Gal/MC4R)을 **통째로 hM3Dq로 켠** 인과 사례(Obesity 2019, Adan lab): 바닥 chow 섭취↓·운동↑·체온↑·3일 반복 체중↓. ⚠️ 본 리뷰가 그리는 "leptin이 켜는 LepRb → Hcrt 억제 → 각성·HPA 진정" 그림과 달리 그쪽 LepR 활성은 **운동과 체온을 올렸다** — Hcrt 억제만으로는 설명되지 않으므로 LepR 하위집단(Nts·Gal 공발현 축)과 각성 상태 변수를 분리해 읽어야 한다. ob/ob LepR 활성이 corticosterone만 정상화하고 섭식·체중은 바꾸지 않았다는 Bonnavion 2015과도 종말점이 갈린다(병기).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 이 리뷰가 세운 "세 번째 집단 = LepRb/Nts/Gal/MC4R 혼합"과 "LepRb 60% Nts⁺" 수치의 기능 검증 사례(Cell Rep 2021). Siemian은 그 LepR 집단이 분자적으로 이질적이어도 기능 축은 **appetitive(섭취 비구동·cue 학습/접근)로 수렴**함을 인과 조작으로 보인다. ⚠️ 본 리뷰의 "leptin이 켜는 포만·항스트레스 LepRb" 틀과, Siemian의 "appetitive 학습 LepR→VTA" 틀은 같은 marker의 다른 하위집단일 수 있다(병기).

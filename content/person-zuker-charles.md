@@ -15,7 +15,7 @@ aliases: [Charles Zuker, Zuker]
 Columbia University, Zuckerman Mind Brain Behavior Institute · Department of Biochemistry & Molecular Biophysics / Neuroscience. HHMI Investigator.
 
 ## 연구 주제
-- **미각 coding("labeled-line")**: 단맛·감칠맛·쓴맛·신맛·짠맛을 각각 전담하는 미뢰 세포·수용체·신경선의 분리(T1R/T2R, Otop1 등). 미각은 혀가 아니라 **뇌 미각피질의 세포 정체**로 부호화.
+- **미각 coding("labeled-line")**: 단맛·감칠맛·쓴맛·신맛·짠맛을 각각 전담하는 taste bud 세포·수용체·신경선의 분리(T1R/T2R, Otop1 등). 미각은 혀가 아니라 **뇌 gustatory cortex의 세포 정체**로 부호화.
 - **gut-brain 영양소 선호 축(최근)**: 미각과 독립적으로 post-ingestive 신호가 **craving·선호**를 만든다.
   - **당(sugar)**: SGLT1→미주→cNST 축이 미각 비의존 당 선호를 구동(Tan 2020 *Nature*). 인공감미료는 미각을 켜도 선호를 못 만듦.
   - **지방(fat)**: [[li-2022-gut-brain-circuits-for-fat-preference|Li 2022 *Nature*]] — 지방 선호의 gut-brain 회로. CCK-의존 generalist(VIP nodose, GPR40/GPR120) + CCK-비의존 fat-only(TRPA1 nodose) 두 병렬 미주 경로.
@@ -35,7 +35,7 @@ Columbia University, Zuckerman Mind Brain Behavior Institute · Department of Bi
 - [[grove-2025-lateralized-pathway-associating-nutrients]] — 자매 규명(Knight lab).
 - [[person-knight-zachary]] — 인접 gut-brain·미각-영양 학습 연구자.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 사용자 연구계획서.
-- [[wang-2018-coding-of-valence-and-identity]] — 미각 identity/valence 분리·피질→편도 지형(대표작).
-- [[jin-2021-top-down-control-of-sweet]] — 미각피질·CeA→뇌간 top-down 미각 조절.
+- [[wang-2018-coding-of-valence-and-identity]] — 미각 identity/valence 분리·cortex→amygdala 지형(대표작).
+- [[jin-2021-top-down-control-of-sweet]] — gustatory cortex·CeA→brainstem top-down 미각 조절.
 - [[concept-taste-valence-coding]] — labeled-line 미각 valence hub.
-- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본인이 **Trpm5⁻/⁻("sweet-blind") 마우스를 제공**한 연구(eLife 2013, Friedman·de Araujo). 그 계통에서 sucrose의 미각 비의존 post-ingestive 조건화가 **LH MCH 뉴런 제거로 사라진다**(자리 선호 70–79% → 50%, VTA DA cFos↓). 즉 wanting 축(gut/영양)에 **시상하부 노드**가 더해지는 결과다. ⚠️ 본인 lab의 당 선호 회로(SGLT1→미주→cNST, Tan 2020)와 어느 지점에서 만나는지는 미검증이다(병기).
+- [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본인이 **Trpm5⁻/⁻("sweet-blind") 마우스를 제공**한 연구(eLife 2013, Friedman·de Araujo). 그 계통에서 sucrose의 미각 비의존 post-ingestive 조건화가 **LH MCH 뉴런 제거로 사라진다**(자리 선호 70–79% → 50%, VTA DA cFos↓). 즉 wanting 축(gut/영양)에 **hypothalamus 노드**가 더해지는 결과다. ⚠️ 본인 lab의 당 선호 회로(SGLT1→미주→cNST, Tan 2020)와 어느 지점에서 만나는지는 미검증이다(병기).

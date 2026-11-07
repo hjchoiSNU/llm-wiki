@@ -21,7 +21,7 @@ GLP-1 RA 중심으로 gut hormone 기반 대사질환 치료제의 제형 발전
 - **exendin-4 계열**: exenatide(Gila monster 독, DPP-4 저항), lixisenatide(위배출 억제 강함).
 - **경구화**: oral semaglutide + **SNAC**(흡수증강제; 위 국소 pH↑·transcellular 흡수). 흡수율 낮아 14mg 경구 ≈ SC 1mg.
 - **대안**: DPP-4 억제제(gliptins; 효과 약함), **비펩타이드 소분자**(danuglipron), L세포 secretagogue(TGR5/bile acid).
-- **glucagon·GIP 병용 근거**: glucagon(lipolysis·에너지소비↑, 시상하부 AMPK/FGF21), GIP(뇌 GIPR catabolic·지방 인슐린감수성↑).
+- **glucagon·GIP 병용 근거**: glucagon(lipolysis·에너지소비↑, hypothalamus AMPK/FGF21), GIP(뇌 GIPR catabolic·지방 인슐린감수성↑).
 - **dual/triple**: GLP-1/glucagon(cotadutide), **GLP-1/GIP tirzepatide**(GLP-1R KO에서 효과 소실=두 수용체 경유, SURMOUNT 20.9%), 삼중(SAR441255 −25%, retatrutide).
 - **nuclear hormone 컨쥬게이트**: GLP-1/oestradiol·glucagon/T3·GLP-1/dexamethasone(전임상).
 
@@ -33,4 +33,4 @@ GLP-1 RA 중심으로 gut hormone 기반 대사질환 치료제의 제형 발전
 - [[davies-2026-elecoglipron-an-oral-small]] · [[rosenstock-2026-oral-small-molecule-glp]] — 비펩타이드 경구 GLP-1RA 후속.
 - [[lee-2017-glp-1-based-combination-therapy]] — GLP-1 병용요법 상위 맥락.
 - [[concept-peptide-drug-conjugate]] — 본 리뷰의 nuclear hormone 컨쥬게이트(GLP-1/oestradiol·glucagon/T3·GLP-1/dexamethasone)가 속하는 포맷 hub(전임상 단계 근거 제공).
-- [[concept-glucagon-receptor-agonism]] · [[concept-hypothalamic-ampk]] — glucagon의 lipolysis·에너지소비↑와 시상하부 AMPK/FGF21 축.
+- [[concept-glucagon-receptor-agonism]] · [[concept-hypothalamic-ampk]] — glucagon의 lipolysis·에너지소비↑와 hypothalamus AMPK/FGF21 축.

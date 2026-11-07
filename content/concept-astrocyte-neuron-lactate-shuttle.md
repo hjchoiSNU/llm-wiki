@@ -7,7 +7,7 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **뇌 대사를 "뉴런 = 포도당"이 아니라 "성상교세포가 젖산을 만들어 뉴런에 먹인다"로 보는 프레임.** 성상교세포가 호기성 해당(Warburg)으로 **젖산(lactate)**을 생산→**MCT 수송체**로 뉴런에 전달→뉴런의 에너지 기질이자 신호분자. 최근엔 젖산이 **히스톤 젖산화(H3K9la 등)**라는 후성유전 수식을 일으켜 유전자 발현을 바꾸는 축이 부상. 사용자에게: (1) **대사-뇌 인터페이스**의 세포 수준 실체 — 시상하부·보상 회로도 이 대사 기반 위에서 작동. (2) [[du-2026-oral-glp1-receptor-agonist-promotes|뇌투과 GLP-1RA(OHP2)]]가 바로 이 셔틀을 표적으로 AD를 치료 → **GLP-1R의 뇌 작용을 성상교세포 대사로 재해석**하는 통로. (3) 젖산화(lactylation)는 대사 상태가 곧바로 유전자·기억으로 번역되는 새 메커니즘으로, 사용자 lab의 대사-인지 연결 가설에 분자 도구를 제공.
+> **뇌 대사를 "뉴런 = 포도당"이 아니라 "성상교세포가 젖산을 만들어 뉴런에 먹인다"로 보는 프레임.** 성상교세포가 호기성 해당(Warburg)으로 **젖산(lactate)**을 생산→**MCT 수송체**로 뉴런에 전달→뉴런의 에너지 기질이자 신호분자. 최근엔 젖산이 **히스톤 젖산화(H3K9la 등)**라는 후성유전 수식을 일으켜 유전자 발현을 바꾸는 축이 부상. 사용자에게: (1) **대사-뇌 인터페이스**의 세포 수준 실체 — hypothalamus·보상 회로도 이 대사 기반 위에서 작동. (2) [[du-2026-oral-glp1-receptor-agonist-promotes|뇌투과 GLP-1RA(OHP2)]]가 바로 이 셔틀을 표적으로 AD를 치료 → **GLP-1R의 뇌 작용을 성상교세포 대사로 재해석**하는 통로. (3) 젖산화(lactylation)는 대사 상태가 곧바로 유전자·기억으로 번역되는 새 메커니즘으로, 사용자 lab의 대사-인지 연결 가설에 분자 도구를 제공.
 
 # 성상교세포-뉴런 젖산 셔틀 (ANLS)
 
@@ -42,13 +42,13 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 
 ## 관련 페이지
 - [[du-2026-oral-glp1-receptor-agonist-promotes]] — ANLS·H3K9la를 GLP-1RA 신경보호 기전으로 규명한 핵심 논문.
-  ⚠️ **범위 주의**: "뇌 GLP-1R = 성상교세포"는 [[du-2026-oral-glp1-receptor-agonist-promotes|Du 2026]]이 **피질·해마**를 표적으로 본 소견이며(AD에서 성상교세포 쪽만 추가 상승, 수컷 마우스·Aβ 모델), 같은 해 [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 리뷰]]는 CNS GLP-1R를 "우세하게 뉴런형"으로 기술한다. 시상하부·후뇌 회로로 옮길 때는 세포종류 가정을 다시 검증해야 한다.
+  ⚠️ **범위 주의**: "뇌 GLP-1R = 성상교세포"는 [[du-2026-oral-glp1-receptor-agonist-promotes|Du 2026]]이 **cortex·hippocampus**를 표적으로 본 소견이며(AD에서 성상교세포 쪽만 추가 상승, 수컷 마우스·Aβ 모델), 같은 해 [[sabbagh-2026-repurposing-glucagon-like-peptide-1|Sabbagh 리뷰]]는 CNS GLP-1R를 "우세하게 뉴런형"으로 기술한다. hypothalamus·hindbrain 회로로 옮길 때는 세포종류 가정을 다시 검증해야 한다.
 - [[concept-glp1-neuroprotection]] — 이 셔틀이 GLP-1RA 뇌 효과의 후보 기전으로 들어가는 상위 hub.
 - [[concept-glp-1]] — 뇌 GLP-1R가 성상교세포 대사를 통해 작동한다는 관점의 상위 약리 hub.
 - [[cummings-2026-efficacy-and-safety-of-oral]] — 말초 위주 sema는 이 뇌 셔틀에 도달하지 못해 임상 음성이었을 가능성(대비).
 - [[concept-epigenetic-priming]] · [[kim-2026-early-life-stress-alters-h3k4me1]] — 같은 문법의 다른 입력: 여기서는 **대사(젖산)**가, 저기서는 **스트레스 경험**이 히스톤 코드를 써서 뉴런 반응성을 바꾼다(H3K9 젖산화 vs H3K4me1 priming).
 - [[concept-h3-dopaminylation]] — 대사·신호 분자가 히스톤에 직접 붙는 같은 문법의 자매 사례(H3K9 lactylation ↔ TG2 매개 H3Q5 dopaminylation).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 그 1차 출처 (Nature 2026).
-- [[concept-glia-stress-plasticity]] — 성상교세포의 **다른 축**: 대사 지원(젖산 셔틀)이 아니라 **Ca²⁺ 신호·GFAP**를 통한 스트레스 반응. 외측 편도체 성상교세포 Ca²⁺ 조작만으로 스트레스 유발 행동 결손이 구제된다.
+- [[concept-glia-stress-plasticity]] — 성상교세포의 **다른 축**: 대사 지원(젖산 셔틀)이 아니라 **Ca²⁺ 신호·GFAP**를 통한 스트레스 반응. lateral amygdala 성상교세포 Ca²⁺ 조작만으로 스트레스 유발 행동 결손이 구제된다.
 - [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 출처. **ELS 성상교세포의 후성유전체를 직접 본 연구는 아직 없다**는 공백도 명시 (NRN 2026).
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — astrocyte도 미토콘드리아 역학에 기반한 **고유한 대사 유연성**을 갖고 AgRP 가소성에 참여한다(GABA → astrocyte → PGE2 → AgRP EP2 양성 고리).

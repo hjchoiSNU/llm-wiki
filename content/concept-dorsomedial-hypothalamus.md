@@ -12,13 +12,13 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 # Dorsomedial hypothalamus (DMH)
 
 ## 위치
-시상하부 dorsomedial. PVN ventral, VMH dorsal. third ventricle 양옆.
+hypothalamus dorsomedial. PVN ventral, VMH dorsal. third ventricle 양옆.
 
 ## 주요 cell types
 | Marker | 기능 |
 |---|---|
 | **GLP-1R+** ★ | **1차 근거 = [[kim-2024-glp-1-increases-preingestive-satiation\|Kim KS 2024 *Science*]]** (사용자 lab): DMH^GLP-1R → ARC NPY/AgRP **picrotoxin 감수성 GABA 억제**(CRACM, 기록 세포 8/8) + 비만 성인 **교차설계 임상시험(n=28)** 으로 **pre-ingestive satiation** 입증("신호등 보고 미리 브레이크"). 종합·리뷰는 [[park-2025-glucagon-like-peptide-1-and-hypothalamic\|Park JS 2025 DMJ]]. |
-| **Lepr+** | [[garfield-2016-dynamic-gabaergic-afferent-modulation\|Garfield 2016]] — **복측** DMH^LepR/pDYN이 ARC AgRP에 GABAergic·dynorphin 억제 입력(AgRP 100% vs POMC 9% 선택적). 음식 탐지 시 빠르게 활성·가치 부호화 → AgRP suppress. (배측 DMH^LepR=glutamatergic·EE와 구별.) |
+| **Lepr+** | [[garfield-2016-dynamic-gabaergic-afferent-modulation\|Garfield 2016]] — **ventral** DMH^LepR/pDYN이 ARC AgRP에 GABAergic·dynorphin 억제 입력(AgRP 100% vs POMC 9% 선택적). 음식 탐지 시 빠르게 활성·가치 부호화 → AgRP suppress. (dorsal DMH^LepR=glutamatergic·EE와 구별.) |
 | **Dynorphin (Pdyn)** | DMH^PDYN — circadian anticipatory behavior (Sayar-Atasoy 2024). |
 | **Trh+** ★ | SCN→DMH^Trh→ARC AgRP — Douglass 2024 Cell Metab의 circadian feed-forward 회로. Webster 2024 RAMPANT에서 caudal ARC inhibitory subset이 Trh+/Glp1r+/Lepr+ co-express → liraglutide 효과 매개. |
 | **NPY** | Subset, food-entrainable. |
@@ -50,36 +50,36 @@ aliases: [DMH, dorsomedial nucleus, dorsomedial hypothalamic nucleus]
 ## 사용자 lab 함의 (★)
 - **사용자 lab 핵심 회로** ([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park JS 2025 DMJ]]): DMH GLP-1R+ cognitive satiation.
 - Trh⁺/Glp1r⁺/Lepr⁺ subset (Webster 2024 RAMPANT)은 위키의 다른 페이지들이 일관되게 **caudal ARC** 집단으로 기록한 대상이다(→ [[concept-arcuate-nucleus]], [[littleton-2025-from-identity-to-function-unveiling]]; Webster 원문 PDF는 `raw/`에 없어 2차 인용). 사용자 lab의 **DMH^GLP-1R** 집단([[kim-2024-glp-1-increases-preingestive-satiation]])과 같은 세포인지는 **미확정**. ⚠️ [[heyward-2025-single-nucleus-transcriptional-and-chromatin|Heyward 2025]]의 Xenium 공간 검증(Fig. 2h–m)은 Lepr/Glp1r 공발현 Bnc2⁺ 뉴런이 **ARC/VMH에서는 Trh형 74.4%·Tbx19형 ~13%·Ebf1형 0%**, **DMH에서는 Ebf1형 ~60%·Trh형 ~12%·Tbx19형 ~3%** 로 갈린다고 보고해 'caudal ARC Trh 집단 = DMH 집단'이라는 동일시를 지지하지 않는다. DMH 표적 마커로는 **Trh가 아니라 Ebf1**이 후보(단 이중양성 세포 ARC 99·DMH 109개의 소규모 검증).
-- 사용자 lab의 GLP-1 회로가 시상하부 atlas (Tadross 2025)에서 DMH heterogeneity로 정당화.
+- 사용자 lab의 GLP-1 회로가 hypothalamus atlas (Tadross 2025)에서 DMH heterogeneity로 정당화.
 
 ## 관련 페이지
 - [[concept-arcuate-nucleus]] — feed-forward 표적.
 - [[concept-npy-agrp-neurons]] — AgRP target.
-- [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — 복측 DMH^LepR/pDYN GABAergic→ARC^AgRP 선택적 억제; 음식 탐지에 빠른 활성·가치 부호화 (Nat Neurosci 2016, Lowell lab).
+- [[garfield-2016-dynamic-gabaergic-afferent-modulation]] — ventral DMH^LepR/pDYN GABAergic→ARC^AgRP 선택적 억제; 음식 탐지에 빠른 활성·가치 부호화 (Nat Neurosci 2016, Lowell lab).
 - [[krashes-2014-an-excitatory-paraventricular-nucleus-to]] — DMH glutamatergic→AgRP 흥분성 입력도 동정(PVH보다 약함·높은 failure rate) (Nature 2014, Lowell lab).
-- [[aitken-2024-negative-feedback-control-of-hypothalamic]] — **DMH^LepR이 sweet/fat 맛에 동조**(AgRP 거울상)해 bout마다 AgRP를 억제·meal termination; 맛+위장관 영양 통합 (Neuron 2024, Knight lab).
+- [[aitken-2024-negative-feedback-control-of-hypothalamic]] — **DMH^LepR이 sweet/fat 맛에 동조**(AgRP 거울상)해 bout마다 AgRP를 억제·meal termination; 맛+gastrointestinal tract 영양 통합 (Neuron 2024, Knight lab).
 - [[concept-glp-1]] — DMH GLP-1R.
 - [[concept-paraventricular-nucleus]] · [[concept-ventromedial-hypothalamus]] — 인근.
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 사용자 lab 1차.
 - [[faour-2025-emerging-role-of-agrp]] — circadian AgRP.
 - [[littleton-2025-from-identity-to-function-unveiling]] — atlas + Webster 2024 RAMPANT.
-- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 시상하부 공간전사체; DMH 종간 비보존 (preprint 2026).
+- [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 hypothalamus 공간전사체; DMH 종간 비보존 (preprint 2026).
 - [[johansen-2025-brain-control-of-energy]] — beyond AgRP/POMC·DVC·약물 종합 (Cell 2025).
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — DMH/BMH GLP1R = homeostatic(SD) 분업 (CeA=hedonic과 대비, Nature 2026).
 - [[proposal-dmh-glp1r-human-imaging]] — DMH GLP-1R cognitive satiation을 인간 7T fMRI로 검증하는 연구계획서.
-- [[concept-dorsal-vagal-complex]] — DMH 시상하부 GLP1R 경로와 상보적인 hindbrain GLP1R 무대.
-- [[gao-2026-semaglutide-drives-weight-loss-through]] — 말초 세마글루타이드는 시상하부보다 hindbrain(AP)을 통해 작용 (Nat Metab 2026).
+- [[concept-dorsal-vagal-complex]] — DMH hypothalamus GLP1R 경로와 상보적인 hindbrain GLP1R 무대.
+- [[gao-2026-semaglutide-drives-weight-loss-through]] — 말초 세마글루타이드는 hypothalamus보다 hindbrain(AP)을 통해 작용 (Nat Metab 2026).
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] — 사용자 lab 뇌 GLP-1R 리뷰; DMH GLP-1R/LepR preingestive satiation을 brain-wide GLP-1R 지도 안에 정리 (APEM 2025).
 - [[rupp-2023-suppression-of-food-intake-by]] — DMH GABA성 LepRb^Glp1r 뉴런(leptin×GLP-1 수렴).
 - [[crunkhorn-2025-pairing-up-with-glp-1]] — GLP-1×렙틴 이중작용제가 바로 이 DMH LepR^Glp1r 뉴런을 표적(인과 검증); NHP DMH 공발현 (하이라이트, Polex-Wolf 2024).
 - [[cao-2024-hunting-for-heroes-brain]] — DMH^GLP-1R preingestive satiation 논점 맥락화.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — DMH의 Lepr×Glp1r 뉴런이 **Bnc2/Nkx2-4/Glp1r 계열**이며 DMH에서는 **Ebf1형이 우세·Glp1r 최고 발현**(Xenium ~60%) → liraglutide 포만 매개 DMH LepR 뉴런의 분자 정체 후보 (bioRxiv 2025).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — **DM이 ARC POMC·AgRP 입력 중 수적으로 가장 많은 시상하부 영역**임을 전뇌 지도로 확인([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]의 AgRP 입력 DMH 26%와 정합). 단 이 영역 수준 결과는 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]의 세포 수준 선택성(vDMH^LepR이 AgRP 100% vs POMC 9%)과 **다른 층위** — 같은 핵이 둘 다에 투사한다는 사실이 같은 뉴런이 둘 다에 투사함을 뜻하지는 않는다 (Front Neuroanat 2015).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — **DM이 ARC POMC·AgRP 입력 중 수적으로 가장 많은 hypothalamus 영역**임을 whole-brain 지도로 확인([[krashes-2014-an-excitatory-paraventricular-nucleus-to|Krashes 2014]]의 AgRP 입력 DMH 26%와 정합). 단 이 영역 수준 결과는 [[garfield-2016-dynamic-gabaergic-afferent-modulation|Garfield 2016]]의 세포 수준 선택성(vDMH^LepR이 AgRP 100% vs POMC 9%)과 **다른 층위** — 같은 핵이 둘 다에 투사한다는 사실이 같은 뉴런이 둘 다에 투사함을 뜻하지는 않는다 (Front Neuroanat 2015).
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — **DMH^Vglut2→AgRP 입력의 가소성 서명이 PVH^TRH와 다르다**: 단식 시 양자 **진폭**이 오르고(후시냅스 전도도) 빈도는 불변. 그리고 단식 중 DMH^Vglut2를 침묵시켜도 재급식 식이·체중 재증가는 **영향 없음** — 같은 AgRP 뉴런으로 가는 흥분성 입력이라도 기능이 갈린다 (Cell Metab 2023).
 - [[concept-agrp-synaptic-plasticity]] — 입력별 가소성 서명 비교표가 있는 개념 hub.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — ★ **본 hub의 1차 근거**(사용자 lab, Science 2024). DMH^GLP-1R 뉴런이 섭취 전 음식 cue 단계에 활성화되고 ARC NPY/AgRP를 GABA로 억제해 preingestive satiation을 만든다; 인체 교차설계 임상시험(n=28)·광유전·광계측/microendoscopy·CRACM 통합. 리뷰([[park-2025-glucagon-like-peptide-1-and-hypothalamic|Park 2025]])가 아니라 이 논문을 1차 인용으로 쓸 것.
-- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ DMH가 **뇌간 Adcyap1^NTS 입력의 표적**임을 기능적으로 확인: 광자극이 단식 재급식·초콜릿 폭식을 비혐오적으로 억제(chow는 소폭 증가)하고 ARC 단식 AgRP Fos를 낮추며, **에너지소비(EE)를 감소**시킨다(자유섭식·무식이 모두). 세마글루타이드 반응 subset만 자극해도 재현. → 사용자 lab의 **DMH 국소 GLP-1R 경로**([[kim-2024-glp-1-increases-preingestive-satiation]])와 **같은 AgRP 종착점·다른 상류**로, DMH 조작 실험의 대조 조건 설계 근거 (bioRxiv preprint 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ★ DMH가 **brainstem Adcyap1^NTS 입력의 표적**임을 기능적으로 확인: 광자극이 단식 재급식·초콜릿 폭식을 비혐오적으로 억제(chow는 소폭 증가)하고 ARC 단식 AgRP Fos를 낮추며, **에너지소비(EE)를 감소**시킨다(자유섭식·무식이 모두). 세마글루타이드 반응 subset만 자극해도 재현. → 사용자 lab의 **DMH 국소 GLP-1R 경로**([[kim-2024-glp-1-increases-preingestive-satiation]])와 **같은 AgRP 종착점·다른 상류**로, DMH 조작 실험의 대조 조건 설계 근거 (bioRxiv preprint 2026).
   - ⚠️ 부호 긴장(병기): Lee 2018(Mol Metab)은 DMH GLP-1 신호 **상실**이 BAT thermogenesis↓·지방↑라 보고 — '활성=EE↑'의 단순 도식과 달리 본 결과는 **활성이 EE↓**. DMH가 EE를 양방향 조절하는 이질 집단(Brs3·hibernation-like state)이라는 점에서 **다른 세포**로 보는 해석이 정합적.
-- [[concept-glp1ra-cns-access]] — ★ **"말초 GLP-1RA가 DMH^GLP-1R에 직접 닿는가"를 미해결로 명시**한 hub. tanycyte 수송은 median eminence–MBH 축이고 **DMH 도달 근거는 위키·웹 양쪽에 없다**; 대안은 ME→3V CSF 확산, 뇌간 Adcyap1^NTS→DMH 상행 입력([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem|Blid Sköldheden 2026]]), DMH 국소 혈관 투과성. → [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]] 회로가 **약물 작용점인지 회로 중계점인지**가 여기서 갈리므로, DMH 조작·인간 영상 설계에서 접근 경로를 변수로 다룰 근거.
+- [[concept-glp1ra-cns-access]] — ★ **"말초 GLP-1RA가 DMH^GLP-1R에 직접 닿는가"를 미해결로 명시**한 hub. tanycyte 수송은 median eminence–MBH 축이고 **DMH 도달 근거는 위키·웹 양쪽에 없다**; 대안은 ME→3V CSF 확산, brainstem Adcyap1^NTS→DMH 상행 입력([[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem|Blid Sköldheden 2026]]), DMH 국소 혈관 투과성. → [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]] 회로가 **약물 작용점인지 회로 중계점인지**가 여기서 갈리므로, DMH 조작·인간 영상 설계에서 접근 경로를 변수로 다룰 근거.
 - [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — 'caudal ARC냐 ventral DMH냐' 논쟁에 **양쪽**이라는 답: 하나의 집단으로 다루며 rabies 역행 추적에서 ARC ~36%·DMH ~48%가 Glp1r⁺로 Agrp에 직접 입력 (EMBO J 2026).

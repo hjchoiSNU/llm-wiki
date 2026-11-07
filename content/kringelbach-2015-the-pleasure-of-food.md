@@ -14,20 +14,20 @@ year: 2015
 # 음식의 쾌락 — 섭식과 보상의 뇌 기전 (Kringelbach 2015)
 
 ## 한 줄 요약
-음식 쾌락은 성·사회·고차 보상과 공통 회로(피질하 hotspot + 피질 OFC·cingulate·insula)를 쓰는 단일 쾌락 시스템의 한 사례이며, liking/wanting/learning 3성분과 pleasure cycle로 구조화된다.
+음식 쾌락은 성·사회·고차 보상과 공통 회로(subcortical hotspot + cortex OFC·cingulate·insula)를 쓰는 단일 쾌락 시스템의 한 사례이며, liking/wanting/learning 3성분과 pleasure cycle로 구조화된다.
 
 ## 핵심 내용
 
 ### 단일 쾌락 시스템 (unitary pleasure system)
-- 음식·성·사회·고차(추상적) 보상이 **공통 회로**를 공유: 피질하 hotspot(NAc·VP)과 피질(OFC·cingulate·insula). → [[concept-hedonic-hotspot]]·[[concept-nucleus-accumbens]].
+- 음식·성·사회·고차(추상적) 보상이 **공통 회로**를 공유: subcortical hotspot(NAc·VP)과 cortex(OFC·cingulate·insula). → [[concept-hedonic-hotspot]]·[[concept-nucleus-accumbens]].
 
 ### pleasure cycle
 - **appetitive phase**(wanting, 도파민) → **consummatory phase**(liking, opioid) → **satiety**(포만)의 시간적 순환 구조. → [[concept-appetitive-consummatory-phases]].
 - Berridge의 **liking / wanting / learning 3성분 틀** 채택. → [[concept-liking-wanting]].
 
-### 미각·후각 피질 처리
-- **일차 미각피질** = 양측 anterior insula / frontal operculum (동기 상태와 **독립적**으로 반응).
-- **후각만 시상을 우회**하여 피질에 도달.
+### 미각·후각 cortex 처리
+- **일차 gustatory cortex** = 양측 anterior insula / frontal operculum (동기 상태와 **독립적**으로 반응).
+- **후각만 thalamus를 우회**하여 cortex에 도달.
 
 ### OFC의 이질성(heterogeneity)
 - **medial OFC** = 보상가(reward value) 모니터링.
@@ -42,6 +42,6 @@ year: 2015
 - [[concept-liking-wanting]] — Berridge 3성분 틀을 인간 영상 근거로 확장
 - [[concept-appetitive-consummatory-phases]] — pleasure cycle의 시간축 구조 출처
 - [[concept-orbitofrontal-cortex]] — medial/mid-anterior/lateral OFC 이질성 상세
-- [[concept-hedonic-hotspot]] — 피질하 hotspot이 단일 쾌락 시스템의 일부임
+- [[concept-hedonic-hotspot]] — subcortical hotspot이 단일 쾌락 시스템의 일부임
 - [[morales-2020-liking-and-wanting-in-eating]] — 동일 liking/wanting 틀의 설치류 기전 상보
 - [[concept-need-motivation-pleasure-utility]] — 쾌락·효용의 개념적 위치

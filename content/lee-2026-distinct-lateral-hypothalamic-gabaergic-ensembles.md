@@ -124,7 +124,7 @@ Vgat-Cre 마우스 LH에 jGCaMP8m을 발현시키고 GRIN 렌즈를 통해 **hea
 1. **NMPU 배정 규칙**: salience ensemble은 먹이 특이적이지 않은 "우선순위화·에너지화" 신호여서 [[concept-need-motivation-pleasure-utility|NMPU]]의 Motivation 중 **valence 비특이 성분**에 가깝다. ingestion ensemble은 가치 스케일링(배고픔·농도·GLP-1RA)을 보이므로 consummatory 단계의 Pleasure/Utility 판독 후보다. 먹이 특이 Motivation 뉴런을 주장하려면 **혐오 자극 + 물(비칼로리) 대조**를 같은 세포에서 시험해야 한다는 설계 기준이 나온다. 또 ingestion ensemble 진폭은 Need(금식)와 영양가(농도)에 함께 비례하므로 [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]의 Need × Pleasure 곱셈 구조를 단일세포 수준에서 검증할 지표가 된다 — 금식 × 희석 **2×2 설계**에서 진폭이 곱셈적으로 변하는지 보면 된다(원문은 3조건뿐이라 상호작용을 판정할 수 없다).
 2. **[[proposal-lh-nac-nmpu-neuron-discovery|LH–NAc 발굴 과제]]**: Cal-Light 결과대로라면 투사 표적(예: LH→VTA) 기반 접근은 두 ensemble을 섞어 잡을 수 있다. 자극 epoch별 기능 태깅(Cal-Light·[[jia-2026-novelty-exploration-activated-ensemble-in|Fos-TRAP]])이나 분자 교차 표지가 더 직접적이다.
 3. **GLP-1RA 약력학 판독치**: Ex-4가 cue·섭취 반응과 일부 기저를 하위집단 특이적으로 낮췄다. 원문이 말한 "GLP1R 발현 뉴런 → LH 억제 경로"의 후보로 사용자 lab의 DMH GLP-1R 회로([[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024]])를 검토할 수 있다. 검증되지 않았다([[concept-glp-1]]). DMH GLP-1R→AgRP(식전)에 더해 LH^Vgat cue·섭취 반응이 함께 약화되므로, GLP-1RA가 "식전 기대"와 "섭취 중 가치"를 모두 깎는 **다층 기전** 가설이 되고, LH 섭취 반응 감쇠 폭은 [[concept-glp1ra-response-variability|GLP-1RA 반응 변이]]의 회로 수준 지표 후보다.
-4. **[[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]](Stuber lab)**: 같은 해 LHA GABA·Glu 활동이 용액 가치에 따라 반대로 스케일되고 섭취 중 선조체 도파민 기울기를 설정한다고 보고했다. 본 논문의 value-scaled ingestion ensemble이 그 GABA 신호의 단일세포 기질일 수 있다.
+4. **[[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]](Stuber lab)**: 같은 해 LHA GABA·Glu 활동이 용액 가치에 따라 반대로 스케일되고 섭취 중 striatum 도파민 기울기를 설정한다고 보고했다. 본 논문의 value-scaled ingestion ensemble이 그 GABA 신호의 단일세포 기질일 수 있다.
 5. **[[liu-2026-granular-motivational-interaction-and|Liu 2026]]의 granular phase 분해**: seeking→approaching→sustained eating 단계 중 본 논문 두 ensemble은 "cue/준비" 대 "sustained eating" 축에 대응한다. 사이 단계(접근·탐색)의 코딩은 이 설계(head-fixed)로는 볼 수 없다.
 6. **[[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]] LH^LepR 2 subpopulation과의 대응**: consummatory LepR subset이 본 논문 ingestion ensemble의 분자 부분집합인지, seeking subset이 salience ensemble과 겹치는지를 검증할 수 있다. 겹친다면 LepR seeking 뉴런도 혐오 자극에 반응해야 한다.
 7. **Cue reactivity·DTx**: 먹이 cue에 대한 salience ensemble 반응은 혐오 자극과 공유되는 "우선순위" 신호다. 인간 [[concept-cue-reactivity|cue reactivity]]의 각성 성분(동공·SCR)과 가치 성분을 분리해 측정해야 함을 시사하며, 중립 tone 대조 설계는 인간 fMRI·동공 실험에 이식할 수 있다.
@@ -147,7 +147,7 @@ Vgat-Cre 마우스 LH에 jGCaMP8m을 발현시키고 GRIN 렌즈를 통해 **hea
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab LH^LepR: seeking vs consummatory 2 subpopulation 분리와 수렴, food-specific 정의 축·비율 차이(위 충돌 1), LepR subset ↔ 두 ensemble 대응 가설(연결 가설 6)
 - [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH^Lepr/LH^Nts 모달리티 편향 채널(본 논문의 "병렬 채널")
 - [[sumarli-2026-multidimensional-control-of-ingestive-behavior]] — LH^Nts 음수 편향. 본 논문의 모달리티 특이 잔여 하위집단 후보
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 같은 해 Stuber lab: LHA GABA·Glu 가치 스케일링 → 선조체 DA 기울기
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 같은 해 Stuber lab: LHA GABA·Glu 가치 스케일링 → striatum DA 기울기
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — 집단 수준 양가 salience hub(Fos-TRAP 광도측정) vs 단일세포 ensemble 분리; salience 축은 다른 방법으로 수렴하나 같은 집단인지는 미검증
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰(palatability vs calorie 서술과 긴장; LH^Vgat appetitive/consummatory subset 서술과 비교)
 - [[chen-2025-the-integrated-function-of-the]] — LHA^Vgat "engine" 프레임과 대비(위 충돌 4)

@@ -72,7 +72,7 @@ year: 2011
 - [[concept-pomc-neurons]] — **reset 신호의 공급원**. α-MSH(멜라노코르틴)가 아니라 **오피오이드**로 AgRP 시냅스를 끈다는 비정규 기능.
 - [[concept-ghrelin]] — set 신호. 본 논문은 ghrelin의 AgRP 작용이 세포체 직접 흥분만이 아니라 **전시냅스 말단**에서 일어남을 보임.
 - [[concept-leptin]] — reset 신호. 단 **직접 작용이 아니라 POMC 오피오이드 경유**(절편 직접 투여 무효).
-- [[concept-hypothalamic-ampk]] — 본 논문은 시상하부 AMPK의 작용점에 **시냅스 전말단**을 추가한다(대사 유전자 발현·지방산 산화와 구별되는 층).
+- [[concept-hypothalamic-ampk]] — 본 논문은 hypothalamus AMPK의 작용점에 **시냅스 전말단**을 추가한다(대사 유전자 발현·지방산 산화와 구별되는 층).
 - [[concept-arcuate-nucleus]] — AgRP/POMC 상호 길항이 **시냅스 수준에서도 반대 방향**으로 작동.
 - [[proposal-pomc-endorphin-food-pleasure]] — β-endorphin의 **두 번째 기능**(쾌락 부호화와 별개로 AgRP 시냅스 reset)을 제안에 추가할 근거.
 - [[concept-weight-regain-defended-adiposity]] — "체중 감량 후 회로가 왜 원래로 안 돌아가는가"의 시냅스 기질 후보.

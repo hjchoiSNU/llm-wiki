@@ -12,7 +12,7 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 # Ventromedial hypothalamus (VMH)
 
 ## 위치
-시상하부 mediobasal, ARC 위쪽. dorsomedial · central · ventrolateral subdivision.
+hypothalamus mediobasal, ARC 위쪽. dorsomedial · central · ventrolateral subdivision.
 
 ## 핵심 cell types
 | Marker | 기능 |
@@ -41,13 +41,13 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 ## Thermogenesis 회로
 - SF1 T3 → parasym (liver de novo lipogenesis) + sym (BAT) — autonomic 이중 작용 (Martínez-Sánchez 2017 Cell Metab).
 - AMPK·ceramide 매개 — López lab.
-- 시상하부 SF1 AMPK 결손이 diet-induced obesity 보호 (Seoane-Collazo 2018).
+- hypothalamus SF1 AMPK 결손이 diet-induced obesity 보호 (Seoane-Collazo 2018).
 
 ## 임상
 - BDNF/TrkB 변이 → 인간 hyperphagia·비만 (Yeo 2004, Gray 2006).
 - VMH lesion = classic obesity model (Hetherington & Ranson 1939).
 - Kosse 2024 = 회로 메커니즘 해명.
-- **VMH/복내측 DBS**: 비만 표적으로 시도됐으나 식욕 효과 미미·정동 부작용 — [[hamani-2008-memory-enhancement-induced-by|Hamani 2008]](기억 현상·식욕 무변), Wilent 2010(공황). [[parvizi-2022-complex-negative-emotions-induced|Parvizi 2022]]: 인간 복내측 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발 → DBS-for-obesity의 정동 위험.
+- **VMH/ventromedial DBS**: 비만 표적으로 시도됐으나 식욕 효과 미미·정동 부작용 — [[hamani-2008-memory-enhancement-induced-by|Hamani 2008]](기억 현상·식욕 무변), Wilent 2010(공황). [[parvizi-2022-complex-negative-emotions-induced|Parvizi 2022]]: 인간 ventromedial 자극이 복합 음성정동(수치·슬픔·공포)을 인과 유발 → DBS-for-obesity의 정동 위험.
 
 ## 관련 페이지
 - [[concept-arcuate-nucleus]] — upstream.
@@ -62,12 +62,12 @@ aliases: [VMH, ventromedial nucleus, ventromedial hypothalamic nucleus]
 - [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — 인간 VMH 분자 정의 + 고요산혈증 GWAS niche(VEGFA·NFAT5) (공간전사체, preprint 2026).
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — editorial.
 - [[concept-deep-brain-stimulation]] — VMH를 표적으로 시도한 침습 DBS hub.
-- [[hamani-2008-memory-enhancement-induced-by]] — 복측 시상하부 DBS(기억 증강 우연 발견).
-- [[parvizi-2022-complex-negative-emotions-induced]] — 복내측 시상하부 자극의 음성정동(Halpern).
+- [[hamani-2008-memory-enhancement-induced-by]] — ventral hypothalamus DBS(기억 증강 우연 발견).
+- [[parvizi-2022-complex-negative-emotions-induced]] — ventromedial hypothalamus 자극의 음성정동(Halpern).
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — VMH의 **사회행동 축**: VMHvl이 암컷 성적 수용성의 주 조절자이자 **PA→VMHvl^Npy2r**가 모성 공격 회로; 프로락틴이 VMH PRLR로 공격을 억제. anti-parental PeFA^Ucn3→VMH는 새끼 탐색을 억제 (NRN 2026).
-- [[concept-medial-preoptic-area]] — 양육·성 동기를 함께 조율하는 인접 전시상하부 허브.
+- [[concept-medial-preoptic-area]] — 양육·성 동기를 함께 조율하는 인접 전hypothalamus 허브.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — VMH LepR 뉴런이 **Nr5a1(SF-1) 3아형**·Qrfpr·Foxb1로 분해되며 아형별 열린 크로마틴 확보 (bioRxiv 2025).
-- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **VMH→외측중격 LS^Chat 아형 편향 입력**. VMH는 SuM·PH·MPO·AHN·LHA와 함께 LS^Crhr2의 주요 시상하부 입력원이며, 이 축이 **bottom-up 행동·현저성** 신호를 담당 (Nature 2026).
-- [[concept-lateral-septum]] — VMH 출력을 받는 변연계 평가 노드.
-- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — VMH·PMd와 함께 내측 시상하부 방어 회로로 묶이는 AHN이, 과거 스트레스 후 반응 앙상블을 키워 freezing 민감화를 매개 (Nature 2026).
+- [[bhatti-mazo-2026-feature-specific-threat-coding-in]] — **VMH→lateral septum LS^Chat 아형 편향 입력**. VMH는 SuM·PH·MPO·AHN·LHA와 함께 LS^Crhr2의 주요 hypothalamus 입력원이며, 이 축이 **bottom-up 행동·현저성** 신호를 담당 (Nature 2026).
+- [[concept-lateral-septum]] — VMH 출력을 받는 limbic system 평가 노드.
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — VMH·PMd와 함께 medial hypothalamus 방어 회로로 묶이는 AHN이, 과거 스트레스 후 반응 앙상블을 키워 freezing 민감화를 매개 (Nature 2026).

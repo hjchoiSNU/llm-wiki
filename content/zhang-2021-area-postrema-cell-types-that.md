@@ -9,7 +9,7 @@ year: 2021
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 최형진 랩의 food-safety-alarm(섭취후 순환독소 감지) 관점에서, 이 논문은 area postrema(AP)를 단일세포 해상도로 해부해 GLP1R·GFRAL·CaSR을 함께 발현하는 흥분성 뉴런(cluster 4)이 여러 오심신호를 하나로 funneling하는 "danger hub"임을 유전학으로 증명한다. 즉 GLP-1RA·GFRAL(GDF15)·cinacalcet의 항비만/오심 효과가 뇌간 AP GLP1R 뉴런이라는 공통 노드로 수렴함을 시사 — 치료효과와 오심 부작용의 회로적 분리 가능성을 제시하는 직접 근거.
+> 최형진 랩의 food-safety-alarm(섭취후 순환독소 감지) 관점에서, 이 논문은 area postrema(AP)를 단일세포 해상도로 해부해 GLP1R·GFRAL·CaSR을 함께 발현하는 흥분성 뉴런(cluster 4)이 여러 오심신호를 하나로 funneling하는 "danger hub"임을 유전학으로 증명한다. 즉 GLP-1RA·GFRAL(GDF15)·cinacalcet의 항비만/오심 효과가 brainstem AP GLP1R 뉴런이라는 공통 노드로 수렴함을 시사 — 치료효과와 오심 부작용의 회로적 분리 가능성을 제시하는 직접 근거.
 
 # Area postrema cell types that mediate nausea-associated behaviors
 
@@ -18,7 +18,7 @@ single-nucleus RNA-seq로 area postrema를 4종 흥분성·3종 억제성 뉴런
 
 ## 핵심 내용
 
-**Background** — AP는 혈뇌장벽 밖(제4뇌실 바닥) sensory circumventricular organ(CVO)으로 순환 독소를 직접 감지. 설치류는 구토 불가 → conditioned flavor avoidance로 오심 측정.
+**Background** — AP는 blood-brain barrier 밖(제4ventricle 바닥) sensory circumventricular organ(CVO)으로 순환 독소를 직접 감지. 설치류는 구토 불가 → conditioned flavor avoidance로 오심 측정.
 
 **Atlas** — 1,848 뉴런: 흥분성 4종(cl.1–4), 억제성 3종(cl.5–7). 수용체 세포타입별 분리:
 - **Glp1r**: 흥분성 cl.2·3·4. **cluster 4 = Glp1r+Gfral+Casr** = 다중 malaise 신호 funneling 노드.
@@ -27,7 +27,7 @@ single-nucleus RNA-seq로 area postrema를 4종 흥분성·3종 억제성 뉴런
 
 **혐오 유도(활성)** — Gs-DREADD로 GLP1R·GFRAL 뉴런 활성 시 conditioned flavor avoidance 유발; **CALCR(cl.1)은 유발 안 함**. Gq-DREADD로도 동일(cAMP·calcium 다중 방아쇠).
 
-**독소회피 제거(절제/KO)** — GLP1R 뉴런 절제 → exendin-4·LiCl·LPS 회피 소실. **GFRAL 뉴런 절제** → LiCl·LPS 회피 제거. AP 국소 Glp1r-KO → exendin-4 회피 소실(vagal rescue 무효) → **exendin-4 malaise는 미주 아닌 뇌간 AP GLP1R 경유**. 단 식이감소는 일부 잔존 → **식욕억제·오심 회로 부분 분리**.
+**독소회피 제거(절제/KO)** — GLP1R 뉴런 절제 → exendin-4·LiCl·LPS 회피 소실. **GFRAL 뉴런 절제** → LiCl·LPS 회피 제거. AP 국소 Glp1r-KO → exendin-4 회피 소실(vagal rescue 무효) → **exendin-4 malaise는 미주 아닌 brainstem AP GLP1R 경유**. 단 식이감소는 일부 잔존 → **식욕억제·오심 회로 부분 분리**.
 
 **CaSR 경로** — cinacalcet(고칼슘 오심)이 AP GLP1R 뉴런에 Fos·혐오 유발, 절제로 소실.
 
@@ -39,7 +39,7 @@ single-nucleus RNA-seq로 area postrema를 4종 흥분성·3종 억제성 뉴런
 - [[concept-area-postrema]] — 이 논문이 정의한 AP 세포 아틀라스 개념 hub.
 - [[concept-parabrachial-cgrp-alarm]] — AP aversion 뉴런이 PBN CGRP 일반경보로 투사(상류→하류).
 - [[concept-dorsal-vagal-complex]] — AP는 DVC(AP·NTS·DMX)의 CVO 독소감지 팔.
-- [[concept-glp-1]] — AP GLP1R 뉴런이 exendin-4 malaise의 뇌간 표적.
+- [[concept-glp-1]] — AP GLP1R 뉴런이 exendin-4 malaise의 brainstem 표적.
 - [[concept-central-amygdala-glp1r]] — CeA^Glp1r(hedonic)와 상보: AP=하류 오심 관문.
 - [[overview-cea-glp1r-food-safety-alarm]] — AP GLP1R을 섭취후 독소 관문으로 편입.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드 1차 표적=AP·Gs-cAMP·하류 elPBN; 본 논문 확장.

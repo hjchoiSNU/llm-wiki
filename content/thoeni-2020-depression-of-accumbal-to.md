@@ -77,7 +77,7 @@ NAc shell D1-MSN에서 LH로 가는 억제성 시냅스는 **과식이 유리한
 ### Discussion — 저자들이 명시한 해석과 유보
 - 모델: **결핍(또는 고지방식) → LH 내 eCB 상승 → CB1R 매개 전시냅스 i-LTD → D1-MSN의 LH 억제력 약화 → 음식이 다시 주어질 때 과식 허가**.
 - **eCB 세포 출처는 미확정**. 억제성 전달의 직접 결과일 가능성은 낮다고 본다(2-AG·anandamide는 **탈분극 의존 Ca²⁺ 방출**로 나온다). "CB1R이 LH 내 D1R-MSN 말단에 있을 것"은 **추정(tempting to speculate)**으로만 적는다. 전신+국소 약물만 썼으므로 수용체의 정확한 세포 위치는 특정 불가.
-- 근거 맥락: 3일 HFD가 시상하부 **2-AG를 올린다**(Higuchi 2011), 단식이 NAc·시상하부 eCB를 올린다(Kirkham 2002), 단식 유발 과식이 **CB1R-KO에서 감소**(Di Marzo 2001, Poncelet 2003).
+- 근거 맥락: 3일 HFD가 hypothalamus **2-AG를 올린다**(Higuchi 2011), 단식이 NAc·hypothalamus eCB를 올린다(Kirkham 2002), 단식 유발 과식이 **CB1R-KO에서 감소**(Di Marzo 2001, Poncelet 2003).
 - **대조 사례**: Crosby 2011(Neuron)은 **DMH**에서 식이결핍이 glucocorticoid 매개로 GABA성 시냅스의 **CB1R을 소실**시켜 **i-LTP**를 만들고, 그 결과 포만 신호 세포가 더 강하게 억제된다고 보고했다. 즉 같은 eCB 시스템이 **부위별로 반대 부호**로 과식에 기여할 수 있다.
 - **열린 질문**(원문): 만성 HFD에서도 이 depression이 유지되는가? HFD 철회 시 회복 동역학은? 이 가소성이 비만으로 가는 지속 과식에 어떻게 기여하는가? **NAcSh→LH의 만성 hypoactivity가 지속 과식의 취약점**일 수 있다는 가설을 제시하고, 섭식장애 맥락과 **경로 강도 회복을 노리는 치료 접근**을 제안한다.
 - 임상 맥락: CB1R 작용제는 섭취를 늘리고 길항제는 식욕 억제적이며 비만 치료 후보였다(Ravinet Trillou 2003; Christensen 2007 rimonabant 메타분석) — 저자들은 효능 쪽 근거로만 인용한다.
@@ -118,7 +118,7 @@ NAc shell D1-MSN에서 LH로 가는 억제성 시냅스는 **과식이 유리한
 - [[jennings-2013-the-inhibitory-circuit-architecture]] — ⚠️ "LH^Vglut2 = brake" 프레임. 본 논문은 **그 brake로 가는 D1 억제도 함께 depress**된다고 보고(순효과 상쇄 문제).
 - [[rossi-2019-obesity-remodels-activity-and]] — 만성 HFD가 LHA^Vglut2 brake를 둔화시킨다. 본 논문의 **3일 HFD → 입력 억제 depression**과 시간척도·층위가 다른 상보 기전.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — lick microstructure 지표(bout 수 = wanting, bout 길이 = liking). 본 논문 효과가 **bout 수에만** 나타난 결과의 해석 틀.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 선조체 DA가 섭취 **개시(bout 수)만** 강화. 본 논문의 "bout 수 선택적" 과식과 지표 수준에서 수렴.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — striatum DA가 섭취 **개시(bout 수)만** 강화. 본 논문의 "bout 수 선택적" 과식과 지표 수준에서 수렴.
 - [[kim-2024-normative-framework-dissociates-need]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[concept-need-motivation-pleasure-utility]] — threshold K의 **느린(가소성) 성분** 후보.
 - [[concept-lateral-hypothalamus]] — 개념 hub. LH로 들어오는 억제 입력의 **상태 의존 가소성**.
 - [[concept-ventral-pallidum]] — 같은 D1-MSN의 다른 표적. 본 논문의 내부 대조군(FSK-i-LTP가 정상 작동).

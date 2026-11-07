@@ -10,7 +10,7 @@ journal: "Neuron 90(6):1286–1298 (2016-06-15); doi:10.1016/j.neuron.2016.04.03
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **위키 전체가 "LH GABAergic → VTA GABAergic 억제 → DA disinhibition → NAc DA↑ → 섭식↑"으로 수십 군데에서 인용하는 통념 모델(Nieh 2016)의 1차 원전.** MIT Tye lab은 [[concept-lateral-hypothalamus|LH]]→[[concept-dopamine-reward-system|VTA]] 투사를 **GABA성 vs glutamate성으로 분리**해, 둘이 정반대의 행동·도파민 효과를 낸다는 것을 광유전·FSCV·광계측·patch-clamp로 입증했다. ① GABA성 LH→VTA 자극은 **접근·장소선호·자기자극(ICSS)**을 지지하고, ② glutamate성 자극은 **회피**를 지지한다. ③ 결정적 역설 — **억제성 입력이 어떻게 DA 방출을 늘리는가?** — 는 "LH GABA가 **VTA GABA 개재뉴런을 더 강하게 억제** → VTA DA 뉴런 **disinhibition** → NAc DA↑"로 풀렸다(disinhibition). ④ 그 효과는 feeding에 국한되지 않고 **사회적 상호작용·신기 물체 조사 등 여러 동기 행동을 가로질러** 나타나므로, 저자들은 이 회로를 특정 행동 스위치가 아니라 **motivational salience(동기적 현저성)를 끌어올리는 일반 행동 활성화 장치**로 해석한다.
+> **위키 전체가 "LH GABAergic → VTA GABAergic 억제 → DA disinhibition → NAc DA↑ → 섭식↑"으로 수십 군데에서 인용하는 통념 모델(Nieh 2016)의 1차 원전.** MIT Tye lab은 [[concept-lateral-hypothalamus|LH]]→[[concept-dopamine-reward-system|VTA]] 투사를 **GABA성 vs glutamate성으로 분리**해, 둘이 정반대의 행동·도파민 효과를 낸다는 것을 광유전·FSCV·광계측·patch-clamp로 입증했다. ① GABA성 LH→VTA 자극은 **접근·장소선호·자기자극(ICSS)**을 지지하고, ② glutamate성 자극은 **회피**를 지지한다. ③ 결정적 역설 — **억제성 입력이 어떻게 DA 방출을 늘리는가?** — 는 "LH GABA가 **VTA GABA interneuron를 더 강하게 억제** → VTA DA 뉴런 **disinhibition** → NAc DA↑"로 풀렸다(disinhibition). ④ 그 효과는 feeding에 국한되지 않고 **사회적 상호작용·신기 물체 조사 등 여러 동기 행동을 가로질러** 나타나므로, 저자들은 이 회로를 특정 행동 스위치가 아니라 **motivational salience(동기적 현저성)를 끌어올리는 일반 행동 활성화 장치**로 해석한다.
 > 사용자 연구에 닿는 지점: (1) [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]에서 LH를 **Motivation 통합 hub**로 두는 매핑의 핵심 실험 근거 — "여러 행동을 가로지르는 behavioral activation"은 vigor·우선순위라는 Motivation 축 그 자체다([[kim-2024-normative-framework-dissociates-need|LH^LepR=Motivation]]과 연결). (2) 저자들의 결론 "GABA성 LH-VTA 과활성 = **배고픔이 아닌 보상 동기로 유도되는 compulsive eating**의 후보"는 [[concept-compulsion|강박]]·[[concept-loss-of-control-eating|LOC eating]]의 회로 가설. (3) 사용자 lab의 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]]·[[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025 EMM]]·[[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024 NHP]]가 다루는 "LH GABA가 reward 회로로 동기를 내보낸다"는 전제의 원형. (4) disinhibition 모델은 [[concept-liking-wanting|wanting]]·[[salamone-2012-mysterious-motivational-functions-mesolimbic|behavioral activation]] 프레임과 직접 맞물린다.
 
 # Inhibitory input from the lateral hypothalamus to the ventral tegmental area disinhibits dopamine neurons and promotes behavioral activation (Nieh et al. 2016)
@@ -20,7 +20,7 @@ journal: "Neuron 90(6):1286–1298 (2016-06-15); doi:10.1016/j.neuron.2016.04.03
 - **모델·방법**: VGAT::Cre(GABA성)·VGLUT2::Cre(glutamate성) 수컷 마우스. LH에 **AAV5-DIO-ChR2-eYFP / AAV5-DIO-NpHR-eYFP / AAV5-DIO-eYFP**(LH 좌표 AP −0.4~−0.8, ML 1.0, DV −4.9~−5.35), 광섬유를 **VTA** 위에 삽입해 **말단(terminal) 자극**. 하류 측정은 NAc **in vivo fast-scan cyclic voltammetry(FSCV, urethane 마취 하)**, VTA GABA 뉴런 활동은 **ChrimsonR(LH)+GCaMP6m(VTA) 광계측(fiber photometry)**, 시냅스 강도는 VTA 급성 절편 **whole-cell patch-clamp**(TH⁺=DA / TH⁻=putative GABA). 모든 조작은 투사 특이적 광유전이다.
 
 ## 한 줄 요약
-LH→VTA 투사의 **GABA성 성분은 접근·장소선호·자기자극·사회적 상호작용·물체 조사를 촉진**하고 **glutamate성 성분은 회피·억제**를 촉진한다. GABA성 자극이 NAc DA를 늘리는 역설은 **LH GABA가 VTA GABA 개재뉴런을 (DA 뉴런보다) 더 강하게 억제 → VTA DA disinhibition**으로 설명되며, 이 회로는 특정 행동이 아니라 **동기적 현저성·행동 활성화를 전반적으로 끌어올린다**.
+LH→VTA 투사의 **GABA성 성분은 접근·장소선호·자기자극·사회적 상호작용·물체 조사를 촉진**하고 **glutamate성 성분은 회피·억제**를 촉진한다. GABA성 자극이 NAc DA를 늘리는 역설은 **LH GABA가 VTA GABA interneuron를 (DA 뉴런보다) 더 강하게 억제 → VTA DA disinhibition**으로 설명되며, 이 회로는 특정 행동이 아니라 **동기적 현저성·행동 활성화를 전반적으로 끌어올린다**.
 
 ## 핵심 내용
 
@@ -58,7 +58,7 @@ LH→VTA 투사의 **GABA성 성분은 접근·장소선호·자기자극·사�
 - disinhibition은 morphine(Johnson & North 1992)·cocaine(Bocklisch 2013)이 VTA DA를 탈억제하는 고전 기전과 같은 계열. **억제성 입력이 보상을 지지하는 역설**을 회로 수준에서 해소.
 - **Substitutability**(Valenstein 1968)·동기적 현저성: 원래의 substitutability는 **LH 전기자극**에서 먹이·물·나무토막 중 무엇이 있느냐에 따라 feeding·drinking·gnawing이 나온다는 관찰이며(본 논문이 인용), 본 논문은 LH-VTA 자극이 맥락(사회 자극·근접 물체)에 따라 다른 행동을 끌어낸다는 점으로 이를 투사 특이적 수준에서 재현한다. 저자 가설 — LH=항상성 회로의 **evaluator**, VTA=**adjuster**로 DA를 올려/내려 motor action을 생성.
 - 임상 함의: **GABA성 LH-VTA 과활성 = 배고픔이 아닌 보상 동기로 유도되는 compulsive eating** 및 다른 자극 대상 강박(binge eating↔compulsive buying, 병적 도박↔약물남용 공존)의 후보 표적.
-- **한계**(저자 명시): 광유전 말단 자극은 생리적 패턴을 재현하지 않을 수 있고 **antidromic 활성화**(LH 체세포 → BNST·DRN·편도·LHb 등 측부지 동원)를 배제 못 함. 억제 효과가 활성화보다 modest한 것은 LH-VTA가 VTA 활동의 **여러 기여 인자 중 하나**임을 시사. DA는 NAc에서만 측정(dorsal striatum·PFC 미측정). GABA성 LH-VTA가 **peptide(neurotensin 등) 공방출**을 일으킬 가능성.
+- **한계**(저자 명시): 광유전 말단 자극은 생리적 패턴을 재현하지 않을 수 있고 **antidromic 활성화**(LH 체세포 → BNST·DRN·amygdala·LHb 등 측부지 동원)를 배제 못 함. 억제 효과가 활성화보다 modest한 것은 LH-VTA가 VTA 활동의 **여러 기여 인자 중 하나**임을 시사. DA는 NAc에서만 측정(dorsal striatum·PFC 미측정). GABA성 LH-VTA가 **peptide(neurotensin 등) 공방출**을 일으킬 가능성.
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **NMPU Motivation 축의 회로 원형**: "여러 동기 행동을 가로지르는 behavioral activation"(Fig 2)은 [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]의 Motivation(vigor·우선순위)을 LH 출력으로 구현한 가장 이른 인과 증거다. [[kim-2024-normative-framework-dissociates-need|Kim 2024 Sci Adv]]가 LH^LepR=Motivation으로 좁힌 축의 상류 회로 전제. **검증 질문**: 본 논문의 GABA성 LH-VTA value-scaling/behavioral activation을 실제로 나르는 세포가 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]]인가 — 단 [[siemian-2021-lateral-hypothalamic-lepr-neurons|Siemian 2021]]은 LH^LepR이 섭취를 전혀 구동하지 않고 학습/appetitive만 바꾼다고 보고하므로, behavioral activation의 담당 세포는 LepR가 아닌 다른 GABA 아집단일 수 있다.
@@ -83,7 +83,7 @@ LH→VTA 투사의 **GABA성 성분은 접근·장소선호·자기자극·사�
 - [[grove-2022-dopamine-subsystems-track-internal]] — ⚠️ 같은 경로에 "systemic 수분 균형(primary reward) 추적" 내용. 다중화 미해결(병기).
 - [[hoang-2026-methamphetamine-potentiates-the-use-of]] — 역방향 VTA^DA→LH. 본 논문의 정방향과 평행 스트림; VTA DA 입력의 LH 표적은 LH^GABA가 아님.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — ⚠️ LH^Vgat cue ensemble = valence 무관 salience 코더. 본 논문의 "motivational salience" 해석과 수렴(상관 vs 인과·병기).
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형이 선조체 DA 전후축 지형을 설정. 본 논문의 단일 NAc FSCV를 선조체 전역으로 확장.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형이 striatum DA 전후축 지형을 설정. 본 논문의 단일 NAc FSCV를 striatum 전역으로 확장.
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — LH^Vgat appetitive/consummatory 비중첩 subset. 본 논문의 "일반 behavioral activation" 해석과 phase-특이 해석의 대비.
 - [[jennings-2013-the-inhibitory-circuit-architecture]] — BNST→LH(Vglut2 brake). 본 논문이 든 BNST→VTA의 VTA GABA 우선 지배 유비의 원전(⚠️ 인용 중의성).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR는 섭취 비구동·appetitive/학습만 조절; 본 논문의 behavioral activation 담당 세포 정체에 대한 제약.

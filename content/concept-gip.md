@@ -7,19 +7,19 @@ aliases: [GIP, GIPR, glucose-dependent insulinotropic polypeptide, gastric inhib
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> GIP는 GLP-1과 함께 두 축을 이루는 인크레틴이며, 중추 GIPR은 시상하부·후뇌의 **억제성 GABA 뉴런**과 정중융기 **올리고덴드로사이트**에 발현해 식이·체중을 조절한다. tirzepatide 등 GIPR–GLP-1R 이중작용제의 절반을 담당하는 표적으로, 최형진 랩의 incretin 항비만·시상하부 회로 연구의 핵심 hub. 미해결 쟁점은 **GIPR agonism vs antagonism 역설**(둘 다 GLP-1R 작용과 결합 시 체중감소).
+> GIP는 GLP-1과 함께 두 축을 이루는 인크레틴이며, 중추 GIPR은 hypothalamus·hindbrain의 **억제성 GABA 뉴런**과 median eminence **올리고덴드로사이트**에 발현해 식이·체중을 조절한다. tirzepatide 등 GIPR–GLP-1R 이중작용제의 절반을 담당하는 표적으로, 최형진 랩의 incretin 항비만·hypothalamus 회로 연구의 핵심 hub. 미해결 쟁점은 **GIPR agonism vs antagonism 역설**(둘 다 GLP-1R 작용과 결합 시 체중감소).
 
 # GIP / GIPR
 
 ## 한 줄 요약
-GIP(glucose-dependent insulinotropic polypeptide)는 장(K세포)에서 분비되는 인크레틴 호르몬으로, 수용체 GIPR을 통해 인슐린 분비를 촉진할 뿐 아니라 뇌(후뇌·시상하부)의 특정 세포군에 작용해 식이·체중을 조절한다. GLP-1과 별개의 리간드·수용체다.
+GIP(glucose-dependent insulinotropic polypeptide)는 장(K세포)에서 분비되는 인크레틴 호르몬으로, 수용체 GIPR을 통해 인슐린 분비를 촉진할 뿐 아니라 뇌(hindbrain·hypothalamus)의 특정 세포군에 작용해 식이·체중을 조절한다. GLP-1과 별개의 리간드·수용체다.
 
 ## 핵심 내용
 - **인크레틴의 한 축**: [[concept-glp-1|GLP-1]]과 함께 [[concept-incretin-effect]]를 구성. 별개 리간드·별개 수용체.
 - **중추 GIPR의 세포 표적**:
-  - **억제성 GABA 뉴런(Vgat+)**: acyl-GIP·이중작용제의 체중·식이 감소가 Vgat+ GIPR에 결정적 의존([[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]]). 후뇌 [[concept-area-postrema|AP]]·[[concept-arcuate-nucleus|ARC]]·PVN cFos 유도.
-  - **비신경세포(정중융기 올리고덴드로사이트)**: ME OL의 GIPR가 성체 oligodendrogenesis·**혈관 투과성(VEGF-A·fenestration)**을 조절해 말초 GLP-1RA의 뇌 접근을 증가시켜 GLP-1R 효능을 증강([[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor|Hansford 2025]]).
-  - **뇌실주위기관(CVO)**: 전신 투여 GIPR-표적 항체가 OVLT·SFO·ME·AP에서 검출(BBB 우회)([[liu-2025-gipr-ab-glp-1-peptide|Liu 2025]]).
+  - **억제성 GABA 뉴런(Vgat+)**: acyl-GIP·이중작용제의 체중·식이 감소가 Vgat+ GIPR에 결정적 의존([[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]]). hindbrain [[concept-area-postrema|AP]]·[[concept-arcuate-nucleus|ARC]]·PVN cFos 유도.
+  - **비신경세포(median eminence 올리고덴드로사이트)**: ME OL의 GIPR가 성체 oligodendrogenesis·**혈관 투과성(VEGF-A·fenestration)**을 조절해 말초 GLP-1RA의 뇌 접근을 증가시켜 GLP-1R 효능을 증강([[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor|Hansford 2025]]).
+  - **circumventricular organ(CVO)**: 전신 투여 GIPR-표적 항체가 OVLT·SFO·ME·AP에서 검출(BBB 우회)([[liu-2025-gipr-ab-glp-1-peptide|Liu 2025]]).
 - **항비만 응용**: GIPR–GLP-1R 이중작용제(tirzepatide, MAR709)가 GLP-1 단독보다 우수한 감량; GIP 축 기여가 그 우월성의 근거.
 
 ## 중추 GIPR 표적세포 — 경쟁 가설 대조표
@@ -29,7 +29,7 @@ GIP(glucose-dependent insulinotropic polypeptide)는 장(K세포)에서 분비�
 | 지목 세포 | 근거 페이지 | 조작 | 판독된 효과 | 근거 등급 |
 |---|---|---|---|---|
 | **Vgat⁺ 억제성 뉴런** | [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]] | Vgat-Gipr KO | acyl-GIP **단독** 감량·MAR709 우월성 소실 | 마우스 조건부 KO(인과) |
-| **정중융기 올리고덴드로사이트(비뉴런)** | [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor|Hansford 2025]] | Plp1-CreERT2 OL Gipr KO(결손 ~70%) | GIPR의 **GLP-1RA 증강분**만 소실(체중 자체는 정상) | 마우스 조건부 KO(인과, 부분 결손) |
+| **median eminence 올리고덴드로사이트(비뉴런)** | [[hansford-2025-glucose-dependent-insulinotropic-polypeptide-receptor|Hansford 2025]] | Plp1-CreERT2 OL Gipr KO(결손 ~70%) | GIPR의 **GLP-1RA 증강분**만 소실(체중 자체는 정상) | 마우스 조건부 KO(인과, 부분 결손) |
 | **범뉴런(Syn-Cre) CNS GIPR** | [[liu-2025-gipr-ab-glp-1-peptide|Liu 2025]] | Gipr^Syn−/− + GIPR **길항** 접합체 | 길항제의 **부가효과** 소실(단, KO 자체가 비만 저항이라 교란) | 마우스 조건부 KO(인과, 교란 명시) |
 
 - 조직 발현 지도는 비뉴런 우세와 정합: "GIPR는 다수가 비뉴런(oligodendrocyte·pericyte)" ([[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic|Hammoud & Drucker 2023]]).
@@ -52,7 +52,7 @@ GLP-1R 작용과 결합할 때, GIPR을 **작용(agonism)**시키든 **길항(an
 - [[liu-2025-gipr-ab-glp-1-peptide]] — 중추 GIPR·GLP-1R 요구성(길항 축 기전).
 - [[veniant-2024-a-gipr-antagonist-conjugated-to]] — AMG 133(GIPR 길항+GLP-1 작용) 임상.
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — GIPR 작용 5중작용제.
-- [[concept-area-postrema]] · [[concept-dorsal-vagal-complex]] — 중추 GIPR 후뇌 무대.
+- [[concept-area-postrema]] · [[concept-dorsal-vagal-complex]] — 중추 GIPR hindbrain 무대.
 - [[zhang-2022-brainstem-circuit-for-nausea]] — AP GIP-GIPR 억제뉴런 항오심 축.
 - [[drucker-2023-beyond-the-pancreas-contrasting-cardiometabolic]] — GIP 췌장외 작용·agonism/antagonism 역설 authoritative 리뷰.
 - [[scheen-2023-dual-gip-glp-1-receptor]] — tirzepatide twincretin 구조·임상.

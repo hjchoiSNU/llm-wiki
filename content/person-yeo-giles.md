@@ -8,7 +8,7 @@ affiliation: MRC Metabolic Disease Unit, University of Cambridge
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 시상하부 single-cell atlas era의 핵심 책임자. **HypoMap (mouse 2022 Nat Metab)** + **인간 hypothalamus atlas (Tadross 2025 Nature)** 모두 본인 lab. 사용자 lab의 회로 연구를 분자 cluster 수준으로 cross-validate할 수 있는 resource 제공자.
+> hypothalamus single-cell atlas era의 핵심 책임자. **HypoMap (mouse 2022 Nat Metab)** + **인간 hypothalamus atlas (Tadross 2025 Nature)** 모두 본인 lab. 사용자 lab의 회로 연구를 분자 cluster 수준으로 cross-validate할 수 있는 resource 제공자.
 
 # Giles S. H. Yeo
 

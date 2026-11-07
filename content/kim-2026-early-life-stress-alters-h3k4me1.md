@@ -33,7 +33,7 @@ doi: 10.1016/j.neuron.2026.07.018
 ### 2) 효소는 SETD7 — ELS 특이적
 - 공개 RNA-seq(GSE89692) + 독립 qPCR 코호트에서 H3K4 메틸전이효소 4종·탈메틸효소 2종·H3K9/H3K27 효소·HAT·HDAC를 훑음 → **Setd7 ↑**(P=0.0156)가 최대 효과, **Kmt2a (Mll1) ↓**(P=0.026).
 - **성체 만성 사회패배 스트레스는 Setd7·Kmt2a를 바꾸지 않음** → 발달기 특이적.
-- Setd7은 Allen Brain Atlas(P56)에서 **VTA·흑질에 고발현**, 공개 snRNA-seq에서 **주로 도파민 뉴런**(주변 글루타메이트 뉴런에 일부). IHC에서 **P21에 이미 TH⁺ 뉴런 핵 내 SETD7 단백질 증가**(암수 모두, P<0.05).
+- Setd7은 Allen Brain Atlas(P56)에서 **VTA·substantia nigra에 고발현**, 공개 snRNA-seq에서 **주로 도파민 뉴런**(주변 글루타메이트 뉴런에 일부). IHC에서 **P21에 이미 TH⁺ 뉴런 핵 내 SETD7 단백질 증가**(암수 모두, P<0.05).
 - SETD7은 H3K4를 **단일메틸화만** 하는 특이 효소(MLL1-4·SET1A/B와 달리 di/tri 불가). 검증: **Setd7-OE**(AAV9-EF1a-EGfp-P2A-Myc-Setd7)는 H3K4me1을 34% ↑시키되 **H3K4me3·H3K27Ac는 불변**; **Setd7-KD**(pAAV-hSyn-EGfp-shRNA-Setd7, miR-30E scaffold)는 H3K4me1을 37% ↓.
 
 ### 3) Setd7-OE = 전사 반응성 증폭 (충분조건 I)
@@ -72,7 +72,7 @@ doi: 10.1016/j.neuron.2026.07.018
 
 ## 왜 이 위키에 중요한가
 - **"잠재적 취약성"의 저장 매체**: [[concept-early-life-adversity]]가 정의한 핵심 특징 — *기저는 정상, 유발자(HFD·stress) 노출 시 발현* — 이 논문에서 전기생리 수준으로 그대로 재현된다(Setd7-OE는 비스트레스 상태에서 무효, 스트레스 후에만 흥분성↑). [[shin-2023-early-adversity-promotes-binge-like-eating]]의 LH^Lepr 재편이 **회로 수준 저장**이라면, 본 논문은 **크로마틴 수준 저장**.
-- **VTA를 ELS 축에 추가**: 위키의 ELS 축은 시상하부·LH 중심이었다. 본 논문은 [[concept-dopamine-reward-system]]의 상류 세포체(VTA DA)를 ELS 표적으로 명시하며, I_h·흥분성이라는 측정 가능한 표현형을 준다.
+- **VTA를 ELS 축에 추가**: 위키의 ELS 축은 hypothalamus·LH 중심이었다. 본 논문은 [[concept-dopamine-reward-system]]의 상류 세포체(VTA DA)를 ELS 표적으로 명시하며, I_h·흥분성이라는 측정 가능한 표현형을 준다.
 - **대사–후성유전 접점**: 이 위키에는 이미 [[concept-astrocyte-neuron-lactate-shuttle]](H3K9 젖산화)이라는 대사→히스톤 변형 축이 있다. 스트레스(본 논문)와 대사(젖산화)가 **같은 히스톤 코드를 통해 뉴런 반응성을 조율**한다는 공통 문법.
 
 ## 관련 페이지
@@ -90,4 +90,4 @@ doi: 10.1016/j.neuron.2026.07.018
 - [[concept-h3-dopaminylation]] — 자매 변형의 개념 hub. 여기서는 H3K4me1/SETD7, 저쪽은 TG2 매개 H3Q5 모노아민화.
 - [[cunningham-2026-early-life-experiences-the-neural]] — 본 논문을 포함한 ELS 후성유전 분야의 **상위 종합**(NRN 2026). 공저자 Ian Maze가 교신. 본 논문의 H3K4me1/SETD7 축을 H3K79me2·DOT1L, H3K27me1, 모노아민화와 나란히 배치하고, 글리아·말초 표지·bulk 프로파일링 한계를 추가.
 - [[person-maze-ian]] — 본 논문 공저자의 인물 hub.
-- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — 같은 stress sensitivity priming을 성체·회로 앙상블 층위에서 보인 사례(AHN^GAD 동원 확대, 편도체→AHN 입력 필요) (Nature 2026).
+- [[pennington-2026-an-amygdala-to-anterior-hypothalamic]] — 같은 stress sensitivity priming을 성체·회로 앙상블 층위에서 보인 사례(AHN^GAD 동원 확대, amygdala→AHN 입력 필요) (Nature 2026).

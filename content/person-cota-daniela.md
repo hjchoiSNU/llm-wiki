@@ -11,7 +11,7 @@ affiliation: University of Bordeaux, INSERM, Neurocentre Magendie U1215
 > **POMC를 "포만 뉴런"에서 끌어내린 쪽의 책임자.** 위키의 POMC 재평가 라인 — 분자·전기생리·해부·신경전달 4축 heterogeneity([[jouque-2025-beyond-satiety-unraveling-the|Jouque 2025]]), mTORC1 의존 기능 분화, CB1R·opioid를 통한 **섭식 촉진**, 위협이 섭식을 끊는 gate([[miralpeix-2026-hypothalamic-pomc-neurons-gate|Miralpeix 2026]]) — 대부분이 그의 lab에서 나왔다.
 > 사용자 lab에 닿는 지점 셋.
 > (1) **[[proposal-pomc-endorphin-food-pleasure]]의 상류 근거 공급자**다. POMC가 α-MSH만 내는 세포가 아니라는 주장의 리뷰·실험 양쪽을 이 lab이 들고 있다.
-> (2) **[[overview-cea-glp1r-food-safety-alarm|food safety alarm]]의 ARC 판본**([[miralpeix-2026-hypothalamic-pomc-neurons-gate]])이 이 lab 논문이다 — 위험 신호가 섭식을 이기는 축을 시상하부에서 구현했다.
+> (2) **[[overview-cea-glp1r-food-safety-alarm|food safety alarm]]의 ARC 판본**([[miralpeix-2026-hypothalamic-pomc-neurons-gate]])이 이 lab 논문이다 — 위험 신호가 섭식을 이기는 축을 hypothalamus에서 구현했다.
 > (3) **[[concept-metabolic-flexibility|대사 유연성]] 리뷰의 공동 책임저자**([[horvath-2026-hypothalamus-driven-brain-health-through]]) — "약리적 포만 ≠ 칼로리 제한"이라는 평가 기준 전환의 공동 제안자.
 > ⚠️ 2026-05-31 lint에서 "1차 원전이 한 편뿐"이라는 이유로 이 페이지 생성을 보류했었다. 그 뒤 [[miralpeix-2026-hypothalamic-pomc-neurons-gate]](2026-10-28)·[[horvath-2026-hypothalamus-driven-brain-health-through]](2026-11-07)가 들어와 출처가 셋으로 늘어 생성했다.
 

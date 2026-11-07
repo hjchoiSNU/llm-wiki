@@ -7,19 +7,19 @@ aliases: [hypothalamic AMP-activated protein kinase, AMPK]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> AMPK = **시상하부 호르몬·영양 신호의 master cellular integrator**. López lab의 핵심 framework — fatty acid metabolism·ceramide·BAT·간·thyroid·estrogen·anti-psychotic 모두 매개. **sEV (small extracellular vesicle) 기반 AMPK 표적 약물**이 anti-obesity 차세대 path (Milbank 2021 Nat Metab). 사용자 lab의 약물 path 후보.
+> AMPK = **hypothalamus 호르몬·영양 신호의 master cellular integrator**. López lab의 핵심 framework — fatty acid metabolism·ceramide·BAT·간·thyroid·estrogen·anti-psychotic 모두 매개. **sEV (small extracellular vesicle) 기반 AMPK 표적 약물**이 anti-obesity 차세대 path (Milbank 2021 Nat Metab). 사용자 lab의 약물 path 후보.
 
 # Hypothalamic AMPK
 
 ## 개요
 - AMP-activated protein kinase (αβγ heterotrimer).
 - Cellular AMP/ATP 비율 감지 → metabolic master switch.
-- López lab (2016 Nat Rev Endocrinol)의 framework: **시상하부 AMPK = whole-body energy balance canonical regulator**.
+- López lab (2016 Nat Rev Endocrinol)의 framework: **hypothalamus AMPK = whole-body energy balance canonical regulator**.
 
-## 시상하부 작용
+## hypothalamus 작용
 - **식이**: Andersson 2004, Minokoshi 2004 Nature — AMPK가 leptin·ghrelin downstream.
 - **Fatty acid sensing**: malonyl-CoA·CPT1·ceramide 매개 (Lam·Rossetti, Casals·Lopaschuk·Hegardt).
-- **BAT thermogenesis**: 시상하부 VMH AMPK ↓ → BAT ↑ (López lab series).
+- **BAT thermogenesis**: hypothalamus VMH AMPK ↓ → BAT ↑ (López lab series).
 - **Thyroid hormone**: AMPK-ER stress-JNK1 매개 (Martínez-Sánchez 2017 Cell Metab).
 - **Estradiol**: AMPK 매개 BAT thermogenesis (Martínez de Morentin 2014).
 - **Ghrelin**: AMPK가 fatty acid metabolism 통해 orexigenic 매개 (Lopez 2008 Cell Metab).
@@ -30,8 +30,8 @@ aliases: [hypothalamic AMP-activated protein kinase, AMPK]
 ## 상류 키나아제 — CaMKK2 (CaMKKβ), 그리고 CaMKII와의 혼동 주의
 - **CaMKK2(CaMKKβ)가 AMPK의 직접 상류 활성 키나아제**다(Hawley 2005 *Cell Metab*). 즉 Ca²⁺/칼모듈린 신호가 AMP/ATP 비와 **별개의 경로로** AMPK를 켤 수 있다 — 시냅스에서 AMPK가 작동하는 근거의 핵심.
 - **AgRP 시냅스에서의 직접 증거**: [[yang-2011-hunger-states-switch-a-flip-flop|Yang 2011]]이 CaMKK 억제제 **STO-609**로 ghrelin 유발 f<sub>mEPSC</sub> 증가를 차단했고, STO-609 처리 후에도 AICAR(AMPK 활성제)는 여전히 작동해 **CaMKK가 AMPK의 상류**임을 확정했다. (고농도 STO-609는 AMPK를 직접 억제하는 off-target이 있으므로 용량-반응 필수.)
-- **대사 표현형**: 시상하부 CaMKK2가 에너지 균형 조절에 기여(Anderson 2008 *Cell Metab*) — ghrelin 매개 섭식에 중요.
-- ⚠️ **CaMKII ≠ CaMKK2**. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]] 논의는 후시냅스 후보로 **CaMKII**를 지목하면서 근거로 위 두 편(Hawley 2005·Anderson 2008)을 인용하는데, 둘 다 **CaMKK2** 논문이다. 섭식 회로에서 약리·유전 증거를 가진 쪽은 CaMKK2이고, CaMKII는 해마 LTP로부터의 유비다. → 상세 대조는 [[concept-agrp-synaptic-plasticity]]의 "분자 실행자" 절.
+- **대사 표현형**: hypothalamus CaMKK2가 에너지 균형 조절에 기여(Anderson 2008 *Cell Metab*) — ghrelin 매개 섭식에 중요.
+- ⚠️ **CaMKII ≠ CaMKK2**. [[grzelka-2023-a-synaptic-amplifier-of-hunger|Grzelka 2023]] 논의는 후시냅스 후보로 **CaMKII**를 지목하면서 근거로 위 두 편(Hawley 2005·Anderson 2008)을 인용하는데, 둘 다 **CaMKK2** 논문이다. 섭식 회로에서 약리·유전 증거를 가진 쪽은 CaMKK2이고, CaMKII는 hippocampus LTP로부터의 유비다. → 상세 대조는 [[concept-agrp-synaptic-plasticity]]의 "분자 실행자" 절.
 
 ## 약물·임상
 - **sEV (small extracellular vesicles) 기반 AMPK 표적** ★:

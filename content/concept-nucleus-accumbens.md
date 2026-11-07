@@ -1,5 +1,5 @@
 ---
-title: 측좌핵 (Nucleus Accumbens, NAc)
+title: "Nucleus accumbens (NAc)"
 type: concept
 created: 2026-06-01
 updated: 2026-11-01
@@ -8,16 +8,16 @@ updated: 2026-11-01
 > [!takeaway] 연구 방향 관점의 핵심
 > NAc는 ventral striatum의 핵으로 **mesolimbic 보상·동기의 중심 노드**이며, [[concept-need-motivation-pleasure-utility|NMPU]] framework의 **Pleasure** 축 핵심 구조물이다. 사용자 연구에선 마우스 회로(VTA→NAc, LH↔NAc)로 다뤄지지만, Halpern 그룹 덕분에 **살아있는 인간 NAc에서 LOC eating·강박 직전의 저주파(delta–theta) biomarker를 직접 읽고 자극으로 조작**할 수 있게 됐다 — 동물 reward 회로 가설을 인간에서 검증·치료로 잇는 결절점.
 
-# 측좌핵 (Nucleus Accumbens, NAc)
+# Nucleus accumbens (NAc)
 
 ## 한 줄 요약
-복측 선조체(ventral striatum)의 핵. D1/D2 medium spiny neuron 중심, **shell/core** 아구역으로 나뉘며 VTA 도파민 입력·전전두·편도·해마·시상하부(LH) 입력을 통합해 보상 가치·동기·행동 개시를 조율한다. 인간 침습 전기생리에서 **저주파 LFP 전력이 craving/강박·loss-of-control 행동을 예고**하는 biomarker로 부상.
+ventral striatum의 핵. D1/D2 medium spiny neuron 중심, **shell/core** 아구역으로 나뉘며 VTA 도파민 입력·prefrontal·amygdala·hippocampus·hypothalamus(LH) 입력을 통합해 보상 가치·동기·행동 개시를 조율한다. 인간 침습 전기생리에서 **저주파 LFP 전력이 craving/강박·loss-of-control 행동을 예고**하는 biomarker로 부상.
 
 ## 핵심 내용
 
 ### 해부·연결
-- **위치**: 복측 선조체. shell(복내측, 변연계 편향)과 core(배외측, 운동계 편향)로 구분. Halpern 인간 전극은 가장 복측 contact=NAc shell 추정, 그 위=core 추정, 더 위=ALIC(내포 전각).
-- **입력**: VTA 도파민([[concept-dopamine-reward-system]]), mPFC/OFC([[concept-orbitofrontal-cortex]]), 편도([[concept-basolateral-amygdala]]), 해마([[concept-hippocampus-feeding]]).
+- **위치**: ventral striatum. shell(ventromedial, limbic system 편향)과 core(dorsolateral, 운동계 편향)로 구분. Halpern 인간 전극은 가장 ventral contact=NAc shell 추정, 그 위=core 추정, 더 위=ALIC(내포 전각).
+- **입력**: VTA 도파민([[concept-dopamine-reward-system]]), mPFC/OFC([[concept-orbitofrontal-cortex]]), amygdala([[concept-basolateral-amygdala]]), hippocampus([[concept-hippocampus-feeding]]).
 - **출력**: ventral pallidum(VeP), LH([[concept-lateral-hypothalamus]]) — NAc shell→LH는 **hedonic eating** 회로(Kelley·O'Connor 등). Halpern의 [[parker-2022-appetitive-mapping-of-the-human]]은 바로 이 **NAc→LH streamline**이 가장 밀집한 아구역을 tractography로 표적했다.
 
 ### 인간 NAc 전기생리 biomarker (Halpern 라인)
@@ -27,7 +27,7 @@ updated: 2026-11-01
 - **자극 효과**: 고주파 NAc 자극이 용량의존적 **기분 상승(mirth/smile)** 유발 — positive affect를 evoke해 pre-meal 음성정동을 상쇄한다는 치료 가설.
 
 ### 비만 신경조절 표적으로서의 NAc
-시상하부(homeostatic) 표적이 비일관·역설적이었던 데 비해, **NAc(reward) DBS가 비만 사례에서 가장 큰 감량**을 냈다 — 비만의 추진력이 잔존 보상 회로에 있을 수 있음을 시사. 우연 발견([[mantione-2010-smoking-cessation-and-weight]] 금연+44 kg, [[tronnier-2018-massive-weight-loss-following]] 우울 DBS 중 감량)에서 시작해 [[concept-hypothalamic-obesity|HO]] 사례([[harat-2016-nucleus-accumbens-stimulation-in]])·FDA IDE pilot([[rezai-2018-feasibility-of-nucleus-accumbens]])로, 다시 **개인맞춤 폐루프 NAc-shell rDBS**([[barbosa-2022-aberrant-impulse-control-circuitry]], [[wu-2022-local-accumbens-in-vivo]])로 수렴. 동물에서 NAc shell DBS의 고지방 섭취 억제는 D2R 의존·diet-induced obese 특이적. 체계적 고찰([[contreras-lopez-2022-effectiveness-of-deep-brain]])에서 NAc가 최대 감량·최소 부작용 표적.
+hypothalamus(homeostatic) 표적이 비일관·역설적이었던 데 비해, **NAc(reward) DBS가 비만 사례에서 가장 큰 감량**을 냈다 — 비만의 추진력이 잔존 보상 회로에 있을 수 있음을 시사. 우연 발견([[mantione-2010-smoking-cessation-and-weight]] 금연+44 kg, [[tronnier-2018-massive-weight-loss-following]] 우울 DBS 중 감량)에서 시작해 [[concept-hypothalamic-obesity|HO]] 사례([[harat-2016-nucleus-accumbens-stimulation-in]])·FDA IDE pilot([[rezai-2018-feasibility-of-nucleus-accumbens]])로, 다시 **개인맞춤 폐루프 NAc-shell rDBS**([[barbosa-2022-aberrant-impulse-control-circuitry]], [[wu-2022-local-accumbens-in-vivo]])로 수렴. 동물에서 NAc shell DBS의 고지방 섭취 억제는 D2R 의존·diet-induced obese 특이적. 체계적 고찰([[contreras-lopez-2022-effectiveness-of-deep-brain]])에서 NAc가 최대 감량·최소 부작용 표적.
 
 ### 보상 회로에서의 위치
 - mesolimbic DA의 주 표적. RPE·value-of-work·effort 논쟁의 무대([[salamone-2012-mysterious-motivational-functions-mesolimbic]], [[hamid-2016-mesolimbic-dopamine-signals-value-work]], [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]]).
@@ -40,12 +40,12 @@ updated: 2026-11-01
 - [[concept-dopamine-reward-system]] — NAc를 표적하는 mesolimbic DA 회로.
 - [[concept-lateral-hypothalamus]] — NAc shell→LH hedonic eating 회로; tractography 표적의 근거.
 - [[concept-need-motivation-pleasure-utility]] — NAc=Pleasure 축.
-- [[concept-hedonic-hotspot]] — NAc 내측 shell rostrodorsal(~1 mm³)에 ‘좋아함’ 증폭 오피오이드 핫스폿.
+- [[concept-hedonic-hotspot]] — NAc medial shell rostrodorsal(~1 mm³)에 ‘좋아함’ 증폭 오피오이드 핫스폿.
 - [[concept-liking-wanting]] — NAc가 ‘좋아함’(shell 핫스폿)·‘갈망’(D1/D2 세포) 모두의 핵심 구조물.
 - [[guillaumin-2023-disentangling-the-role-of-nac]] — NAc shell D1=좋아함+갈망, D2=갈망·좋아함 음(세포 수준 해리).
-- [[warlow-2021-incentive-motivation-wanting-roles]] — 중심 편도 ‘갈망’이 NAc 내측 shell를 동원.
+- [[warlow-2021-incentive-motivation-wanting-roles]] — central amygdala ‘갈망’이 NAc medial shell를 동원.
 - [[concept-deep-brain-stimulation]] — NAc를 표적하는 침습 DBS hub.
-- [[concept-hypothalamic-obesity]] — 시상하부 손상에도 NAc는 표적으로 남음.
+- [[concept-hypothalamic-obesity]] — hypothalamus 손상에도 NAc는 표적으로 남음.
 - [[harat-2016-nucleus-accumbens-stimulation-in]] · [[tronnier-2018-massive-weight-loss-following]] · [[rezai-2018-feasibility-of-nucleus-accumbens]] · [[mantione-2010-smoking-cessation-and-weight]] — NAc-비만 DBS 사례/시리즈.
 - [[wu-2022-local-accumbens-in-vivo]] · [[barbosa-2022-aberrant-impulse-control-circuitry]] — NAc 폐루프 DBS의 기계론·영상 근거.
 - [[yuen-2022-deep-brain-stimulation-for]] — 중독 NAc DBS(food addiction 인접).
@@ -65,16 +65,16 @@ updated: 2026-11-01
 - [[howe-2026-control-of-innate-olfactory-valence]] — pplCoA→NAc가 선천 후각 유인에 필요·충분.
 - [[concept-cortical-amygdala]] — 후각 유인의 상류(plCoA).
 - [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin·opioid이 수렴하는 보상 표적.
-- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — 복측 선조체(VS)=미각 hedonic 도파민.
+- [[tellez-2016-separate-circuitries-encode-hedonic-nutritional]] — ventral striatum(VS)=미각 hedonic 도파민.
 - [[trouche-2019-a-hippocampus-accumbens-tripartite-neuronal]] — dCA1→NAc(MSN·PV+FSI)가 공간 식욕기억을 행동으로 번역.
 - [[derman-2018-junk-food-enhances-conditioned-food-cup]] — NAc CP-AMPAR 상향과 cue approach 강화.
 - [[jamieson-2026-neural-circuits-for-mammalian-parental]] — **비-섭식 자연 보상**으로서의 새끼: MPOA→VTA→NAc가 새끼에 incentive salience 부여, NAc shell DA 고갈·수용체 차단이 retrieval·grooming 손상, 개체별 모성행동 차이가 DA 신호 강도와 상관. 산후 쥐의 새끼 lever-press가 코카인을 넘을 수 있음 (NRN 2026).
-- [[concept-medial-preoptic-area]] — NAc 보상 축을 새끼 자극에 연결하는 시상하부 상류 허브.
-- [[zhang-2026-inherited-input-and-local-transformations]] — 전측 복측 선조체(NAc 포함)의 학습된 CS⁺ 가치는 dSPN·iSPN **수렴형**이며 글루탐산 입력에도 이미 존재 → 상당 부분 **상류에서 상속**된 신호 (bioRxiv 2026).
-- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — ⚠️ **"NAc 도파민"을 한 덩어리로 쓰면 안 되는 이유**. 소비 중 용액 **가치와 최근 이력**은 전방·복측(NAcCR·NAcCC·shell)에서 가장 강하게 부호화되지만, WR:Suc 조건에서는 **NAcCR·NAcShM이 다른 아구역과 반대 부호**로 scaling했다. 또 trial *n* 도파민이 trial *n+1* 핥기 개시를 예측하는 정도도 아구역마다 다르다(NAcCR OR 1.13 / NAcShM 무효). 이 전방 가치·이력 채널(NAcCR·NAcCC·NAcShL)에는 LH^GABA가 양, LH^Glut가 음으로 결합한다. 단일 좌표 photometry·단일 좌표 DBS 해석의 경계. ⚠️ 또 Fig 3은 evoked DA가 아구역 간 거의 전파되지 않음을 보여 **spiraling connectivity(배쪽→등쪽 cascade)를 초 단위 시간척도에서 제한**한다(해부·학습 척도는 반박 아님) (Neuron 2026, Stuber lab).
+- [[concept-medial-preoptic-area]] — NAc 보상 축을 새끼 자극에 연결하는 hypothalamus 상류 허브.
+- [[zhang-2026-inherited-input-and-local-transformations]] — anterior ventral striatum(NAc 포함)의 학습된 CS⁺ 가치는 dSPN·iSPN **수렴형**이며 글루탐산 입력에도 이미 존재 → 상당 부분 **상류에서 상속**된 신호 (bioRxiv 2026).
+- ★ [[gordon-2026-lateral-hypothalamic-control-of-the]] · [[concept-striatal-dopamine-gradient]] — ⚠️ **"NAc 도파민"을 한 덩어리로 쓰면 안 되는 이유**. 소비 중 용액 **가치와 최근 이력**은 전방·ventral(NAcCR·NAcCC·shell)에서 가장 강하게 부호화되지만, WR:Suc 조건에서는 **NAcCR·NAcShM이 다른 아구역과 반대 부호**로 scaling했다. 또 trial *n* 도파민이 trial *n+1* 핥기 개시를 예측하는 정도도 아구역마다 다르다(NAcCR OR 1.13 / NAcShM 무효). 이 전방 가치·이력 채널(NAcCR·NAcCC·NAcShL)에는 LH^GABA가 양, LH^Glut가 음으로 결합한다. 단일 좌표 photometry·단일 좌표 DBS 해석의 경계. ⚠️ 또 Fig 3은 evoked DA가 아구역 간 거의 전파되지 않음을 보여 **spiraling connectivity(ventral→dorsal cascade)를 초 단위 시간척도에서 제한**한다(해부·학습 척도는 반박 아님) (Neuron 2026, Stuber lab).
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — NAc가 생식 경험 **고민감 부위** 중 하나이자 새끼 분리 시 도파민 상승이 가장 큰 곳 (Nature 2026).
-- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc lateral shell(NAcLat)** 이라는 별개 아구역 정의(core 외측; medial shell과 VTA 효과가 반대). NAcLat→VTA 투사 뉴런의 **약 75%가 *Nts* 발현**하며, 이 NTS가 VTA 도파민 뉴런을 NTSR1로 직접 흥분시켜 **hedonic feeding**을 매개 — 만성 HFD에서 소실·정상식 복귀로 회복 (Nature 2025). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].
-- [[luscher-2021-consolidating-the-circuit-model-for]] — NAc가 **양성강화(D1R-MSN)와 음성강화(D2R-MSN)의 수렴 허브**이며, 여기서 시작된 가소성이 spiraling connectivity를 타고 등쪽 선조체로 확장(dorsalization)돼 [[concept-compulsion|강박]]에 이른다. mPFC→NAc D1R-MSN depotentiation이 cue 추구를 소거 (Annu Rev Neurosci 2021).
+- [[gazit-shimoni-2025-changes-in-neurotensin-signalling-drive]] — **NAc lateral shell(NAcLat)** 이라는 별개 아구역 정의(core lateral; medial shell과 VTA 효과가 반대). NAcLat→VTA 투사 뉴런의 **약 75%가 *Nts* 발현**하며, 이 NTS가 VTA 도파민 뉴런을 NTSR1로 직접 흥분시켜 **hedonic feeding**을 매개 — 만성 HFD에서 소실·정상식 복귀로 회복 (Nature 2025). 개념 [[concept-hedonic-devaluation]] · 인물 [[person-lammel-stephan]].
+- [[luscher-2021-consolidating-the-circuit-model-for]] — NAc가 **양성강화(D1R-MSN)와 음성강화(D2R-MSN)의 수렴 허브**이며, 여기서 시작된 가소성이 spiraling connectivity를 타고 dorsal striatum로 확장(dorsalization)돼 [[concept-compulsion|강박]]에 이른다. mPFC→NAc D1R-MSN depotentiation이 cue 추구를 소거 (Annu Rev Neurosci 2021).
 - [[marcus-2026-endocannabinoids-facilitate-reward-engagement-through]] — NAc D2R-Penk MSN이 2-AG를 만들어 aPVT 입력을 역행성으로 깎는 gain control (Nature 2026).
 - [[concept-paraventricular-thalamus]] — NAc로 가는 최대 흥분성 입력원이자 CB1R 최다 공발현 구심.
 - [[mingote-2019-dopamine-glutamate-neuron-projections-to]] — 'VTA 도파민 입력'을 두 채널로 분해: **DA-GLU→medial shell 전용 / DA-only→lateral shell·core**(dorsal medial shell 회피). medial shell 국소회로(SPN·FSI·ChI)의 첫 기능 연결지도이며, 이후 '**NAc shell** 도파민'이라 쓸 때 medial/lateral 한정어가 필요해짐 (Neurochem Int 2019).

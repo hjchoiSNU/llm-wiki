@@ -8,7 +8,7 @@ affiliation: Yale University School of Medicine (Comparative Medicine; Yale Cent
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **위키의 시상하부 cluster에서 이름은 가장 자주 나오는데 페이지가 없던 사람.** 이 위키의 9개 페이지가 공저자·협력자·방법 제공자로 그를 인용한다. 그의 연구 라인이 사용자 lab에 주는 것은 **"회로 수준 아래의 층"** 이다 — AgRP·POMC 뉴런이 *무엇을 부호화하는가*(Need·Motivation)를 넘어, **그 뉴런이 연료를 바꿀 수 있어야 그 부호화가 유지된다**는 세포 생체에너지 층. [[concept-metabolic-flexibility]]·[[concept-agrp-synaptic-plasticity]]가 그 층이다.
+> **위키의 hypothalamus cluster에서 이름은 가장 자주 나오는데 페이지가 없던 사람.** 이 위키의 9개 페이지가 공저자·협력자·방법 제공자로 그를 인용한다. 그의 연구 라인이 사용자 lab에 주는 것은 **"회로 수준 아래의 층"** 이다 — AgRP·POMC 뉴런이 *무엇을 부호화하는가*(Need·Motivation)를 넘어, **그 뉴런이 연료를 바꿀 수 있어야 그 부호화가 유지된다**는 세포 생체에너지 층. [[concept-metabolic-flexibility]]·[[concept-agrp-synaptic-plasticity]]가 그 층이다.
 > 사용자 lab과 가장 가까운 두 지점: ① **시냅스 가소성으로서의 배고픔**(leptin·ghrelin이 AgRP·POMC 입력을 재편) — [[concept-weight-regain-defended-adiposity|유지 실패]]의 상류 후보. ② **약리적 포만 ≠ 칼로리 제한**([[horvath-2026-hypothalamus-driven-brain-health-through|2026 Neuron 리뷰]] §8) — GLP-1RA 라인의 평가 기준을 바꾸는 주장.
 
 # Tamas L. Horvath
@@ -19,7 +19,7 @@ affiliation: Yale University School of Medicine (Comparative Medicine; Yale Cent
 - University of Veterinary Medicine, Budapest — Department of Anatomy and Histology.
 
 ## 연구 라인 (위키 자료에서 확인되는 범위)
-### 1. 미토콘드리아 uncoupling protein과 시상하부
+### 1. 미토콘드리아 uncoupling protein과 hypothalamus
 - **1997** — canonical uncoupler UCP1과 구조적으로 상동인 **UCP2·UCP3** 발견에 참여. 이후 **UCP2가 hypothalamus에 강하게 발현**됨을 확인하고, UCP2가 hypothalamic 뉴런의 **미토콘드리아 역학** 조절에 임계적으로 관여함을 밝혔다.
 - 출처: [[horvath-2026-hypothalamus-driven-brain-health-through]] §5 (본인 리뷰의 1인칭 서술).
 
@@ -37,7 +37,7 @@ affiliation: Yale University School of Medicine (Comparative Medicine; Yale Cent
 ### 4. astrocyte–AgRP 피드포워드
 - AgRP 뉴런이 방출한 **GABA**가 astrocyte 적응과 **PGE2** 방출을 유도하고, PGE2가 AgRP의 **EP2 수용체**를 활성화해 흥분성을 더 높이는 양성 고리(Varela 외). 배고픔 구동 섭식·과식을 증폭할 수 있는 glial 기전.
 
-### 5. 시상하부와 전신 노화·신경퇴행
+### 5. hypothalamus와 전신 노화·신경퇴행
 - hypothalamic 대사 경직이 노화·신경퇴행의 공통 축이라는 틀. 노화 POMC의 mTOR↑ → KATP 채널↑ → **세포 자율적 침묵**; AD 모형에서 hypothalamic AgRP·POMC·MC4R 발현 감소와 미토콘드리아 결손이 **인지 손상에 앞선다**.
 - "hypothalamus를 회춘시키면 개체가 회춘한다" 계열(신경줄기세포 보존·IKK-β/NF-κB 차단).
 - 관련: [[concept-metabolic-flexibility]] §5, [[concept-hypothalamic-inflammation]].
@@ -45,7 +45,7 @@ affiliation: Yale University School of Medicine (Comparative Medicine; Yale Cent
 ## 위키에서 그를 인용하는 페이지
 - **공저·협력으로 명시된 논문**
   - [[davila-2026-agrp-neurons-are-required-for]] — PNAS 2026, Horvath lab. semaglutide가 AgRP를 **모집**하고 AgRP 기능이 없으면 암컷에서 감량이 붕괴(매개축 glucocorticoid→AgRP-GR).
-  - [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — eLife 2013, de Araujo·Horvath 공동. LH MCH 뉴런 = 설탕의 영양 가치 → 선조체 DA.
+  - [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — eLife 2013, de Araujo·Horvath 공동. LH MCH 뉴런 = 설탕의 영양 가치 → striatum DA.
   - [[leinninger-2009-leptin-acts-via-leptin]] — 공저자(Gad1^EGFP 제공, Yale).
   - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] · [[gao-2026-semaglutide-drives-weight-loss-through]] · [[kim-2025-mechanisms-of-glucagon-like-peptide]] — AgRP·brainstem 축의 semaglutide 라인에서 인용.
 - **분야 지도에서의 위치**

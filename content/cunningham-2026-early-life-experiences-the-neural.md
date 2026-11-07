@@ -60,23 +60,23 @@ doi: 10.1038/s41583-026-01074-w
 > ⚠️ 저자 결론: 말초 표지는 **전신 반응을 반영할 뿐 뇌 특이적 후성유전 상태와 직접 대응하지 않는다**. 위험 층화 도구로는 유효하되 기전 대리물로 쓰면 안 된다.
 
 ### 5. 뇌 후성유전체 — 영역·세포타입 특이
-- **편도체(AMYG)**: ELS 사후뇌 조직에서 활성(H3K27ac·H3K4me1·H3K36me3·H3K4me3)·억제(H3K27me3·H3K9me3) 표지 약 5,000곳 차등 농축, **H3K27ac이 차이의 약 1/3**. 차등 메틸화 영역 약 1,600곳(프로모터 CpG·유전자 본체 non-CpG). 단 **ELS 코호트 전원이 자살로 사망**해 ELS·자살·MDD 신호를 분리하기 어렵다.
-- **해마(HC)**: 성체기 급성 스트레스에 대한 전사 반응이 대조군은 글루타메이트성 뉴런에서, ELS군은 **GABA성 세포에서** 주로 발생 → ELS가 **세포타입 특이적으로 반응성 자체를 재설정**.
-- **중변연계(VTA·NAc·PFC)**: LBN+MS 조합이 광범위한 전사 교란(수컷 VTA, 암컷 NAc에서 최대). NAc에서 **H3K79me2** 변화가 DOT1L(writer)·KDM2B(eraser) 발현 변화와 동반되고, **Drd2⁺ MSN에 특이적**. Drd2-MSN에서 Dot1l 넉다운은 ELS 취약성을 **되돌리고**, 과발현은 표현형을 **재현**한다. **Dot1l 약리 억제만으로 회복이 재현**된다는 점이 치료적으로 중요. (단 DOT1L·KDM2B는 표지 침착 외의 scaffold 기능도 하므로 H3K79 메틸화 매개 여부는 미확정.)
+- **amygdala(AMYG)**: ELS 사hindbrain 조직에서 활성(H3K27ac·H3K4me1·H3K36me3·H3K4me3)·억제(H3K27me3·H3K9me3) 표지 약 5,000곳 차등 농축, **H3K27ac이 차이의 약 1/3**. 차등 메틸화 영역 약 1,600곳(프로모터 CpG·유전자 본체 non-CpG). 단 **ELS 코호트 전원이 자살로 사망**해 ELS·자살·MDD 신호를 분리하기 어렵다.
+- **hippocampus(HC)**: 성체기 급성 스트레스에 대한 전사 반응이 대조군은 글루타메이트성 뉴런에서, ELS군은 **GABA성 세포에서** 주로 발생 → ELS가 **세포타입 특이적으로 반응성 자체를 재설정**.
+- **중limbic system(VTA·NAc·PFC)**: LBN+MS 조합이 광범위한 전사 교란(수컷 VTA, 암컷 NAc에서 최대). NAc에서 **H3K79me2** 변화가 DOT1L(writer)·KDM2B(eraser) 발현 변화와 동반되고, **Drd2⁺ MSN에 특이적**. Drd2-MSN에서 Dot1l 넉다운은 ELS 취약성을 **되돌리고**, 과발현은 표현형을 **재현**한다. **Dot1l 약리 억제만으로 회복이 재현**된다는 점이 치료적으로 중요. (단 DOT1L·KDM2B는 표지 침착 외의 scaffold 기능도 하므로 H3K79 메틸화 매개 여부는 미확정.)
 - **H3K27me1**이 ELS NAc에서 선택적으로 축적되고 H3K27me2는 감소 — 만성 성체 스트레스와도 수렴하는 크로마틴 상태 전환.
 - **도파민화**: MS(PND 5–10) 랫트에서 PFC·NAc **H3Q5dop 상승** + 도파민 tone 변화. ELS 맥락에서의 기능적 의의는 아직 미확정. → [[concept-h3-dopaminylation]]
 
 ### 6. ★ 글리아 — ELS의 숨은 주역
-- **미세아교세포**: LBN(PND 2–10)이 **PVN에서 CRH 뉴런 주위 미세아교세포 돌기·운동성·글루타메이트 시냅스 포식을 감소**시킨다. 청소년기 해마에서도 시냅스 가지치기 저하. **화학유전으로 미세아교세포를 활성화하면 정상 가지치기·회로·행동이 회복** → ELS 후 정신질환 위험에 미세아교세포가 인과적으로 관여.
+- **미세아교세포**: LBN(PND 2–10)이 **PVN에서 CRH 뉴런 주위 미세아교세포 돌기·운동성·글루타메이트 시냅스 포식을 감소**시킨다. 청소년기 hippocampus에서도 시냅스 가지치기 저하. **화학유전으로 미세아교세포를 활성화하면 정상 가지치기·회로·행동이 회복** → ELS 후 정신질환 위험에 미세아교세포가 인과적으로 관여.
 - **희소돌기아교세포**: ELS가 OPC 분화·수초화를 낮춘다. mPFC 수초 관련 유전자 하향조절이 여러 데이터셋 메타분석에서 수렴(수초 연관 당단백 일관 감소). **실험적 탈수초화만으로 ELS 행동 표현형이 재현**되고, **화학유전으로 뉴런 활성을 조절하면 희소돌기아교세포 발생과 행동이 정상화**된다. 인간에서도 아동기 학대 이력자는 수초화 희소돌기아교세포 수 증가·수초 관련 유전자 CpG 메틸화 변화.
-- **성상교세포**: GFAP 발현 감소가 여러 종·패러다임에서 반복 보고. MS·LBN(PND 10–17)이 외측 편도체 **Ca²⁺ 신호를 교란**하고, 성상교세포 특이적 Ca²⁺ 조작만으로 스트레스 유발 행동 결손을 구제. 단 **ELS 성상교세포 후성유전체를 직접 본 연구는 아직 없다**(저자 명시 공백).
+- **성상교세포**: GFAP 발현 감소가 여러 종·패러다임에서 반복 보고. MS·LBN(PND 10–17)이 lateral amygdala **Ca²⁺ 신호를 교란**하고, 성상교세포 특이적 Ca²⁺ 조작만으로 스트레스 유발 행동 결손을 구제. 단 **ELS 성상교세포 후성유전체를 직접 본 연구는 아직 없다**(저자 명시 공백).
 
 ### 7. 회로 수준 결과
-- 인간: ELS 이력이 많을수록 급성 스트레스 시 편도체·해마·PFC 기능적 연결성 감소. 남성에서 HC–PFC–AMYG 연결성 저하, 청소년기 스트레스는 남성에서 과연결 — **성별·시기 특이적**.
-- 설치류: MS(PND 8–9)만으로 PFC 흥분성 시냅스에 층 특이적 변화; **PFC→VTA 투사 과흥분성**이 노출 직후 나타나 중변연계 취약성을 prime. VTA 도파민 뉴런 흥분성 상승 + 수상돌기 가시 밀도·머리 크기 증가.
-- **시상하부(HYPO)**: ELS에서 **흥분성 시냅스 증가·자발 EPSC 상승**(리뷰 Fig. 5b). 섭식 회로 맥락에서 [[shin-2023-early-adversity-promotes-binge-like-eating|Shin 2023]]의 LH^Lepr 폭식 회로와 같은 방향.
+- 인간: ELS 이력이 많을수록 급성 스트레스 시 amygdala·hippocampus·PFC 기능적 연결성 감소. 남성에서 HC–PFC–AMYG 연결성 저하, 청소년기 스트레스는 남성에서 과연결 — **성별·시기 특이적**.
+- 설치류: MS(PND 8–9)만으로 PFC 흥분성 시냅스에 층 특이적 변화; **PFC→VTA 투사 과흥분성**이 노출 직후 나타나 중limbic system 취약성을 prime. VTA 도파민 뉴런 흥분성 상승 + 수상돌기 가시 밀도·머리 크기 증가.
+- **hypothalamus(HYPO)**: ELS에서 **흥분성 시냅스 증가·자발 EPSC 상승**(리뷰 Fig. 5b). 섭식 회로 맥락에서 [[shin-2023-early-adversity-promotes-binge-like-eating|Shin 2023]]의 LH^Lepr 폭식 회로와 같은 방향.
 - **인과 증거는 희박**: 회로 조작으로 ELS 행동을 재현한 사례는 사실상 **BLA→NAc의 CRH/GABA성 투사 선택적 활성화** 하나뿐.
-> ⚠️ 범위 주의: 이 '하나뿐'은 리뷰가 다루는 **정동장애 행동 표현형** 범위 안의 집계다. 위키 안에는 [[shin-2023-early-adversity-promotes-binge-like-eating]]이 LH Lepr shRNA/CRISPR KO로 ELT 없이 폭식·비만을 재현하고 LH^Lepr→vlPAG 투사 특이 조작·vlPAG^Penk 활성화로 ELT 폭식을 구제한 **섭식 표현형의 회로 인과 사례**가 있다. 본 리뷰도 §7에서 ELS의 시상하부 흥분성 시냅스 증가를 같은 방향으로 인용하지만, 이 섭식 회로 인과 연구는 리뷰의 인과 사례 집계에는 포함되지 않았다.
+> ⚠️ 범위 주의: 이 '하나뿐'은 리뷰가 다루는 **정동장애 행동 표현형** 범위 안의 집계다. 위키 안에는 [[shin-2023-early-adversity-promotes-binge-like-eating]]이 LH Lepr shRNA/CRISPR KO로 ELT 없이 폭식·비만을 재현하고 LH^Lepr→vlPAG 투사 특이 조작·vlPAG^Penk 활성화로 ELT 폭식을 구제한 **섭식 표현형의 회로 인과 사례**가 있다. 본 리뷰도 §7에서 ELS의 hypothalamus 흥분성 시냅스 증가를 같은 방향으로 인용하지만, 이 섭식 회로 인과 연구는 리뷰의 인과 사례 집계에는 포함되지 않았다.
 
 ### 8. 저자가 지목한 공백 (연구 기회)
 1. **단일세포 CUT&Tag·공간 CUT&Tag를 ELS에 적용한 연구가 거의 없다** — bulk 프로파일링이 세포 구성 변화를 후성유전 변화로 오독할 위험을 해소할 방법.
@@ -93,9 +93,9 @@ doi: 10.1038/s41583-026-01074-w
 - [[concept-early-life-adversity]] — 상위 hub. 본 리뷰가 그 분자층 전체 지도를 제공.
 - [[concept-glia-stress-plasticity]] — ★ 본 리뷰가 근거를 모아 준 **글리아 축** 개념 hub(미세아교세포 가지치기·수초화·성상교세포 Ca²⁺).
 - [[concept-peripheral-epigenetic-biomarker]] — ★ 말초 표지의 유효 범위와 한계를 규정한 개념 hub.
-- [[shin-2023-early-adversity-promotes-binge-like-eating]] — ELS의 **섭식 버전**. 본 리뷰의 "시상하부 흥분성 시냅스 증가" 소견과 같은 방향.
+- [[shin-2023-early-adversity-promotes-binge-like-eating]] — ELS의 **섭식 버전**. 본 리뷰의 "hypothalamus 흥분성 시냅스 증가" 소견과 같은 방향.
 - [[concept-maternal-programming-hypothalamus]] · [[freire-agulleiro-2026-early-life-programming-of]] — 산전·모체 프로그래밍 자매 축.
-- [[concept-dopamine-reward-system]] — 중변연계가 ELS의 주 무대. Drd2-MSN 특이 DOT1L 기전.
+- [[concept-dopamine-reward-system]] — 중limbic system가 ELS의 주 무대. Drd2-MSN 특이 DOT1L 기전.
 - [[concept-medium-spiny-neuron]] — D1 vs D2 MSN 분업(D1 활성=회복력, D2 활성=취약성).
 - [[concept-emotional-eating]] · [[tomiyama-2019-stress-and-obesity]] — 스트레스→섭식·비만 임상 경로.
 - [[concept-hypothalamic-inflammation]] — 미세아교세포가 대사 회로에서 작동하는 인접 사례(ELS 축과 대비).

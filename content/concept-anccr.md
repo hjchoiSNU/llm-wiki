@@ -7,7 +7,7 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 위키 12개 이상 페이지가 "RPE의 대안"으로 스쳐 언급하던 **ANCCR의 개념 hub**. 핵심은 한 문장이다: **동물은 "이 cue 뒤에 보상이 올까?"(prospective)가 아니라 "이 보상 앞에 무엇이 있었나?"(retrospective)를 먼저 배우고, 중변연계 도파민은 "지금 이 사건이 그 원인을 학습해야 할 의미 있는 인과 표적인가"를 신호한다.** 원전 [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022 Science]].
+> 위키 12개 이상 페이지가 "RPE의 대안"으로 스쳐 언급하던 **ANCCR의 개념 hub**. 핵심은 한 문장이다: **동물은 "이 cue 뒤에 보상이 올까?"(prospective)가 아니라 "이 보상 앞에 무엇이 있었나?"(retrospective)를 먼저 배우고, 중limbic system 도파민은 "지금 이 사건이 그 원인을 학습해야 할 의미 있는 인과 표적인가"를 신호한다.** 원전 [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022 Science]].
 > 사용자 연구에 필요한 이유: (1) 음식 보상·음식 cue의 NAc 도파민을 읽는 **판별 지표**(직전 보상 간격과의 상관 부호, 맥락 노출에 따른 보상 반응의 증감, 소거 후 cue 반응 잔존)를 준다. (2) [[concept-need-motivation-pleasure-utility|NMPU]]의 Pleasure/Utility "교사 신호"를 RPE 하나로 고정하지 않게 해 준다 — 특히 **시간~일 지연의 Utility 학습**에 대해 state 타일링 없이 확장되는 알고리즘 후보(연결 가설). (3) 소거 vs contingency degradation의 차이는 [[concept-digital-therapeutics|DTx]] cue 모듈 설계 변수다.
 
 # ANCCR — 회고적 인과 학습
@@ -79,20 +79,20 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 | [[lee-2024-feature-specific-prediction-error]] | forward TD 가정이라 framework 밖 | — |
 | [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] · [[huang-2024-dopamine-mediated-interactions-between-short]] · [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] · [[salamone-2012-mysterious-motivational-functions-mesolimbic]] | 진영 비교표의 한 행(간접·부분 호환) | 원전 직접 검증 없음 |
 | [[person-sharpe-melissa]] | model-free TDRL 위반 도파민 학습(Sharpe 2017·2020, Seitz 2022)을 원전이 ANCCR로 설명 | 원전 fig. S13 (보충자료) |
-| [[concept-orbitofrontal-cortex]] | 회고적 정보 공급원 후보(OFC→VTA 장기 기억, Namboodiri 2019) | 위키에 Namboodiri 2019 원전 없음. suppl. fig. S14 회로 가설: **LEC(eligibility trace 버퍼) → 해마(SR·PR 증거) → OFC(PRC·임계) / PL(SRC·임계) → 중뇌 DA(ANCCR) → NAc(행동 통합)** |
+| [[concept-orbitofrontal-cortex]] | 회고적 정보 공급원 후보(OFC→VTA 장기 기억, Namboodiri 2019) | 위키에 Namboodiri 2019 원전 없음. suppl. fig. S14 회로 가설: **LEC(eligibility trace 버퍼) → hippocampus(SR·PR 증거) → OFC(PRC·임계) / PL(SRC·임계) → midbrain DA(ANCCR) → NAc(행동 통합)** |
 
 ### 열린 문제 (원전 Discussion + 위키 관점)
 - 회고적 정보는 어디서 오는가 — OFC 후보(원전), 다른 경로 미검증.
 - 시간척도 추론: 2022판은 평균 IRI 가정(T = 1.2×IRI 고정). [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]이 학습률·trace 시간상수의 IRI 비례를 Bayes 정규화에서 유도했다(보상 **종류별** IRI; 단맛 액체 간 부분 일반화). 극단 간격(3,600 s)에서는 비례가 깨졌다(예측 1.3시행, 실제 3.6). 다중 시간상수 계가 원리적 해법 후보라는 점은 여전하다.
 - **지연 학습 알고리즘 부재**: 인과 지도 뒤 "인과 사건 간 지연"을 배우는 단계(suppl. fig. S2 Step 2)는 제안되지 않음.
-- **trial 내 backprop 불일치**: Amo 2022(후각 cue, 복측 선조체 photometry)의 점진적 시간 이동 vs 원전 Test 9(청각 cue, backprop 없음) — 원전은 후각 자극의 onset/offset 불명확·탐지 향상으로 설명(suppl. Note 9, 미검증). Amo 2022 원전은 위키에 없음. [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]은 50% 강화에서 **누락 dip이 cue DA보다 훨씬 늦게**(누락 25회 vs 107회) 나타나 점진적 TDRPE backprop과 맞지 않는다고 보고한다.
+- **trial 내 backprop 불일치**: Amo 2022(후각 cue, ventral striatum photometry)의 점진적 시간 이동 vs 원전 Test 9(청각 cue, backprop 없음) — 원전은 후각 자극의 onset/offset 불명확·탐지 향상으로 설명(suppl. Note 9, 미검증). Amo 2022 원전은 위키에 없음. [[burke-2026-duration-between-rewards-controls-the|Burke 2026]]은 50% 강화에서 **누락 dip이 cue DA보다 훨씬 늦게**(누락 25회 vs 107회) 나타나 점진적 TDRPE backprop과 맞지 않는다고 보고한다.
 - **처벌·아구역**: ANCCR에 부호 있는 incentive value vs 절댓값(salience)을 곱하느냐에 따라 NAc core vs medial shell 도파민이 학습 vs 동기에 다르게 기여할 수 있다는 추측(suppl. Note 8) — 미검증.
 - NAc core 외 영역(DLS·tail·BLA·mPFC)의 도파민도 ANCCR인가 — 미검증. 위키의 [[grove-2022-dopamine-subsystems-track-internal|자원별 DA sub-system]]·[[weber-2025-interoceptive-origin-reinforcement-learning|primary/proxy/secondary]] 틀과의 관계는 자료 없음.
 - TDRL state space의 무한 유연성 → 반증 가능성 문제(원전 인정).
 - 행동-조건적(instrumental) cognitive map까지 인과 추론으로 설명되는가.
 
 ## 사용자 연구 연결 (연결 가설 — 원전 주장 아님)
-- **판별 지표 체크리스트** (음식 보상 photometry): ① 무경험 맥락에서 반복 무예측 보상의 도파민 추세(↑ = ANCCR, ↓ = RPE), ② 직전 보상 간격과의 상관 부호(양 = ANCCR, 음 = RPE), ③ 소거 후 cue 반응 잔존, ④ 지연 변경 시 cue 반응 불변 여부. 섭취 중 lick 성분은 [[gordon-2026-lateral-hypothalamic-control-of-the|LH 제어 선조체 도파민]]과 분리 필요.
+- **판별 지표 체크리스트** (음식 보상 photometry): ① 무경험 맥락에서 반복 무예측 보상의 도파민 추세(↑ = ANCCR, ↓ = RPE), ② 직전 보상 간격과의 상관 부호(양 = ANCCR, 음 = RPE), ③ 소거 후 cue 반응 잔존, ④ 지연 변경 시 cue 반응 불변 여부. 섭취 중 lick 성분은 [[gordon-2026-lateral-hypothalamic-control-of-the|LH 제어 striatum 도파민]]과 분리 필요.
 - **NMPU**: Pleasure의 "forward RPE" 서술 옆에 **회고적 credit assignment**를 병기할 근거. Utility(지연 결과)의 [[concept-flavor-nutrient-conditioning]]·[[concept-conditioned-taste-aversion]]·[[yang-2026-a-sync-state-in-the|sync state]] 학습에 eligibility-trace형 회고 추론이 후보가 될 수 있으나, 원전 실험 검증은 수 초–~100 s 범위. 원전 suppl. Note 7은 **24 h 지연 CTA**를 직접 예로 들어 "질병 시점에서 최근 자극을 salience 순으로 정렬해 credit 부여"를 회고 학습의 장점으로 논증(시뮬레이션·실험 없음).
 - **재발·DTx**: 소거 후에도 남는 cue 도파민([[concept-cue-reactivity]]·[[concept-food-addiction]]) vs 회고적 연합을 희석하는 contingency degradation — [[concept-digital-therapeutics|DTx]] cue 모듈의 대안 축.
 - **가치 × 인과성**: ANCCR는 incentive value로 스케일 → [[pascoli-2026-conditioned-accumbal-dopamine-transients|cue 도파민=주관적 가치]]·[[berridge-2023-separating-desire-from-prediction-of|갈망≠예측]]과의 분리 검정이 필요.
@@ -111,7 +111,7 @@ aliases: [ANCCR, anchor, retrospective causal learning, 회고적 인과 학습,
 - [[concept-one-shot-learning]] — eligibility trace로 시간적으로 떨어진 사건을 잇는 다른 사례(eCB-LTP).
 - [[concept-need-motivation-pleasure-utility]] — 교사 신호 알고리즘의 대안.
 - [[concept-cue-reactivity]] · [[concept-digital-therapeutics]] — 소거 저항 cue 도파민과 개입 설계.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 섭취 중 선조체 도파민(LH 제어).
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — 섭취 중 striatum 도파민(LH 제어).
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — "TDRL RPE와의 대조" 표의 RPE 쪽 원전급 리뷰(두 성분·utility PE).
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — "처벌·아구역" 열린 문제(suppl. Note 8: 부호 있는 value vs 절댓값 = salience)와 같은 질문 — NAc core 도파민이 valence 무관 강도를 싣는다는 Kutlu 결과.
 - [[concept-reward-prediction-error]] — ANCCR를 RPE·현저성·유인 현저성과 한 표에 놓은 상위 판별 hub.

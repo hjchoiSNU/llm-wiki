@@ -10,7 +10,7 @@ journal: "Cell Metabolism 10(2):89–98 (2009-08-06; online 2009-08-05; 접수 2
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **위키의 LH^LepR 라인 전체가 출발하는 1차 원전.** Myers lab(U. Michigan)은 `Lepr^cre` 기반 리포터(LepRb^EGFP)를 새로 만들어 LHA의 LepRb 뉴런을 가시화하고 네 가지를 한 논문에서 묶었다. ① LHA LepRb는 **MCH·orexin과 전혀 겹치지 않는 별개 집단**이며 **전부 GABAergic**(Gad1^EGFP 공존)이다. ② **intra-LHA leptin은 정상 rat에서 24 h 섭식·체중을 줄인다**(0.1·0.5·1 µg 모든 용량). ③ LHA LepRb는 **VTA로 조밀하게 투사**하되 **선조체·NAc로는 투사하지 않는다**(Ad-iZ/EGFPf cre-유도 추적 + VTA fluorogold 역추적). ④ *Lep^ob/ob* 마우스에 **250 pg**(생리적 농도 근사)의 intra-LHA leptin만 주면 섭식·체중 증가가 억제되고 동측 **VTA *Th* mRNA가 ~2.5배**, **NAc 도파민 함량이 ~40%** 올라간다 — 반면 **intra-VTA leptin은 *Th*를 유의하게 바꾸지 못한다**(원문: "did not significantly alter"). 즉 "leptin → mesolimbic DA" 축의 결정적 중계는 VTA LepRb가 아니라 **LHA LepRb**라는 주장이다.
+> **위키의 LH^LepR 라인 전체가 출발하는 1차 원전.** Myers lab(U. Michigan)은 `Lepr^cre` 기반 리포터(LepRb^EGFP)를 새로 만들어 LHA의 LepRb 뉴런을 가시화하고 네 가지를 한 논문에서 묶었다. ① LHA LepRb는 **MCH·orexin과 전혀 겹치지 않는 별개 집단**이며 **전부 GABAergic**(Gad1^EGFP 공존)이다. ② **intra-LHA leptin은 정상 rat에서 24 h 섭식·체중을 줄인다**(0.1·0.5·1 µg 모든 용량). ③ LHA LepRb는 **VTA로 조밀하게 투사**하되 **striatum·NAc로는 투사하지 않는다**(Ad-iZ/EGFPf cre-유도 추적 + VTA fluorogold 역추적). ④ *Lep^ob/ob* 마우스에 **250 pg**(생리적 농도 근사)의 intra-LHA leptin만 주면 섭식·체중 증가가 억제되고 동측 **VTA *Th* mRNA가 ~2.5배**, **NAc 도파민 함량이 ~40%** 올라간다 — 반면 **intra-VTA leptin은 *Th*를 유의하게 바꾸지 못한다**(원문: "did not significantly alter"). 즉 "leptin → mesolimbic DA" 축의 결정적 중계는 VTA LepRb가 아니라 **LHA LepRb**라는 주장이다.
 > 사용자 연구에 닿는 지점 넷. (1) [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]·[[kim-2024-normative-framework-dissociates-need|Kim 2024]]가 세운 **LH^LepR = Motivation** 회로의 해부·약리 기원이 바로 이 논문이며, "LH^LepR는 GABA"라는 위키 전제의 1차 근거다. (2) [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]] 관점에서 이 논문은 **Motivation 노드(LH^LepR)가 Pleasure/Utility 하드웨어(mesolimbic DA)의 *설정값(DA 생산 용량)*을 장기적으로 정한다**는 그림을 제시한다 — 초 단위 phasic 신호가 아니라 **tonic 용량 조절**이다. (3) **leptin 약리 ≠ 세포 특이 조작**: leptin은 LHA LepRb의 34%만 탈분극시키고 일부는 과분극시킨다. 이 이질성이 이후 20년간의 LH^LepR 부호 논쟁([[concept-lateral-hypothalamus]]의 쟁점 절)의 뿌리다. (4) 거의 인용되지 않는 핵심 단서: **VTA-투사 LHA LepRb 뉴런의 대부분은 leptin에 c-Fos로 활성화되지 않았다** — "leptin이 켜는 LH^LepR → VTA"라는 단순 도식은 원문 자체가 부정한다.
 
 # Leptin acts via LepRb-expressing lateral hypothalamic neurons to modulate the mesolimbic dopamine system and suppress feeding (Leinninger et al. 2009)
@@ -27,7 +27,7 @@ LHA의 LepRb 뉴런은 MCH·orexin과 별개인 **GABAergic 집단**이고, 이 
 ### 배경 — 왜 LHA였나
 - leptin의 대부분 작용은 CNS LepRb(long form)를 통하고(Cohen 2001; de Luca 2005), MBH("satiety center": ARC POMC·AgRP/NPY)는 **전체 LepRb 뉴런의 소수**다(Elmquist 1998; Myers 2009). MBH 특이 조작으로는 leptin 작용의 일부만 재현된다(Balthasar 2004; Dhillon 2006; van de Wall 2008). → **MBH 밖 LepRb 집단**이 필수적이라는 논증.
 - leptin은 포만뿐 아니라 **음식·보상의 incentive value를 낮춘다**(Figlewicz 2006; Fulton 2000). 당시 설명은 VTA DA 뉴런의 LepRb 직접 작용(Hommel 2006; Fulton 2006; Roseberry 2007)이었다.
-- LHA는 "feeding center"이면서 mesolimbic 보상 회로의 구성요소다. LHA의 알려진 orexigenic 집단은 **MCH**(→선조체)와 **orexin**(→VTA) 둘이고, leptin은 orexin의 단식 유발 활성을 억제하며 MCH·OX 발현을 낮춘다(Qu 1996; Yamanaka 2003; Segal-Lieberman 2003). 저자들의 질문: **LHA의 LepRb 뉴런은 이 둘 중 하나인가, 제3의 집단인가?**
+- LHA는 "feeding center"이면서 mesolimbic 보상 회로의 구성요소다. LHA의 알려진 orexigenic 집단은 **MCH**(→striatum)와 **orexin**(→VTA) 둘이고, leptin은 orexin의 단식 유발 활성을 억제하며 MCH·OX 발현을 낮춘다(Qu 1996; Yamanaka 2003; Segal-Lieberman 2003). 저자들의 질문: **LHA의 LepRb 뉴런은 이 둘 중 하나인가, 제3의 집단인가?**
 
 ### Figure 1 — LepRb^EGFP 리포터로 LHA LepRb 집단을 가시화
 - **계통**: `Lepr^cre`(Leshan 2006, 2009) × `Gt(ROSA)26Sor^tm2Sho`(cre→EGFP; Mao 1999)의 이중 호모(이하 **LepRb^EGFP**). CNS EGFP 분포가 기존 LepRb 발현 패턴과 일치하고, **LHA에 큰 EGFP⁺ 집단**이 있다.
@@ -54,16 +54,16 @@ LHA의 LepRb 뉴런은 MCH·orexin과 별개인 **GABAergic 집단**이고, 이 
 - **신경전달물질 정체**: `Gad1^EGFP`(GAD67-GFP knock-in; Abe 2005)에서 **LHA의 pSTAT3-IR/LepRb 뉴런 전부가 EGFP⁺** → **GABAergic**. 인접 OX·MCH 뉴런은 EGFP 음성.
 - 논리적 귀결(원문): orexin은 glutamatergic/흥분성(Rosin 2003)이고 leptin은 단식 시 orexin 활성을 억제한다. 반면 LHA LepRb는 **억제성**이고 leptin이 (적어도 일부를) **활성화**하며 intra-LHA leptin은 섭식을 **줄인다** → LHA LepRb와 orexigenic OX 뉴런은 섭식 조절에서 **반대 역할**과 정합.
 
-### Figure 5 — LHA LepRb → VTA (선조체·NAc 투사는 없다)
+### Figure 5 — LHA LepRb → VTA (striatum·NAc 투사는 없다)
 - 도구: **Ad-iZ/EGFPf** — cre 유도성 **farnesylated EGFP**(막 국재로 매우 긴 축삭도 표지; Zylka 2005; Leshan 2009)를 발현하는 아데노바이러스. `Lepr^cre` 마우스 LHA에 정위주입(AP −1.34 · ML −1.13 · DV −5.20, 250–500 nl, 100 nl/min) 후 **5일**에 관류.
 - 특이성: wild-type에서는 EGFPf 발현 없음. `Lepr^cre`에서도 MCH·OX 뉴런에는 EGFPf가 없음(Fig S2).
 - 분석 대상은 **주입 부위와 EGFP⁺ 체세포가 LHA의 dorsal perifornical 영역에 국한된 n = 11 마리**.
-- 결과: **동측 VTA에 조밀한 EGFPf 투사**. **DMH·ARC 등 다른 시상하부 영역에는 거의/전혀 없음**. LHA 자체에는 다량의 국소 신경돌기. **LHA보다 caudal한 다른 영역들도 일부 투사를 받았으나**, **선조체(NAc 포함)와 그 밖의 rostral 영역으로는 투사가 관찰되지 않았다**(Fig S2).
-- **역추적 검증**(Fig S3): LepRb^EGFP 마우스 VTA에 **fluorogold(FG)** → LHA의 많은 뉴런(LepRb⁺ 포함)이 표지. 반면 **ARC 등 다른 시상하부 LepRb 뉴런은 VTA로부터 FG를 축적하지 않았다** → VTA 투사는 시상하부 LepRb 집단 중 **LHA의 고유 속성**.
+- 결과: **동측 VTA에 조밀한 EGFPf 투사**. **DMH·ARC 등 다른 hypothalamus 영역에는 거의/전혀 없음**. LHA 자체에는 다량의 국소 신경돌기. **LHA보다 caudal한 다른 영역들도 일부 투사를 받았으나**, **striatum(NAc 포함)와 그 밖의 rostral 영역으로는 투사가 관찰되지 않았다**(Fig S2).
+- **역추적 검증**(Fig S3): LepRb^EGFP 마우스 VTA에 **fluorogold(FG)** → LHA의 많은 뉴런(LepRb⁺ 포함)이 표지. 반면 **ARC 등 다른 hypothalamus LepRb 뉴런은 VTA로부터 FG를 축적하지 않았다** → VTA 투사는 hypothalamus LepRb 집단 중 **LHA의 고유 속성**.
 - ★ **거의 인용되지 않는 단서**(Fig S3): FG로 표지된(= VTA 투사) EGFP 뉴런의 **대부분은 leptin 유발 c-Fos-IR를 보이지 않았고**, 강한 c-Fos는 **FG 비표지 EGFP 뉴런**에서 나왔다. → **VTA로 투사하는 LHA LepRb 뉴런의 다수는 leptin이 활성화하는 그 세포가 아니다.**
 
 ### Figure 6 — *Lep^ob/ob*에서 intra-LHA leptin이 VTA *Th*·NAc DA를 복원 (intra-VTA는 아님)
-- 설계 근거: leptin-replete 동물에서는 외인성 leptin 효과가 작지만, **leptin 결핍 모델에서는 극적으로 드러난다**(예: 정상 급식 동물에서는 leptin이 시상하부 *Pomc*를 올리지 않지만 *Lep^ob/ob*에서는 저하된 *Pomc*를 복원; Schwartz 1997).
+- 설계 근거: leptin-replete 동물에서는 외인성 leptin 효과가 작지만, **leptin 결핍 모델에서는 극적으로 드러난다**(예: 정상 급식 동물에서는 leptin이 hypothalamus *Pomc*를 올리지 않지만 *Lep^ob/ob*에서는 저하된 *Pomc*를 복원; Schwartz 1997).
 - **(A) 기저선**: *Lep^ob/ob*의 VTA *Th* mRNA가 WT C57BL/6보다 낮다(p < 0.05; 2^−ΔΔCt, *Gapdh* 정규화) — Fulton 2006과 정합.
 - **모델·용량**: 수컷 *Lep^ob/ob* 12주령, **49–61 g**, 총 20마리에 편측 LHA cannula. **250 nl × 0.001 ng/nl = 0.25 ng(250 pg)** 를 **12 h마다 24 h 동안** 투여 — **LHA 분포용적에서 순환 leptin 농도를 근사하도록 설계한 극소량**. PBS vs leptin. pSTAT3는 **cannula 동측 LHA에만** 유도되고 MBH에는 없었다(Fig S4). 제외 기준(위치 오류, 기저 섭식·체중 증가 실패, LHA 밖 pSTAT3) 적용 후 **PBS n = 5, leptin n = 6**.
 - **(C, D) 에너지 균형**: intra-LHA leptin이 24 h 섭식을 줄이고 체중 증가를 억제(**p < 0.05**). 24 h보다 짧은 시점에서는 유의한 섭식 변화가 없었다(장기 신호와 정합).
@@ -78,7 +78,7 @@ LHA의 LepRb 뉴런은 MCH·orexin과 별개인 **GABAergic 집단**이고, 이 
 - **함량(content) vs 방출(release)**: 본 논문이 보인 것은 **DA 생산 능력(Th)과 조직 함량**이다. 방출은 다르게 조절될 수 있다. 저자들은 **함량의 tonic 조절이 leptin의 만성·tonic 성격에 더 맞고**, 영양 상태 변화마다 급격한 mesolimbic DA 변동(남용 약물에서 보이는 식의 장기 변형)을 막는 완충 기능일 수 있다고 본다.
 - **LepRb 집단별 분업**: MBH LepRb = 포만·에너지 소비·혈당, LHA LepRb = mesolimbic DA. VTA LepRb도 기여하지만(Hommel 2006에서 VTA leptin → DA 뉴런 활성↓·섭식↓), **ob/ob의 *Th* 복원은 LHA 경유**다.
 - **LHA LepRb 내부 하위집단**: 전기 반응(탈분극 vs 과분극)과 투사 표적(VTA vs 국소)으로 나뉠 수 있다. **일부만 VTA로 투사**하므로 나머지는 **LHA 국소에서 OX·MCH 뉴런을 조절**할 수 있다(둘 다 leptin에 억제됨; Jo 2005; Yamanaka 2003).
-- **열린 과제**: 배측 선조체 DA의 섭식 역할(Palmiter 2007)에서 leptin의 몫은 미탐색. 비만 상태에서 이 뉴런들의 탈조절 여부가 향후 핵심.
+- **열린 과제**: dorsal striatum DA의 섭식 역할(Palmiter 2007)에서 leptin의 몫은 미탐색. 비만 상태에서 이 뉴런들의 탈조절 여부가 향후 핵심.
 
 ### 방법 메모(재현에 필요한 수치)
 - 전기생리 절편 200 µm, 실온, aCSF 2 ml/min. 막전위는 기록 개시 5분 후와 leptin 최대 반응 시점에서 측정. two-group 비교는 Student *t*, 다중비교는 one-way ANOVA + posttest(Dunnett/Bonferroni).
@@ -88,7 +88,7 @@ LHA의 LepRb 뉴런은 MCH·orexin과 별개인 **GABAergic 집단**이고, 이 
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
 - **NMPU에서 "Motivation 노드가 Pleasure 하드웨어의 용량을 설정한다"**: [[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]와 [[kim-2024-normative-framework-dissociates-need|Kim 2024]]는 LH^LepR를 **Motivation(누적된 need)** 로 둔다. 본 논문은 같은 세포가 **mesolimbic DA의 생산 용량(*Th*·DA 함량)** 을 24 h 시간척도로 바꾼다고 보고한다. 즉 Motivation 노드의 출력이 초 단위 phasic DA가 아니라 **Pleasure/Utility 회로의 gain 설정값**으로도 작동할 수 있다 — NMPU에 **"상태 변수가 하류 회로의 파라미터를 느리게 재설정한다"** 는 층을 추가하는 가설. 검증: LH^LepR 광·화학유전 조작을 24 h–수일 유지한 뒤 VTA *Th*·NAc DA 함량·GRAB-DA 동역학을 재는 설계(사용자 lab의 LH^LepR 도구로 바로 가능).
-- **[[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]과의 2단 구조**: Gordon 2026은 LH^GABA/LH^Glut **비율**이 선조체 DA를 **초 단위 공간 지형**으로 배치한다고 본다. 본 논문은 LH^LepR(GABA 아집단) leptin 작용이 **같은 계의 장기 용량**을 정한다고 본다. 두 결과를 합치면 **"느린 용량 설정(leptin→LH^LepR→VTA *Th*) × 빠른 분배(LHA^Ratio→subregion DA)"** 라는 2단 제어 가설이 된다. 예측: *Lep^ob/ob* 또는 LH Lepr knockdown에서 Gordon식 DA 지형의 **진폭만 축소되고 공간 배열은 유지**되어야 한다.
+- **[[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]]과의 2단 구조**: Gordon 2026은 LH^GABA/LH^Glut **비율**이 striatum DA를 **초 단위 공간 지형**으로 배치한다고 본다. 본 논문은 LH^LepR(GABA 아집단) leptin 작용이 **같은 계의 장기 용량**을 정한다고 본다. 두 결과를 합치면 **"느린 용량 설정(leptin→LH^LepR→VTA *Th*) × 빠른 분배(LHA^Ratio→subregion DA)"** 라는 2단 제어 가설이 된다. 예측: *Lep^ob/ob* 또는 LH Lepr knockdown에서 Gordon식 DA 지형의 **진폭만 축소되고 공간 배열은 유지**되어야 한다.
 - **[[siemian-2021-lateral-hypothalamic-lepr-neurons|Siemian 2021]]의 "LH^LepR→VTA 억제가 학습을 강화"와의 접점**: 본 논문의 ★단서(VTA-투사 LHA LepRb는 leptin에 c-Fos 음성)를 대입하면, **leptin이 켜는 LepRb 하위집단과 VTA로 교사 신호를 보내는 하위집단이 서로 다른 세포일 가능성**이 생긴다. 그렇다면 NMPU의 **Motivation(leptin 반응성 국소 집단)** 과 **Utility 되먹임(VTA 투사 집단)** 이 같은 분자 표지 안에서 **투사별로 분업**한다는 가설이 된다. 검증: Lepr^cre + VTA retro-Cre(또는 projection-specific pSTAT3/Fos 이중 표지)로 **leptin 반응 × VTA 투사** 2×2 분류.
 - **ob/ob 복원 실험의 임상 번역**: 250 pg라는 **생리적 농도 근사 용량**으로 effect가 나온다는 점은, 인간 leptin 결핍(CLD·lipodystrophy)에서 metreleptin이 극적인 반면 일반 비만에서 무효라는 [[concept-leptin]]의 핵심 비대칭과 같은 논리 구조다. **"leptin은 결핍 상태에서만 작동하는 허용적 호르몬"** 이라는 해석의 회로 수준 실례로 인용할 수 있다.
 - **LH 국소 leptin 저항 모델과의 연결**: [[shin-2023-early-adversity-promotes-binge-like-eating|Shin 2023]]은 초기역경이 **LH에서만** Lepr를 내려 국소 leptin 저항을 만든다고 보고했다. 본 논문의 회로를 대입하면 그 결과는 **LHA→VTA *Th* 설정값의 저하**로 이어져야 한다 — ELT 모델에서 VTA *Th*·NAc DA 함량을 재는 것이 직접 검증이다(원문은 vlPAG 분지만 다뤘다).
@@ -99,7 +99,7 @@ LHA의 LepRb 뉴런은 MCH·orexin과 별개인 **GABAergic 집단**이고, 이 
 - **intra-LHA leptin(섭식↓) vs 세포 특이 LH^LepR 조작의 부호 불일치 — [[concept-lateral-hypothalamus]] 쟁점 절 · [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[siemian-2021-lateral-hypothalamic-lepr-neurons]] · [[de-vrind-2019-effects-of-gaba-and]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]]**: 본 논문의 결과는 **leptin 약리(수용체 작용)** 이고, LepRb 세포 집단 전체의 활성 조작이 아니다. 같은 집단을 세포 특이로 조작하면 결과가 갈린다 — Lee 2023(phase-isolated·포만 수컷) **섭취↑**, Siemian 2021(ablation·opto·chemo) **섭취 무변**, de Vrind 2019(hM3Dq·포만) **섭취↓·운동↑·체온↑**, Petzold 2023(급성 제한 직후 다중자극) **섭취↓**. 본 논문 자체가 그 원인을 제공한다: **leptin은 LHA LepRb의 34%만 탈분극시키고 일부는 과분극시킨다.** Siemian 2021은 바로 이 모순을 자신들의 출발점으로 명시한다. → "Leinninger 2009 = LH^LepR 활성화가 섭식을 줄인다"로 환원 인용하면 안 된다(원문은 **수용체 약리**의 결과다).
 - **"mesolimbic DA↑ = 섭식·wanting↑" 프레임 — [[concept-dopamine-reward-system]] · [[murray-2014-hormonal-and-neural-mechanisms]] · [[gordon-2026-lateral-hypothalamic-control-of-the]]**: 위키는 대체로 NAc DA를 섭식 동기/개시 강화 신호로 기술하고, Murray 2014는 "leptin이 VTA DA 발화·food cue 보상반응을 **억제**"한다고 정리한다. 본 논문은 거꾸로 leptin이 **VTA *Th*·NAc DA 함량을 올리면서 섭식을 줄인다**. 저자들 스스로 모순을 인정하고 **①함량 vs 방출, ②행동별 incentive 분해**로 해소를 시도한다. **"DA 생산 용량(tonic)"과 "DA 방출·phasic 신호"는 다른 변수**로 병기할 것 — Gordon 2026의 "DA = 섭취 개시 강화"는 **초 단위 방출** 층위다.
 - **leptin의 mesolimbic 작용점: VTA vs LHA — Hommel 2006 / Fulton 2006 계열**: 본 논문의 Fig 6G는 **intra-VTA leptin이 VTA *Th*를 바꾸지 못한다**는 음성 결과다. 반면 Hommel 2006(VTA LepRb knockdown → 섭식↑)·Fulton 2006은 VTA 직접 작용을 지지한다. 본 논문의 결론은 "VTA LepRb가 무용"이 아니라 ***Th*·DA 함량이라는 특정 종말점은 LHA 경유**라는 한정이다. ⚠️ 두 작용점은 **종말점(행동 vs 유전자 발현)이 다른 실험**이므로 양립 가능하다 — 위키에서 "leptin의 mesolimbic 작용점"을 한쪽으로 단정하지 말 것.
-- **LHA LepRb → NAc 직접 투사 부재 vs LH→선조체·septum 투사 서술**: 본 논문은 **선조체(NAc 포함)로의 LepRb 투사를 관찰하지 못했다**(MCH는 선조체로 투사). 반면 위키의 LH 출력 서술에는 LHA^Vgat→[[concept-lateral-septum|DLS^Pdyn]]([[concept-lateral-hypothalamus]] 참조) 등 전방·측방 투사가 있다. ⚠️ 본 논문의 추적은 **dorsal perifornical LHA에 국한된 n=11** 이고 아데노바이러스 5일 추적이므로, **아영역·시간 한계가 있는 음성 결과**로 병기해야 한다(LepRb 전체의 투사 지도가 아니다).
+- **LHA LepRb → NAc 직접 투사 부재 vs LH→striatum·septum 투사 서술**: 본 논문은 **striatum(NAc 포함)로의 LepRb 투사를 관찰하지 못했다**(MCH는 striatum로 투사). 반면 위키의 LH 출력 서술에는 LHA^Vgat→[[concept-lateral-septum|DLS^Pdyn]]([[concept-lateral-hypothalamus]] 참조) 등 전방·측방 투사가 있다. ⚠️ 본 논문의 추적은 **dorsal perifornical LHA에 국한된 n=11** 이고 아데노바이러스 5일 추적이므로, **아영역·시간 한계가 있는 음성 결과**로 병기해야 한다(LepRb 전체의 투사 지도가 아니다).
 - **"LH LepR·GABA 모두 PAG로 강하게 투사(Leinninger 2009)" 인용 — [[de-vrind-2019-effects-of-gaba-and]]**: de Vrind 2019는 LH^LepR·LH^Vgat의 체온↑ 효과에 대해 **PAG 경유 가설**을 세우며 본 논문을 근거로 든다. ⚠️ 본 논문 **본문이 명시적으로 이름 붙인 조밀 표적은 VTA 하나**이고, 그 밖에는 "LHA보다 caudal한 영역 일부가 투사를 받았다"는 서술과 보충 그림(Fig S2)만 있다. PAG 특정은 보충자료·후속 문헌(Venner 2016 등) 수준이므로, 본 논문을 "PAG 투사의 1차 근거"로 쓸 때는 **본문 아닌 보충 근거**임을 밝혀야 한다.
 - **단식이 LHA LepRb Fos를 낮춘다(12%→5%)** vs **LH^LepR = hunger-gated seeking driver** — [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-normative-framework-dissociates-need]]: 사용자 lab은 단식 상태에서 **NPY 탈억제로 LH^LepR가 cue에 반응 가능**해진다고 본다(Lee 2023)·LH^LepR 활성이 Motivation 누적을 따른다고 본다(Kim 2024). 본 논문의 36 h 단식 c-Fos는 오히려 **감소 경향**(p = 0.05)이다. ⚠️ 측정 변수가 다르다 — 본 논문은 **cue·섭식 사건 없는 상태의 정적 c-Fos**, 사용자 lab은 **cue·seeking 사건 시점의 Ca²⁺ 동역학**이다. "단식이 LH^LepR를 tonic하게 켠다"는 서술로 쓰면 안 되고, **tonic 활성 ≠ event 반응성**으로 병기해야 한다.
 
@@ -114,7 +114,7 @@ LHA의 LepRb 뉴런은 MCH·orexin과 별개인 **GABAergic 집단**이고, 이 
 - [[rossi-2021-transcriptional-and-functional-divergence]] — ⚠️ "LepRb는 전부 GABA"에 **소수 glutamatergic LepR 축**을 병기해야 하는 상대 근거(Neuron 2021, Stuber lab).
 - [[rossi-2018-overlapping-brain-circuits-for]] — LHA LepR 부분집합의 VTA 투사·DA 영향을 본 논문으로 인용하는 Stuber lab 리뷰.
 - [[stuber-2016-lateral-hypothalamic-circuits-for]] — LHA 전기자극 보상의 **leptin 민감성**(Fulton 2000, 2006) 서술에 세포타입 기반을 제공하는 1차 데이터.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH→선조체 DA 지형(초 단위 분배). 본 논문의 **장기 용량 설정**과 2단 제어 가설.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH→striatum DA 지형(초 단위 분배). 본 논문의 **장기 용량 설정**과 2단 제어 가설.
 - [[grove-2022-dopamine-subsystems-track-internal]] — LH^GABA→VTA DA가 내부 상태를 추적하는 정방향 축. 본 논문이 처음 보인 LHA LepRb→VTA 해부의 기능적 후속 계열.
 - [[concept-dopamine-reward-system]] — ⚠️ "DA↑ = 섭식↑" 프레임과의 긴장(DA 함량 vs 방출).
 - [[murray-2014-hormonal-and-neural-mechanisms]] — leptin이 VTA·LHA를 통해 TH·보상 반응을 조절한다는 리뷰 서술의 1차 근거. ⚠️ 방향(억제 vs Th↑) 병기.

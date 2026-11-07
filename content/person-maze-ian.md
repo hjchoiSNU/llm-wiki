@@ -19,7 +19,7 @@ aliases: [Ian Maze, I. Maze]
 
 | 페이지 | 역할 | 핵심 기여 |
 |---|---|---|
-| [[ochan-2026-dopamine-drives-persistent-remodelling-of]] (Nature 2026) | 교신 | 출산·양육 경험이 배측 해마체를 재편하며, 산후 스트레스가 도파민 동역학을 바꿔 **H3 dopaminylation**을 통해 전사·행동을 인과적으로 매개. 인간 dorsal subiculum에서 parity 의존 변화 보존 |
+| [[ochan-2026-dopamine-drives-persistent-remodelling-of]] (Nature 2026) | 교신 | 출산·양육 경험이 dorsal hippocampal formation를 재편하며, 산후 스트레스가 도파민 동역학을 바꿔 **H3 dopaminylation**을 통해 전사·행동을 인과적으로 매개. 인간 dorsal subiculum에서 parity 의존 변화 보존 |
 | [[cunningham-2026-early-life-experiences-the-neural]] (Nat Rev Neurosci 2026) | 교신 | 초기 생애 스트레스 후성유전의 종합 — DNA 메틸화·히스톤 PTM·ncRNA를 세포타입·영역·발달단계별로 정리하고, **글리아**와 **말초 표지의 한계**를 전면에 놓음 |
 | [[kim-2026-early-life-stress-alters-h3k4me1]] (Neuron 2026) | 공저 | ELS가 VTA 크로마틴을 허용적 상태로 만들어 성체 스트레스 반응을 증폭(SETD7·H3K4me1). 교신은 Peña·Creed |
 

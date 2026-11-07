@@ -87,7 +87,7 @@ DIO 마우스 (10 nmol/kg/day):
 - [[concept-incretin-effect]] — GLP-1 + GIP 이중 incretin 작용이 골격(MAR709)의 기반.
 - [[concept-pomc-neurons]] — 추가 체중감소의 **후보 기전**으로 저자가 제시한 뉴런(글루타메이트성 GLP-1R→POMC 활성 ↑; 매개는 미입증, Vglut2-Cre는 POMC 비특이).
 - [[concept-arcuate-nucleus]] — ARC FOS는 GLP-1–GIP와 동일; POMC 활성만 차별적.
-- [[concept-dorsal-vagal-complex]] — AP·NTS FOS 동일·BBB 미투과 → hindbrain이 incretin 약물 1차 무대.
+- [[concept-dorsal-vagal-complex]] — AP·NTS FOS 동일·BBB 미투과 → hindbrain가 incretin 약물 1차 무대.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — semaglutide의 AP Gs–cAMP 기전과 대비; 본 논문은 그 위에 GIP+PPAR을 더한 분자공학적 확장.
 - [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 사용자 lab GLP-1 cognitive satiation 리뷰; 본 논문은 약리·분자 차원 보완(인지 satiation 미언급).
 - [[duran-2026-the-central-amygdala-integrates]] — 부위별 GLP1R 분업의 limbic 축과 대비(본 논문은 ARC/POMC homeostatic 축 강조).

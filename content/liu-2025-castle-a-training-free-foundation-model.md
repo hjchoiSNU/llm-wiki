@@ -47,7 +47,7 @@ year: 2025
 - 전문가 정의 5개 클래스("on perch", "lifting", "grabbing", "at mouth", "on stage")를 기준으로 검증.
 - 전·측면 2뷰 × 768차원 = **1536차원** focused latent. 운동학 특징(위치·속도·면적)은 분류 품질을 크게 높이지 못했고, ablation은 **"focused ROI 추출"과 "visual latent" 둘 다 필요**함을 확인.
 - **weighted F1 = 0.9015**. 혼동은 주로 "lifting"↔"grabbing"↔"at mouth" 전이 구간(전문가 라벨링 변동성).
-- **신경 디코딩으로 객관 검증**: 감각운동피질 spiking 기반 2-layer GRU 디코더(36 trial). CASTLE 분류가 전문가 라벨보다 디코딩 정확도 **유의하게 우수** — "grabbing" R²=0.9193±0.0085 (수작업 f1 0.8459±0.0143), "at mouth" R²=0.9162±0.0080 vs 0.8770±0.0082 (모두 p<0.001).
+- **신경 디코딩으로 객관 검증**: 감각motor cortex spiking 기반 2-layer GRU 디코더(36 trial). CASTLE 분류가 전문가 라벨보다 디코딩 정확도 **유의하게 우수** — "grabbing" R²=0.9193±0.0085 (수작업 f1 0.8459±0.0143), "at mouth" R²=0.9162±0.0080 vs 0.8770±0.0082 (모두 p<0.001).
 - **신규 하위행동 발견**: 전문가가 놓친 **"food approaching mouth"**(grabbing→at mouth 전이 lift)와 **"food releasing at mouth"**(at mouth 이후)를 잠재공간이 뚜렷이 분리.
 
 ### 검증 2 — DeepLabCut 직접 비교 (앞발 추적)

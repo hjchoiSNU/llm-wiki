@@ -18,7 +18,7 @@ aliases: [Melissa Sharpe, Sharpe MJ, M.J. Sharpe]
 
 ### "Cognitive lateral hypothalamus"
 - **Sharpe 2024 Trends Cogn Sci** ("The cognitive (lateral) hypothalamus"): LH를 인지적 학습 회로로 재개념화하는 종설.
-- LH^GABA 뉴런은 cue–reward 학습에 필요하고 **보상에 가장 근접한 예측자** 학습을 촉진하되 간접/중립 예측자 학습은 **능동적으로 억제** → NAc·dorsal striatum과 분리되는 고유 기능(Sharpe et al. 2017 Curr Biol; Sharpe 2021 Nat Neurosci).
+- LH^GABA 뉴런은 cue–reward 학습에 필요하고 **보상에 가장 근접한 예측자** 학습을 촉진하되 간접/중립 예측자 학습은 **능동적으로 억제** → NAc·dorsal striatum와 분리되는 고유 기능(Sharpe et al. 2017 Curr Biol; Sharpe 2021 Nat Neurosci).
 - LH^GABA→VTA가 현재 보상 기대를 relay해 진행 중 학습을 조절(Sharpe 2017).
 
 ### 도파민 = 결과-특이적·model-based 학습 신호

@@ -11,41 +11,41 @@ updated: 2026-10-03
 # [연구계획서] DMH GLP-1R cognitive satiation의 인간 영상 검증
 
 ## 1. 연구 제목
-**GLP-1 수용체 작용제의 선행적(pre-ingestive) cognitive satiation을 매개하는 인간 시상하부(DMH·ARC) 회로의 7T 음식 cue fMRI 검증**
+**GLP-1 수용체 작용제의 선행적(pre-ingestive) cognitive satiation을 매개하는 인간 hypothalamus(DMH·ARC) 회로의 7T 음식 cue fMRI 검증**
 
 ## 2. 배경 및 필요성
 - 사용자 lab은 **DMH GLP-1R 뉴런이 음식 시각 cue만으로 활성→ARC AgRP 억제→식사 전 미리 satiation**을 유발함을 마우스에서 규명하고, 인간 RCT에서 **preingestive satiation index 상승**을 보였다([[kim-2024-glp-1-increases-preingestive-satiation|Kim et al. 2024, Science]]·[[park-2025-glucagon-like-peptide-1-and-hypothalamic]]·[[concept-dorsomedial-hypothalamus]]).
-- 그러나 **인간에서 이 회로의 직접 영상 증거는 부재** — 인간 RCT는 행동(satiation)만, 회로는 마우스에서만. 뇌 GLP-1R는 AP·NTS·DMH·ARC에 분산되며([[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[gao-2026-semaglutide-drives-weight-loss-through|AP 1차 표적]]), **인간에서 어느 시상하부 노드가 cognitive satiation을 매개하는지** 미해결.
+- 그러나 **인간에서 이 회로의 직접 영상 증거는 부재** — 인간 RCT는 행동(satiation)만, 회로는 마우스에서만. 뇌 GLP-1R는 AP·NTS·DMH·ARC에 분산되며([[kim-2025-mechanisms-of-glucagon-like-peptide]]·[[gao-2026-semaglutide-drives-weight-loss-through|AP 1차 표적]]), **인간에서 어느 hypothalamus 노드가 cognitive satiation을 매개하는지** 미해결.
 - 인간 atlas는 **POMC가 LepR+GLP1R 공발현**(마우스 분리)임을 보여([[littleton-2025-from-identity-to-function-unveiling]]) 인간 회로가 마우스와 다를 수 있음을 시사 — 인간 직접 검증이 필수.
 - **필요성**: GLP-1RA의 중추 작용점을 인간에서 확인하면 cognitive satiation 기반 약물·DTx 병용·반응자 예측의 근거가 된다.
 
 ## 3. 연구 가설
-> **GLP-1RA는 인간에서 음식 cue에 대한 시상하부(특히 DMH·ARC) 반응을 변화시켜 pre-ingestive cognitive satiation을 유발하며, 이 시상하부 BOLD 변화는 행동적 satiation index 및 섭취 감소와 상관한다.**
+> **GLP-1RA는 인간에서 음식 cue에 대한 hypothalamus(특히 DMH·ARC) 반응을 변화시켜 pre-ingestive cognitive satiation을 유발하며, 이 hypothalamus BOLD 변화는 행동적 satiation index 및 섭취 감소와 상관한다.**
 
 ## 4. 연구 목표 (Specific Aims)
 
-### Aim 1 — GLP-1RA × 음식 cue fMRI: 시상하부 반응 매핑 *(human RCT)*
+### Aim 1 — GLP-1RA × 음식 cue fMRI: hypothalamus 반응 매핑 *(human RCT)*
 - **설계**: GLP-1RA(예: liraglutide/semaglutide) vs placebo **교차(crossover) RCT**, lean vs obese([[bae-2019-glucagon-like-peptide-1-receptor]] 설계 확장).
-- **방법**: **7T 음식 cue fMRI**(고/저칼로리 cue, 비음식 대조)로 시상하부 반응 측정; pre-ingestive cognitive satiation 행동지표([[kim-2024-glp-1-increases-preingestive-satiation]] paradigm)·VAS·실제 섭취량 동시.
-- **성공지표**: GLP-1RA가 음식 cue 시상하부 반응을 유의 변화시키고, 변화량이 satiation index·섭취 감소와 상관.
+- **방법**: **7T 음식 cue fMRI**(고/저칼로리 cue, 비음식 대조)로 hypothalamus 반응 측정; pre-ingestive cognitive satiation 행동지표([[kim-2024-glp-1-increases-preingestive-satiation]] paradigm)·VAS·실제 섭취량 동시.
+- **성공지표**: GLP-1RA가 음식 cue hypothalamus 반응을 유의 변화시키고, 변화량이 satiation index·섭취 감소와 상관.
 
 ### Aim 2 — 회로 특이성: DMH vs ARC vs AP/NTS 분해 *(7T 고해상)*
-- **방법**: 7T 고해상으로 시상하부 아핵(DMH·ARC) 및 뇌간(AP/NTS) 분리; DMH↔ARC 기능적 연결성; cue-유발 cognitive satiation과 노드별 상관.
+- **방법**: 7T 고해상으로 hypothalamus 아핵(DMH·ARC) 및 brainstem(AP/NTS) 분리; DMH↔ARC 기능적 연결성; cue-유발 cognitive satiation과 노드별 상관.
 - **성공지표**: 마우스 유래 **DMH→ARC** 가설이 인간에서 재현되는지(또는 AP/NTS 우세 등 인간 특이 패턴 정량).
 
 ### Aim 3 — 교차종 정합 + atlas anchoring *(translation)*
-- **방법**: 인간 결과를 마우스 DMH GLP-1R 회로([[kim-2024-glp-1-increases-preingestive-satiation]])·인간 시상하부 atlas(POMC=LepR+GLP1R, [[littleton-2025-from-identity-to-function-unveiling]]·[[concept-hypomap]])와 대조; (선택) [[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]] GLP-1R 영상 다리.
+- **방법**: 인간 결과를 마우스 DMH GLP-1R 회로([[kim-2024-glp-1-increases-preingestive-satiation]])·인간 hypothalamus atlas(POMC=LepR+GLP1R, [[littleton-2025-from-identity-to-function-unveiling]]·[[concept-hypomap]])와 대조; (선택) [[ha-2024-hypothalamic-neuronal-activation-non-human|NHP]] GLP-1R 영상 다리.
 - **성공지표**: trans-species 정합으로 cognitive satiation 회로의 종간 보존/차이 규명.
 
 ## 5. 예상 결과 및 해석
-- 인간 cognitive satiation의 시상하부 회로 영상 증거 → 마우스→인간 loop 완결.
+- 인간 cognitive satiation의 hypothalamus 회로 영상 증거 → 마우스→인간 loop 완결.
 - DMH·ARC·AP/NTS 기여 분해 → GLP-1RA 중추 작용점의 인간 지도.
-- 반응자/비반응자 시상하부 signature → 정밀 처방 후보.
+- 반응자/비반응자 hypothalamus signature → 정밀 처방 후보.
 
 ## 6. 한계·위험 및 대응
 | 위험 | 근거 | 대응 |
 |---|---|---|
-| 시상하부 아핵 소형·심부 | [[concept-dorsomedial-hypothalamus]] | **7T** 고해상·아핵 atlas·고급 정합 |
+| hypothalamus 아핵 소형·심부 | [[concept-dorsomedial-hypothalamus]] | **7T** 고해상·아핵 atlas·고급 정합 |
 | GLP-1RA 말초 교란(오심·위배출) | [[concept-glp-1]] | 용량·시점 통제·오심 공변량·subgroup |
 | cognitive satiation 측정 신뢰도 | [[kim-2024-glp-1-increases-preingestive-satiation]] | 검증된 preingestive paradigm·반복 측정 |
 | 인간≠마우스 회로(POMC 공발현) | [[littleton-2025-from-identity-to-function-unveiling]] | atlas anchoring으로 차이 정량(가설로 수용) |
@@ -69,5 +69,5 @@ updated: 2026-10-03
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — AP 1차 표적(대비).
 - [[person-choi-hyung-jin]] — 연구책임자.
 - [[proposal-nmpu-human-translation]] · [[proposal-glp1ra-rebound-microbiota]] — 자매 과제.
-- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — DMH GLP-1R 효과의 **상류 교란 요인**: 세마글루타이드 반응 NTS Adcyap1⁺→DMH 투사가 단독으로 motivated feeding 억제·AgRP Fos 억제·EE↓를 만든다. 인간 영상 설계에서 DMH 신호가 **뇌간(DVC) 신호와 공변하는지**를 분리 가설로 둘 근거 (bioRxiv preprint 2026).
+- [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — DMH GLP-1R 효과의 **상류 교란 요인**: 세마글루타이드 반응 NTS Adcyap1⁺→DMH 투사가 단독으로 motivated feeding 억제·AgRP Fos 억제·EE↓를 만든다. 인간 영상 설계에서 DMH 신호가 **brainstem(DVC) 신호와 공변하는지**를 분리 가설로 둘 근거 (bioRxiv preprint 2026).
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — ★ **본 제안서의 방법론적 정당화와 반론을 한 논문에서 동시에 제공**(Neurol Ther 2025, McIntyre 그룹, 14편). 정당화: 인간에서 GLP-1RA의 중추 작용은 직접 측정이 없어 **'뇌 연결성 변화'를 대리지표로 쓰는 것이 문헌 종합 수준에서 통용된다**(심사자용 인용). 반론 선취: 연결성 변화는 **침투를 증명하지 않고**(간접 경로로도 바뀜) 저자들 자신이 **표적 engagement의 재현성이 미확립**이라고 적는다 → 1차 종점을 "침투 입증"이 아니라 **"표적 engagement의 재현성"** 으로 적는 것이 방어적이다. [[bae-2019-glucagon-like-peptide-1-receptor|Bae 2019]]의 lean/obese **반대 방향** 결과가 그 유보의 실제 사례. 전문 대조 결과(2026-10-04): 리뷰는 Bae 2019를 ref #20으로 직접 인용하고, 인간 영상 근거 세 건 중 **연결성**을 직접 잰 것은 Watson 2019(liraglutide, DMN) 한 편이며 나머지 둘은 음식 자극 **활성** fMRI다. ⚠️ 리뷰의 초록("liraglutide·semaglutide·exenatide가 BBB 통과")은 본문 데이터(liraglutide·semaglutide 유입 미측정)와 엇갈리므로 제안서에 인용할 때는 본문 수치를 쓸 것.

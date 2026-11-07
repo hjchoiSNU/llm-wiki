@@ -9,12 +9,12 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **측좌핵(NAc)의 D1/D2 중간가시뉴런이 정반대 방향으로 편도체 아세틸콜린을 조절해 '현저성(salience)'을 조율한다.** D1-MSN은 기저전뇌(SI) 콜린성 뉴런을 **탈억제**해 BLA ACh↑(현저성·연합학습 촉진), D2-MSN은 **직접 억제**해 BLA ACh↓(학습 지연). 사용자에게 의미: ①NAc(reward hub)가 **valence가 아닌 salience**를 별도 신호로 broadcast하는 출력 회로를 제시 — [[concept-need-motivation-pleasure-utility|NMPU]]에서 cue·현저성 처리의 새 축, ②[[concept-dopamine-reward-system|도파민]] 외에 **콜린성(ACh)** 이 BLA 가치학습의 또 다른 modulator, ③D1/D2 분업이 연합학습 속도를 양방향 제어 → cue 기반 식이 학습(DTx·neuromodulation) 표적 후보.
+> **nucleus accumbens(NAc)의 D1/D2 medium spiny neuron가 정반대 방향으로 amygdala 아세틸콜린을 조절해 '현저성(salience)'을 조율한다.** D1-MSN은 basal forebrain(SI) 콜린성 뉴런을 **탈억제**해 BLA ACh↑(현저성·연합학습 촉진), D2-MSN은 **직접 억제**해 BLA ACh↓(학습 지연). 사용자에게 의미: ①NAc(reward hub)가 **valence가 아닌 salience**를 별도 신호로 broadcast하는 출력 회로를 제시 — [[concept-need-motivation-pleasure-utility|NMPU]]에서 cue·현저성 처리의 새 축, ②[[concept-dopamine-reward-system|도파민]] 외에 **콜린성(ACh)** 이 BLA 가치학습의 또 다른 modulator, ③D1/D2 분업이 연합학습 속도를 양방향 제어 → cue 기반 식이 학습(DTx·neuromodulation) 표적 후보.
 
 # Striatal control of amygdalar acetylcholine release during salience-associated processing (Chen 2026)
 
 ## 한 줄 요약
-[[concept-basolateral-amygdala|기저외측편도체(BLA)]]의 **아세틸콜린(ACh)** 은 자극의 **현저성(salience, valence-free)** 을 동적으로 표상한다. [[concept-nucleus-accumbens|측좌핵(NAc)]]의 **D1-MSN은 ACh 방출을 촉진, D2-MSN은 억제**하며(BLA 한정, 피질·해마는 아님), 이는 기저전뇌 **무명질(substantia innominata, SI)** 콜린성 뉴런을 각각 **탈억제/직접 억제**함으로써 이뤄진다. 폐루프 광유전으로 NAc→SI 경로를 조작하면 연합학습이 양방향으로 촉진/저해된다. (Nat Neurosci 2026, Xiao·Deng·Xu lab; doi 10.1038/s41593-026-02353-6)
+[[concept-basolateral-amygdala|basolateral amygdala(BLA)]]의 **아세틸콜린(ACh)** 은 자극의 **현저성(salience, valence-free)** 을 동적으로 표상한다. [[concept-nucleus-accumbens|nucleus accumbens(NAc)]]의 **D1-MSN은 ACh 방출을 촉진, D2-MSN은 억제**하며(BLA 한정, cortex·hippocampus는 아님), 이는 basal forebrain **substantia innominata(SI)** 콜린성 뉴런을 각각 **탈억제/직접 억제**함으로써 이뤄진다. 폐루프 광유전으로 NAc→SI 경로를 조작하면 연합학습이 양방향으로 촉진/저해된다. (Nat Neurosci 2026, Xiao·Deng·Xu lab; doi 10.1038/s41593-026-02353-6)
 
 ## 핵심 내용
 
@@ -24,7 +24,7 @@ year: 2026
 - 소비(licking)·구강안면 운동으로는 거의 설명 안 됨(GLM) → 운동 confound 아님.
 
 ### NAc D1/D2 → SI ChAT → BLA ACh 회로
-- **D1-MSN 활성 → BLA ACh↑**, **D2-MSN 활성 → BLA ACh↓** (laser 시간에 비례). **BLA에 특이적**(mPFC·청각피질·CA1은 즉각 변화 없음).
+- **D1-MSN 활성 → BLA ACh↑**, **D2-MSN 활성 → BLA ACh↓** (laser 시간에 비례). **BLA에 특이적**(mPFC·청각cortex·CA1은 즉각 변화 없음).
 - 기전: NAc D1/D2 모두 GABA성이나 SI에서 표적이 다름.
   - **D1-MSN → SI 국소 GABA 뉴런을 억제 → ChAT 탈억제**(disinhibition) → ACh↑.
   - **D2-MSN → SI ChAT 뉴런을 직접 억제** → ACh↓ (시냅스·rabies·in situ·slice oIPSC로 확증; rabies 표지 입력의 다수가 Drd2⁺).

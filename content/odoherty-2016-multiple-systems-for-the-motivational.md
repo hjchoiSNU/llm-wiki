@@ -10,7 +10,7 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 인간 fMRI로 **동기 행동이 세 의사결정 시스템 — goal-directed(목표지향)·habitual(습관)·Pavlovian — 의 병렬·상호작용으로 통제**됨을 정리. 핵심 사용자 시사점: ① **PIT(Pavlovian-to-instrumental transfer)**가 인간 선조체·편도 하위구역에서 general/specific으로 분리(가치 없는 결과도 cue가 동기 유발 → 과식·중독의 "원하지 않는데 추구"), ② **arbitration(중재자, vlPFC·frontopolar)**이 예측 신뢰도·인지노력으로 시스템 간 통제권을 배분, ③ **vmPFC가 goal-value·chosen-value·RPE를 부호화**. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]]의 인간 번역(goal/habit/Pavlovian 분해)과 [[concept-orbitofrontal-cortex|OFC/vmPFC]] 가치회로 연구의 직접 틀. "computational psychiatry"로 강박·중독 분류.
+> 인간 fMRI로 **동기 행동이 세 의사결정 시스템 — goal-directed(목표지향)·habitual(습관)·Pavlovian — 의 병렬·상호작용으로 통제**됨을 정리. 핵심 사용자 시사점: ① **PIT(Pavlovian-to-instrumental transfer)**가 인간 striatum·amygdala 하위구역에서 general/specific으로 분리(가치 없는 결과도 cue가 동기 유발 → 과식·중독의 "원하지 않는데 추구"), ② **arbitration(중재자, vlPFC·frontopolar)**이 예측 신뢰도·인지노력으로 시스템 간 통제권을 배분, ③ **vmPFC가 goal-value·chosen-value·RPE를 부호화**. 사용자 [[concept-need-motivation-pleasure-utility|NMPU]]의 인간 번역(goal/habit/Pavlovian 분해)과 [[concept-orbitofrontal-cortex|OFC/vmPFC]] 가치회로 연구의 직접 틀. "computational psychiatry"로 강박·중독 분류.
 
 # Multiple Systems for the Motivational Control of Behavior in Humans (O'Doherty 2016)
 
@@ -21,8 +21,8 @@ journal: "Behavioral Neuroscience of Motivation (Curr Top Behav Neurosci 27), Ch
 
 ### 세 의사결정 시스템
 - **Goal-directed(목표지향)** (Fig 2): action–outcome contingency + outcome value를 통합해 action-value 계산 → 결과 가치 절하(devaluation)에 민감. **vmPFC**가 relative goal-value·outcome value·chosen value·RPE 부호화; world "model" 사용.
-- **Habitual(습관)**: stimulus–response 연합, 결과 가치와 무관(devaluation에 둔감) → **결과가 더 이상 가치 없어도 활발히 추구**(중독·강박의 역설). 인간에서 **후측 putamen·premotor cortex**(설치류 dorsolateral striatum 상동).
-- **Pavlovian**: action 학습이 아니라 stimulus–outcome 통계로 반사적 접근·회피·준비반응. 편도·복측선조체·OFC.
+- **Habitual(습관)**: stimulus–response 연합, 결과 가치와 무관(devaluation에 둔감) → **결과가 더 이상 가치 없어도 활발히 추구**(중독·강박의 역설). 인간에서 **posterior putamen·premotor cortex**(설치류 dorsolateral striatum 상동).
+- **Pavlovian**: action 학습이 아니라 stimulus–outcome 통계로 반사적 접근·회피·준비반응. amygdala·ventral striatum·OFC.
 
 ### PIT — Pavlovian이 도구적 동기를 변조 ★
 - **general PIT**: 보상 예측 cue가 무관한 결과의 도구적 반응까지 활력↑ → 인간 **NAc proper·centromedial amygdala**.

@@ -11,18 +11,18 @@ aliases: [dLS GLP-1R, dLS-GLP-1R to LHA, septo-hypothalamic feeding, Lu 2024]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **위키가 "LS^Glp1r = GLP-1RA의 변연계 작용점 후보"로 세 좌표계에서 수렴시켜 놓았던 가설이, 드디어 세포형·투사 특이 인과 조작 + 시냅스 수준 약리로 직접 검증됐다.** `Glp1r-ires-Cre` 마우스에서 **dLS^GLP-1R → LHA** 축은 **GABA성 단시냅스 억제**이고(oIPSC 5/8 LHA 뉴런, TTX 차단 → 4-AP 회복, picrotoxin 차단), 이 경로를 **끄면 섭취가 늘고**(dark·light·금식 후 재급식 전부), **투사 특이로 켜면 금식 후 재급식만 줄고**(F(1,50)=11.01, p=0.0017), **LHA 내 종말을 광자극하면 즉각 섭취가 억제**된다. 불안·운동은 전혀 바뀌지 않는다(open field·light-dark·EPM 전부 ns).
-> ① **GLP-1RA 작용 기전의 "시냅스 좌표"** — exendin-4가 **dLS^GLP-1R→LHA 억제 시냅스의 oIPSC를 키우고 PPR을 낮춘다**(IPSC t(10)=2.312, p=0.0461; PPR t(10)=3.135, p=0.0120). 즉 GLP-1R 작용이 세포체 흥분성만 바꾸는 게 아니라 **시냅스 전 GABA 방출 확률을 올려 LH engine을 더 세게 누른다**는 그림이다. 사용자 lab의 [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]](DMH GLP-1R→AgRP 식전 포만)가 시상하부 내부 채널이라면, 이쪽은 **변연계→LH 하행 채널**로 병렬 배치된다. → [[concept-glp-1]]
+> **위키가 "LS^Glp1r = GLP-1RA의 limbic system 작용점 후보"로 세 좌표계에서 수렴시켜 놓았던 가설이, 드디어 세포형·투사 특이 인과 조작 + 시냅스 수준 약리로 직접 검증됐다.** `Glp1r-ires-Cre` 마우스에서 **dLS^GLP-1R → LHA** 축은 **GABA성 단시냅스 억제**이고(oIPSC 5/8 LHA 뉴런, TTX 차단 → 4-AP 회복, picrotoxin 차단), 이 경로를 **끄면 섭취가 늘고**(dark·light·금식 후 재급식 전부), **투사 특이로 켜면 금식 후 재급식만 줄고**(F(1,50)=11.01, p=0.0017), **LHA 내 종말을 광자극하면 즉각 섭취가 억제**된다. 불안·운동은 전혀 바뀌지 않는다(open field·light-dark·EPM 전부 ns).
+> ① **GLP-1RA 작용 기전의 "시냅스 좌표"** — exendin-4가 **dLS^GLP-1R→LHA 억제 시냅스의 oIPSC를 키우고 PPR을 낮춘다**(IPSC t(10)=2.312, p=0.0461; PPR t(10)=3.135, p=0.0120). 즉 GLP-1R 작용이 세포체 흥분성만 바꾸는 게 아니라 **시냅스 전 GABA 방출 확률을 올려 LH engine을 더 세게 누른다**는 그림이다. 사용자 lab의 [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]](DMH GLP-1R→AgRP 식전 포만)가 hypothalamus 내부 채널이라면, 이쪽은 **limbic system→LH 하행 채널**로 병렬 배치된다. → [[concept-glp-1]]
 > ② **[[kim-2024-unified-theoretical-framework-underlying-regulation|NMPU]]에서 "상태 의존 브레이크"의 비대칭** — 억제는 **모든 상태에서** 섭취를 늘리는데(기저 brake tone이 상시 작동), 투사 특이 활성화는 **금식 후에만** 효과가 있다. "brake를 떼면 언제든 더 먹고, brake를 더 밟는 것은 Need가 높을 때만 측정 가능하다"는 **Need-gated gain** 구조로 읽을 수 있다(연결 가설).
-> ③ **사용자 lab의 LH 세포형과 직접 맞물리는 미검증 칸** — 저자들은 하류 표적을 **LHA^Vgat로 추정만** 했다. [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]](seeking/consummatory 2 subset)이 이 억제를 받는지는 완전히 비어 있고, [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]] 리뷰의 LH 입력 지도에 **변연계 GLP-1R 채널**을 추가할 자리다.
+> ③ **사용자 lab의 LH 세포형과 직접 맞물리는 미검증 칸** — 저자들은 하류 표적을 **LHA^Vgat로 추정만** 했다. [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]](seeking/consummatory 2 subset)이 이 억제를 받는지는 완전히 비어 있고, [[cheon-2025-lateral-hypothalamus-and-eating-cell|Cheon 2025]] 리뷰의 LH 입력 지도에 **limbic system GLP-1R 채널**을 추가할 자리다.
 > ④ **방법론적 교훈** — 세포체 활성화(hM3Dq)는 **아무 효과가 없었다**. 같은 집단 안의 **collateral 억제**(ChR2 자극 시 인접 EYFP⁻ dLS 뉴런 6/11에서 PTX 민감 IPSC) 때문이라는 해석. LS 문헌의 방향 불일치를 설명하는 구조적 이유이며, **LS 조작은 투사 특이로 해야 한다**는 일반 규칙을 준다. ⚠️ 이는 [[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]](LS^Nts 세포체 활성화 → 섭취↓)과 직접 충돌한다.
 
-# dLS^GLP-1R → LHA: septo-hypothalamic 섭식 브레이크 (Lu et al. 2024)
+# DLS^GLP-1R → LHA: septo-hypothalamic 섭식 브레이크 (Lu et al. 2024)
 
 ⚠️ **bioRxiv preprint (2024-03-27 posted), 이 버전은 peer review 미통과.** 같은 제목으로 **Molecular Metabolism 85:101960 (2024-05)** 에 정식 출판됐으므로, 최종판 수치·그림 번호는 다를 수 있다.
 
 - **소속**: Rutgers Robert Wood Johnson Medical School, **Child Health Institute of New Jersey** (+ Brain Health Institute). 교신 **Mark A. Rossi** (Mark.Rossi@rutgers.edu) · **Zhiping P. Pang** (Zhiping.Pang@rutgers.edu).
-- **lab 맥락**: Rossi는 위키의 [[rossi-2023-control-of-energy-homeostasis|LHA 리뷰]]·[[rossi-2019-obesity-remodels-activity-and|Rossi 2019 Science]]·[[rossi-2021-transcriptional-and-functional-divergence|Rossi 2021 Neuron]] 저자(Stuber lab 출신)로, **LHA 쪽 전문성이 상류 LS로 확장된 논문**이다. Pang lab은 선행 연구에서 **MCH가 해마→dLS 활동을 조절**함(Liu, Tsien & Pang 2022 Nat Neurosci)과 **dLS 내 강한 collateral 억제**를 보고했고, 본 논문의 핵심 해석(collateral inhibition)이 거기서 온다.
+- **lab 맥락**: Rossi는 위키의 [[rossi-2023-control-of-energy-homeostasis|LHA 리뷰]]·[[rossi-2019-obesity-remodels-activity-and|Rossi 2019 Science]]·[[rossi-2021-transcriptional-and-functional-divergence|Rossi 2021 Neuron]] 저자(Stuber lab 출신)로, **LHA 쪽 전문성이 상류 LS로 확장된 논문**이다. Pang lab은 선행 연구에서 **MCH가 hippocampus→dLS 활동을 조절**함(Liu, Tsien & Pang 2022 Nat Neurosci)과 **dLS 내 강한 collateral 억제**를 보고했고, 본 논문의 핵심 해석(collateral inhibition)이 거기서 온다.
 - **동물·수술**: `Glp1r-ires-Cre`, `Glp1r-ires-Cre:Ai14` **수컷** 6–8주. dLS 좌표 AP +0.5 / ML ±0.45 / DV −2.7 mm, LHA 좌표 AP −1.2 / ML ±1 / DV −5.1 mm. AAV 0.1–0.2 μl, 발현 3주, 개별 사육 3주 + 5일 handling.
 - **약물·자극**: CNO **1 mg/kg i.p.**(섭취 측정 시점 0.5·1·2·3 h — **암기 실험만 "주사 30분 후부터" 시작**이고, 명기·금식 후 재급식은 주사 시점 기준; saline 1일 washout, CNO 6일 washout, 측정자 blind). Opto: **473 nm, 10 ms, 25 pulses/s, 1.5 s 주기, 1.8 mW, 20 min**(밤새 0.5 g만 급여한 경도 결핍 상태, 4일 적응 후). 슬라이스: CNO 10 μM 욕조 투여, 5 mV 이상 변화만 유효 반응으로 집계.
 - **펀딩**: NIMH RF1MH120144, NIDDK R01DK131452 (Pang) / NIDDK R01136641, R00DK121883 (Rossi).
@@ -79,20 +79,20 @@ dLS의 **GLP-1R 발현 뉴런**은 **LHA로 GABA성 단시냅스 억제**를 보
   - 통상적 해석으로 **PPR 감소 = 시냅스 전 방출 확률 상승**이다. ⚠️ 그런데 **Discussion에서는 "decrease the presynaptic release probability"로 적혀 있어 Results(PPR↓ → 방출 확률↑)와 어긋난다** — preprint 내부 불일치로 보이며, 정식 출판판에서 교정됐을 가능성이 있다. 위키에서는 **"IPSC↑ + PPR↓ = 시냅스 전 기전"** 이라는 사실만 확정으로 쓰고 방향 해석은 병기한다.
 
 ### Discussion 요점
-- LS→시상(thalamus) 경로는 불안을 양방향으로 조절한다고 보고돼 왔으나, **dLS^GLP-1R→LHA는 섭식에 선택적**이다.
+- LS→thalamus 경로는 불안을 양방향으로 조절한다고 보고돼 왔으나, **dLS^GLP-1R→LHA는 섭식에 선택적**이다.
 - 하류 표적은 **LHA^Vgat로 추정**(저자 speculation). 논거: LHA GABA 뉴런은 food seeking·섭취·양성 에너지균형을 촉진하므로([[rossi-2023-control-of-energy-homeostasis|Rossi 2023]]), **dLS 억제 → LHA^Vgat 탈억제 → 섭취↑**라는 부호가 맞는다. **직접 검증은 안 했다.**
 - **저자가 미해결로 명시한 것은 두 가지뿐**: ① dLS 국소 억제 미세회로의 구조·기능, ② LHA 하류 세포 정체. (③ 체중·만성 효과를 측정하지 않은 점, ④ 전부 수컷 6–8주인 점은 **원문이 한계로 적지 않았고**, 본 위키의 지적이다.)
 - 선행 약리와의 연결: LS 내 GLP-1 주입이 섭취를 줄인다(Terrill 2016 AJP·2019 Physiol Behav), septal GLP-1R은 cocaine 유발 행동 억제를 결정한다(Harasta 2015 Neuropsychopharmacology).
 
 ## 사용자 연구 관점의 함의 (연결 가설 — 원문 주장 아님)
-- **GLP-1RA 기전의 "시냅스 전 gain" 가설**: Ex-4가 dLS^GLP-1R→LHA GABA 방출을 강화한다면, GLP-1RA의 섭식 억제 일부는 **수용체 발현 뉴런의 발화 변화가 아니라 하행 억제 시냅스의 이득 상승**으로 구현된다. 사용자 lab [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]]의 **DMH GLP-1R→AgRP 식전 포만**과 층위가 다른(세포체 vs 시냅스) 병렬 기전이며, [[concept-glp1ra-response-variability|GLP-1RA 반응 변이]]의 후보 변수로 **변연계 시냅스 가소성**을 넣을 수 있다.
+- **GLP-1RA 기전의 "시냅스 전 gain" 가설**: Ex-4가 dLS^GLP-1R→LHA GABA 방출을 강화한다면, GLP-1RA의 섭식 억제 일부는 **수용체 발현 뉴런의 발화 변화가 아니라 하행 억제 시냅스의 이득 상승**으로 구현된다. 사용자 lab [[kim-2024-glp-1-increases-preingestive-satiation|Kim 2024 Science]]의 **DMH GLP-1R→AgRP 식전 포만**과 층위가 다른(세포체 vs 시냅스) 병렬 기전이며, [[concept-glp1ra-response-variability|GLP-1RA 반응 변이]]의 후보 변수로 **limbic system 시냅스 가소성**을 넣을 수 있다.
 - **NMPU 매핑**: dLS^GLP-1R→LHA는 **Motivation engine(LHA)에 걸린 top-down tonic brake**. 억제는 상태 무관하게 섭취를 늘리고(brake 상시 작동), 활성화는 **금식 후에만** 섭취를 줄인다(Fig 5F) → **brake의 효과 크기가 Need에 비례**하는 곱셈 구조일 수 있다. 검증 설계: 금식 × 자극의 2×2에서 효과의 **상호작용항**을 본다(원문은 조건별 별개 실험이라 상호작용을 판정할 수 없다).
-- **LH^LepR과의 접점(가장 비어 있는 칸)**: [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]의 LH^LepR seeking/consummatory subset이 dLS^GLP-1R 억제를 받는지. 받는다면 "변연계 GLP-1R → LH^LepR seeking 억제"라는 경로가 생기고, 사용자 lab의 LH 축에 GLP-1RA 작용점이 직접 연결된다. 받지 않는다면 LHA^Vgat 안에서 **GLP-1RA 민감 subset이 분리**된다는 뜻이다.
+- **LH^LepR과의 접점(가장 비어 있는 칸)**: [[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]]의 LH^LepR seeking/consummatory subset이 dLS^GLP-1R 억제를 받는지. 받는다면 "limbic system GLP-1R → LH^LepR seeking 억제"라는 경로가 생기고, 사용자 lab의 LH 축에 GLP-1RA 작용점이 직접 연결된다. 받지 않는다면 LHA^Vgat 안에서 **GLP-1RA 민감 subset이 분리**된다는 뜻이다.
 - **Collateral 억제의 일반 교훈**: LS처럼 GABA 뉴런이 >90%인 구조에서 **세포체 활성화의 null은 "기능 없음"이 아니다**. 사용자 lab이 LH·DMH 등에서 세포형 활성화를 설계할 때도, **투사 특이 조작과 종말 광자극을 쌍으로** 두는 것이 음성 결과 해석의 안전장치가 된다.
-- **임상 번역 질문**: 인간 septum의 GLP-1R이 semaglutide/tirzepatide 반응의 변연계 성분(음식 cue 반응·식이 억제)에 기여하는가. 본 논문은 마우스 급성 섭취만 다루고 **체중·만성 효과를 측정하지 않았다** — [[cao-2024-hunting-for-heroes-brain|Cao 2024]]가 지적한 "급성 섭식 ≠ 만성 체중" 간극이 그대로 남는다.
+- **임상 번역 질문**: 인간 septum의 GLP-1R이 semaglutide/tirzepatide 반응의 limbic system 성분(음식 cue 반응·식이 억제)에 기여하는가. 본 논문은 마우스 급성 섭취만 다루고 **체중·만성 효과를 측정하지 않았다** — [[cao-2024-hunting-for-heroes-brain|Cao 2024]]가 지적한 "급성 섭식 ≠ 만성 체중" 간극이 그대로 남는다.
 
 ## ⚠️ 위키 내 충돌·긴장
-- **[[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]과 정면 충돌 — 세포체 활성화의 성패**: Azevedo는 **LS^Nts 세포체 화학유전 활성화만으로 섭취·체중이 감소**했다고 보고하고, 그 LS^Nts의 **70%가 `Glp1r`⁺**다. 본 논문은 **dLS^GLP-1R 세포체 활성화가 아무 효과도 없다**고 보고한다(Fig 2). 가능한 화해: ① `Nts`⁺ 아집단은 `Glp1r`⁺ 전체의 일부이고, 전체를 켜면 **아집단 간 상호 억제**로 상쇄된다, ② dLS(등쪽) vs LS 전체의 범위 차이, ③ DREADD 효능·발현량 차이. **어느 쪽도 검증되지 않았으므로 병기한다.** 두 논문이 공유하는 사실은 **LS 내 exendin-4/GLP-1R 작용이 섭취를 줄인다**는 방향이다.
+- **[[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]과 정면 충돌 — 세포체 활성화의 성패**: Azevedo는 **LS^Nts 세포체 화학유전 활성화만으로 섭취·체중이 감소**했다고 보고하고, 그 LS^Nts의 **70%가 `Glp1r`⁺**다. 본 논문은 **dLS^GLP-1R 세포체 활성화가 아무 효과도 없다**고 보고한다(Fig 2). 가능한 화해: ① `Nts`⁺ 아집단은 `Glp1r`⁺ 전체의 일부이고, 전체를 켜면 **아집단 간 상호 억제**로 상쇄된다, ② dLS(dorsal) vs LS 전체의 범위 차이, ③ DREADD 효능·발현량 차이. **어느 쪽도 검증되지 않았으므로 병기한다.** 두 논문이 공유하는 사실은 **LS 내 exendin-4/GLP-1R 작용이 섭취를 줄인다**는 방향이다.
 - **[[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral|Goode 2026]]과 수렴 + 세 가지 긴장**: 둘 다 **LS→LHA 단시냅스 GABA 억제**이고 **억제 → 섭취↑ / 활성 → 섭취↓** 부호가 같다. 긴장은 ① Goode의 DLS^Pdyn 집단은 **`Glp1r`와 공발현**이 보고돼 **같은 세포를 다른 마커로 자른 것일 가능성**이 있는데 중첩률은 미측정, ② Goode의 표적은 **LHA^Vgat로 직접 확정**됐으나 본 논문은 **추정만** 했다, ③ Goode의 활성화는 **RTPP 회피(음성 정동)** 를 동반하는데 본 논문은 불안 지표 불변 + 장소선호 **미시험**이다. "맥락 게이팅(Goode) vs 총 섭취량(본 논문)"의 표현형 차이도 같은 세포를 가정하면 설명이 필요하다.
 - **[[bhatti-mazo-2026-feature-specific-threat-coding-in|Bhatti Mazo 2026]]과 집단 규모 불일치**: snRNA-seq에서 **LS^Glp1r는 LS^Crhr2의 8.4%** 로 독립 아형이다. 본 논문의 `Glp1r-ires-Cre:Ai14`에서는 tdTomato⁺ 세포가 **"dLS 전역에 고르게 분포"** 한다고 서술된다. Cre 계통의 **누적·발달기 발현**이 전사체 기준 집단보다 넓게 표지할 가능성이 크다 — **"dLS^GLP-1R"이 전사체 아형과 같은 집단인지 불명**. ⚠️ 또한 Bhatti Mazo에서 `Glp1r` 아형은 **행동 개시 표상 1위**였는데, 본 논문은 섭식만 측정하고 위협·회피 과제를 시험하지 않았다.
 - **[[kim-2025-mechanisms-of-glucagon-like-peptide|Kim 2025]] 리뷰의 "LS GLP-1R 활성 → feeding↓" 서술**: 본 논문은 **세포체 활성화로는 그 효과가 재현되지 않고**(ns), **투사 특이 활성화 + 금식 조건**에서만, 또는 **LHA 종말 광자극**에서만 나타난다. 리뷰의 요약 문장은 **조작 범위·상태 조건을 명시해 다시 써야 한다**(병기).
@@ -111,13 +111,13 @@ dLS의 **GLP-1R 발현 뉴런**은 **LHA로 GABA성 단시냅스 억제**를 보
 - [[kim-2025-mechanisms-of-glucagon-like-peptide]] · [[park-2025-glucagon-like-peptide-1-and-hypothalamic]] — 뇌 GLP-1R 부위별 지도에서 LS 칸을 회로 수준으로 채움.
 - [[rossi-2023-control-of-energy-homeostasis]] — 본 논문이 하류 표적 추정의 근거로 삼은 LHA 세포형 taxonomy(교신저자 본인 리뷰).
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Ex-4가 LH^Vgat cue·섭취 반응을 약화시킨 기전 후보로 **GLP-1R 뉴런→LH 억제**를 지목. 서로의 빈 칸을 메우는 쌍.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^Vgat/Vglut 균형이 선조체 DA 지형을 정함. 하행 억제가 어느 ensemble에 걸리는지가 다음 질문.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LHA^Vgat/Vglut 균형이 striatum DA 지형을 정함. 하행 억제가 어느 ensemble에 걸리는지가 다음 질문.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab LH^LepR seeking/consummatory subset. dLS^GLP-1R 억제의 하류 후보(미검증).
-- [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰. LH 입력 지도에 변연계 GLP-1R 채널 추가.
-- [[kim-2024-glp-1-increases-preingestive-satiation]] — DMH GLP-1R→AgRP 식전 포만. 같은 약물의 시상하부 내부 채널(병렬 배치).
+- [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — 사용자 lab LH 리뷰. LH 입력 지도에 limbic system GLP-1R 채널 추가.
+- [[kim-2024-glp-1-increases-preingestive-satiation]] — DMH GLP-1R→AgRP 식전 포만. 같은 약물의 hypothalamus 내부 채널(병렬 배치).
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[concept-need-motivation-pleasure-utility]] — Need-gated brake 가설(억제는 상태 무관, 활성화는 금식 후만).
-- [[gruzdeva-2026-hunger-neurons-track-available-food]] — 해마→LS→LH→DMH→AgRP 가설. LS→LH 구간의 세 번째 분자 채널 보강.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — hippocampus→LS→LH→DMH→AgRP 가설. LS→LH 구간의 세 번째 분자 채널 보강.
 - [[duran-2026-the-central-amygdala-gates]] · [[johansen-2025-brain-control-of-energy]] — "LS GLP-1R 역할 불명"으로 남겼던 공백의 회로 쪽 답.
-- [[concept-glp1ra-response-variability]] — 변연계 시냅스 가소성을 반응 변이 후보 변수로.
+- [[concept-glp1ra-response-variability]] — limbic system 시냅스 가소성을 반응 변이 후보 변수로.
 - [[rossi-2019-obesity-remodels-activity-and]] · [[rossi-2021-transcriptional-and-functional-divergence]] — 교신저자 Rossi의 LHA 단일세포 계열. 상류 LS로의 확장.
 - [[liu-2023-an-iterative-neural-processing]] — LH^GABA = 섭식 조각 개시. 본 논문의 dLS^GLP-1R→LHA GABA 억제가 그 개시를 누르는 상류 후보이고(Liu가 든 "septum GABA→LH^GABA 개시 억제"의 분자 채널), GLP-1RA가 preparation phase를 깎는다는 예측과 맞물린다(Neuron 2023).

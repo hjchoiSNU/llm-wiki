@@ -14,7 +14,7 @@ year: 2016
 # Campos 2016 — Parabrachial CGRP Neurons Control Meal Termination
 
 ## 한 줄 요약
-외측 팔곁핵(PBel)의 **CGRP 뉴런**이 CCK·GLP-1·leptin 같은 meal-related 포만신호를 통합해 **개별 식사를 종료(satiation)**시키는 생리적 회로임을 loss-/gain-of-function으로 입증하고, 상류의 orexigenic **AgRP→PBel 억제 투사**가 이 뉴런을 꺼서 satiation을 지연시킴을 보인 연구(Cell Metab 2016, Campos & Palmiter).
+lateral parabrachial nucleus(PBel)의 **CGRP 뉴런**이 CCK·GLP-1·leptin 같은 meal-related 포만신호를 통합해 **개별 식사를 종료(satiation)**시키는 생리적 회로임을 loss-/gain-of-function으로 입증하고, 상류의 orexigenic **AgRP→PBel 억제 투사**가 이 뉴런을 꺼서 satiation을 지연시킴을 보인 연구(Cell Metab 2016, Campos & Palmiter).
 
 ## 핵심 내용
 

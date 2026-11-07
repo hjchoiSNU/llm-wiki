@@ -10,7 +10,7 @@ journal: Nature Communications
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **스트레스가 인간 [[concept-bed-nucleus-stria-terminalis|BNST]](분계선조 침상핵)–보상/내수용 회로의 effective connectivity를 하향조절**한다는 첫 7T fMRI+DCM 증거(⚠️ DCM의 "causal"은 **생성모형 기반 방향성 추정**이며 개입 실험이 아니다 — 저자도 "inferring effective connectivity", "단순 기능적 연결성보다 반드시 우월하지는 않다"고 명시). 음료 cue·맛 수용을 스캐너 안 gustometer로 주며, 고스트레스 cue가 **BNST→[[concept-nucleus-accumbens|NAc]]·[[concept-orbitofrontal-cortex|OFC]]·dorsal mid-[[concept-insula|insula]]** 출력을 모두 ↓, 맛 수용은 **dmINS→BNST**를 ↓. 특히 **BNST→OFC 하향조절 강도가 주관적 스트레스 변화를 예측**(leave-one-out 교차검증). 사용자의 **stress eating·식품 불안정([[concept-food-insecurity]])·[[concept-interoception|내수용감각]]·인간 보상 회로 번역** 관심과 직결되며, BNST를 stress-reward 허브로 인간에서 매핑한 도구(7T DCM)가 사용자 lab의 인간 회로 연구에 그대로 이식 가능.
+> **스트레스가 인간 [[concept-bed-nucleus-stria-terminalis|BNST]](bed nucleus of the stria terminalis)–보상/내수용 회로의 effective connectivity를 하향조절**한다는 첫 7T fMRI+DCM 증거(⚠️ DCM의 "causal"은 **생성모형 기반 방향성 추정**이며 개입 실험이 아니다 — 저자도 "inferring effective connectivity", "단순 기능적 연결성보다 반드시 우월하지는 않다"고 명시). 음료 cue·맛 수용을 스캐너 안 gustometer로 주며, 고스트레스 cue가 **BNST→[[concept-nucleus-accumbens|NAc]]·[[concept-orbitofrontal-cortex|OFC]]·dorsal mid-[[concept-insula|insula]]** 출력을 모두 ↓, 맛 수용은 **dmINS→BNST**를 ↓. 특히 **BNST→OFC 하향조절 강도가 주관적 스트레스 변화를 예측**(leave-one-out 교차검증). 사용자의 **stress eating·식품 불안정([[concept-food-insecurity]])·[[concept-interoception|내수용감각]]·인간 보상 회로 번역** 관심과 직결되며, BNST를 stress-reward 허브로 인간에서 매핑한 도구(7T DCM)가 사용자 lab의 인간 회로 연구에 그대로 이식 가능.
 
 # Bed nucleus of the stria terminalis connectivity during food cue and taste processing under stress
 
@@ -19,7 +19,7 @@ journal: Nature Communications
 
 ## 배경
 - 스트레스는 종을 막론하고 food-seeking·기호식 과식을 유발하고 binge eating·비만과 연관. 스트레스 뇌는 "먹으려는 욕구↑ + 섭식 억제↓"로 편향되며 이는 보상 food cue 존재 시 촉발.
-- [[concept-bed-nucleus-stria-terminalis|BNST]]는 **stress 회로와 reward 회로를 잇는 확장편도(extended amygdala) 허브**. 편도·[[concept-lateral-hypothalamus|외측시상하부]]·선조체·[[concept-insula|섬엽]]·[[concept-orbitofrontal-cortex|OFC]]와 연결. 마우스에서 **BNST→LH GABAergic(억제) 투사 광활성 → 포만 상태에서도 기호식 즉시 섭취**(Jennings 2013).
+- [[concept-bed-nucleus-stria-terminalis|BNST]]는 **stress 회로와 reward 회로를 잇는 extended amygdala 허브**. amygdala·[[concept-lateral-hypothalamus|lateral hypothalamus]]·striatum·[[concept-insula|insula]]·[[concept-orbitofrontal-cortex|OFC]]와 연결. 마우스에서 **BNST→LH GABAergic(억제) 투사 광활성 → 포만 상태에서도 기호식 즉시 섭취**(Jennings 2013).
 - 인간 BNST 연구는 주로 불안·중독에 집중. **음식 cue·맛 처리 중 BNST 연결성은 미규명**. BNST는 작아 표준 MRI로 분해 어려움 → **7T 초고자장**으로 극복.
 - **방법론적 진전**: 상관 기반 functional connectivity 대신 **effective connectivity**(한 영역이 다른 영역에 미치는 부호·방향성 영향; +=흥분, −=억제)를 DCM으로 추정.
 
@@ -48,14 +48,14 @@ journal: Nature Communications
 - 우반구 우세 패턴 = 내수용–현저성·보상가치 계산의 우반구 편중과 정합.
 
 ## 해석 (저자)
-- BNST는 **bottom-up 내수용 정보를 OFC 등 피질에 전달해 valence를 부여**(Banasikowski·Hawken "valence surveillance"). 스트레스가 이 relay를 **상태의존적으로 gating** → cue 주도 반응으로 행동 편향 가능.
+- BNST는 **bottom-up 내수용 정보를 OFC 등 cortex에 전달해 valence를 부여**(Banasikowski·Hawken "valence surveillance"). 스트레스가 이 relay를 **상태의존적으로 gating** → cue 주도 반응으로 행동 편향 가능.
 - BNST→NAc 하향은 스트레스 시 NAc cue 반응 둔화/불변 fMRI 소견과 정합. 단 인간 영상으로 세포 기전은 추정.
-- BNST–dmINS 상호 경로: 섬엽→BNST glutamatergic 입력이 VTA 투사 GABA BNST 뉴런을 통해 도파민 의존적으로 food approach 강화(마우스 Girven 2021); dmINS=allostatic-내수용 허브(Zhang 2025 Nat Neurosci 7T). BNST CRF 길항 → 좌절-스트레스 binge 감소(설치류).
+- BNST–dmINS 상호 경로: insula→BNST glutamatergic 입력이 VTA 투사 GABA BNST 뉴런을 통해 도파민 의존적으로 food approach 강화(마우스 Girven 2021); dmINS=allostatic-내수용 허브(Zhang 2025 Nat Neurosci 7T). BNST CRF 길항 → 좌절-스트레스 binge 감소(설치류).
 - **한계**: 포만 미통제; 저→고 고정순서(순서효과); 2분 스트레스로 cortisol/ACTH 미검증; 성차·호르몬 미검정.
 
 ## 사용자 lab 관점
 - **stress eating 인간 회로**: 사용자의 [[concept-food-insecurity]]·feast-famine·stress→reward 재구성 라인을 **인간 7T에서 검증**하는 직접 도구. [[tomiyama-2019-stress-and-obesity|Tomiyama 2019]] stress→비만 모델, [[giovanniello-2025-a-dual-pathway-architecture-for|Giovanniello 2025]] 만성 스트레스 habit 전환의 인간 대응.
-- **내수용감각**: dmINS↔BNST 축은 [[concept-interoception]] frontier의 인간 피질-피질하 연결. [[concept-insula]]·[[huang-2021-the-insulo-opercular-cortex-encodes|Halpern milkshake]] 패러다임과 같은 gustometer cue/receipt 분리.
+- **내수용감각**: dmINS↔BNST 축은 [[concept-interoception]] frontier의 인간 cortex-subcortical 연결. [[concept-insula]]·[[huang-2021-the-insulo-opercular-cortex-encodes|Halpern milkshake]] 패러다임과 같은 gustometer cue/receipt 분리.
 - **방법론(7T DCM)**: 사용자 lab의 인간 회로 번역(예: [[proposal-ttis-feeding-reward-circuits|tTIS]]·[[proposal-dmh-glp1r-human-imaging|GLP-1R 인간 영상]])에서 effective connectivity·leave-one-out 예측 설계 차용 가능. BNST는 비침습 심부자극 후보 표적이 될 수 있음.
 - **NMPU**: cue=Motivation(wanting), 맛 수용=Pleasure/Utility 국면 분리와 호환 ([[concept-need-motivation-pleasure-utility]]).
 
@@ -71,4 +71,4 @@ journal: Nature Communications
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[nord-2021-disrupted-dorsal-mid-insula]] — 위키의 dmINS 앵커. ⚠️ **반구 대비**: Nord 2021의 transdiagnostic 내수용 locus는 **좌측** dorsal mid-insula인데, 본 논문의 dmINS 노드는 **우측**(37,5,10)이며 저자는 우반구 우세를 내수용–현저성 계산의 편중으로 해석한다. 인간 dmINS를 표적/관심영역으로 쓸 때 반드시 반구를 명시할 것.
 - [[concept-emotional-eating]] · [[concept-cue-reactivity]] — 본 논문이 다루는 스트레스×food cue 반응의 임상·행동 대응.
-- [[jennings-2013-the-inhibitory-circuit-architecture]] — 인간 BNST stress×food cue 결과가 기대는 **설치류 BNST→LH 기전 원전**(Science 2013, Stuber lab): Vgat^BNST→LH 억제성 투사 광활성이 포만 상태에서도 calorie-dense 섭식을 켜고(광억제는 굶긴 상태 섭식↓·혐오), 하류 표적은 **LH^Vglut2 브레이크**다. 연결 가설: 스트레스가 BNST의 피질 relay(→OFC·NAc·dmINS)를 하향조절할 때 피질하(→시상하부) 출력은 상대적으로 보존·우세해지는가 → DCM에 **BNST→시상하부 노드**를 명시적으로 넣어 검증할 설계 제안.
+- [[jennings-2013-the-inhibitory-circuit-architecture]] — 인간 BNST stress×food cue 결과가 기대는 **설치류 BNST→LH 기전 원전**(Science 2013, Stuber lab): Vgat^BNST→LH 억제성 투사 광활성이 포만 상태에서도 calorie-dense 섭식을 켜고(광억제는 굶긴 상태 섭식↓·혐오), 하류 표적은 **LH^Vglut2 브레이크**다. 연결 가설: 스트레스가 BNST의 cortex relay(→OFC·NAc·dmINS)를 하향조절할 때 subcortical(→hypothalamus) 출력은 상대적으로 보존·우세해지는가 → DCM에 **BNST→hypothalamus 노드**를 명시적으로 넣어 검증할 설계 제안.

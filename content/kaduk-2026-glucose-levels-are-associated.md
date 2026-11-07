@@ -10,7 +10,7 @@ year: 2026
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> "배고프면 기분이 나빠진다(hangry)"가 **혈당의 무의식적 작용이 아니라, 배고픔/포만이라는 대사상태를 의식적으로 지각(interoception)한 결과로 매개**된다는 4주 CGM+EMA 실증. 사용자 [[concept-npy-agrp-neurons|AgRP hunger]]·[[concept-metabolic-interoception|metabolic interoception]] 연구에 직결: 시상하부 hunger 신호(AgRP의 negative valence)가 기분·행동으로 번역되는 마지막 단계에 **주관적 지각(interoceptive accuracy)**이 게이트로 작동. **내수용 정확도가 높을수록 기분 변동↓** → DTx·[[concept-digital-therapeutics|디지털치료]]에서 interoceptive training이 정서안정 타깃이 될 수 있음. Kroemer 랩([[person-kroemer-nils]]) 자료로, Nord [[mehrhof-2025-an-interoceptive-model-of-energy|energy allostasis 리뷰]]가 인용한 핵심 실증.
+> "배고프면 기분이 나빠진다(hangry)"가 **혈당의 무의식적 작용이 아니라, 배고픔/포만이라는 대사상태를 의식적으로 지각(interoception)한 결과로 매개**된다는 4주 CGM+EMA 실증. 사용자 [[concept-npy-agrp-neurons|AgRP hunger]]·[[concept-metabolic-interoception|metabolic interoception]] 연구에 직결: hypothalamus hunger 신호(AgRP의 negative valence)가 기분·행동으로 번역되는 마지막 단계에 **주관적 지각(interoceptive accuracy)**이 게이트로 작동. **내수용 정확도가 높을수록 기분 변동↓** → DTx·[[concept-digital-therapeutics|디지털치료]]에서 interoceptive training이 정서안정 타깃이 될 수 있음. Kroemer 랩([[person-kroemer-nils]]) 자료로, Nord [[mehrhof-2025-an-interoceptive-model-of-energy|energy allostasis 리뷰]]가 인용한 핵심 실증.
 
 # Glucose levels are associated with mood, but mediated by ratings of metabolic state (Kaduk 2026)
 

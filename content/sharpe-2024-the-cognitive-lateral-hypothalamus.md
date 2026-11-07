@@ -78,7 +78,7 @@ LH^GABA 뉴런은 음식(및 다른 중요한 결과)을 **직접 예측하는 c
 - 결론: LH는 **중립 cue(SPC)와 보상 원위 cue(SOC) 모두의 학습에 반대**한다 → **보상에 가장 가까운 cue로 학습을 편향**시킨다.
 
 ### Box 2 — 공포 학습에도 관여한다… 때때로
-- 배경: LH는 불안 행동에 영향을 준다. 기전은 LH 내 CRF 신호와 편도체 입력으로 보인다 [101–104] (Weera 2021 CeA→LH 회피). 그러나 **공포 기억 형성** 연구는 드물고 null 결과도 있다 (Jimenez 2018 [105]).
+- 배경: LH는 불안 행동에 영향을 준다. 기전은 LH 내 CRF 신호와 amygdala 입력으로 보인다 [101–104] (Weera 2021 CeA→LH 회피). 그러나 **공포 기억 형성** 연구는 드물고 null 결과도 있다 (Jimenez 2018 [105]).
 - 저자 lab 결과(Sharpe 2021 [42]): **실험적으로 naive한 rat**에서는 LH^GABA가 공포 결과 학습에 **관여하지 않는다**. 그러나 **최근 보상 학습 경험이 있으면** LH가 공포 학습에 동원되도록 **priming**된다.
 - 함의: 인간은 평생 다양한 경험을 하므로 LH가 공포 기억 부호화 회로의 일부일 가능성이 높다. LH가 공포 기억에 동원되는 정도는 **과거 경험이 유연하게 조절**한다 [42,106] (DiFazio 2022). 저자는 이를 LH가 섭식 증감이 아니라 **동기적으로 의미 있는 정보의 학습**을 맡는다는 추가 근거로 본다.
 
@@ -101,13 +101,13 @@ LH^GABA 뉴런은 음식(및 다른 중요한 결과)을 **직접 예측하는 c
   3. **단순 instrumental conditioning**: 이론상 원위(**lever press**)와 근접(**food-port entry**) 상태를 포함한다 [73] (Daw 2005).
   4. **신경 부호화**: LH^GABA 활동에서 결과 근접도를 decoding할 수 있을 것이다. 근접도에 따른 **활동 크기 변화**, 또는 원위/근접 범주에 따른 **부호(sign) 전환**으로 나타날 수 있다.
 
-### Box 3 · Figure I — LH와 중뇌 도파민의 상호작용
+### Box 3 · Figure I — LH와 midbrain 도파민의 상호작용
 - **LH→VTA 정방향**: LH^GABA는 VTA로 조밀하게 투사한다. 순 효과는 **DA 뉴런 발화 증가·하류 DA 방출 증가**다 [8,32,40]. LH^GABA→VTA 자극은 섭식을 구동하지만, LH 글루탐산성→VTA 자극은 그렇지 않다 [8,40]. LH^GABA→VTA 입력은 음식 보상 학습을 조절한다 [32,107] (Sharpe 2017; [[grove-2022-dopamine-subsystems-track-internal|Grove 2022]]).
 - **VTA→LH 역방향**: DA 뉴런이 LH로 되돌아가 LH에서 일어나는 cue–보상 연합을 **"stamp in"** 한다 [85] (Hoang 2023 preprint → [[hoang-2026-methamphetamine-potentiates-the-use-of|Hoang 2026]]). 즉 LH–VTA 사이에 **양방향 학습 회로**가 있다.
 - **해리의 핵심**: VTA DA 뉴런은 **중립 cue 학습에 필요·충분**하다 [60,65] (Sharpe 2017 Nat Neurosci; Sharpe 2020 Nat Commun). DA 세포체 자극은 cue–cue 학습을 **강화**하고 억제는 **감소**시킨다 [60]. 그러므로 LH는 근접 예측자 쪽으로 학습을 편향시키지만, 도파민계는 보상 관련 연합과 중립 연합을 **모두** 발달시킨다.
 - 두 가능성:
   - (a) 근접 예측자 학습은 VTA를 경유하고, 중립 cue 학습 억제는 **다른 회로**(예: hypothalamic–hippocampal circuit [105])를 경유한다.
-  - (b) **더 간명한 설명(저자 선호)**: LH가 VTA 안의 **특정 DA 뉴런 부분집합**과 시상하부–중뇌 microcircuit를 이루어, 학습을 보상 쪽으로 기울이고 중립 정보에서 멀어지게 한다. 다른 DA 회로는 다른 방향으로 학습을 편향시킨다. 근거는 투사 특이적 DA 이질성 [108] (Lammel 2011)과, LH로 투사하는 DA 뉴런이 **VTA의 내측이 아닌 외측**에 상당수 있고 보상 cue 학습의 기반이라는 자기 lab 결과 [85]다. 이 microcircuit의 동원은 **선천적일 수도, 경험으로 획득될 수도** 있다 [42].
+  - (b) **더 간명한 설명(저자 선호)**: LH가 VTA 안의 **특정 DA 뉴런 부분집합**과 hypothalamus–midbrain microcircuit를 이루어, 학습을 보상 쪽으로 기울이고 중립 정보에서 멀어지게 한다. 다른 DA 회로는 다른 방향으로 학습을 편향시킨다. 근거는 투사 특이적 DA 이질성 [108] (Lammel 2011)과, LH로 투사하는 DA 뉴런이 **VTA의 medial가 아닌 lateral**에 상당수 있고 보상 cue 학습의 기반이라는 자기 lab 결과 [85]다. 이 microcircuit의 동원은 **선천적일 수도, 경험으로 획득될 수도** 있다 [42].
 - **Figure I (DA 학습 의제 분업 도식)**:
   | 영역 | 학습 의제 |
   |---|---|
@@ -121,8 +121,8 @@ LH^GABA 뉴런은 음식(및 다른 중요한 결과)을 **직접 예측하는 c
 ### 고유성 논증 — 왜 LH만 "arbitrator"인가
 - 저자 주장: **어떤 뇌 영역도** 학습을 중요한 결과에 근접한 정보 쪽으로, 원위 정보에서 멀어지게 편향시킨다고 제안된 적이 없다(원문은 이것이 "처음"이라고 쓴다).
 - 비교 근거:
-  - 편도체는 동기적으로 의미 있는 정보를 선호하지만, **편도체 억제는 중립 정보 학습을 높이지 않는다** [68].
-  - 해마·OFC는 동기 관련성에 비교적 무관하지만, **해마나 OFC를 억제해도 보상 학습이 높아지지 않는다** [61,74–77].
+  - amygdala는 동기적으로 의미 있는 정보를 선호하지만, **amygdala 억제는 중립 정보 학습을 높이지 않는다** [68].
+  - hippocampus·OFC는 동기 관련성에 비교적 무관하지만, **hippocampus나 OFC를 억제해도 보상 학습이 높아지지 않는다** [61,74–77].
   - LH만 **억제 시 보상 학습↓ + 중립 학습↑의 이중 효과**를 보인다 → 원위·근접 정보 학습의 균형을 맞추는 고유한 중재자.
 - 정보의 관련성은 필연적으로 **중요한 결과에 대한 근접도로 정의**된다 [78–80] (Mackintosh 1975 attention theory; Beesley 2015; Watson 2019). 따라서 근접/원위 부호화는 곧 **관련/무관 정보 학습의 균형**이다.
 
@@ -133,7 +133,7 @@ LH^GABA 뉴런은 음식(및 다른 중요한 결과)을 **직접 예측하는 c
   - 저자 주장: 약물 노출 후 LH 활동 증가가 **보상 cue 쪽 학습·행동 편향을 악화**시켜 갈망 [83,86]·재발 [87,88]·중독 순환을 구동한다. 근거로 Wyvell & Berridge 2001의 amphetamine incentive sensitization [86]을 함께 인용한다.
 - **조현병**: 관련/무관 자극 학습 균형의 이동이 특징이다 [81,82,94,95]. **보상 학습 감소**는 음성 증상(정동 둔마·anhedonia)과, **중립 cue 학습 증가**는 양성 증상(환각·망상)과 상관한다 [95,96] (Morris 2013; Waltz 2007).
   - 저자 주장: **LH 기능 저하**가 양성·음성 증상의 **공통 신경 locus**일 수 있다 [81] (Millard 2022). LH를 억제했을 때 보이는 패턴(보상 학습↓·중립 학습↑)과 같기 때문이다.
-  - 인간 근거는 약하다. 조현병 시상하부의 생리 변화 보고 [97–99]는 혼재돼 있다(부피 증가 보고 Tognin 2012, 감소 보고도 있음). 인간 시상하부는 **부비동(sinus)에 가까워 영상이 기술적으로 어렵다**는 한계를 원문도 인정한다. 기존 치료 효능이 제한적이므로(olanzapine 논평 [100]) LH가 새 약물 표적이 될 수 있다고 제안한다.
+  - 인간 근거는 약하다. 조현병 hypothalamus의 생리 변화 보고 [97–99]는 혼재돼 있다(부피 증가 보고 Tognin 2012, 감소 보고도 있음). 인간 hypothalamus는 **부비동(sinus)에 가까워 영상이 기술적으로 어렵다**는 한계를 원문도 인정한다. 기존 치료 효능이 제한적이므로(olanzapine 논평 [100]) LH가 새 약물 표적이 될 수 있다고 제안한다.
 - **결론의 검증 가능 가설**: 물질사용장애 환자는 **LH 기능 증가**, 조현병 환자는 **LH 기능 감소**를 보일 것이다.
 
 ### Outstanding questions (원문 4개)
@@ -189,7 +189,7 @@ LH^GABA 뉴런은 음식(및 다른 중요한 결과)을 **직접 예측하는 c
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat salience ensemble(혐오·음식 cue 반응, 중립 tone 무반응). 활동 수준 정합 + Ex-4 dial 가설.
 - [[jia-2026-novelty-exploration-activated-ensemble-in]] — LH novelty ensemble. "중립 정보 반대"와의 개념 구분.
 - [[liu-2023-an-iterative-neural-processing]] · [[liu-2026-granular-motivational-interaction-and]] — LH^GABA = 섭식 개시. 최근접 행동 상태와의 정합.
-- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형 → 선조체 DA 지형. Box 3 "LH 고유 DA 의제"의 선조체판 후보.
+- [[gordon-2026-lateral-hypothalamic-control-of-the]] — LH^GABA/Glut 균형 → striatum DA 지형. Box 3 "LH 고유 DA 의제"의 striatum판 후보.
 - [[dong-2026-reward-prediction-is-encoded-by]] — Outstanding question 2(orexin과 보상 학습)의 후속 증거: orexin 뉴런의 reward prediction.
 - [[concept-orexin-neurons]] — 원문 Outstanding question 2; 코카인 후 LH orexin 증가(James 2019 [69]).
 - [[concept-dopamine-reward-system]] · [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] · [[lee-2024-feature-specific-prediction-error]] — DA가 중립 cue(model-based) 학습에 필요·충분(Sharpe 2017 Nat Neurosci·2020 Nat Commun)이라는 Box 3 전제의 진영.
@@ -197,7 +197,7 @@ LH^GABA 뉴런은 음식(및 다른 중요한 결과)을 **직접 예측하는 c
 - [[concept-incentive-sensitization]] · [[robinson-2025-incentive-sensitization-30-years]] · [[berridge-2023-separating-desire-from-prediction-of]] — 중독의 학습 편향 vs incentive 감작 해석 경쟁.
 - [[concept-food-addiction]] · [[concept-cue-reactivity]] · [[lee-2025-hijacked-brain-modern-obesity-cue]] — "overbias" dial의 섭식·비만 번역.
 - [[woods-2016-regulation-of-the-motivation]] — 섭식 동기의 학습 의존성·distal→proximal cue 구배. 같은 방향의 섭식 문헌.
-- [[gruzdeva-2026-hunger-neurons-track-available-food]] — 결과 근접도(먹이 거리) 추적 신호의 다른 시상하부 사례.
+- [[gruzdeva-2026-hunger-neurons-track-available-food]] — 결과 근접도(먹이 거리) 추적 신호의 다른 hypothalamus 사례.
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — GLP-1RA의 식전 포만. 학습 편향 dial 가설과 층위 비교.
 - [[person-choi-hyung-jin]] — 사용자 lab hub.
 - [[rossi-2018-overlapping-brain-circuits-for]] — Stuber lab의 feeding–reward overlap 리뷰(Cell Metab 2018). LHA GABA를 섭식·보상 집단으로 요약하고 Sharpe 2017(학습 기능)은 한 줄만 언급 — 본 Opinion이 비판하는 "항상성·섭식 중심 LH 서술"의 한 사례(병기).

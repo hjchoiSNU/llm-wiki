@@ -14,7 +14,7 @@ year: 2026
 # Striatal pathways dissociably control action counting and goal-directed steering
 
 ## 한 줄 요약
-생쥐가 보상을 얻으려면 **정확한 횟수의 lever press** 뒤 reward port에 진입해야 하는 신규 operant counting task에서, 등외측 선조체(DLS)의 direct(dSPN)·indirect(iSPN) 경로가 **공간적 방향 조종(steering)과 이산 행동 횟수 세기(counting)를 양방향·해리적으로** 동시에 제어함을 보인 연구(Fallon·Yin, Nat Neurosci 2026). 두 경로 활동의 차이가 물리적·추상적 목표 근접도를 부호화한다.
+생쥐가 보상을 얻으려면 **정확한 횟수의 lever press** 뒤 reward port에 진입해야 하는 신규 operant counting task에서, 등lateral striatum(DLS)의 direct(dSPN)·indirect(iSPN) 경로가 **공간적 방향 조종(steering)과 이산 행동 횟수 세기(counting)를 양방향·해리적으로** 동시에 제어함을 보인 연구(Fallon·Yin, Nat Neurosci 2026). 두 경로 활동의 차이가 물리적·추상적 목표 근접도를 부호화한다.
 
 ## 핵심 내용
 

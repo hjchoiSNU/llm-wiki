@@ -24,7 +24,7 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 
 ### 배경 — 학습률은 보상 크기와 무관한가
 - RL 모델에서 학습률(α, step size)은 수렴 속도를 정하는 자유 파라미터이고 보상 크기와 독립적이라고 가정돼 왔다. 그래서 학습은 주로 **경험(보상 횟수)의 양**에 달려 있다고 여겨졌다.
-- 그런데 최근 Dudman lab 모델은 중변연계 도파민이 획득기의 **학습률**을 구현한다고 제안하고([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023 Nature]], ref 17; [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]], ref 18), 도파민은 고전적으로 보상 크기와 상관한다. 두 사실을 합치면 **보상 크기가 학습 효율을 정할 수 있다**는 가설이 나온다.
+- 그런데 최근 Dudman lab 모델은 중limbic system 도파민이 획득기의 **학습률**을 구현한다고 제안하고([[coddington-2023-mesolimbic-dopamine-adapts-the-rate|Coddington 2023 Nature]], ref 17; [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]], ref 18), 도파민은 고전적으로 보상 크기와 상관한다. 두 사실을 합치면 **보상 크기가 학습 효율을 정할 수 있다**는 가설이 나온다.
 - 현장의 보상 크기는 매우 좁은 범위에 몰려 있고 마우스 하루 필요량의 <1%에 불과하다. 20 µl도 하루 섭취의 ≤0.5%다.
 
 ### Fig 1·S2 — 확장된 보상 범위에서 NAc 도파민은 크기와 지속시간이 모두 커진다
@@ -89,9 +89,9 @@ journal: "Science 392(6800):eaeb0813 (21 May 2026; 투고 2025-07-31, 채택 202
 - → "RPE 기반 RL 모델은 보상 크기 효과에 대해 정식화에 따라 예측이 갈린다."
 
 ### Discussion — 저자의 작업 가설(부분적으로 해리 가능한 세 기전)
-- **학습률**: 무경험 식욕 학습기의 작은 phasic DA burst는 주로 학습률을 조절한다(ref 17·18; ref 27 = [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]]도 "phasic DA = 이산화된 적응적 학습률"로 분류해 인용). 이는 DA가 다른 선조체 회로가 계산한 **eligibility trace를 포획**한다는 전기생리·모델과 정합한다. 오류 기반 DA 기전은 장기 훈련 후 나중에 나타날 수 있다.
-- **보존(capture)**: systems consolidation과 유사하다. 해마·고위 시상·전두피질은 도파민 투사가 조밀하지 않으므로 **ACh·NE 같은 "도파민 밖 RL(extradopaminergic RL)"** 이 충분조건이거나 필수 보조일 가능성이 있다. 대안으로, 항상성 욕구가 채워질 때의 **수 초–수 분짜리 느린 DA 역학**(ref 77–80: 소뇌 포만 네트워크, 장내미생물 경로, [[grove-2022-dopamine-subsystems-track-internal|Grove 2022]], [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]])이 **수분 상태 신호**를 통해 보존에 관여할 수 있다고 추측한다. 이번 자극 패러다임은 그런 장기 신호를 재현하지 못했을 것이다.
-- **관여(engagement)**: 관여의 회로 기전은 거의 제안된 바 없다. 저자는 시상하부·망상체·PAG가 전뇌와 독립적으로 행동을 지배할 수 있으므로, **지속적 DA 방출이 하행 전뇌 출력을 강화해 행동 통제를 전뇌 쪽으로 기울인다**고 추측한다. 수백 ms를 넘는 DA 자극부터 즉각적 동기 유사 효과 같은 새로운 행동 결과가 나타난다는 선행 관찰(ref 23·64·65)과 같은 축이다.
+- **학습률**: 무경험 식욕 학습기의 작은 phasic DA burst는 주로 학습률을 조절한다(ref 17·18; ref 27 = [[jeong-2022-mesolimbic-dopamine-release-conveys-causal|Jeong 2022]]도 "phasic DA = 이산화된 적응적 학습률"로 분류해 인용). 이는 DA가 다른 striatum 회로가 계산한 **eligibility trace를 포획**한다는 전기생리·모델과 정합한다. 오류 기반 DA 기전은 장기 훈련 후 나중에 나타날 수 있다.
+- **보존(capture)**: systems consolidation과 유사하다. hippocampus·고위 thalamus·전두cortex는 도파민 투사가 조밀하지 않으므로 **ACh·NE 같은 "도파민 밖 RL(extradopaminergic RL)"** 이 충분조건이거나 필수 보조일 가능성이 있다. 대안으로, 항상성 욕구가 채워질 때의 **수 초–수 분짜리 느린 DA 역학**(ref 77–80: cerebellum 포만 네트워크, 장내미생물 경로, [[grove-2022-dopamine-subsystems-track-internal|Grove 2022]], [[zhu-2025-hedonic-eating-is-controlled-by|Zhu 2025]])이 **수분 상태 신호**를 통해 보존에 관여할 수 있다고 추측한다. 이번 자극 패러다임은 그런 장기 신호를 재현하지 못했을 것이다.
+- **관여(engagement)**: 관여의 회로 기전은 거의 제안된 바 없다. 저자는 hypothalamus·망상체·PAG가 forebrain와 독립적으로 행동을 지배할 수 있으므로, **지속적 DA 방출이 하행 forebrain 출력을 강화해 행동 통제를 forebrain 쪽으로 기울인다**고 추측한다. 수백 ms를 넘는 DA 자극부터 즉각적 동기 유사 효과 같은 새로운 행동 결과가 나타난다는 선행 관찰(ref 23·64·65)과 같은 축이다.
 - **실무**: 보상 크기를 체계적으로 탐색하면 마우스 행동 실험의 효율이 오른다. 다만 큰 보상은 식욕적 접근 행동의 학습을 바꾸되 개선하지는 않았고(fig. S5), Pavlovian cue 변별 효율도 올리지 않았다. cue 변별에는 덜 가치 있는 자극에 대한 반응 **억제**를 배우는 요소가 있는데, 관여 증가는 이를 돕지 않거나 오히려 방해할 수 있다. 오반응에 벌이 있는 명시적 의사결정 과제(IBL)에서는 이득이 남았다.
 - **ADHD 유비(추측)**: 이탈이 잦은 개체의 겉보기 학습 효율은 몰입 구간의 "진짜" 학습 속도보다 훨씬 느렸다. methylphenidate는 DA 재흡수 억제제이고 재흡수는 phasic 방출의 지속시간을 정한다 → 그 효과는 큰 보상 소비나 연장 자극이 만든 **수 초짜리 phasic 방출**과 비슷할 수 있다. 검증은 향후 과제로 남겼다.
 

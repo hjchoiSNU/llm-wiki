@@ -1,25 +1,25 @@
 ---
-title: Area postrema (AP·최후야)
+title: "Area postrema (AP)"
 type: concept
 created: 2026-07-05
 updated: 2026-10-03
-aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
+aliases: [area postrema, AP, circumventricular organ, GFRAL neurons]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> Area postrema(최후야)는 혈뇌장벽 밖에서 순환 독소·malaise 호르몬(GLP-1·GDF15·amylin·고칼슘)을 직접 감지하는 sensory CVO. 최형진 랩 food-safety-alarm의 "섭취후 순환독소 1차 감지소" — GLP1R/GFRAL/CaSR 흥분성 뉴런이 오심·혐오 신호를 PBN으로 funneling하고, GIPR 억제뉴런이 이를 끄는 **항오심** 표적 노드(항비만 효과는 AP 특이적으로 입증된 것이 아니라 뇌 전반 Vgat⁺ GIPR 의존성에 근거 — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]]).
+> Area postrema는 blood-brain barrier 밖에서 순환 독소·malaise 호르몬(GLP-1·GDF15·amylin·고칼슘)을 직접 감지하는 sensory CVO. 최형진 랩 food-safety-alarm의 "섭취후 순환독소 1차 감지소" — GLP1R/GFRAL/CaSR 흥분성 뉴런이 오심·혐오 신호를 PBN으로 funneling하고, GIPR 억제뉴런이 이를 끄는 **항오심** 표적 노드(항비만 효과는 AP 특이적으로 입증된 것이 아니라 뇌 전반 Vgat⁺ GIPR 의존성에 근거 — [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates|Liskiewicz 2023]]).
 
-# Area postrema (AP·최후야)
+# Area postrema (AP)
 
 ## 한 줄 요약
-제4뇌실 바닥에 위치한 뇌간 sensory circumventricular organ(CVO). 혈뇌장벽이 없어 순환 화학신호를 직접 감지하며, GLP1R·GFRAL·CaSR 흥분성 뉴런이 오심·조건적 혐오를 매개하고 GIPR 억제뉴런이 이를 억제한다.
+제4ventricle 바닥에 위치한 brainstem sensory circumventricular organ(CVO). blood-brain barrier가 없어 순환 화학신호를 직접 감지하며, GLP1R·GFRAL·CaSR 흥분성 뉴런이 오심·조건적 혐오를 매개하고 GIPR 억제뉴런이 이를 억제한다.
 
 ## 핵심 내용
-- **위치·특성**: 제4뇌실 바닥, dorsal vagal complex의 일부. fenestrated 모세혈관 + 혈뇌장벽 부재 → 혈행성 신호(독소·펩타이드) 감지 특권 부위.
+- **위치·특성**: 제4ventricle 바닥, dorsal vagal complex의 일부. fenestrated 모세혈관 + blood-brain barrier 부재 → 혈행성 신호(독소·펩타이드) 감지 특권 부위.
 - **세포 조성**([[zhang-2021-area-postrema-cell-types-that|Zhang 2021]]): 흥분성 4종·억제성 3종. **cluster 4 = Glp1r+Gfral+Casr** danger hub; cluster 1 = Calcr(amylin); 억제성 cluster 6 = **Gipr**.
 - **감지 리간드**: GLP-1(exendin-4), GDF15(GFRAL), amylin(CALCR), 고칼슘(CaSR), LiCl·LPS 등 malaise 신호.
 - **오심 억제축**([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]]): 장호르몬 **GIP가 GIPR⁺ 억제뉴런을 활성 → GABA로 GFRAL 오심뉴런 억제** → 독소 회피 차단(항오심 표적).
-  - ⚠️ 원논문 한계를 함께 읽을 것: **식후 생리적 GIP 농도가 뇌간 GIPR 뉴런에 충분히 도달하는지, 간접 경로 여부는 미해결**이다([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]] 저자 명시). 입증된 것은 **예방적 외인성 GIP 투여**가 GDF15·LiCl 유발 맛 회피를 없앴고 cluster 6(GIPR⁺) 절제 시 그 효과가 사라졌다는 약리 결과다.
+  - ⚠️ 원논문 한계를 함께 읽을 것: **식후 생리적 GIP 농도가 brainstem GIPR 뉴런에 충분히 도달하는지, 간접 경로 여부는 미해결**이다([[zhang-2022-brainstem-circuit-for-nausea|Zhang 2022]] 저자 명시). 입증된 것은 **예방적 외인성 GIP 투여**가 GDF15·LiCl 유발 맛 회피를 없앴고 cluster 6(GIPR⁺) 절제 시 그 효과가 사라졌다는 약리 결과다.
 - **출력**: 장거리 흥분성 투사가 **[[concept-parabrachial-cgrp-alarm|PBN CGRP(general alarm)]]**·자율운동핵으로.
 - **DVC 내 역할 구분**: AP=CVO 독소감지 / NTS=satiety·baseline brake(→ [[concept-dorsal-vagal-complex]]와 구분).
 
@@ -28,16 +28,16 @@ aliases: [area postrema, AP, 최후야, circumventricular organ, GFRAL neurons]
 - [[zhang-2022-brainstem-circuit-for-nausea]] — GIP-GIPR 억제뉴런에 의한 오심 억제.
 - [[concept-dorsal-vagal-complex]] — AP를 포함하는 hindbrain 관문(AP·NTS·DMX).
 - [[concept-parabrachial-cgrp-alarm]] — AP aversion 뉴런의 하류 투사 표적.
-- [[concept-glp-1]] — AP GLP1R 뉴런이 GLP-1RA malaise의 뇌간 표적.
+- [[concept-glp-1]] — AP GLP1R 뉴런이 GLP-1RA malaise의 brainstem 표적.
 - [[gao-2026-semaglutide-drives-weight-loss-through]] — 세마글루타이드 1차 표적이 AP임을 규명.
 - [[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]] — acyl-GIP가 AP cFos 유도(GABAergic 의존).
 - [[liu-2025-gipr-ab-glp-1-peptide]] — GIPR-Ab/GLP-1이 AP 등 CVO에서 검출·c-Fos.
 - [[cao-2024-hunting-for-heroes-brain]] — AP^GLP-1R=혐오(→lPBN), NTS와 분리.
 - [[overview-cea-glp1r-food-safety-alarm]] — AP를 섭취후 독소 관문으로 편입.
 - [[su-2026-genetic-predictors-of-glp1-receptor]] — GLP-1RA 오심·구토가 `GLP1R` 좌위 변이와 연관되고 **효능과 같은 신호일 가능성**(72.6%); AP 혐오 축의 인간 유전 대응 (Nature 2026).
-- [[wang-2015-whole-brain-mapping-of-the-direct]] — NTS POMC 입력이 밀집한 연수 계열(Su5·IRt·Gi·RMg·MdD/MdV·PCRt)의 해부 지형. NTS POMC 입력의 ~80%가 뇌교·연수에서 오며, AP 인접 hindbrain이 POMC 포만 회로의 주 상류임을 보임 (Front Neuroanat 2015).
+- [[wang-2015-whole-brain-mapping-of-the-direct]] — NTS POMC 입력이 밀집한 medulla 계열(Su5·IRt·Gi·RMg·MdD/MdV·PCRt)의 해부 지형. NTS POMC 입력의 ~80%가 pons·medulla에서 오며, AP 인접 hindbrain가 POMC 포만 회로의 주 상류임을 보임 (Front Neuroanat 2015).
 - [[concept-gdf15-gfral-axis]] — AP/NTS 한정 수용체 GFRAL과 그 리간드 GDF15(지질·metformin 유래)의 개념 hub.
-- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **형광 exendin-4·semaglutide probe로 말초 투여 약물이 시상하부·뇌간에 접근함을 보인** 화학생물학 계보. AP를 포함한 뇌간 접근의 영상 근거이자, 뇌 GLP-1R 결합부위 획정의 1차 도구 (Diabetes 2024 Classics).
+- [[thorens-2024-building-the-glucagon-like-peptide-1-receptor]] — **형광 exendin-4·semaglutide probe로 말초 투여 약물이 hypothalamus·brainstem에 접근함을 보인** 화학생물학 계보. AP를 포함한 brainstem 접근의 영상 근거이자, 뇌 GLP-1R 결합부위 획정의 1차 도구 (Diabetes 2024 Classics).
 - [[concept-glp1ra-cns-access]] — AP를 GLP-1RA 중추 접근 **①층(CVO)** 의 핵심 관문으로 배치한 hub. CVO가 **대형 펩타이드 GLP-1RA의 1차 접근 경로**임을 다른 경로(tanycyte 수송 / BBB 본체 통과 = 수용체매개·수동확산·저분자 / 미주 간접신호)와 비교한다. 설계 함의: **AP는 BBB 밖이라 어떤 GLP-1RA든 반드시 닿으므로, 'AP를 피하면서 효능을 유지하는 약물'은 분포가 아니라 biased agonism·세포종류 특이 전달로만 가능**하다.
 - [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] — semaglutide가 "광범위한 BBB 투과 없이" CVO·인접부로 CNS에 engage한다는 서술의 출처 리뷰(Gabery 2020 경유; Neurol Ther 2025, 14편). ⚠️ 같은 리뷰의 **초록**은 "전임상에서 liraglutide·semaglutide·exenatide가 BBB를 통과"라고 요약하지만, **본문** 데이터(Salameh 2020)는 liraglutide·semaglutide의 뇌 유입이 측정되지 않는다고 적는다 — 초록 문장만 떼어 AP 경로와 대립시키지 말 것. 종점도 다르다(분자 검출 vs 효과의 필요성): [[gao-2026-semaglutide-drives-weight-loss-through|Gao 2026]]의 'AP Gs 보존만으로 체중감량 전량 회복'과 **같은 문장에서 비교하지 말 것**. 실제로 남는 긴장은 표적 부위다 — 리뷰는 semaglutide의 표적을 ARC POMC/CART·NPY/AgRP로 적고 Gao는 AP로 지목한다(병기).
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — AP GLP1R 하류의 **NTS Adcyap1⁺ 집단**(AP 내 Adcyap1⁺는 소수)이 ARC·DMH로 올려 보내는 상행 축을 기능적으로 해부. AP를 '감지', Adcyap1^NTS를 '중계'로 배치하는 모델 (bioRxiv preprint 2026).

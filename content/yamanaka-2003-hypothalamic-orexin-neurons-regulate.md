@@ -10,7 +10,7 @@ journal: "Neuron 38(5):701–713 (2003-06-05); doi:10.1016/S0896-6273(03)00331-3
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **"배고프면 깨어 돌아다닌다"는 적응 반응의 세포 기질을 orexin 뉴런으로 처음 지목한 foundational paper.** 근거는 세 층이다. ① **세포 수준**: 시냅스에서 분리한 orexin 뉴런이 포도당에 억제되고(10→30 mM에서 −45→−62 mV, 8/10 발화 정지) 저포도당에 흥분한다. leptin(10 nM)은 7/9을 억제하고, ghrelin(10 nM)은 6/9을 흥분시킨다. insulin은 효과가 없다. ② **유전자 발현 수준**: 시상하부 *prepro-orexin* mRNA가 혈당·leptin·섭식량과 반대로 움직인다. 고혈당인 *ob/ob*에서는 낮고, 혈당을 정상화하면 leptin 치료로는 leptin 처치 WT 수준까지, pair-feeding으로는 오히려 WT 이상으로 오른다. ③ **행동 수준**: orexin 뉴런을 없앤 *orexin/ataxin-3* 마우스는 단식해도 **각성·NREM 감소·REM 잠복기 연장·탐색 운동 증가가 모두 나타나지 않는다**(n=6 / n=5–6).
+> **"배고프면 깨어 돌아다닌다"는 적응 반응의 세포 기질을 orexin 뉴런으로 처음 지목한 foundational paper.** 근거는 세 층이다. ① **세포 수준**: 시냅스에서 분리한 orexin 뉴런이 포도당에 억제되고(10→30 mM에서 −45→−62 mV, 8/10 발화 정지) 저포도당에 흥분한다. leptin(10 nM)은 7/9을 억제하고, ghrelin(10 nM)은 6/9을 흥분시킨다. insulin은 효과가 없다. ② **유전자 발현 수준**: hypothalamus *prepro-orexin* mRNA가 혈당·leptin·섭식량과 반대로 움직인다. 고혈당인 *ob/ob*에서는 낮고, 혈당을 정상화하면 leptin 치료로는 leptin 처치 WT 수준까지, pair-feeding으로는 오히려 WT 이상으로 오른다. ③ **행동 수준**: orexin 뉴런을 없앤 *orexin/ataxin-3* 마우스는 단식해도 **각성·NREM 감소·REM 잠복기 연장·탐색 운동 증가가 모두 나타나지 않는다**(n=6 / n=5–6).
 > 사용자 연구와 닿는 지점은 넷이다. (1) [[kim-2024-normative-framework-dissociates-need|Kim 2024]]의 normative model에서 orexin은 **현재 결핍(Deficit; glucose↓·leptin↓·ghrelin↑)을 직접 감지해 각성·운동 출력으로 바꾸는 노드**다. 예측된 결핍을 부호화하는 AgRP(Need)나 결핍을 적분하는 LH^LepR(Motivation)와는 다른 자리에 놓인다. 행동 개시 **문턱 K를 낮추는 state gate**라는 *연결 가설*을 세울 수 있다. (2) 이 논문의 "leptin이 orexin 뉴런을 **직접** 억제한다"는 주장은 위키의 [[leinninger-2009-leptin-acts-via-leptin|Leinninger 2009]]·[[leinninger-2011-leptin-action-via-neurotensin|2011]](OX에 LepRb 없음, LepRb^Nts GABA 탈억제 모델)과 **정면으로 긴장**한다. 이 때문에 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]]→OX 국소 회로가 사용자 lab의 검증 대상이 된다. (3) 고혈당이 orexin을 누른다는 결과는 T2D·비만의 **피로·활동 저하**를 설명하는 회로 후보다. (4) 비만 동물도 섭식을 제한하면 orexin이 **WT 이상으로** 올라간다는 결과는, 감량 후 [[concept-weight-regain-defended-adiposity|체중 재증가]] 압력의 각성·탐색 성분 후보다.
 
 # Hypothalamic orexin neurons regulate arousal according to energy balance in mice (Yamanaka et al. 2003)
@@ -20,7 +20,7 @@ journal: "Neuron 38(5):701–713 (2003-06-05); doi:10.1016/S0896-6273(03)00331-3
 - **모델·방법**: 새로 만든 **orexin/EGFP** 형질전환 마우스(인간 *prepro-orexin* promoter–EGFP)로 해리 뉴런·절편을 whole-cell patch했다. 그 밖에 i.c.v. leptin 삼투압 펌프, Northern blot, **orexin/ataxin-3** 반접합 마우스(orexin 뉴런 선택 소실; Hara 2001)의 EEG/EMG와 open-field 활동을 측정했다.
 
 ## 한 줄 요약
-orexin 뉴런은 **포도당·leptin에 억제되고 ghrelin에 흥분하는 대사 감지 세포**이며, 시상하부 orexin 발현은 혈당·leptin·섭식량과 반비례한다. 이 뉴런이 없으면 마우스는 단식에 **각성·탐색 운동 증가로 반응하지 못한다**. 즉 orexin 뉴런은 에너지 균형과 각성을 잇는 결정적 고리다.
+orexin 뉴런은 **포도당·leptin에 억제되고 ghrelin에 흥분하는 대사 감지 세포**이며, hypothalamus orexin 발현은 혈당·leptin·섭식량과 반비례한다. 이 뉴런이 없으면 마우스는 단식에 **각성·탐색 운동 증가로 반응하지 못한다**. 즉 orexin 뉴런은 에너지 균형과 각성을 잇는 결정적 고리다.
 
 ## 핵심 내용
 
@@ -60,7 +60,7 @@ orexin 뉴런은 **포도당·leptin에 억제되고 ghrelin에 흥분하는 대
 - 저자들의 한정: TTX로도 GABA·glutamate의 **시냅스전 효과를 완전히 배제하지는 못한다**. 다만 해리 세포 결과와 일치하고 용량 의존적이므로 **직접 작용**이라고 결론짓는다.
 
 ### Figure 4 — 혈당·leptin·섭식량이 orexin 발현을 반대로 움직인다
-- 설계: WT와 *ob/ob*(C57BL/6J 배경)에 **3뇌실 i.c.v. leptin 100 ng/h × 2주**(ALZET 1002) 또는 vehicle을 주었다. 별도로 *ob/ob*를 **pair-feeding**(3.5 → 3.0 g/day, WT 섭식량에 맞춤)했다. 시상하부 *prepro-orexin* mRNA는 Northern blot으로 정량했다(two-way ANOVA).
+- 설계: WT와 *ob/ob*(C57BL/6J 배경)에 **3ventricle i.c.v. leptin 100 ng/h × 2주**(ALZET 1002) 또는 vehicle을 주었다. 별도로 *ob/ob*를 **pair-feeding**(3.5 → 3.0 g/day, WT 섭식량에 맞춤)했다. hypothalamus *prepro-orexin* mRNA는 Northern blot으로 정량했다(two-way ANOVA).
 - **WT 자유급식 + leptin**: 혈당은 정상 그대로인데 orexin mRNA가 vehicle보다 **유의하게 감소**했다.
 - ***ob/ob* + leptin**: 고혈당이 **정상화**되고 orexin mRNA가 **유의하게 증가**해 leptin 처치 WT 수준에 도달했다(p<0.01).
 - ***ob/ob* pair-feeding**: 혈당이 정상화되고 orexin mRNA가 **WT보다도 높게** 올랐다(p<0.01).
@@ -87,9 +87,9 @@ orexin 뉴런은 **포도당·leptin에 억제되고 ghrelin에 흥분하는 대
 - **체중**: Tg 25.4 ± 0.5 → 20.1 ± 0.4 g, WT 24.5 ± 0.2 → 18.8 ± 0.2 g. 감량 폭이 유전형 간에 **약하지만 유의하게** 달랐다(p<0.05). Tg의 감량이 약간 작다(계산하면 Tg ~5.3 g ≈ 21%, WT ~5.7 g ≈ 23%). 저자들은 이것을 단식 대사율 차이와 연결하되, 기저대사 차이인지 각성·운동에 따른 소비 차이인지는 간접열량측정이 필요한 미해결 문제로 남긴다.
 
 ### Discussion 요점
-- **포도당 감지**: 시상하부에는 두 부류가 있다. 고포도당에 흥분하는 내측 "glucose-responsive" 뉴런(섭식 억제)과, 고포도당에 억제되는 LHA "glucose-sensitive" 뉴런(섭식 촉진; Oomura & Yoshimatsu 1984)이다. 저자들은 orexin 뉴런이 고포도당에 과분극·발화 정지한다는 결과를 이 **후자의 성질과 나란히 제시**한다("분자 정체"라는 명시적 표현은 원문에 없음 — 위키 해석).
+- **포도당 감지**: hypothalamus에는 두 부류가 있다. 고포도당에 흥분하는 medial "glucose-responsive" 뉴런(섭식 억제)과, 고포도당에 억제되는 LHA "glucose-sensitive" 뉴런(섭식 촉진; Oomura & Yoshimatsu 1984)이다. 저자들은 orexin 뉴런이 고포도당에 과분극·발화 정지한다는 결과를 이 **후자의 성질과 나란히 제시**한다("분자 정체"라는 명시적 표현은 원문에 없음 — 위키 해석).
 - **저혈당 인지(hypoglycemic awareness)**: orexin의 자율신경 투사와 교감 효과를 근거로 저자들은 다음을 제안한다. 저혈당 → 자율 반응·epinephrine·**수면 중 각성**이라는 방어를 orexin이 매개할 수 있다. 정상인은 수면 중(orexin 활성이 낮을 때) 저혈당 자율 반응이 둔하고, 1형 당뇨에서는 수면 관련 저혈당 자율신경 부전이 흔하다(Banarer & Cryer 2003).
-- **leptin·ghrelin**: ARC POMC/NPY가 orexin 뉴런을 조밀하게 innervate하므로(Elias 1998) **간접 조절**도 있다. 저자들은 여기에 **직접 조절**을 더했다고 주장한다. 근거로 LHA의 leptin 수용체 mRNA(Elmquist 1998), **orexin 뉴런 안의 leptin 수용체·STAT3 면역반응**(Håkansson 1999), leptin이 단식성 orexin mRNA 상승을 억제한다는 보고(López 2000)를 든다. ghrelin 수용체(GHSR)는 당시 LHA에서 기술되지 않았다(TMN·뇌간 각성핵에는 있음). 시상하부 ghrelin 뉴런이 orexin 뉴런으로 투사한다는 보고(Cowley 2003; Toshinai 2003)는 있다.
+- **leptin·ghrelin**: ARC POMC/NPY가 orexin 뉴런을 조밀하게 innervate하므로(Elias 1998) **간접 조절**도 있다. 저자들은 여기에 **직접 조절**을 더했다고 주장한다. 근거로 LHA의 leptin 수용체 mRNA(Elmquist 1998), **orexin 뉴런 안의 leptin 수용체·STAT3 면역반응**(Håkansson 1999), leptin이 단식성 orexin mRNA 상승을 억제한다는 보고(López 2000)를 든다. ghrelin 수용체(GHSR)는 당시 LHA에서 기술되지 않았다(TMN·brainstem 각성핵에는 있음). hypothalamus ghrelin 뉴런이 orexin 뉴런으로 투사한다는 보고(Cowley 2003; Toshinai 2003)는 있다.
 - **단식 각성의 시간 의존성**: 차이가 **늦은 명기**에 가장 컸다. 정상적으로는 이 시기에 orexin 방출이 최저다. rat CSF orexin은 암기에 정점, 명기 말에 최저이고, **72 h 단식 후 늦은 명기에만 상승**한다(Fujiki 2001; Yoshida 2001). → 단식 효과는 **평소 orexin 방출이 낮은 시기에 가장 강하다**.
 - **공발현 인자 주의**: orexin 뉴런은 glutamate도 내고(Abrahamson 2001), 일부는 galanin·angiotensin II나 미지 인자를 함유할 수 있다(본문 해당 문장에 dynorphin은 없음; 참고문헌에 Chou 2001 dynorphin 공발현 논문만 실림). ataxin 모델은 이것들을 모두 없앤다. 다만 이 인자들은 orexin 뉴런에만 있는 것이 아니고, *prepro-orexin* KO와 ataxin-3 마우스의 기저 표현형은 배경을 맞추면 비슷하다(미발표).
 - **모델(Discussion 마지막)**: 먹이 결핍 → 혈중 포도당·leptin↓ + ghrelin 신호↑ → **orexin 뉴런 발화↑** → 각성·운동↑ → 먹이 탐색에 필요한 고각성 상태를 안정화한다. 동시에 NPY 등 다른 orexigenic 기제를 활성화할 수 있다(Yamanaka 2000).

@@ -15,7 +15,7 @@ journal: "N Engl J Med 2025;393:26–36 (online 2025-05-11); doi:10.1056/NEJMoa2
 # SURMOUNT-5 — 티르제파타이드 vs 세마글루타이드 직접비교
 
 ## 한 줄 요약
-당뇨 없는 비만 성인 750명에게 최대내약 용량의 tirzepatide 또는 semaglutide를 72주 주 1회 투여한 phase 3b open-label 시험에서, tirzepatide가 체중(−20.2% vs −13.7%)과 허리둘레(−18.4 vs −13.0 cm) 모두에서 우월했다. 이상반응은 두 군 모두 위장관계가 가장 흔했고, 중단으로 이어진 위장관 이상반응은 semaglutide에서, 주사부위 반응은 tirzepatide에서 더 많았다(NEJM 2025).
+당뇨 없는 비만 성인 750명에게 최대내약 용량의 tirzepatide 또는 semaglutide를 72주 주 1회 투여한 phase 3b open-label 시험에서, tirzepatide가 체중(−20.2% vs −13.7%)과 허리둘레(−18.4 vs −13.0 cm) 모두에서 우월했다. 이상반응은 두 군 모두 gastrointestinal tract계가 가장 흔했고, 중단으로 이어진 gastrointestinal tract 이상반응은 semaglutide에서, 주사부위 반응은 tirzepatide에서 더 많았다(NEJM 2025).
 
 ## 핵심 내용
 
@@ -55,8 +55,8 @@ journal: "N Engl J Med 2025;393:26–36 (online 2025-05-11); doi:10.1056/NEJMoa2
 - **감량 구간이 클수록 심대사 개선이 컸다**(<10%, 10–<20%, 20–<30%, ≥30% 구간 비교). 72주에 ≥20% 감량한 참가자(tirzepatide 46.5%, semaglutide 26.1%)의 수축기혈압 감소는 9.1–17.5 mmHg로, <10% 감량군의 3.4–6.7 mmHg보다 컸다.
 
 ### 결과 — 안전성
-- 이상반응 1건 이상: 76.7%(tirz) vs 79.0%(sema). 최빈은 **위장관계**(구역·변비·설사·구토)로, 대부분 경증–중등도이고 주로 **증량기**에 발생.
-- **중단으로 이어진 위장관 이상반응은 semaglutide에서 더 많았다**: 21명(5.6%) vs 10명(2.7%). 전체 이상반응에 의한 중단은 6.1%(tirz) vs 8.0%(sema).
+- 이상반응 1건 이상: 76.7%(tirz) vs 79.0%(sema). 최빈은 **gastrointestinal tract계**(구역·변비·설사·구토)로, 대부분 경증–중등도이고 주로 **증량기**에 발생.
+- **중단으로 이어진 gastrointestinal tract 이상반응은 semaglutide에서 더 많았다**: 21명(5.6%) vs 10명(2.7%). 전체 이상반응에 의한 중단은 6.1%(tirz) vs 8.0%(sema).
 - **주사부위 반응은 tirzepatide에서 많았다**: 8.6% vs 0.3%. 중증·중대 사례나 이로 인한 중단은 없었다.
 - 중대 이상반응 전체 4.1%(tirz 4.8% vs sema 3.5%). 판정위원회 확인 췌장염 1건(semaglutide군). **확인된 MACE·사망·갑상선수질암·췌장암은 없었다.**
 - 완료율: 시험 85.0%, 72주 투약 완료 80.2%. 최고용량 노출은 tirzepatide 15 mg 89.3%, semaglutide 2.4 mg 92.8%.
@@ -83,8 +83,8 @@ journal: "N Engl J Med 2025;393:26–36 (online 2025-05-11); doi:10.1056/NEJMoa2
 4. **성차의 기전 미해결** — [[concept-glp1ra-response-variability]]는 임상의 여성 우위와 마우스의 [[davila-2026-agrp-neurons-are-required-for|암컷 특이 AgRP 의존성]]이 같은 기전인지 미해결로 남겨 뒀다. 본 시험은 **두 약 모두에서 약 6%p**라는 더 큰 표본의 관찰을 추가하지만 기전은 다루지 않는다.
 
 ### 연결 가설 (원문 주장 아님)
-1. **회로 수준의 차이는 어디서 오는가.** tirzepatide의 추가 −6.5%p가 GIPR 작용의 어느 세포군에서 나오는지는 이 시험으로 알 수 없다. 위키의 후보는 시상하부·후뇌의 **GIPR 발현 GABA 뉴런**([[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]])과 [[concept-area-postrema|AP]]의 Gs–cAMP 축([[gao-2026-semaglutide-drives-weight-loss-through]])이다. 두 약의 작용 부위 차이를 인간 영상으로 보는 설계가 가능하다([[proposal-dmh-glp1r-human-imaging]]).
-2. **내약성 프로필의 비대칭이 표현형 선택 기준이 될 수 있다.** 위장관 이상반응으로 인한 중단은 semaglutide에서, 주사부위 반응은 tirzepatide에서 많았다. [[lee-2025-hijacked-brain-modern-obesity-cue|5가지 부적응 섭식 표현형]]별 약물 선택에 **이상반응 프로필**을 변수로 넣는 정밀 접근의 재료다([[concept-glp1ra-response-variability]]).
+1. **회로 수준의 차이는 어디서 오는가.** tirzepatide의 추가 −6.5%p가 GIPR 작용의 어느 세포군에서 나오는지는 이 시험으로 알 수 없다. 위키의 후보는 hypothalamus·hindbrain의 **GIPR 발현 GABA 뉴런**([[liskiewicz-2023-glucose-dependent-insulinotropic-polypeptide-regulates]])과 [[concept-area-postrema|AP]]의 Gs–cAMP 축([[gao-2026-semaglutide-drives-weight-loss-through]])이다. 두 약의 작용 부위 차이를 인간 영상으로 보는 설계가 가능하다([[proposal-dmh-glp1r-human-imaging]]).
+2. **내약성 프로필의 비대칭이 표현형 선택 기준이 될 수 있다.** gastrointestinal tract 이상반응으로 인한 중단은 semaglutide에서, 주사부위 반응은 tirzepatide에서 많았다. [[lee-2025-hijacked-brain-modern-obesity-cue|5가지 부적응 섭식 표현형]]별 약물 선택에 **이상반응 프로필**을 변수로 넣는 정밀 접근의 재료다([[concept-glp1ra-response-variability]]).
 3. **treat-to-target이 DTx의 역할을 바꾼다.** 20–30% 감량이 약물로 달성 가능해지면 행동개입의 목표는 감량 달성보다 **유지·중단 관리·근육량 보존**으로 이동한다([[concept-digital-therapeutics]]·[[kim-2021-digital-therapeutics-for-obesity]]).
 
 ## 관련 페이지

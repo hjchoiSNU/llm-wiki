@@ -1,27 +1,27 @@
 ---
-title: "[연구계획서] POMC β-endorphin이 음식 쾌락·만족을 부호화하는가 — NMPU Pleasure 축의 역설적 시상하부 기원"
+title: "[연구계획서] POMC β-endorphin이 음식 쾌락·만족을 부호화하는가 — NMPU Pleasure 축의 역설적 hypothalamus 기원"
 type: proposal
 created: 2026-06-08
 updated: 2026-06-08
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **포만 뉴런이 동시에 쾌락 뉴런인가?** ARC [[concept-pomc-neurons|POMC 뉴런]]은 α-MSH(satiety)뿐 아니라 **β-endorphin(μ-opioid)** 을 분비해 paradoxically 단 음식 식욕을 켠다([[jouque-2025-beyond-satiety-unraveling-the|Jouque 2025]]; Minère 2025 *Science*). 사용자 lab 이론 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure(즉각 결과 교사)** 축의 분자 회로 substrate가 아직 시상하부에 정박하지 않았는데, β-endorphin이 그 후보다. 핵심 미해결: β-endorphin이 음식의 **"좋다(liking·쾌락)"** 를 부호화하는가, **"더 원한다(wanting·식욕)"** 를 부호화하는가 — Berridge liking/wanting 및 NMPU의 **Pleasure vs Motivation** 분리에 직접 답한다. 임상 출구는 **naltrexone(μ-opioid 길항, bupropion–naltrexone)** 으로 명확.
+> **포만 뉴런이 동시에 쾌락 뉴런인가?** ARC [[concept-pomc-neurons|POMC 뉴런]]은 α-MSH(satiety)뿐 아니라 **β-endorphin(μ-opioid)** 을 분비해 paradoxically 단 음식 식욕을 켠다([[jouque-2025-beyond-satiety-unraveling-the|Jouque 2025]]; Minère 2025 *Science*). 사용자 lab 이론 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure(즉각 결과 교사)** 축의 분자 회로 substrate가 아직 hypothalamus에 정박하지 않았는데, β-endorphin이 그 후보다. 핵심 미해결: β-endorphin이 음식의 **"좋다(liking·쾌락)"** 를 부호화하는가, **"더 원한다(wanting·식욕)"** 를 부호화하는가 — Berridge liking/wanting 및 NMPU의 **Pleasure vs Motivation** 분리에 직접 답한다. 임상 출구는 **naltrexone(μ-opioid 길항, bupropion–naltrexone)** 으로 명확.
 
 # [연구계획서] POMC β-endorphin이 음식 쾌락·만족을 부호화하는가
 
 ## 1. 연구 제목
-**시상하부 POMC 뉴런의 β-endorphin 분비가 음식의 쾌락(liking)과 만족을 부호화하는가: α-MSH–β-endorphin 이원 분비의 세포타입·회로·인과 해부와 NMPU Pleasure 축으로의 정박**
+**hypothalamus POMC 뉴런의 β-endorphin 분비가 음식의 쾌락(liking)과 만족을 부호화하는가: α-MSH–β-endorphin 이원 분비의 세포타입·회로·인과 해부와 NMPU Pleasure 축으로의 정박**
 
 ## 2. 배경 및 필요성
 
 - **POMC = 단일 satiety 뉴런이라는 통념의 붕괴**: ARC [[concept-pomc-neurons|POMC]]는 전구체를 가수분해해 **α-MSH(식욕↓, [[concept-mc4r|MC4R]] 작용)** 와 **β-endorphin(μ-opioid receptor, MOR 작용)** 을 **동시 생산**한다([[concept-melanocortin-system|melanocortin system]]). [[jouque-2025-beyond-satiety-unraveling-the|Jouque 2025]]는 POMC를 분자·전기생리·해부·신경전달 **4축 heterogeneity mosaic**으로 재정의하며, β-endorphin 분비를 통해 POMC가 **paradoxically 식이·식욕을 촉진**할 수 있음을 정리한다.
 - **결정적 인과 증거**: **Minère 2025 *Science***(Jouque 2025·[[concept-pomc-neurons]]·[[concept-need-motivation-pleasure-utility]]에 수록) — POMC→**PVT(paraventricular thalamus)** 광유전 활성 → **β-endorphin → MOR → 단 음식 식욕(sugar appetite) ON**. 동일 ARC POMC 집단이 α-MSH(멈춰라)와 β-endorphin(더 달다/원한다)을 **이원 분비**한다는 직접 증거.
 - **수렴 증거**: **CB1R-POMC = cannabinoid hyperphagia**가 α-MSH가 아닌 **β-endorphin 분비**로 매개(Koch 2015 *Nature*); **운동 → POMC 활성 → β-endorphin**(Kang 2021 *Cell Metab*) — β-endorphin이 보상·쾌락 맥락에서 반복 등장.
-- **NMPU framework의 공백**: 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure(즉각 결과 교사; NAc·VP·IC·opioid)** 축은 이미 비만 약물 표적 매핑에서 **"Bupropion–naltrexone = Pleasure(NAc opioid)"** 로 명시되지만, 그 **시상하부 기원**은 미정박. β-endorphin-POMC는 **Need/Motivation 회로(ARC)에서 Pleasure 신호가 발원**한다는, framework를 위협하면서 동시에 확장하는 substrate다. [[concept-need-motivation-pleasure-utility|NMPU]] 페이지 자체가 이를 "**Pleasure가 동일 anorexigenic 뉴런에서 paradoxically 생산 가능**"으로 기록.
+- **NMPU framework의 공백**: 사용자 lab의 [[concept-need-motivation-pleasure-utility|NMPU]]에서 **Pleasure(즉각 결과 교사; NAc·VP·IC·opioid)** 축은 이미 비만 약물 표적 매핑에서 **"Bupropion–naltrexone = Pleasure(NAc opioid)"** 로 명시되지만, 그 **hypothalamus 기원**은 미정박. β-endorphin-POMC는 **Need/Motivation 회로(ARC)에서 Pleasure 신호가 발원**한다는, framework를 위협하면서 동시에 확장하는 substrate다. [[concept-need-motivation-pleasure-utility|NMPU]] 페이지 자체가 이를 "**Pleasure가 동일 anorexigenic 뉴런에서 paradoxically 생산 가능**"으로 기록.
 - **liking vs wanting 미해결**: Minère 2025은 β-endorphin을 **sugar "appetite"(wanting/Motivation)** 로 보고했으나, μ-opioid는 고전적으로 **hedonic "liking"(Berridge)** 의 핵심 매개자다([[concept-need-motivation-pleasure-utility]]가 인용한 Berridge wanting/liking). 사용자의 질문("β-endorphin이 음식 **쾌락과 만족**을 주관")은 정확히 이 **liking(Pleasure) vs wanting(Motivation)** 의 분리를 요구한다 — 본 과제의 중심 과학 질문.
 - **방법 성숙**: in vivo 활성을 분자정체·투사로 잇는 [[concept-activity-molecular-registration|CaRMA·TRU-FACT]]와 활성 의존 태깅 [[hyun-2022-tagging-active-neurons-by|Cal-Light]], [[concept-appetitive-consummatory-phases|appetitive/consummatory phase 분리]] 광유전 패러다임([[lee-2023-lateral-hypothalamic-leptin-receptor|Lee 2023]] 본 lab), [[ha-2024-hypothalamic-neuronal-activation-non-human|NHP 번역 플랫폼]]이 모두 준비됨.
-- **필요성**: β-endorphin-POMC가 Pleasure를 부호화한다면, **포만(α-MSH)을 표적하는 setmelanotide**와 **쾌락(β-endorphin)을 표적하는 naltrexone**의 분리·병용 논리가 시상하부 단일 집단 수준에서 성립한다. 사용자 lab의 약물 표적 매핑·DTx·[[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]] type 분류에 cell-type 근거 제공.
+- **필요성**: β-endorphin-POMC가 Pleasure를 부호화한다면, **포만(α-MSH)을 표적하는 setmelanotide**와 **쾌락(β-endorphin)을 표적하는 naltrexone**의 분리·병용 논리가 hypothalamus 단일 집단 수준에서 성립한다. 사용자 lab의 약물 표적 매핑·DTx·[[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]] type 분류에 cell-type 근거 제공.
 
 ## 3. 연구 가설
 
@@ -76,11 +76,11 @@ flowchart LR
   - MOR 길항(전신·표적 국소)이 palatable food의 hedonic liking·만족·과식을 선택적으로 줄이는지 — α-MSH satiety(setmelanotide 논리)와 **분리 측정**.
   - **[[ha-2024-hypothalamic-neuronal-activation-non-human|NHP 플랫폼]]**(macaque ARC chemogenetic/광유전)에서 β-endorphin-POMC 회로 보존 검증(rodent→primate).
   - [[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]] type(특히 food addiction·cue-evoked) 환자의 Pleasure 둔감화/폭주와 회로 매핑(번역 가설).
-- **성공지표**: "**포만(α-MSH/setmelanotide) vs 쾌락(β-endorphin/naltrexone)을 시상하부 단일 집단에서 분리 표적**"하는 정밀 약리 논리 확립.
+- **성공지표**: "**포만(α-MSH/setmelanotide) vs 쾌락(β-endorphin/naltrexone)을 hypothalamus 단일 집단에서 분리 표적**"하는 정밀 약리 논리 확립.
 
 ## 5. 예상 결과 및 해석
 - ARC POMC 내 **β-endorphin-우세 Pleasure subset**의 분자정체·투사·활성 시점 카탈로그(α-MSH satiety subset과 분리).
-- β-endorphin이 **liking(Pleasure)인가 wanting(Motivation)인가**에 대한 인과적 답 — [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure 축의 **시상하부 기원** 정박, 또는 Motivation 축으로의 재배정.
+- β-endorphin이 **liking(Pleasure)인가 wanting(Motivation)인가**에 대한 인과적 답 — [[concept-need-motivation-pleasure-utility|NMPU]] Pleasure 축의 **hypothalamus 기원** 정박, 또는 Motivation 축으로의 재배정.
 - **포만과 쾌락이 같은 뉴런 집단에서 분기**한다는 원리 — 비만 약리의 "satiety vs hedonic" 분리 표적 근거.
 
 ## 6. 한계·위험 및 대응
@@ -98,7 +98,7 @@ flowchart LR
 - **Y3–5**: Aim 3 — naltrexone 약리 논리 + NHP 번역.
 
 ## 8. 기대효과 및 의의
-- [[concept-need-motivation-pleasure-utility|NMPU]] **Pleasure 축의 시상하부 분자 기원**을 정박 — framework의 가장 약한 고리(쾌락 회로의 hypothalamic root) 보강.
+- [[concept-need-motivation-pleasure-utility|NMPU]] **Pleasure 축의 hypothalamus 분자 기원**을 정박 — framework의 가장 약한 고리(쾌락 회로의 hypothalamic root) 보강.
 - **포만 뉴런이 쾌락 뉴런이기도 하다**는 패러다임 — [[concept-pomc-neurons]]·[[concept-melanocortin-system]] 재해석.
 - **satiety(α-MSH/setmelanotide) vs hedonic(β-endorphin/naltrexone) 분리 표적** 약리 — [[concept-digital-therapeutics|DTx]]·약물 병용 논리의 cell-type 근거.
 - [[proposal-lh-nac-nmpu-neuron-discovery|LH·NAc NMPU 세포 발굴]]·[[proposal-nmpu-human-translation|NMPU 인간 번역]]과 **Pleasure 축에서 상보** — ARC(β-endorphin) → NAc/PVT(Pleasure) 회로 완성.

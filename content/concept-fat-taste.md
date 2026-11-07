@@ -7,25 +7,25 @@ aliases: [fat taste, oleogustus, oral fat sensing, orosensory fat, 지방맛]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> 지방은 오래 **질감·후각**으로만 감지된다 여겨졌으나, 혀 미뢰의 지방산(LCFA) 수용체([[concept-cd36|CD36]]·[[concept-free-fatty-acid-receptors|GPR120]]) 발견으로 **"제6의 미각"(oleogustus)** 후보가 됨. 사용자 관점: **구강 지방 신호 = 즉각 쾌락(liking)·욕망(wanting)의 초안**([[concept-need-motivation-pleasure-utility|NMPU]] Pleasure), 그러나 지속 강화는 **post-oral 영양**([[li-2022-gut-brain-circuits-for-fat-preference|장 gut-brain]]·[[concept-flavor-nutrient-conditioning|FNC]])에 의존. 구강↔장 지방 감지의 인과 분리가 [[proposal-oral-fat-taste-pleasure-desire|사용자 연구계획서]]의 핵심.
+> 지방은 오래 **질감·후각**으로만 감지된다 여겨졌으나, 혀 taste bud의 지방산(LCFA) 수용체([[concept-cd36|CD36]]·[[concept-free-fatty-acid-receptors|GPR120]]) 발견으로 **"제6의 미각"(oleogustus)** 후보가 됨. 사용자 관점: **구강 지방 신호 = 즉각 쾌락(liking)·욕망(wanting)의 초안**([[concept-need-motivation-pleasure-utility|NMPU]] Pleasure), 그러나 지속 강화는 **post-oral 영양**([[li-2022-gut-brain-circuits-for-fat-preference|장 gut-brain]]·[[concept-flavor-nutrient-conditioning|FNC]])에 의존. 구강↔장 지방 감지의 인과 분리가 [[proposal-oral-fat-taste-pleasure-desire|사용자 연구계획서]]의 핵심.
 
 # Fat taste / orosensory fat perception (지방맛)
 
 ## 정의
-혀 미뢰에서 **long-chain fatty acid(LCFA)** 를 화학감지하는 미각 modality. 지방 자체(트리글리세라이드)는 **lingual lipase**(Ebner 선)가 미뢰 근처에서 유리시킨 **유리지방산(LCFA)** 이 실제 자극원. 단맛·짠맛·신맛·쓴맛·감칠맛에 이은 **6번째 기본 미각(oleogustus)** 후보.
+혀 taste bud에서 **long-chain fatty acid(LCFA)** 를 화학감지하는 미각 modality. 지방 자체(트리글리세라이드)는 **lingual lipase**(Ebner 선)가 taste bud 근처에서 유리시킨 **유리지방산(LCFA)** 이 실제 자극원. 단맛·짠맛·신맛·쓴맛·감칠맛에 이은 **6번째 기본 미각(oleogustus)** 후보.
 
 ## 분자 센서
 | 센서 | 유형 | 특징 |
 |---|---|---|
 | **[[concept-cd36\|CD36]]** | scavenger receptor (비-GPCR) | circumvallate papillae 정단 국재; 지방 자발선호·cephalic-phase 소화 필수; 식이지방에 후전사 감소 |
-| **[[concept-free-fatty-acid-receptors\|GPR120]]** (FFAR4) | GPCR | 미뢰 발현; 결손 시 지방 선호↓; 식이에 불변(안정 센서) |
-| **GPR40** (FFAR1) | GPCR | 미뢰 발현 보고(Besnard lab은 미검출 — 논쟁) |
+| **[[concept-free-fatty-acid-receptors\|GPR120]]** (FFAR4) | GPCR | taste bud 발현; 결손 시 지방 선호↓; 식이에 불변(안정 센서) |
+| **GPR40** (FFAR1) | GPCR | taste bud 발현 보고(Besnard lab은 미검출 — 논쟁) |
 
 ## 전달·중추 경로
-LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) → 세로토닌·NE 방출 → **설인·미주 구심성**(CD36 발현이 집중된 곳은 유곽유두이고 fungiform엔 거의 없다 — [[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]]. chorda tympani는 안면신경 분지로 미주와 별개이므로 이 경로 표기에서 제외) → 뇌간 **NST** → 상위 미각·보상 회로.
+LCFA → CD36/GPR120 → taste bud 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) → 세로토닌·NE 방출 → **설인·미주 구심성**(CD36 발현이 집중된 곳은 유곽유두이고 fungiform엔 거의 없다 — [[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]]. chorda tympani는 facial nerve 분지로 미주와 별개이므로 이 경로 표기에서 제외) → brainstem **NST** → 상위 미각·보상 회로.
 
 ## 동역학 — sensory-specific satiety
-- 미뢰 CD36은 **섭식·식이지방에 의해 후전사적으로 급감**(재급식 1h 내 2–3배↓, 후 회복; [[martin-2011-the-lipid-sensor-candidates-cd36|Martin 2011]]) → 지방 동기가 식사 시작엔 高, 진행하며 減 = **sensory-specific satiety** 유사(저자 추론 "should be sufficient"; 급성 감소→선호 저하의 직접 인과는 미검증이며 근거는 유전적 CD36⁺/⁻의 선호 소실 — [[martin-2011-the-lipid-sensor-candidates-cd36|Martin 2011]]).
+- taste bud CD36은 **섭식·식이지방에 의해 후전사적으로 급감**(재급식 1h 내 2–3배↓, 후 회복; [[martin-2011-the-lipid-sensor-candidates-cd36|Martin 2011]]) → 지방 동기가 식사 시작엔 高, 진행하며 減 = **sensory-specific satiety** 유사(저자 추론 "should be sufficient"; 급성 감소→선호 저하의 직접 인과는 미검증이며 근거는 유전적 CD36⁺/⁻의 선호 소실 — [[martin-2011-the-lipid-sensor-candidates-cd36|Martin 2011]]).
 - GPR120은 불변 → 두 센서의 역할 분리.
 
 ## 구강(proxy) vs 장(primary) 지방 신호 ★
@@ -34,7 +34,7 @@ LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) →
 
 | 신호 | 부위 | 수용체 | 기능 | NMPU |
 |---|---|---|---|---|
-| **구강 지방(orosensory)** | 혀 미뢰 | CD36 필수·GPR120 | 즉각 쾌락·욕망 초안, cephalic phase | Pleasure/Motivation |
+| **구강 지방(orosensory)** | 혀 taste bud | CD36 필수·GPR120 | 즉각 쾌락·욕망 초안, cephalic phase | Pleasure/Motivation |
 | **장 지방(post-oral)** | 장 EEC/미주 | **GPR40/GPR120 필수, CD36 불요** | 선호 학습(지속) | Utility |
 
 - 구강과 장은 **같은 지방이라도 다른 수용체 조합** 사용([[li-2022-gut-brain-circuits-for-fat-preference|Li 2022]] CRISPR로 장 CD36 불요 명시 vs 구강 CD36 필수 [[laugerette-2005-cd36-involvement-in-orosensory-detection|Laugerette 2005]]).
@@ -44,8 +44,8 @@ LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) →
 
 | 층 | 근거 | 종·설계 | 등급 |
 |---|---|---|---|
-| 구강 미뢰 | [[laugerette-2005-cd36-involvement-in-orosensory-detection\|Laugerette 2005]] CD36-null 지방선호 소실·cephalic phase 소실 | 마우스 유전자 결손 | **마우스 인과** |
-| 구강 미뢰(동역학) | [[martin-2011-the-lipid-sensor-candidates-cd36\|Martin 2011]] 식이지방→CD36↓, CD36⁺/⁻ 선호 소실 | 마우스 | 마우스 인과(단, '식사 중 감소→선호 저하'는 **추론**) |
+| 구강 taste bud | [[laugerette-2005-cd36-involvement-in-orosensory-detection\|Laugerette 2005]] CD36-null 지방선호 소실·cephalic phase 소실 | 마우스 유전자 결손 | **마우스 인과** |
+| 구강 taste bud(동역학) | [[martin-2011-the-lipid-sensor-candidates-cd36\|Martin 2011]] 식이지방→CD36↓, CD36⁺/⁻ 선호 소실 | 마우스 | 마우스 인과(단, '식사 중 감소→선호 저하'는 **추론**) |
 | 장 → 미주(선호 학습) | [[li-2022-gut-brain-circuits-for-fat-preference\|Li 2022]] GPR40/120 이중결손만 반응·선호 소실 | 마우스 CRISPR(global) | **마우스 인과** |
 | 장 → 지방 섭취 증폭 | [[dipatrizio-2011-endocannabinoid-signal-in-the-gut\|DiPatrizio 2011]] 십이지장 rimonabant가 지방 sham 섭취 억제 | **rat**, sham-feeding | rat 인과 |
 | 중추 VMH | [[moulle-2013-fatty-acid-transporter-cd36-mediates\|Moullé 2013]] VMN CD36 shRNA가 억제 차단 | **rat**, 경동맥 주입·5 h | rat 인과(효과 5 h 한시) |
@@ -68,15 +68,15 @@ LCFA → CD36/GPR120 → 미뢰 세포내 Ca²⁺↑(CD36는 Src-PTK 경유) →
 - [[concept-flavor-nutrient-conditioning]] — taste ≠ reinforcer.
 - [[concept-primary-reward-signals]] — proxy(구강) vs primary(post-oral) reward.
 - [[concept-liking-wanting]] — liking(미각) vs wanting(gut-brain).
-- [[concept-insula]] — 1차 미각피질(구강 지방 신호 상위).
+- [[concept-insula]] — 1차 gustatory cortex(구강 지방 신호 상위).
 - [[thanarajah-2019-food-intake-recruits-orosensory]] — 인체 orosensory vs post-ingestive DA.
 - [[proposal-oral-fat-taste-pleasure-desire]] — 구강 지방 쾌락·욕망 연구계획서.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[dipatrizio-2011-endocannabinoid-signal-in-the-gut]] — 구강 지방→gut endocannabinoid 양성 피드백.
 - [[concept-endocannabinoid-system]] — 2-AG/anandamide–CB1 축 hub.
-- [[wang-2018-coding-of-valence-and-identity]] — 미각 modality-특이 valence의 편도 처리.
+- [[wang-2018-coding-of-valence-and-identity]] — 미각 modality-특이 valence의 amygdala 처리.
 - [[bai-2022-enteroendocrine-cell-types-that-drive]] — EEC 지방/영양 chemoreceptor 발현.
 - [[garrido-2026-lipid-sensing-and-brain-hormone]] — 지방 감지를 gut–kidney–brain 축으로 확장(CCK·GLP-1·GDF15 시간차) (Nat Rev Endocrinol 2026).
 - [[ge-2026-identification-of-or5v1-olfr110]] — 혈중 옥시리핀(12(S)-HEPE)→간 이소성 후각수용체 Or5v1의 4번째 지질감지 계층 (Cell 2026).
 - [[concept-ectopic-olfactory-receptors]] · [[concept-oxylipins]] — 지방 감지의 말초 대사 계층(혈중 12(S)-HEPE → 간 Or5v1/Olfr110) hub.
-- [[concept-gdf15-gfral-axis]] — 지질 감지의 **지연** 층: 신장 유래 GDF15(혈중 1–6 h 상승) → 뇌간 GFRAL, 4–6 h 섭식억제.
+- [[concept-gdf15-gfral-axis]] — 지질 감지의 **지연** 층: 신장 유래 GDF15(혈중 1–6 h 상승) → brainstem GFRAL, 4–6 h 섭식억제.

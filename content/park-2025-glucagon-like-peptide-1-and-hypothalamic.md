@@ -15,7 +15,7 @@ journal: "Diabetes & Metabolism Journal 49:333–347"
 # Park JS et al. 2025 — GLP-1 hypothalamic cognitive satiation (DMJ review)
 
 ## 한 줄 요약
-GLP-1과 GLP-1RA의 중추 작용을 cognitive satiation 차원에서 재정의. 시상하부 5개 nucleus의 GLP-1R 뉴런이 각기 다른 섭식 측면 조절.
+GLP-1과 GLP-1RA의 중추 작용을 cognitive satiation 차원에서 재정의. hypothalamus 5개 nucleus의 GLP-1R 뉴런이 각기 다른 섭식 측면 조절.
 
 ## 1. GLP-1 / GLP-1RA 발견사 요약
 
@@ -25,7 +25,7 @@ GLP-1과 GLP-1RA의 중추 작용을 cognitive satiation 차원에서 재정의.
 ## 2. 인간 fMRI: cognitive satiation 증거
 
 GLP-1RA 투여 → **음식 cue에 대한 뇌 반응 감쇠** (단순 위장 효과 아님):
-- Lixisenatide → 비만 T2DM에서 시상하부, 측두엽, lateral ventricle, 피질 활성 ↓ (Bae 2020, 본 lab).
+- Lixisenatide → 비만 T2DM에서 hypothalamus, temporal lobe, lateral ventricle, cortex 활성 ↓ (Bae 2020, 본 lab).
 - Exenatide → putamen 반응 변화 (high-cal ↓, low-cal ↑).
 - Liraglutide → insula·putamen 반응 ↓ in 비만 T2DM (10일 치료).
 - 정상체중에서도 GLP-1 IV → amygdala·insula·NAc·OFC·putamen 반응 ↓.
@@ -94,12 +94,12 @@ DMH가 GLP-1RA의 핵심 표적, **pre-ingestive cognitive satiation을 매개**
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — GLP-1RA 임상 위치.
 - [[johansen-2025-brain-control-of-energy]] — BNC2/TRH·RAMPANT DMH GLP-1R 회로가 본 cognitive satiation과 맞물림 (Cell 2025).
 - [[godschall-2026-a-brain-reward-circuit-inhibited]] — 부위별 GLP1R 분업(DMH=homeostatic, CeA=hedonic)으로 본 review 보완 (Nature 2026).
-- [[gao-2026-semaglutide-drives-weight-loss-through]] — 시상하부 cognitive 경로와 상보적인 hindbrain(AP) Gs–cAMP 약리 경로 (Nat Metab 2026).
+- [[gao-2026-semaglutide-drives-weight-loss-through]] — hypothalamus cognitive 경로와 상보적인 hindbrain(AP) Gs–cAMP 약리 경로 (Nat Metab 2026).
 - [[duran-2026-the-central-amygdala-integrates]] — 부위별 GLP1R 분업의 limbic(CeA) 축; Glp1r^CeA=hedonic, Prkcd^CeA=hypophagia (bioRxiv 2026).
 - [[concept-central-amygdala-glp1r]] — hedonic 축 GLP-1R 노드(CeA^Glp1r→VTA→NAc) 개념 hub.
-- [[concept-dorsal-vagal-complex]] — hindbrain GLP1R 무대 (DMH 시상하부 경로와 대비).
+- [[concept-dorsal-vagal-complex]] — hindbrain GLP1R 무대 (DMH hypothalamus 경로와 대비).
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — 말초 large-peptide 5중작용제는 BBB 미투과·hindbrain(AP/NTS) 작용 → 본 review의 중추 cognitive satiation 경로와 대비 (Nature 2026).
-- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-access]] — ⚠️ **해석의 분기점**: 전신 투여 liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않으므로, 본 review의 DMH GLP-1R 효과를 "약물이 DMH 실질에 직접 도달"로 설명하려면 tanycyte·CVO 경유 또는 후뇌발 회로 중계를 전제해야 한다. 위키 자료로는 판정 불가 (Neurol Ther 2025).
+- [[west-2025-are-glucagon-like-peptide-1-glp-1-receptor]] · [[concept-glp1ra-cns-access]] — ⚠️ **해석의 분기점**: 전신 투여 liraglutide·semaglutide는 뇌 유입(Ki)이 측정되지 않으므로, 본 review의 DMH GLP-1R 효과를 "약물이 DMH 실질에 직접 도달"로 설명하려면 tanycyte·CVO 경유 또는 hindbrain발 회로 중계를 전제해야 한다. 위키 자료로는 판정 불가 (Neurol Ther 2025).
 - [[person-choi-hyung-jin]] — 본 lab.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
-- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 리뷰 **6절(LS GLP-1R)** 이 중독 축만 다룬 자리에 **섭식 회로**를 채운다: dLS^GLP-1R → LHA GABA성 **단시냅스** 억제(oIPSC 5/8, TTX→4-AP, PTX 차단), 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓, **exendin-4가 그 억제 시냅스의 방출을 강화**(IPSC↑ p=0.046, PPR↓ p=0.012). 본 lab의 **DMH GLP-1R→AgRP 식전 포만**(시상하부 내부 채널)과 병렬인 **변연계→LH 하행 채널**로 배치할 수 있다. ⚠️ 급성 섭취만 측정(체중·만성 없음), 수컷 전용, `Glp1r` 유전자 결손 실험 없음 (bioRxiv preprint 2024 → Mol Metab 85:101960). → [[concept-lateral-septum]]
+- [[lu-2024-dorsolateral-septum-glp-1r-neurons]] — 본 리뷰 **6절(LS GLP-1R)** 이 중독 축만 다룬 자리에 **섭식 회로**를 채운다: dLS^GLP-1R → LHA GABA성 **단시냅스** 억제(oIPSC 5/8, TTX→4-AP, PTX 차단), 억제 시 섭취↑·투사 특이 활성/종말 광자극 시 섭취↓, **exendin-4가 그 억제 시냅스의 방출을 강화**(IPSC↑ p=0.046, PPR↓ p=0.012). 본 lab의 **DMH GLP-1R→AgRP 식전 포만**(hypothalamus 내부 채널)과 병렬인 **limbic system→LH 하행 채널**로 배치할 수 있다. ⚠️ 급성 섭취만 측정(체중·만성 없음), 수컷 전용, `Glp1r` 유전자 결손 실험 없음 (bioRxiv preprint 2024 → Mol Metab 85:101960). → [[concept-lateral-septum]]
