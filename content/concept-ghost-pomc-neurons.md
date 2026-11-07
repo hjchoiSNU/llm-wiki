@@ -51,3 +51,4 @@ aliases: [Ghost POMC, atypical POMC, ghost neurons]
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — rebound 메커니즘.
 - [[person-quarta-carmelo]] — 발견자.
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — POMC 이질성의 크로마틴 층: **Pomc/Glipr1(저 LepR) vs Pomc/Prdm12(고 LepR)** 두 아형과 아형별 cis-조절요소 (bioRxiv 2025).
+- [[person-cota-daniela]] — 같은 Bordeaux Neurocentre Magendie에서 [[person-quarta-carmelo]]와 POMC 정체성·이질성을 공동 연구.

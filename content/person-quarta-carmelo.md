@@ -41,3 +41,4 @@ affiliation: University of Bordeaux, INSERM, Neurocentre Magendie U1215
 - [[concept-melanocortin-system]] — 전체.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[concept-maternal-programming-hypothalamus]] — Quarta 리뷰([[freire-agulleiro-2026-early-life-programming-of|Freire-Agulleiro 2026]])를 1차 출처로 하는 개념 hub.
+- [[person-cota-daniela]] — 같은 센터의 공동 연구자. POMC heterogeneity를 각각 **mTOR subset**(Cota)과 **Ghost POMC 정체성**(Quarta) 쪽에서 다룬다. 공저: [[jouque-2025-beyond-satiety-unraveling-the]] · [[miralpeix-2026-hypothalamic-pomc-neurons-gate]].

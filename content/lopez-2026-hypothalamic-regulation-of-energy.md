@@ -87,3 +87,4 @@ Reviews in Endocrine and Metabolic Disorders **2026 시상하부 special issue e
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[person-friedman-jeffrey]] · [[person-lopez-miguel]] — 저자.
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — 같은 분야의 2026 리뷰. 이 editorial이 정전으로 꼽는 **미토콘드리아 역학·astrocyte 수송** 계열을 당사자가 직접 종합한 판본이고, 개념적으로는 **항상성 → 대사 유연성** 전환을 제안한다. · [[person-horvath-tamas]]
+- [[person-cota-daniela]] — 이 editorial이 **mTOR 영양 감지기(Cota·Seeley)** 와 **POMC heterogeneity(mTOR subset)** 로 꼽는 당사자.

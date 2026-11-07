@@ -96,3 +96,4 @@ updated: 2026-11-07
 - [[concept-tanycytes]] · [[concept-astrocyte-neuron-lactate-shuttle]] — 비뉴런 세포의 대사 역할.
 - [[concept-interoception]] · [[concept-metabolic-interoception]] — 내부 상태 감지 틀.
 - [[overview-appetite-energy-homeostasis]] — 섭식·에너지 항상성 종합.
+- [[person-cota-daniela]] — 이 개념을 제안한 2026 Neuron 리뷰의 공동 책임저자.

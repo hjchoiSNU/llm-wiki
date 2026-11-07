@@ -110,3 +110,4 @@ journal: "Advanced Science 2026;0:e78379 (접수 2026-05-18, 수정 2026-09-23, 
 - [[overview-appetite-energy-homeostasis]] — 큰 그림(항상성 밖의 맥락 입력).
 - [[person-quarta-carmelo]] — 공저자. 같은 Neurocentre Magendie의 POMC heterogeneity 라인.
 - [[person-choi-hyung-jin]] — 사용자 lab hub.
+- [[person-cota-daniela]] — 공동 책임저자·교신(Marsicano와 공동). POMC 재평가 라인의 실험 판본.

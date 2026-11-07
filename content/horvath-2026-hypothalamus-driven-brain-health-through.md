@@ -204,3 +204,4 @@ journal: "Neuron 115 (2027-01-06 호), Review, in press 2026; doi:10.1016/j.neur
 - [[concept-hypomap]] · [[concept-spatial-transcriptomics]] · [[yang-2026-spatial-transcriptomics-identifies-the-molecular]] — §9의 공간 omics·lipizone.
 - [[concept-astrocyte-neuron-lactate-shuttle]] — glia의 대사 역할.
 - [[overview-appetite-energy-homeostasis]] — 섭식·에너지 항상성 종합.
+- [[person-cota-daniela]] — 공동 책임저자. POMC 쪽 서술(opioid·pregnenolone·mTOR·fusion)과 치료 함의 절의 공동 제안자.

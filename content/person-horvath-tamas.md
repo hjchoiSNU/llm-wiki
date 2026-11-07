@@ -67,3 +67,4 @@ affiliation: Yale University School of Medicine (Comparative Medicine; Yale Cent
 - [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-melanocortin-system]] — 그가 다루는 회로.
 - [[person-friedman-jeffrey]] · [[person-lopez-miguel]] · [[person-knight-zachary]] — 인접 연구자.
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 분야 정전 지도.
+- [[person-cota-daniela]] — [[horvath-2026-hypothalamus-driven-brain-health-through]]의 공동 책임저자(Bordeaux INSERM).

@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — other (person-cota-daniela 생성 — 보류 해제)
+사용자 요청으로 [[person-cota-daniela]]를 만들었다(웹 미사용). **2026-05-31 lint에서 "1차 원전이 이 논문뿐"이라며 생성을 보류하고 [[jouque-2025-beyond-satiety-unraveling-the]]:120의 링크를 평문 `Daniela Cota`로 바꿨던 건의 해제**다. 그 뒤 출처가 셋으로 늘었다: [[jouque-2025-beyond-satiety-unraveling-the]](책임저자) · [[miralpeix-2026-hypothalamic-pomc-neurons-gate]](2026-10-28 ingest, 공동 책임저자·교신) · [[horvath-2026-hypothalamus-driven-brain-health-through]](2026-11-07 ingest, 공동 책임저자).
+- 내용: 소속(Bordeaux INSERM Neurocentre Magendie U1215), 연구 라인 4개 — ① POMC heterogeneity의 **mTORC1 축**(GABA vs Glut POMC의 반대 반응·GABA POMC가 단식에 활성, Saucisse 2021) ② **POMC는 포만 전용이 아니다** 종합(CB1R·μ-opioid β-endorphin의 섭식 촉진) ③ **ARC POMC의 fear-feeding gate** ④ 몸–뇌 소통·[[concept-metabolic-flexibility|대사 유연성]]. 사용자 lab 관련성은 [[proposal-pomc-endorphin-food-pleasure]]·[[overview-cea-glp1r-food-safety-alarm]]·[[proposal-glp1ra-rebound-microbiota]] 축으로 정리.
+- ⚠️ 미검증으로 명시한 것: Saucisse 2021 등 초기 mTOR·내인성 cannabinoid 1차 논문이 `raw/`에 없어 서지 직접 확인 불가(2차 인용). Miralpeix 2026의 POMC→CRH 직접 연결·α-MSH 방출·MC4R 관여는 **저자들 스스로 미검증**이라고 밝힌 부분.
+- ⚠️ 검색 오매칭 기록: `tschop-2023-gut-hormone-based-pharmacology-novel`·`wan-2023-glp-1r-signaling-and-functional`은 "Cota" 문자열로 걸리지만 **cotadutide·acylation의 오매칭**이고 그와 무관하다. 페이지에도 적어 두었다.
+- 역링크 13곳: [[jouque-2025-beyond-satiety-unraveling-the]] · [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] · [[horvath-2026-hypothalamus-driven-brain-health-through]] · [[concept-pomc-neurons]] · [[concept-ghost-pomc-neurons]] · [[concept-endocannabinoid-system]] · [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] · [[person-quarta-carmelo]] · [[person-horvath-tamas]] · [[proposal-pomc-endorphin-food-pleasure]] · [[concept-metabolic-flexibility]] · [[overview-cea-glp1r-food-safety-alarm]] · [[lopez-2026-hypothalamic-regulation-of-energy]].
+- `index.md` 👤 인물에 등재. 총 페이지 556 → **557**.
+
 ## 2026-11-07 — ingest (Horvath 2026 Neuron 리뷰 — 대사 유연성)
 세션 중 사용자가 raw에 새로 넣은 `raw/2026 Neuron, Hypothalamus-driven brain health through metabolic flexibility.pdf`를 **본문 전체·그림 7개 legend·방법론 한계·향후 방향·감사/이해상충까지** 읽고 정리했다(웹 미사용, 참고문헌 168편). Supplementary는 PDF에 없다.
 **새 페이지 3**

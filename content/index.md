@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 556 (+ index.md, log.md)
+- 총 페이지: 557 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-07
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -593,6 +593,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-horvath-tamas]] — Yale 비교의학·분자시스템대사. **UCP2(1997)·미토콘드리아 역학·대사 신호에 의한 시냅스 재편** 라인. 위키 9개 페이지가 공저·협력·방법 제공으로 인용. · 🔑 Tamas Horvath, Tamas L. Horvath, UCP2, 미토콘드리아 역학
 - [[person-lopez-miguel]] — Hypothalamic AMPK / BAT / sEV drug. Santiago de Compostela. · 🔑 Miguel López, López Miguel, M. López
 - [[person-quarta-carmelo]] — POMC heterogeneity, Ghost POMC. Bordeaux INSERM. · 🔑 Carmelo Quarta
+- [[person-cota-daniela]] — Bordeaux Neurocentre Magendie U1215. **POMC heterogeneity의 mTOR subset**·POMC의 CB1R·opioid 매개 섭식 촉진·ARC POMC의 fear-feeding gate. [[jouque-2025-beyond-satiety-unraveling-the]]·[[miralpeix-2026-hypothalamic-pomc-neurons-gate]]·[[horvath-2026-hypothalamus-driven-brain-health-through]] 책임저자. · 🔑 Daniela Cota, Cota, mTORC1, Neurocentre Magendie, Marsicano
 - [[person-yeo-giles]] — HypoMap + 인간 atlas, MC4R·BDNF/TrkB. Cambridge MRC. · 🔑 Giles Yeo, GSH Yeo, Giles S. H. Yeo
 - [[person-korotkova-tatiana]] — LH 3 motivational arbitration. Cologne CECAD. · 🔑 Tatiana Korotkova
 - [[person-halpern-casey]] — 인간 NAc/OFC 침습 전기생리 + responsive DBS(LOC eating·OCD). UPenn 신경외과.
