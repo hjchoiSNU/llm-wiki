@@ -67,3 +67,4 @@ aliases: [hypothalamic microinflammation, neuroinflammation hypothalamic, hypoth
 - [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 1차 출처(NRN 2026). LBN이 PVN에서 CRH 뉴런 주위 미세아교세포의 시냅스 포식을 감소시킨다는 시상하부 사례 포함.
 - [[concept-maternal-programming-hypothalamus]] — neuroinflammation을 6 매개 기전의 첫째로 두는 모체 프로그래밍 hub.
 - [[belmont-rausch-2026-leptin-sensitive-hypothalamic-lepr-glp1r-neurons]] — ⚠️ **인과 방향 반대 증거**: DIO LeprGlp1rKO는 더 먹고 더 무거운데도 ARC IBA1⁺ microglia가 적고(P<0.01), Lepr 뉴런 전사체에서 염증·ER stress 신호 근거가 없었다 → microgliosis가 식이가 아니라 **leptin 작용의 결과**라는 주장 (EMBO J 2026).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — microinflammation을 **대사 경직의 표현**으로 읽는다. 또 melanocortin 회로가 염증에 반응만 하는 것이 아니라 **능동적으로 면역을 조절**한다고 본다(AgRP SIRT1 결손 → Treg 조절 손상·EAE 감수성↑, AgRP→bone marrow·thymus 교감 조절, AgRP→PVH→vagus 항염증 경로). hypothalamic 염증 차단이 생쥐 health span을 늘린 '회춘' 계열도 정리.

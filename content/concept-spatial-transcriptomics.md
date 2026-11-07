@@ -32,3 +32,4 @@ aliases: [SRT, Visium, Xenium, MERFISH, spatial transcriptomics, snRNA-seq atlas
 - [[heyward-2025-single-nucleus-transcriptional-and-chromatin]] — Xenium으로 AgRP 2아형·Bnc2/Glp1r 3아형의 ARC/VMH·DMH 공간 분포를 독립 검증 (bioRxiv 2025).
 - [[concept-cis-regulatory-element-obesity]] — 전사체·공간에 이은 **조절 층** 방법론 hub.
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — **EASI-FISH**: 2× 팽창 + 다라운드 HCR-FISH로 **300 µm 두꺼운 절편**에서 24유전자를 3D 단일세포 해상도로 측정한다(비바코드 순차 탐침, 상용 light-sheet, 오픈소스 Nextflow 파이프라인, Starfinity 3D 분할 정확도 95.5%). 마우스 tuberal LHA를 Otp/Meis2 × Vglut2/Vgat 조합으로 **9개 분자 하위구역**으로 나눴다 (bioRxiv 2021 → Cell 2021, Sternson·Tillberg lab).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 대사 유연성 측정의 한계를 정리: 전사체 추론(GAM clustering·COMPASS)은 프로그램을 **추론**할 뿐이고, MALDI-MSI 지질체 지도의 **lipizone**은 전사체가 지질 분산의 일부만 설명함을 보였다 → 공간 전사체 + 공간 metabolomics 통합 요구.

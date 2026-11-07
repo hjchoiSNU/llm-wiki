@@ -122,3 +122,4 @@ flowchart LR
 - [[person-choi-hyung-jin]] — 연구책임자.
 - [[overview-research-proposals]] — 연구계획서 비교 hub(본 과제 = #7).
 - [[overview-future-research-directions]] — 상위 로드맵.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 이 제안의 전제(POMC가 opioid로 섭취·기호성을 **촉진**)를 Neuron 리뷰 수준에서 뒷받침한다. 같은 리뷰는 POMC 유래 **neurosteroid pregnenolone**이 hippocampal 기억을 조절하고 사람 CSF 농도가 인지 점수와 상관한다는 축도 제시한다.

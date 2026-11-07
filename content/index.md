@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 553 (+ index.md, log.md)
+- 총 페이지: 556 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-07
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -134,6 +134,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[kim-2024-unified-theoretical-framework-underlying-regulation]] — Need-Motivation-Pleasure-Utility framework (BioEssays 2024, 사용자 lab). · 🔑 NMPU, LH^LepR, ARC
 - [[knight-liberles-2025-interoception]] — Interoception 2025 frontier overview (Curr Opin Neurobiol). · 🔑 EEC, NTS, NMPU, AP(area postrema)
 - [[lopez-2026-hypothalamic-regulation-of-energy]] — 시상하부 EE 분야 history × frontier editorial (López·Friedman). · 🔑 POMC, AMPK, BNC2, HypoMap, ARC
+- ★ [[horvath-2026-hypothalamus-driven-brain-health-through]] — **항상성 → [[concept-metabolic-flexibility|대사 유연성]]** 전환을 제안하는 Neuron 리뷰(Horvath·Cota). AgRP/POMC를 섭식 조절자가 아니라 **개체 수준 연료 협응의 허브**로 재배치: 세포내 기전(ghrelin→AMPK→CPT1→fission vs leptin/mTOR→fusion·MFN2, ROS의 반대 역할), 말초로의 부과(섭취 통제해도 지방생성·수 시간 내 BAT myostatin 경유 insulin 저항성), 상위 기능(mPFC 구조·lysophospholipid 경로·POMC pregnenolone→기억·사람 CSF 상관), 면역·노화·AD로의 연결. ★ 치료 함의 = **약리적 포만 ≠ 칼로리 제한**. ⚠️ 대부분 설치류, 저자 본인 lab 1인칭 종합. · 🔑 metabolic flexibility, UCP2, CRAT, MFN2, HypoAD, lipizone
 - [[barros-2026-from-diet-to-hypothalamic-dysfunction]] — Microbiota-시상하부-WAT axis 종합 + 약물 효과. · 🔑 LPS, T3, TGR5, AHR, TLR4, SCFA
 - [[johansen-2025-brain-control-of-energy]] — 비만 원인론→회로(시상하부·뇌간·보상)→neuroplasticity→뇌 표적 항비만 약물 field-spanning 종합 (Cell 2025, 사용자 lab 3편 인용). · 🔑 GLP-1R, BNC2, PSD-95, PICK1, CNTF, DVC
 - [[bonnefond-2026-the-genetics-of-obesity]] — 비만 유전학 monogenic(>85형, 절반 이상 leptin–melanocortin)·oligogenic(엑솜 burden)·polygenic(GWAS >1,000 loci, PRS) 연속체 + 정밀의학(setmelanotide 상류 결손 80%/53% vs 이형접합 MC4R ~3 kg, PWS diazoxide choline, CTS 유전점수→liraglutide 반응) (Nat Metab 2026, Froguel·Bonnefond). · 🔑 PCSK1, LEPR, FTO, NCOA1, POMC, MSH
@@ -524,6 +525,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]] · 🔑 melanocortin 4 receptor, MC3R, MSH, PVN, SNS, PRS
+- ★ [[concept-metabolic-flexibility]] — **대사 유연성 hub**: 기질 전환 능력을 조직 속성이 아니라 **개체 속성**으로 보고 조율 허브를 ARC melanocortin 뉴런으로 지목. AgRP(지질·fission·UCP2가 ROS 억제) vs POMC(탄수화물·fusion·ROS 필수) 대조표, CRAT·SIRT1 노드, ⚠️ **설정점/defended adiposity 틀과의 긴장**, 감량 경로별 평가 기준, 측정 한계(PET·metabolomics·전사체 추론·lipizone). · 🔑 대사 유연성, metabolic inflexibility, 기질 전환, 미토콘드리아 역학, 연료 선택
 - [[concept-obesity-genetics]] — 비만 유전학 hub: monogenic·oligogenic·polygenic 연속체, 침투도의 환경·PRS 의존, 정밀의학 번역. · 🔑 monogenic obesity, 단일유전자 비만, oligogenic obesity, polygenic obesity, CTS, MC4R
 - [[concept-ketogenesis]] — ketone(BHB)·EE·RER을 섭취와 분리해 읽는 설계 원칙과 회로 제어(NTS→ARC vs NTS→DMH) hub. · 🔑 케톤생성, ketone bodies, β-hydroxybutyrate, energy expenditure, GLP-1RA
 - [[concept-cd36]] · [[concept-fat-taste]] · [[concept-free-fatty-acid-receptors]] · [[concept-endocannabinoid-system]] — eCB는 **말초 지방 섭취 + 중추 eCB-LTP 학습 규칙 + NAc 핫스폿 '좋아함'** 3축 · 🔑 fatty acid translocase, SR-B2, LCFA(long-chain fatty acid), GDF15, Src-PTK, GPR40
@@ -588,6 +590,7 @@ Halpern 그룹의 살아있는 인간 NAc/OFC/insula/해마 침습 전기생리 
 - [[person-choi-hyung-jin]] — 사용자 본인. 서울대 해부학교실·의과학과·뇌인지과학과. 시상하부 식욕 회로·NMPU·DMH GLP-1R·LH·DTx. · 🔑 최형진, Hyung Jin Choi, HJ Choi
 - [[person-kim-meelim]] — 사용자 lab DTx·디지털 표현형 제1저자. 다차원 CBT-DTx·체중인지 역학. · 🔑 김미림, Meelim Kim, M Kim
 - [[person-friedman-jeffrey]] — Leptin (1994) + BNC2 (2024) 발견자. Rockefeller HHMI. · 🔑 Jeffrey Friedman, Jeffrey M. Friedman
+- [[person-horvath-tamas]] — Yale 비교의학·분자시스템대사. **UCP2(1997)·미토콘드리아 역학·대사 신호에 의한 시냅스 재편** 라인. 위키 9개 페이지가 공저·협력·방법 제공으로 인용. · 🔑 Tamas Horvath, Tamas L. Horvath, UCP2, 미토콘드리아 역학
 - [[person-lopez-miguel]] — Hypothalamic AMPK / BAT / sEV drug. Santiago de Compostela. · 🔑 Miguel López, López Miguel, M. López
 - [[person-quarta-carmelo]] — POMC heterogeneity, Ghost POMC. Bordeaux INSERM. · 🔑 Carmelo Quarta
 - [[person-yeo-giles]] — HypoMap + 인간 atlas, MC4R·BDNF/TrkB. Cambridge MRC. · 🔑 Giles Yeo, GSH Yeo, Giles S. H. Yeo

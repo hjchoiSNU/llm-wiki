@@ -116,3 +116,4 @@ ARC AgRP 뉴런이 **hormone + sensory + 환경 + circadian** 4개 modality를 �
 - [[concept-mc3r]] — AgRP가 길항하는 수용체 (rheostat/boundary).
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[betley-2013-parallel-redundant-circuit-organization-for]] — 본문 "Projection diversity" 절이 인용한 1차 출처 중 하나. 투사별 섭식 충분성(aBNST·PVH·LHA 충분 / PVT 소폭 / CEA·PAG·PBN 불가), 축 담보 빈약(표적 주입부 penetrance 4–27%, 인접 표적은 거의 무표지), 정량 조직(ARC AgRP 9,965±66개 중 PVH 29.9±7.4%, aBNST 18.3±3.3%, PAG 4.0±1.2%, PBN 3.1±0.9%, CEA 2.2±0.6%, PVT 2.1±0.2%)은 이 논문에서 직접 확인할 것 (Cell 2013, Sternson lab).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — AgRP를 통합자로 보는 같은 계열의 Neuron 리뷰. 통합의 **세포 생체에너지 층**(미토콘드리아 역학·연료 전환)과 **말초로의 출력**(연료 분배 부과)을 더한다.

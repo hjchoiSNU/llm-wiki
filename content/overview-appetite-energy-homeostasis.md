@@ -210,3 +210,4 @@ updated: 2026-10-11
 
 ## 관련 페이지
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 호르몬 적응의 지속이라는 임상 사실을 큰 그림에 연결.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 이 종합의 틀을 **항상성에서 대사 유연성으로** 옮기자는 2026 Neuron 리뷰. AgRP·POMC를 섭식 조절자가 아니라 개체 수준 연료 협응의 허브로 재배치하고, 노화·신경퇴행까지 같은 축으로 잇는다. ⚠️ 저자들이 요구한 **지방조직 재구성** 쪽 생물학은 위키에 1차 자료가 없다.

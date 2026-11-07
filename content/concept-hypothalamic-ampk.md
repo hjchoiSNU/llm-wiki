@@ -59,3 +59,4 @@ aliases: [hypothalamic AMP-activated protein kinase, AMPK]
 - [[concept-agrp-synaptic-plasticity]] — 전시냅스 AMPK 축이 속한 개념 hub.
 - [[concept-circuit-bistability-hysteresis]] — AMPK 되먹임이 만드는 양안정·이력 구조.
 - [[grzelka-2023-a-synaptic-amplifier-of-hunger]] — PVH^TRH→AgRP 활성 의존 증폭의 하류 분자로 **CaMKII·AMPK**를 추정(저자 논의; 미검증). ⚠️ 단 저자가 CaMKII 근거로 든 인용 2건은 실제로는 **CaMKK2(CaMKKβ)** 논문(Hawley 2005·Anderson 2008)이다 — 두 효소 구별은 [[concept-agrp-synaptic-plasticity]]의 "분자 실행자" 절 참조 (Cell Metab 2023).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — ghrelin→AgRP의 **AMPK → ACC 억제 → malonyl-CoA↓ → CPT1 탈억제 → β-산화 → 미토콘드리아 fission** 연쇄를 이 페이지의 AMPK 축에 붙인다. 치료 함의: 칼로리 제한은 AMPK·mTORC1를 재조정하지만 약리적 포만은 같은 상태를 재현하지 않을 수 있다.

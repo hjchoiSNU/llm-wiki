@@ -271,3 +271,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[burke-2026-duration-between-rewards-controls-the]] — Pleasure의 회고적 교사 신호 강도가 같은 결과의 드묾(보상 간격)에 비례한다는 정량 규칙(연결 해석).
 - [[concept-will-volition-motivation]] — '의지'의 두 뜻을 NMPU에 배치: 기본 준비성(일할 의지) = Motivation, 충동을 참는 자기통제 = Utility(연결 해석).
 - [[volkow-2026-glp-1-receptor-agonists-in]] — 내수용 신호(배고픔·스트레스·불편·각성)가 중변연계 도파민 학습을 거쳐 물질 추구와 묶인다는 서술. NMPU의 약리 검증 축.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — Need 축을 '결핍의 크기'가 아니라 **전환 능력([[concept-metabolic-flexibility|대사 유연성]])** 으로 다시 쓸 수 있다는 제안. POMC의 opioid 분비는 Pleasure 축과도 얽힌다.

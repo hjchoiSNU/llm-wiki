@@ -125,3 +125,4 @@ Knight ([[knight-liberles-2025-interoception]] 본인 소개):
 - [[mehrhof-2025-an-interoceptive-model-of-energy]] — interoceptive **energy allostasis** 이론(예측적 내수용으로 대사–정신 공존 설명).
 - [[nord-2021-disrupted-dorsal-mid-insula]] — 내수용 손상의 transdiagnostic 신경 locus(좌측 등쪽 중간섬엽) 메타분석.
 - [[kaduk-2026-glucose-levels-are-associated]] — interoceptive accuracy(대사상태 지각)가 혈당–기분 매개·기분 변동 조절.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 내부 상태를 **뇌 상태의 master regulator**로 세우는 리뷰. hypothalamus를 내수용 정보가 분산 신경계로 들어가는 1차 관문으로 본다.

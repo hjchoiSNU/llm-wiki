@@ -152,3 +152,4 @@ Grzelka 본문: "genetic deletion of CaMKII downregulates AgRP gene expression a
 - [[liu-2012-fasting-activation-of-agrp-neurons]] — 후시냅스 **NMDAR·spinogenesis** 축의 1차 출처. AgRP는 가시가 풍부하고 POMC는 사실상 없다는 구조적 비대칭, 단식 가시 +67%, `Grin1` 삭제 시 단식 반응 전체 소실 (Neuron 2012, Lowell lab).
 - [[concept-glia-stress-plasticity]] — 시냅스를 **제거하는** 쪽 기전(미세아교세포 가지치기). 본 페이지의 미결 질문 중 하나.
 - [[davila-2026-agrp-neurons-are-required-for]] — **약물에 의한 AgRP 시냅스 재편**: 세마글루타이드 2일차엔 sIPSC·sEPSC 모두 증가, **15일차엔 sIPSC 빈도만 감소**해 순흥분 쪽으로 이동하며 미토콘드리아 밀도·PVH 말단 면적도 증가 (PNAS 2026).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 이 페이지의 주제를 **대사 유연성 틀 안에 배치**한 Neuron 리뷰. 단식이 orexigenic 입력의 흥분성 구동을 늘리고 재급식이 되돌린다는 leptin·ghrelin 라인의 출처이며, hypothalamus 밖(VTA·hippocampus·LH orexin)으로도 확장한다. **astrocyte PGE2–EP2 양성 피드포워드**(AgRP GABA → astrocyte → PGE2 → AgRP 흥분성↑)를 과식 증폭 기전으로 제시. · [[person-horvath-tamas]]

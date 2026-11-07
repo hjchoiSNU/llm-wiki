@@ -44,3 +44,4 @@ updated: 2026-10-25
 - [[concept-leptin]] · [[murray-2014-hormonal-and-neural-mechanisms]] — leptin·ghrelin·insulin의 보상계 조율(대사호르몬→VTA).
 - [[person-nord-camilla]] · [[person-kroemer-nils]] — 대사–기분–보상 연구자.
 - [[hutelin-2026-metabolic-and-neural-responses-to]] — 급성 식후 insulin 차이(UPF↑)는 food-cue 뇌 반응과 무관하고 carbohydrate oxidation·RER만 연관 (Nat Metab 2026).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 대사 내수용 신호를 **대사 유연성**이라는 단일 변수로 묶고, 그 조율 허브를 ARC melanocortin 뉴런으로 지목한다.

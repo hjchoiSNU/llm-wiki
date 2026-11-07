@@ -51,3 +51,4 @@ aliases: [ANLS, lactate shuttle, 젖산 셔틀, astrocyte-neuron lactate shuttle
 - [[ochan-2026-dopamine-drives-persistent-remodelling-of]] — 그 1차 출처 (Nature 2026).
 - [[concept-glia-stress-plasticity]] — 성상교세포의 **다른 축**: 대사 지원(젖산 셔틀)이 아니라 **Ca²⁺ 신호·GFAP**를 통한 스트레스 반응. 외측 편도체 성상교세포 Ca²⁺ 조작만으로 스트레스 유발 행동 결손이 구제된다.
 - [[cunningham-2026-early-life-experiences-the-neural]] — 위 근거의 출처. **ELS 성상교세포의 후성유전체를 직접 본 연구는 아직 없다**는 공백도 명시 (NRN 2026).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — astrocyte도 미토콘드리아 역학에 기반한 **고유한 대사 유연성**을 갖고 AgRP 가소성에 참여한다(GABA → astrocyte → PGE2 → AgRP EP2 양성 고리).

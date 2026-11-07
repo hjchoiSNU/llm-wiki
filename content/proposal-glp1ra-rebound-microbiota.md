@@ -79,6 +79,7 @@ updated: 2026-09-19
 - [[aronne-2023-continued-treatment-with-tirzepatide-for]] — GLP-1RA/tirzepatide 중단 후 rebound 임상 앵커(SURMOUNT-4).
 
 ---
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — ★ 이 제안의 평가 기준을 바꿀 수 있는 주장: **"체중이 줄었나"가 아니라 "생리적 배고픔 적응 프로그램을 켰나, 인공 포만 상태를 켰나"**. 칼로리 제한(AgRP 활성 유지·POMC 억제·AMPK/mTORC1 재조정)과 semaglutide의 약리적 포만을 **따로 연구해야 한다**고 본다(인크레틴 반대 논거는 아니라고 명시).
 
 ## 2026-09-11 보강 — 제3의 기전 축: 시냅스 가소성
 

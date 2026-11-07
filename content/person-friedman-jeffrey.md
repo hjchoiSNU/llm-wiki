@@ -45,3 +45,4 @@ affiliation: Howard Hughes Medical Institute, The Rockefeller University
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — 본 lab의 외측중격 연구: **LS^Nts가 능동 도피 스트레스에 선택적으로 조율**되고 LH 투사로 섭식·체중을 억제. LS^Nts의 70%가 `Glp1r`⁺ (eLife 2020).
 - [[concept-lateral-septum]] — 위 논문이 세운 LS 섭식 억제 축의 개념 hub.
 - [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] — 본 lab의 LH **MCH 뉴런 = 설탕 영양 가치 → 선조체 DA** 논문(eLife 2013, de Araujo·Horvath 공동). sucralose+MCH 20 Hz 자극 시 sucrose 선호 82% → 20%로 역전, MCH 제거 시 sucrose DA 방출(+118%) 소실. Alon & Friedman 2006 MCH 제거 → 마름의 후속.
+- [[person-horvath-tamas]] — Yale 비교의학. [[domingos-2013-hypothalamic-melanin-concentrating-hormone]]의 공저자이며, [[lopez-2026-hypothalamic-regulation-of-energy]]가 정전으로 꼽는 미토콘드리아 역학·astrocyte 수송 계열의 당사자.

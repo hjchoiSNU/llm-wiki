@@ -118,3 +118,4 @@ aliases: [ARC, arcuate, arcuate nucleus]
 - [[wang-2026-a-hypothalamic-circuit-links]] — 만성 HFD가 ARC^AgRP를 feeding-locked로 모집해 **PVNCRH→LHAGlu** 장거리 회로를 켜고 불안-연합 과식을 구동. ARC가 섭식뿐 아니라 **정서 축의 출발핵**으로 기능하는 질병-맥락 조건 (Nat Commun 2026).
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ARC가 받는 **뇌간 입력의 대사 기능**: NTS Adcyap1⁺→ARC 광자극이 섭취 없이 **β-hydroxybutyrate↑·체중↓**(암기 chow 섭취는 억제 못 함, p=0.0741로 오히려 증가 경향)이고 단식 AgRP Fos를 억제. ⚠️ AgRP **활성**이 ketogenesis를 올린다는 Chen 2023과 방향이 어긋나 ARC 내 **AgRP 비의존 기전** 가능성을 남김 (bioRxiv preprint 2026).
 - [[liu-2023-an-iterative-neural-processing]] — 넓은 arena 자유행동에서 ARC^AgRP가 섭식 조각 사이 탐색마다 **재상승**(preparation 단계; Fig S2B). "식사 내내 평탄히 꺼짐"이 아니라 조각 단위 진동(Neuron 2023).
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — ARC를 개체 수준 **대사 유연성의 협응 허브**로 본다. median eminence 인접·BBB 밖 노출, tanycyte 수송, AgRP↔POMC 길항 상태 진동이 유연성을 지탱하고 그 붕괴가 비만·노화·신경퇴행으로 간다. 공간 omics·lipizone 측정의 1차 표적으로도 꼽힌다.

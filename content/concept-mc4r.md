@@ -60,3 +60,4 @@ aliases: [MC4R, melanocortin 4 receptor]
 - [[concept-maternal-programming-hypothalamus]] — PVN MC4R→hypertension을 포함한 모체 프로그래밍 hub.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[bonnefond-2026-the-genetics-of-obesity]] · [[concept-obesity-genetics]] — 인간 유전학 리뷰(Nat Metab 2026): MC4R 결손=유럽 최다 단일유전자 비만, 침투도 연령·세대·PRS 의존(PRS 하위 2.2배 vs 상위 9.7배), **Gαs** 결합(MRAP2·ASIP·SIM1·GNAS–ADCY3·BDNF), 이형접합 MC4R엔 setmelanotide ~3 kg에 그침.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — ⚠️ **열린 문제**: AD 유사 모형에서 MC4R **작용**이 인지·glial 프로필을 개선하고 길항이 그 이득을 차단하는데, 일부 기분·불안 패러다임에서는 MC4R **길항제**가 항불안·항우울 효과를 보인다. 저자들은 모순이 아니라 **회로 특이성**으로 읽지만 어느 집단인지는 특정하지 않는다. AD 모형에서 hypothalamic MC4R 발현이 인지 손상에 **앞서** 감소한다는 보고도 정리.

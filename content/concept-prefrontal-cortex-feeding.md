@@ -236,3 +236,4 @@ graph LR
 - [[stuber-2025-the-neurobiology-of-overeating]] · [[overview-appetite-energy-homeostasis]] — 과식의 회로 모델과 큰 그림.
 - [[person-choi-hyung-jin]] — 사용자 lab hub.
 - [[concept-will-volition-motivation]] — '의지' 둘째 뜻(자기통제)의 회로 자리로 PFC brake 축을 참조하는 개념 hub.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — hypothalamus → cortex의 두 경로를 제시한다: 발달기 AgRP 교란이 medial prefrontal cortex의 **뉴런 수·진동 활동·sensorimotor gating**을 바꾸고 도파민 조절로 되돌려지며, AgRP가 **순환 lysophospholipid**를 통해 cortical 흥분성을 바꾸는 **비뉴런 경로**도 있다.

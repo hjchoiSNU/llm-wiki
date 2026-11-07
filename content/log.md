@@ -8,6 +8,27 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-07 — ingest (Horvath 2026 Neuron 리뷰 — 대사 유연성)
+세션 중 사용자가 raw에 새로 넣은 `raw/2026 Neuron, Hypothalamus-driven brain health through metabolic flexibility.pdf`를 **본문 전체·그림 7개 legend·방법론 한계·향후 방향·감사/이해상충까지** 읽고 정리했다(웹 미사용, 참고문헌 168편). Supplementary는 PDF에 없다.
+**새 페이지 3**
+- **[[horvath-2026-hypothalamus-driven-brain-health-through]]** — Horvath·Romanov·Matarese·Cota, Neuron 115(2027-01-06 호, in press 2026), doi:10.1016/j.neuron.2026.09.028. 주장: 몸에서 오는 신호는 뇌 기능의 **주변적 수정자가 아니라 근본적 결정자**이고, hypothalamus의 AgRP·POMC가 **개체 수준 대사 유연성**을 조율하며 보상·학습·실행기능·사회행동까지 조형한다.
+  - 개념 핵: **항상성(설정점 유지) vs 대사 유연성(끊임없는 적응)** — "생물학적 목표는 항상성이 아니라 성공적인 지속 적응".
+  - 세포내 기전(저자 lab 30년): ghrelin→GHS-R1a→AMPK→ACC 억제→malonyl-CoA↓→CPT1 탈억제→β-산화, **UCP2가 ROS 억제**→DRP1 fission (AgRP, 지질) vs leptin/포도당→mTOR→**fusion·MFN2**, **ROS가 발화 필수** (POMC, 탄수화물). CRAT = 연료 전환 노드, SIRT1 = NAD⁺ 감지기.
+  - 말초로의 **부과**: 급성 AgRP 활성화가 섭취를 통제해도 지방생성 촉진, 수 시간 내 **BAT myostatin 경유 전신 insulin 저항성**. 시간 논리 = 단기는 말초 기질, 장기는 뇌 구조·행동.
+  - 상위 기능: AgRP 뉴런 **제거**는 성체 치사(개별 분자 결손은 미미) / **GABA가 생존 신호**(하류 GABA 복원이 표현형 구제) → 배고픔 = 경쟁 프로그램의 선택적 억제 / **POMC는 opioid로 섭취 촉진**(포만 전용 아님) / AgRP→**medial prefrontal cortex 뉴런 수·진동·sensorimotor gating**(도파민으로 복원) / AgRP→**순환 lysophospholipid**→cortical 흥분성(비뉴런 경로) / POMC **pregnenolone**→hippocampal 기억, **사람 CSF pregnenolone ↔ 인지 점수 양의 상관** / astrocyte **PGE2–EP2 양성 피드포워드**.
+  - 면역·노화·AD: ghrelin·NPY·eCB는 항염증(Th1/Th17↓·Treg↑), leptin은 염증 촉진. AgRP SIRT1 결손→Treg 손상·EAE↑, AgRP→bone marrow·thymus, AgRP→PVH→vagus. 노화 POMC는 mTOR↑→KATP↑로 침묵; AgRP **CPT1A 결손이 노령 생쥐 지속력·협응·탐색 개선**. AD 모형에서 AgRP·POMC·MC4R↓·미토콘드리아 결손이 **인지 손상에 앞섬**; **HypoAD** 사람 지도; tanycyte의 **CSF→혈액 tau 제거**.
+  - ★ 치료 함의: **칼로리 제한 ≠ 약리적 포만 ≠ 인공 영양 신호**. "체중이 줄었나"가 아니라 "배고픔 적응 프로그램인가, 인공 포만 상태인가". semaglutide는 같은 시상하부·면역·생체에너지 상태를 재현하지 않을 수 있다 — 단 **인크레틴 반대 논거가 아니라고 명시**. 고용량 **sucralose**의 T세포 억제를 "대사적 무음"의 반례로 제시.
+  - 저자들의 자기 비판: 근거 대부분 설치류, 그리고 **Cajal 뉴런 독트린에 기댄 opto/chemogenetics가 hypothalamus에 잘 맞지 않는다**(공간 분포·연결성이 무질서, "AgRP→cortex 노드 수는 계산조차 불가능"). 측정 한계와 **lipizone**(MALDI-MSI 지질 영역, 전사체가 지질 분산의 일부만 설명).
+  - 병기한 긴장 3: ① **CPT1 방향**(급성 배고픔에서는 탈억제가 필요, 노화에서는 CPT1A 결손이 이득 — 원문이 조정하지 않음) ② **MC4R 작용 vs 길항**(AD 모형은 작용, 기분·불안은 길항 — 회로 특이성이라지만 집단 미특정) ③ **ROS의 두 얼굴**(AgRP는 억제, POMC는 필수 → 항산화 개입의 방향 예측 불가).
+  - 원문 메모: 저자 목록은 Roman Romanov인데 감사문은 **R.A.R.**, **T.L.H.의 연구비 기재 없음**, 이해상충 없음 선언, 표지 "Neuron 115, January 6, 2027 © 2026"(in press).
+- **[[concept-metabolic-flexibility]]** — 위키에 `metabolic flexibility`·"대사 유연성"이 **한 번도 없었다**(전수 확인). 새 hub: 고전적 정의(조직) → 개체 수준 확장 → hypothalamus 허브, AgRP/POMC 대조표, ⚠️ **[[concept-weight-regain-defended-adiposity]] 설정점 틀과의 긴장**(둘을 병기: "방어되는 값" vs "전환 능력"), 경직의 결과, 개입 설계 함의, 측정 한계.
+- **[[person-horvath-tamas]]** — 위키 9개 페이지가 인용하는데 person 페이지가 없던 인물. 소속·연구 라인 5개(UCP2, ghrelin→AgRP 연료 전환, 시냅스 재편, astrocyte 피드포워드, 노화·신경퇴행)와 위키 내 인용 맥락(공저: [[davila-2026-agrp-neurons-are-required-for]]·[[domingos-2013-hypothalamic-melanin-concentrating-hormone]]·[[leinninger-2009-leptin-acts-via-leptin]]). ⚠️ 1차 논문이 raw에 없어 서지 미검증, 리뷰의 1인칭 서술에 기댄 부분 명시.
+**갱신 페이지 31**
+- 역링크 30곳: [[concept-npy-agrp-neurons]] · [[concept-pomc-neurons]] · [[concept-melanocortin-system]] · [[concept-arcuate-nucleus]] · [[concept-agrp-synaptic-plasticity]] · [[concept-hypothalamic-ampk]] · [[concept-hypothalamic-inflammation]] · [[concept-tanycytes]] · [[concept-ghrelin]] · [[concept-leptin]] · [[concept-weight-regain-defended-adiposity]] · [[concept-mc4r]] · [[proposal-pomc-endorphin-food-pleasure]] · [[proposal-glp1ra-rebound-microbiota]] · [[faour-2025-emerging-role-of-agrp]] · [[davila-2026-agrp-neurons-are-required-for]] · [[domingos-2013-hypothalamic-melanin-concentrating-hormone]] · [[lopez-2026-hypothalamic-regulation-of-energy]] · [[concept-orexin-neurons]] · [[concept-interoception]] · [[concept-metabolic-interoception]] · [[kim-2024-normative-framework-dissociates-need]] · [[concept-need-motivation-pleasure-utility]] · [[concept-hypomap]] · [[concept-spatial-transcriptomics]] · [[concept-prefrontal-cortex-feeding]] · [[concept-inhibitory-control-demand]] · [[concept-astrocyte-neuron-lactate-shuttle]] · [[overview-appetite-energy-homeostasis]] · [[person-friedman-jeffrey]].
+- `index.md` — 🍽️ 종합·이론에 논문, 💡 메커니즘·분자에 개념, 👤 인물에 인물 등재. 총 페이지 553 → **556**.
+**점검**: 세 페이지의 wikilink 전수 확인 → 깨진 링크 0. `index.md` 링크 수 = 파일 수와 일치(556).
+**위키에 생긴 공백**(이 리뷰가 요구하지만 위키에 1차 자료가 없는 것): **지방조직 재구성(adipose tissue remodeling)** 생물학 — 같은 날 ingest한 [[nusinovich-2026-going-beyond-glp-1]] 특집 서문도 같은 공백을 지적한다. 그 밖에 POMC pregnenolone(ref 63)·AgRP→mPFC(ref 58)·lysophospholipid(ref 67)·astrocyte PGE2(ref 112)·CRAT(refs 95–96)·BAT myostatin(ref 98)·AgRP SIRT1-Treg-EAE(ref 122)·HypoAD(ref 141)·tanycyte tau(ref 142)·sucralose T세포(ref 156)·lipizone(refs 167–168)의 1차 논문이 모두 raw에 없다.
+
 ## 2026-11-07 — ingest (Science 394(6824) 특집 'GLP-1 and beyond' 6편 완료)
 같은 날 앞선 두 세션에서 안전 검사로 중단됐던 특집 ingest를 끝냈다(웹 미사용). raw–`source:` 전체 diff에서 미등록 PDF는 3개뿐이었고 모두 이 특집·중복본이었다. 잘못된 폴더에 놓인 PDF는 없었다.
 **새 페이지 2**

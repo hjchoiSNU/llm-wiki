@@ -87,3 +87,4 @@ journal: PNAS
 - [[concept-agrp-synaptic-plasticity]] — AgRP 신호 gain의 시냅스 층.
 - [[blid-skoldheden-2026-semaglutide-engages-distinct-brainstem]] — ⚠️ **AgRP 방향성 정면 긴장(병기)**: 저 preprint는 세마글루타이드가 ghrelin·단식 유발 AgRP 활성을 **억제**하고, AgRP^Gq 활성화가 약물의 섭취 감소를 **완전 역전**시킨다고 보고(수컷 DIO, 8일). 본 논문은 AgRP가 **모집·필수**(암컷, 지방 동원 실행). 성별·투여기간·판독(급성 c-Fos vs 만성 대사 실행)이 모두 달라 **배타적 모순이라기보다 다른 시간척도의 진술**일 수 있다 — 저 preprint 저자들도 본 논문을 인용해 '맥락 의존'으로 유보한다 (bioRxiv preprint 2026).
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량·재증가 양쪽의 관문인 AgRP — 본 연구의 말초 신호가 수렴하는 중추 표적.
+- [[horvath-2026-hypothalamus-driven-brain-health-through]] — 같은 lab(Horvath)의 2026 Neuron 리뷰. 이 논문의 "semaglutide가 AgRP를 모집한다"를 **약리적 포만 ≠ 칼로리 제한**이라는 더 큰 주장 안에 놓는다. · [[person-horvath-tamas]]
