@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-15 — query (같은 원고의 Unresolved Challenges 4문항이 실제로 미해결인지 판정 — 위 승인 범위 내 웹 사용)
+판정: Q2(어느 cue가 credit을 받는가)만 신경 기전 수준에서 온전히 미해결. Q1은 혐오 학습에서 이미 해결(Zimmerman 2025의 CGRP→CeA 재활성화, 지속 활동·신규 모집은 기각)이고 식욕성 영양 학습에서만 공백. Q3의 "liking인가 wanting인가"는 위키 자료가 wanting으로 수렴([[li-2022-gut-brain-circuits-for-fat-preference]] cNST 침묵이 선천적 매력은 보존·섭취 후 선호만 차단, [[yang-2026-a-sync-state-in-the]] vigor↑·2병 선호 불변, [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] 가치만 변하고 palatability 불변) — 단 conditioned flavor preference에서 hedonic taste reactivity가 증가한다는 상반 보고의 맥락 미확인(원문 확인 필요). Q4는 specific PIT·outcome-specific devaluation 분야가 이미 답한 상태([[hoang-2026-methamphetamine-potentiates-the-use-of]] VTA^DA→LH가 cue–특정결과 학습·결정에 필요·충분, [[hoang-2021-the-basolateral-amygdala-and]], Wassum 2022 eLife 리뷰) → 삭제 또는 재범위화 권고. 위키 페이지 변경 없음.
+
 ## 2026-11-15 — query (Perspective 원고 "Credit Assignment for Delayed Outcomes in Food Value Learning" 신규성 문헌 조사 — 사용자 승인으로 이번만 웹 사용)
 원고 논점이 이미 출판됐는지 대조. 위키 근거: [[yang-2026-a-sync-state-in-the]](interoceptive credit assignment, sync state는 친숙해질수록 감소)·[[weber-2025-interoceptive-origin-reinforcement-learning]](proxy reward가 credit assignment를 돕는다)·[[concept-flavor-nutrient-conditioning]]. 웹 근거(위키 미등록): Zimmerman 2025 Nature 본문 확인(credit assignment 명시, 지속 활동·재활성·신규 모집 3가설 검증, novelty 의존 PKA를 "biochemical eligibility trace"로 제안, 안전·영양 학습으로 확장 가능성 언급), Kalat & Rozin 1973·Ahlers & Best 1971(novelty가 시간 근접성보다 우선), Fenu 2001(NAc shell D1 차단이 미각 단기 흔적 형성 방해), Bermúdez-Rattoni lab(신규 맛에 IC 도파민·D1), Adaikkan & Rosenblum 2015(신규 맛 IC 분자 흔적 ~3 h/~8 h). 결론: 문제 설정·세 기전·novelty 우선 원리는 대부분 기출판, 남는 신규성은 도파민 두 신호(신규성 tag + 지연 영양 신호) 통합 모델. 위키 페이지 변경 없음.
 
