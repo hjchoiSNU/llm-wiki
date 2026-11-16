@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-15 — query (Perspective 원고 "Credit Assignment for Delayed Outcomes in Food Value Learning" 신규성 문헌 조사 — 사용자 승인으로 이번만 웹 사용)
+원고 논점이 이미 출판됐는지 대조. 위키 근거: [[yang-2026-a-sync-state-in-the]](interoceptive credit assignment, sync state는 친숙해질수록 감소)·[[weber-2025-interoceptive-origin-reinforcement-learning]](proxy reward가 credit assignment를 돕는다)·[[concept-flavor-nutrient-conditioning]]. 웹 근거(위키 미등록): Zimmerman 2025 Nature 본문 확인(credit assignment 명시, 지속 활동·재활성·신규 모집 3가설 검증, novelty 의존 PKA를 "biochemical eligibility trace"로 제안, 안전·영양 학습으로 확장 가능성 언급), Kalat & Rozin 1973·Ahlers & Best 1971(novelty가 시간 근접성보다 우선), Fenu 2001(NAc shell D1 차단이 미각 단기 흔적 형성 방해), Bermúdez-Rattoni lab(신규 맛에 IC 도파민·D1), Adaikkan & Rosenblum 2015(신규 맛 IC 분자 흔적 ~3 h/~8 h). 결론: 문제 설정·세 기전·novelty 우선 원리는 대부분 기출판, 남는 신규성은 도파민 두 신호(신규성 tag + 지연 영양 신호) 통합 모델. 위키 페이지 변경 없음.
+
 ## 2026-11-07 — query (Obesity perspective Box 1에 write-enable window 가설 수록)
 직전 검토 결과를 초안 문서 Box 1에 정식 수록(웹 미사용). 네 질문 뒤에 두 문단을 추가 — **"A candidate answer to question 4: dopamine as a write-enable signal"**(cue 도파민이 가치를 나르는 게 아니라 직전 활성 시냅스를 수 분간 가변 상태로 붙들고 부호는 뒤에 오는 것이 정한다; 지지 5건 = 학습률 α 비부호성·Schultz 초기 성분 비선택성·BLA 부호 없는 burst·eCB-LTP의 D2R 의존·VTA→aBLA 자극이 동기 없이 학습만 생성; 정량 예측 = 창 길이 ∝ 예상 지연)와 **"Where it breaks"**(aBLA/pBLA 분리, VTA-DA 침묵이 CTA는 못 막음, FNC는 중첩 요구 vs CTA는 수 시간 허용 → 공유 창이 아니라 **채널별 창**; 판별 실험 = 지연 구간 VTA-DA 억제가 FNC와 CTA를 같은 정도로 손상시키는가). Box heading을 "Four open questions, a candidate mechanism, and where it breaks"로 변경. 참고문헌 42개로 확장(신규 40–42: [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]]·[[schultz-2016-dopamine-reward-prediction-error-signalling]]·[[piette-2026-striatal-endocannabinoids-drive-one-shot]]). Box 1 약 1,050단어 — 본문 1,400단어는 목표 내, box 분리 가정은 작성자 메모에 유지. 위키 페이지 변경 없음.
 
