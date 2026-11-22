@@ -2,7 +2,7 @@
 title: "A unified theoretical framework underlying the regulation of motivated behavior"
 type: paper
 created: 2026-04-30
-updated: 2026-10-11
+updated: 2026-11-22
 source: "raw/2024 BioEssays. A unified theoretical framework underlying the regulation of motivated behavior.pdf"
 authors: [Kim YB, Lee YH, Park SJ, Choi HJ]
 year: 2024
@@ -103,3 +103,4 @@ journal: "BioEssays e2400016"
 - [[liu-2023-an-iterative-neural-processing]] — NMPU를 시간축으로 펼친 실험 단면: preparation(ARC^AgRP=Need가 경쟁 동기 억제)·initiation(LH^GABA=Motivation 역치 K 돌파)·maintenance(DR^GABA=Pleasure 유지) 매핑 가설(Neuron 2023, 연결 가설).
 - [[de-vrind-2019-effects-of-gaba-and]] — NMPU에 **에너지 소비 출력(체온·운동·체중)** 축을 붙이는 사례: Motivation 노드로 매핑된 LH^LepR를 포만 상태에서 hM3Dq로 수 시간 켜면 Need 신호 없이도 빈 우리 운동↑·눈 온도↑·3일 반복 시 체중↓가 나오고, 섭취 감소는 **먹이가 쉽게 닿을 때만**(바닥 chow) 나타나 cage-top에서는 사라진다 → "Motivation이 목표 없는 locomotion과 EE로 새어 나간다"는 연결 가설(Obesity 2019; NMPU 매핑은 원문 주장 아님).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — NMPU의 Motivation/Utility 축에 LH^LepR를 매핑하는 독립 lab 인과 증거: LepR 조작은 섭취(소비) 무변·appetitive 학습만 변화 → "Motivation = 접근·학습 단계 변수" 해석과 방향 일치. LH^LepR→VTA 억제가 학습 asymptote를 올리는 것은 Utility→Motivation 되먹임 회로 후보(Cell Rep 2021, NIDA Aponte).
+- [[overview-grand-quest]] — 본 framework의 **Utility→Pleasure·Need 알고리즘 reshape**를 그랜드 퀘스트의 중심 명제(섭식=지연 결과 credit assignment)로 끌어올린 종합 페이지(2026-11-22).

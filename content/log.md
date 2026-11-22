@@ -8,6 +8,9 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-22 — other (그랜드 퀘스트 답안을 위키 페이지로 보관)
+2026-11-17 query 답변을 사용자 요청으로 페이지화. 신규 [[overview-grand-quest]] — 5문항(질문 제기·기존 통념 4겹·도전 가설·탐색전략·대안적 미래) + 변형 가설 2개(Need의 단위 / 래치) + 정직한 공백 3건(인간 Need·Utility biomarker 부재, 초 단위 vs 수 분–수 시간 지연 간극, [[vieira-2024-temporal-interference-stimulation-disrupts|tTIS 약한 효과]]). 역방향 링크 9건 추가: [[person-choi-hyung-jin]]·[[overview-future-research-directions]]·[[overview-research-proposals]]·[[concept-need-motivation-pleasure-utility]]·[[overview-appetite-energy-homeostasis]]·[[rossi-2018-overlapping-brain-circuits-for]]·[[lee-2025-hijacked-brain-modern-obesity-cue]]·[[kim-2024-unified-theoretical-framework-underlying-regulation]]·[[concept-weight-regain-defended-adiposity]]. [[index|index.md]] 종합/리뷰 카테고리 맨 앞에 등재. 웹 미사용.
+
 ## 2026-11-22 — ingest (11-21 digest 5편: tonic DA·AgRP→DA·VMS DA·food noise·MICE)
 11-21 digest 8편 중 raw에 받은 5편을 ingest(새 환경 `llm-wiki`로 bioRxiv·arXiv 허용). 디지스트가 "위키에 없음"으로 잘못 표기한 Zhu 2025·Onimus 2026은 이미 존재해 제외, 1번(Psychedelics)은 사용자 지시로 제외. 새 페이지 5개:
 - [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] (bioRxiv 2026, Sabatini): 분 단위 **tonic DA**가 progressive ratio 동기를 인과 결정(DREADD 양방향), D2R-SPN PKA는 직접·D1R-SPN은 phasic 증폭으로 간접 조절. backlink [[concept-will-volition-motivation]]·[[salamone-2012-mysterious-motivational-functions-mesolimbic]]·[[concept-medium-spiny-neuron]]·[[touponse-2026-cholinergic-modulation-of-dopamine-release]].
