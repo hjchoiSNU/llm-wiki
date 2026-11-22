@@ -8,6 +8,10 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — other (raphe 약어 통일을 다음 건강검진으로 이연, 상시 항목 등록)
+
+사용자 지시로 raphe 약어 통일(median → `MRN`, dorsal → `DRN`)을 **이번에 실행하지 않고 다음 건강검진으로 넘겼다**. log 항목만으로는 다음 세션이 못 찾으므로 [[index|index.md]] 머리말에 **"다음 건강검진 대기 항목"** 절을 새로 만들어 1번으로 등록했다 — 권고 표기·유보 사항(`region` vs `nucleus` 범위 미정의는 지우지 말고 한 곳에 남길 것)·주요 수정 대상 6개 페이지·배경 링크를 함께 적었다. 위키 페이지 내용 변경은 없다(index 머리말만). 웹 미사용.
+
 ## 2026-11-23 — lint (`MRR`=`MRN` 단정을 유보로 교정 + MRR 감사 재확인, Opus 5)
 
 바로 앞 항목에서 **"`MRR`와 `MRN`은 같은 핵이다"** 라고 단정했는데, 병행 세션이 그 단정을 자기 hub에서는 유보로 적었다고 알려 와 직접 재확인했다. **지적이 맞다 — 위키에는 두 용어의 범위를 정의한 문장이 없다.** `MRR = median raphe region`은 [[concept-lateral-habenula]] aliases·21행과 [[luscher-2021-consolidating-the-circuit-model-for]]에 명시돼 있지만, `region`과 `nucleus`가 정확히 같은 범위인지는 어디에도 없고 Szőnyi 2019도 "마우스 median raphe의 vGluT2⁺ 뉴런"으로만 소개된다. 핵심 원칙 ③(honest gaps)에 걸리는 과잉 단정이었다.

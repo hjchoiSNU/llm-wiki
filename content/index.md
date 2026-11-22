@@ -12,6 +12,8 @@ title: 뇌과학 LLM Wiki
 
 - 총 페이지: 566 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-23
+- **다음 건강검진 대기 항목** (사용자 승인 완료, 2026-11-23 감사):
+  1. **raphe 약어 통일** — 2개 핵을 4개 약어로 쓰고 있다. **median raphe = `MRN` 또는 `MRR`**, **dorsal raphe = `DR` 또는 `DRN`**. 권고: median은 `MRN`, dorsal은 `DRN`으로 모음(`MRR`은 "region"이라 핵 이름과 어긋나고 `DRN`이 18개 페이지로 다수). ⚠️ `region`과 `nucleus`의 범위 동일성은 위키에 정의가 없으므로 통일 시 그 유보를 지울 것이 아니라 한 곳에 남길 것. 영향 범위 24개 이상 페이지 — 주요 수정 대상: [[concept-lateral-habenula]]·[[luscher-2021-consolidating-the-circuit-model-for]]·[[concept-dopamine-reward-system]](`MRR`), [[liu-2023-an-iterative-neural-processing]]·[[overview-lateral-hypothalamus-synthesis]]·[[concept-lateral-hypothalamus]](`DR`). 배경은 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] ⚠️ 절의 약어 지도와 [[concept-lh-gabaergic-neurons]] §5-7.
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
