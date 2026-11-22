@@ -120,7 +120,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 ### 3.1 입력
 | 입력원 | 전달물질·성질 | 효과 | 출처 |
 |---|---|---|---|
-| **NAcSh D1R-MSN** | GABA성 단시냅스 억제. **LH^Vgat의 78%(28/36)** 가 연결(803 ± 217 pA), rabies 입력의 **97%가 D1R-MSN**. LH 투사 NAcSh 뉴런의 **93.6%**가 D1R(D2R 5.2%). biocytin 충전 62개 중 연결된 29개에서 **MCH⁺·orexin⁺는 0개** | "feeding authorization" 게이트 — D1R 말단 자극은 24 h 금식에도 섭취 중단, D1R 광억제는 **포만 상태에서도 섭취 개시**(F(1,19)=5.55, p<0.05) | [[oconnor-2015-accumbal-d1r-neurons-projecting\|O'Connor 2015]] |
+| **NAcSh D1R-MSN** | GABA성 단시냅스 억제. **LH^Vgat의 78%(28/36)** 가 연결(803 ± 217 pA), rabies 입력의 **97%가 D1R-MSN**. LH 투사 NAcSh 뉴런의 **93.6%**가 D1R(D2R 5.2%). biocytin 충전 62개 중 **29개(47%)가 연결**이고, 염색한 부분집합에서 **연결 세포 중 MCH⁺ 0/14·orexin-A⁺ 0/10**(MCH⁺ 2개·orexin⁺ 1개는 모두 비연결) | "feeding authorization" 게이트 — D1R 말단 자극은 24 h 금식에도 섭취 중단, D1R 광억제는 **포만 상태에서도 섭취 개시**(F(1,19)=5.55, p<0.05) | [[oconnor-2015-accumbal-d1r-neurons-projecting\|O'Connor 2015]] |
 | 같은 경로의 **가소성** | eCB–CB1R 의존 **전시냅스 i-LTD**. 급성 식이제한(t(21)=2.91, p<0.01)·3일 고지방식에서 depress | 과식 허가. CB1R 차단이 보상 과식을 막고, in vivo HFS(100 Hz)로 potentiate하면 **24 h 금식 섭취가 준다**(lick t6=6.534, p<0.001). 늘어난 것은 **bout 수**(동기)이고 bout당 lick(기호성)은 불변 | [[thoeni-2020-depression-of-accumbal-to\|Thoeni 2020]] |
 | **LPB**(lateral parabrachial) | 흥분성(*Slc17a6*⁺·*Slc32a1*⁻). rabies 표지 PB 뉴런의 **~80%가 lateral 하위핵** | **체온조절 행동 전용** — 말단 억제는 자가가온만 손상, 섭식·BAT는 무영향 | [[jung-2022-a-forebrain-neural-substrate-for\|Jung 2022]] |
 | **DLS^Pdyn**(dorsal hippocampus CA3/2 경유) | GABA성 단시냅스 억제(TTX+4-AP 검증, EPSC 없음). norBNI(KOR 길항)가 IPSC 진폭을 바꾼다 | **맥락 조건화 섭식만** 선택적으로 매개 — 총 섭취량은 보존 | [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral\|Goode 2026]] |
@@ -261,7 +261,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 
 ## 7. 원문 대조로 확인한 수치
 
-이 페이지를 쓰면서 **위키 서술을 그대로 옮기지 않고 raw PDF에서 직접 확인한 항목**이다. 나머지 수치는 해당 위키 페이지의 기재를 따랐다.
+이 페이지를 쓰면서 **위키 서술을 그대로 옮기지 않고 raw PDF에서 직접 확인한 항목**이다. 나머지 수치는 해당 위키 페이지의 기재를 따랐다. (O'Connor 2015는 작성 시점에 원본이 raw에 없었으나 **2026-11-23 사용자가 투입해 추가 대조**했다.)
 
 | 수치 | 원문 위치 | 결과 |
 |---|---|---|
@@ -287,6 +287,10 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 | palatable 선호비 **t5=5.248, P=0.003**; lard 단독 t5=3.100, P=0.027(보정 후 ns) | de Vrind 2019, Results p.1126 | 일치 |
 | 운동 **t5=3.031, P=0.029**; 눈 온도 **F3,15=9.043, P=0.0012**; 3일 체중 **F3,15=5.353, P=0.0104** | de Vrind 2019, Results p.1127–1128 | 일치 |
 | LH^LepR 운동 **t7=−4.820, P=0.002**; 눈 온도 F1,7=7.495, P=0.029 | de Vrind 2019, Results p.1127 | 일치 |
+| LH 투사 NAcSh 뉴런 **93.6 ± 0.8%**가 D1R(1,173/1,246, n=3); D2R **5.2 ± 1.1%**(29/593, n=2) | O'Connor 2015, Results p.554 | 일치 |
+| LH GABA 뉴런 **78% 연결(28/36, n=3)**, 평균 **803 ± 217 pA**; rabies EGFP 뉴런의 **97%**가 tdTomato⁺(D1R-MSN) | O'Connor 2015, Fig 6 본문 p.559 | 일치 |
+| 포만 중 D1R-MSN 광억제 → 섭취↑ **F(1,19)=5.55, p<0.05**; LH^Vgat 직접 광억제(24 h 금식) **F(1,9)=8.64, p<0.05**; closed-loop 3-lick burst 분포 **F(1,9)=86.6, p<0.001** | O'Connor 2015, Fig 3·6 범례 | 일치 |
+| ⚠️ biocytin 62개 중 연결 29개(47%) — 단 **MCH 염색은 25개(연결 14개 중 0개)**, **orexin-A 염색은 27개(연결 10개 중 0개)** | O'Connor 2015, Fig 5 본문 p.558 | **정밀화**: 연결 29개 전부를 두 마커로 염색한 것이 아니다 |
 
 **해소된 1건**: [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]] 페이지의 NAcShL 로지스틱 회귀 p값이 `1.1e-6`으로 적혀 있으나 원문은 **1.07e−6**이다(반올림 표기 차이, 결론 불변).
 

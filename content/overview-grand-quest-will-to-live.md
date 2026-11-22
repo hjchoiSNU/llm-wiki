@@ -2,12 +2,12 @@
 title: "그랜드 퀘스트 — 삶의 의지는 '얼마나 남았나'가 아니라 '언제 그만두나'다"
 type: overview
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
 > **SNU 그랜드퀘스트 챌린지 과제(「생존·관계·이상을 추구하거나 포기하는 다차원 분자기전 지도를 그려, 삶의 의지를 측정하고 조절할 수 있을까?」)의 5문항을 위키 근거만으로 재검토한 페이지.** 핵심 제안 둘. ① **통념 절의 '단일성 전제'(의지는 스칼라)는 방어 불가** — [[redish-2016-the-computational-complexity-of-valuation|Redish 2016]]이 이미 common currency를 폐기 고려하고 [[concept-liking-wanting|liking/wanting 해리]]·[[concept-need-motivation-pleasure-utility|NMPU]]도 같은 방향이다. 대신 **"동기의 차원은 행동 종결점이 정한다"**와 **"포기는 추구의 부재다"**를 통념으로 세우면 반박이 어렵고 측정 설계가 바로 따라온다. ② 그래서 도전 가설을 **크기(얼마나 남았나) → 이탈 임계값(언제 그만두나)**으로 재정식화한다: *의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라, 그만두라는 신호가 켜지는 사건이다.*
-> 제목에 새로 들어온 **'포기'가 위키 자산과 정확히 맞물린다** — [[holton-2026-the-adaptive-value-of-stubborn|Holton 2026]]의 apathy 역설·disengagement 역설, [[concept-goal-commitment]]의 patch-leaving·momentum, [[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]의 능동 도피 특이 LS^Nts. 자매 페이지는 [[overview-grand-quest-feeding-as-learning]](섭식판 그랜드 퀘스트), 상위 로드맵은 [[overview-future-research-directions]].
+> 제목에 새로 들어온 **'포기'가 위키 자산과 정확히 맞물린다** — [[holton-2026-the-adaptive-value-of-stubborn|Holton 2026]]의 apathy 역설·disengagement 역설, [[concept-goal-commitment]]의 patch-leaving·momentum, [[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]의 능동 도피 특이 LS^Nts, 그리고 **[[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]]의 median raphe switchboard**(2026-11-23 ingest) — 고집·탐색·포기가 **서로 다른 세포타입**에 할당되고, 포기에는 전용 상류 입력(LHb→MRN)이 있다. 자매 페이지는 [[overview-grand-quest-feeding-as-learning]](섭식판 그랜드 퀘스트), 상위 로드맵은 [[overview-future-research-directions]].
 > ⚠️ 이 페이지는 **raw의 과제 자료 11건 + 위키 자료의 종합·해석(연결 가설)** 이며, 개별 1차 자료의 저자 주장이 아니다. 각 항의 근거 등급은 링크된 페이지에서 확인할 것.
 
 # 그랜드 퀘스트 — 삶의 의지는 '얼마나 남았나'가 아니라 '언제 그만두나'다
@@ -82,13 +82,14 @@ updated: 2026-11-22
 ### 교체 제안 — 통념 ②: 포기는 추구의 부재다 ★
 > **그래서 동기 측정은 전부 추구 쪽에서만 이뤄진다 — breakpoint, 선택률, 접근 속도. '그만둠'은 그 지표의 0이거나 과제의 끝이다.**
 
-이것은 **진짜로 검증되지 않은 전제**이고, 위키에 반증의 씨앗이 셋 있다.
+이것은 **진짜로 검증되지 않은 전제**이고, 위키에 반증의 근거가 넷 있다(마지막은 2026-11-23 ingest).
 
 | 근거 | 내용 |
 |---|---|
 | [[holton-2026-the-adaptive-value-of-stubborn\|Holton·Niv·O'Reilly 2026]] **apathy의 역설** | 특성 apathy가 높을수록 행동 서열에 **과도하게 지속**하고 제때 이탈하지 못한다. apathy↔충동성이 청년에서 높은 상관이고, over-/under-persistence가 **같은 개인에서 공존**한다 → "동기 없음"이 "안 움직임"이 아니라 "**못 그만둠**"으로 나타난다 |
 | 같은 리뷰의 **disengagement 역설** | 일반 인구에서 포기 능력은 낮은 스트레스·더 나은 웰빙과 연관되는데 **우울 위험군에서는 포기가 우울 증상 증가와 연관** → 포기는 추구의 0이 아니라 **별도 축이며 양방향으로 고장난다** |
 | [[azevedo-2020-a-limbic-circuit-selectively-links\|Azevedo 2020]] (Friedman lab) | lateral septum의 neurotensin 뉴런은 **도망칠 수 있을 때만** 켜지고, 몸이 묶여 움직이지 못하거나 freezing일 때는 **활성이 감소**한다. 켜지면 lateral hypothalamus 투사로 섭식·체중을 낮추되 불안·운동은 건드리지 않는다 → **같은 위협에서 능동 대처와 수동 포기가 서로 다른 분자 신호를 쓴다는 이미 출판된 분자 수준 증거.** LS^Nts의 70%가 `Glp1r` 공발현이라 랩의 GLP-1 라인과도 붙는다 |
+| ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative\|Ahmadlou 2025]] (Nature, Hofer lab) | median raphe nucleus의 세 세포타입이 **고집(GABA 억제)·탐색(VGluT2 활성)·포기(SERT 억제)** 를 나눠 맡는다. 포기에는 **전용 상류 입력**이 있다 — **LHb→MRN^VGAT→MRN^SERT 억제**가 각성·운동을 바꾸지 않으면서 포기 상태만 81%까지 늘린다. 그리고 **필요·충분 구조가 축마다 다르다**(VGluT2 억제는 아무 상태도 안 바꿈=탐색에 불필요 / SERT 억제는 포기를 만듦=참여에 필요) → **추구와 포기는 한 축의 양끝이 아니다** |
 
 **정리**: 제목에 '포기'를 넣은 것이 통념 절을 구하는 길이다. **"포기는 측정 대상이 아니었다"**를 통념의 중심에 놓으면 ⓐ 반박이 어렵고 ⓑ 측정 설계가 바로 따라오며 ⓒ 임상(자살·무기력)과 직결된다.
 
@@ -114,6 +115,7 @@ H1(차원)·H2(시간)·H3(방향)은 각각 좋으나 **셋이 하나의 문장
 > **의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라, 그만두라는 신호가 켜지는 사건이다.**
 
 - 반증 가능하다([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo형 설계]]: 같은 위협에서 능동/수동 조건을 가르고 신호를 비교).
+- **회로 정체가 이미 나왔다** — [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]]의 **LHb→MRN^VGAT→MRN^SERT 억제**가 "그만두라는 신호"의 첫 구체 후보다. 임계값 언어로는 **LHA^VGAT→MRN이 이탈 임계값을 올리고(고집), LHb→MRN이 내린다(포기)** — 두 입력이 같은 노드(MRN^VGAT)에 반대 부호로 수렴하는 구조가 H1("공통 이득항 + 축 특이 신호")의 회로 구현 후보가 된다.
 - 치료 표적이 "추구를 올리기"에서 **"중단 신호를 끄기"**로 바뀐다.
 - 신정환 교수팀 환자 자료와 바로 맞물린다 — **같은 도파민 소실에서 의지가 남는 사람과 사라지는 사람의 차이가 도파민의 양이 아니라 중단 임계값에 있다**는 예측. 부록 C의 예상 질문("도파민이 곧 의지인가")에 대한 가장 좋은 답이기도 하다.
 
@@ -210,18 +212,22 @@ H1(차원)·H2(시간)·H3(방향)은 각각 좋으나 **셋이 하나의 문장
 | 영장류 subthalamic nucleus 가치기반 행동 | 위키 없음 |
 | '이상' 축의 동물 측정법 | 위키 전체에 없음 — §3의 '몰입 bonus' 우회가 유일한 후보 |
 
-### 1순위 ingest 권고 — Ahmadlou 2025 Nature
-*A subcortical switchboard for perseverative, exploratory and **disengaged** states.* [[holton-2026-the-adaptive-value-of-stubborn|Holton 2026]]이 인용하지만 **원전이 위키에 없다.** 제목에 '포기'를 넣은 순간, 이것이 **"포기에 전용 신경 구조가 있다"**는 주장의 가장 직접적인 회로 근거가 된다. 그 외 2순위: Chu & Schulz 2022(투자 없는 몰입) · Holton 2024 Nat Hum Behav(frustration > temptation 비대칭) · Aenugu & O'Doherty 2025(momentum).
+### ✅ 해결됨 (2026-11-23) — Ahmadlou 2025 Nature
+*A subcortical switchboard for perseverative, exploratory and **disengaged** states.* 1순위 ingest 권고였고 **2026-11-23에 들어왔다** → [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]. "포기에 전용 신경 구조가 있다"는 주장이 **가설에서 동정된 회로로** 바뀌었다(§2 통념 ② 표와 §3에 반영). 함께 생긴 새 과제: **LH^LepR→MRN 투사가 존재하는가** — 있으면 랩의 분자 정의 집단이 이 switchboard에 직접 연결된다([[concept-lh-gabaergic-neurons]]·[[lee-2023-lateral-hypothalamic-leptin-receptor]]).
+
+### 남은 ingest 권고 (2순위)
+Chu & Schulz 2022(투자 없는 몰입) · Holton 2024 Nat Hum Behav(frustration > temptation 비대칭) · Aenugu & O'Doherty 2025(momentum) · Costello 2023·Jeong 2022(파킨슨 apathy·자살률, 신정환 교수팀 인용).
 
 ---
 
 ## 한 문장 요약
-과제의 통념 절은 이미 학계가 버린 전제(단일성)에 기대어 약하고(§2), 제목에 새로 들어온 **'포기'** 가 그 자리를 채울 수 있는 유일한 전제다 — 포기는 추구의 0이 아니라 **전용 기전을 가진 능동적 사건**이라는 증거가 계산([[holton-2026-the-adaptive-value-of-stubborn]])·분자([[azevedo-2020-a-limbic-circuit-selectively-links]]) 양쪽에 이미 있다(§3). 의지를 **크기에서 이탈 임계값으로** 옮기면 세 하위 가설이 하나의 측정량으로 묶이고(§3), 번역 단위는 과제가 아니라 **파라미터**가 되며(§4), 종결점은 체중·설문에서 **"어느 축에서 언제 그만두는가"**로 바뀐다(§5). 가장 약한 고리는 숨기지 않는 편이 낫다 — **'이상' 축과 유한성에는 아직 측정법이 없다.** 그것이 약점이 아니라 그랜드 퀘스트가 필요한 이유다.
+과제의 통념 절은 이미 학계가 버린 전제(단일성)에 기대어 약하고(§2), 제목에 새로 들어온 **'포기'** 가 그 자리를 채울 수 있는 유일한 전제다 — 포기는 추구의 0이 아니라 **전용 기전을 가진 능동적 사건**이라는 증거가 계산([[holton-2026-the-adaptive-value-of-stubborn]])·분자([[azevedo-2020-a-limbic-circuit-selectively-links]])·**회로**([[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]) 세 층에 이미 있다(§3). 의지를 **크기에서 이탈 임계값으로** 옮기면 세 하위 가설이 하나의 측정량으로 묶이고(§3), 번역 단위는 과제가 아니라 **파라미터**가 되며(§4), 종결점은 체중·설문에서 **"어느 축에서 언제 그만두는가"**로 바뀐다(§5). 가장 약한 고리는 숨기지 않는 편이 낫다 — **'이상' 축과 유한성에는 아직 측정법이 없다.** 그것이 약점이 아니라 그랜드 퀘스트가 필요한 이유다.
 
 ## 관련 페이지
 - [[overview-grand-quest-feeding-as-learning]] — **자매 페이지**(섭식판 그랜드 퀘스트). 그쪽의 "섭식 = credit assignment"가 설정하는 것이 이쪽의 **이탈 임계값**이라는 읽기로 두 제안이 한 프로그램이 된다.
 - [[concept-will-volition-motivation]] — '의지'의 두 뜻(기본 준비성 vs 자기통제) 지도. 본 페이지의 임계값 가설은 그 ①(tonic 반응준비성)에 **'중단 신호'라는 제3 성분**을 더하려는 시도다.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — §2 통념 ②와 §3 임계값 가설의 1차 근거(apathy 역설·disengagement 역설·patch-leaving·momentum·동기 비계).
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] — **"그만두라는 신호"의 회로 정체**(median raphe switchboard; LHA^VGAT→MRN=고집, LHb→MRN^VGAT→MRN^SERT 억제=포기). §7의 1순위 ingest가 해결된 결과.
 - [[azevedo-2020-a-limbic-circuit-selectively-links]] — "능동 대처와 수동 포기가 서로 다른 분자 신호를 쓴다"의 현존 증거(LS^Nts, 능동 도피 특이).
 - [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — §1의 "왜 지금": tonic DA가 일할 동기를 인과 결정하고, 축 분리가 일어나는 층이 수용체·세포내 신호 층임을 보인다.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]] · [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — §4의 '관계 축' 분자 표적 후보(LH^LepR의 hunger×anxiety×social arbitration).
