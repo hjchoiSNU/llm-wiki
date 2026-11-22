@@ -61,6 +61,17 @@
 
 역방향 링크 16건 추가·수정(모두 `updated: 2026-11-23`): [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]](본문 문장 교체 + 링크)·[[concept-lateral-habenula]]·[[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]]·[[concept-compulsion]]·[[concept-anhedonia]]·[[concept-will-volition-motivation]]·[[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]]·[[concept-effort-based-decision-making]]·[[azevedo-2020-a-limbic-circuit-selectively-links]]·[[zhao-2026-serotonin-neurons-in-the-dorsal]]·[[jia-2026-novelty-exploration-activated-ensemble-in]]·[[concept-dopamine-reward-system]]. [[index|index.md]]에 🧩 인지&행동·🎯 도파민&보상·동기 두 곳 등재(Holton 항목 직후, 교차 표기) + [[concept-lateral-habenula]] 요약 줄에 LHb→MRN 축 추가, 총 페이지 565→566. 깨진 링크 0건(신규 페이지 고유 링크 29개 전부 존재). 남은 2순위 ingest: Chu & Schulz 2022 · Holton 2024 NHB · Aenugu & O'Doherty 2025 · Costello 2023·Jeong 2022. 웹 미사용.
 
+## 2026-11-23 — lint (raphe 약어 2핵 4표기 감사, hub §5-7 보강, Opus 5)
+
+「생존·관계·이상 분자기전 지도」 세션이 위키 전체 raphe 표기를 감사해 **2개 핵이 4개 약어로 쓰이고 있다**고 알려 왔다(`MRR`도 median raphe). [[concept-lh-gabaergic-neurons]] §5-7에 반영하기 전에 직접 확인했다.
+
+- **확인**: `MRR = median raphe region`이 [[concept-lateral-habenula]]에 명시돼 있고([[luscher-2021-consolidating-the-circuit-model-for]]·[[concept-dopamine-reward-system]]·[[index|index.md]]도 같은 축약을 쓴다), `MRN = median raphe nucleus`다. 정리하면 **dorsal raphe = `DR`/`DRN`**, **median raphe = `MRN`/`MRR`**.
+- ⚠️ **다만 단정은 피했다**: `MRR`(region)과 `MRN`(nucleus)이 **정확히 같은 범위인지는 위키에서 확인되지 않는다**. 둘 다 median raphe를 가리킨다는 것까지만 적고, 범위 동일성은 미확인으로 남겼다.
+- **감사 1건(hub 계산 검증)**: 위키의 `MRR` **20줄 중 16줄이 LHb와 동반**하며 전부 **MRR→LHb 혐오 축**(Szőnyi 2019 계열)이다 — **`MRR` 아래 숨은 LH 출력 주장은 없다**. 따라서 §5-7의 "세 주장 / 두 핵"(DR: Liu 2023 / DRN: Lee 2026 / MRN: Ahmadlou 2025) 계산은 **그대로 유효**하다.
+- hub 변경: §5-7에 **약어 지도 + 검색 함정 경고 + 감사 결과** 추가. LH–raphe 근거를 찾을 때 네 표기를 모두 검색하지 않으면 빠뜨린다는 실무 경고를 남겼다.
+- **약어 통일은 하지 않았다** — 24개 이상 페이지에 걸친 일괄 치환이라 **사용자 승인 사항**이고, 다음 건강검진 후보로만 남긴다(상대 세션도 같은 판단).
+- `wiki_lint.py` 오류 0건·경고 0건. 웹 미사용. 상대 세션이 교정한 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]·[[concept-lateral-habenula]]·[[overview-grand-quest-will-to-live]]는 건드리지 않았다.
+
 ## 2026-11-23 — lint (raphe 출력의 DR/MRN 혼동 방지, Opus 5)
 
 「생존·관계·이상 분자기전 지도」 세션이 각성 조건 정밀화를 받아 자기 쪽을 전수 점검하다 **실질 오류 1건**(그랜드 퀘스트 페이지에서 "포기 81%"를 LHb→MRN 활성이 아닌 조작에 붙이고, 각성 불변 근거를 LHb 쪽으로 잘못 귀속)을 찾아 고쳤다고 알려 왔다. 같은 축으로 [[concept-lh-gabaergic-neurons]]를 점검한 결과 **구분 누락 1건**을 추가했다.
