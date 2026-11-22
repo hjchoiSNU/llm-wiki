@@ -8,6 +8,20 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — lint (raphe 약어 감사: 2핵 4표기 → `MRR`=`MRN` 동일핵 확인, Opus 5)
+
+병행 세션이 hub §5 미해결 7번("LH^GABA의 raphe 출력이 두 핵에 걸쳐 있는데 구분해 잰 자료가 없다")을 신설했다고 알려 와, 위키 전체의 raphe 표기를 감사했다.
+
+**결과: 2개 핵을 4개 약어로 쓴다.**
+- **dorsal raphe** = `DR`([[liu-2023-an-iterative-neural-processing]]·[[overview-lateral-hypothalamus-synthesis]] 투사 표 489행·[[concept-lateral-hypothalamus]] 96행) 또는 `DRN`(18개 페이지, 예: [[zhao-2026-serotonin-neurons-in-the-dorsal]]·[[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]])
+- **median raphe** = `MRN`([[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]·[[liu-2026-granular-motivational-interaction-and]]·[[overview-lateral-hypothalamus-synthesis]] MCH 행 160행) 또는 `MRR`([[concept-lateral-habenula]]·[[luscher-2021-consolidating-the-circuit-model-for]]·[[concept-dopamine-reward-system]]·[[index|index.md]])
+
+**가장 중요한 귀결 — `MRR`와 `MRN`은 같은 핵이다.** 따라서 어제 [[concept-lateral-habenula]]에 단 경고("MRR→LHb 한 방향만 적혀 있다")는 **"두 구조의 상호 연결"이 아니라 "median raphe와 LHb가 같은 핵 사이에서 양방향으로 연결돼 있다"**는 더 강한 진술이다. 그 줄을 그렇게 고치고 표기 통일을 과제로 적었다. 반대로 `DR`/`DRN`은 같은 핵인데 두 이름을 써서 "LH^GABA→raphe"가 어느 핵인지 모르게 읽힌다 — [[liu-2023-an-iterative-neural-processing]](LH→**DR**^GABA = 접촉 유지)과 [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]](Cal-Light 투사 목록의 **DRN**)이 같은 핵을 가리키는데, [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]의 **MRN**은 다른 핵이다.
+
+반영: [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] ⚠️ 절에 **raphe 약어 지도** 추가 · [[concept-lateral-habenula]] backlink 줄을 "같은 핵·양방향"으로 교정 · [[overview-grand-quest-will-to-live]] §7에 일반화 한 줄 추가(**DR/MRN을 구분해 역추적한 LH 자료가 위키에 0건**이고, 분자 쪽 입구[LepR]와 기능 태깅 쪽 입구[Cal-Light ensemble]가 같은 빈칸에서 만난다).
+
+**미해결로 남긴 것**: 약어 통일 자체(`DR`↔`DRN`, `MRN`↔`MRR`)는 24개 이상 페이지에 걸쳐 있어 사용자 승인 없이 일괄 수정하지 않았다 — 다음 건강검진 항목 후보. 웹 미사용.
+
 ## 2026-11-23 — lint (각성(arousal) 귀속 오류 1건 수정 — 병행 세션 지적, Opus 5)
 
 [[concept-lh-gabaergic-neurons]] 작업 세션이 raw 46쪽 PDF로 원문 대조해 전달한 정밀화를 받아 내 쪽 서술을 점검했다. 원문의 각성 자료는 **네 조건이 서로 다르다**: MRN^SERT 억제 = **불변**(p.6) / LHb→MRN 활성 = **감소**(ED Fig 11e–i, p.6) / LHA^VGAT→MRN 활성 = **증가**(ED Fig 12e–i, p.9) / LHA^VGAT 축삭 침묵 = **불변**(p.10).
