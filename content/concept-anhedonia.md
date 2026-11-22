@@ -2,7 +2,7 @@
 title: "Anhedonia (무쾌감증)"
 type: concept
 created: 2026-07-28
-updated: 2026-11-03
+updated: 2026-11-23
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -32,3 +32,4 @@ updated: 2026-11-03
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — goal disengagement는 일반 인구에서 웰빙↑이지만 **우울 위험군에서는 disengagement가 우울 증상↑와 연관**(과잉 이탈 역설); apathy의 over-persistence형과 함께 동기 결손의 두 반대 failure mode.
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 조현병 음성 증상 = '동기화된 행동의 감소': 예기적 무쾌감증은 있고 완료적 무쾌감증은 없다(liking 정상·wanting 감소).
 - [[concept-will-volition-motivation]] — Kang 각주 d: 같은 '의욕 결손'이 조현병에선 aboulia(실행기능 장애), 우울증에선 anhedonia(정서 증상)로 불린다는 서술과 의지·동기 구분.
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **LHb→MRN(median raphe nucleus) 만성 활성 → sucrose preference 감소(anhedonia)**, 동시에 각성·참여 저하. 기전은 MRN^SERT 억제이며 **VTA를 거치지 않는다**(Neuropixels 통제). anhedonia의 회로 목록에 도파민 비의존 raphe 경로를 추가.

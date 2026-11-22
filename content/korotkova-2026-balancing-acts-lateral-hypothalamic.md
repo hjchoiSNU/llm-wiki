@@ -2,7 +2,7 @@
 title: "Korotkova 2026 — Balancing acts: lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions"
 type: paper
 created: 2026-05-25
-updated: 2026-11-22
+updated: 2026-11-23
 source: raw/2026 (Korotkova) Balancing acts lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions.pdf
 authors: [Tatiana Korotkova]
 year: 2026
@@ -112,3 +112,4 @@ LH 뉴런 identity = **molecular marker × oscillatory phase × connectivity × 
 - [[liu-2023-an-iterative-neural-processing]] — "섭식 vs 환경 탐색" 동기 경쟁을 ML 행동 분절로 보인 자유행동 연구. arbitration framework의 행동 미세구조 근거이자 companion [[liu-2026-granular-motivational-interaction-and|Liu 2026]]의 1차 데이터(Neuron 2023).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — ⚠️ LepR LH를 hunger×anxiety×social arbitration에 배치하는 틀에 대해, Siemian 2021은 LepR **ablation**이 open field·marble burying 불안 유사 행동·운동·섭취를 전혀 안 바꾸고 appetitive 학습(Pavlovian cue 변별)만 막는다고 본다 → 불안 축 역할은 [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]](활성화)와 조작 대상·맥락이 달라 조건 의존(병기).
 - [[overview-grand-quest-will-to-live]] — 본 리뷰의 **hunger × anxiety × loneliness arbitration**을 그랜드 퀘스트(삶의 의지)의 '생존 vs 관계' 축 분리 가설(H1)의 **현존하는 유일한 분자 수준 전례**로 쓴 종합 페이지.
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **arbitration의 다음 층**: 본 리뷰가 "어느 동기가 이기는가"(hunger×anxiety×loneliness)를 다룬다면, Ahmadlou는 **이긴 동기를 얼마나 오래 붙드는가**를 LHA^VGAT→MRN(고집) / LHb→MRN(포기)으로 나눈다. 두 층을 합치면 LH가 선택과 지속을 모두 쥔다(연결 가설).

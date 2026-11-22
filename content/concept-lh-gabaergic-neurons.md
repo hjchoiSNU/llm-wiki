@@ -2,7 +2,7 @@
 title: LH GABAergic 뉴런 (LH^Vgat)
 type: concept
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-23
 ingested_by: claude-opus5
 aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 ---
@@ -368,3 +368,4 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 - [[whiting-2013-lateral-hypothalamic-area-deep]] · [[whiting-2019-deep-brain-stimulation-of]] · [[concept-deep-brain-stimulation]] — 인간 LHA DBS의 RMR 상승과 그 세포 후보(§2.6)
 - [[proposal-lh-nac-nmpu-neuron-discovery]] · [[proposal-lh-nac-nmpu-nrf-junggyeon]] — ★ 본 페이지 §5-7의 투사 기반 표적화 경고가 직접 겨냥하는 연구계획서
 - [[person-choi-hyung-jin]] · [[person-stuber-garret]] · [[person-korotkova-tatiana]] — 인물 hub
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — LH^Vgat의 **일곱 번째 축: 고집(perseverance)**. LHA^VGAT→median raphe nucleus 투사가 양성 valence를 실어 MRN^VGAT를 억제하고, 활성은 고집·침묵은 지속 상호작용 불가를 만든다(각성 불변). 본 hub의 "섭식 engine이 아니다" 논지에 **섭취·체온·salience·학습과 또 다른 축**을 더하며, 투사 기반 표적화 경고와도 맞물린다 — ⚠️ 이 LHA^VGAT는 전달물질로만 정의됐고 **LH^LepR과의 관계는 미검증**이므로 `LH^LepR→MRN` 투사 존재 여부가 바로 검증 가능한 과제다.

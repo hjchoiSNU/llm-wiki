@@ -2,7 +2,7 @@
 title: "The adaptive value of stubborn goals (Holton, Niv & O'Reilly 2026, Trends Cogn Sci)"
 type: paper
 created: 2026-09-22
-updated: 2026-11-22
+updated: 2026-11-23
 source: "raw/The adaptive value of stubborn goals.pdf"
 authors: [Holton E, Niv Y, O'Reilly JX]
 year: 2026
@@ -105,7 +105,7 @@ journal: "Trends in Cognitive Sciences 30(4):379–390; doi:10.1016/j.tics.2025.
 - **Restraint 표현형·DTx 설계**: [[lee-2025-hijacked-brain-modern-obesity-cue|hijacked brain]]의 restraint 축과 [[concept-inhibitory-control-demand|trouble resisting]]은 "cue가 craving을 올리고, 저항에 dlPFC·ACC 부하가 든다"는 **사후 억제** 모델이다. 본 리뷰는 **사전 목표 선점이 주의 필터와 가치 증폭을 만들어 유혹이 애초에 덜 처리되게** 한다는 **상류 기제**를 제시한다 — DTx에서 (i) 판단력이 높은 시점에 목표를 확정하게 하고, (ii) 진행률(momentum)을 가시화해 내재 보상을 공급하는 설계 근거. [[kim-2020-multidimensional-cognitive-behavioral-therapy]]·[[concept-digital-therapeutics]]의 CBT 모듈과 맞물린다.
 - **NMPU와의 대응**: [[concept-need-motivation-pleasure-utility|NMPU]]에서 Utility(지연 결과 교사)가 어떻게 순간 행동의 Motivation으로 번역되는지는 열린 문제였다. 본 리뷰의 "추상 가치 → 구체 목표 → 기본 보상 신호"라는 **비계 알고리즘**이 그 변환의 한 후보다. 동시에 "배고픔 해소처럼 기본 보상이 직접 이끄는 목표는 몰입 표지가 약해야 한다"는 예측은 **섭식 목표는 abandonment가 쉬워야 정상**임을 함축 — 처벌 저항 섭식이 비정상인 이유의 계산적 근거.
 - **Apathy·effort 재해석**: [[mehrhof-2026-computational-phenotyping-of-effort|T2D의 effort acceptance bias↓]]와 [[concept-anhedonia]]는 "동기 부족"으로 읽히지만, 본 리뷰의 [73]은 apathy가 **이탈 실패(over-persistence)**로도 나타남을 보인다. effort 과제에 **switch/abandon 조건**을 넣으면 동기 결손과 감시 결손을 분리할 수 있다.
-- **Foraging 알고리즘의 회로 후보**: 현재-목표 vs 환경 평균 비교(MVT)는 [[gruzdeva-2026-hunger-neurons-track-available-food|AgRP의 먹이-거리 ramp]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area|mPFC→VTA meta-RPE]]와 같은 "현재 옵션의 가치 추적" 신호와 형식적으로 닮았다. 본 리뷰가 든 신경 근거는 ACC [63,80]와 subcortical switchboard [66]로, 위키에 아직 원전이 없다(자료 없음).
+- **Foraging 알고리즘의 회로 후보**: 현재-목표 vs 환경 평균 비교(MVT)는 [[gruzdeva-2026-hunger-neurons-track-available-food|AgRP의 먹이-거리 ramp]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area|mPFC→VTA meta-RPE]]와 같은 "현재 옵션의 가치 추적" 신호와 형식적으로 닮았다. 본 리뷰가 든 신경 근거는 ACC [63,80]와 subcortical switchboard [66]다. **[66]의 원전이 2026-11-23 위키에 들어왔다 → [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]]**: median raphe nucleus의 세 세포타입이 고집·탐색·포기를 나눠 맡고, 포기만 따로 떼어 내는 축(MRN^SERT)과 그 전용 상류 입력(LHb→MRN)이 동정됐다. ACC [63,80]의 원전은 여전히 위키에 없다.
 
 ## ⚠️ 위키 내 긴장·연결
 - **[[berridge-2023-separating-desire-from-prediction-of]]**: Berridge는 '갈망'이 결과가치 예측으로 환원되지 않는다고 주장한다. 본 리뷰의 "목표-일치 선택지에 붙는 bonus"도 결과 예측이 아닌 **선택 사실에서 생기는 동기 신호**라는 점에서 같은 방향이지만, 그 원천을 도파민 incentive salience가 아니라 **목표 표상의 알고리즘적 결과**로 둔다 — 두 프레임이 같은 현상의 다른 층인지, 별개 기제인지는 미해결.
@@ -132,3 +132,4 @@ journal: "Trends in Cognitive Sciences 30(4):379–390; doi:10.1016/j.tics.2025.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 들인 노력이 보상 도파민을 키워 노력 지속을 돕는 국소 기전(NAc ChI–nAChR). 동기 비계 기능의 회로 후보로 읽을 수 있다(연결 해석, 원문 주장 아님).
 - [[concept-will-volition-motivation]] — 목표 몰입을 의지·의욕·동기 구분 속 '목표를 붙드는 지속'으로 배치한 개념 hub.
 - [[overview-grand-quest-will-to-live]] — 본 리뷰의 **apathy 역설·disengagement 역설·momentum**을 그랜드 퀘스트(삶의 의지)의 통념 ②("포기는 추구의 부재다")와 도전 가설(이탈 임계값)의 1차 근거로 쓴 종합 페이지. '이상' 축의 조작적 정의도 본 리뷰의 **동기 비계** 예측에서 끌어온다.
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 본 리뷰 ref 66의 원전(Nature 2025, 2026-11-23 ingest). median raphe switchboard가 고집·탐색·포기를 세포타입별로 나누고, 포기에 전용 상류 입력(LHb→MRN)이 있음을 보인다.

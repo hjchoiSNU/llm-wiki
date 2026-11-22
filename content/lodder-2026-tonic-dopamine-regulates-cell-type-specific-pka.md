@@ -2,7 +2,7 @@
 title: "Tonic dopamine가 세포타입별 PKA 활성과 동기를 조절한다 (Lodder & Kamath 2026)"
 type: paper
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-23
 source: "raw/2026 bioRxiv (Sabatini) Tonic dopamine regulates cell-type-specific PKA activity and motivated behavior.pdf"
 authors: [Bart Lodder, Tarun Kamath, Isa Hartman, Michelle S. Lopez, Sophie Hoogendoorn, Alloise van Kleef, Kwun Nok Mimi Man, Ximena Opitz-Araya, Michelle Raghubardayal, Joshua Timmins, Roger A.H. Adan, Jonathan Ting, Lin Tian, Bernardo L. Sabatini]
 year: 2026
@@ -60,3 +60,4 @@ nucleus accumbens core(NAC)의 **tonic dopamine**(분 단위 느린 변화)을 f
 - [[concept-dopamine-reward-system]] — phasic 중심 서술에 **tonic DA의 동기 인과**를 보완. "보상"보다 "일할 동기" 쪽 해석 강화.
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — D1/D2(direct/indirect) striatal 경로의 기능 분리와 병치: 본 논문은 같은 분리를 **DA 주파수 성분**에서 제시.
 - [[overview-grand-quest-will-to-live]] — 그랜드 퀘스트(삶의 의지)의 **"왜 지금인가" 1순위 근거**로 본 논문을 배치한 종합 페이지: ① 의지의 신경 대응물이 분 단위 상태임을 실측, ② 축 분리가 일어나는 층이 **수용체·세포내 신호 층**(OptoXR의 표적), ③ PR breakpoint 정의(10분 중단) 자체가 이미 **이탈 사건**.
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **대비**: tonic DA가 "얼마나 열심히 일하는가"(progressive ratio breakpoint)를 정한다면, median raphe nucleus의 MRN^SERT는 "판에 들어와 있는가"(참여), MRN^VGAT는 "이 선택지에 머무는가"(고집)를 정한다. 세 변수가 서로 다른 질문에 대응한다는 분해 (Nature 2025).

@@ -2,7 +2,7 @@
 title: "Lateral habenula (LHb) — 혐오·음성강화의 상류 허브"
 type: concept
 created: 2026-09-02
-updated: 2026-10-11
+updated: 2026-11-23
 aliases: [lateral habenula, LHb, habenula, RMTg, rostromedial tegmentum, MRR, median raphe region]
 ---
 
@@ -66,3 +66,4 @@ MRR (median raphe region, vGluT2⁺) → LHb → RMTg (VTA tail, GABA) → VTA D
 - [[schultz-2016-dopamine-reward-prediction-error-signalling]] — habenula 자극은 중간 reticular nucleus를 거쳐 도파민을 억제(흥분 아님)하며, 음의 PE는 도파민 depression으로 부호화된다는 RPE 진영의 입장.
 - [[concept-reward-prediction-error]] — 음의 RPE 부호화 논쟁(도파민 depression vs 비도파민 LHb)의 상위 hub.
 - [[volkow-2026-glp-1-receptor-agonists-in]] — habenula의 GLP-1R 신호가 니코틴 회피를 촉진한다는 Tuesta 2017(ref 7)을 인용. GLP-1RA–흡연 감소 연관의 후보 기전.
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **LHb의 두 번째 출력축: LHb→MRN(median raphe nucleus)**. 만성 활성이 sucrose preference를 떨어뜨리고(anhedonia) MNOI에서 포기 상태를 81%까지 늘린다. 기전은 **LHb→MRN^VGAT 일부→MRN^SERT 억제**이며, Neuropixels로 **VTA를 거치지 않음**을 통제했다 → 본 페이지의 LHb→RMTg→VTA 축과 **병렬**인 raphe 세로토닌 억제 출력. ⚠️ 본 페이지는 MRR vGluT2⁺→LHb(Szőnyi 2019) **한 방향만** 적고 있으나 실제로는 상호 연결이므로 양방향으로 읽을 것.

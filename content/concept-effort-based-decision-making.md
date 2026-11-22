@@ -2,7 +2,7 @@
 title: 노력 기반 의사결정 (Effort-based decision-making)
 type: concept
 created: 2026-08-05
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -46,3 +46,4 @@ updated: 2026-11-22
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 노력(joystick 저항 2–20 g) 과제에서 큰 보상 끼워 넣기와 0.5 s DA 자극이 고부하 성공 학습을 빠르게 했지만 점근 활력(vigor)은 같았다.
 - [[concept-will-volition-motivation]] — acceptance bias를 '의지' 첫째 뜻(대상 없는 기본 준비성, Kang의 will)의 정량 표지로 놓은 개념 hub.
 - [[overview-grand-quest-will-to-live]] — 이 페이지의 **switch/abandon 조건 추가** 제안을 그랜드 퀘스트(삶의 의지) 탐색전략의 핵심 항목으로 올린 종합 페이지(측정량: 재개 확률·이탈 잠복기·이탈 직전 momentum·다른 축으로의 전환).
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **abandon/switch 조건 설계의 회로 근거**: 고집(MRN^VGAT 억제)·탐색(MRN^VGluT2 활성)·포기(MRN^SERT 억제)가 median raphe nucleus의 서로 다른 세포타입에 할당되고 **필요·충분 구조도 다르다**. acceptance bias 저하(동기 결손)와 이탈 실패·과잉 이탈이 다른 기질이라면 과제에서도 분리돼야 한다는 예측.

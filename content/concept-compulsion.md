@@ -2,7 +2,7 @@
 title: 강박 (Compulsion) — 처벌 저항과 양봉분포
 type: concept
 created: 2026-09-02
-updated: 2026-10-25
+updated: 2026-11-23
 aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishment, punishment-resistant, perseverer, renouncer, oDASS]
 ---
 
@@ -78,3 +78,4 @@ aliases: [compulsion, compulsive, 강박, 처벌 저항, resistance to punishmen
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 강박적 섭식(불리한 결과에도 지속)을 습관성(가치 절하 둔감)·과섭취와 별개 결과로 분리해 측정하는 설계.
 - [[chen-2021-neuromodulation-a-model-for-dopamine]] — footshock·quinine 처벌에서 NAc core 도파민이 처벌 강도를 추적 → 처벌 저항 과제의 도파민 해석 시 강도 성분 혼입 주의.
 - [[alsio-2012-feed-forward-mechanisms-addiction-like-behavioral]] — 처벌 저항 섭식의 초기 동물 근거 모음(quinine 섞은 chocolate·shock 연합 cue·혐오 환경; Heyne 2009·Johnson & Kenny 2010·Teegarden & Bale 2007 인용). 강박적 섭식 = "부정적 결과와 절제 노력에도 지속되는 과식"으로 정의.
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **"처벌에도 지속"을 회로 조작으로 재현한 사례**: median raphe nucleus의 MRN^VGAT 억제(또는 LHA^VGAT→MRN 활성)가 여우 오줌 성분 TMT를 바른 물체에 대한 접근을 늘리고 도피를 막으며, **정상 개체에서 결코 관찰되지 않는 deep interaction까지** 유발한다. 저자 해석은 "현재 선택지에 강한 양성 valence를 덧씌워 다른 동기를 압도" — [[concept-goal-commitment]]의 강박 3분해 중 **목표 비계형 내재 보상**에 가까운 기전. 저자들은 OCD 병인과의 관련을 전망으로 적는다.

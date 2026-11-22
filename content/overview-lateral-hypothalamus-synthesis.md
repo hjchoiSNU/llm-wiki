@@ -2,7 +2,7 @@
 title: "Lateral hypothalamus 종합 — 세포 유형·시간 동역학·Need/Motivation·학습·가소성·회로 (2026-10 심화 분석)"
 type: overview
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-11-23
 aliases: [LH synthesis, LH 종합]
 ---
 
@@ -895,3 +895,4 @@ LH의 계산을 네 단계로 제안한다.
 
 ### 상위 종합
 - [[overview-appetite-energy-homeostasis]] · [[overview-cea-glp1r-food-safety-alarm]]
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 입출력 회로 렌즈에 **LHA^VGAT→MRN(median raphe nucleus)** 을 추가해야 한다: 양성 valence를 실어 고집을 유지하는 축으로, 종합의 출력 표(VTA·LHb·PAG)에 없던 표적이다 (Nature 2025, Hofer lab).

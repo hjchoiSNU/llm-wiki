@@ -2,7 +2,7 @@
 title: "Novelty exploration-activated ensemble in the lateral hypothalamus confers analgesic and anxiolytic effects (Jia/Zhou 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-10-03
+updated: 2026-11-23
 source: "raw/2026 Nat. Comm. Novelty exploration-activated ensemble in the lateral hypothalamus confers analgesic and anxiolytic effects  .pdf"
 authors: [Tao Jia, Yi-Ting Peng, Yi-Ling Sun, Cui Yin, Xizhi Gu, Liqun Yang, Song Zhang, Jun-Li Cao, Cheng Xiao, Chunyi Zhou]
 year: 2026
@@ -88,3 +88,4 @@ journal: "Nature Communications 17:4418; doi:10.1038/s41467-026-73205-x"
 - [[harris-2005-a-role-for-lateral]] — ⚠️ **novelty에 대한 정면 음성 결과**(Nature 2005, Harris & Aston-Jones). 본 논문은 novelty 활성 ensemble의 **약 26.25%가 orexin**이라고 보고하지만, Harris 2005는 **novel-object CPP(강건한 선호 228±34 s, 8일 조건화)에서 LH orexin Fos가 전혀 증가하지 않음(18±2% vs 비조건화 17±2%, 선호와 상관 없음)** 을 보이고, 바로 이 음성 결과로 "**LH orexin = 소비성(음식·약물) 보상 cue 특이**"를 결론했다(같은 동물들에서 morphine·cocaine·food CPP는 48–52%, R=0.72–0.90). **조건 차이 후보**: ① 측정 시점 — Harris는 **8일 조건화 후 장소선호 표현 중**(새로움이 사라진 뒤)의 Fos, 본 논문은 **novelty 탐색 그 자체** 중의 Fos-TRAP, ② 종 — rat vs mouse, ③ LH 영역 정의 — Harris는 **fornix lateral만 LH**(dorsal·medial는 PFA/DMH로 분리), ④ 표지 — 급성 Fos IHC vs TRAP ensemble. "새로움 그 자체"와 "새로움에 조건화된 장소 cue"를 **다른 자극으로 보는 것**이 현재로선 가장 정합적이다(병기 — 어느 쪽도 덮어쓰지 않음). 본 논문의 한계 1번("novelty feeding ensemble과 pain/anxiety ensemble의 중첩 미해결")에 **"novelty ensemble과 소비성 보상 cue ensemble의 중첩"** 이라는 질문을 하나 더 더한다.
 - [[liu-2023-an-iterative-neural-processing]] — LH^GABA가 비식용 물체에도 같은 접근·탐침 반응(R=0.556, food-specific 아님). 본 논문의 LH 양가 salience ensemble과 같은 방향(Neuron 2023, Wang lab).
 - [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ⚠️ **같은 "LH × novelty" 축의 다른 세포 좌표계**(Research 2022, Zhejiang Chen lab). `AAV-CaMKIIα-GCaMP6s`로 본 LH CaMKIIα⁺ 뉴런도 **신규 물체 코 접촉 순간 급상승·입으로 물고 있는 동안 고수준 유지**(n=5×3, P<0.0001)하지만, 저자들은 이 집단이 **GABA성과 거의 겹치지 않는다**(Vgat-cre×Ai47)고 보고하고 vGluT2와는 **63.87%만 중첩**한다. 본 논문의 Fos-TRAP novelty ensemble이 **Vgat⁺·Vglut2⁺ 양 subtype 모두에서 효과**를 내는 것과 세포 정체가 어긋난다. 행동 출력도 다르다 — 그쪽은 **포식 추격·물기·섭취**(비식용 물체까지 물고 다니며 식용/비식용 선호 소실), 본 논문은 **진통·항불안·CPP**다. 두 ensemble이 같은 세포인지 완전 미검증(연결 가설: Fos-TRAP × `AAV-CaMKIIα-DO-GCaMP6s` Cre-OFF 교차 표지로 직접 측정 가능).
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **LH·LHb·raphe 삼각형의 다른 조합**: 본 논문이 LH novelty·exploration ensemble의 LHb 투사에서 상류 세포타입에 따라 통증 부호가 뒤집힘을 보였다면, Ahmadlou는 LHA^VGAT→MRN(고집)과 LHb→MRN(포기)을 보인다. 세 구조의 부호 지도는 아직 위키에 없다.

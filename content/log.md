@@ -8,6 +8,14 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — ingest (O'Connor 2015 원본 투입 → `E source` 0건, 수치 1건 정밀화, Opus 5)
+
+전날 "원본 PDF 미보유"로 남겨 둔 [[oconnor-2015-accumbal-d1r-neurons-projecting]]의 PDF를 **사용자가 직접 `raw/`에 넣었다**(16,308,753 B, 27쪽). 신원 확인(Neuron 88:553–564, 2015-11-04) 후 페이지의 미보유 표기를 지우고, [[concept-lh-gabaergic-neurons]]가 인용한 수치를 원문과 대조했다.
+
+- **원문 대조 통과**: LH 투사 NAcSh의 **93.6 ± 0.8%**(1,173/1,246, n=3)가 D1R·D2R **5.2 ± 1.1%**(29/593, n=2) / LH GABA 뉴런 **78% 연결(28/36, n=3)·803 ± 217 pA** / rabies EGFP 뉴런의 **97%**가 tdTomato⁺ / 포만 중 D1R 광억제 **F(1,19)=5.55** / LH^Vgat 직접 광억제 **F(1,9)=8.64** / closed-loop 3-lick burst **F(1,9)=86.6**. 모두 일치.
+- ⚠️ **정밀화 1건(hub 쪽 오류)**: hub §3.1이 "biocytin 62개 중 **연결된 29개에서 MCH⁺·orexin⁺ 0개**"로 압축했는데, 원문(p.558)은 **MCH 염색 25개(그중 연결 14개에서 0개)**, **orexin-A 염색 27개(그중 연결 10개에서 0개)** 다 — 연결 29개 전부를 두 마커로 염색한 것이 아니다. hub를 정확한 분모로 고치고 §7 표에 **정밀화**로 기록했다. [[oconnor-2015-accumbal-d1r-neurons-projecting]] 본문 Figure 5 절은 원래부터 정확했다(수정 불필요). ⚠️ 다만 [[stuber-2016-lateral-hypothalamic-circuits-for]]·[[harris-2005-a-role-for-lateral]]의 관련 페이지 줄에도 같은 압축 표현이 있어 다음 건강검진 때 손볼 대상이다.
+- hub §7 원문 대조표가 22행 → **26행**. `wiki_lint.py` **오류 0건**(`E source` 5 → 0). 웹 미사용, `raw/` 수정·삭제·이름변경 없음.
+
 ## 2026-11-22 — lint (`source:` 원본 PDF 누락 5건 정리, Opus 5)
 
 LH^Vgat hub 작성 중 `wiki_lint.py`가 집어낸 **`E source` 5건**(frontmatter `source:`가 가리키는 PDF가 `llm-wiki-raw`·`ref`에 없음)을 정리했다. 모두 선행 문제이고 이번 백링크 편집과 무관하다. (참고: lint는 `--files`로 넘긴 페이지를 전부 `new_page`로 보아 이 규칙을 **E**로 올린다. `--all` 건강검진에서는 **W**로 나온다.)

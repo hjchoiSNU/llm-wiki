@@ -2,7 +2,7 @@
 title: 목표 몰입과 포기 (Goal commitment & disengagement)
 type: concept
 created: 2026-09-22
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -37,7 +37,7 @@ updated: 2026-11-22
 ### 구현 알고리즘
 - **선택/실행 분리 (Rubicon 모델)**: goal setting → goal implementation의 이산 단계(Heckhausen·Gollwitzer; O'Reilly RC 2020). 안정성·차단은 설명하지만 **포기를 설명 못 함**.
 - **위계적 RL의 option**: initiation set·policy·termination set = 목표 선택·실행·목표 상태. 단, 인간은 **목표 선택은 model-free(습관적), 실행은 model-based(유연)** (Cushman & Morris 2015 PNAS) — 고정 루틴 option으로는 포착 불가.
-- **현재-목표 감시 vs 임계값**: 대안 전부를 재평가하지 않고 현재 default를 장기 평균·기대 진행률과 비교. 생태학적 원형 = **foraging patch-leaving / marginal value theorem**(Charnov 1976; Stephens & Krebs 1986; Hayden 2011; Kolling 2012 Science). **Momentum** = 진행 × 진행률(Aenugu & O'Doherty 2025). 이탈 결정의 전용 신경 구조 후보: ACC(Kolling 2012; Tervo 2021), subcortical switchboard(Ahmadlou 2025 Nature) — *위키에 원전 없음*.
+- **현재-목표 감시 vs 임계값**: 대안 전부를 재평가하지 않고 현재 default를 장기 평균·기대 진행률과 비교. 생태학적 원형 = **foraging patch-leaving / marginal value theorem**(Charnov 1976; Stephens & Krebs 1986; Hayden 2011; Kolling 2012 Science). **Momentum** = 진행 × 진행률(Aenugu & O'Doherty 2025). 이탈 결정의 전용 신경 구조 후보: ACC(Kolling 2012; Tervo 2021), subcortical switchboard(**[[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025 Nature]]** — 2026-11-23 ingest 완료: median raphe nucleus의 GABA·VGluT2·SERT가 각각 고집·탐색·포기를 맡고, 포기에는 LHb→MRN^VGAT→MRN^SERT 억제라는 전용 상류 입력이 있다).
 - **목표 선택은 안정성을 예견해야**: 내재적 동기(Ryan & Deci), autotelic RL(스스로 목표 생성), 인간은 **재사용 가능한 구성요소**를 가진 목표를 선호(Davidson 2025).
 
 ### Failure modes와 정신건강
@@ -76,3 +76,4 @@ updated: 2026-11-22
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **노력 후 가치 상승(effort paradox)의 신경 기전 후보**: 더 일해 얻은 보상일수록 NAc 도파민이 크고, 그 증폭을 막으면 고노력 지속이 줄었다. 원문은 이를 목표 몰입과 연결하지 않는다(연결 해석).
 - [[concept-will-volition-motivation]] — 목표를 붙드는 지속을 '의지'의 사후 억제(자기통제)보다 상류 기제로 놓은 개념 hub.
 - [[overview-grand-quest-will-to-live]] — 목표 몰입·포기를 **섭식을 넘어 '삶의 의지' 전체**로 확장한 종합 페이지. patch-leaving·momentum을 생존·관계·이상 축별 **이탈 임계값**으로 번역하고, effort 과제에 abandon 조건을 넣자는 이 페이지의 제안을 그랜드 퀘스트 탐색전략의 핵심 항목으로 올렸다.
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 본 페이지가 "위키에 원전 없음"으로 적어 둔 **이탈 전용 구조의 원전**(2026-11-23 ingest). Holton의 세 기능(자원 합리성·간섭 차단·동기 비계)과 MRN 세 세포타입의 대응, apathy 역설이 "고집과 포기가 별개 세포타입"이라는 구조에서 나올 수 있다는 예측.

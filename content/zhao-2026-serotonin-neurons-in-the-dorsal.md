@@ -2,7 +2,7 @@
 title: "임신기 food-craving-like behavior를 통제하는 DRN 세로토닌 뉴런 — SK3 채널과 DRN→VTA (Zhao 2026)"
 type: paper
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-23
 source: "raw/2026 Nature Neuroscience. Serotonin neurons in the dorsal raphe control food-craving-like behavior during pregnancy in mice.pdf"
 source_dup: "raw/Serotonin neurons in the dorsal raphe control food-craving-like behavior during pregnancy in mice.pdf"
 authors: [Qianru Zhao, Bing Feng, Vicky Dong, Lee How Lau, Hailan Liu, Meng Yu, Keqin Liang, Cindy Tran, Heidi Feng, Taylor Smiley, Peiyu Gao, Amy Yan, Hui Ye, Yuwei Jiang, Chunmei Wang, Pingwen Xu, Yanlin He]
@@ -118,3 +118,4 @@ affiliation: "Pennington Biomedical Research Center (LSU, Brain Glycemic and Met
 - [[concept-neurotransmitter-cotransmission]] — 5-HT 뉴런의 글루타메이트 공전달. "VTA 효과가 5-HT인가 글루타메이트인가"라는 미해결 질문의 개념 배경.
 - [[concept-emotional-eating]] · [[concept-cue-reactivity]] · [[concept-food-addiction]] — 사람 쪽 craving 현상학과의 접점(본 논문은 마우스 유비이므로 직접 번역은 유보).
 - [[zhao-2026-direct-interoceptive-input-to-the]] — ⚠️ **동명이인·별개 논문**(Zhe Zhao, insular cortex interoception). 본 페이지의 Qianru Zhao와 무관.
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **DRN 5-HT vs MRN 5-HT 대비**: 본 논문의 DRN 세로토닌 뉴런은 (임신 상태에서) 기호식 **추구를 구동**하는 쪽이고, median raphe nucleus의 세로토닌 뉴런은 **과제 참여 자체를 유지**하는 쪽이다(억제 → 포기). 같은 신경전달물질이 핵에 따라 다른 계산 역할을 맡는 사례로 병치할 수 있다(두 논문은 서로를 다루지 않는다).

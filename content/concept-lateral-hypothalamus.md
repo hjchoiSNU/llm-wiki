@@ -2,7 +2,7 @@
 title: Lateral hypothalamus (LH)
 type: concept
 created: 2026-04-30
-updated: 2026-10-28
+updated: 2026-11-23
 aliases: [LH, lateral hypothalamus, lateral hypothalamic area, LHA]
 ---
 
@@ -409,3 +409,4 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[kim-2024-glp-1-increases-preingestive-satiation]] — 사용자 lab의 식전 포만(DMH GLP-1R)과 LH^Vgat Ex-4 반응 감쇠의 병렬 작용점.
 - [[concept-prefrontal-cortex-feeding]] — **PFC 쪽 hub**(신설). 이 페이지의 상류 목록이 PFC를 "식이 억제"로 분류하는 근거([[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|PFC→LH^LepR 억제]], 고불안 개체 한정)와 ⚠️ 상충하는 두 서술([[sharpe-2024-the-cognitive-lateral-hypothalamus|PL·NAc가 LH에 "언제 먹을지" 지시]], Kita & Oomura 1981의 부호 미정)을 한곳에 병기했다. 역방향 **LH^GABA→IL/PL mPFC 분지는 기능 자료가 없다**는 공백도 거기 기록.
 - ★ [[supiot-2026-a-prefrontal-cortex-lateral-hypothalamus]] — **mPFC→LHA 전용 1차 원전**(Nat Commun 2026). 네 LHA 세포타입 연결 지도 + 스트레스 전시냅스 가소성(LHA^VGLUT2 한정) + 투사별 부호 분기(VTA 강화 / peri-PVN 약화) + LHA^VGLUT2의 하류 필요조건. [[linders-2022-stress-driven-potentiation-of-lateral|Linders 2022]]의 상류 짝.
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **위키에 없던 LH 출력축: LHA^VGAT→median raphe nucleus(MRN)**. 이 투사는 강한 **양성 valence**를 실어 MRN^VGAT를 억제하고 **고집(perseverance)** 을 만든다(활성 → MNOI 고집 상태 급증·reversal T-maze에서 이전 보상 팔 고집·TMT 혐오를 압도; 침묵 → 지속 상호작용 불가, 각성은 불변). LH→VTA·LH→LHb·LH→PAG에 이어 **"지금 하는 것을 계속할지"를 정하는 네 번째 축**.

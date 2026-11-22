@@ -2,7 +2,7 @@
 title: Dopamine reward system (VTA·NAc·RPE)
 type: concept
 created: 2026-04-30
-updated: 2026-11-01
+updated: 2026-11-23
 aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopamine, RPE, reward prediction error]
 ---
 
@@ -220,3 +220,4 @@ aliases: [VTA, NAc, nucleus accumbens, ventral tegmental area, mesolimbic dopami
 - [[overview-dopamine-roles-by-striatal-region]] — Striatal subregion별 도파민 역할 지도(그림 + 표 2개): ventral=가치·학습·동기, dorsal=행동·습관·영양, TS(tail)=위협 채널.
 - [[concept-dopamine-learning-rate]] · [[grima-2026-a-global-dopaminergic-learning-rate]] · [[gong-2026-reward-magnitude-determines-reinforcement-learning]] — 학습률 가설(Dudman, Janelia). 위 "도전" 절에 추가.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 체세포 발화와 말단 방출의 해리를 **노력 맥락**에서 보인 사례: VTA 세포체 칼슘은 낮은 FR에서 포화하지만 NAc 방출은 계속 오르고, 그 추가분은 국소 ACh–nAChR가 만든다(Nature 2026).
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **explore–exploit의 비도파민 subcortical 축**: median raphe nucleus의 세 세포타입이 고집·탐색·포기를 조절하며, LHb·LHA 축삭 조작이 **MRN 발화는 바꾸되 VTA는 바꾸지 않음**을 Neuropixels로 통제했다. 도파민 중심 explore–exploit 서술에 병기할 대안 축 (Nature 2025).

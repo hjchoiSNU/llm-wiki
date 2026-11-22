@@ -2,7 +2,7 @@
 title: "의지·의욕·동기 (Will, volition & motivation)"
 type: concept
 created: 2026-11-03
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -77,3 +77,4 @@ updated: 2026-11-22
 - [[concept-zona-incerta]] — ZI GABA→VTA의 "willingness to work".
 - [[concept-habit]] — 과식이 의지 제어 가능한 영역일 수 있다는 논의.
 - [[overview-grand-quest-will-to-live]] — 그랜드 퀘스트(삶의 의지) 답안. 이 페이지의 '의지' ①(tonic 반응준비성)·②(자기통제)에 **'중단 신호'라는 제3 성분**을 더하려는 시도이며, 의지를 크기가 아니라 **이탈 임계값**으로 재정식화한다.
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **참여(engagement)의 신경화학 축**: MRN^SERT 활성은 과제 참여에 **필요하지만 충분하지 않고**(억제 → 완료 시행 수 감소·포기 상태 55%, 각성·운동은 불변), 신규 물체와의 **첫** 깊은 상호작용에서만 반응한다(신규성·현저성 신호). 본 페이지의 '의지 ①'(tonic dopamine = 얼마나 열심히)과 나란히 **"판에 들어와 있는가"**를 담당하는 별도 변수로 읽을 수 있다(연결 가설).

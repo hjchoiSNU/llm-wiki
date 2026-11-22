@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 565 (+ index.md, log.md)
-- 마지막 갱신: 2026-11-22
+- 총 페이지: 566 (+ index.md, log.md)
+- 마지막 갱신: 2026-11-23
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -108,6 +108,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-prefrontal-cortex-feeding]] — 위 억제통제(brake)를 PFC의 **한쪽 면**으로 두고 구동(drive) 축과 함께 정리한 PFC hub; dmPFC 상태 부호화가 행동에 **후행**한다는 [[weinreb-2026-spontaneous-behavior-is-a|Weinreb 2026]]과 "mPFC가 인과 구동"이라는 [[leow-2026-a-cortical-hypothalamic-neural|Leow]]·[[hjort-2026-prefrontal-to-ventral-tegmental-area|Hjort]]의 긴장도 병기. 본문은 💡 일반 개념 절. _(⚡ 신경조절과도)_
 - [[weinreb-2026-spontaneous-behavior-is-a]] — 자유행동 마우스의 자발적 행동이 **수 초~수 분 task 같은 행동 상태(shMoSeq)의 연속**으로 조직; **dmPFC가 저수준 움직임보다 상태 정체를 우선 부호화(단 행동에 후행), affordance 관련 변수를 관련 상태에서 선택적 강조**, 손상 시 드문 상태 발현·장기 시간척도 수축 (Neuron 2026, Datta lab). _(shMoSeq 방법론은 🧪에도)_ · 🔑 MI, DLS
 - [[holton-2026-the-adaptive-value-of-stubborn]] — 선택한 목표에 매달리는 인간 경향의 **세 적응 기능(자원 절약·유혹 차단·동기 비계)**과 failure mode(ADHD·불안·apathy over-persistence·우울); [[concept-compulsion|강박]]·restraint DTx·[[concept-effort-based-decision-making|effort]] 해석에 직결 (Trends Cogn Sci 2026). 개념 [[concept-goal-commitment]]. _(🎯 다중 의사결정계에도)_ · 🔑 HRL, ACC, RL
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] — **고집·탐색·포기의 subcortical switchboard = median raphe nucleus(MRN)**: GABAergic 억제→고집(MNOI 99%), VGluT2⁺ 활성→탐색(68%), SERT⁺ 억제→포기(55%, 각성·운동 불변). 상류는 **LHA^VGAT→MRN=양성 valence·고집**, **LHb→MRN^VGAT→MRN^SERT 억제=음성 valence·포기(81%)·anhedonia**(VTA 비의존). TMT 혐오를 압도하는 고집은 [[concept-compulsion|강박]]의 회로 재현 (Nature 2025, Hofer lab). [[concept-goal-commitment]]의 "이탈 전용 구조" 원전. _(🎯 도파민&보상·동기에도)_ · 🔑 MRN, median raphe, VGAT, VGluT2, SERT, LHb, LHA, TMT, HMM
 - [[piette-2026-striatal-endocannabinoids-drive-one-shot]] — ★ **단 한 번 수 초의 경험으로 생기는 기억은 NMDA-LTP가 아니라 DLS의 eCB-LTP**가 담당. 새 행동과제 STA test(끈끈이 테이프 회피, 보상·처벌 없음)·Neuropixels·plasticitymeter 모델·GRAB_eCB2.0·CB1R/D2R 조건부 KO로 인과 규명. **짧은 경험=eCB-LTP / 긴·반복 경험=NMDA-LTP** 분업 (Nat Neurosci 2026, Venance lab). 개념 [[concept-one-shot-learning]]. _(엔도카나비노이드는 💡·🍽️와도)_ · 🔑 eCB-LTD, ChR2-LFP, DMS
 - [[hobel-2026-a-basolateral-amygdala-to-dorsolateral]] — ★ **amygdala→감각운동 striatum 직접 경로**: BLA→DLS(dorsolateral striatum)는 DMS 투사와 다른 BLAl 집단, SPN 원위 수상돌기 표적; 단독으론 행동 무변화, **감각유발 grooming과 짝지으면 S-R 반응을 이종시냅스 가소성으로 증폭**. OCD 모델 Sapap3에서 강화·자극 후 억제 소실, BLA 억제가 강박 grooming 발병 차단 (Neuron 2026, Plotkin lab). · 🔑 dorsolateral striatum, Sapap3, OCD(obsessive-compulsive disorder), striosome, dendritic upstate, stimulus-response
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — 다선택지 foraging 학습(matching·MVT stay/leave·거리 비용)의 계산 모델 AQUA와 그 도파민 기질. 본문은 🎯 학습률 진영. · 🔑 FoMO, foraging
@@ -524,7 +525,7 @@ cortex 흥분성·진동을 두피 약전류로 조절. 사용자 접점=DLPFC t
 - [[concept-striatal-cholinergic-interneuron]] — striatum·NAc **국소** ChI(1–3%)가 전시냅스 nAChR로 도파민 방출을 쥐고 SPN을 이연접 억제하는 **게이팅 스위치**. burst(AMPA/SK3)–pause(D2/GIRK). [[concept-basal-forebrain-cholinergic|basal forebrain 투사 콜린성]]과 **구분**. 고노력 보상에서 생체 작동([[touponse-2026-cholinergic-modulation-of-dopamine-release|Touponse 2026]]) · 🔑 DA-GLU, D2R, CHAT, FSI, D1
 - [[concept-cortical-amygdala]] · [[concept-parabrachial-cgrp-alarm]] · [[concept-area-postrema]] · [[concept-npy-nucleus-accumbens]] · 🔑 plCoA, olfactory amygdala, CoA, olfactory aversion, MeA, OB
 - [[concept-lateral-septum]] · [[concept-zona-incerta]] · 🔑 lateral septum, septum, septal area, LS Crhr2, LS^Nts, DLS^Pdyn
-- [[concept-lateral-habenula]] — 혐오·보상누락의 상류 허브(**MRR→LHb→RMTg→VTA DA 억제**). 금단기 무쾌감의 시냅스 좌표(LHb→RMTg GluA1 삽입)이자 negative RPE의 비-도파민 후보 · 🔑 lateral habenula, habenula, rostromedial tegmentum, median raphe region, vGluT2, DBS
+- [[concept-lateral-habenula]] — 혐오·보상누락의 상류 허브(**MRR→LHb→RMTg→VTA DA 억제**). 금단기 무쾌감의 시냅스 좌표(LHb→RMTg GluA1 삽입)이자 negative RPE의 비-도파민 후보. **두 번째 출력축 LHb→MRN(median raphe)** = 포기·anhedonia, VTA 비의존([[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]]) · 🔑 lateral habenula, habenula, rostromedial tegmentum, median raphe region, vGluT2, DBS
 
 ### 메커니즘 · 분자
 - [[concept-mc4r]] · [[concept-melanocortin-system]] · [[concept-incretin-effect]] · [[concept-gip]] · 🔑 melanocortin 4 receptor, MC3R, MSH, PVN, SNS, PRS
@@ -778,6 +779,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - ★ [[rangel-2008-a-framework-for-studying-the]] — **신경경제학의 원형 틀**: 가치 기반 의사결정을 5단계 계산(표상·가치평가·행동선택·결과평가·학습) × 세 가치계(Pavlovian·습관·목표지향) × 조절변수(위험·지연)로 분해. 눈앞 음식의 과식 = Pavlovian계, 아침 커피·식후 담배 = 습관계; **OCD·과식 = 통제권 배정 실패** 가설, 계산정신의학 예고. 습관적 과식 관점의 강화 정리(세 가치계 판별표·5단계 고장 지점) 포함 (Nat Rev Neurosci 2008, Rangel·Camerer·Montague). 개념 [[concept-habit]]. _(🧩 인지 & 행동에도)_ · 🔑 neuroeconomics, control assignment, valuation systems, model-free RL, Q-learning, 시간 할인, prospect theory
 - [[odoherty-2016-multiple-systems-for-the-motivational]] — 인간 동기를 goal-directed/habitual/Pavlovian 3계 + arbitration(vlPFC·frontopolar)으로 분해; general/specific PIT 회로(NAc·amygdala)·vmPFC goal-value·choking (book chapter 2016). · 🔑 OFC, RPE
 - [[holton-2026-the-adaptive-value-of-stubborn]] — ★ **목표 고집(perseveration)을 적응적 계산으로 재정의**: 자원 합리성·간섭 차단·동기 비계 3기능; 알고리즘=선택/실행 분리(Rubicon·HRL option, 습관적 선택+model-based 실행)+현재 목표 vs 임계값 감시(foraging MVT·momentum); apathy=over-persistence·우울의 disengagement 역설 (Trends Cogn Sci 2026, Niv·O'Reilly). 개념 [[concept-goal-commitment]]. _(🧩 인지&행동에도)_ · 🔑 ACC
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] — **explore–exploit·disengage의 비도파민 subcortical 축**: median raphe nucleus의 세 세포타입이 고집·탐색·포기를 나눠 맡고, LHb·LHA 축삭 조작이 **MRN 발화는 바꾸되 VTA는 바꾸지 않음**을 Neuropixels로 통제. MRN^SERT는 신규 물체의 **첫** 깊은 상호작용에만 반응(신규성·현저성). tonic DA(얼마나 열심히)·MRN^SERT(참여)·MRN^VGAT(고집)의 분해는 [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka|Lodder 2026]]과 대비 (Nature 2025). _(🧩 인지&행동에도)_ · 🔑 MRN, 5-HT, LHb, Neuropixels
 
 ### 진영 — Value / motivation broadcast
 - [[hamid-2016-mesolimbic-dopamine-signals-value-work]] — NAc DA = value of work (NN 2016). · 🔑 RPE(vs peak shift), ANCCR, NMPU
