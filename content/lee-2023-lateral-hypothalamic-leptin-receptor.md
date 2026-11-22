@@ -137,3 +137,4 @@ journal: Nature Communications
 - [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — **LH 조작 해석에서 "각성·보행운동"을 공변량으로 분리해야 하는 이유**(PNAS 2024, Kilduff lab). LH 억제성 뉴런을 64.6% 절제하면 **자발 활동기 보행속도가 68% 감소**(P=0.047)하는데 **24시간 수면 구조는 전혀 바뀌지 않는다** → LH^Vgat 계열 조작은 섭취량과 **독립적으로 LMA(에너지 소비) 축**을 건드릴 수 있다. 또 AAV-CaMKIIα promoter가 LH에서 **20–33% GABAergic을 함께 집는다**는 결과는 LH 드라이버·promoter 선택의 감사 항목이다. 연결 가설: LH^LepR photometry 과제에 EEG/EMG를 붙여 seeking 구간의 **각성 상태와 approach 속도가 해리되는지** 본다(원문 주장 아님).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 본 논문의 LH miniscope 단일세포 기록(CNMF-E)과 seeking·consummatory 분리 과제를 lab의 영상·행동 선례로 인용.
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. LepR가 그 안에서 차지하는 비율·순도 쟁점이 §4.2·§5-9에, food-specific 정의 축 차이가 §5-2에 정리돼 있다

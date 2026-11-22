@@ -25,7 +25,7 @@ hypothalamus lateral 영역. 사용자 lab 기준 4 subdivisions ([[cheon-2025-l
 ## 주요 cell types
 
 ### Neurotransmitter 기반
-- **GABAergic** (Vgat) — 식이 ↑. ⚠️ 단일 레이블로 쓰기 어렵다: 같은 집단이 **행동성 체온조절에도 필수**이고([[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]]) 이득 기능 조작은 섭식이 아니라 **갉기**를 유발한다. 아래 "기능 정의 ensemble" 절 참조
+- **GABAergic** (Vgat) — 식이 ↑ → 전용 hub [[concept-lh-gabaergic-neurons]]. ⚠️ 단일 레이블로 쓰기 어렵다: 같은 집단이 **행동성 체온조절에도 필수**이고([[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]]) 이득 기능 조작은 섭식이 아니라 **갉기**를 유발한다. 아래 "기능 정의 ensemble" 절 참조
 - **Glutamatergic** (Vglut2) — 식이 ↓ ("brake")
 - **Camk2a** — 대부분 Vglut2
   - ⚠️ **세포 유형이 아니라 프로모터로 정의된 농축 표지다** → [[concept-lh-camkii-neurons]]. `AAV-CaMKIIα` 프로모터는 *Camk2a*에는 충실하나(mCherry⁺의 95.6 ± 0.4%가 *Camk2a* mRNA⁺) 같은 라벨이 **Vglut2⁺ 78.7% / Vgat⁺ 33%(IHC Gad2⁺ 20.1%)** 혼합이고([[heiss-2024-distinct-lateral-hypothalamic-camkiia|Heiss 2024]]), 같은 프로모터·거의 같은 좌표를 쓴 [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein|Tan 2022]]은 GABA와 **"거의 비중첩"(수치 없음)** 이라 적고 vGluT2⁻ **36.13%** 미확인 분획에 기능을 귀속시킨다. **GABA 분율은 보고에 따라 0%(정성)~33%** 로 병기하고, Mickelsen 15+15 census의 어느 클러스터에도 대응되지 않는다.
@@ -112,6 +112,8 @@ hypothalamus lateral 영역. 사용자 lab 기준 4 subdivisions ([[cheon-2025-l
 - **영장류 번역**: LHA GABA 비선택적 화학유전 활성화는 **palatable food 한정**으로 goal-directed 섭식·동기를 늘리고 설치류식 비정상 갉기를 만들지 않는다 ([[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]]) — bulk 조작의 phase 편향이 종에 따라 다를 수 있다.
 
 ## 기능 정의 ensemble ↔ 분자·투사 정의 집단 — 대응 미해결 ★
+
+> 이 절을 기능 축별로 펼치고 충돌·원문 대조 수치를 모은 전용 hub: [[concept-lh-gabaergic-neurons]].
 
 위 표들은 **분자 마커**로 LH를 가른다. 그런데 2022–2026년 단일세포·앙상블 연구들은 같은 LH^Vgat을 **기능 축**으로 가르고, 두 좌표계의 대응은 아직 풀리지 않았다. 사용자 lab의 분자 정의 집단(LH^LepR)이 어느 기능 ensemble에 속하는지가 직접 걸린 문제다.
 
@@ -360,6 +362,7 @@ cue onset 500 ms 전 ~ offset 500 ms 후만 광억제하고 **보상 전달 구�
 - [[person-kim-sung-yon]] — SNU. LH^Vgat의 체온조절 행동·salience/ingestion ensemble 연구(Jung 2022, Lee 2026)
 - [[jung-2022-a-forebrain-neural-substrate-for]] — LH^Vgat이 **행동성 체온조절**(자가가온 operant·온도 선택·둥지 짓기·자세 신전)에 필요하고 자율성 체온조절에는 불필요; 열 자극 하위집단과 칼로리 보상 하위집단이 분리; LPB→LH 입력은 체온조절 행동에만 필요 (Neuron 2022, SNU [[person-kim-sung-yon|김성연]] lab)
 - [[wang-2026-a-hypothalamic-circuit-links]] — ★ LHA^Glu(섭식억제 통설)가 **과식 성분 전용** 하류: 만성 HFD-취약군에서 PVNCRH가 LHAGlu를 **억제→brake 해제=과식**(disinhibition), 불안은 안 건드림. **CRHR2(not CRHR1)** 가 LHAGlu에 특이 발현해 과식만 매개(Astressin 2B·shRNA knockdown 모두 과식↓·불안 무변). 통설(Vglut2=brake)을 유지하되 부호를 뒤집어 읽음 (Nat Commun 2026).
+- [[concept-lh-gabaergic-neurons]] — ★ LH^Vgat 전용 hub. 본 페이지의 '기능 정의 ensemble ↔ 분자·투사 정의 집단' 절을 기능 축별(섭식·phase·체온·salience·학습·운동)로 펼치고, 충돌 12건과 원문 대조 수치표를 담았다
 
 ### 2026-10 대량 ingest — 주제별
 

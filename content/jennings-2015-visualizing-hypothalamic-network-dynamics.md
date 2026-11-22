@@ -124,3 +124,4 @@ journal: "Cell 160(3):516–527 (2015-01-29); doi:10.1016/j.cell.2014.12.026"
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 본 논문 Fig 5의 "공간적으로 뒤섞인 cell map"에 대응하는 분자 지도(EASI-FISH). 국소 섞임은 재현하되 그 위의 층판 구조를 보고 — 스케일 차이로 병기.
 - [[goode-2026-a-dorsal-hippocampus-prodynorphinergic-dorsolateral]] — 본 논문이 정의한 **LHA^Vgat의 상류 맥락 게이트**: DHPC→DLS^Pdyn→LHA(Vgat) 단시냅스 억제. 그 억제가 appetitive/consummatory 중 어느 subset에 걸리는지가 "총 섭취 불변·맥락 특이성만 소실" 표현형의 설명 후보 (Neuron 2026).
 - [[johansen-2025-brain-control-of-energy]] — "LH GABAergic 활성 → appetitive·consummatory↑"로 본 논문을 요약하는 대형 리뷰(Cell 2025). 조작 양식별 축 차이(Fig 2 vs Fig 3)를 함께 읽을 것.
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 743 뉴런의 appetitive 168 / consummatory 75 분업이 §2.2 phase 축의 1차 근거

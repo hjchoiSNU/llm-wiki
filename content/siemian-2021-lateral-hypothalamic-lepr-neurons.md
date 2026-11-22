@@ -161,4 +161,5 @@ LH^Vgat는 섭취·체중·보상·학습을 모두 움직이지만, 그 약 20%
 - [[bonnavion-2016-hubs-and-spokes-of]] — LHA LepRb를 Nts·Gal·MC4R 혼합 '세 번째 집단'으로 분류한 리뷰. 본 논문 Discussion의 galanin⁺·neurotensin⁺ 하위집단 논의와 직접 대응(LepRb 60% Nts⁺).
 - [[concept-neurotensin]] — LHA LepRb의 약 60%가 Nts⁺. 본 논문이 '분자적으로 이질적이어도 기능 축은 appetitive로 수렴'이라 본 근거 집단.
 - [[sharpe-2021-past-experience-shapes-the]] — rat LH^GABA(GAD1-Cre) 전체 집단의 **학습 전담 증거**(Nat Neurosci 2021, Sharpe·Schoenbaum). 본 논문의 "LH^LepR는 섭취·체중을 바꾸지 않고 학습만 바꾼다"와 **방향이 같다**: 그쪽 조작도 섭취를 종결점으로 쓰지 않고 cue 학습만 바꾼다(중립·원위 cue 학습은 오히려 **촉진**, latent inhibition은 **소실**, 공포 학습은 **보상 경험 후에만** 필요). ⚠️ 종(rat vs mouse)·세포 정의(전체 GAD1 vs LepR 부분집합)·opsin(NpHR vs ArchT)이 모두 달라, 그쪽 효과가 **LepR 부분집합의 속성인지는 미검증**이다. 본 논문의 "cue 변별은 LepR만, 전체 Vgat는 비변별"은 그 분해의 유력한 출발점(병기).
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 'cue 변별은 LepR만, Vgat는 비변별'이 §2.5·§5-2의 핵심 축
 

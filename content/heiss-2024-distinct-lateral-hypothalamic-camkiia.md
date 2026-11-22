@@ -154,3 +154,4 @@ LH의 CaMKIIα promoter 표지 뉴런은 **wake-active**하고, 이들을 chemog
 - [[concept-weight-regain-defended-adiposity]] — LMA(에너지 소비) 축을 섭취량과 분리해 측정해야 하는 이유.
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — 대사 질환의 활동·effort 저하; CaMKIIα 표적 가설의 임상 연결.
 - [[concept-hypomap]] — hypothalamus 세포타입 atlas 기준에서 CaMKIIα 라벨의 위치.
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. Gad2-DTA 절제 결과가 §2.6 운동·각성 축이고, Venner 2016과의 불일치가 §5-11에 genuine으로 판정

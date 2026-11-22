@@ -836,6 +836,8 @@ LH의 계산을 네 단계로 제안한다.
 ---
 
 ## 관련 페이지
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat 축으로 추린 세부 hub. 본 종합의 명제 2·4·5와 §8 쟁점 1·5·6·7·15를 세포집단 하나의 관점으로 재배열
+
 
 ### 우리 연구실 LH·NMPU 축
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — LH eating cell types 리뷰 (cell type × subdivision × phase 격자)

@@ -52,3 +52,4 @@ aliases: [김성연, Sung-Yon Kim, Kim Sung-Yon, 김성연 lab]
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[kim-2024-glp-1-increases-preingestive-satiation]] — Lee 2026이 인용한 사용자 lab 논문
 - [[person-choi-hyung-jin]] — 사용자. 같은 서울대에서 LH를 연구
 - [[person-stuber-garret]] · [[person-korotkova-tatiana]] — LH GABA 연구의 다른 lab
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 이 lab의 Jung 2022·Lee 2026이 체온(§2.3)·salience(§2.4) 두 축을 이룬다

@@ -125,3 +125,4 @@ NAc shell D1-MSN에서 LH로 가는 억제성 시냅스는 **과식이 유리한
 - [[concept-monosynaptic-rabies-tracing]] — LH^VGluT2 starter → NAcSh D1R-MSN 97%(43/44) 확인에 쓰인 방법.
 - [[concept-food-addiction]] — 과식을 시냅스 가소성으로 읽는 축. ⚠️ Stuber, Schwitzgebel & Lüscher 2025의 "food addiction 신중론"과 함께 읽을 것.
 - [[concept-digital-therapeutics]] — 식사 microstructure(bout 수) 수집의 전임상 근거.
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. engine·brake를 함께 풀어도 순효과가 과식인 역설이 §3.1 주석에 병기

@@ -112,3 +112,4 @@ flowchart LR
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — Cal-Light 태깅한 salience·섭취 집단의 투사(DBB·VTA·DRN·PAG·periLC)가 정성적으로 구분 안 됨 → 투사 기반 표적이 두 ensemble을 섞을 위험 (Cell Rep 2026)
 - [[jung-2022-a-forebrain-neural-substrate-for]] — 열 처벌 활성 뉴런과 칼로리 보상 활성 뉴런의 투사 패턴이 구별되지 않음(Figure S7); 분자 마커(Nts·Tac2)·투사(PAG) 포획도 실패 → 투사 기반 표적 전략에 대한 두 번째 독립 경고 (Neuron 2022)
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 사후 분자정체 단계의 또 다른 선택지인 **EASI-FISH**(300 µm 절편, 다라운드 HCR, 오픈소스 파이프라인, 상용 light-sheet로 수행 가능). 마커 패널(24개)에 LepR가 없으니 Lepr·Crh·Penk를 추가로 설계해야 한다. 기록 위치를 LH **9개 분자 하위구역** 기준으로 보고할 수 있다 (bioRxiv 2021, Sternson lab).
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 투사 기반 표적화 경고 두 건(§5-7)과 설계 요구 세 가지(§6-5)가 이 계획서를 직접 겨냥한다

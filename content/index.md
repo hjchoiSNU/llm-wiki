@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 562 (+ index.md, log.md)
+- 총 페이지: 564 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-22
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -29,6 +29,7 @@ title: 뇌과학 LLM Wiki
 - [[concept-ventromedial-hypothalamus]] — SF1·BDNF·ERα. EE·glucose·thermogenesis·sex dimorphism. · 🔑 VMH, ventromedial nucleus, VMN, CD36, AMPK, DBS
 - [[concept-dorsomedial-hypothalamus]] — GLP-1R cognitive satiation (Park 2025) + circadian Trh→AgRP. · 🔑 DMH, dorsomedial nucleus, ARC, Ebf1, DMH^LepR, BAT
 - [[concept-lateral-hypothalamus]] — Motivation 통합 hub + Korotkova arbitration framework + LH GABAergic→VTA water reward. · 🔑 lateral hypothalamic area, LHA, LH^Vgat, LH^LepR, MCH, Slc32a1
+- [[concept-lh-gabaergic-neurons]] — ★ **LH^Vgat 전용 hub**. 한 집단에 섭식 engine·phase 분업·행동성 체온조절·valence 무관 salience·cue 학습·운동/열생산 여섯 축이 겹친다. 분자 마커(분모 경고 포함)·입출력·하위집단·충돌 12건·원문 대조 수치표. · 🔑 LH^Vgat, LHA^GABA, Slc32a1, thermal P&R, salience ensemble, ingestion ensemble
 - [[concept-lh-camkii-neurons]] — ⚠️ **"LH^CaMKIIα"는 세포 유형이 아니라 프로모터 농축 표지**. Heiss 2024(각성 7 h·LMA +470%, Vgat 20–33%) vs Tan 2022(포식 섭취, GABA "비중첩"·vGluT2⁻ 36%)의 조성 재현 불가 + 프로모터 AAV 인용·설계 규칙. · 🔑 LH CaMKIIa, Camk2a LH, Camk2a, vPAG, MPOA, Slc32a1
 - [[concept-zona-incerta]] — LH 인접 orexigenic 노드. rostral ZI GABA=강박 섭식(처벌-저항)·mPFC top-down·VTA 투사. 인간 rZI-mPFC FC=비만/binge biomarker. · 🔑 rZI^GABA, mPFC-rZI, PAG, ORBm(medial orbital), PL, ACC
 - [[concept-medial-preoptic-area]] — **MPOA=양육 개시·조직 허브**(Gal·Esr1·Calcr 모자이크). ★ 섭식과 직접 경쟁: MPOA 활성→섭식↓, AgRP/NPY→MPOA 억제→새끼 방치·공격. BNST^Esr1과 상호억제 스위치. · 🔑 MPOA^Gal, MPOA^Esr1, MPOA^Calcr, medial preoptic nucleus, MPOA^CaMKIIα, CaMKII

@@ -274,3 +274,4 @@ eating 외에 갈증·체온·사회 행동·약물 추구에도 framework 적�
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — Need 축을 '결핍의 크기'가 아니라 **전환 능력([[concept-metabolic-flexibility|대사 유연성]])** 으로 다시 쓸 수 있다는 제안. POMC의 opioid 분비는 Pleasure 축과도 얽힌다.
 - [[molina-2026-semaglutide-quiets-food-noise-in]] — GLP-1RA 매핑("Need + Motivation 감소")의 **Motivation 쪽을 lick 단위로 지지**: 단회 semaglutide가 이동 비용을 치르는 active pursuit만 낮추고 Pleasure(passive 소비·palatability)는 보존, 회복기 반동 과식은 chow로 향함 (bioRxiv preprint 2026).
 - [[overview-grand-quest-feeding-as-learning]] — NMPU를 **구성요소 분해에서 학습 알고리즘으로** 한 걸음 더 미는 읽기(위키 해석): Utility의 algorithm reshape를 credit assignment로 정식화하고, 5 maladaptive types를 "학습 파라미터 5세트"로 재해석. 그랜드 퀘스트 답안(2026-11-22).
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 'LH^Vgat 전체 활성을 Motivation으로 읽을 때 섞여 드는 것'과 배정 규칙·2×2 검정 설계가 §6 연결 가설

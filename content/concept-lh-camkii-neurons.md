@@ -208,3 +208,4 @@ Heiss 2024는 CaMKIIα 라벨의 **20–33%가 GABAergic**이라고 세고 그 �
 - [[cheon-2025-lateral-hypothalamus-and-eating-cell]] — "분자 정체로 정의하라"는 요구의 반면교사 사례.
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] · [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — LH^LepR 부호 충돌. 같은 뿌리(라벨 ≠ 세포 유형)인지 검증 대상.
 - [[kim-2024-normative-framework-dissociates-need]] · [[kim-2024-unified-theoretical-framework-underlying-regulation]] · [[concept-need-motivation-pleasure-utility]] — Motivation을 activational/directional로 쪼개는 연결 가설.
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. CaMKIIα 라벨이 세포 유형이 아니라는 판정을 §1.2·§4.2에서 인용

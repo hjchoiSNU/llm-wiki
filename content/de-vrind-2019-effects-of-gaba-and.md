@@ -150,3 +150,4 @@ LH^Vgat와 그 부분집합인 LH^LepR를 hM3Dq로 활성화하면 둘 다 체�
 - [[concept-appetitive-consummatory-phases]] — 본 논문에서 LepR은 운동↑(appetitive)·근접 섭취↓(consummatory)로, Vgat은 섭취 없는 갉기(consummatory 운동 프로그램)로 갈린다. 먹이통 무게 단일 지표의 phase 혼동 사례.
 - [[rossi-2018-overlapping-brain-circuits-for]] — Stuber lab 리뷰의 "조작 시 섭식과 보상을 둘 다 재라"는 권고에 비추면 본 논문은 보상 지표(RTPP·자기자극)를 재지 않았다. 대신 체온·운동·체중이라는 **에너지 소비 열**을 추가한다.
 - [[sharpe-2021-past-experience-shapes-the]] — **종결점 선택의 대비**: 같은 LH^GABA 계열을 그쪽은 연합학습(무엇을 배우는가)으로, 본 논문은 섭취·운동·체온·체중이라는 대사 종결점으로 읽는다. 본 논문의 갉기 artifact는 "섭취량 지표만으로 LH 조작을 평가할 때 생기는 오독"의 실례다.
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 본 논문의 갉기 spillage·체온·운동 결과가 §2.1·§2.6이고, 'engine vs artifact' 판정은 §5-1

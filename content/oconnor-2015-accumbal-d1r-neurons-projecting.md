@@ -124,3 +124,4 @@ NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며
 - [[liu-2023-an-iterative-neural-processing]] — 같은 LH^GABA(GAD2)를 자유행동에서 **섭식 조각 개시 노드**로 그린 연구(Neuron 2023, Wang lab). ⚠️ 본 논문의 "NAc D1R→LH^Vgat = 허가·종료 게이트"와 측정 축이 다르다(개시 vs 종료). 그쪽 Liu도 NAc D1R→LH^GABA를 개시 억제 상류 후보로 인용(병기).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — NAcSh D1R-MSN→LH^Vgat 억제가 섭취를 멈추는 하류 게이트. Siemian 2021의 "LH^LepR subset은 섭취 비구동·appetitive 학습 전담"은 그 순간 단위 섭취 게이트의 표적이 LepR 부분집합은 아닐 가능성을 시사(연결 가설).
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — Zhu가 하류 기전으로 인용(NAc → LH^GABA 탈억제 → 소비 운동 유지).
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. '어느 ensemble이 이 D1R 억제를 받는가'가 §5 미해결 3으로 올라가 있다

@@ -135,3 +135,4 @@ Vgat-Cre 마우스에서 LH^Vgat을 화학유전으로 억제하면 서로 다�
 - [[lee-2023-lateral-hypothalamic-leptin-receptor]] — 사용자 lab의 LH^LepR 분자 정의 집단. 본 논문의 기능 정의 집단과 대응 관계가 미해결
 - [[proposal-lh-nac-nmpu-neuron-discovery]] — 투사 기반 표적화의 난점(Figure S7)이 이 계획서에 직접 경고
 - **TRAP + synaptophysin-mRuby**: 열 처벌에 활성화된 LH 뉴런과 칼로리 보상(액상 먹이)에 활성화된 LH 뉴런의 투사 패턴은 **구분되지 않았다**. 투사 기반 표적화가
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 본 논문의 thermal P&R 집단(76/260)·벡터 각도·LPB→LH가 §2.3 체온 축 전체를 이룬다

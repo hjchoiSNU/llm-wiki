@@ -176,3 +176,4 @@ flowchart LR
 - [[proposal-nmpu-human-translation]] · [[proposal-nmpu-nrf-junggyeon]] — 자매 NMPU 과제.
 - [[person-choi-hyung-jin]] · [[person-kwon-hyung-bae]] — 연구진·도구 협력.
 - [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] — LH^Vgat salience vs ingestion ensemble 분리; 투사로는 갈리지 않음(예비) — 기능 태깅·분자 교차 필요성 근거 (Cell Rep 2026)
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 표 2의 'Vgat/GABA = (발굴)' 칸에 현재 위키가 가진 근거와 공백을 모아 둔 페이지

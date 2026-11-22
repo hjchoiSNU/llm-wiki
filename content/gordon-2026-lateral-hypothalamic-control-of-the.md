@@ -210,3 +210,4 @@ journal: "Neuron 115:1–20 (in press 2026; 호 날짜 2027-03-03; 접수 2025-0
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — ⚠️ 이미 본문에서 "ref 1: Zhu 2025"로 언급 중 — **위키 내부 링크로 승격**. striatum 말단 DA 자극은 bout 수만 늘리고 길이는 안 늘린다는 반대 결과.
 - [[overview-dopamine-roles-by-striatal-region]] — 본 논문의 subregion별 OR·GLM 결과를 다른 도파민 문헌(RPE·ANCCR·cue value)과 함께 subregion × 역할 표로 재배치.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 국소 조절의 **수용체 기전** 쪽 근거: NAc core 도파민 방출이 ChI–nAChR로 VTA 발화 이상으로 증폭된다(고노력 보상).
+- [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. LHA^Ratio를 §3.2 출력 표와 §6 설계 요구(전후축 다점·bout 분해)로 옮겼다
