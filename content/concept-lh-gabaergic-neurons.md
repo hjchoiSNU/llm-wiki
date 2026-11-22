@@ -147,7 +147,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 | **VTA** | GABA성 기능 시냅스(IPSC 182.26 ± 39.62 pA, picrotoxin으로 8.15 ± 1.72 pA까지 차단). VTA GABA 뉴런을 DA보다 강하게 억제 → **disinhibition → NAc DA↑** | [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons\|Sharpe 2017]]·[[nieh-2016-inhibitory-input-from-the\|Nieh 2016]] |
 | **striatum 전역**(간접) | LHA^GABA 자극 → **전방**(NAcCR·NAcCC·NAcShL·DMS·DLS)에서 DA↑, **TS는 아님**. LHA^Glut는 거의 거울상(TS 평균 z: 대조 0.41 / GABA 1.76 / Glut 14.65). **두 집단의 비(LHA^Ratio)** 가 가치·valence를 연속 변수로 싣는다 | [[gordon-2026-lateral-hypothalamic-control-of-the\|Gordon 2026]](원문 대조 확인) |
 | **whole-brain 지도**(rat, serial 2-photon) | LH 국소·**LHb·amygdala·BNST·septum·VTA(parabrachial pigmented area)·ventrolateral PAG·IL/PL mPFC**. VTA는 여러 표적 중 하나일 뿐 | [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons\|Sharpe 2017]] |
-| **MRN**(median raphe) | LHA→MRN 입력은 **주로 GABAergic**이고 MRN의 **두 주요 입력 중 하나**(나머지가 LHb). LHA^VGAT→MRN은 **MRN^VGAT를 억제**해 **고집(perseverance)** 을 올린다 — 활성은 양성 valence·각성↑, 침묵은 지속 상호작용 불가(각성 불변) | [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative\|Ahmadlou 2025]](원문 대조 확인) |
+| **MRN**(median raphe) | LHA→MRN 입력은 **주로 GABAergic**이고 MRN의 **두 주요 입력 중 하나**(나머지가 LHb). LHA^VGAT→MRN은 **MRN^VGAT를 억제**해 **고집(perseverance)** 을 올린다 — 활성은 양성 valence·각성↑, 침묵은 지속 상호작용 불가(각성 불변). ⚠️ **dorsal raphe(DR·DRN) 쪽 주장과 별개의 핵**이다 — §5 미해결 7 | [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative\|Ahmadlou 2025]](원문 대조 확인) |
 | **PAG** | LH→PAG가 전달물질로 갈린다 — **GABA = 사냥, Glut = 도피**(Li 2018 경유) | [[korotkova-2026-balancing-acts-lateral-hypothalamic\|Korotkova 2026]] |
 | **LHb** | ⚠️ LH^GABA→LHb는 **약하고** 대신 LHb 바로 아래 정중선 thalamus(PVT)를 지배한다 | [[stuber-2016-lateral-hypothalamic-circuits-for\|Stuber 2016]] |
 | **dLS(상행)** | ⚠️ **GABA 축이 아니다** — perifornical CTb⁺Sst⁺의 75.3%가 *Slc17a6*⁺이고 *Slc32a1*⁺는 16.4%. Vgat-Cre 순행 섬유는 희박 | [[mickelsen-2019-single-cell-transcriptomic-analysis-of\|Mickelsen 2019]] |
@@ -254,6 +254,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 4. 집단 광도측정에서 보이는 "양가 salience hub"([[jia-2026-novelty-exploration-activated-ensemble-in|Jia 2026]])가 분리된 두 ensemble의 **합**인지 — 단일세포 해상도 재검토 필요. Jia의 ensemble은 GABAergic 48.79%에 Vgat·Vglut2 양쪽을 포함하고 novelty로 태깅돼 직접 비교에 한계가 있다.
 5. 만성 HFD에서 **GABA 쪽 ensemble도 둔화되는가** — HFD 전사체 변화와 인간 BMI 유전 연관이 모두 **Vglut2 쪽**에서 최대였고 Vgat 클러스터는 하나로 다뤄졌다 ([[rossi-2019-obesity-remodels-activity-and|Rossi 2019]]; GSE130597 재분석 가능).
 6. LH^GABA → IL/PL mPFC 역방향 분지의 **기능 자료가 전혀 없다**.
+7. ⚠️ **LH^GABA의 raphe 출력이 두 개의 다른 핵에 걸쳐 있는데 아무도 구분해 재지 않았다.** 위키의 세 주장은 각각 **dorsal raphe**(DR^GABA = 섭식 조각의 *유지* 노드, 접촉 지속 상관 R=0.908, GAD2-Cre로 정의 — [[liu-2023-an-iterative-neural-processing|Liu 2023]]), **DRN**(Cal-Light 태깅 집단의 투사 목록 DBB·VTA·**DRN**·PAG·periLC, 그리고 salience 쪽 입력 후보 — [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]), **median raphe**(LHA^VGAT→MRN^VGAT = *고집* — [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]])를 가리킨다. **DR과 MRN은 다른 핵**이고, 같은 LH 세포가 둘 다로 가는지, 서로 다른 하위집단인지는 **미측정**이다. 특히 Lee 2026의 Cal-Light 목록에 **MRN은 없다** — 즉 salience·ingestion 두 ensemble이 MRN 투사 집단을 포함하는지조차 모른다. 인용할 때 DR/DRN/MRN을 **반드시 구분해 적을 것**. (같은 병목을 분자 쪽에서 본 질문: LH^LepR·LH^Nts의 raphe 투사는 위키에 **DR**로 기록돼 있다 — [[bonnavion-2016-hubs-and-spokes-of|Bonnavion 2016]].)
 
 ## 6. NMPU 틀과의 연결 가설
 

@@ -47,6 +47,14 @@
 
 역방향 링크 16건 추가·수정(모두 `updated: 2026-11-23`): [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]](본문 문장 교체 + 링크)·[[concept-lateral-habenula]]·[[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]]·[[concept-compulsion]]·[[concept-anhedonia]]·[[concept-will-volition-motivation]]·[[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]]·[[concept-effort-based-decision-making]]·[[azevedo-2020-a-limbic-circuit-selectively-links]]·[[zhao-2026-serotonin-neurons-in-the-dorsal]]·[[jia-2026-novelty-exploration-activated-ensemble-in]]·[[concept-dopamine-reward-system]]. [[index|index.md]]에 🧩 인지&행동·🎯 도파민&보상·동기 두 곳 등재(Holton 항목 직후, 교차 표기) + [[concept-lateral-habenula]] 요약 줄에 LHb→MRN 축 추가, 총 페이지 565→566. 깨진 링크 0건(신규 페이지 고유 링크 29개 전부 존재). 남은 2순위 ingest: Chu & Schulz 2022 · Holton 2024 NHB · Aenugu & O'Doherty 2025 · Costello 2023·Jeong 2022. 웹 미사용.
 
+## 2026-11-23 — lint (raphe 출력의 DR/MRN 혼동 방지, Opus 5)
+
+「생존·관계·이상 분자기전 지도」 세션이 각성 조건 정밀화를 받아 자기 쪽을 전수 점검하다 **실질 오류 1건**(그랜드 퀘스트 페이지에서 "포기 81%"를 LHb→MRN 활성이 아닌 조작에 붙이고, 각성 불변 근거를 LHb 쪽으로 잘못 귀속)을 찾아 고쳤다고 알려 왔다. 같은 축으로 [[concept-lh-gabaergic-neurons]]를 점검한 결과 **구분 누락 1건**을 추가했다.
+
+- ⚠️ **hub가 raphe를 세 번 인용하는데 두 개의 다른 핵이었다**: **DR**(DR^GABA = 섭식 조각의 유지 노드, R=0.908, GAD2-Cre — [[liu-2023-an-iterative-neural-processing]]) / **DRN**(Cal-Light 투사 목록·salience 입력 후보 — [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]]) / **MRN**(LHA^VGAT→MRN^VGAT = 고집 — [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]). 셋을 구분하는 문장이 없어 "LH^GABA→raphe"로 뭉뚱그려 읽힐 수 있었다. §5 **미해결 7번**으로 신설하고 §3.2 MRN 행에도 단서를 달았다. 핵심: **같은 LH 세포가 DR·MRN 둘 다로 가는지 미측정**이고, Lee 2026 Cal-Light 목록에 **MRN이 없어** salience·ingestion 두 ensemble이 MRN 투사 집단을 포함하는지조차 모른다.
+- 분자 쪽 같은 병목: LH^LepR·LH^Nts의 raphe 투사는 위키에 **DR**로 기록돼 있다([[bonnavion-2016-hubs-and-spokes-of]]) — 상대 세션의 과제("LH^LepR의 raphe 투사가 DR인가 MRN인가")와 같은 질문의 다른 입구다.
+- hub 외 페이지는 건드리지 않았다(상대 세션이 [[overview-grand-quest-will-to-live]]·[[concept-lateral-hypothalamus]] 412행을 이미 교정). `wiki_lint.py` 오류 0건·경고 0건. 웹 미사용.
+
 ## 2026-11-23 — ingest (LH^Vgat hub에 일곱 번째 축 '고집' 반영, Opus 5)
 
 「생존·관계·이상 분자기전 지도」 세션이 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]를 ingest하면서 [[concept-lh-gabaergic-neurons]]의 관련 페이지 절에 한 줄을 더했다고 알려 왔다. 그 축이 hub 본문에 빠져 있어(§2가 여섯 축인데 관련 페이지만 "일곱 번째 축"이라 적힘) **원문 PDF로 직접 검증한 뒤 §2.7로 승격**했다.
