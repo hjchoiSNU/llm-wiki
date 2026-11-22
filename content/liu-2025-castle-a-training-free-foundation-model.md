@@ -104,3 +104,4 @@ year: 2025
 - [[wang-2026-multimodal-alignments-of-in]] — 또 다른 측정·정합 방법론 논문(활성↔분자정체). 도구 논문 계열로 나란함.
 - [[ha-2024-hypothalamic-neuronal-activation-non-human]] — NHP 자유행동 섭식을 DeepLabCut으로 정량한 실험. 본 논문이 제시하는 label-free 대안의 적용 후보.
 - [[concept-need-motivation-pleasure-utility]] — NMPU의 consummatory 미세구조(접근·물기·삼킴·해제)를 행동 클래스로 분해할 계측 수단.
+- [[mice-2026-multi-animal-interaction-context-encoder]] — 같은 파운데이션 모델 계열의 다른 극: CASTLE은 **영상·training-free·비지도 발견**, MICE는 **keypoint·self-supervised pretraining·사회 상호작용 명시 모델링**(가변 N). 입력 양식·학습 패러다임 상보.

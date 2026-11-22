@@ -10,8 +10,8 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 557 (+ index.md, log.md)
-- 마지막 갱신: 2026-11-07
+- 총 페이지: 562 (+ index.md, log.md)
+- 마지막 갱신: 2026-11-22
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
 >
@@ -92,6 +92,7 @@ title: 뇌과학 LLM Wiki
 - [[weinreb-2026-spontaneous-behavior-is-a]] — **shMoSeq**: MoSeq syllable을 위계 HHMM으로 묶어 pose(ms)→syllable(sub-s)→**behavioral state(수 초)** 3층 분해; 자유행동을 task 상태로 세그먼트하는 python 도구 (Neuron 2026, Datta lab). _(dmPFC 상태 코딩 본문은 🧩에)_ · 🔑 MI, DLS
 - [[concept-computational-ethology]] — **행동 자동 정량화 hub**: 지도 keypoint(DeepLabCut·SLEAP) → 비지도 syllable(MoSeq·B-SOiD) → 파운데이션 모델(PriVi·CASTLE) 세대별 지형; 인식 대 발견·라벨 타당성(신경 디코딩 검증)·시간 위계·폐루프 쟁점 정리. · 🔑 행동 정량화, markerless tracking, pose estimation, behavioral syllable, V-JEPA(video foundation model), Keypoint-MoSeq
 - [[liu-2025-castle-a-training-free-foundation-model]] — **CASTLE**: SAM(분할)+DeAOT(추적)+DINOv2(잠재특징)를 **재학습·라벨 없이** 연결, ROI focused latent를 UMAP→DBSCAN 위계 군집해 행동 클래스 발견. 마우스 F1 0.90·신경 디코딩 DLC와 동등·전문가가 놓친 섭식 하위행동 발견·마우스/초파리/선충 이전 (bioRxiv 2025, Yu-Wei Wu lab). · 🔑 VFM, MoSeq, DeepLabCut, PD
+- [[mice-2026-multi-animal-interaction-context-encoder]] — **MICE**: 생쥐 **keypoint** self-supervised 파운데이션 모델. 개체별 다중 시간척도 Transformer + **Perceiver 사회 인코더**(학습 latent 16슬롯)로 **동물 수 N에 무관한 단일 체크포인트** → 사회 상호작용(공격·구애·mounting) 신호 보존. 6 데이터셋 공동학습, 베이스라인 이상 성능을 583K 파라미터(hBehaveMAE의 1/7)로 (arXiv/NeurIPS 2026, Anqi Wu lab). _(방법 인프라, appetite 회로 아님; 집단 섭식·먹이 경쟁 분석 후보)_ · 🔑 pose foundation model, variable-N, Perceiver, social behavior, hBehaveMAE, MABe, self-supervised
 
 ## 🧩 인지 & 행동 (Cognition & Behavior)
 
@@ -182,6 +183,7 @@ _(섭식·동기 행동은 🍽️로)_
 - [[duran-2026-the-central-amygdala-gates]] — ★ 위 프리프린트의 **정식 출판판**(Molecular Metabolism 2026, "integrates"→"gates"); 결론 동일, CeA^Glp1r hedonic 전담 확정. 인용 시 이쪽 우선. · 🔑 Glp1r^CeA, Ex-4, CeM, CeL, HFD, GLP-1RA
 - [[liskiewicz-2026-glp-1r-gipr-ppar]] — GLP-1R–GIPR 이중작용 펩타이드(MAR709)에 PPARα/γ/δ agonist(lanifibranor)를 공유결합한 5중작용제; 두 incretin 수용체+PPAR 모두 체중·당대사 기여, ARC POMC 활성 강화·BBB 미투과 (Nature 2026, Müller lab). · 🔑 FOS, CTA, AP, NTS, DMH
 - [[xu-2020-behavioral-state-coding-by]] — PVH 분자 세포타입 ensemble이 11개 행동상태(hunger·ghrelin·leptin·thirst·fear)를 **grouped-ensemble coding**; Npy1r=conductor, MC5-Crh/MC6-Pdyn=salience; CaRMA imaging (Science 2020, Sternson). · 🔑 pPVH, RNA-FISH
+- ★ [[bacharach-2026-a-hypothalamic-circuit-links-hunger]] — **배고픔을 mesolimbic dopamine에 잇는 회로 다리**: AgRP 활성은 VTA dopamine 억제성 입력(mIPSC 빈도 −53%)을 줄여 NAc dopamine을 **음식에만** 선택 증폭(물체·코카인은 오히려↓); 음식 조우 **초기 0–5분** dopamine이 섭취에 인과적 필요(접근은 보존, 소비 개시 손상). 경로는 **AgRP→PVH의 NPY→Y1R 뉴런 억제**(NPY만 재현, SHU9119·baclofen 무효; PVH Y1R 억제가 AgRP 활성 재현). Xu 2020의 Npy1r=hedonic eating state와 합류 (bioRxiv 2026, Alhadeff lab). · 🔑 GRAB-DA2h, Y1R(Npy1r), mIPSC, flupentixol, eNpHR, hM4Di, VTA→NAc, food-specific dopamine
 - [[mcknight-2026-attenuated-hypothalamic-response-to]] — AgRP가 칼로리 아닌 **영양소 정체**에 반응(fructose≪glucose 억제); fructose 전용 **PYY→Y2R→미주 구심성** 경로; graded AgRP 억제→food preference (Neuron 2026, Alhadeff·de Lartigue). · 🔑 HFCS, GLP-1
 - [[lim-2026-hypothalamic-pomc-neurons-regulate]] — ARC POMC **PKA→α-MSH→MC4R(DMV)→미주 원심성→장 SGLT1↓** 회로가 식후 혈당↓(인슐린 비의존); 세마글루타이드 혈당강하가 POMC PKA 의존(tirzepatide 비의존) (Nat Commun 2026, Min-Seon Kim). · 🔑 cAMP-PKA, AP, GLP-1R
 - [[walker-2026-a-hypothalamic-circuit-for]] — anterior PVH **Sim2⁺ 흥분성 뉴런 → ARC^AgRP** 회로가 gastrointestinal tract·호르몬 feedback이 아닌 **미래 에너지 상태 예측 cue**(먹이 부재·탐색 실패, cortex ACC·ventral hippocampus 입력)로 단식 초기 AgRP 빠른 활성·장기 섭취 유지; AgRP=Need 예측의 상류 회로 (Neuron 2026, Lowell lab). · 🔑 PVH^Sim2, Adcyap1, PACAP
@@ -721,6 +723,8 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] — NAc DA = effort·behavioral activation, 'reward' 용어 폐기 (Neuron 2012). · 🔑 YES, RPE(teaching signal), NO, ANCCR, NMPU
 - [[concept-will-volition-motivation]] — 의지(will, tonic)·의욕(volition, phasic)·동기 구분 hub; '일할 의지' = acceptance bias vs 자기통제 = Utility. 본문은 💡 일반 개념 절.
 - ★ [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **같은 보상도 더 많이 일해 얻으면 NAc core 보상 도파민이 커진다**(FR1→46; 같은 축삭 광자극도). 증폭은 VTA 세포체 독립이고 **NAc ChI의 ACh → 도파민 축삭 α4/α6 nAChR**가 만든다. DHβE·TetTox·NpHR로 고노력 DA만↓, 차단 시 고노력 보상 획득만↓. ACh = 노력만, DA = 크기 + 노력 (Nature 2026, Eshel·Malenka lab). _([[concept-striatal-cholinergic-interneuron|ChI]] hub에도)_ · 🔑 effort paradox, GRAB_ACh, ChAT, stGtACR2, muscimol, Chrna4·Chrna6
+- ★ [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — **분 단위 tonic 도파민이 "일할 동기"를 인과적으로 결정**: NAc core를 fluorescence lifetime 광도측정(FLIPR)으로 절대 측정, progressive ratio에서 tonic DA 상승이 poke 수를 예측(phasic 크기는 못함)하고 VTA DAN DREADD 양방향 조작이 breakpoint·poke rate를 양방향으로 바꿈. 하류: **tonic DA는 D2R-SPN PKA를 직접, D1R-SPN은 phasic 증가 크기를 바꿔 간접** 조절(DA→PKA ~4.5 s 선행) → 위키 도파민 축의 phasic 편중을 보완 (bioRxiv 2026, Sabatini lab). _([[concept-will-volition-motivation|의지=tonic DA]] 가설 실측)_ · 🔑 FLIPR, FLIM-AKAR, dLight3.8, D1R-SPN, D2R-SPN, breakpoint, BiPoles, DCZ
+- [[poh-2026-ventromedial-striatal-dopamine-dynamically-integrates]] — VMS(ventral striatum) 도파민이 **행동 개시(Go)와 보상 장소까지의 공간 근접 ramp를 순차 통합**: Go>No-go 차이는 controllability·effort에 둔감, 근접 ramp는 **공간엔 묶이나 시간 지연엔 무관**. No-go에서 **소비성 Biting**을 보인 개체·시행은 같은 공간 근접에도 접근 dopamine ~2배 → 근접 부호화가 **Pavlovian 동기 상태**로 변조(vigor로는 설명 불가). rat 4-과제 FSCV (bioRxiv/eLife 2026, Willuhn lab). · 🔑 FSCV, ramp, Go/No-go, reward proximity, sign-tracking, Pavlovian drive, controllability
 
 ### 좋아함(liking) vs 갈망(wanting) — 오피오이드 vs 도파민 (Berridge cluster)
 - [[concept-liking-wanting]] — 보상 이중 해리 개념 hub: ‘좋아함’(오피오이드 핫스폿) vs ‘갈망’(중limbic system 도파민). 도파민은 ‘좋아함’에 불필요. · 🔑 좋아함 갈망, hedonic impact, incentive salience, 유인 현저성, D2, D1
@@ -742,6 +746,7 @@ VTA·NAc·도파민 회로, RPE 논쟁, 동기 행동의 신경기질.
 - [[concept-ventral-pallidum]] · [[wang-2026-ventral-pallidal-gabaergic-neurons]] — posterior VP=‘좋아함’ 필수 핫스폿; VP^GABA가 hedonic 섭식·HFD 비만을 인과 통제(항상성 보존) (bioRxiv 2026, Kravitz). · 🔑 ventral pallidum, taCasp3
 - [[malvaez-2019-distinct-cortical-amygdala-projections-drive]] — **lOFC→BLA=가치 부호화 / mOFC→BLA=가치 인출** 이중해리; 가치(갈망) 조작에도 palatability(좋아함) 불변 → 회로 수준 liking≠wanting (Nat Neurosci 2019, Wassum lab). 인물 [[person-wassum-kate]].
 - [[schulz-2026-blunted-anticipation-but-not]] — 인간 우울증/anhedonia는 음식의 **예측 wanting↓·소비 liking 보존**(근접 시 회복); acyl ghrelin·인슐린저항이 증상과 연동 (Cell Rep Med 2026, Kroemer). 개념 [[concept-anhedonia]]. _(🩺 질환에도)_ · 🔑 MDD, SHAPS, HCP
+- [[molina-2026-semaglutide-quiets-food-noise-in]] — 단회 semaglutide가 자리가 바뀐 glucose를 **건너가 쫓는 active hit만** 줄이고(교차 확률 0.92→0.60, 전환 시간 79→409 s) 제자리로 온 glucose의 passive 소비·lick 리듬·palatability(bout 길이)는 보존 → **wanting↓·liking 보존**, "food noise" 감소의 생쥐 행동 상관물; 회복기 반동 과식은 chow로 향함 (bioRxiv **preprint** 2026, Gutierrez lab). _(🍽️ 임상·DTx와도)_ · 🔑 Homegustometer, lick-triggered taste alternation, conditioned taste avoidance, LiCl, HMM, lipid emulsion
 
 ### 진영 — Heterogeneity / cell types
 - [[morales-2017-ventral-tegmental-area-cellular-heterogeneity]] — VTA cellular heterogeneity 종합 (NRN 2017). · 🔑 LHT, TH, PBP, PN, LDTg, LHb

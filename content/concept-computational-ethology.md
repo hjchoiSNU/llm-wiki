@@ -73,3 +73,4 @@ aliases: [computational ethology, 행동 정량화, markerless tracking, pose es
 - [[mathis-2026-joint-modelling-of-brain-and]] — 결합 모델링 리뷰(NRN 2026); 행동 위계·pose·다중모달 파트가 본 페이지와 직접 겹치고, "라벨 타당성"을 identifiability·consistency 지표로 형식화.
 - [[mathis-2026-leveraging-insights-from-neuroscience-to]] — 같은 저자 Perspective; pose·genomic·neural 인코더를 LLM이 라우팅하는 agentic 파이프라인 제안(본 도구군의 청사진).
 - [[liu-2023-an-iterative-neural-processing]] — 섭식 적용 사례: ResNet50 프레임 라벨 + random forest 교정 + **TICC** 분절(BIC로 8 behavior 선택, 프레임의 >98%) → 섭식이 C-W-n(E-W)-C로 조각나 있음을 발견. ResNet18 실시간 biting/touching 검출(~16 fps, 평균 62.5 ms)로 **행동 촉발 폐쇄회로 광유전**을 구현했다 (Neuron 2023, Wang lab).
+- [[mice-2026-multi-animal-interaction-context-encoder]] — **keypoint 파운데이션 모델**의 다개체·사회 축: 개체 인코더 + Perceiver 사회 인코더(가변 N)로 공격·구애·mounting 같은 상호작용을 단일 체크포인트로 인식. 583K 파라미터 경량, 집단 섭식·먹이 경쟁 분석 후보 (arXiv/NeurIPS 2026, Anqi Wu lab).

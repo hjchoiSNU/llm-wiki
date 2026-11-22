@@ -39,3 +39,4 @@ Robinson & Berridge가 1993년 원전(9,000+ 인용)으로부터 30년의 증거
 - [[lee-2025-hijacked-brain-modern-obesity-cue]] — 현대 비만의 cue 주도 모델과 직접 연결
 - [[person-choi-hyung-jin]] — hypothalamus 회로·비만 연구 lab 연관
 - [[luscher-2021-consolidating-the-circuit-model-for]] — **대비 프레임**: 본 논문이 compulsion을 *motivational compulsion*(선택의 왜곡, 부분 저항 가능)으로 재정의하는 반면, Lüscher & Janak은 **처벌 저항이라는 조작적 기준 + OFC→DST 시냅스 강도**로 정의한다. → [[concept-compulsion]]
+- [[poh-2026-ventromedial-striatal-dopamine-dynamically-integrates]] — sign/goal-tracker 개체차·Pavlovian drive의 생리 사례: No-go에서 **소비성 Biting**(높은 Pavlovian drive/행동 억제 곤란)을 보인 개체는 같은 공간 근접에도 VMS dopamine이 ~2배. cue 자체가 아니라 **행동 억제 후 보상 접근**에서 증폭 → sign-tracking과는 구별되는 동기 상태 변조.

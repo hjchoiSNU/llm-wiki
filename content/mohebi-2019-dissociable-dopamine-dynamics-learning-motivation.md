@@ -143,3 +143,4 @@ journal: "Nature 570:65–70"
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 이 논문이 지목한 local control 후보(ChI → nAChR)의 **생체 인과 검증**: 고노력 보상에서 NAc 도파민 증폭은 VTA 억제에 무관하고 NAc ACh 차단에 사라지며, 노력 행동을 유지한다. 다만 신호는 보상률 ramp가 아니라 **보상 시점 transient의 노력 의존 증폭**이다(Nature 2026; Eshel·Malenka lab, ref 28로 이 논문 인용).
 - [[burke-2026-duration-between-rewards-controls-the]] — TDRPE 바깥의 도파민 근거 목록에 이 논문을 인용(ref 34).
 - [[concept-will-volition-motivation]] — 동기 ramping이 VTA 발화 없이 국소 release로만 나타난다는 결과를, Kang의 'tonic 발화 = 의지' 가설을 그대로 옮기기 어려운 근거로 인용.
+- [[poh-2026-ventromedial-striatal-dopamine-dynamically-integrates]] — 본 논문의 VMS dopamine 학습(RPE)↔동기(ramp) 이중 역학을 한 Go/No-go 과제로 **순차 통합**(행동 개시 + 공간 근접)으로 재배치. ramp가 공간 근접에만 묶이고 시간 지연엔 무관함을 보탬 (bioRxiv/eLife 2026, Willuhn lab).

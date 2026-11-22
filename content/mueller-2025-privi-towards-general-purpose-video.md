@@ -43,3 +43,4 @@ year: 2025
 - [[matsuda-2020-diet-and-feeding-behavior-of]] — 야생 영장류 자연 섭식행동 관찰; 본 CV 도구가 정량화 대상으로 삼을 수 있는 자연주의 primate 행동 데이터의 예.
 - [[liu-2025-castle-a-training-free-foundation-model]] — 같은 VFM 계열이나 반대 극: PriVi는 **domain 사전학습 + 지도 classifier로 인식**, CASTLE은 **재학습 전무 + 비지도 군집으로 발견**. 라벨 유무·인식 대 발견 축에서 상보적.
 - [[concept-computational-ethology]] — 행동 자동 정량화 도구 계열 hub(세대별 지형·방법론 쟁점).
+- [[mice-2026-multi-animal-interaction-context-encoder]] — 같은 파운데이션 모델 계열의 다른 입력 양식: PriVi는 primate **영상**(V-JEPA), MICE는 생쥐 **keypoint**로 **다개체 사회 구조**(가변 N)에 초점. 둘 다 frozen encoder + 경량 probe로 소량 라벨 대응(PriVi ~220k, MICE 583k).

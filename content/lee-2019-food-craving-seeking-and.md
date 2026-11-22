@@ -75,3 +75,4 @@ journal: "Journal of Obesity & Metabolic Syndrome 28:148–157"
 - [[concept-inhibitory-control-demand]] — craving(내적 state)에 저항하는 Go/NoGo·stop-signal 억제통제를 craving-비례 PFC 제어부하로 확장.
 - [[overview-appetite-energy-homeostasis]] — 큰 그림.
 - [[zhao-2026-serotonin-neurons-in-the-dorsal]] — "food-craving-like behavior"를 마우스에서 조작화한 사례; 주 지표는 consumption(2.5 h kcal)이고 seeking은 BioDAQ 접근차단 지표뿐이라 phase 구분의 실전 예시.
+- [[molina-2026-semaglutide-quiets-food-noise-in]] — seeking과 consumption을 **한 과제·같은 세션**에서 가르는 home-cage 측정법 사례(lick-triggered taste alternation: active hit = seeking, passive hit = consumption). semaglutide가 seeking만 손상 (bioRxiv preprint 2026).

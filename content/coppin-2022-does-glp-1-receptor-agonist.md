@@ -33,3 +33,4 @@ year: 2022
 - [[concept-central-amygdala-glp1r]] — amygdala가 sensory pleasure 상관 영역 + CeA^Glp1r hedonic 역할 대비.
 - [[zhu-2025-hedonic-eating-is-controlled-by]] — 사람에서 GLP-1RA가 liking을 바꾸지 않았다는 null과 같은 방향 — Zhu도 원문에서 "사람에서 단 음식 섭취·기호성은 유의 변화 없음(ref 81, 84)"을 인용.
 - [[volkow-2026-glp-1-receptor-agonists-in]] — 사람에서 liking이 바뀌지 않았다는 이 null은 특집 관점 글의 '보상 spike 선택적 감쇠' 가설과 함께 읽어야 한다.
+- [[molina-2026-semaglutide-quiets-food-noise-in]] — 같은 방향의 생쥐 행동 자료: semaglutide가 glucose **liking(수동 소비·bout 길이)는 보존**하고 wanting(능동 추구)만 깎는다. "효과는 wanting 쪽"이라는 본 RCT 해석을 동물에서 뒷받침(단 본 RCT는 저검정력 null) (bioRxiv preprint 2026).

@@ -71,6 +71,7 @@ updated: 2026-11-03
 - [[rangel-2008-a-framework-for-studying-the]] — 행동 선택 단계 장애('의지')와 동기 장애의 구분.
 - [[concept-goal-commitment]] · [[holton-2026-the-adaptive-value-of-stubborn]] — 목표를 붙드는 지속, 사후 억제보다 상류의 기제.
 - [[salamone-2012-mysterious-motivational-functions-mesolimbic]] · [[hamid-2016-mesolimbic-dopamine-signals-value-work]] · [[mohebi-2019-dissociable-dopamine-dynamics-learning-motivation]] — 노력·동기 dopamine의 실험 입장.
+- [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — **의지 ①(tonic dopamine 반응준비성) 가설의 직접 실측**: 분 단위 NAc tonic DA가 progressive ratio breakpoint·poke rate를 상관일 뿐 아니라 DREADD 양방향 조작으로 인과 결정(phasic DA 크기는 비예측). Kang 2011의 tonic=will 틀에 정량 근거 (bioRxiv 2026, Sabatini lab).
 - [[concept-anhedonia]] · [[berridge-2023-separating-desire-from-prediction-of]] · [[nguyen-2021-positive-affect-nature-and-brain]] — avolition = wanting 결손 재해석.
 - [[concept-liking-wanting]] — 의욕(대상 지향 동기)과 wanting의 대응.
 - [[concept-zona-incerta]] — ZI GABA→VTA의 "willingness to work".

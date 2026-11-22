@@ -115,3 +115,4 @@ flowchart TB
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — 학습 초기 NAc core 보상 DA는 줄지 않고 cue 반응만 증가했다. dorsal striatum(DS) DA는 훈련이 더 진행돼야 cue·보상 반응이 생겼다(ED3) → 초기 학습기에는 중limbic system 신호가 주역.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — NAc core '가치·노력' 칸의 국소 기전(ChI–α4/α6 nAChR)과 VTA 세포체 칼슘의 이른 포화.
 - [[burke-2026-duration-between-rewards-controls-the]] — NAc core ANCCR 칸 보강: cue DA 학습 시행 수 ∝ 1/IRI, 누락 dip 지연, 점근 cue DA가 IRI에 따라 3배 차이.
+- [[poh-2026-ventromedial-striatal-dopamine-dynamically-integrates]] — VMS(ventral striatum) 칸 보강: phasic dopamine이 **행동 개시 + 공간 근접 ramp**를 순차 통합, controllability·effort·시간 지연엔 둔감하고 **공간** 근접에만 묶임. 개체의 Pavlovian 소비 충동이 근접 ramp를 변조 (bioRxiv/eLife 2026, Willuhn lab).

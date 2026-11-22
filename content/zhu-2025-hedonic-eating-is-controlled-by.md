@@ -111,3 +111,4 @@ journal: "Science 387, eadt0773 (2025-03-28), doi:10.1126/science.adt0773 — UC
 - [[gong-2026-reward-magnitude-determines-reinforcement-learning]] · [[concept-dopamine-learning-rate]] — 소비 중 DA 지속을 학습률·관여 신호로 읽는 대안 해석. Gong 2026은 본 논문을 항상성 충족 중 느린 DA 역학의 예로 인용(ref 80).
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — "DA 자극을 내인성 크기에 보정해야 한다"는 방법론 원전: 보정 자극은 학습률처럼, 비보정 큰 자극(3–5배)은 부호 있는 오류처럼 작동. 본 논문의 photometry 보정 lick-contingent 자극이 이 기준을 충족한다.
 - [[volkow-2026-glp-1-receptor-agonists-in]] — 이 논문을 ref 3으로 인용해 '고기호성 음식 우선 감소'의 근거로 쓴다. ⚠️ 다만 Volkow의 'tonic 도파민 유지' 기전은 이 논문의 **며칠 내 회복**과 나란히 읽어야 한다.
+- [[molina-2026-semaglutide-quiets-food-noise-in]] — ⚠️ **긴장**: 본 논문을 mesolimbic GLP-1R 관여 근거로 인용한 생쥐 preprint가, 단회 semaglutide(123 µg/kg s.c.) 아래 glucose의 passive 소비·lick 리듬·palatability(bout 길이)는 **보존**되고 active pursuit만 손상된다고 보고 — 본 논문의 1일째 Ensure bout 길이·VTA^DA 소비 반응↓과 엇갈린다. 프로토콜(매일 i.p. 증량·Ensure vs 단회 s.c.·glucose·24 h home cage)이 달라 병기.

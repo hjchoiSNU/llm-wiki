@@ -139,3 +139,4 @@ NAc DA는 **temporally discounted future reward (state value V)** 라는 단일 
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 위 '한계 1'(발화 ≠ 방출, ChI 국소 조절)의 직접 검증: 보상 시점 NAc 도파민이 들인 노력을 따라 커지고, VTA를 꺼도 남으며, NAc nAChR·ChI를 막으면 사라진다. 이 논문의 미세투석에서 ACh는 분 단위 보상률과 무관했지만, Touponse의 초 단위 보상 시점 ACh는 노력을 따른다(시간척도·변수가 다름). Touponse 2026의 심사자 명단에 이 논문 제1저자와 같은 이름(Arif Hamid)이 있다.
 - [[burke-2026-duration-between-rewards-controls-the]] — TDRPE 바깥의 도파민 근거 목록에 이 논문을 인용(ref 60).
 - [[concept-will-volition-motivation]] — 분 단위 dopamine = 일할 동기라는 입장을 Kang의 'tonic = 의지' 가설과 비교(연결 해석).
+- [[poh-2026-ventromedial-striatal-dopamine-dynamically-integrates]] — 보상 접근 ramp = "일의 가치"라는 본 논문 틀을, **공간 근접에만**(보상 전달 0 vs 2s 지연에는 무관) 묶임으로 정밀화. 같은 공간 근접에도 Pavlovian 소비 충동(No-go Biting)이 큰 개체는 ramp가 ~2배 (bioRxiv/eLife 2026, Willuhn lab).

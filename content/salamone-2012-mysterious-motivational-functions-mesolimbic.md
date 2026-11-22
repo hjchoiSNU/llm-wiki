@@ -149,3 +149,4 @@ NAc DA는 reward·hedonia 신호가 아니라 **effort·behavioral activation·c
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 노력 선택 실험 도식을 소개한 국문 종설. Kang은 Salamone & Correa 2002를 인용하며, 그림 4는 'D2 blocking' 라벨의 모식도.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 노력·활성화 진영의 **국소 기전**: 들인 노력이 NAc core 보상 도파민을 키우고, 그 증폭은 ChI의 ACh → 도파민 축삭 α4/α6 nAChR가 만든다. 차단하면 고노력(FR10·21) 보상 획득만 줄고 FR1 섭취는 그대로다(Nature 2026).
 - [[concept-will-volition-motivation]] — Kang 2011이 노력 선택 실험을 근거로 세운 will(tonic)/volition(phasic) 가설과 동기 개념 구분.
+- [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — "NAc DA = 일할 동기"를 **tonic DA의 인과 교란**으로 분해: 분 단위 tonic DA가 progressive ratio breakpoint·poke rate를 양방향으로 결정(phasic 크기는 비예측). Salamone의 effort/activation 입장에 느린 시간척도의 인과 축을 보탬 (bioRxiv 2026, Sabatini lab).

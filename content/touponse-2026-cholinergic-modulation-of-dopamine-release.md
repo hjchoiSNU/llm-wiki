@@ -128,4 +128,5 @@ journal: "Nature (접수 2025-03-19, 채택 2025-12-11; 받은 PDF는 게재일�
 - [[blanco-pozo-2024-dopamine-independent-effect-rewards-choices]] — 커널 회귀 방법의 인용 출처.
 - [[mehrhof-2026-computational-phenotyping-of-effort]] — 사람 대사 질환의 노력 표현형(이 경로와의 연결은 자료 없음).
 - [[concept-need-motivation-pleasure-utility]] — Motivation 성분을 세포 수준에서 붙잡을 후보.
+- [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — 같은 NAc·progressive ratio 계열에서 **분 단위 tonic DA**가 breakpoint를 인과 결정; 본 논문이 미해결로 남긴 "고노력 시 보상 DA를 키우는 다른 신경조절물질"의 한 축(tonic DA 자체)을 측정·교란으로 다룸 (bioRxiv 2026, Sabatini lab).
 - [[person-lammel-stephan]] — 세포체–말단 논쟁의 반대편(de Jong 2024, 원전 없음).

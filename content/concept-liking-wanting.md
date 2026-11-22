@@ -82,3 +82,4 @@ aliases: [liking, wanting, liking wanting, 좋아함 갈망, hedonic impact, inc
 - [[kang-2011-dopamine-system-and-antipsychotic-drugs]] — 노력 선택 실험(설탕 vs 사료, D2 차단)과 조현병 음성 증상(liking 정상·wanting 감소)으로 '도파민 = wanting'을 정신의학으로 옮긴 종설.
 - [[song-2024-case-reports-of-binge-eating]] — 증례 2의 "달지 않은데 더 원함"(원문 코딩: Tolerance)은 좋아함 저하·원함 증폭 해리의 임상 후보(위키 해석).
 - [[concept-will-volition-motivation]] — 대상 지향 의욕(volition, Kang)과 wanting의 대응을 다루는 의지·동기 개념 hub.
+- [[molina-2026-semaglutide-quiets-food-noise-in]] — GLP-1RA(semaglutide)가 **wanting만 깎고 liking는 남긴다**는 생쥐 행동 근거: 자리가 바뀐 glucose를 쫓는 active hit는 무너지고(교차 0.92→0.60) 제자리로 온 glucose의 passive 소비·lick 리듬·CTA bout 길이는 보존. 단 liking 지표는 taste reactivity가 아닌 lick microstructure (bioRxiv preprint 2026, Gutierrez lab).

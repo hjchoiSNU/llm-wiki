@@ -50,3 +50,4 @@ Xu S … Sternson SM (Janelia/HHMI), *Science* 370:eabb2494. hypothalamus 실방
 - [[person-sternson-scott]] — 교신저자 인물 hub.
 - [[wang-2021-expansion-assisted-iterative-fish-defines-lateral]] — 같은 lab의 후속 방법론(EASI-FISH). 본 논문의 **cytoDAPI**(DNase 처리 후 세포질 RNA를 DAPI로 염색)를 정합·분할 채널로 이어받았다. 300 µm 두께를 'in vivo 2-photon 영상(Xu 2020)과 결합 가능'한 근거로 든다. 공저자 Xu·Yang·Lemire·Henry가 겹친다 (bioRxiv 2021).
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. 비교하는 상태가 많아지면 특정 상태 전속 세포가 사라진다는 결과를 'habit 세포' 명명에 대한 주의 근거로 인용.
+- [[bacharach-2026-a-hypothalamic-circuit-links-hunger]] — 본 논문이 보고한 **PVH Y1R(Npy1r) 뉴런의 hedonic eating state enrichment**를, AgRP→PVH Y1R→mesolimbic dopamine 회로의 기능 근거로 인용. Npy1r=행동상태 conductor라는 본 논문 결론과 "PVH가 항상성↔보상을 잇는다"가 수렴 (bioRxiv 2026, Alhadeff lab).

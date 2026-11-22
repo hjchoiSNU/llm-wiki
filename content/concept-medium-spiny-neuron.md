@@ -50,3 +50,4 @@ Striatum(dorsal) 및 [[concept-nucleus-accumbens|nucleus accumbens]](ventral)의
 - [[proposal-habitual-overeating-dls-miniscope]] — 습관적 과식 DLS miniscope 연구 제안. DLS dSPN·iSPN(D1-Cre·A2a-Cre) 단일세포 종단 기록으로 음식 추구의 습관화와 실제 섭취의 연결을 검증하는 설계.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] · [[concept-dopamine-learning-rate]] — DA burst → D1 SPN(α) / DA pause → D2 SPN(β) 가소성으로 학습률을 구현한다는 기전 제안(검증 전 가설).
 - [[coddington-2023-mesolimbic-dopamine-adapts-the-rate]] — actor–critic과 달리 **ventral striatum를 정책을 정하는 actor의 일부**로 보는 제안. DA는 cortexstriatum 가소성의 학습률(eligibility trace를 DA burst 시점에 읽음).
+- [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — **D1R-SPN vs D2R-SPN의 PKA가 DA의 부호(sign)뿐 아니라 주파수 성분(tonic/phasic)으로도 분리**됨을 in vivo PKA 리포터로 실증: tonic DA는 고친화 D2R을 통해 D2R-SPN PKA를 직접, D1R-SPN PKA는 phasic 증가 크기를 바꿔 간접 조절 (bioRxiv 2026, Sabatini lab).
