@@ -8,6 +8,19 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-22 — lint (`source:` 원본 PDF 누락 5건 정리, Opus 5)
+
+LH^Vgat hub 작성 중 `wiki_lint.py`가 집어낸 **`E source` 5건**(frontmatter `source:`가 가리키는 PDF가 `llm-wiki-raw`·`ref`에 없음)을 정리했다. 모두 선행 문제이고 이번 백링크 편집과 무관하다. (참고: lint는 `--files`로 넘긴 페이지를 전부 `new_page`로 보아 이 규칙을 **E**로 올린다. `--all` 건강검진에서는 **W**로 나온다.)
+
+- **내 드라이브 전체를 파일명으로 전수 검색**해 4건을 찾아 `raw/`로 **복사**(원본은 그대로 둠, md5 일치 확인):
+  - [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons]] — `2017 Current Biology. Lateral Hypothalamic GABAergic Neurons Encode Reward Predictions…pdf` (3,120,516 B, md5 23f6949a…) ← `FNMR 공유 폴더/최형진 추천 _ 저널 발표 후보 논문들(사용중)`
+  - [[thoeni-2020-depression-of-accumbal-to]] — `2020 Neuron. Depression of Accumbal to Lateral Hypothalamic Synapses Gates Overeating.pdf` (4,765,477 B, md5 b527588c…) ← 같은 폴더
+  - [[liu-2023-an-iterative-neural-processing]] — `2023 Neuron. An iterative neural processing sequence orchestrates feeding.pdf` (7,389,571 B, md5 2f1fcf0c…) ← 내 드라이브 최상위
+  - [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — `2024 PNAS Distinct lateral hypothalamic CaMKIIα neuronal populations regulate wakefulness and locomotor activity.pdf` (1,738,553 B, md5 e566efb0…) ← 같은 폴더
+- **[[oconnor-2015-accumbal-d1r-neurons-projecting]]는 PDF가 어디에도 없다** — 파일명·`accumbal`·`authoriz`·`D1R`·`O'Connor`로 내 드라이브·Downloads·Desktop·Documents·llm-wiki를 모두 뒤졌으나 부재. `source:`를 지우거나 고쳐 오류만 없애는 대신 **본문 머리에 "⚠️ 원본 PDF 미보유(2026-11-22 확인)" 항목을 추가**해, 그 페이지의 수치·그림 번호가 지금은 재대조 불가임을 명시했다. 사용자가 PDF를 `raw/`에 넣으면 오류도 함께 해소된다.
+- **덤으로 해소한 경고 1건**: [[heiss-2024-distinct-lateral-hypothalamic-camkiia]]의 `W external-link`(https://sleepdata.org)는 PDF가 들어온 뒤 **원문 p.8 Data Availability 문장**("will be available on the National Sleep Research Resource (70) website")임을 확인했다 — 웹 근거가 아니라 원문 인용이다.
+- 최종 `wiki_lint.py`: `E source` **5 → 1건**(O'Connor, 원본 부재로 정당한 잔여), 그 외 오류 0. `raw/` 파일은 **수정·삭제·이름변경 없음**(추가만). 웹 미사용.
+
 ## 2026-11-22 — ingest (LH^Vgat hub 신규 작성, Opus 5)
 
 신규 [[concept-lh-gabaergic-neurons]] — **LH GABAergic(LH^Vgat) 전용 hub**. 2026-10-03에 Opus 5.5가 생물학 안전 분류기에 막혀 만들지 못한 페이지를 `CLAUDE.md` §1 "모델 운용" 5번에 따라 처음부터 Opus 5로 작성(중단 없음).

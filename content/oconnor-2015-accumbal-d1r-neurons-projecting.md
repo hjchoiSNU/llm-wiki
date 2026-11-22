@@ -20,6 +20,7 @@ journal: "Neuron 88(3):553–564 (2015-11-04); doi:10.1016/j.neuron.2015.09.038"
 - **지원**: Swiss National Science Foundation, NCCR **SYNAPSY**, ERC advanced grant *MeSSI*.
 - **모델·방법**: C57BL/6J, Drd1a-tdTomato, Drd2-eGFP, D1RCre, D2RCre, GADCre, VGaTCre, **VGaTCre × Drd1a-tdTomato** 라인. CTB 역추적(LH: AP −1.2 / ML +1.2 / DV −4.75), AAV-DIO-ChR2(H134R)·AAV5-EF1a-eArch3.0-eYFP, ex vivo whole-cell + 광유전 회로 지도(biocytin 충전), **modified rabies**(AAV5-Flex-TVA-mCherry + AAV8-Flex-RG → SADΔG-EGFP(EnvA)), 광유전 동정 in vivo unit recording, 그리고 **lickometer 기반 closed-loop 광유전**.
 - **섭식 과제**: operant chamber의 sipper tube에서 **5% v/v Lipofundin 지방유탁액**(7,990 kJ/l) 또는 10% w/v sucrose를 1 h 자유 섭취. **burst = ILI ≤1 s인 연속 3 lick 이상**. 10 min light-off / light-on 블록 교대.
+- ⚠️ **원본 PDF 미보유(2026-11-22 확인)**: frontmatter `source:`가 가리키는 `raw/2015 Neuron. Accumbal D1R Neurons Projecting to Lateral Hypothalamus Authorize Feeding.pdf`가 **`llm-wiki-raw`·`ref`·내 드라이브 전체 어디에도 없다**(파일명·`accumbal`·`authoriz`·`D1R` 전수 검색). 아래 수치와 그림 번호는 선행 세션이 원문을 읽고 적은 것이며 **지금은 원문 재대조가 불가능**하다. 인용 전 확인이 필요하면 PDF를 `raw/`에 넣어야 한다(넣으면 `wiki_lint.py`의 `E source`도 함께 해소된다).
 
 ## 한 줄 요약
 NAc shell에서 LH로 가는 억제성 투사는 거의 전부 **D1R-MSN**이며, 이 세포들은 섭취 중 발화를 **낮춤으로써 섭식을 허가**하고 종료 시 다시 올려 섭식을 끊는다. 그 표적은 orexin·MCH가 아닌 **LH GABA 뉴런**이고, 이 경로의 활성은 **배고픔(24 h 금식)조차 무시하고 섭취를 억제**하며, 자유급식 상태에서는 진행 중인 licking을 한 lick 단위로 끊는다(closed-loop).
