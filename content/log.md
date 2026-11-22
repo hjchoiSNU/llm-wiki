@@ -8,6 +8,16 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — lint (각성(arousal) 귀속 오류 1건 수정 — 병행 세션 지적, Opus 5)
+
+[[concept-lh-gabaergic-neurons]] 작업 세션이 raw 46쪽 PDF로 원문 대조해 전달한 정밀화를 받아 내 쪽 서술을 점검했다. 원문의 각성 자료는 **네 조건이 서로 다르다**: MRN^SERT 억제 = **불변**(p.6) / LHb→MRN 활성 = **감소**(ED Fig 11e–i, p.6) / LHA^VGAT→MRN 활성 = **증가**(ED Fig 12e–i, p.9) / LHA^VGAT 축삭 침묵 = **불변**(p.10).
+
+**수정 1 (실질 오류) — [[overview-grand-quest-will-to-live]] §2 통념 ② 표의 Ahmadlou 행.** "**LHb→MRN^VGAT→MRN^SERT 억제**가 각성·운동을 바꾸지 않으면서 포기 상태만 81%까지 늘린다"로 적어 두 조건을 한 문장에 섞었다. 81%는 **LHb→MRN 활성**의 수치이고 그 조작은 **각성도 함께 낮춘다**. 각성·운동 불변은 **MRN^SERT 억제(포기 55%)** 조건의 자료다. → 두 조건을 분리하고, "각성 비의존성의 근거는 LHb 쪽이 아니라 SERT 쪽 통제"라는 ⚠️를 명시했다. (전 턴 답변에서 이 통제를 "졸려서·못 움직여서가 아니다"의 근거로 든 것 자체는 SERT 조건 기준이라 유효하다.)
+
+**수정 2 (정밀화) — [[concept-lateral-hypothalamus]] 412행.** 침묵의 "각성은 불변"만 적고 활성의 "각성↑"을 빠뜨려 비대칭이 보이지 않았다. 저자들이 "탐색을 구동하는 것이 아니라 지속적 관여를 막는다"로 읽는 근거가 바로 이 활성/침묵 각성 대비이므로 양쪽을 병기했다.
+
+**점검 결과 이상 없음**: [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] 본문(활성 각성↑ / 침묵 각성 불변을 이미 분리) · [[concept-anhedonia]](LHb 활성 → 각성·참여 저하, 맞음) · [[concept-will-volition-motivation]](SERT 억제 → 각성·운동 불변, 맞음) · [[index|index.md]] 111행(SERT 억제 55%, 각성·운동 불변, 맞음) · [[overview-lateral-hypothalamus-synthesis]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]](각성 서술 없음). [[concept-lh-gabaergic-neurons]]의 두 줄은 그 세션이 직접 교정했다(§2.7로 승격). 웹 미사용.
+
 ## 2026-11-23 — query + lint (LH^LepR→MRN 투사 확인 → **0건**, 어제 ingest의 과장 1건 수정, Opus 5)
 
 사용자 질의: "`LH^LepR→MRN` 투사 있는지 위키에서 확인해줘"(어제 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] ingest에서 제기한 과제). 웹 미사용.
