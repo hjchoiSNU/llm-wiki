@@ -211,4 +211,4 @@ updated: 2026-11-22
 ## 관련 페이지
 - [[sumithran-2011-long-term-persistence-of-hormonal-adaptations]] — 감량 후 호르몬 적응의 지속이라는 임상 사실을 큰 그림에 연결.
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — 이 종합의 틀을 **항상성에서 대사 유연성으로** 옮기자는 2026 Neuron 리뷰. AgRP·POMC를 섭식 조절자가 아니라 개체 수준 연료 협응의 허브로 재배치하고, 노화·신경퇴행까지 같은 축으로 잇는다. ⚠️ 저자들이 요구한 **지방조직 재구성** 쪽 생물학은 위키에 1차 자료가 없다.
-- [[overview-grand-quest]] — 이 spine을 **하나의 질문으로 압축한 페이지**(2026-11-22): 통념(먹는 뇌=섭취량 조절기) 4겹을 열거하고, 대안으로 "섭식 회로의 1차 기능은 지연 결과 학습"을 제시. lesson 7(래치된 상태)·Layer 4(시냅스 강도)가 그 가설의 핵심 근거로 들어간다.
+- [[overview-grand-quest-feeding-as-learning]] — 이 spine을 **하나의 질문으로 압축한 페이지**(2026-11-22): 통념(먹는 뇌=섭취량 조절기) 4겹을 열거하고, 대안으로 "섭식 회로의 1차 기능은 지연 결과 학습"을 제시. lesson 7(래치된 상태)·Layer 4(시냅스 강도)가 그 가설의 핵심 근거로 들어간다.

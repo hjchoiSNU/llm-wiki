@@ -134,4 +134,4 @@ journal: "J Obes Metab Syndr 34:196–212"
 - [[overview-habitual-overeating-dls]] — 습관적 과식과 DLS의 원문 대조 분석: 위키 1차 자료가 지지하는 DLS의 역할, bout 구조 가설, miniscope 중심 연구 제안 8개.
 - [[concept-prefrontal-cortex-feeding]] — PFC hub(신설). 본 리뷰의 5 표현형별 PFC 부호(Cue·Emotional의 **dlPFC hypoactive** vs Restraint의 **ACC·dlPFC↑ 이중활성**)가 그 hub의 brake 축 핵심 표로 들어가고, electroceutical 표의 tDCS·rTMS·tACS/tRNS·TIS·tFUS가 자극 접점 절에 정리됐다. ⚠️ 거기 기록된 공백: **섭식 tRNS·rTMS의 1차 논문이 위키에 없고** 본 표의 "보완적"·"BMI −1.14 ± 0.74"가 유일한 출처다.
 - [[song-2024-case-reports-of-binge-eating]] — 같은 lab의 임상 증례: restraint형(증례 1)과 addiction·emotion형(증례 2)의 실제 예시 후보.
-- [[overview-grand-quest]] — 5 표현형을 "회로 5개"가 아니라 **학습 파라미터 5세트**(잘못된 cue credit·결과→가치 쓰기 차단·학습률 미감소·목표계 충돌)로 재해석하는 연결 가설. restrained eating에 동물 모델이 없다는 점을 "이 학문이 문화를 대상으로 삼게 된다"는 논지로 사용(2026-11-22).
+- [[overview-grand-quest-feeding-as-learning]] — 5 표현형을 "회로 5개"가 아니라 **학습 파라미터 5세트**(잘못된 cue credit·결과→가치 쓰기 차단·학습률 미감소·목표계 충돌)로 재해석하는 연결 가설. restrained eating에 동물 모델이 없다는 점을 "이 학문이 문화를 대상으로 삼게 된다"는 논지로 사용(2026-11-22).

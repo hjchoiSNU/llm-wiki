@@ -99,4 +99,4 @@ aliases: [weight regain, rebound, 요요, 체중 재증가, defended adiposity, 
 - [[shadlen-2026-expanding-global-access-to]] — 차세대 약의 기대 이점으로 '중단 후 재증가 감소'가 꼽힌다(시장이 값을 치르는 속성).
 - [[volkow-2026-glp-1-receptor-agonists-in]] — 중독에서도 중단 후 재발·유지 전략이 같은 구조의 미해결 질문.
 - [[horvath-2026-hypothalamus-driven-brain-health-through]] — ⚠️ **설정점 틀과 긴장하는 관점**: 생물학적 목표는 방어되는 값(constancy)이 아니라 **지속 적응**이라고 본다([[concept-metabolic-flexibility]] §4). 치료 함의는 직접적이다 — 칼로리 제한(배고픔 적응 프로그램)과 약리적 포만(semaglutide)이 같은 감량을 내도 **같은 hypothalamus·면역·생체에너지 상태가 아닐 수 있다**.
-- [[overview-grand-quest]] — 재증가 문제를 **"설정점을 어떻게 낮추나"에서 "무엇이 래치된 상태를 reset하나"로** 바꿔 읽는 상위 서사(2026-11-22). "약이 예측을 덮었을 뿐 다시 쓰지는 않았다"는 검증 가능한 주장으로 정식화.
+- [[overview-grand-quest-feeding-as-learning]] — 재증가 문제를 **"설정점을 어떻게 낮추나"에서 "무엇이 래치된 상태를 reset하나"로** 바꿔 읽는 상위 서사(2026-11-22). "약이 예측을 덮었을 뿐 다시 쓰지는 않았다"는 검증 가능한 주장으로 정식화.

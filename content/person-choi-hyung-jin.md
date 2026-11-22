@@ -109,4 +109,4 @@ ORCID: 0000-0003-0593-6978
 - [[johansen-2025-brain-control-of-energy]] · [[stuber-2025-the-neurobiology-of-overeating]] · [[godschall-2026-a-brain-reward-circuit-inhibited]] · [[duran-2026-the-central-amygdala-integrates]] — 본 lab 논문(Kim KS 2024 Science 등)을 인용한 외부 리뷰·연구 (Cell·Neuron·Nature·bioRxiv 2025–26).
 - [[person-nord-camilla]] — Cambridge 계산정신의학; [[concept-metabolic-interoception|대사–정신건강]]·GLP-1·보상 축의 접점.
 - [[person-kim-sung-yon]] — 같은 서울대에서 LH^Vgat을 2광자 단일세포 영상으로 연구하는 lab. Lee 2026 Cell Rep이 사용자 lab의 Lee 2023·Kim 2024를 인용
-- [[overview-grand-quest]] — 연구팀 **그랜드 퀘스트** 5문항 답안(2026-11-22): 랩 자산(NMPU·normative model·식전 cognitive satiation·5 표현형·write-enable window)을 "섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과 학습(credit assignment)"이라는 하나의 상위 서사로 묶은 페이지.
+- [[overview-grand-quest-feeding-as-learning]] — 연구팀 **그랜드 퀘스트** 5문항 답안(2026-11-22): 랩 자산(NMPU·normative model·식전 cognitive satiation·5 표현형·write-enable window)을 "섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과 학습(credit assignment)"이라는 하나의 상위 서사로 묶은 페이지.

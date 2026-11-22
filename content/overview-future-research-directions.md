@@ -88,4 +88,4 @@ updated: 2026-11-22
 - [[person-choi-hyung-jin]] — lab 역량 매트릭스.
 - [[person-halpern-casey]] — 인간 침습 신경조절(Tier 2·3 협업/대비 모델).
 - [[concept-temporal-interference-stimulation]] · [[concept-responsive-neurostimulation]] · [[concept-digital-therapeutics]] — 핵심 도구 hub.
-- [[overview-grand-quest]] — 본 로드맵의 **상위 서사**(2026-11-22): 왜 이 질문인가·통념 4겹·도전 가설(섭식=credit assignment)·모델-우선 전략·대안적 미래. Tier 1–3 과제들이 그 가설 안에서 어떤 자리인지 설명.
+- [[overview-grand-quest-feeding-as-learning]] — 본 로드맵의 **상위 서사**(2026-11-22): 왜 이 질문인가·통념 4겹·도전 가설(섭식=credit assignment)·모델-우선 전략·대안적 미래. Tier 1–3 과제들이 그 가설 안에서 어떤 자리인지 설명.

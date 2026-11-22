@@ -72,4 +72,4 @@ flowchart TB
 - [[concept-activity-molecular-registration]] — #3의 핵심 방법군.
 - [[person-choi-hyung-jin]] — 연구책임자(전 과제).
 - 개별 과제: [[proposal-dmh-glp1r-human-imaging]] · [[proposal-nmpu-human-translation]] · [[proposal-lh-nac-nmpu-neuron-discovery]] · [[proposal-ttis-feeding-reward-circuits]] · [[proposal-glp1ra-rebound-microbiota]] · [[proposal-food-insecurity-cross-species]] · [[proposal-pomc-endorphin-food-pleasure]] · [[proposal-oral-fat-taste-pleasure-desire]] · [[proposal-hunger-need-encoding-human-translation]] · [[proposal-habitual-overeating-dls-miniscope]].
-- [[overview-grand-quest]] — 10과제의 **상위 서사**(2026-11-22). 본 hub가 과제별 비교라면 그 페이지는 "왜 이 과제들인가"에 해당하는 그랜드 퀘스트 답안.
+- [[overview-grand-quest-feeding-as-learning]] — 10과제의 **상위 서사**(2026-11-22). 본 hub가 과제별 비교라면 그 페이지는 "왜 이 과제들인가"에 해당하는 그랜드 퀘스트 답안.

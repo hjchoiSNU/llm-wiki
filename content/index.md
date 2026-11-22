@@ -629,7 +629,7 @@ cortex 흥분성·진동을 두피 약전류로 조절. 사용자 접점=DLPFC t
 
 여러 자료를 합성한 페이지. 파일명 `overview-*.md`.
 
-- ★ [[overview-grand-quest]] — **연구팀 그랜드 퀘스트 답안**(2026-11-22): 질문·통념 4겹·도전 가설·탐색전략·대안적 미래. 중심 명제 = **섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과에 대한 학습(credit assignment)이고, 비만은 대사가 아니라 "예측을 다시 쓰는 규칙"의 고장**. 상위 서사 → 로드맵 [[overview-future-research-directions]] → 과제 [[overview-research-proposals]]. · 🔑 grand quest, 그랜드 퀘스트, credit assignment, write-enable, NMPU
+- ★ [[overview-grand-quest-feeding-as-learning]] — **연구팀 그랜드 퀘스트 답안**(2026-11-22): 질문·통념 4겹·도전 가설·탐색전략·대안적 미래. 중심 명제 = **섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과에 대한 학습(credit assignment)이고, 비만은 대사가 아니라 "예측을 다시 쓰는 규칙"의 고장**. 상위 서사 → 로드맵 [[overview-future-research-directions]] → 과제 [[overview-research-proposals]]. · 🔑 grand quest, 그랜드 퀘스트, credit assignment, write-enable, NMPU
 - [[overview-appetite-energy-homeostasis]] — 3-layer 통합 (이론 NMPU + 회로 gut-brain-hypothalamus + 임상 DTx/약물). 본 wiki의 spine. · 🔑 YES, POMC, CCK, PPAR, GLP-1, NTS
 - [[overview-lateral-hypothalamus-synthesis]] — ★★★ **LH 심화 종합(2026-10)**: LH 문헌 약 45편을 6개 렌즈(세포 유형·시간 동역학·Need/Motivation·학습인지·입출력 회로·비만/스트레스 가소성)로 통합. 마스터 세포 유형 표 · phase×세포 행렬 · 입출력 표 · **검증된 위키 내 충돌 44건 판정 지도** · 통합 모델(연결 가설) · 미해결 질문 · 우리 연구실 연구 제안 16건. 개념 hub는 [[concept-lateral-hypothalamus]]. · 🔑 LH synthesis, LH 종합, LepR, LH^LepR, LHA, Vglut2
 - [[overview-future-research-directions]] — 위키가 문서화한 gap에서 도출한 사용자 lab 향후 연구 로드맵(Tier 1–3): 비침습 심부자극·NMPU 인간 번역·회로별 맞춤 DTx 등. · 🔑 tTIS, NHP, DMH, GLP-1RA, GLP-1R
