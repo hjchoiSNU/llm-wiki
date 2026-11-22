@@ -2,7 +2,7 @@
 title: 신경-행동 결합 모델링 (Joint brain–behaviour modelling)
 type: concept
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-11-22
 aliases: [joint modelling, joint brain-behaviour model, CEBRA, LFADS, contrastive learning, latent dynamics, identifiability, neural decoding]
 ---
 
@@ -87,3 +87,4 @@ CEBRA류에서 positive pair를 **행동 변수 기준**으로 만들면, "이 �
 - [[concept-need-motivation-pleasure-utility]] — 검정 대상이 될 이론 틀.
 - [[kim-2024-normative-framework-dissociates-need]] — AgRP=Need / LH LepR=Motivation 주장; 결합 모델로 재검정할 1순위 대상.
 - [[gershman-2024-explaining-dopamine-prediction-errors-beyond]] — belief-state 잠재 추론; 모델 쪽 대응 문헌.
+- [[overview-grand-quest-will-to-live]] — 그랜드 퀘스트(삶의 의지)의 파운데이션 모델 축에서 **성공 기준을 linear identifiability와 embedding 붕괴로 못 박자**는 제안의 근거 페이지. "세 축이 실제로 세 개인가"를 붕괴 여부로 판정하고, Falsification Gate를 사람의 검토가 아니라 이 수학적 성질로 구현한다.

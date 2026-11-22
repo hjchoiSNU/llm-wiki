@@ -2,7 +2,7 @@
 title: "의지·의욕·동기 (Will, volition & motivation)"
 type: concept
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-22
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -76,3 +76,4 @@ updated: 2026-11-03
 - [[concept-liking-wanting]] — 의욕(대상 지향 동기)과 wanting의 대응.
 - [[concept-zona-incerta]] — ZI GABA→VTA의 "willingness to work".
 - [[concept-habit]] — 과식이 의지 제어 가능한 영역일 수 있다는 논의.
+- [[overview-grand-quest-will-to-live]] — 그랜드 퀘스트(삶의 의지) 답안. 이 페이지의 '의지' ①(tonic 반응준비성)·②(자기통제)에 **'중단 신호'라는 제3 성분**을 더하려는 시도이며, 의지를 크기가 아니라 **이탈 임계값**으로 재정식화한다.

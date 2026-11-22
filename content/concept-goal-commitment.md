@@ -2,7 +2,7 @@
 title: 목표 몰입과 포기 (Goal commitment & disengagement)
 type: concept
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-22
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
@@ -75,3 +75,4 @@ updated: 2026-11-03
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — MVT의 stay/leave를 RL에 넣은 AQUA 모델: 시간·보상률 추정 없이 고갈형 patch에서 MVT 같은 행동을 재현(Neuron 2026).
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — **노력 후 가치 상승(effort paradox)의 신경 기전 후보**: 더 일해 얻은 보상일수록 NAc 도파민이 크고, 그 증폭을 막으면 고노력 지속이 줄었다. 원문은 이를 목표 몰입과 연결하지 않는다(연결 해석).
 - [[concept-will-volition-motivation]] — 목표를 붙드는 지속을 '의지'의 사후 억제(자기통제)보다 상류 기제로 놓은 개념 hub.
+- [[overview-grand-quest-will-to-live]] — 목표 몰입·포기를 **섭식을 넘어 '삶의 의지' 전체**로 확장한 종합 페이지. patch-leaving·momentum을 생존·관계·이상 축별 **이탈 임계값**으로 번역하고, effort 과제에 abandon 조건을 넣자는 이 페이지의 제안을 그랜드 퀘스트 탐색전략의 핵심 항목으로 올렸다.

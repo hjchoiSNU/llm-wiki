@@ -2,7 +2,7 @@
 title: "Korotkova 2026 — Balancing acts: lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions"
 type: paper
 created: 2026-05-25
-updated: 2026-10-28
+updated: 2026-11-22
 source: raw/2026 (Korotkova) Balancing acts lateral hypothalamic circuits coordinating feeding, anxiety, and social interactions.pdf
 authors: [Tatiana Korotkova]
 year: 2026
@@ -111,3 +111,4 @@ LH 뉴런 identity = **molecular marker × oscillatory phase × connectivity × 
 - [[jennings-2015-visualizing-hypothalamic-network-dynamics]] — Box 1 "GABAergic = feeding, reward seeking, behavioral activation" 행의 마우스 1차 근거(Cell 2015, Stuber lab). LH^Vgat 광활성 → 섭식·장소선호·자가자극↑, 광억제 → 섭식↓·장소 혐오, taCasp3 ablation → 체중 증가·섭취·PR break point↓. 8 mm GRIN microendoscope로 743 뉴런을 추적해 **appetitive(nose poke)·consummatory(lick) 반응 세포가 거의 비중첩**임을 보였다 → 본 리뷰의 "multidimensional coding"(분자 label 하나로 환원 불가)이 Vgat **하나의 marker 안에서** 이미 성립함을 보여 주는 사례. ⚠️ 부호 대비: 같은 GABA 안의 LepR subset은 moderate hunger에서 섭식을 **억제**하고([[petzold-2023-complementary-lateral-hypothalamic-populations|Petzold 2023]]) 불안을 낮추는데, 그쪽 Vgat 전체 ablation은 **개방장 운동·불안 표현형을 바꾸지 않았다** — subset vs 전체 집단의 차이로 병기.
 - [[liu-2023-an-iterative-neural-processing]] — "섭식 vs 환경 탐색" 동기 경쟁을 ML 행동 분절로 보인 자유행동 연구. arbitration framework의 행동 미세구조 근거이자 companion [[liu-2026-granular-motivational-interaction-and|Liu 2026]]의 1차 데이터(Neuron 2023).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — ⚠️ LepR LH를 hunger×anxiety×social arbitration에 배치하는 틀에 대해, Siemian 2021은 LepR **ablation**이 open field·marble burying 불안 유사 행동·운동·섭취를 전혀 안 바꾸고 appetitive 학습(Pavlovian cue 변별)만 막는다고 본다 → 불안 축 역할은 [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal|Figge-Schlensok 2025]](활성화)와 조작 대상·맥락이 달라 조건 의존(병기).
+- [[overview-grand-quest-will-to-live]] — 본 리뷰의 **hunger × anxiety × loneliness arbitration**을 그랜드 퀘스트(삶의 의지)의 '생존 vs 관계' 축 분리 가설(H1)의 **현존하는 유일한 분자 수준 전례**로 쓴 종합 페이지.

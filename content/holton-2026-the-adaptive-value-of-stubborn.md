@@ -2,7 +2,7 @@
 title: "The adaptive value of stubborn goals (Holton, Niv & O'Reilly 2026, Trends Cogn Sci)"
 type: paper
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-22
 source: "raw/The adaptive value of stubborn goals.pdf"
 authors: [Holton E, Niv Y, O'Reilly JX]
 year: 2026
@@ -131,3 +131,4 @@ journal: "Trends in Cognitive Sciences 30(4):379–390; doi:10.1016/j.tics.2025.
 - [[grima-2026-a-global-dopaminergic-learning-rate]] — foraging patch-leaving(MVT)을 학습 모델(AQUA)로 구현한 마우스 연구. 시간·보상률 추정 없이 MVT 같은 예측이 나온다.
 - [[touponse-2026-cholinergic-modulation-of-dopamine-release]] — 들인 노력이 보상 도파민을 키워 노력 지속을 돕는 국소 기전(NAc ChI–nAChR). 동기 비계 기능의 회로 후보로 읽을 수 있다(연결 해석, 원문 주장 아님).
 - [[concept-will-volition-motivation]] — 목표 몰입을 의지·의욕·동기 구분 속 '목표를 붙드는 지속'으로 배치한 개념 hub.
+- [[overview-grand-quest-will-to-live]] — 본 리뷰의 **apathy 역설·disengagement 역설·momentum**을 그랜드 퀘스트(삶의 의지)의 통념 ②("포기는 추구의 부재다")와 도전 가설(이탈 임계값)의 1차 근거로 쓴 종합 페이지. '이상' 축의 조작적 정의도 본 리뷰의 **동기 비계** 예측에서 끌어온다.

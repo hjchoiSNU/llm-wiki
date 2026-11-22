@@ -164,3 +164,4 @@ GLP-1RA를 "식욕억제제"가 아니라 **알고리즘의 특정 항만 깎는
 - [[fleming-2026-metabolism-and-the-mind]] · [[volkow-2026-glp-1-receptor-agonists-in]] · [[concept-metabolic-interoception]] — §5-2(대사–정신 통합)의 다리.
 - [[overview-appetite-energy-homeostasis]] — 위키 spine(3-layer 종합).
 - [[person-choi-hyung-jin]] — 연구책임자·랩 역량 매트릭스.
+- [[overview-grand-quest-will-to-live]] — **자매 페이지**: SNU 그랜드퀘스트 챌린지 과제(삶의 의지)판 5문항 답안. 이쪽의 "섭식 = 지연 결과에 대한 credit assignment"가 설정하는 것이 그쪽의 **이탈 임계값**이라는 읽기로 두 제안이 한 프로그램이 된다.

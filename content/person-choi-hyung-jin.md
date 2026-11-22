@@ -110,3 +110,4 @@ ORCID: 0000-0003-0593-6978
 - [[person-nord-camilla]] — Cambridge 계산정신의학; [[concept-metabolic-interoception|대사–정신건강]]·GLP-1·보상 축의 접점.
 - [[person-kim-sung-yon]] — 같은 서울대에서 LH^Vgat을 2광자 단일세포 영상으로 연구하는 lab. Lee 2026 Cell Rep이 사용자 lab의 Lee 2023·Kim 2024를 인용
 - [[overview-grand-quest-feeding-as-learning]] — 연구팀 **그랜드 퀘스트** 5문항 답안(2026-11-22): 랩 자산(NMPU·normative model·식전 cognitive satiation·5 표현형·write-enable window)을 "섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과 학습(credit assignment)"이라는 하나의 상위 서사로 묶은 페이지.
+- [[overview-grand-quest-will-to-live]] — SNU 그랜드퀘스트 챌린지 과제(삶의 의지) 5문항 답안·공동연구팀(김형·성지혜·신정환·차지욱) 자산 지도. 자매 페이지는 [[overview-grand-quest-feeding-as-learning]].

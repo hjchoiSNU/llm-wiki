@@ -10,7 +10,7 @@ title: 뇌과학 LLM Wiki
 
 뇌과학 연구 지식 위키. 자료가 추가될 때마다 갱신됩니다.
 
-- 총 페이지: 564 (+ index.md, log.md)
+- 총 페이지: 565 (+ index.md, log.md)
 - 마지막 갱신: 2026-11-22
 
 > 카테고리는 자료가 쌓이며 진화합니다. 한 카테고리가 30개를 넘으면 분할 검토.
@@ -630,6 +630,7 @@ cortex 흥분성·진동을 두피 약전류로 조절. 사용자 접점=DLPFC t
 
 여러 자료를 합성한 페이지. 파일명 `overview-*.md`.
 
+- ★ [[overview-grand-quest-will-to-live]] — **SNU 그랜드퀘스트 챌린지 과제 답안**(2026-11-22, 새 제목 「생존·관계·이상을 추구하거나 포기하는 다차원 분자기전 지도…」): 5문항 재검토 + 통념 교체 권고 + 공동연구팀(김형·성지혜·신정환·차지욱) 자산 지도. 중심 명제 = **삶의 의지는 "얼마나 남았나"가 아니라 "언제 그만두나"이고, 의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라 그만두라는 신호가 켜지는 사건**. 자매 페이지 [[overview-grand-quest-feeding-as-learning]]. · 🔑 grand quest, 그랜드퀘스트, 삶의 의지, will to live, 포기, disengagement, 이탈 임계값, 동기 안전성, 분자 철학
 - ★ [[overview-grand-quest-feeding-as-learning]] — **연구팀 그랜드 퀘스트 답안**(2026-11-22): 질문·통념 4겹·도전 가설·탐색전략·대안적 미래. 중심 명제 = **섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과에 대한 학습(credit assignment)이고, 비만은 대사가 아니라 "예측을 다시 쓰는 규칙"의 고장**. 상위 서사 → 로드맵 [[overview-future-research-directions]] → 과제 [[overview-research-proposals]]. · 🔑 grand quest, 그랜드 퀘스트, credit assignment, write-enable, NMPU
 - [[overview-appetite-energy-homeostasis]] — 3-layer 통합 (이론 NMPU + 회로 gut-brain-hypothalamus + 임상 DTx/약물). 본 wiki의 spine. · 🔑 YES, POMC, CCK, PPAR, GLP-1, NTS
 - [[overview-lateral-hypothalamus-synthesis]] — ★★★ **LH 심화 종합(2026-10)**: LH 문헌 약 45편을 6개 렌즈(세포 유형·시간 동역학·Need/Motivation·학습인지·입출력 회로·비만/스트레스 가소성)로 통합. 마스터 세포 유형 표 · phase×세포 행렬 · 입출력 표 · **검증된 위키 내 충돌 44건 판정 지도** · 통합 모델(연결 가설) · 미해결 질문 · 우리 연구실 연구 제안 16건. 개념 hub는 [[concept-lateral-hypothalamus]]. · 🔑 LH synthesis, LH 종합, LepR, LH^LepR, LHA, Vglut2

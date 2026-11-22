@@ -59,3 +59,4 @@ nucleus accumbens core(NAC)의 **tonic dopamine**(분 단위 느린 변화)을 f
 - [[concept-nucleus-accumbens]] — 측정·교란 무대(NAC core). tonic DA 상태가 NAc 출력 가소성을 어떻게 bias하는지 추가.
 - [[concept-dopamine-reward-system]] — phasic 중심 서술에 **tonic DA의 동기 인과**를 보완. "보상"보다 "일할 동기" 쪽 해석 강화.
 - [[fallon-2026-striatal-pathways-dissociably-control-action]] — D1/D2(direct/indirect) striatal 경로의 기능 분리와 병치: 본 논문은 같은 분리를 **DA 주파수 성분**에서 제시.
+- [[overview-grand-quest-will-to-live]] — 그랜드 퀘스트(삶의 의지)의 **"왜 지금인가" 1순위 근거**로 본 논문을 배치한 종합 페이지: ① 의지의 신경 대응물이 분 단위 상태임을 실측, ② 축 분리가 일어나는 층이 **수용체·세포내 신호 층**(OptoXR의 표적), ③ PR breakpoint 정의(10분 중단) 자체가 이미 **이탈 사건**.

@@ -2,7 +2,7 @@
 title: "A lateral hypothalamic neuronal population expressing leptin receptors counteracts anxiety to enable adaptive behavioral responses (Figge-Schlensok 2025, Nat Neurosci)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-28
+updated: 2026-11-22
 source: "raw/2025 Nature Neuroscience. A lateral hypothalamic neuronal population expressing leptin receptors counteracts anxiety to enable adaptive behavioral responses.pdf"
 authors: [Rebecca Figge-Schlensok, Anne Petzold, Nele Hugger, Alisa Bakhareva, Ali Taleb Abdallah, Chantal Wissing, Hanna Elin van den Munkhof, Marla Yasmin Witt, Deema Imad Awad, Tatiana Korotkova]
 year: 2025
@@ -136,3 +136,4 @@ LH의 leptin 수용체 발현 뉴런(LH^LepR)은 불안을 일으키는 자극�
 - ★ [[miralpeix-2026-hypothalamic-pomc-neurons-gate]] — **같은 "안전 vs 섭식" 저울의 반대 팔**(Adv Sci 2026, Bordeaux Cota·Marsicano lab). 본 논문의 LH^LepR가 **불안을 상쇄해 먹게 허가**하는 세포라면, 그쪽 ARC POMC는 **학습된 위협을 받아 먹기를 끊는** 세포다(hM4Di 억제 → 섭식 지연·freezing 동시 감소; 하류 PVN CRH→HPA). [[concept-need-motivation-pleasure-utility|NMPU]]의 안전 gate를 `Behavior ∝ Motivation × g(안전도)`로 쓸 때 **g의 양의 성분(LH^LepR) / 음의 성분(ARC POMC)** 이라는 양방향 구현 가설이 된다(연결 해석 — 두 논문 모두 이렇게 쓰지 않았다). 검증: 두 조작을 한 과제에서 교차(POMC hM4Di × LepR hM3Dq). ⚠️ 교란: 본 논문 주 코호트는 **암컷 중심**인데 그쪽 CB1R 기전은 **수컷 한정**이다.
 - [[person-cota-daniela]] — 이 논문의 거울상인 [[miralpeix-2026-hypothalamic-pomc-neurons-gate]](ARC POMC = 억제 팔)의 책임저자.
 
+- [[overview-grand-quest-will-to-live]] — 본 논문의 수치(open arm-excited 34% vs 8%, LepR 제거 → open arm 체류↓, Ebf1 공발현만 불안과 음의 상관)를 그랜드 퀘스트(삶의 의지)의 '관계·안전 축' 분자 표적 근거로 쓴 종합 페이지.
