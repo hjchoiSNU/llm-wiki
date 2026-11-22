@@ -2,6 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { encoder } from "./searchEncoder"
 
 interface Item {
   id: number
@@ -16,51 +17,6 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
-const encoder = (str: string): string[] => {
-  const tokens: string[] = []
-  let bufferStart = -1
-  let bufferEnd = -1
-  const lower = str.toLowerCase()
-
-  let i = 0
-  for (const char of lower) {
-    const code = char.codePointAt(0)!
-
-    const isCJK =
-      (code >= 0x3040 && code <= 0x309f) ||
-      (code >= 0x30a0 && code <= 0x30ff) ||
-      (code >= 0x4e00 && code <= 0x9fff) ||
-      (code >= 0xac00 && code <= 0xd7af) ||
-      (code >= 0x20000 && code <= 0x2a6df)
-
-    const isWhitespace = code === 32 || code === 9 || code === 10 || code === 13
-
-    if (isCJK) {
-      if (bufferStart !== -1) {
-        tokens.push(lower.slice(bufferStart, bufferEnd))
-        bufferStart = -1
-      }
-      tokens.push(char)
-    } else if (isWhitespace) {
-      if (bufferStart !== -1) {
-        tokens.push(lower.slice(bufferStart, bufferEnd))
-        bufferStart = -1
-      }
-    } else {
-      if (bufferStart === -1) bufferStart = i
-      bufferEnd = i + char.length
-    }
-
-    i += char.length
-  }
-
-  if (bufferStart !== -1) {
-    tokens.push(lower.slice(bufferStart))
-  }
-
-  return tokens
-}
-
 let index = new FlexSearch.Document<Item>({
   encode: encoder,
   document: {
@@ -86,8 +42,11 @@ let index = new FlexSearch.Document<Item>({
 const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
-const numSearchResults = 8
+const numSearchResults = 30
 const numTagResults = 5
+
+// search terms are matched literally, so "(" or "+" in a query must not act as regex syntax
+const escapeRegExp = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 
 const tokenizeTerm = (term: string) => {
   const tokens = term.split(/\s+/).filter((t) => t.trim() !== "")
@@ -109,7 +68,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
   let endIndex = tokenizedText.length - 1
   if (trim) {
     const includesCheck = (tok: string) =>
-      tokenizedTerms.some((term) => tok.toLowerCase().startsWith(term.toLowerCase()))
+      tokenizedTerms.some((term) => tok.toLowerCase().includes(term.toLowerCase()))
     const occurrencesIndices = tokenizedText.map(includesCheck)
 
     let bestSum = 0
@@ -133,7 +92,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
+          const regex = new RegExp(escapeRegExp(searchTok.toLowerCase()), "gi")
           return tok.replace(regex, `<span class="highlight">$&</span>`)
         }
       }
@@ -161,7 +120,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   const highlightTextNodes = (node: Node, term: string) => {
     if (node.nodeType === Node.TEXT_NODE) {
       const nodeText = node.nodeValue ?? ""
-      const regex = new RegExp(term.toLowerCase(), "gi")
+      const regex = new RegExp(escapeRegExp(term.toLowerCase()), "gi")
       const matches = nodeText.match(regex)
       if (!matches || matches.length === 0) return
       const spanContainer = document.createElement("span")
@@ -489,7 +448,18 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("content"),
       ...getByField("tags"),
     ])
-    const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
+    // pages containing the query as typed (an exact phrase) come first: title, then body
+    const phrase = currentSearchTerm.trim().toLowerCase()
+    const phraseRank = (id: number) => {
+      const page = data[idDataMap[id]]
+      if ((page.title ?? "").toLowerCase().includes(phrase)) return 2
+      return (page.content ?? "").toLowerCase().includes(phrase) ? 1 : 0
+    }
+    const orderedIds = [...allIds]
+      .map((id, order) => ({ id, order, rank: phrase === "" ? 0 : phraseRank(id) }))
+      .sort((a, b) => b.rank - a.rank || a.order - b.order)
+      .map((x) => x.id)
+    const finalResults = orderedIds.map((id) => formatForDisplay(currentSearchTerm, id))
     await displayResults(finalResults)
   }
 
