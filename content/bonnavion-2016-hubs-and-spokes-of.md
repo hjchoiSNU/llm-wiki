@@ -2,7 +2,7 @@
 title: "Hubs and spokes of the lateral hypothalamus: cell types, circuits and behaviour (Bonnavion, Mickelsen et al. 2016, J Physiol)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-11-23
 source: "raw/2016 The_Journal_of_Physiology. Hubs and spokes of the lateral hypothalamus cell types, circuits and behaviour.pdf"
 authors: [Patricia Bonnavion, Laura E. Mickelsen, Akie Fujita, Luis de Lecea, Alexander C. Jackson]
 year: 2016
@@ -138,3 +138,4 @@ LHA 뉴런을 신경화학 표현형으로 세 갈래(Hcrt/Ox, MCH, LepRb/Nts/Ga
 - [[de-vrind-2019-effects-of-gaba-and]] — 본 리뷰의 "세 번째 집단"(LepRb/Nts/Gal/MC4R)을 **통째로 hM3Dq로 켠** 인과 사례(Obesity 2019, Adan lab): 바닥 chow 섭취↓·운동↑·체온↑·3일 반복 체중↓. ⚠️ 본 리뷰가 그리는 "leptin이 켜는 LepRb → Hcrt 억제 → 각성·HPA 진정" 그림과 달리 그쪽 LepR 활성은 **운동과 체온을 올렸다** — Hcrt 억제만으로는 설명되지 않으므로 LepR 하위집단(Nts·Gal 공발현 축)과 각성 상태 변수를 분리해 읽어야 한다. ob/ob LepR 활성이 corticosterone만 정상화하고 섭식·체중은 바꾸지 않았다는 Bonnavion 2015과도 종말점이 갈린다(병기).
 - [[siemian-2021-lateral-hypothalamic-lepr-neurons]] — 이 리뷰가 세운 "세 번째 집단 = LepRb/Nts/Gal/MC4R 혼합"과 "LepRb 60% Nts⁺" 수치의 기능 검증 사례(Cell Rep 2021). Siemian은 그 LepR 집단이 분자적으로 이질적이어도 기능 축은 **appetitive(섭취 비구동·cue 학습/접근)로 수렴**함을 인과 조작으로 보인다. ⚠️ 본 리뷰의 "leptin이 켜는 포만·항스트레스 LepRb" 틀과, Siemian의 "appetitive 학습 LepR→VTA" 틀은 같은 marker의 다른 하위집단일 수 있다(병기).
 - [[heiss-2024-distinct-lateral-hypothalamic-camkiia]] — ⚠️ 이 리뷰의 **"Hcrt = LH 각성 허브"** 배치에 대한 평행 경로 보고(PNAS 2024, Kilduff lab). AAV-CaMKIIα 표지 LH 뉴런은 **wake-active**(131세포, NREM 대비 Wake Z-score **6.45 ± 0.35배**)이고, 이들을 켜면 **dual OXR 길항 almorexant 하에서도 7시간 각성**이 나온다. Hcrt 세포는 **9.3%만**, TMN histaminergic은 **6%만** 전달되었다. 또 이 리뷰가 세운 세 펩타이드 집단 틀과 달리, **CaMKIIα 라벨은 세포타입이 아니라 ~80% glut / ~20–33% GABA 혼합 농축 마커**다. Venner 2016의 "wake-promoting LH GABA"와는 **정면 불일치**(Gad2 64.6% 절제가 수면 구조를 전혀 바꾸지 않음).
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 본 리뷰의 "**Nts–LepRb 세포는 DR·VTA로 강하게 투사**"(Cui 2012 경유)가 2026-11-23 질의에서 결정적 자료가 됐다: Ahmadlou는 **LHA^VGAT→median raphe(MRN)** 가 고집을 만든다고 보이는데, 위키가 기록한 **LepR 집단의 raphe 표적은 DR**이고 MRN 투사 LH 집단은 MCH(LepR 미발현)뿐이다 → "LH^LepR→MRN"은 위키 근거 0건이며, 질문은 **"LepR의 raphe 투사가 DR인가 MRN인가"** 로 좁혀야 한다.

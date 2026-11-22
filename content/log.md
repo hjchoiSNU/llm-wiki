@@ -8,6 +8,23 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — query + lint (LH^LepR→MRN 투사 확인 → **0건**, 어제 ingest의 과장 1건 수정, Opus 5)
+
+사용자 질의: "`LH^LepR→MRN` 투사 있는지 위키에서 확인해줘"(어제 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] ingest에서 제기한 과제). 웹 미사용.
+
+**답: 위키에 `LH^LepR→MRN`은 0건이고, 주변 자료는 오히려 부정적 방향이다.**
+- **LepR 집단의 raphe 투사는 dorsal raphe(DR)로 기록돼 있다** — [[bonnavion-2016-hubs-and-spokes-of]]: "**Nts–LepRb 세포는 DR·VTA로 강하게 투사**하지만 MC4R–pSTAT3 세포는 둘 다로 투사하지 않는다"(Cui 2012 경유). LepRb의 60%가 Nts⁺.
+- **위키가 MRN 투사로 기록한 LH 집단은 MCH뿐이고 MCH는 LepR 미발현(4편 음성)** — [[overview-lateral-hypothalamus-synthesis]] 세포타입 표 MCH 행(표적: NAc shell·striatum·LS·MS·TMN·**MRN**) · [[chen-2025-the-integrated-function-of-the]]("MCH→MRN로 BAT 교감억제"). 즉 "MRN 투사 LH 집단"과 "LepR 집단"이 위키 안에서 **서로 배타적**이다.
+- **형식적으로 가장 닮은 선례는 MRN이 아니라 DR** — [[liu-2023-an-iterative-neural-processing]]: LH 30초 활성 → DR^GABA 수 초 탈억제 후 강한 억제, **LH = 조각 개시 / DR^GABA = 접촉 유지**(R=0.908). Ahmadlou의 "LH^VGAT→MRN^VGAT 억제 → 고집"과 같은 문법.
+- LH^LepR의 기록된 투사: →VTA(강함, [[siemian-2021-lateral-hypothalamic-lepr-neurons]]·[[leinninger-2009-leptin-acts-via-leptin]]) · →vlPAG^Penk([[shin-2023-early-adversity-promotes-binge-like-eating]], VTA·MPA 분지 무효) · →Hcrt 국소 억제 · →LC_NA 조밀(Laque 2015, 기능 미검증) · **→PVN 직접 투사 없음**. raphe·MRN은 목록에 없다.
+- → 과제를 **"LH^LepR의 raphe 투사는 DR인가 MRN인가 둘 다인가, 두 핵이 같은 '지속' 문법을 쓰는가"** 로 좁혀 [[overview-grand-quest-will-to-live]] §7에 다시 적었다.
+
+**수정 1 (과장) — "위키에 없던 LH 출력축"은 틀렸다.** [[liu-2026-granular-motivational-interaction-and]](Neuron 리뷰) Initiation 절이 **"MRN^GABA(deep, grabbing/biting) vs MRN^VGLUT2(shallow); LH^GABA→MRN^GABA 억제 = deep interaction"** 을 이미 2차 인용으로 담고 있었다. 없던 것은 **1차 원전**이다. 어제 네 곳에 쓴 "위키에 없던 투사/표적" 문구를 전부 교정: [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]](takeaway ③ + 함의 ③ 본문) · [[concept-lateral-hypothalamus]] · [[concept-lh-gabaergic-neurons]] · [[overview-lateral-hypothalamus-synthesis]]("종합의 출력 표에 없던 표적"도 틀렸다 — MCH 행에 MRN, 투사 표에 LH→DR^GABA가 이미 있었고 빠진 것은 **Vgat→MRN 행**).
+
+**수정 2 (E source) — frontmatter `source:` 파일명 불일치.** 어제 ingest 시점의 raw 파일명은 `s41586-025-08672-1.pdf`였으나 사용자가 이후 `2025 Nature. A subcortical switchboard for perseverative, exploratory and disengaged states.pdf`로 바꿨다. frontmatter를 실제 파일명으로 맞춤(raw는 읽기 전용이므로 파일은 손대지 않음). 병행 세션([[concept-lh-gabaergic-neurons]] 작업)이 `wiki_lint.py --files`에서 **E source 1건**으로 잡아 전달해 준 건으로, 직접 raw를 확인해 교정했다. ⚠️ `wiki_lint.py`는 `--files`로 넘긴 페이지를 new_page로 처리해 이 규칙을 W→E로 올린다(`--all`에서는 W).
+
+역방향 링크 3건 추가(`updated: 2026-11-23`): [[liu-2026-granular-motivational-interaction-and]](이 투사를 위키에서 처음 담은 페이지였음을 명시) · [[bonnavion-2016-hubs-and-spokes-of]](LepR→DR 자료가 질의의 결정적 근거) · [[liu-2023-an-iterative-neural-processing]]("같은 문법, 다른 raphe 핵"). index.md 변경 없음(신규 페이지 없음).
+
 ## 2026-11-23 — ingest (Ahmadlou 2025 Nature: 고집·탐색·포기의 median raphe switchboard, Opus 5)
 
 `raw/s41586-025-08672-1.pdf`(사용자가 2026-11-23 00:14 업로드, 파일명은 Nature DOI 형식 그대로 — raw는 읽기 전용이라 유지) 정리. [[overview-grand-quest-will-to-live]] §7이 **1순위 ingest로 지목했던 논문**이다. 신규 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] — Nature 641:151–158, Hofer lab(Sainsbury Wellcome Centre, UCL).

@@ -3,7 +3,7 @@ title: "고집·탐색·포기 상태의 subcortical switchboard — median raph
 type: paper
 created: 2026-11-23
 updated: 2026-11-23
-source: "raw/s41586-025-08672-1.pdf"
+source: "raw/2025 Nature. A subcortical switchboard for perseverative, exploratory and disengaged states.pdf"
 authors: [Mehran Ahmadlou, Maryam Yasamin Shirazi, Pan Zhang, Isaac L. M. Rogers, Julia Dziubek, Margaret Young, Sonja B. Hofer]
 year: 2025
 journal: "Nature 641:151–158 (2025-05-01); doi:10.1038/s41586-025-08672-1 — Sainsbury Wellcome Centre, UCL. 접수 2024-01-11, 승인 2025-01-17, 온라인 2025-03-05. Open access"
@@ -13,7 +13,7 @@ aliases: [MRN switchboard, median raphe nucleus, MRN^VGAT, MRN^SERT, MRN^VGluT2,
 
 > [!takeaway] 연구 방향 관점의 핵심
 > **"포기(disengagement)는 추구의 부재가 아니라 전용 회로가 켜지는 사건"임을 세포타입 수준에서 보인 논문.** median raphe nucleus(MRN)의 세 주요 세포타입이 서로 보완적으로 **고집(perseverance) · 탐색(exploration) · 포기(disengagement)**를 나눠 맡는다 — GABAergic(~60%) **억제**가 고집을, VGluT2⁺(~25%) **활성**이 탐색을, serotonergic(5–10%) 활성이 **과제 참여(engagement) 자체**를 담당한다. 상류가 결정적이다: **lateral hypothalamus GABA(LHA^VGAT)→MRN**이 강한 양성 valence를 실어 MRN^VGAT를 억제해 고집을 만들고, **lateral habenula(LHb)→MRN**이 음성 valence를 실어 MRN^VGAT 일부를 거쳐 MRN^SERT를 억제해 포기를 만든다.
-> 사용자 연구에 닿는 지점 넷. ① [[overview-grand-quest-will-to-live|그랜드 퀘스트(삶의 의지)]]가 **1순위 ingest로 지목했던 바로 그 논문** — "의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라 그만두라는 신호가 켜지는 사건"이라는 가설에 **회로 정체(LHb→MRN^VGAT→MRN^SERT 억제)** 를 준다. ② [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]]이 "이탈 결정의 전용 신경 구조 후보, **원전 위키에 없음**"으로 적어 둔 공백을 메운다. ③ **[[concept-lateral-hypothalamus|LH]]의 새 출력 표적**: LHA^VGAT→MRN은 섭식·보상이 아니라 **"지금 하는 것을 계속할지"**를 정하는 축이다([[concept-lh-gabaergic-neurons|LH^Vgat hub]]에 없는 투사). ④ MRN^VGAT 억제가 **여우 오줌(TMT) 물체에 깊은 상호작용까지 유발** — 위키 [[concept-compulsion|강박]]의 조작적 정의("처벌에도 지속")를 회로 조작으로 재현한 드문 사례.
+> 사용자 연구에 닿는 지점 넷. ① [[overview-grand-quest-will-to-live|그랜드 퀘스트(삶의 의지)]]가 **1순위 ingest로 지목했던 바로 그 논문** — "의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라 그만두라는 신호가 켜지는 사건"이라는 가설에 **회로 정체(LHb→MRN^VGAT→MRN^SERT 억제)** 를 준다. ② [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]]이 "이탈 결정의 전용 신경 구조 후보, **원전 위키에 없음**"으로 적어 둔 공백을 메운다. ③ **[[concept-lateral-hypothalamus|LH]] 출력축 중 가장 덜 다뤄진 것**: LHA^VGAT→MRN은 섭식·보상이 아니라 **"지금 하는 것을 계속할지"**를 정한다. ⚠️ 2026-11-23 확인 — 이 투사 자체는 위키에 **이미 2차 인용으로 있었다**([[liu-2026-granular-motivational-interaction-and|Liu & Wang 2026]] Initiation 절: "MRN^GABA(deep, grabbing/biting) vs MRN^VGLUT2(shallow); LH^GABA→MRN^GABA 억제 = deep interaction"). 없던 것은 **1차 원전**이다. ④ MRN^VGAT 억제가 **여우 오줌(TMT) 물체에 깊은 상호작용까지 유발** — 위키 [[concept-compulsion|강박]]의 조작적 정의("처벌에도 지속")를 회로 조작으로 재현한 드문 사례.
 > ⚠️ 쥐의 자유행동·광유전 연구다. 인간 apathy·우울·OCD 연결은 저자들의 **전망**이며 이 논문이 검증한 것이 아니다.
 
 # 고집·탐색·포기의 subcortical switchboard — median raphe nucleus (Ahmadlou 2025)
@@ -127,10 +127,15 @@ LHb (음성 valence) ──흥분──> MRN^VGAT 일부 ──억제──> MRN
 - Holton의 **apathy 역설**(과잉 지속 ↔ 과소 지속이 한 개인에 공존) ↔ MRN에서 **고집(VGAT)과 포기(SERT)가 별개 세포타입**이므로 둘이 독립적으로 고장날 수 있다는 예측
 
 ### ③ LH의 새 출력축 — "계속할지"를 정하는 LH
-[[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]에 **LHA^VGAT→MRN 투사가 없다.** 위키의 LH 출력은 LH→VTA(보상), LH→LHb(공격성·서열), LH→PAG(사냥 vs 도피)로 정리돼 있는데, 본 논문은 네 번째 축을 더한다 — **LH^Vgat가 "무엇을 할지"가 아니라 "지금 하는 것을 계속할지"를 정한다.**
+위키의 LH 출력 지도는 LH→VTA(보상)·LH→LHb(공격성·서열)·LH→PAG(사냥 vs 도피) 중심이고, 본 논문은 **LH^Vgat가 "무엇을 할지"가 아니라 "지금 하는 것을 계속할지"를 정한다**는 축을 더한다.
+⚠️ **2026-11-23 수정**: 이 투사가 "위키에 없던 것"은 아니다. [[liu-2026-granular-motivational-interaction-and|Liu & Wang 2026]](Neuron 리뷰)의 Initiation 절이 **LH^GABA→MRN^GABA 억제 = deep interaction**을 이미 2차 인용으로 담고 있고, MRN^GABA(deep·grabbing/biting) vs MRN^VGluT2(shallow)의 대비까지 적어 두었다. 본 논문은 그 **1차 원전**이고, 세포타입 표의 LH 출력 행에 Vgat→MRN이 없었을 뿐이다. [[overview-lateral-hypothalamus-synthesis]]의 세포타입 표에는 **MCH→MRN**이, 투사 표에는 **LH→DR^GABA**가 이미 있다.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]]의 arbitration framework(hunger × anxiety × loneliness)와 층이 다르다: arbitration은 **어느 동기가 이기는가**, MRN 축은 **이긴 동기를 얼마나 오래 붙드는가**. 두 층을 합치면 LH는 선택과 지속을 모두 쥔다(연결 가설).
 - [[concept-lh-gabaergic-neurons|LH^Vgat hub]]가 정리한 "섭식 engine이 아니다 — valence 무관 salience·체온·학습까지 섞인다"는 논지에 **'고집' 축**이 하나 더 붙는다. 그 hub의 투사 기반 표적화 경고와도 맞물린다(같은 Vgat⁺에서 섭식 집단과 고집 집단이 갈리는지 미검증).
-- ⚠️ 본 논문의 LHA^VGAT는 **분자 정체가 아니라 전달물질(Vgat)로만 정의**된다. 사용자 lab의 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]]과의 관계는 미검증 — LH^LepR 상당수가 GABAergic subset이므로 **LH^LepR→MRN 투사 존재 여부가 바로 검증 가능한 실험**이다(제안).
+- ⚠️ 본 논문의 LHA^VGAT는 **분자 정체가 아니라 전달물질(Vgat)로만 정의**된다. 사용자 lab의 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]]과의 관계는 미검증이다. **2026-11-23 위키 확인 결과 `LH^LepR→MRN`은 0건이고, 주변 자료는 오히려 부정적 방향이다**:
+  - **LepR 집단의 raphe 투사는 dorsal raphe(DR)로 기록돼 있다** — [[bonnavion-2016-hubs-and-spokes-of|Bonnavion 2016]]: "**Nts–LepRb 세포는 DR·VTA로 강하게 투사**하지만 MC4R–pSTAT3 세포는 둘 다로 투사하지 않는다"(Cui 2012 경유). LepRb의 60%가 Nts⁺이므로 적지 않은 분획이다.
+  - **위키가 MRN 투사로 기록한 LH 집단은 MCH뿐이고, MCH는 LepR 미발현(4편 음성)** — [[overview-lateral-hypothalamus-synthesis]] 세포타입 표 MCH 행(표적: NAc shell·striatum·LS·MS·TMN·**MRN**) · [[chen-2025-the-integrated-function-of-the|Chen 2025]]("MCH→MRN로 BAT 교감억제"). 즉 위키 안에서 "MRN 투사 LH 집단"과 "LepR 집단"이 **서로 배타적으로** 적혀 있다.
+  - **형식적으로 가장 닮은 선례는 MRN이 아니라 DR이다** — [[liu-2023-an-iterative-neural-processing|Liu 2023]]: LH 30초 활성 → DR^GABA가 수 초 탈억제 후 **강한 억제**, 기능 분담은 **LH = 조각 개시, DR^GABA = 접촉 유지**(R=0.908). 본 논문의 "LH^VGAT→MRN^VGAT 억제 → 지속(고집)"과 **같은 문법**이다.
+  - → 질문을 **"LH^LepR→MRN이 있는가"**에서 **"LH^LepR의 raphe 투사는 DR인가 MRN인가 둘 다인가, 그리고 두 핵이 같은 지속 문법을 쓰는가"**로 좁히는 쪽이 근거에 맞다(제안 수정).
 
 ### ④ 강박의 조작적 정의를 회로로 재현했다
 [[concept-compulsion]]은 강박 섭식을 "**처벌에도 지속되는 추구**"로 조작화한다. 본 논문의 TMT 결과는 그것을 회로 조작으로 만든다 — MRN^VGAT 억제(또는 LHA^VGAT→MRN 활성)가 **포식자 냄새 물체에 깊은 상호작용까지** 유발하며, 이는 정상 개체에서 결코 나타나지 않는다.
@@ -163,7 +168,9 @@ LHb (음성 valence) ──흥분──> MRN^VGAT 일부 ──억제──> MRN
 - [[overview-grand-quest-will-to-live]] — 본 논문을 1순위 ingest로 지목한 그랜드 퀘스트(삶의 의지) 페이지. "그만두라는 신호가 켜지는 사건"이라는 도전 가설에 본 논문이 회로 정체를 준다.
 - [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — 본 논문을 "이탈 결정의 전용 신경 구조"로 인용한 계산 틀(patch-leaving·momentum·apathy 역설). 위키의 "원전 없음" 공백을 본 페이지가 메운다.
 - [[concept-lateral-habenula]] — LHb→MRN이 LHb의 두 번째 anhedonia 출력(VTA 비의존). ⚠️ 그 페이지의 MRR→LHb 방향 서술과 병기 필요.
-- [[concept-lateral-hypothalamus]] · [[concept-lh-gabaergic-neurons]] · [[overview-lateral-hypothalamus-synthesis]] — LHA^VGAT→MRN은 위키에 없던 LH 출력축("계속할지"를 정하는 LH).
+- [[concept-lateral-hypothalamus]] · [[concept-lh-gabaergic-neurons]] · [[overview-lateral-hypothalamus-synthesis]] — LHA^VGAT→MRN = "계속할지"를 정하는 LH 출력축. ⚠️ 투사 자체는 [[liu-2026-granular-motivational-interaction-and|Liu 2026]]에 2차 인용으로 이미 있었고(본 논문이 1차 원전), 세포타입 표의 **Vgat→MRN 행**이 빠져 있었다. `LH^LepR→MRN`은 위키에 0건이다(2026-11-23 확인).
+- [[liu-2026-granular-motivational-interaction-and]] — 위키에서 LH^GABA→MRN^GABA를 **처음 담은 페이지**(Initiation 절의 2차 인용). 본 논문이 그 1차 원전.
+- [[bonnavion-2016-hubs-and-spokes-of]] · [[liu-2023-an-iterative-neural-processing]] — `LH^LepR→MRN` 질의의 핵심 근거: LepR/Nts의 raphe 투사는 **DR**로 기록돼 있고(Bonnavion), LH→DR^GABA의 "개시 vs 접촉 유지" 분담(Liu 2023)이 본 논문의 고집 문법과 형식적으로 같다.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]] — LH arbitration framework. 그쪽이 "어느 동기가 이기는가", 본 논문이 "이긴 동기를 얼마나 붙드는가".
 - [[concept-compulsion]] · [[leow-2026-a-cortical-hypothalamic-neural]] — "처벌에도 지속"의 조작적 정의를 TMT 실험이 회로 조작으로 재현.
 - [[concept-will-volition-motivation]] · [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — 참여·활력·고집의 세 기질 분해(MRN^SERT / tonic DA / MRN^VGAT).

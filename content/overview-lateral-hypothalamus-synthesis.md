@@ -895,4 +895,4 @@ LH의 계산을 네 단계로 제안한다.
 
 ### 상위 종합
 - [[overview-appetite-energy-homeostasis]] · [[overview-cea-glp1r-food-safety-alarm]]
-- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 입출력 회로 렌즈에 **LHA^VGAT→MRN(median raphe nucleus)** 을 추가해야 한다: 양성 valence를 실어 고집을 유지하는 축으로, 종합의 출력 표(VTA·LHb·PAG)에 없던 표적이다 (Nature 2025, Hofer lab).
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 입출력 회로 렌즈에 **LHA^VGAT→MRN(median raphe nucleus)** 행을 추가해야 한다: 양성 valence를 실어 고집을 유지하는 축. ⚠️ 본 종합에 **MRN 자체가 없던 것은 아니다** — 세포타입 표 MCH 행의 표적 목록에 MRN이 있고(단 MCH는 **LepR 미발현**), 투사 표에는 **LH→DR^GABA**(개시 vs 접촉 유지, [[liu-2023-an-iterative-neural-processing]]) 행이 있다. 빠져 있던 것은 **Vgat→MRN 행**이며, 그 투사는 [[liu-2026-granular-motivational-interaction-and|Liu 2026]]에 2차 인용으로 이미 들어와 있었다 (Nature 2025, Hofer lab).

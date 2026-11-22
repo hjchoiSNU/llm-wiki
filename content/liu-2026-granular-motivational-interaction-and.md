@@ -2,7 +2,7 @@
 title: "Granular motivational interaction and behavioral choice during feeding (Liu & Wang 2026)"
 type: paper
 created: 2026-05-31
-updated: 2026-10-28
+updated: 2026-11-23
 source: "raw/2026 Neuron (marked. Qingqing Liu, Liping Wang) Granular motivational interaction and behavioral choice during feeding (1).pdf"
 authors: [Qingqing Liu, Liping Wang]
 year: 2026
@@ -121,3 +121,4 @@ journal: "Neuron 114, April 1, 2026; doi:10.1016/j.neuron.2025.12.025"
 - [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ⚠️ 본 리뷰의 **"LH^GABA = initiation hub"** 도식과 평행하면서 좌표계가 다른 사례(Research 2022, Zhejiang Chen lab). 같은 "탐색·개시 vs 섭취" 분업을 **GABA 밖(CaMKIIα⁺, Vgat-cre×Ai47에서 GABA와 거의 비중첩)** 에서, 그리고 **세포체 vs vPAG 말단**이라는 출력 경로 축에서 재현한다. ⚠️ 긴장점은 인과 효과다 — LH CaMKIIα 자극은 개시만 늘리는 것이 아니라 **크리켓 섭취 지속시간과 사료 섭취량을 직접 늘린다**(n=6, P<0.0001). 위키에 지금 동일한 기능 이분법이 **서로 다른 세포타입 좌표계에서 세 번 독립적으로 보고**되어 있다는 점(본 논문·[[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]·Tan 2022)을 병기할 사항.
 - [[concept-parabrachial-cgrp-alarm]] — 본문 termination 국면의 하류 satiation hub(cNTS^GCG/TH/PRLH 분업의 수렴점, NTS^CCK→PBN^CGRP, cVTA^DA→lPBN^D1R)의 개념 hub.
 - [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 'LH^GABA = initiation hub' 배치의 반대 증거 네 건이 §5-4에 모여 있다
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — 본 리뷰 Initiation 절의 **"MRN^GABA(deep, grabbing/biting) vs MRN^VGLUT2(shallow); LH^GABA→MRN^GABA 억제 = deep interaction"** 의 1차 원전(Nature 2025, 2026-11-23 ingest). 본 리뷰가 '섭식 개시'의 한 조각으로 적은 그 회로가 원전에서는 **고집·탐색·포기 전환의 switchboard**로 제시된다 — LHA^VGAT→MRN^VGAT 억제가 고집, LHb→MRN^SERT 억제가 포기. 즉 위키에서 이 투사를 **처음 담은 페이지는 본 리뷰**였다.

@@ -2,7 +2,7 @@
 title: "An iterative neural processing sequence orchestrates feeding (Liu 2023, Neuron)"
 type: paper
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-11-23
 source: "raw/2023 Neuron. An iterative neural processing sequence orchestrates feeding.pdf"
 authors: [Qingqing Liu, Xing Yang, Moxuan Luo, Junying Su, Jinling Zhong, Xiaofen Li, Rosa H.M. Chan, Liping Wang]
 year: 2023
@@ -134,3 +134,4 @@ journal: "Neuron 111(10):1651–1665.e5 (2023-05-17; online 2023-03-15); doi:10.
 - [[korotkova-2026-balancing-acts-lateral-hypothalamic]] — LH = 욕구 arbitration 리뷰. 본 논문의 "섭식 vs 환경 탐색" 동기 경쟁을 행동 미세구조로 보인 사례(companion [[liu-2026-granular-motivational-interaction-and|Liu 2026]]와 함께).
 - [[tan-2022-lateral-hypothalamus-calcium-calmodulin-dependent-protein]] — ⚠️ **부분 수렴·부분 불일치**(Research 2022, Zhejiang Chen lab). 본 논문의 LH^GABA처럼 LH CaMKIIα⁺ 뉴런도 **비식용 물체**(Styrofoam·솜뭉치·탁구공)에 먹이와 같은 접근·물기 반응을 보이고 **섭취가 시작되면 신호가 떨어진다** → "개시/탐침 충동" 방향과 같다. ⚠️ 그러나 ① 세포 정체가 **GABA가 아니라 거의 비GABA(CaMKIIα)** 로 반대이고, ② 인과 조작이 **섭취 자체를 늘린다**(크리켓 5/5 완식·사료 섭취↑) — 본 논문의 "LH^GABA = initiation 전담, 유지는 DR^GABA" 분류와 직접 대응시킬 수 없다. 0.5 g 솜뭉치를 3분에 산산조각 내면서 **무게는 변하지 않는다**는 대조는 본 논문의 갉기 ≠ 섭취 정량 교훈과 같은 설계다.
 - [[concept-lh-gabaergic-neurons]] — LH^Vgat hub. 'initiation 전담' 주장이 §2.2·§5-4에, 비식용 물체 반응(R=0.556)이 §2.4에 배치
+- [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — **같은 문법, 다른 raphe 핵**: 본 논문의 LH→DR^GABA(LH = 조각 **개시**, DR^GABA = 접촉 **유지**, R=0.908)와 Ahmadlou의 **LHA^VGAT→MRN^VGAT 억제 → 지속(고집)** 은 형식적으로 거의 같다. DR과 MRN이 같은 '지속' 문법을 공유하는지가 2026-11-23 질의에서 도출된 과제다(연결 가설).
