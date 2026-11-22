@@ -1,0 +1,238 @@
+---
+title: "그랜드 퀘스트 — 삶의 의지는 '얼마나 남았나'가 아니라 '언제 그만두나'다"
+type: overview
+created: 2026-11-22
+updated: 2026-11-22
+---
+
+> [!takeaway] 연구 방향 관점의 핵심
+> **SNU 그랜드퀘스트 챌린지 과제(「생존·관계·이상을 추구하거나 포기하는 다차원 분자기전 지도를 그려, 삶의 의지를 측정하고 조절할 수 있을까?」)의 5문항을 위키 근거만으로 재검토한 페이지.** 핵심 제안 둘. ① **통념 절의 '단일성 전제'(의지는 스칼라)는 방어 불가** — [[redish-2016-the-computational-complexity-of-valuation|Redish 2016]]이 이미 common currency를 폐기 고려하고 [[concept-liking-wanting|liking/wanting 해리]]·[[concept-need-motivation-pleasure-utility|NMPU]]도 같은 방향이다. 대신 **"동기의 차원은 행동 종결점이 정한다"**와 **"포기는 추구의 부재다"**를 통념으로 세우면 반박이 어렵고 측정 설계가 바로 따라온다. ② 그래서 도전 가설을 **크기(얼마나 남았나) → 이탈 임계값(언제 그만두나)**으로 재정식화한다: *의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라, 그만두라는 신호가 켜지는 사건이다.*
+> 제목에 새로 들어온 **'포기'가 위키 자산과 정확히 맞물린다** — [[holton-2026-the-adaptive-value-of-stubborn|Holton 2026]]의 apathy 역설·disengagement 역설, [[concept-goal-commitment]]의 patch-leaving·momentum, [[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo 2020]]의 능동 도피 특이 LS^Nts. 자매 페이지는 [[overview-grand-quest-feeding-as-learning]](섭식판 그랜드 퀘스트), 상위 로드맵은 [[overview-future-research-directions]].
+> ⚠️ 이 페이지는 **raw의 과제 자료 11건 + 위키 자료의 종합·해석(연결 가설)** 이며, 개별 1차 자료의 저자 주장이 아니다. 각 항의 근거 등급은 링크된 페이지에서 확인할 것.
+
+# 그랜드 퀘스트 — 삶의 의지는 '얼마나 남았나'가 아니라 '언제 그만두나'다
+
+## 한 줄 요약
+삶의 의지를 **가치 총량(스칼라)**이 아니라 **축마다 따로 돌아가는 "계속할까/그만둘까" 결정의 집합**으로 세우고, 통념 교체(§2) → 임계값 가설(§3) → 파라미터-우선 탐색전략(§4) → 동기 안전성이 중심이 되는 미래(§5) 순으로 정리한다. 2026-11-22 질의 답변의 보관본.
+
+**근거 자료**(raw, 2026-11-22 업로드): 제안서 초안 docx(11-17) · 콜로퀴엄 슬라이드 2판(본판·사진판, 11-17) · 15분 발표판 · Gemini/ChatGPT 정리판 · 별첨 도식 PDF(원 개념도 + 종별 FM 통합 도식) · SNU 공모 PDF · 공동연구자 자료 3건(김형 영장류 subthalamic nucleus, 성지혜 형광센서/OptoXR, 신정환 파킨슨 apathy·자살률).
+
+---
+
+## 0. 제목 변경이 바꾼 것
+
+| | 이전 (11-17판) | 새 제목 |
+|---|---|---|
+| 술어 | "다차원 분자 벡터로 **설명될 수 있는가**" | "분자기전 **지도를 그려**, **측정하고 조절할** 수 있을까" |
+| 방향축 | 삶 추구 ↔ **죽음에 대한 반의지** | 추구 ↔ **포기** |
+| 종결점 | 설명(explanation) | 측정 + 조절(인과) |
+
+**'포기'로 바꾼 것이 실질적 개선이다.** '죽음에 대한 반의지'는 추구의 반대말이 아니면서 추구와 같은 축에 놓여야 하는 쌍인데, 조작적 정의가 "죽음 회피"로 내려오면 그냥 위협 회피가 된다(콜로퀴엄판 노트가 실제로 그렇게 후퇴했다: "죽음에 대한 반의지는 잠정적으로 죽음 회피 또는 생존 보호 경향으로 정의"). **추구와 포기는 같은 과제 안의 두 사건이고, 둘 다 능동적이며, 한 개체 안에서 따로 측정된다.** 그리고 §2–§3에서 보듯 위키에 근거가 쌓여 있는 쪽은 '죽음 반의지'가 아니라 '포기'다.
+
+**대가 두 가지(기록).**
+- 술어가 셋(지도·측정·조절)으로 늘어 6개월 탐색연구 범위로는 과해 보인다.
+- **'분자기전 지도'는 '다차원 분자 벡터'보다 반증 가능성이 약하다** — 벡터는 차원 수를 틀릴 수 있지만 지도는 "그렸다"로 끝날 수 있다. 축 수가 틀릴 수 있다는 말이 제목에서 빠진 셈이다.
+
+---
+
+## 1. 질문의 제기 — "왜 지금"의 1순위
+
+제안서는 5가닥(기술적 리모나반트 · 학문적 좌표 부재 · 사회적 자살률 · 경제 초고령 · AI)을 든다. **가장 강한 가닥이 빠져 있다.**
+
+### (1) 올해 처음으로 '의지'에 해당하는 느린 상태 변수를 재고 조작할 수 있게 되었다 ★
+- [[concept-will-volition-motivation]]에 정리된 대로 [[kang-2011-dopamine-system-and-antipsychotic-drugs|Kang 2011]]은 **의지(will) = 자극 없는 상태의 tonic dopamine 반응준비성**, 의욕(volition) = phasic dopamine이라는 대응을 제시했으나, 위키는 이를 "**직접 검증한 실험은 없다**"로 닫아 두었다.
+- 그 실험이 2026년 11월에 나왔다. [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka|Lodder & Sabatini 2026]]: nucleus accumbens core의 분 단위 tonic DA를 lifetime 광도측정으로 **절대값** 측정하고 Gq/Gi DREADD로 양방향 조작해 **progressive ratio breakpoint·poke rate를 인과적으로 결정**. 결정적으로 **보상 시 phasic DA의 크기는 이후 얼마나 일할지를 예측하지 못했다.**
+
+이 한 자료가 과제의 세 축을 동시에 받친다.
+
+| 과제의 축 | Lodder 2026이 주는 것 |
+|---|---|
+| **시간축(보존성)** | 의지의 신경 대응물이 순간 신호가 아니라 **분 단위 상태**임이 실측됨. "순간의 행동이 아니라 보존성"이 수사에서 측정 가능한 주장으로 바뀐다 |
+| **성지혜 기술의 자리** | 핵심 결과가 **tonic DA는 D2R-SPN의 PKA를 직접, D1R-SPN은 phasic 증폭을 통해 간접** 조절한다는 세포타입 비대칭이다 → **축 분리가 일어나는 층이 수용체·세포내 신호 층**이라는 뜻. OptoXR이 겨누는 층이 바로 거기다 |
+| **포기 측정** | breakpoint의 정의가 "**10분 이상 중단 전**까지 얻은 보상 수" = **이미 이탈 사건이다.** 새 제목의 '포기'가 표준 과제 안에 측정량으로 들어 있다 |
+
+제안서는 OptoXR을 "기존 광유전학은 세포를 켜고 끌 뿐"이라고만 쓴다. **"축 분리가 일어나는 층이 수용체·세포내 신호 층이라는 것이 올해 실측되었다"**고 쓰면 원천기술이 역량 자랑이 아니라 **가설이 요구하는 유일한 도구**가 된다.
+
+### (2) 리모나반트 논거는 수정이 필요하다
+제안서 docx는 "표적 외 작용이 아니라 **표적 생물학 그 자체의 문제**", "식욕이라는 한 축만 누르려 했는데 **가치 공간 전체가 함께 내려앉았다**"고 단정한다. 위키 근거로는 그렇게 쓸 수 없다(콜로퀴엄판이 톤을 낮춘 것은 옳은 선택). 대신 위키는 **더 강한 두 갈래**를 준다.
+- **계열 문제로 격상**: [[bluher-2026-obesity-management-medications-the|Blüher 2026]]은 orlistat를 뺀 승인·개발 중 비만약 대부분이 **중추 섭식 기전**을 겨누고, 그 회로가 보상·정서·인지와 겹쳐 **우울·불안·자살사고 위험**을 동반할 수 있다고 쓰며 rimonabant·sibutramine·lorcaserin 철수를 든다 → 단일 약물 일화가 아니다.
+- **"표적 생물학"의 정체**: [[concept-endocannabinoid-system]]·[[concept-one-shot-learning]] — eCB-LTP는 **중추 학습 규칙**이고, 전신 CB1 차단의 인지·정동 부작용은 말초 섭식 역할만으로 설명되지 않는다. → 리모나반트는 "식욕 스위치를 눌렀더니 의지가 꺼진" 사례가 아니라 **"학습 규칙을 껐더니 가치 전체가 갱신을 멈춘" 사례**로 읽는 쪽이 근거에 맞고, 그게 바로 시간축(보존성)과 연결된다.
+
+### (3) 자살률은 "왜 한국에서"의 답이지 "왜 지금"의 답이 아니다
+2025년 사망원인통계(OECD 연령표준화 24.9 vs 보고서 수록 평균 10.9)와 WHO 사회적 연결 위원회(연간 87만 명 연관)는 **위키에 자료 없음**(외부 통계). 사회적 시급성의 근거로는 강하지만, 둘을 "왜 지금"에 섞으면 당위로 읽히고 "그래서 왜 이 방법이 지금 가능한가"가 그대로 남는다. **(1)을 "왜 지금", 통계를 "왜 한국에서"로 분리할 것.**
+
+---
+
+## 2. 기존의 통념 — 교체 권고 (가장 약한 절)
+
+### 지금의 통념 3전제 중 '단일성'은 학계가 이미 버렸다
+제안서는 통념을 **단일성·순간성·일방향성**으로 정리한다. 그런데 단일성은 방어가 안 된다.
+- [[redish-2016-the-computational-complexity-of-valuation|Redish 2016]]: 가치 측정 3법(revealed preference · willingness-to-pay · approach/avoidance)이 서로 다른 의사결정계(deliberative·procedural·Pavlovian)를 건드려 **양립 불가한 순위**를 낳으므로 **"common currency로서의 value는 폐기 고려"**.
+- 같은 방향: [[concept-liking-wanting|liking/wanting 해리]] · [[concept-need-motivation-pleasure-utility|NMPU 4성분]] · [[odoherty-2016-multiple-systems-for-the-motivational|O'Doherty 2016의 3계 arbitration]] · [[berridge-2023-separating-desire-from-prediction-of|Berridge 2023]].
+- → "동기가 스칼라라고 믿는 학자가 지금 누구인가"라는 질문 한 번에 절이 무너진다. 콜로퀴엄판은 방어선을 쳐 두었으나("학계 전체가 동기를 하나로만 보아 왔다고 주장하려는 것은 아닙니다"), **방어선을 치면 도전성도 함께 빠진다.**
+
+### 교체 제안 — 통념 ①: 동기의 차원은 행동 종결점이 정한다
+> **먹었나, 눌렀나, 다가갔나. 그래서 측정할 행동이 있는 축만 축이 되고, 대응 행동이 없는 축은 존재하지 않는 것이 된다.**
+
+- 아무도 부정하지 않는다(실제로 전 분야가 이렇게 한다).
+- 바로 귀결이 나온다 — 관계 축은 사회적 접근 행동이 있어 연구되고, **이상 축은 대응 행동이 없어 비어 있다.**
+- **김형 교수팀 자료의 표("이상 = X")가 발견이 아니라 바로 이 통념의 증거다.** 발표에서 그 표를 "우리가 아직 못 재는 것"이 아니라 "**분야가 축을 어떻게 정해 왔는지 보여주는 표**"로 읽으면 가장 강한 장면이 된다.
+- 그리고 제안서의 해법(좌표계를 먼저 세우고 행동을 뒤에 배치)이 정확히 이 통념의 역전이 된다.
+
+### 교체 제안 — 통념 ②: 포기는 추구의 부재다 ★
+> **그래서 동기 측정은 전부 추구 쪽에서만 이뤄진다 — breakpoint, 선택률, 접근 속도. '그만둠'은 그 지표의 0이거나 과제의 끝이다.**
+
+이것은 **진짜로 검증되지 않은 전제**이고, 위키에 반증의 씨앗이 셋 있다.
+
+| 근거 | 내용 |
+|---|---|
+| [[holton-2026-the-adaptive-value-of-stubborn\|Holton·Niv·O'Reilly 2026]] **apathy의 역설** | 특성 apathy가 높을수록 행동 서열에 **과도하게 지속**하고 제때 이탈하지 못한다. apathy↔충동성이 청년에서 높은 상관이고, over-/under-persistence가 **같은 개인에서 공존**한다 → "동기 없음"이 "안 움직임"이 아니라 "**못 그만둠**"으로 나타난다 |
+| 같은 리뷰의 **disengagement 역설** | 일반 인구에서 포기 능력은 낮은 스트레스·더 나은 웰빙과 연관되는데 **우울 위험군에서는 포기가 우울 증상 증가와 연관** → 포기는 추구의 0이 아니라 **별도 축이며 양방향으로 고장난다** |
+| [[azevedo-2020-a-limbic-circuit-selectively-links\|Azevedo 2020]] (Friedman lab) | lateral septum의 neurotensin 뉴런은 **도망칠 수 있을 때만** 켜지고, 몸이 묶여 움직이지 못하거나 freezing일 때는 **활성이 감소**한다. 켜지면 lateral hypothalamus 투사로 섭식·체중을 낮추되 불안·운동은 건드리지 않는다 → **같은 위협에서 능동 대처와 수동 포기가 서로 다른 분자 신호를 쓴다는 이미 출판된 분자 수준 증거.** LS^Nts의 70%가 `Glp1r` 공발현이라 랩의 GLP-1 라인과도 붙는다 |
+
+**정리**: 제목에 '포기'를 넣은 것이 통념 절을 구하는 길이다. **"포기는 측정 대상이 아니었다"**를 통념의 중심에 놓으면 ⓐ 반박이 어렵고 ⓑ 측정 설계가 바로 따라오며 ⓒ 임상(자살·무기력)과 직결된다.
+
+---
+
+## 3. 도전적 가설 — 크기에서 임계값으로
+
+H1(차원)·H2(시간)·H3(방향)은 각각 좋으나 **셋이 하나의 문장으로 묶이지 않는다**(병렬). 제목의 "추구하거나 포기하는"을 살리면 묶인다.
+
+> **삶의 의지는 가치의 총량이 아니라, 축마다 따로 돌아가는 "계속할까/그만둘까" 결정의 집합이다. 생존의 포기와 관계의 포기는 같은 힘이 약해진 것이 아니라, 서로 다른 임계값이 넘어간 것이다.**
+
+**왜 전환인가**: 의지를 **크기(얼마나 남았나)**에서 **임계값(언제 그만두나)**으로 옮긴다. 크기는 종간·개인간 비교가 어렵지만 임계값은 측정된다 — [[concept-goal-commitment]]에 정리된 foraging **patch-leaving**, **marginal value theorem**(Charnov 1976), **momentum = 진행 × 진행률**(Aenugu & O'Doherty 2025)이 그 계산 틀이고, [[grima-2026-a-global-dopaminergic-learning-rate|Grima 2026]]은 시간·보상률 추정 없이도 MVT 같은 행동이 나오는 학습 모델(AQUA)을 마우스에서 구현했다.
+
+세 하위 가설이 전부 임계값의 성질로 번역된다.
+
+| 원 가설 | 임계값 언어로 |
+|---|---|
+| **H1 차원** | 임계값이 **축마다 독립적으로** 움직이는가 (한 개체 안에서 생존 과제와 관계 과제의 이탈 임계값을 따로 추정) |
+| **H2 시간** | 임계값이 **과거 경험의 적분으로 설정**되는가 (그래서 중단 뒤에도 남는가) |
+| **H3 방향** | 임계값을 넘는 사건이 **추구 신호의 소멸**인가, **별도의 '중단 신호'**인가 |
+
+### 가장 도전적인 한 줄
+> **의지가 꺾이는 것은 추구 회로가 꺼지는 사건이 아니라, 그만두라는 신호가 켜지는 사건이다.**
+
+- 반증 가능하다([[azevedo-2020-a-limbic-circuit-selectively-links|Azevedo형 설계]]: 같은 위협에서 능동/수동 조건을 가르고 신호를 비교).
+- 치료 표적이 "추구를 올리기"에서 **"중단 신호를 끄기"**로 바뀐다.
+- 신정환 교수팀 환자 자료와 바로 맞물린다 — **같은 도파민 소실에서 의지가 남는 사람과 사라지는 사람의 차이가 도파민의 양이 아니라 중단 임계값에 있다**는 예측. 부록 C의 예상 질문("도파민이 곧 의지인가")에 대한 가장 좋은 답이기도 하다.
+
+### '이상' 축의 조작적 정의 — 위키에 답이 있다
+제안서에서 가장 비어 있는 칸이다. [[holton-2026-the-adaptive-value-of-stubborn|Holton 2026]]의 세 번째 기능 **동기 비계(scaffolding)**가 명시적 예측을 낸다 — **추상 가치에 기반한 목표(등산)가 기본 보상에 기반한 목표(배고픔 해소)보다 몰입 표지가 강해야 한다.** 그 원형이 **놀이**다: 아이는 임의로 정한 블록 높이에 몰입하고, 방해하면 좌절하며, 완성 직후 스스로 무너뜨린다(Chu 2024). **자기 선택 목표가 스스로 보상을 만들고 그래서 포기가 혐오적**이다(36년을 기둥 위에서 산 Simeon Stylites도 같은 틀).
+
+→ '이상'을 "언어로 보고되는 신념"으로 정의하면 사람에게만 있다. 그러나 **"기본 보상과 무관하게 스스로 생성된 목표에 붙는 몰입 bonus"**로 정의하면 **동물에서 측정할 수 있다**. autotelic RL(스스로 목표를 생성하는 agent)이 그 계산적 대응이다. 김형 교수팀 표의 'X'를 '△'로 바꿀 유일한 길로 보이고, 그 전환 자체가 20분 토론에서 가장 반응이 올 지점이다.
+
+### Memento mori — 가장 매력적이고 근거가 가장 없다
+유한성·mortality·future time perspective는 **위키에 자료가 전혀 없다.** 다만 Holton 2026의 **calibration 예측**이 형식적으로 같은 모양이다 — 몰입 정도는 전역 변수(대안의 수, 정보탐색 비용, 유혹 환경)에 따라 조정되어야 한다. '남은 시간'을 그 전역 변수 목록에 넣는 것, 즉 **"시간 지평은 이탈 임계값을 조정하는 전역 변수다"**로 쓰면 철학적 울림을 유지하면서 기존 계산 틀 안에서 검증 가능해진다. 인간 관찰 연구에서 먼저 쓸 것.
+
+---
+
+## 4. 탐색전략 — 네 접근은 좋고, 세 곳을 보강
+
+### ① "같은 과제"가 아니라 "같은 파라미터"가 번역 단위다
+사진판 슬라이드 11의 제목은 "같은 과제, 같은 신호"인데 15분판 슬라이드 12는 올바르게 "종에 맞는 과제로 측정하고 **공통 계산량**(노력 비용·선택·재개)을 비교"로 적는다. **둘이 충돌하므로 "같은 파라미터"로 통일할 것.**
+
+그리고 이것은 새 약속이 아니라 **랩의 실적**이다 — [[kim-2024-normative-framework-dissociates-need]]는 `N(t)=D+PC`, `M(t)=∫[a·N−Leak]dt`, `B(t)=M−K`를 먼저 써 놓고 광계측 신호가 **어느 변수인지**를 AIC·LOO·inverted model로 판정했다. 심사의견의 "질문과 방법 사이 간극"에 대한 답은 이 선례를 전면에 두는 것이다.
+
+### ② 파운데이션 모델 축의 성공 기준을 identifiability로 못 박을 것 ★
+"축의 개수와 경계를 자료가 말하게 한다"로만 쓰면 반드시 "모델이 찾은 축이 실체라는 보장은?"이 온다. [[concept-joint-brain-behaviour-modelling]]에 답이 있다.
+- **contrastive 결합 모델(CEBRA 계열)은 선형 identifiability가 보장**되어 seed·부분집합·개체·모달리티를 바꿔도 latent가 선형변환까지 복원된다 → **종간·개체간 비교가 수학적으로 의미를 갖는다.** (VAE 계열은 이 보장이 없어 cross-session 일관성이 떨어진다.)
+- 더 중요한 것: 행동 변수를 auxiliary label로 넣었을 때 **관계가 없으면 embedding이 초구면 균일분포로 붕괴**한다 → **음성 결과가 해석 가능한 형태로 나온다.** "세 축이 실제로 세 개인가"를 붕괴 여부로 판정할 수 있다. 별첨 도식의 **Falsification Gate를 연구진의 검토가 아니라 이 수학적 성질로 구현**하는 것이 가장 강한 설계다.
+- 같은 페이지가 경고하는 경계도 함께 쓸 것: **디코딩 정확도는 기전 통찰의 증거가 아니다.** 평가 기준으로 [[mathis-2026-joint-modelling-of-brain-and|trustworthiness scorecard]](consistency·robustness·identifiability + XAI·RSA/CKA)를 **미리 선언**하면 "AI가 찾은 축을 믿을 수 있나"에 선제 답이 된다.
+- 종별 FM 후보로 위키에 있는 것: [[mice-2026-multi-animal-interaction-context-encoder|MICE]](생쥐 keypoint·사회 상호작용) · [[liu-2025-castle-a-training-free-foundation-model|CaSTLe]] · [[concept-computational-ethology]].
+
+### ③ 빠진 설계 하나 — effort 과제에 abandon/switch 조건 ★
+제목에 '포기'가 들어왔는데 네 접근의 측정량은 여전히 추구 쪽(breakpoint·선택·노력)이다. 위키가 이미 처방을 적어 두었다 — [[concept-effort-based-decision-making]]과 [[holton-2026-the-adaptive-value-of-stubborn]]이 둘 다 "**effort 과제에 switch/abandon 조건을 넣으면 동기 결손과 감시 결손을 분리할 수 있다**"고 명시한다.
+- 측정량: **재개 확률 · 이탈 잠복기 · 이탈 직전 진행률(momentum) · 이탈 후 다른 축으로의 전환.**
+- 6개월 안에 가장 값싸게 넣을 수 있고, **새 제목을 방법으로 번역하는 유일한 항목**이다. 세 종 모두에서 가능하다([[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka|PR breakpoint 자체가 이미 이탈 사건]]).
+
+### 전략의 가장 큰 단일 위험 — 관계·이상 축을 조작할 분자 표적이 없다
+생존 축은 분명하다(nucleus accumbens 도파민 수용체 신호, tonic/phasic, D1/D2). 관계 축에는 **위키에 후보가 있고 랩 전문성과 정확히 겹친다.**
+
+| 근거 | 내용 |
+|---|---|
+| [[korotkova-2026-balancing-acts-lateral-hypothalamic\|Korotkova 2026]] | lateral hypothalamus를 **hunger × anxiety × loneliness 세 동기의 arbitration node**로 격상. LH^LepR 뉴런이 moderate hunger에서 **섭식을 억제하면서 social interaction을 촉진하고 anxiety를 낮춘다** |
+| [[petzold-2023-complementary-lateral-hypothalamic-populations\|Petzold 2023]] | LH^LepR과 LH^Nts가 상보적·길항적(LepR = 섭식·음수 억제 + social 촉진 / Nts = 음수 촉진 + social 억제). leptin i.p.가 food-anticipatory LepR subpopulation을 활성하며 social approach까지 촉진 |
+| [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal\|Figge-Schlensok 2025]] (1차 자료) | open arm-excited **34% vs closed 8%**(P=1.1e-9, 193 cells/16 mice), **LH에서 LepR 제거 → open arm 체류↓(P=0.0027)**, anorexia 위험 유전자 **Ebf1 공발현만** 불안과 음의 상관(P=0.029) |
+
+→ **생존 축과 관계 축이 한 분자 정의 집단 안에서 중재되는 사례가 이미 있다.** H1("공통 이득항 + 축 특이 신호")의 **현존하는 유일한 분자 수준 전례**이고, 사진판 슬라이드 13에 열어 둔 질문("관계·이상 차원을 동물에서 어떻게 측정할 것인가")에 대한 구체적 답이다. arbitration 시냅스의 검증 template도 있다 — [[jamieson-2026-neural-circuits-for-mammalian-parental|Jamieson 2026]]의 AgRP/NPY→MPOA 억제(양육 vs 섭식·스트레스).
+
+⚠️ 단 [[siemian-2021-lateral-hypothalamic-lepr-neurons|Siemian 2021]]은 LH^LepR **ablation**이 불안·운동·섭취를 전혀 안 바꾸고 cue 변별 학습만 막는다고 본다 — 조작 대상·맥락이 달라 조건 의존으로 병기할 것.
+
+---
+
+## 5. 대안적 미래
+
+### (1) '동기 안전성 약리학'은 전망이 아니라 이미 현재다 ★
+- [[mehrhof-2026-computational-phenotyping-of-effort|Mehrhof 2026]]: T2D에서 effort **acceptance bias가 낮아지고 semaglutide로 회복되지 않았다**(⚠️ 단면 설계). 즉 **"체중은 빠졌는데 일할 의지는 돌아오지 않았다"가 이미 사람 자료로 보고된 상태**다.
+- 여기에 [[bluher-2026-obesity-management-medications-the|Blüher 2026]]의 계열 경고를 더하면, 이 항목이 **미래 전망에서 현재 진단으로** 바뀐다. GLP-1RA가 수억 명 규모로 쓰이는 지금 "이 약이 어느 축을 얼마나 내리는가"를 사전 표시하는 체계는 가정이 아니라 **규제 공백**이다.
+- 측정 도구의 원형도 있다: [[concept-effort-based-decision-making|acceptance bias·effort sensitivity]] · [[concept-anhedonia|anhedonia의 예측 단계 결손]].
+
+### (2) '의지 조절학'의 표적은 '추구를 올리기'가 아니라 '포기를 늦추기'다
+- 추구를 올리는 약은 이미 있고 부작용도 알려져 있다(도파민 작용제 → 충동조절장애; [[concept-compulsion]]).
+- 반면 **"그만두라는 신호"를 표적으로 한 약은 없다.**
+- 단, Holton 2026의 역설이 경고한다 — 포기 능력은 일반 인구에서 웰빙과 정비례하지만 **우울 위험군에서는 우울과 정비례**한다. **포기를 일률적으로 억제하면 해롭다.**
+- → 의지 조절학의 첫 규범은 "의지를 올린다"가 아니라 **"어느 축에서 언제 그만두는 것이 적응적인가를 먼저 정한다"**가 되어야 한다. 제안서의 야심("특정 의지만 선택적으로 치료 — 학문에 대한 의지·부성애·자살 의지")에 윤리적 바닥을 깔아 주는 문장이다.
+
+### (3) 분자 철학 — 첫 사례는 '포기'여야 한다
+제안서는 분자 철학(Molecular Philosophy)의 첫 사례로 '삶의 의지'를 들고 자유의지·의미·행복·자아로 확장한다고 쓴다. 더 좁혀서 **'포기'를 첫 사례로 두는 쪽이 유리하다** — 이미 계산 틀([[concept-goal-commitment]]), 임상 표현형(apathy 역설), 분자 증거([[azevedo-2020-a-limbic-circuit-selectively-links|LS^Nts]])가 모두 있는 유일한 철학 개념이기 때문이다.
+
+### (4) 두 그랜드 퀘스트를 한 프로그램으로
+[[overview-grand-quest-feeding-as-learning]]의 중심 명제는 "섭식 회로의 1차 기능은 섭취량 조절이 아니라 지연 결과에 대한 credit assignment"다. 새 퀘스트와 이렇게 이어진다 — **그 학습이 설정하는 것이 바로 '계속할까/그만둘까'의 임계값이다.** 두 제안이 경쟁하지 않고 한 프로그램이 된다.
+
+섭식판에서 도달했던 "비만은 개인의 실패가 아니라 **환경이 뇌에 쓴 기록**"이라는 문장이 삶 전체로 확장되면: **"의지가 약해서"가 "그만두라는 신호가 먼저 켜졌다"로 바뀐다.** 자살·고립·무기력에 대해 이 문장이 갖는 사회적 무게가, 식락학에서 비만에 대해 가졌던 무게와 같은 종류다.
+
+---
+
+## 6. 공동연구팀 자산 지도 (raw 자료 기반, 위키 교차 확인)
+
+| 연구자 | raw 자료가 말하는 역량 | 위키 안의 받침점 | 공백 |
+|---|---|---|---|
+| **최형진** (뇌인지과학과) | NMPU 이론 · 인간 fMRI·약물 RCT · DTx | [[concept-need-motivation-pleasure-utility]] · [[kim-2024-normative-framework-dissociates-need]] · [[person-choi-hyung-jin]] | — |
+| **김형** (생명과학부) | 영장류 **subthalamic nucleus** 가치기반 행동, single-unit·LFP, D1/D2 길항제 국소 주입 | 영장류 플랫폼은 [[ha-2024-hypothalamic-neuronal-activation-non-human]]뿐 — **STN 자료 위키에 없음** | STN 1차 문헌 미수집 |
+| **성지혜** (의과대학) | 형광 센서(DA·5-HT·orexin·adrenaline) + **OptoXR**(rhodopsin–GPCR 키메라, 신경전달과정 특이 광유전학) | [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]]가 "왜 수용체 층인가"를 받침 | OptoXR 1차 문헌 위키에 없음 |
+| **신정환** (의과대학) | 파킨슨 — 도파민 신경 소실 ↔ 무의욕·apathy, 자살률(Costello 2023 · Jeong 2022), "촉진 기전과 잃는 기전의 균형 가설" | [[concept-anhedonia]] · [[concept-effort-based-decision-making]] · [[concept-will-volition-motivation]] | **Costello 2023·Jeong 2022 위키에 없음** |
+| **차지욱** (심리학과) | raw 자료에 내용 없음 | — | **역할·역량 자료 없음** |
+
+> 신정환 교수팀의 "**촉진 기전과 잃는 기전의 균형**" 가설은 §3의 임계값 가설과 사실상 같은 주장이다. 두 표현을 통일하면 과제 내부 정합성이 올라간다.
+
+---
+
+## 7. 정직한 공백 — 위키·raw 어디에도 자료 없음
+
+| 항목 | 상태 |
+|---|---|
+| 유한성·memento mori의 실증 문헌 | **자료 없음** — 제안서의 가장 매력적인 주장에 근거 0 |
+| 파킨슨 apathy·자살률 (Costello 2023 · Jeong 2022) | 위키 없음 (신정환 pptx에 인용만) |
+| 말기 환자 47% 삶의 의지 증가 | 출처 미확인, 위키 없음 |
+| OECD 자살률 24.9 / WHO 87만 | 외부 통계, 위키 없음 |
+| 일벌 치명적 방어행동 · 문어 산란 후 자기희생 | **자료 없음** — 토론에서 출처를 물으면 막힘 |
+| 영장류 subthalamic nucleus 가치기반 행동 | 위키 없음 |
+| '이상' 축의 동물 측정법 | 위키 전체에 없음 — §3의 '몰입 bonus' 우회가 유일한 후보 |
+
+### 1순위 ingest 권고 — Ahmadlou 2025 Nature
+*A subcortical switchboard for perseverative, exploratory and **disengaged** states.* [[holton-2026-the-adaptive-value-of-stubborn|Holton 2026]]이 인용하지만 **원전이 위키에 없다.** 제목에 '포기'를 넣은 순간, 이것이 **"포기에 전용 신경 구조가 있다"**는 주장의 가장 직접적인 회로 근거가 된다. 그 외 2순위: Chu & Schulz 2022(투자 없는 몰입) · Holton 2024 Nat Hum Behav(frustration > temptation 비대칭) · Aenugu & O'Doherty 2025(momentum).
+
+---
+
+## 한 문장 요약
+과제의 통념 절은 이미 학계가 버린 전제(단일성)에 기대어 약하고(§2), 제목에 새로 들어온 **'포기'** 가 그 자리를 채울 수 있는 유일한 전제다 — 포기는 추구의 0이 아니라 **전용 기전을 가진 능동적 사건**이라는 증거가 계산([[holton-2026-the-adaptive-value-of-stubborn]])·분자([[azevedo-2020-a-limbic-circuit-selectively-links]]) 양쪽에 이미 있다(§3). 의지를 **크기에서 이탈 임계값으로** 옮기면 세 하위 가설이 하나의 측정량으로 묶이고(§3), 번역 단위는 과제가 아니라 **파라미터**가 되며(§4), 종결점은 체중·설문에서 **"어느 축에서 언제 그만두는가"**로 바뀐다(§5). 가장 약한 고리는 숨기지 않는 편이 낫다 — **'이상' 축과 유한성에는 아직 측정법이 없다.** 그것이 약점이 아니라 그랜드 퀘스트가 필요한 이유다.
+
+## 관련 페이지
+- [[overview-grand-quest-feeding-as-learning]] — **자매 페이지**(섭식판 그랜드 퀘스트). 그쪽의 "섭식 = credit assignment"가 설정하는 것이 이쪽의 **이탈 임계값**이라는 읽기로 두 제안이 한 프로그램이 된다.
+- [[concept-will-volition-motivation]] — '의지'의 두 뜻(기본 준비성 vs 자기통제) 지도. 본 페이지의 임계값 가설은 그 ①(tonic 반응준비성)에 **'중단 신호'라는 제3 성분**을 더하려는 시도다.
+- [[holton-2026-the-adaptive-value-of-stubborn]] · [[concept-goal-commitment]] — §2 통념 ②와 §3 임계값 가설의 1차 근거(apathy 역설·disengagement 역설·patch-leaving·momentum·동기 비계).
+- [[azevedo-2020-a-limbic-circuit-selectively-links]] — "능동 대처와 수동 포기가 서로 다른 분자 신호를 쓴다"의 현존 증거(LS^Nts, 능동 도피 특이).
+- [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]] — §1의 "왜 지금": tonic DA가 일할 동기를 인과 결정하고, 축 분리가 일어나는 층이 수용체·세포내 신호 층임을 보인다.
+- [[korotkova-2026-balancing-acts-lateral-hypothalamic]] · [[petzold-2023-complementary-lateral-hypothalamic-populations]] · [[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]] — §4의 '관계 축' 분자 표적 후보(LH^LepR의 hunger×anxiety×social arbitration).
+- [[redish-2016-the-computational-complexity-of-valuation]] — §2에서 '단일성 전제'가 방어 불가인 이유(common currency 폐기 고려).
+- [[concept-joint-brain-behaviour-modelling]] · [[mathis-2026-joint-modelling-of-brain-and]] — §4②의 identifiability·embedding 붕괴·trustworthiness scorecard.
+- [[concept-effort-based-decision-making]] · [[mehrhof-2026-computational-phenotyping-of-effort]] — §4③의 abandon 조건과 §5의 '동기 안전성' 현재 증거.
+- [[kim-2024-normative-framework-dissociates-need]] · [[concept-need-motivation-pleasure-utility]] — §4①의 모델-우선 선례와 이론 backbone.
+- [[bluher-2026-obesity-management-medications-the]] · [[concept-endocannabinoid-system]] · [[concept-one-shot-learning]] — §1(2)의 리모나반트 재해석("학습 규칙을 껐다").
+- [[concept-anhedonia]] · [[concept-compulsion]] — 임계값 양방향 고장의 임상 표현형(과소 지속 / 과잉 지속).
+- [[jamieson-2026-neural-circuits-for-mammalian-parental]] — 축 간 arbitration 시냅스의 검증 template(AgRP/NPY→MPOA).
+- [[mice-2026-multi-animal-interaction-context-encoder]] · [[concept-computational-ethology]] · [[liu-2025-castle-a-training-free-foundation-model]] — 종별 파운데이션 모델 후보.
+- [[ha-2024-hypothalamic-neuronal-activation-non-human]] — 위키 안의 유일한 영장류 플랫폼(김형 교수팀 STN 축의 공백과 대비).
+- [[overview-future-research-directions]] · [[overview-research-proposals]] — 상위 로드맵과 과제별 전개.
+- [[person-choi-hyung-jin]] — 연구책임자·랩 역량 매트릭스.
