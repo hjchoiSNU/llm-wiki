@@ -71,6 +71,16 @@
 
 역방향 링크 16건 추가·수정(모두 `updated: 2026-11-23`): [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]](본문 문장 교체 + 링크)·[[concept-lateral-habenula]]·[[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]]·[[concept-compulsion]]·[[concept-anhedonia]]·[[concept-will-volition-motivation]]·[[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]]·[[concept-effort-based-decision-making]]·[[azevedo-2020-a-limbic-circuit-selectively-links]]·[[zhao-2026-serotonin-neurons-in-the-dorsal]]·[[jia-2026-novelty-exploration-activated-ensemble-in]]·[[concept-dopamine-reward-system]]. [[index|index.md]]에 🧩 인지&행동·🎯 도파민&보상·동기 두 곳 등재(Holton 항목 직후, 교차 표기) + [[concept-lateral-habenula]] 요약 줄에 LHb→MRN 축 추가, 총 페이지 565→566. 깨진 링크 0건(신규 페이지 고유 링크 29개 전부 존재). 남은 2순위 ingest: Chu & Schulz 2022 · Holton 2024 NHB · Aenugu & O'Doherty 2025 · Costello 2023·Jeong 2022. 웹 미사용.
 
+## 2026-11-23 — lint (자가 증식하는 감사 수치 교정, Opus 5)
+
+앞 항목에서 [[concept-lh-gabaergic-neurons]] §5-7에 적은 **"`MRR` 20줄 중 16줄이 LHb 동반"** 수치를 뺐다. 「생존·관계·이상 분자기전 지도」 세션이 독립 감사에서 **26줄 중 18줄**을 보고했고, 다시 재니 **31줄 중 20줄**이었다.
+
+- **원인**: `MRR`을 감사한 메모 자체가 `MRR` 줄을 늘린다. 같은 날 세 번 센 값이 20 → 26 → 31로 움직였고, `LH`·`LHA`와 함께 나오는 `MRR` 줄은 **전부 오늘 양쪽이 추가한 감사 메모**이지 회로 주장이 아니다. **자기 자신을 세는 지표**였다.
+- **조치**: §5-7에서 줄 수를 빼고 **안정된 결론만** 남겼다 — "`MRR` 언급은 모두 `MRR`→LHb 혐오 축이고 **LH 출력 주장은 0건**, 따라서 '세 주장 / 두 핵' 계산은 유효". 두 세션이 독립 수행해 결론이 일치했다는 점과, 줄 수를 인용하지 말라는 경고를 함께 적었다.
+- 통일 권고(미실행, 사용자 승인 사항)도 한 줄 병기: median은 `MRN`, dorsal은 `DRN`이 다수 표기다.
+- 참고: 철회된 단정("`MRR`와 `MRN`은 같은 핵이다")은 **log.md에만** 남아 있고 본문 페이지들은 상대 세션이 교정했다 — log는 append-only 이력이므로 그대로 둔다.
+- `wiki_lint.py` 오류 0건·경고 0건. 웹 미사용. hub 외 페이지는 건드리지 않았다.
+
 ## 2026-11-23 — lint (raphe 약어 2핵 4표기 감사, hub §5-7 보강, Opus 5)
 
 「생존·관계·이상 분자기전 지도」 세션이 위키 전체 raphe 표기를 감사해 **2개 핵이 4개 약어로 쓰이고 있다**고 알려 왔다(`MRR`도 median raphe). [[concept-lh-gabaergic-neurons]] §5-7에 반영하기 전에 직접 확인했다.
