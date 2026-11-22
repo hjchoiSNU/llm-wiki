@@ -8,6 +8,12 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-22 — query (새 그랜드 퀘스트 제목 "생존·관계·이상을 추구하거나 포기하는…"에 대한 5문항 재검토)
+
+`raw/`에 올라온 그랜드 퀘스트 자료 11건(제안서 docx, 콜로퀴엄 2판·사진판, 15분판, Gemini/ChatGPT 정리판, 공동연구자 자료 3건[김형 영장류 STN·성지혜 센서/OptoXR·신정환 파킨슨], 별첨 도식 PDF, 공모 PDF)을 읽고 위키 근거만으로 평가(웹 미사용). 핵심 제안 4가지 — ① **통념 절의 '단일성 전제'는 방어 불가**: [[redish-2016-the-computational-complexity-of-valuation]]이 이미 common currency를 폐기 고려하고 [[concept-need-motivation-pleasure-utility|NMPU]]·liking/wanting 해리도 같은 방향 → 통념을 "**동기의 차원은 행동 종결점이 정한다**"와 "**포기는 추구의 부재다**"로 교체 권고. ② 제목에 들어온 '**포기**'가 위키 자산과 정확히 맞물림: [[holton-2026-the-adaptive-value-of-stubborn]]의 apathy 역설(over-persistence)·disengagement 메타분석 역설, [[concept-goal-commitment]]의 patch-leaving·momentum, [[azevedo-2020-a-limbic-circuit-selectively-links]]의 **능동 도피 특이 LS^Nts**(묶이면 활성 감소)가 "포기 = 전용 기전" 주장의 현존 근거. 도전 가설을 **크기(얼마나 남았나) → 이탈 임계값(언제 그만두나)**으로 재정식화 제안. ③ '왜 지금'의 1순위 근거는 자살률이 아니라 [[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka|Lodder 2026]]: [[concept-will-volition-motivation|Kang 2011의 "의지=tonic DA" 가설]]이 올해 처음 인과 실측됨(DREADD 양방향 → PR breakpoint), 성지혜 OptoXR이 겨누는 수용체·세포타입 층이 바로 그 분리가 일어나는 층. ④ '관계' 축의 동물 측정 공백에 대한 답은 [[korotkova-2026-balancing-acts-lateral-hypothalamic]]·[[petzold-2023-complementary-lateral-hypothalamic-populations]]·[[figge-schlensok-2025-a-lateral-hypothalamic-neuronal]]의 LH^LepR(생존 축 억제 + social 촉진 + anxiety 저하, Ebf1 공발현) — H1("공통 이득 + 축 특이")의 유일한 분자 수준 전례. 탐색전략 보강: FM 축의 성공 기준을 [[concept-joint-brain-behaviour-modelling|linear identifiability·embedding 붕괴]]로 못 박고(음성 결과가 해석 가능), effort 과제에 **switch/abandon 조건** 추가. '동기 안전성'은 이미 현재 문제 — [[mehrhof-2026-computational-phenotyping-of-effort]](T2D acceptance bias↓, semaglutide 미회복·단면)·[[bluher-2026-obesity-management-medications-the]](중추 표적의 우울·자살사고 위험, rimonabant 계열 철수).
+
+정직한 공백(위키·raw 모두 자료 없음): 유한성·memento mori의 실증 문헌, 파킨슨 apathy·자살률(신정환 자료의 Costello 2023·Jeong 2022), 말기 환자 47% 출처, 일벌·문어 자기희생, 영장류 STN 가치기반 행동, '이상' 축의 동물 측정법. **1순위 ingest 권고: Ahmadlou 2025 Nature**(perseverative·exploratory·**disengaged** 상태의 subcortical switchboard) — [[holton-2026-the-adaptive-value-of-stubborn]]이 인용하지만 원전이 위키에 없고, 새 제목의 '포기'에 가장 직접적인 회로 근거. 위키 페이지 변경 없음.
+
 ## 2026-11-22 — other (그랜드 퀘스트 페이지 파일명 변경)
 `overview-grand-quest.md` → **`overview-grand-quest-feeding-as-learning.md`** (다른 그랜드 퀘스트 문서가 생길 경우를 대비해 주제를 파일명에 명시). [[overview-grand-quest-feeding-as-learning]]로 가는 링크 11곳 일괄 교체 — [[index|index.md]]·[[log|log.md]] 포함, 역방향 링크 9개 페이지 전부. 깨진 링크 0건 확인. 웹 미사용.
 
