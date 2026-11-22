@@ -8,7 +8,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 ---
 
 > [!takeaway] 연구 방향 관점의 핵심
-> **"LH^Vgat = 섭식 engine"은 위키 안에서 더는 유지되지 않는 한 줄이다.** 같은 Vgat⁺ 집단이 ① 섭식·보상을 구동하고([[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]), ② **행동성 체온조절에 필수**이며([[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]]), ③ 상당수가 **혐오 열자극에 흥분하는 valence 무관 salience 코더**이고([[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]), ④ cue–보상 **학습**에 필요하며([[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]]), ⑤ bulk로 켜면 섭취가 아니라 **갉기**가 나온다([[de-vrind-2019-effects-of-gaba-and|de Vrind 2019]]). 이 다섯 가지는 서로를 반박하지 않는다 — **측정 창·조작 양식·대조 자극이 다른 축들**이다(§2는 여섯 축으로 나눠 다룬다).
+> **"LH^Vgat = 섭식 engine"은 위키 안에서 더는 유지되지 않는 한 줄이다.** 같은 Vgat⁺ 집단이 ① 섭식·보상을 구동하고([[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]), ② **행동성 체온조절에 필수**이며([[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]]), ③ 상당수가 **혐오 열자극에 흥분하는 valence 무관 salience 코더**이고([[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles|Lee 2026]]), ④ cue–보상 **학습**에 필요하며([[sharpe-2017-lateral-hypothalamic-gabaergic-neurons|Sharpe 2017]]), ⑤ bulk로 켜면 섭취가 아니라 **갉기**가 나온다([[de-vrind-2019-effects-of-gaba-and|de Vrind 2019]]), ⑥ MRN으로 가는 가지는 "지금 하던 것을 계속할지"(**고집**)를 정한다([[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]]). 이 여섯 가지는 서로를 반박하지 않는다 — **측정 창·조작 양식·대조 자극이 다른 축들**이다(§2는 일곱 축으로 나눠 다룬다).
 > 사용자 연구에 주는 셋. (1) [[concept-need-motivation-pleasure-utility|NMPU]]에서 LH를 Motivation 노드로 둘 때 **LH^Vgat 전체 활성을 Motivation으로 읽으면 체온 동기·valence 무관 salience·구강운동 프로그램이 함께 섞여 들어간다**. 사용자 lab의 분자 정의 집단([[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]])이 Motivation 축에 더 가까운 이유도 여기에 있다. (2) **투사 기반 표적화 경고가 서로 다른 lab·기법에서 두 번 독립으로 나왔다** — 열 처벌 vs 칼로리 집단(Jung 2022 Fig S7), salience vs 섭취 집단(Lee 2026 Cal-Light) 모두 투사 패턴으로 갈리지 않았다. [[proposal-lh-nac-nmpu-neuron-discovery|LH–NAc 발굴 과제]]는 분자 정체 또는 기능 태깅을 써야 한다. (3) **섭취량 그램수 단일 지표는 이 집단에서 특히 위험하다** — 갉기 spillage·bout 구조·phase를 가르지 못한다.
 > 분자 정체는 아직 비어 있다. 기능으로 정의된 ensemble과 전사체 클러스터(억제성 15개, [[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]])의 **대응표는 위키 어디에도 없다**.
 
@@ -54,7 +54,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 
 ## 2. 기능 축별 결과
 
-> 아래 여섯 축은 **같은 Vgat⁺ 집단**에서 보고된 것이다. 서로 모순이 아니라 **측정 창·조작 양식·대조 자극이 다른 축**이다(§5 참조).
+> 아래 일곱 축은 **같은 Vgat⁺ 집단**에서 보고된 것이다. 서로 모순이 아니라 **측정 창·조작 양식·대조 자극이 다른 축**이다(§5 참조).
 
 ### 2.1 섭식·보상 — "engine" 축
 - **양방향 광유전 조작**(자유행동 마우스, [[jennings-2015-visualizing-hypothalamic-network-dynamics|Jennings 2015]]): ChR2 활성(20 Hz, 자유급식) → food zone 체류(F2,27=86.24, p<0.0001)·섭취(F2,27=17.05, p<0.0001)·실시간 장소선호(t8=6.796, p<0.0001)·자가자극(t5=5.744, p=0.0012) 모두 ↑. eArch3.0 억제(먹이제한) → 체류(F1,16=9.39, p=0.007)·섭취(F1,16=5.43, p=0.033) ↓ 및 장소 혐오(t8=4.512, p=0.002).
@@ -115,6 +115,16 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 - ⚠️ **운동 방향도 조작에 따라 갈린다** — [[korotkova-2026-balancing-acts-lateral-hypothalamic|Korotkova 2026]] Box 1은 LH GABAergic을 "behavioral activation"으로 적지만 de Vrind의 Vgat 활성은 운동을 **줄였다**(저자도 영상 기반 수평 이동만 쟀다는 한계를 인정; telemetry를 쓴 Qualls-Creekmore 2017과는 반대 방향).
 - **갉기(gnawing)는 반복되는 표현형이다** — LH^Vgat hM3Dq([[de-vrind-2019-effects-of-gaba-and|de Vrind 2019]]·[[jung-2022-a-forebrain-neural-substrate-for|Jung 2022]] Fig S6), LHA Sst⁺ hM3Dq(P=0.011, [[mickelsen-2019-single-cell-transcriptomic-analysis-of|Mickelsen 2019]]), 저주파/고주파 광자극 분기(Barbano 2016, 위키에 1차 페이지 없음)에서 모두 나온다. 반면 macaque에서는 이상 갉기가 **없다**([[ha-2024-hypothalamic-neuronal-activation-non-human|Ha 2024]]) → [[concept-consumption-vigor]].
 
+### 2.7 고집(perseverance) — "지금 하는 것을 계속할지"
+[[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]](Nature, Hofer lab; 2026-11-23 ingest). **아래 수치·방향은 모두 원문 PDF 대조 확인.**
+- **해부**: MRN(median raphe nucleus)에서 역추적하면 **두 주요 입력이 LHA와 LHb**다(원문 p.6). LHA→MRN 입력은 **주로 GABAergic**이다.
+- **인과 — 활성**: MRN 안의 LHA^VGAT 축삭을 광활성하면 opto 포트·chamber 선호가 올라가고(**양성 valence**), MNOI 과제에서 **고집 상태의 지속이 크게 증가**하며, TMT(포식자 냄새) 혐오를 **압도해** 혐오 물체와도 깊은 상호작용을 만든다 — MRN^VGAT를 억제했을 때와 같은 모습이다(원문 p.9, Fig 6c·Extended Data Fig 12). ⚠️ 이 조작은 **각성도 함께 올린다**(Extended Data Fig 12e–i).
+- **인과 — 침묵**: 같은 축삭을 침묵시키면 고집 상태가 줄고 **물체당 체류가 크게 짧아져 지속 상호작용 자체가 안 되며**, reversal T-maze에서 훈련된 보상 팔 대신 비보상 팔을 더 고른다. ⚠️ 이때 **각성은 바뀌지 않는다**(원문 p.10) — 저자들은 이 대조를 근거로 "탐색을 구동한다"가 아니라 **"특정 행동·목표에 대한 지속적 관여를 막는다"**로 읽는다.
+- **기전**: LHA^VGAT→MRN이 **MRN^VGAT를 억제**한다(원문 p.10). 광계측에서 MRN 안 LHA^VGAT 축삭은 **깊은 상호작용 중과 고집 상태 전반에 칼슘 활성이 오른다**.
+- **이 hub에 주는 함의**: 같은 Vgat⁺ 집단이 "무엇을 먹을지·어디로 갈지"가 아니라 **"지금 하던 것을 계속할지"** 라는 또 다른 변수를 싣는다. ⚠️ 단 이 LHA^VGAT는 **전달물질로만 정의**됐고 [[lee-2023-lateral-hypothalamic-leptin-receptor|LH^LepR]] 등 분자 하위집단과의 관계는 미검증이다(§5 미해결 1과 같은 공백).
+- ⚠️ **"위키에 없던 투사"가 아니다**: [[liu-2026-granular-motivational-interaction-and|Liu 2026]] Initiation 절이 **"LH^GABA→MRN^GABA 억제 = deep interaction"** 을 이미 2차 인용으로 담고 있었다. Ahmadlou 2025는 그 1차 원전이다.
+
+
 ## 3. 입력과 출력
 
 ### 3.1 입력
@@ -137,6 +147,7 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 | **VTA** | GABA성 기능 시냅스(IPSC 182.26 ± 39.62 pA, picrotoxin으로 8.15 ± 1.72 pA까지 차단). VTA GABA 뉴런을 DA보다 강하게 억제 → **disinhibition → NAc DA↑** | [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons\|Sharpe 2017]]·[[nieh-2016-inhibitory-input-from-the\|Nieh 2016]] |
 | **striatum 전역**(간접) | LHA^GABA 자극 → **전방**(NAcCR·NAcCC·NAcShL·DMS·DLS)에서 DA↑, **TS는 아님**. LHA^Glut는 거의 거울상(TS 평균 z: 대조 0.41 / GABA 1.76 / Glut 14.65). **두 집단의 비(LHA^Ratio)** 가 가치·valence를 연속 변수로 싣는다 | [[gordon-2026-lateral-hypothalamic-control-of-the\|Gordon 2026]](원문 대조 확인) |
 | **whole-brain 지도**(rat, serial 2-photon) | LH 국소·**LHb·amygdala·BNST·septum·VTA(parabrachial pigmented area)·ventrolateral PAG·IL/PL mPFC**. VTA는 여러 표적 중 하나일 뿐 | [[sharpe-2017-lateral-hypothalamic-gabaergic-neurons\|Sharpe 2017]] |
+| **MRN**(median raphe) | LHA→MRN 입력은 **주로 GABAergic**이고 MRN의 **두 주요 입력 중 하나**(나머지가 LHb). LHA^VGAT→MRN은 **MRN^VGAT를 억제**해 **고집(perseverance)** 을 올린다 — 활성은 양성 valence·각성↑, 침묵은 지속 상호작용 불가(각성 불변) | [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative\|Ahmadlou 2025]](원문 대조 확인) |
 | **PAG** | LH→PAG가 전달물질로 갈린다 — **GABA = 사냥, Glut = 도피**(Li 2018 경유) | [[korotkova-2026-balancing-acts-lateral-hypothalamic\|Korotkova 2026]] |
 | **LHb** | ⚠️ LH^GABA→LHb는 **약하고** 대신 LHb 바로 아래 정중선 thalamus(PVT)를 지배한다 | [[stuber-2016-lateral-hypothalamic-circuits-for\|Stuber 2016]] |
 | **dLS(상행)** | ⚠️ **GABA 축이 아니다** — perifornical CTb⁺Sst⁺의 75.3%가 *Slc17a6*⁺이고 *Slc32a1*⁺는 16.4%. Vgat-Cre 순행 섬유는 희박 | [[mickelsen-2019-single-cell-transcriptomic-analysis-of\|Mickelsen 2019]] |
@@ -291,6 +302,10 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 | LH GABA 뉴런 **78% 연결(28/36, n=3)**, 평균 **803 ± 217 pA**; rabies EGFP 뉴런의 **97%**가 tdTomato⁺(D1R-MSN) | O'Connor 2015, Fig 6 본문 p.559 | 일치 |
 | 포만 중 D1R-MSN 광억제 → 섭취↑ **F(1,19)=5.55, p<0.05**; LH^Vgat 직접 광억제(24 h 금식) **F(1,9)=8.64, p<0.05**; closed-loop 3-lick burst 분포 **F(1,9)=86.6, p<0.001** | O'Connor 2015, Fig 3·6 범례 | 일치 |
 | ⚠️ biocytin 62개 중 연결 29개(47%) — 단 **MCH 염색은 25개(연결 14개 중 0개)**, **orexin-A 염색은 27개(연결 10개 중 0개)** | O'Connor 2015, Fig 5 본문 p.558 | **정밀화**: 연결 29개 전부를 두 마커로 염색한 것이 아니다 |
+| MRN의 **두 주요 입력 = LHA·LHb**(retrograde virus tracing) | Ahmadlou 2025, p.6 | 일치 |
+| LHA^VGAT→MRN **활성** → opto 포트/장소 선호↑·고집 상태 지속↑·TMT 혐오 압도, **각성도 ↑**(ED Fig 12e–i) | Ahmadlou 2025, p.9 | 일치 |
+| LHA^VGAT→MRN **침묵** → 고집↓·물체당 체류 급감·T-maze 비보상 팔 선택↑, **각성은 불변** | Ahmadlou 2025, p.10 | **정밀화**: '각성 불변'은 **침묵 조건에만** 해당한다(활성은 각성↑) |
+| 기전: LHA^VGAT→MRN이 **MRN^VGAT를 억제** | Ahmadlou 2025, p.10 | 일치 |
 
 **해소된 1건**: [[gordon-2026-lateral-hypothalamic-control-of-the|Gordon 2026]] 페이지의 NAcShL 로지스틱 회귀 p값이 `1.1e-6`으로 적혀 있으나 원문은 **1.07e−6**이다(반올림 표기 차이, 결론 불변).
 
@@ -368,4 +383,4 @@ aliases: [LH^Vgat, LHA^GABA, LH^GABA, LH GABA, LHA GABA, Slc32a1 LH]
 - [[whiting-2013-lateral-hypothalamic-area-deep]] · [[whiting-2019-deep-brain-stimulation-of]] · [[concept-deep-brain-stimulation]] — 인간 LHA DBS의 RMR 상승과 그 세포 후보(§2.6)
 - [[proposal-lh-nac-nmpu-neuron-discovery]] · [[proposal-lh-nac-nmpu-nrf-junggyeon]] — ★ 본 페이지 §5-7의 투사 기반 표적화 경고가 직접 겨냥하는 연구계획서
 - [[person-choi-hyung-jin]] · [[person-stuber-garret]] · [[person-korotkova-tatiana]] — 인물 hub
-- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — LH^Vgat의 **일곱 번째 축: 고집(perseverance)**. LHA^VGAT→median raphe nucleus 투사가 양성 valence를 실어 MRN^VGAT를 억제하고, 활성은 고집·침묵은 지속 상호작용 불가를 만든다(각성 불변). 본 hub의 "섭식 engine이 아니다" 논지에 **섭취·체온·salience·학습과 또 다른 축**을 더하며, 투사 기반 표적화 경고와도 맞물린다. ⚠️ 이 LHA^VGAT는 전달물질로만 정의됐고 **LH^LepR과의 관계는 미검증**이다 — 2026-11-23 위키 확인 결과 `LH^LepR→MRN`은 **0건**이고, LepR/Nts 집단의 raphe 투사는 **dorsal raphe(DR)** 로 기록돼 있으며([[bonnavion-2016-hubs-and-spokes-of]]) 위키가 MRN 투사로 적은 LH 집단은 **MCH(LepR 미발현)** 뿐이다. 과제를 "LH^LepR의 raphe 투사가 DR인가 MRN인가"로 좁힐 것. 투사 자체는 [[liu-2026-granular-motivational-interaction-and|Liu 2026]]에 2차 인용으로 이미 있었다.
+- ★ [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative|Ahmadlou 2025]] — LH^Vgat의 **일곱 번째 축: 고집(perseverance)**. LHA^VGAT→median raphe nucleus 투사가 양성 valence를 실어 MRN^VGAT를 억제하고, 활성은 고집·양성 valence·**각성↑**를, 침묵은 지속 상호작용 불가를 만든다(**각성 불변은 침묵 조건에만**). 본 hub **§2.7**로 반영했고, "섭식 engine이 아니다" 논지에 **섭취·체온·salience·학습과 또 다른 축**을 더하며, 투사 기반 표적화 경고와도 맞물린다. ⚠️ 이 LHA^VGAT는 전달물질로만 정의됐고 **LH^LepR과의 관계는 미검증**이다 — 2026-11-23 위키 확인 결과 `LH^LepR→MRN`은 **0건**이고, LepR/Nts 집단의 raphe 투사는 **dorsal raphe(DR)** 로 기록돼 있으며([[bonnavion-2016-hubs-and-spokes-of]]) 위키가 MRN 투사로 적은 LH 집단은 **MCH(LepR 미발현)** 뿐이다. 과제를 "LH^LepR의 raphe 투사가 DR인가 MRN인가"로 좁힐 것. 투사 자체는 [[liu-2026-granular-motivational-interaction-and|Liu 2026]]에 2차 인용으로 이미 있었다.

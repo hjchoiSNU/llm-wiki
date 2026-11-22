@@ -37,6 +37,17 @@
 
 역방향 링크 16건 추가·수정(모두 `updated: 2026-11-23`): [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]](본문 문장 교체 + 링크)·[[concept-lateral-habenula]]·[[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]]·[[concept-compulsion]]·[[concept-anhedonia]]·[[concept-will-volition-motivation]]·[[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]]·[[concept-effort-based-decision-making]]·[[azevedo-2020-a-limbic-circuit-selectively-links]]·[[zhao-2026-serotonin-neurons-in-the-dorsal]]·[[jia-2026-novelty-exploration-activated-ensemble-in]]·[[concept-dopamine-reward-system]]. [[index|index.md]]에 🧩 인지&행동·🎯 도파민&보상·동기 두 곳 등재(Holton 항목 직후, 교차 표기) + [[concept-lateral-habenula]] 요약 줄에 LHb→MRN 축 추가, 총 페이지 565→566. 깨진 링크 0건(신규 페이지 고유 링크 29개 전부 존재). 남은 2순위 ingest: Chu & Schulz 2022 · Holton 2024 NHB · Aenugu & O'Doherty 2025 · Costello 2023·Jeong 2022. 웹 미사용.
 
+## 2026-11-23 — ingest (LH^Vgat hub에 일곱 번째 축 '고집' 반영, Opus 5)
+
+「생존·관계·이상 분자기전 지도」 세션이 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]를 ingest하면서 [[concept-lh-gabaergic-neurons]]의 관련 페이지 절에 한 줄을 더했다고 알려 왔다. 그 축이 hub 본문에 빠져 있어(§2가 여섯 축인데 관련 페이지만 "일곱 번째 축"이라 적힘) **원문 PDF로 직접 검증한 뒤 §2.7로 승격**했다.
+
+- **원문 대조 4건 추가**(raw의 46쪽 PDF): MRN의 **두 주요 입력 = LHA·LHb**(retrograde, p.6) / LHA^VGAT→MRN **활성** → 선호↑·고집 지속↑·TMT 혐오 압도(p.9) / **침묵** → 고집↓·물체당 체류 급감·T-maze 비보상 팔 선택↑(p.10) / 기전 = **LHA^VGAT→MRN이 MRN^VGAT를 억제**(p.10). 전부 일치.
+- ⚠️ **정밀화 1건(hub의 backlink 줄)**: 그 줄이 "활성은 고집·침묵은 지속 상호작용 불가를 만든다**(각성 불변)**"로 압축돼 각성 서술이 두 조작 모두에 걸리는 것처럼 읽혔다. 원문은 **활성이 각성을 올리고**(ED Fig 12e–i, p.9) **침묵에서만 각성이 불변**이다(p.10) — 저자들이 "탐색 구동이 아니라 지속적 관여 차단"이라 읽는 근거가 바로 이 대조다. 조건을 분리해 고치고 §7 표에 **정밀화**로 기록했다. [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] **본문은 원래부터 정확했다**(활성 각성↑ / 침묵 각성 불변을 구분) — 수정 불필요.
+- hub 변경: §2 머리말·takeaway의 축 수 교정(여섯 → 일곱, ⑥ 고집 추가), **§2.7 신설**, §3.2 출력 표에 **MRN 행 추가**, §7 표 26행 → **30행**.
+- ⚠️ **"위키에 없던 투사"가 아니었다**는 그쪽 지적도 확인했다 — [[liu-2026-granular-motivational-interaction-and]] Initiation 절에 "LH^GABA→MRN^GABA 억제 = deep interaction"이 2차 인용으로 이미 있었고, Ahmadlou 2025가 그 1차 원전이다. hub §2.7에 그대로 병기했다.
+- 참고(미해결): Lee 2026 Cal-Light 태깅 집단의 투사 목록(DBB·VTA·DRN·PAG·periLC)에 **MRN은 없고 DRN만** 있다. LHA^VGAT→MRN이 salience·ingestion 두 ensemble 중 어느 쪽인지는 미측정 — hub §5 미해결과 같은 공백이다.
+- `wiki_lint.py` 오류 0건·경고 0건. 웹 미사용. 상대 세션 페이지·index는 건드리지 않았다.
+
 ## 2026-11-23 — ingest (O'Connor 2015 원본 투입 → `E source` 0건, 수치 1건 정밀화, Opus 5)
 
 전날 "원본 PDF 미보유"로 남겨 둔 [[oconnor-2015-accumbal-d1r-neurons-projecting]]의 PDF를 **사용자가 직접 `raw/`에 넣었다**(16,308,753 B, 27쪽). 신원 확인(Neuron 88:553–564, 2015-11-04) 후 페이지의 미보유 표기를 지우고, [[concept-lh-gabaergic-neurons]]가 인용한 수치를 원문과 대조했다.
