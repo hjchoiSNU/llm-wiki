@@ -8,6 +8,18 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — ingest (Ahmadlou 2025 Nature: 고집·탐색·포기의 median raphe switchboard, Opus 5)
+
+`raw/s41586-025-08672-1.pdf`(사용자가 2026-11-23 00:14 업로드, 파일명은 Nature DOI 형식 그대로 — raw는 읽기 전용이라 유지) 정리. [[overview-grand-quest-will-to-live]] §7이 **1순위 ingest로 지목했던 논문**이다. 신규 [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] — Nature 641:151–158, Hofer lab(Sainsbury Wellcome Centre, UCL).
+
+**핵심**: brainstem **median raphe nucleus(MRN)** 의 세 세포타입이 행동 전략을 나눠 맡는다 — **GABAergic(~60%) 억제 → 고집**(MNOI 세 상태 중 고집 99%, 탐색·포기 0에 수렴; reversal T-maze에서 이전 보상 팔 고집; 3-armed bandit 탐색 중단), **VGluT2⁺(~25%) 활성 → 탐색**(68%; 억제는 무효 = 탐색에 충분하되 불필요), **serotonergic(5–10%) 억제 → 포기**(55%, **각성·운동은 불변**; nose poke 과제 완료 시행↓ = 참여에 필요). 상류 두 입력이 전환을 구동: **LHA^VGAT→MRN**(GABAergic, 양성 valence)이 MRN^VGAT를 억제해 고집을 만들고, **LHb→MRN**(음성 valence)이 MRN^VGAT 일부를 거쳐 **MRN^SERT를 억제**해 포기(81%)·**anhedonia(sucrose preference↓)** 를 만든다. 두 축삭 조작 모두 **Neuropixels로 VTA 불변을 통제** → 도파민 비의존. MRN^SERT는 새 물체와의 **첫** deep interaction에만 반응(신규성·현저성). MRN^VGAT 억제·LHA^VGAT→MRN 활성은 **TMT(여우 오줌) 물체에 deep interaction까지** 유발(정상 개체에서 전무).
+
+**위키 효과 — 두 곳의 "원전 없음"을 닫았다**: [[concept-goal-commitment]]과 [[holton-2026-the-adaptive-value-of-stubborn]]이 "이탈 결정의 전용 신경 구조 후보(Ahmadlou 2025) — 위키에 원전 없음"으로 적어 둔 문장을 **본문에서 직접 교체**(두 페이지 모두 ACC Kolling 2012·Tervo 2021은 여전히 원전 없음으로 남김). [[overview-grand-quest-will-to-live]]도 갱신: §2 통념 ②("포기는 추구의 부재다") 표에 네 번째 근거 행 추가, §3 도전 가설에 **회로 정체(LHb→MRN^VGAT→MRN^SERT 억제)** 와 임계값 해석(LHA→MRN은 이탈 임계값↑, LHb→MRN은 ↓) 추가, §7의 1순위 ingest를 **✅ 해결됨**으로 바꾸고 새 과제(`LH^LepR→MRN` 투사 존재 여부) 기록, takeaway·한 문장 요약도 "계산·분자·회로 세 층"으로 수정.
+
+**새로 생긴 회로 사실 2건**: ① **LH의 네 번째 출력축 LHA^VGAT→MRN** — 위키의 LH 출력 지도(LH→VTA·LH→LHb·LH→PAG)에 없던 표적이며 "무엇을 할지"가 아니라 **"지금 하는 것을 계속할지"** 를 정한다([[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]에 반영). ② **LHb의 두 번째 출력축 LHb→MRN** — [[concept-lateral-habenula]]의 LHb→RMTg→VTA 축과 **병렬**인 raphe 세로토닌 억제 경로이고 anhedonia를 VTA 없이 만든다. ⚠️ 같은 페이지가 MRR vGluT2⁺→LHb(Szőnyi 2019) **한 방향만** 적고 있어 양방향 병기 경고를 달았다.
+
+역방향 링크 16건 추가·수정(모두 `updated: 2026-11-23`): [[concept-goal-commitment]]·[[holton-2026-the-adaptive-value-of-stubborn]](본문 문장 교체 + 링크)·[[concept-lateral-habenula]]·[[concept-lateral-hypothalamus]]·[[concept-lh-gabaergic-neurons]]·[[overview-lateral-hypothalamus-synthesis]]·[[korotkova-2026-balancing-acts-lateral-hypothalamic]]·[[concept-compulsion]]·[[concept-anhedonia]]·[[concept-will-volition-motivation]]·[[lodder-2026-tonic-dopamine-regulates-cell-type-specific-pka]]·[[concept-effort-based-decision-making]]·[[azevedo-2020-a-limbic-circuit-selectively-links]]·[[zhao-2026-serotonin-neurons-in-the-dorsal]]·[[jia-2026-novelty-exploration-activated-ensemble-in]]·[[concept-dopamine-reward-system]]. [[index|index.md]]에 🧩 인지&행동·🎯 도파민&보상·동기 두 곳 등재(Holton 항목 직후, 교차 표기) + [[concept-lateral-habenula]] 요약 줄에 LHb→MRN 축 추가, 총 페이지 565→566. 깨진 링크 0건(신규 페이지 고유 링크 29개 전부 존재). 남은 2순위 ingest: Chu & Schulz 2022 · Holton 2024 NHB · Aenugu & O'Doherty 2025 · Costello 2023·Jeong 2022. 웹 미사용.
+
 ## 2026-11-23 — ingest (O'Connor 2015 원본 투입 → `E source` 0건, 수치 1건 정밀화, Opus 5)
 
 전날 "원본 PDF 미보유"로 남겨 둔 [[oconnor-2015-accumbal-d1r-neurons-projecting]]의 PDF를 **사용자가 직접 `raw/`에 넣었다**(16,308,753 B, 27쪽). 신원 확인(Neuron 88:553–564, 2015-11-04) 후 페이지의 미보유 표기를 지우고, [[concept-lh-gabaergic-neurons]]가 인용한 수치를 원문과 대조했다.
