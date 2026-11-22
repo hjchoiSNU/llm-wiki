@@ -8,6 +8,16 @@
 한 줄 요약. 변경된 페이지는 [[wikilink]]로.
 ```
 
+## 2026-11-23 — lint (`MRR`=`MRN` 단정을 유보로 교정 + MRR 감사 재확인, Opus 5)
+
+바로 앞 항목에서 **"`MRR`와 `MRN`은 같은 핵이다"** 라고 단정했는데, 병행 세션이 그 단정을 자기 hub에서는 유보로 적었다고 알려 와 직접 재확인했다. **지적이 맞다 — 위키에는 두 용어의 범위를 정의한 문장이 없다.** `MRR = median raphe region`은 [[concept-lateral-habenula]] aliases·21행과 [[luscher-2021-consolidating-the-circuit-model-for]]에 명시돼 있지만, `region`과 `nucleus`가 정확히 같은 범위인지는 어디에도 없고 Szőnyi 2019도 "마우스 median raphe의 vGluT2⁺ 뉴런"으로만 소개된다. 핵심 원칙 ③(honest gaps)에 걸리는 과잉 단정이었다.
+
+→ 두 곳을 **"둘 다 median raphe를 가리킨다 + 범위 동일성은 위키에서 확인되지 않음"** 으로 교정: [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]] ⚠️ 절의 약어 지도 · [[concept-lateral-habenula]] backlink 줄. **LHb 양방향 결론 자체는 유지**한다 — 어느 범위로 잡아도 median raphe이므로 유보와 무관하게 성립한다.
+
+**MRR 감사 재확인(직접 수행)**: 위키의 `MRR` 26줄 중 18줄이 LHb와 동반하고 전부 MRR→LHb 혐오 축(Szőnyi 2019 계열)이다. **`MRR` 표기 아래 숨은 LH 출력 주장은 0건**(LH·LHA를 함께 언급하는 MRR 줄은 2026-11-23에 내가 추가한 약어 지도 줄들뿐). → "LH→raphe 주장 3건 / 핵 2개"(**DR**: [[liu-2023-an-iterative-neural-processing]] / **DRN**: [[lee-2026-distinct-lateral-hypothalamic-gabaergic-ensembles]] / **MRN**: [[ahmadlou-2025-a-subcortical-switchboard-for-perseverative]]) 계산이 유효하고, **DR과 MRN을 구분해 역추적한 LH 자료는 위키에 0건**이라는 결론도 그대로다. 이 확인 결과를 ahmadlou 페이지 약어 지도에 한 줄로 적었다.
+
+약어 통일(`DR`↔`DRN`, `MRN`↔`MRR`)은 양쪽 세션 모두 **미실행**이며 사용자 승인 사항으로 남긴다(다음 건강검진 후보). 웹 미사용.
+
 ## 2026-11-23 — lint (raphe 약어 감사: 2핵 4표기 → `MRR`=`MRN` 동일핵 확인, Opus 5)
 
 병행 세션이 hub §5 미해결 7번("LH^GABA의 raphe 출력이 두 핵에 걸쳐 있는데 구분해 잰 자료가 없다")을 신설했다고 알려 와, 위키 전체의 raphe 표기를 감사했다.
